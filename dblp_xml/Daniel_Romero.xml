@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Romero</FullName>
+	<publication>
+		<title>RESTful Integration of Heterogeneous Devices in Pervasive Environments</title>
+		<year>2010</year>
+		<authors>gabriel hermosillo,amirhosein taherkordi,russel nzekwa,romain rouvoy,frank eliassen</authors>
+		<jconf>Distributed Applications and Interoperable Systems</jconf>
+		<label>170</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Service Discovery in Ubiquitous Feedback Control Loops</title>
+		<year>2010</year>
+		<authors>romain rouvoy,lionel seinturier,pierre carton</authors>
+		<jconf>Distributed Applications and Interoperable Systems</jconf>
+		<label>170</label>
+		<keyword>Feedback Control;Service Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reconfigurable run-time support for distributed service component architectures</title>
+		<year>2010</year>
+		<authors>rémi mélisson,philippe merle,romain rouvoy,lionel seinturier</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>170</label>
+		<keyword>Architecture Description Language;Automatic Generation;Component Based Software Engineering;Component Model;Distributed Architecture;Middleware;Service Orientation;Service Oriented Architecture;Time Management;Service Component Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>SCA (Service Component Architecture) is an OASIS standard for describing service-oriented middleware architectures. In particular, SCA promotes a disciplined way for designing distributed architectures based on a component model and an Architecture Description Language (ADL). However, SCA does not cover the deployment and the run-time management of SCA applications. In this paper, we therefore describe the FraSCAti platform, which provides</abstract>
+	</publication>
+	<publication>
+		<title>The Purkinje System and Cardiac Geometry: Assessing Their Influence on the Paced Heart</title>
+		<year>2009</year>
+		<authors>rafael sebastián,bart bijnens,viviana zimmerman,patrick m. boyle,edward j. vigmond,alejandro f. frangi</authors>
+		<jconf>Functional Imaging and Modeling of the Heart</jconf>
+		<label>171</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

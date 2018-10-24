@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaojing Ma</FullName>
+	<publication>
+		<title>A Scalable Multicast Key Management to Expel a Malicious Receiver in MARKS</title>
+		<year>2007</year>
+		<authors>zhitang li,li yao,jiping zhang</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>1111</label>
+		<keyword>Key Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

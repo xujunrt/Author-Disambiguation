@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Meister</FullName>
+	<publication>
+		<title>Agents Enacting Social Roles. Balancing Formal Structure and Practical Rationality in MAS Design</title>
+		<year>2005</year>
+		<authors>diemo urbig,kay schröter,renate gerstl</authors>
+		<jconf>DFKI Publications</jconf>
+		<label>651</label>
+		<keyword>Agent Architecture;Integrated Approach;organisational structure;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce an integrated approach to the conceptualisation, imple- mentation and evaluation of a MAS (multi-agent system) which is based on so- ciological concepts of practical roles and organisational coordination via negoti- ations. We propose a middle level of scale, located between interaction and the overall organisational structure, as the starting point for MAS design, with formal and practical modes</abstract>
+	</publication>
+</person>

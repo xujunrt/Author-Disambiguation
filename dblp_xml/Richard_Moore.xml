@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Richard Moore</FullName>
+	<publication>
+		<title>Scrum at a Fortune 500 Manufacturing Company</title>
+		<year>2007</year>
+		<authors>kelly reff,james graham,brian hackerson</authors>
+		<jconf>Agile Development Conference</jconf>
+		<label>868</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

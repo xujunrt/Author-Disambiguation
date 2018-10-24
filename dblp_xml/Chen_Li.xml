@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chen Li</FullName>
+	<publication>
+		<title>An Integrated Microcomputer System for Real-time Monitoring of Luminescent Signals From Multiple-well Disks</title>
+		<year>1997</year>
+		<authors>ruan fu-chang,li xiang-ming</authors>
+		<jconf>Computational Biology and Chemistry / Computers &amp; Chemistry</jconf>
+		<label>127</label>
+		<keyword>Real-time Monitoring;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Randomized Zero Testing of Radical Expressions and Elementary Geometry Theorem Proving</title>
+		<year>2000</year>
+		<authors>daniela tulone,chee-keng yap</authors>
+		<jconf>Automated Deduction in Geometry</jconf>
+		<label>128</label>
+		<keyword>Theorem Prover;Theorem Proving;Vanishing of;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a probabilistic test for the vanishing of radical expressions, that is, expressions involving the four rational operations (+; ; ; ) and square root extraction. This extends the well-known Schwartz's probabilistic test for the vanishing of polynomials. The probabilistic test forms the basis of a new theorem prover for conjectures about ruler &amp;amp;amp; compass constructions. Our implementation uses</abstract>
+	</publication>
+	<publication>
+		<title>A new constructive root bound for algebraic expressions</title>
+		<year>2001</year>
+		<authors>chee-keng yap</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>128</label>
+		<keyword>Exact Geometric Computation;Geometric Program;</keyword>
+		<organization>null</organization>
+		<abstract>Computing effective root bounds for constant algebraic expressions is a critical problem in the Exact Geometric Computation approach to robust geometric programs. Classical root bounds are often non-constructive. Recently, various authors have proposed bounding methods which might be called constructive root bounds. For the important class of radical expressions, Burnikel et al (BFMS) have provided a constructive root bound which,</abstract>
+	</publication>
+	<publication>
+		<title>Recent progress in exact geometric computation</title>
+		<year>2005</year>
+		<authors>sylvain pion,chee-keng yap</authors>
+		<jconf>The Journal of Logic and Algebraic Programming</jconf>
+		<label>128</label>
+		<keyword>Exact Geometric Computation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Floorplan management: incremental placement for gate sizing and buffer insertion</title>
+		<year>2005</year>
+		<authors>cheng-kok koh,patrick h. madden</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>129</label>
+		<keyword>Buffer Insertion;High Performance;Large Scale;Physical Design;</keyword>
+		<organization>null</organization>
+		<abstract>Incremental physical design is an important methodology towards achieving design closure for high-performance large-scale circuits. Placement tools must accommodate incremental changes to the lay- out and netlist due to physical synthesis techniques without perturb- ing the original metrics. We present an incremental placement ap- proach using oorplan sizing to manage the resources and demands of the whole chip region in</abstract>
+	</publication>
+	<publication>
+		<title>Routability-driven placement and white space allocation</title>
+		<year>2004</year>
+		<authors>min xie,cheng-kok koh,jason cong,patrick h. madden</authors>
+		<jconf>International Conference on Computer Aided Design</jconf>
+		<label>129</label>
+		<keyword>Design Automation;Indexing Terms;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>We present a two-stage congestion-driven placement flow. First, during each refinement stage of our multilevel global placement framework, we replace cells based on the wirelength weighted by congestion level to reduce the routing demands of congested regions. Second, after the global placement stage, we allocate appropriate amounts of white space into different regions of the chip according to a congestion</abstract>
+	</publication>
+	<publication>
+		<title>Recursive bisection based mixed block placement</title>
+		<year>2004</year>
+		<authors>ateen khatkhate,ameya r. agnihotri,mehmet can yildiz,satoshi ono,cheng-kok koh,patrick h. madden</authors>
+		<jconf>International Symposium on Physical Design</jconf>
+		<label>129</label>
+		<keyword>Block Design;Macro Block;</keyword>
+		<organization>null</organization>
+		<abstract>Many current designs contain a large number of standard cells intermixed with larger macro blocks. The range of size in these &quot;mixed block&quot; designs complicates the placement process considerably; traditional methods produce results that are far from satisfactory.In this paper we extend the traditional recursive bisection standard cell placement tool Feng Shui to directly consider mixed block designs. On a</abstract>
+	</publication>
+	<publication>
+		<title>Recursive Function Smoothing of Half-Perimeter Wirelength for Analytical Placement</title>
+		<year>2007</year>
+		<authors>cheng-kok koh</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>129</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mixed block placement via fractional cut recursive bisection</title>
+		<year>2005</year>
+		<authors>ameya r. agnihotri,satoshi ono,mehmet can yildiz,ateen khatkhate,cheng-kok koh,patrick h. madden</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>129</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Routability-Driven Placement and White Space Allocation</title>
+		<year>2007</year>
+		<authors>min xie,cheng-kok koh,jason cong,patrick h. madden</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>129</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Postlayout optimization for synthesis of Domino circuits</title>
+		<year>2006</year>
+		<authors>aiqun cao,ruibing lu,cheng-kok koh</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>129</label>
+		<keyword>Technology Mapping;Time Constraint;</keyword>
+		<organization>null</organization>
+		<abstract>Logic duplication, a commonly used synthesis technique to remove trapped inverters in reconvergent paths of Domino circuits, incurs high area and power penalties. In this article, we propose a synthesis scheme to reduce the duplication cost by allowing inverters in Domino logic under certain timing constraints for both simple and complex gates. Moreover, we can include the logic duplication minimization</abstract>
+	</publication>
+	<publication>
+		<title>Using Trust for Restricted Delegation in Grid Environments</title>
+		<year>2005</year>
+		<authors>wenbao jiang,shuang hao,yiqi dai</authors>
+		<jconf>Information Security Practice and Experience</jconf>
+		<label>130</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Service-Oriented Architecture for Semantic Recommendation and Integration of Products/Application Services (SOA-RIPAS) in Globalization</title>
+		<year>2007</year>
+		<authors>jiayin qi,wei wei,huaying shu</authors>
+		<jconf>Asia-Pacific Services Computing Conference</jconf>
+		<label>131</label>
+		<keyword>Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A HowNet Based Web Log Mining Algorithm</title>
+		<year>2007</year>
+		<authors>jiayin qi,huaying shu</authors>
+		<jconf>IFIP TC8 Publications</jconf>
+		<label>131</label>
+		<keyword>Web Log Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A System Dynamics Model for SMS Governance</title>
+		<year>2007</year>
+		<authors>jiayin qi,huaying shu</authors>
+		<jconf>IFIP TC8 Publications</jconf>
+		<label>131</label>
+		<keyword>System Dynamics Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of a Two-Processor Scheduling Method for Acyclic SWITCH-less Program Nets</title>
+		<year>2005</year>
+		<authors>qi-wei ge,mitsuru nakata</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>132</label>
+		<keyword>Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Petri Net Based Descriptions for Systematic Understanding of Biological Pathways</title>
+		<year>2006</year>
+		<authors>hiroshi matsuno,satoru miyano</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>132</label>
+		<keyword>petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structural Modeling and Analysis of Signaling Pathways Based on Petri Nets</title>
+		<year>2006</year>
+		<authors>shunichi suzuki,qi-wei ge,mitsuru nakata,hiroshi matsuno,satoru miyano</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>132</label>
+		<keyword>Enzyme Activity;Signaling Pathway;Structural Model;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security in the Web Services Framework</title>
+		<year>2003</year>
+		<authors>claus pahl</authors>
+		<jconf>International Symposium on Information and Communication Technologies</jconf>
+		<label>133</label>
+		<keyword>Building Block;Internet Technology;Middleware;Web Service;Universal Description Discovery and Integration;Web Service Description Language;</keyword>
+		<organization>null</organization>
+		<abstract>The Web Services Framework provides techniques to enable the application-to-application use of the Web. It has the potential of becoming the core of a new Web-based middleware platform, providing interoperability between computational services using Web- and Internet-technologies. Security is of course of major importance in this context. We introduce here extensions to two major building blocks of the Web Services</abstract>
+	</publication>
+</person>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Minghui Jiang</FullName>
+	<publication>
+		<title>Stochastic Lotka-Volterra Competitive Systems with Variable Delay</title>
+		<year>2005</year>
+		<authors>yi shen,guoying zhao,xuerong mao</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>741</label>
+		<keyword>lotka volterra;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stochastic High-Order Hopfield Neural Networks</title>
+		<year>2005</year>
+		<authors>yi shen,guoying zhao,shigeng hu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>741</label>
+		<keyword>hopfield neural network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Asymptotic behavior of stochastic Cohen-Grossberg neural networks with variable delays</title>
+		<year>2008</year>
+		<authors>li wang,yi shen</authors>
+		<jconf>IJCNN</jconf>
+		<label>741</label>
+		<keyword>cohen-grossberg neural network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global Exponential Stability and Periodicity of CNNs with Time-Varying Discrete and Distributed Delays</title>
+		<year>2008</year>
+		<authors>shengle fang,wenfang fu</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Distributed Delay;Global Exponential Stability;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Results on Solving Quadratic Programming Problems with Delayed Neural Network</title>
+		<year>2007</year>
+		<authors>shengle fang,yi shen,xiaoxin liao</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Quadratic Program;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global Exponential Stability of Nonautonomous Neural Networks with Variable Delay</title>
+		<year>2005</year>
+		<authors>yi shen,meiqin liu</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Global Exponential Stability;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An LMI-Based Approach to the Global Stability of Bidirectional Associative Memory Neural Networks with Variable Delay</title>
+		<year>2006</year>
+		<authors>yi shen,xiaoxin liao</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Global Stability;Bidirectional Associative Memory;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Existence and Stability of Periodic Solution of Nonautonomous Neural Networks with Delay</title>
+		<year>2007</year>
+		<authors>xiaohong wang,yi shen</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Periodic Solution;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Modified Projection Neural Network for Linear Variational Inequalities and Quadratic Optimization Problems</title>
+		<year>2009</year>
+		<authors>yongqing zhao,yi shen</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Quadratic Optimization;Variational Inequality;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Generalized LMI-Based Approach to the Global Exponential Stability of Recurrent Neural Networks with Delay</title>
+		<year>2005</year>
+		<authors>yi shen,xiaoxin liao</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Global Exponential Stability;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global Exponential Stability of Cohen-Grossberg Neural Networks with Time-Varying Delays and Continuously Distributed Delays</title>
+		<year>2005</year>
+		<authors>yi shen,xiaoxin liao</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>cohen-grossberg neural network;Distributed Delay;Global Exponential Stability;Time-varying Delay;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-Order Hopfield Neural Networks</title>
+		<year>2005</year>
+		<authors>yi shen,xiaojun zong</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>hopfield neural network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finite-Time Boundedness Analysis of Uncertain CGNNs with Multiple Delays</title>
+		<year>2010</year>
+		<authors>xiaohong wang,chuntao jiang,shengrong li</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Properties of Periodic Solutions for Common Logistic Model with Discrete and Distributed Delay</title>
+		<year>2010</year>
+		<authors>ting zhang,zhengwen tu</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Distributed Delay;Logistic Model;Periodic Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global and Local Synchronization of General Multi-linked Delayed Complex Dynamical Networks</title>
+		<year>2009</year>
+		<authors>yongqing zhao</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>741</label>
+		<keyword>Complex Dynamics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Positive Periodic Solutions of Nonautonomous Lotka-Volterra Dispersal System with Delays</title>
+		<year>2010</year>
+		<authors>ting zhang,bin huang</authors>
+		<jconf></jconf>
+		<label>741</label>
+		<keyword>Positive Periodic Solution;lotka volterra;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boundedness and global exponential stability for generalized Cohen-Grossberg neural networks with variable delay</title>
+		<year>2006</year>
+		<authors>yi shen,xiaoxin liao</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>741</label>
+		<keyword>cohen-grossberg neural network;Global Exponential Stability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global stability of periodic solution for bidirectional associative memory neural networks with varying-time delay</title>
+		<year>2006</year>
+		<authors>yi shen,xiaoxin liao</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>741</label>
+		<keyword>Global Stability;Periodic Solution;Time Delay;Bidirectional Associative Memory;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonlinear behavior of the parameterized Logistic differential systems</title>
+		<year>2007</year>
+		<authors>yi shen,haigeng luo,xiaoxin liao</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>741</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stability of nonautonomous bidirectional associative memory neural networks with delay</title>
+		<year>2008</year>
+		<authors>yi shen</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>741</label>
+		<keyword>Bidirectional Associative Memory;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

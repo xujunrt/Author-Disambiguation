@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>James Reilly</FullName>
+	<publication>
+		<title>OTSO - An Object-Oriented Approach to Distributed Computation</title>
+		<year>1991</year>
+		<authors>juha koivisto,juhani malka</authors>
+		<jconf>C++ Conference</jconf>
+		<label>345</label>
+		<keyword>Distributed Computing;Object Oriented Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Object-Oriented Implementation of Telecommunication Software Using the OTSO Environment</title>
+		<year>1992</year>
+		<authors>juha koivisto,juhani malka</authors>
+		<jconf>Information Network and Data Communication</jconf>
+		<label>345</label>
+		<keyword>Object Oriented;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>QoS Based Multi-domain Routing in Public Broadband Networks</title>
+		<year>1998</year>
+		<authors>dora karali,fotis karayannis,klearchos berdekas,david romano-critchley</authors>
+		<jconf>Intelligence and Services in Networks</jconf>
+		<label>345</label>
+		<keyword>Broadband Network;end-to-end qos;Network Topology;Network Traffic;Quality of Service;Routing Algorithm;Satisfiability;Multi Domain;</keyword>
+		<organization>null</organization>
+		<abstract>End-to-end routing in connection-oriented broadband networks, which satisfies end-user quality of service (QoS) constraints, is an extremely complex problem. The complexity of the problem is compounded in multi- domain, multi-provider networks for a number of reasons. For example, operators of some public networks may not wish to fully disclose their internal network topologies and a highly detailed picture of their</abstract>
+	</publication>
+	<publication>
+		<title>Scheduled Connections: Managing Temporal Constraints on Broadband Network Resources</title>
+		<year>1998</year>
+		<authors>maurizio abate</authors>
+		<jconf>Intelligence and Services in Networks</jconf>
+		<label>345</label>
+		<keyword>Broadband Network;Quality of Service;Satisfiability;Temporal Constraints;Near Real Time;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>Future broadband networks will provide end-to-end connections which span multiple networks, operators, domains and technologies. The abil- ity to supply end-to-end connections depends on the ability to satisfy (in near real-time) end-user topology, schedule (availability of resources in the present or future), quality of service and cost constraints. This paper examines the problems imposed by schedule constraints, as they allow</abstract>
+	</publication>
+	<publication>
+		<title>Cerial: A Tool for XDR or ASN.1 BER Serialization of C++ Objects</title>
+		<year>1993</year>
+		<authors>juha koivisto</authors>
+		<jconf>Technology of Object-Oriented Languages and Systems</jconf>
+		<label>345</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generating Object-Oriented Telecommunications Software Using ASN.1 Descriptions</title>
+		<year>1992</year>
+		<authors>juha koivisto</authors>
+		<jconf>Upper Layer Protocols, Architecture and Applications</jconf>
+		<label>345</label>
+		<keyword>Object Oriented;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enabling Mobile Network Managers</title>
+		<year>1997</year>
+		<authors>petri niska,luca deri,dieter gantenbein</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>345</label>
+		<keyword>Internet Technology;Mobile Device;Mobile Network;Network and Systems Management;Network Management;Networked Systems;Service Management;</keyword>
+		<organization>null</organization>
+		<abstract>Network and system maintenance personnel are increasingly mobile. This creates a potential market for a network, system and service management terminal that is highly mobile, which would supplement existing network and system management solutions. This paper presents a generic architectural solution for this problem based on a highly scalable and network-centric approach to development of network management applications. Although the</abstract>
+	</publication>
+</person>

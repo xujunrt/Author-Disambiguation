@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ernesto S&amp;aacute;nchez</FullName>
+	<publication>
+		<title>An Architecture for Active Network Performance Management Based on Intelligent Agents</title>
+		<year>2002</year>
+		<authors>antonio barba</authors>
+		<jconf>Mobile Agents for Telecommunication Applications</jconf>
+		<label>219</label>
+		<keyword>Active Network;Intelligent Agent;Performance Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

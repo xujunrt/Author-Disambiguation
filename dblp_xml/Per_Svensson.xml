@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Per Svensson</FullName>
+	<publication>
+		<title>Reactive and Memory-Based Genetic Programming for Robot Control</title>
+		<year>1999</year>
+		<authors>björn andersson,peter nordin,mats g. nordahl</authors>
+		<jconf>European Conference on Genetic Programming</jconf>
+		<label>808</label>
+		<keyword>Genetic Program;Robot Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-Line Evolution of Control for a Four-Legged Robot Using Genetic Programming</title>
+		<year>2000</year>
+		<authors>björn andersson,mats g. nordahl,peter nordin</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>808</label>
+		<keyword>Genetic Program;Legged Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

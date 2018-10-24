@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaofeng Chen</FullName>
+	<publication>
+		<title>MFLWQ: A Fair and Adaptive Queue Management Algorithm for Scavenger Service</title>
+		<year>2005</year>
+		<authors>lingdi ping,zheng wan,jian chen</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>1106</label>
+		<keyword>Queue Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generalization of functional equation for the square root spiral</title>
+		<year>2006</year>
+		<authors>zhihua wang,bing xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>1107</label>
+		<keyword>Functional Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Direct Anonymous Attestation Scheme from Bilinear Maps</title>
+		<year>2008</year>
+		<authors>li-qun chen,jiangtao li</authors>
+		<jconf>Trusted Computing - Challenges and Applications</jconf>
+		<label>1108</label>
+		<keyword>Bilinear Map;Security Requirements;Trusted Computing Platform;Trusted Platform Module;Direct Anonymous Attestation;decisional diffie hellman;Trusted Computing Group;</keyword>
+		<organization>null</organization>
+		<abstract>The Direct Anonymous Attestation scheme was proposed by Brickell, Jan Camenisch,Liqun Chen and was adopted by the Trusted Computing Group in its specifications for trusted computing platforms. In this paper, We propose a new direct anonymous scheme from the bilinear maps based on the decisional Diffie- Hellman assumption and q-SDH assumption. The length of private keys and signatures in our</abstract>
+	</publication>
+	<publication>
+		<title>Direct Anonymous Attestation for Next Generation TPM</title>
+		<year>2008</year>
+		<authors>dengguo feng</authors>
+		<jconf>Journal of Computers</jconf>
+		<label>1109</label>
+		<keyword>Direct Anonymous Attestation;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Design of the Laser Simulation Training Device</title>
+		<year>2010</year>
+		<authors>rong-xia sun</authors>
+		<jconf>Workshop on Knowledge Discovery and Data Mining</jconf>
+		<label>1110</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

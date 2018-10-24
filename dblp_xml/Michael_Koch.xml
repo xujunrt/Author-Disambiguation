@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Koch</FullName>
+	<publication>
+		<title>Eignung von GTEM-Zellen für UWB-Pulsmessungen</title>
+		<year>2006</year>
+		<authors>holger thye,gunnar armbrecht</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit</jconf>
+		<label>691</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

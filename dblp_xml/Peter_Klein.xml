@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Klein</FullName>
+	<publication>
+		<title>Distributed Aspects of Integrated Systems</title>
+		<year>1996</year>
+		<authors>roland baumann,katja cremer,ansgar radermacher</authors>
+		<jconf>IPSEN</jconf>
+		<label>814</label>
+		<keyword>Integrable System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Specific Application Environments</title>
+		<year>1996</year>
+		<authors>anita behle,a. deparade,manfred nagl</authors>
+		<jconf>IPSEN</jconf>
+		<label>814</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Framework Revisited: A More Detailed View on the IPSEN Architecture</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>IPSEN</jconf>
+		<label>814</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reuse in the Central Part: The Structure of Logical and Representation Documents, Parser, and Unparser</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>IPSEN</jconf>
+		<label>814</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generating Single Document Processing Tools</title>
+		<year>1996</year>
+		<authors>andy schürr,albert zündorf</authors>
+		<jconf>IPSEN</jconf>
+		<label>814</label>
+		<keyword>Document Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constructing SDEs with the IPSEN meta environment</title>
+		<year>1997</year>
+		<authors>andy schürr</authors>
+		<jconf>Software Engineering Environments</jconf>
+		<label>814</label>
+		<keyword>Graph Rewriting;Software Development Environment;Context Free Grammar;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a high-level approach to the construction of software development environments (SDEs) featuring a new degree of automation. It combines a variety of reuse approaches into one powerful machinery. Based on suit - able specification formalisms (context-free grammars as well as graph rewriting systems), generator tools, and a framework implementation, the IPSEN meta environment allows the construction of software</abstract>
+	</publication>
+</person>

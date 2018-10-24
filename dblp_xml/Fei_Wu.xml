@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fei Wu</FullName>
+	<publication>
+		<title>Mapping interconnection choreography models to interaction choreography models</title>
+		<year>2010</year>
+		<authors>oliver kopp,frank leymann</authors>
+		<jconf></jconf>
+		<label>226</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Intelligence in Wikipedia</title>
+		<year>2008</year>
+		<authors>daniel s. weld,eytan adar,saleema amershi,james fogarty,raphael hoffmann,kayur patel,michael skinner</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>227</label>
+		<keyword>Interface Design;Mixed Initiative;Information Ex Traction;University of Washington;</keyword>
+		<organization>null</organization>
+		<abstract>The Intelligence in Wikipedia project at the University of Washington is combining self-supervised information ex- traction (IE) techniques with a mixed initiative interface designed to encourage communal content creation (CCC). Since IE and CCC are each powerful ways to produce large amounts of structured information, they have been studied extensively — but only in isolation. By combining the two methods</abstract>
+	</publication>
+	<publication>
+		<title>Amplifying community content creation with mixed initiative information extraction</title>
+		<year>2009</year>
+		<authors>raphael hoffmann,saleema amershi,kayur patel,james fogarty,daniel s. weld</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>227</label>
+		<keyword>Information Extraction;Mixed Initiative;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>Although existing work has explored both information extraction and community content creation, most research has focused on them in isolation. In contrast, we see the greatest leverage in the synergistic pairing of these methods as two interlocking feedback cycles. This paper explores the potential synergy promised if these cycles can be made to accelerate each other by exploiting the same</abstract>
+	</publication>
+	<publication>
+		<title>Exploring patterns of social commonality among file directories at work</title>
+		<year>2007</year>
+		<authors>john c. tang,clemens drews,mark smith,alison e. sue,tessa a. lau</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>227</label>
+		<keyword>Application Development;Information Interfaces and Presentation;Social Network;Work Organization;</keyword>
+		<organization>null</organization>
+		<abstract>We studied files stored by members of a work organization for patterns of social commonality. Discovering identical or similar documents, applications, developer libraries, or other files may suggest shared interests or experience among users. Examining actual file data revealed a number of individual and aggregate practices around file storage. For example, pairs of users typically have many (over 13,000) files</abstract>
+	</publication>
+	<publication>
+		<title>Autonomously semantifying wikipedia</title>
+		<year>2007</year>
+		<authors>daniel s. weld</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>227</label>
+		<keyword>Information Extraction;Semantic Web;Structured Data;Supervised Machine Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Berners-Lee's compelling vision of a Semantic Web is hindered by a chicken-and-egg problem, which can be best solved by a boot- strapping method — creating enough structured data to motivate thedevelopmentofapplications. Thispaperarguesthatautonomously &quot;Semantifying Wikipedia&quot; is the best way to solve the problem. We choose Wikipedia as an initial data source, because it is compre- hensive, not too large, high-quality, and</abstract>
+	</publication>
+	<publication>
+		<title>Information extraction from Wikipedia: moving down the long tail</title>
+		<year>2008</year>
+		<authors>raphael hoffmann,daniel s. weld</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>227</label>
+		<keyword>Information Extraction;Internal Structure;Long Tail;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract>Not only is Wikipedia a comprehensive source of quality informa- tion, it has several kinds of internal structure (e.g., rela tional sum- maries known as infoboxes), which enable self-supervised infor- mation extraction. While previous efforts at extraction fr om Wiki- pedia achieve high precision and recall on well-populated classes of articles, they fail in a larger number of cases, largely</abstract>
+	</publication>
+	<publication>
+		<title>Automatically refining the wikipedia infobox ontology</title>
+		<year>2008</year>
+		<authors>daniel s. weld</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>227</label>
+		<keyword>Autonomic System;Information System;Machine Learning;Natural Language;Ontology Integration;Query Processing;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract>The combined efforts of human volunteers have recently extracted numerous facts from Wikipedia, storing them as machine-harvestable object-attribute-value triples in Wikipedia infoboxes. M achine learn- ing systems, such as Kylin, use these infoboxes as training data, accurately extracting even more semantic knowledge from natural language text. But in order to realize the full power of this i nforma- tion, it</abstract>
+	</publication>
+	<publication>
+		<title>Using Wikipedia to bootstrap open information extraction</title>
+		<year>2008</year>
+		<authors>daniel s. weld,raphael hoffmann</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>227</label>
+		<keyword>Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

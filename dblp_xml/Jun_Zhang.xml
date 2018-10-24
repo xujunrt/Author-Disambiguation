@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jun Zhang</FullName>
+	<publication>
+		<title>Algorithms and Software for Collaborative Discovery from Autonomous, Semantically Heterogeneous, Distributed Information Sources</title>
+		<year>2005</year>
+		<authors>doina caragea,jie bao,jyotishman pathak,vasant honavar</authors>
+		<jconf>Algorithmic Learning Theory</jconf>
+		<label>468</label>
+		<keyword>Data Acquisition;Decision Making;Distributed Data;Information Sources;Knowledge Acquisition;Open Source Software;Performance Guarantee;Point of View;Semantic Heterogeneity;Social Informatics;Context Dependent;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Development of high throughput data acquisition technolo- gies, together with advances in computing, and communications have resulted in an explosive growth in the number, size, and diversity of potentially useful information sources. This has resulted in unprece- dented opportunities in data-driven knowledge acquisition and decision- making in a number of emerging increasingly data-rich application domains such as bioinformatics, environmental informatics,</abstract>
+	</publication>
+	<publication>
+		<title>Learning Classifiers from Distributed, Ontology-Extended Data Sources</title>
+		<year>2006</year>
+		<authors>doina caragea,jyotishman pathak,vasant honavar</authors>
+		<jconf>Data Warehousing and Knowledge Discovery</jconf>
+		<label>468</label>
+		<keyword>Distributed Data;Naive Bayes Classifier;Performance Guarantee;Semantic Heterogeneity;bayesian network;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>There is an urgent need for sound approaches to integrative and col- laborative analysis of large, autonomous (and hence, inevitably semantically het- erogeneous) data sources in several increasingly data-rich application domains. In this paper, we precisely formulate and solve the problem of learning classifiers from such data sources, in a setting where each data source has a hierarchical ontology associated</abstract>
+	</publication>
+	<publication>
+		<title>Generating AVTs Using GA for Learning Decision Tree Classifiers with Missing Data</title>
+		<year>2004</year>
+		<authors>jinu joo,jihoon yang,vasant honavar</authors>
+		<jconf>Discovery Science</jconf>
+		<label>468</label>
+		<keyword>Missing Data;Decision Tree Classifier;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning Ontology-Aware Classifiers</title>
+		<year>2005</year>
+		<authors>doina caragea,vasant honavar</authors>
+		<jconf>Discovery Science</jconf>
+		<label>468</label>
+		<keyword>Compact Representation;Design Space;Machine Learning;Point of View;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Many practical applications of machine learning in data- driven scientiflc discovery commonly call for the exploration of data from multiple points of view that correspond to explicitly specifled ontolo- gies. This paper formalizes a class of problems of learning from ontology and data, and explores the design space of learning classiflers from at- tribute value taxonomies (AVTs) and data. We</abstract>
+	</publication>
+	<publication>
+		<title>Generation of Attribute Value Taxonomies from Data for Data-Driven Construction of Accurate and Compact Classifiers</title>
+		<year>2004</year>
+		<authors>dae-ki kang,adrian silvescu,vasant honavar</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>468</label>
+		<keyword>Classification Accuracy;Naive Bayes;</keyword>
+		<organization>null</organization>
+		<abstract>Attribute Value Taxonomies (AVT) have been shown to be useful in constructing compact, robust, and comprehen- sible classifiers. However, in many application domains, human-designed AVTs are unavailable. We introduce AVT- Learner, an algorithm for automated construction of at- tribute value taxonomies from data. AVT-Learner uses Hi- erarchical Agglomerative Clustering (HAC) to cluster at- tribute values based on the distribution of</abstract>
+	</publication>
+	<publication>
+		<title>Learning from Attribute Value Taxonomies and Partially Specified Instances</title>
+		<year>2003</year>
+		<authors>vasant honavar</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>468</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multinomial Event Model Based Abstraction for Sequence and Text Classification</title>
+		<year>2005</year>
+		<authors>dae-ki kang,adrian silvescu,vasant honavar</authors>
+		<jconf>Symposium on Abstraction, Reformulation and Approximation</jconf>
+		<label>468</label>
+		<keyword>Hierarchical Agglomerative Clustering;Learning Algorithm;Machine Learning;Naive Bayes;Naive Bayes Classifier;Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract>In many machine learning applications that deal with se- quences, there is a need for learning algorithms that can effectively utilize the hierarchical grouping of words. We introduce Word Taxonomy guided Naive Bayes Learner for the Multinomial Event Model (WTNBL-MN) that exploits word taxonomy to generate compact classifiers, and Word Taxonomy Learner (WTL) for automated construction of word taxon- omy</abstract>
+	</publication>
+	<publication>
+		<title>Learning Classifiers Using Hierarchically Structured Class Taxonomies</title>
+		<year>2005</year>
+		<authors>feihong wu,vasant honavar</authors>
+		<jconf>Symposium on Abstraction, Reformulation and Approximation</jconf>
+		<label>468</label>
+		<keyword>Hierarchical Structure;Performance Measure;Abstraction Hierarchy;</keyword>
+		<organization>null</organization>
+		<abstract>We consider classiflcation problems in which the class labels are organized into an abstraction hierarchy in the form of a class taxon- omy. We deflne a structured label classiflcation problem. We explore two approaches for learning classiflers in such a setting. We also develop a class of performance measures for evaluating the resulting classiflers. We present preliminary results that demonstrate</abstract>
+	</publication>
+	<publication>
+		<title>Ontology-Driven Induction of Decision Trees at Multiple Levels of Abstraction</title>
+		<year>2002</year>
+		<authors>adrian silvescu,vasant honavar</authors>
+		<jconf>Symposium on Abstraction, Reformulation and Approximation</jconf>
+		<label>468</label>
+		<keyword>Classification Rules;Decision Tree Learning;Inductive Learning;Learning Algorithm;Levels of Abstraction;Point of View;Scientific Discovery;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Most learning algorithms for data-driven induction of pat- tern classifiers (e.g., the decision tree algorithm), typically represent in- put patterns at a single level of abstraction - usually in the form of an ordered tuple of attribute values. However, in many applications of in- ductive learning - e.g., scientific discovery, users often need to explore a data set at multiple</abstract>
+	</publication>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matteo Bianchi</FullName>
+	<publication>
+		<title>Validation of a Virtual Reality Environment to Study Anticipatory Modulation of Digit Forces and Position</title>
+		<year>2010</year>
+		<authors>giorgio grioli,enzo pasquale scilingo,marco santello,antonio bicchi</authors>
+		<jconf>Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems</jconf>
+		<label>666</label>
+		<keyword>Virtual Reality Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new softness display based on bi-elastic fabric</title>
+		<year>2009</year>
+		<authors>enzo pasquale scilingo,alessandro serio,antonio bicchi</authors>
+		<jconf>Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems</jconf>
+		<label>666</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modelling and control of HIV dynamics</title>
+		<year>2008</year>
+		<authors>alberto landi,alberto mazzoldi,chiara andreoni,andrea cavallini,marco laurino,leonardo ricotti,rodolfo iuliano,barbara matteoli,luca ceccherini-nelli</authors>
+		<jconf>Computer Methods and Programs in Biomedicine</jconf>
+		<label>666</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rendering Softness: Integration of Kinesthetic and Cutaneous Information in a Haptic Device</title>
+		<year>2010</year>
+		<authors>enzo pasquale scilingo,giorgio grioli,antonio bicchi</authors>
+		<jconf>IEEE Transactions on Haptics</jconf>
+		<label>666</label>
+		<keyword>Haptic Device;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

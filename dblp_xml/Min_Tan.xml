@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Min Tan</FullName>
+	<publication>
+		<title>A stochastic model of a dedicated heterogeneous computing system for establishing a greedy approach to developing data relocation heuristics</title>
+		<year>1997</year>
+		<authors>howard jay siegel</authors>
+		<jconf>Heterogeneous Computing Workshop</jconf>
+		<label>721</label>
+		<keyword>Heterogeneous Computing;Stochastic Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mathematical Model, Heuristic, and Simulation Study for a Basic Data Staging Problem in a Heterogeneous Networking Environment</title>
+		<year>1998</year>
+		<authors>mitchell d. theys,howard jay siegel,noah b. beck,michael jurczyk</authors>
+		<jconf>Heterogeneous Computing Workshop</jconf>
+		<label>721</label>
+		<keyword>Communication System;Data Management;Data Storage;Dynamic Scheduling;Fault Tolerant;Heterogeneous Network;Mathematical Model;Satisfiability;Shortest Path Algorithm;Simulation Study;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Data   staging   is   an   important   data   management problem    for    a    distributed    heterogeneous    networking environment,    where    each    data    storage    location    and intermediate    node    may    have    specific    data    available, storage limitations, and communication  links Sites  in  the network  request  data  items  and  each  item  is  associated with  a  specific  deadline  and  priority It  is  assumed  that not  all  requests  can  be</abstract>
+	</publication>
+	<publication>
+		<title>Scheduling Heuristics for Data Requests in an Oversubscribed Network with Priorities and Deadlines</title>
+		<year>2000</year>
+		<authors>mitchell d. theys,noah b. beck,howard jay siegel,michael jurczyk</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>721</label>
+		<keyword>Communication System;Data Management;Data Storage;Optimal Scheduling;Satisfiability;Shortest Path Algorithm;Upper and Lower Bounds;</keyword>
+		<organization>null</organization>
+		<abstract>Providing up-to-date input to users' applications is an important data management problem for a distributed com- puting environment, where each data storage location and intermediate node may have specific data available, stor- age limitations, and communication links available. Sites in the network request data items and each request has an associated deadline and priority. This work concentrates o n solving</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Task Migration from SPMD to SIMD Virtual Machines</title>
+		<year>1994</year>
+		<authors>james b. armstrong,howard jay siegel,william e. cohen,henry g. dietz,josé a. b. fortes</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>721</label>
+		<keyword>Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Implementations of Block-Based Motion Vector Estimation for Video Compression on the MasPar MP1 and PASM</title>
+		<year>1995</year>
+		<authors>janet m. siegel,howard jay siegel</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>721</label>
+		<keyword>Parallel Implementation;Video Compression;Motion Vector;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The PASM Project: A Study of Reconfigurable Parallel Computing</title>
+		<year>1996</year>
+		<authors>howard jay siegel,tracy d. braun,henry g. dietz,mark bernd kulaczewski,muthucumaru maheswaran,pierre h. pero,janet m. siegel,john john e. so,mitchell d. theys,lee wang</authors>
+		<jconf>International Symposium on Parallel Architectures, Algorithms and Networks</jconf>
+		<label>721</label>
+		<keyword>Parallel Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing with Heterogeneous Parallel Machines: Advantages and Challenges</title>
+		<year>1996</year>
+		<authors>howard jay siegel,lee wang,vwani p. roychowdhury</authors>
+		<jconf>International Symposium on Parallel Architectures, Algorithms and Networks</jconf>
+		<label>721</label>
+		<keyword>Parallel Machines;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Heuristics for Scheduling Prioritized Data Requests with Deadlines in an Overloaded Distributed Computing Networ</title>
+		<year>2000</year>
+		<authors>mitchell d. theys,noah b. beck,howard jay siegel,michael jurczyk</authors>
+		<jconf>Microelectronics Systems Education</jconf>
+		<label>721</label>
+		<keyword>Distributed Computing;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the material to be presented by H.J.Siegel in his keynote talk. He will give an overview of researchthe above co-authors conducted in the area of offlinescheduling heuristics for communication requests in anoverloaded network, where not all requests can be satisfied.Sites in the network request data items and each request hasan associated deadline and priority. In a military</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Implementations of Block-Based Motion Vector Estimation for Video Compression on Four Parallel Processing Systems</title>
+		<year>1999</year>
+		<authors>janet m. siegel,howard jay siegel</authors>
+		<jconf>International Journal of Parallel Programming</jconf>
+		<label>721</label>
+		<keyword>Parallel Implementation;Parallel Processing;Video Compression;Motion Vector;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Determining the Execution Time Distribution for a Data Parallel Program in a Heterogeneous Computing Environment</title>
+		<year>1997</year>
+		<authors>yan alexander li,john k. antonio,howard jay siegel,daniel w. watson</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>721</label>
+		<keyword>Data Parallel;Flow Analysis;Heterogeneous Computing;Mixed Mode;Probabilistic Model;Time Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>An important problem in heterogeneous computing (HC) is predicting task execution time. A methodology is introduced for determining the execution time distribution for a given data parallel program that is to be executed in an SIMD, MIMD (SPMD), and/or mixed-mode SIMD/MIMD (SPMD) HC environment. The program is assumed to contain operations and constructs whose execution times depend on input-data values.</abstract>
+	</publication>
+	<publication>
+		<title>A Stochastic Model for Heterogeneous Computing and Its Application in Data Relocation Scheme Development</title>
+		<year>1998</year>
+		<authors>howard jay siegel</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>721</label>
+		<keyword>Data Transfer;Global Optimization;Greedy Algorithm;Heterogeneous Computing;Optimal Scheduling;Optimization Problem;Random Variable;Search Space;Stochastic Model;Systems and Applications;</keyword>
+		<organization>null</organization>
+		<abstract>In a dedicated mixed-machine heterogeneous computing (HC) system, an application pro- gram may be decomposed into subtasks, then each subtask assigned to the machine where it is best suited for execution. Data relocation is defined as selecting the sources for needed data items. It is assumed that multiple independent subtasks of an application program can be exe- cuted concurrently on</abstract>
+	</publication>
+	<publication>
+		<title>Minimizing the Application Execution Time Through Scheduling of Subtasks and Communication Traffic in a Heterogeneous Computing System</title>
+		<year>1997</year>
+		<authors>howard jay siegel,john k. antonio,yan alexander li</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>721</label>
+		<keyword>Data Communication;Data Distribution;Data Reuse;Data Transfer;Distributed Computing;Heterogeneous Computing;Indexing Terms;Machine Scheduling;Optimal Scheduling;Polynomial Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>In a heterogeneous computing (HC) environment consisting of different types of machines, an application program is decomposed into subtasks, each of which is computationally homogeneous. The goal is to execute subtasks on the machines in such a way that the total program execution time is minimized. A mathematical framework is presented that models the matching of subtasks to machines, scheduling</abstract>
+	</publication>
+	<publication>
+		<title>A Mathematical Model and Scheduling Heuristics for Satisfying Prioritized Data Requests in an Oversubscribed Communication Network</title>
+		<year>2000</year>
+		<authors>mitchell d. theys,noah b. beck,howard jay siegel,michael jurczyk</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>721</label>
+		<keyword>Communication System;Community Networks;Data Management;Data Storage;Decision Making;Distributed Computing Environment;Mathematical Model;Optimal Scheduling;Satisfiability;Shortest Path Algorithm;Upper and Lower Bounds;</keyword>
+		<organization>null</organization>
+		<abstract>Providing up-to-date input to users' applications is an important data management problem for a distributed computing environment, where each data storage location and intermediate node may have specific data available, storage limitations, and communication links available. Sites in the network request data items and each request has an associated deadline and priority. In a military situation, the data staging problem</abstract>
+	</publication>
+	<publication>
+		<title>A FKHP-Based Fuzzy Classification Model</title>
+		<year>2006</year>
+		<authors>ai-min yang,yan-hui zhu,yong-mei zhou</authors>
+		<jconf>Intelligent Systems Design and Applications</jconf>
+		<label>722</label>
+		<keyword>Fuzzy Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Johannes M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Submission of content to a digital object repository using a configurable workflow system</title>
+		<year>2007</year>
+		<authors>andreas v. hense</authors>
+		<jconf></jconf>
+		<label>430</label>
+		<keyword>Business Process Management;Design Principle;Open Source;Service Oriented Architecture;Workflow System;Data Base Management System;Front End;Java Server Pages;</keyword>
+		<organization>null</organization>
+		<abstract>The prototype of a workflow system for the submission of content to a digital object repository is here presented. It is based entirely on open-source standard components and features a service-oriented architecture. The front-end consists of Java Business Process Management {(jBPM)}, Java Server Faces {(JSF)}, and Java Server Pages {(JSP).} A Fedora Repository and a {mySQL} data base management system</abstract>
+	</publication>
+</person>

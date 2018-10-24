@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alberto Ruiz</FullName>
+	<publication>
+		<title>Image Retrieval: The MIRACLE Approach</title>
+		<year>2003</year>
+		<authors>julio villena,josé luis martínez-fernández,jorge fombella,ana garcía-serrano,paloma martínez,josé m. goñi,josé carlos gonzález</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>19</label>
+		<keyword>Image Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

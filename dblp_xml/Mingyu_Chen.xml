@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mingyu Chen</FullName>
+	<publication>
+		<title>A Congestion Control Method Jointly Utilizing Delay and Marking/Loss Feedback</title>
+		<year>2006</year>
+		<authors>manohar n. murthi,kamal premaratne,xingzhe fan</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>743</label>
+		<keyword>Congestion Control;Dynamic Networks;Indexing Terms;Network Calculus;Network Congestion;Packet Loss;Packet Marking;Tcp Vegas;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Depending upon the type of feedback that is utilized, network congestion control schemes can be classified into two cat - egories: marking/loss based (e.g., TCP Reno) or delay based (e.g., TCP Vegas). Delay-based schemes have garnered much attention due to their higher network throughput than loss-based methods. Delay provides a much finer-grained measure of congestion than packet loss or packet</abstract>
+	</publication>
+	<publication>
+		<title>TCP congestion avoidance: a network calculus interpretation and performance improvements</title>
+		<year>2005</year>
+		<authors>j. zhang,manohar n. murthi,kamal premaratne</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>743</label>
+		<keyword>Congestion Avoidance;Network Calculus;Performance Improvement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Delay-based TCP congestion avoidance: A network calculus interpretation and performance improvements</title>
+		<year>2009</year>
+		<authors>jinsong zhang,manohar n. murthi,kamal premaratne</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>743</label>
+		<keyword>Congestion Avoidance;Network Calculus;Performance Improvement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Normalized queueing delay: congestion control jointly utilizing delay and marking</title>
+		<year>2009</year>
+		<authors>xingzhe fan,manohar n. murthi,t. dilusha wickramarathna,kamal premaratne</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>743</label>
+		<keyword>Congestion Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

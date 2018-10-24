@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Schulz</FullName>
+	<publication>
+		<title>Creating a Culture of Knowledge Sharing in Law Firms</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Wissensmanagement</jconf>
+		<label>656</label>
+		<keyword>Knowledge Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Creating a Culture of Knowledge Sharing in Law Firms - Some Obstacles and Solutions</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Wissensmanagement</jconf>
+		<label>656</label>
+		<keyword>Knowledge Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

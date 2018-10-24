@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bruno Rossi</FullName>
+	<publication>
+		<title>Robot-mediated arm rehabilitation in Virtual Environments for chronic stroke patients: A clinical study</title>
+		<year>2008</year>
+		<authors>antonio frisoli,luigi federico borelli,alberto montagner,simone marcheschi,caterina procopio,fabio salsedo,massimo bergamasco,maria chiara carboncini</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>113</label>
+		<keyword>Clinical Study;Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ASN.1's Best Secrets (A review of ASN.1: Communication Between Heterogeneous Systems by Olivier Dubuisson)</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>IEEE Distributed Systems Online</jconf>
+		<label>114</label>
+		<keyword>Heterogeneous Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

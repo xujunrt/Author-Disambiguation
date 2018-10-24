@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hong Wang</FullName>
+	<publication>
+		<title>Direct solution of the parametric Stochastic Distribution Control problem</title>
+		<year>2009</year>
+		<authors>puya ghasemi afshar,amin nobakhti</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>286</label>
+		<keyword>Distributed Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Estimation delay compensation in high-gain observer-based parameter identification</title>
+		<year>2009</year>
+		<authors>xuewu dai,zhiwei gao,tim breikin</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>286</label>
+		<keyword>Delay Compensation;High Gain Observer;Parameter Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An intelligent mill load switching control of pulverizing system for an alumina sintering process</title>
+		<year>2009</year>
+		<authors>liyan zhang,tianyou chai</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>286</label>
+		<keyword>Switching Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A minimized zero mean entropy approach to networked control systems</title>
+		<year>2009</year>
+		<authors>jianhua zhang</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>286</label>
+		<keyword>Networked Control System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Advances in stochastic distribution control</title>
+		<year>2008</year>
+		<authors>aiping wang,lei guo</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>286</label>
+		<keyword>Distributed Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic modelling and control for multivariable output distribution systems</title>
+		<year>2004</year>
+		<authors>wen wang</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>286</label>
+		<keyword>Distributed System;Dynamic Modelling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust minimum entropy tracking control with guaranteed stability for nonlinear stochastic systems under modeling errors</title>
+		<year>2008</year>
+		<authors>liping yin,lei guo</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>286</label>
+		<keyword>Model Error;Stochastic System;Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Identification of Reduced-Order Dynamic Models of Gas Turbines</title>
+		<year>2006</year>
+		<authors>xuewu dai,tim breikin</authors>
+		<jconf>International Conference on Innovative Computing, Information and Control</jconf>
+		<label>286</label>
+		<keyword>Dynamic Model;Gas Turbine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum Entropy Control Algorithm for General Dynamic Stochastic Systems</title>
+		<year>2006</year>
+		<authors>jianfang jia,taiyuan liu,hong yue</authors>
+		<jconf>International Conference on Innovative Computing, Information and Control</jconf>
+		<label>286</label>
+		<keyword>Control Algorithm;Stochastic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MIMO Probability Density Function Control Using Simple LOG-MLP Neural Networks</title>
+		<year>2008</year>
+		<authors>wen wang,you lun xiong,hong yue</authors>
+		<jconf></jconf>
+		<label>286</label>
+		<keyword>Mlp Neural Network;Probability Density Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Reduced Structure Control and the 1norm regularisation</title>
+		<year>2007</year>
+		<authors>amin nobakhti,martin brown</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>286</label>
+		<keyword>Structural Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Optimal Iterative Learning Scheme for Dynamic Neural Network Modelling</title>
+		<year>2006</year>
+		<authors>lei guo</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>286</label>
+		<keyword>Dynamic Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Actuator Fault Detection via MLP Neural Network for PDFs</title>
+		<year>2005</year>
+		<authors>lei guo,yumin zhang,chengliang liu,chun-bo feng</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>286</label>
+		<keyword>Fault Detection;Mlp Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Tracking Control for the Output PDFs Based on Dynamic Neural Networks</title>
+		<year>2007</year>
+		<authors>yang yi,tao li,lei guo</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>286</label>
+		<keyword>Dynamic Neural Network;Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Output PDF Shaping of Singular Weights System: Monotonical Performance Design</title>
+		<year>2006</year>
+		<authors>hong yue,aurelie j. a. leprand</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>286</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sensor fault estimator and its application for linear multivariable dynamic systems with delayed state and input</title>
+		<year>2006</year>
+		<authors>zhiwei gao,tim breikin</authors>
+		<jconf>Robotics and Biomimetics</jconf>
+		<label>286</label>
+		<keyword>Dynamic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A simple self-adaptive Differential Evolution algorithm with application on the ALSTOM gasifier</title>
+		<year>2008</year>
+		<authors>amin nobakhti</authors>
+		<jconf>Applied Soft Computing</jconf>
+		<label>286</label>
+		<keyword>Differential Evolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generalized discrete-time PI control of output PDFs using square root B-spline expansion</title>
+		<year>2005</year>
+		<authors>lei guo</authors>
+		<jconf>Automatica</jconf>
+		<label>286</label>
+		<keyword>Discrete Time;Pi Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum entropy of B-spline PDF systems with mean constraint</title>
+		<year>2006</year>
+		<authors>hong yue,jinglin zhou</authors>
+		<jconf>Automatica</jconf>
+		<label>286</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distribution function tracking filter design using hybrid characteristic functions</title>
+		<year>2010</year>
+		<authors>jinglin zhou,donghua zhou,lei guo,tianyou chai</authors>
+		<jconf>Automatica</jconf>
+		<label>286</label>
+		<keyword>Characteristic Function;Distribution Function;Filter Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust fault diagnosis for non-Gaussian stochastic systems based on the rational square-root approximation model</title>
+		<year>2008</year>
+		<authors>lina yao</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<label>286</label>
+		<keyword>Fault Diagnosis;Stochastic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model reference adaptive control of the output stochastic distributions for unknown linear stochastic systems</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>286</label>
+		<keyword>Model Reference Adaptive Control;Stochastic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Delay-dependent fault detection and diagnosis using B-spline neural networks and nonlinear filters for time-delay stochastic systems</title>
+		<year>2008</year>
+		<authors>tao li,yang yi,lei guo</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<label>286</label>
+		<keyword>Fault Detection and Diagnosis;Nonlinear Filter;Stochastic System;Time Delay;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum entropy control of nonlinear ARMA systems over a communication network</title>
+		<year>2008</year>
+		<authors>jianhua zhang</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<label>286</label>
+		<keyword>Community Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Descriptor observer approaches for multivariable systems with measurement noises and application in fault detection and diagnosis</title>
+		<year>2006</year>
+		<authors>zhiwei gao</authors>
+		<jconf>Systems &amp; Control Letters</jconf>
+		<label>286</label>
+		<keyword>Fault Detection and Diagnosis;Measurement Noise;Multivariable System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Novel Parameter Identification by Using a High-Gain Observer With Application to a Gas Turbine Engine</title>
+		<year>2008</year>
+		<authors>zhiwei gao,xuewu dai,tim breikin</authors>
+		<jconf>IEEE Transactions on Industrial Informatics</jconf>
+		<label>286</label>
+		<keyword>High Gain Observer;Parameter Identification;Gas Turbine Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An ILC-Based Adaptive Control for General Stochastic Systems With Strictly Decreasing Entropy</title>
+		<year>2009</year>
+		<authors>puya ghasemi afshar,tianyou chai</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>286</label>
+		<keyword>Adaptive Control;Stochastic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reliable Observer-Based Control Against Sensor Failures for Systems With Time Delays in Both State and Input</title>
+		<year>2008</year>
+		<authors>zhiwei gao,tim breikin</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>286</label>
+		<keyword>Time Delay;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PID controller design for output PDFs of stochastic systems using linear matrix inequalities</title>
+		<year>2005</year>
+		<authors>lei guo</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>286</label>
+		<keyword>Linear Matrix Inequality;Pid Controller;Stochastic System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Zero Assignment for Robust H2/Hinfty Fault Detection Filter Design</title>
+		<year>2009</year>
+		<authors>xuewu dai,zhiwei gao,tim breikin</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<label>286</label>
+		<keyword>Fault Detection;Filter Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>How to Fool an Unbounded Adversary with a Short Key</title>
+		<year>2002</year>
+		<authors>alexander russell</authors>
+		<jconf>Theory and Application of Cryptographic Techniques</jconf>
+		<label>287</label>
+		<keyword>Boolean Function;Symmetric Encryption;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the symmetric encryption problem which man- ifests when two parties must securely transmit a message m with a short shared secret key. As we permit arbitrarily powerful adversaries, any encryption scheme must leak information about m|the mutual infor- mation between m and its ciphertext cannot be zero. Despite this, we present a family of encryption schemes which guarantee</abstract>
+	</publication>
+	<publication>
+		<title>How to fool an unbounded adversary with a short key</title>
+		<year>2006</year>
+		<authors>alexander russell</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>287</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Merge: a programming model for heterogeneous multi-core systems</title>
+		<year>2008</year>
+		<authors>michael d. linderman,jamison d. collins,teresa h. meng</authors>
+		<jconf>Architectural Support for Programming Languages and Operating Systems</jconf>
+		<label>288</label>
+		<keyword>Integral Functional;Parallel Languages;Programming Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose the Merge framework, a general pur- pose programming model for heterogeneous multi-core systems. The Merge framework replaces current ad hoc approaches to par- allel programming on heterogeneous platforms with a rigorous, library-based methodology that can automatically distribute com- putation across heterogeneous cores to achieve increased energy and performance efficiency. The Merge framework provides (1) a</abstract>
+	</publication>
+	<publication>
+		<title>Physical Experimentation with Prefetching Helper Threads on Intel's Hyper-Threaded Processors</title>
+		<year>2004</year>
+		<authors>dongkeun kim,steve shih-wei liao,perry h. wang,juan del cuvillo,xinmin tian,xiang zou,donald yeung,milind girkar,john paul shen</authors>
+		<jconf>Symposium on Code Generation and Optimization</jconf>
+		<label>288</label>
+		<keyword>Behavior Change;Dynamic Behavior;simultaneous multithreading;</keyword>
+		<organization>null</organization>
+		<abstract>Pre-execution techniques have received much attention as aneffective way of prefetching cache blocks to tolerate the ever-increasingmemory latency. A number of pre-execution techniquesbased on hardware, compiler, or both have been proposed andstudied extensively by researchers. They report promising resultson simulators that model a Simultaneous Multithreading (SMT)processor. In this paper, we apply the helper threading idea ona real multithreaded machine, i.e.,</abstract>
+	</publication>
+	<publication>
+		<title>BLoG: post-silicon bug localization in processors using bug localization graphs</title>
+		<year>2010</year>
+		<authors>sung-boem park,anne bracy,subhasish mitra</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>288</label>
+		<keyword>Dependence Analysis;Integrated Circuit;Simulation Model;</keyword>
+		<organization>null</organization>
+		<abstract>Post-silicon bug localization -- the process of identifying the location of a detected hardware bug and the cycle(s) during which the bug produces error(s) -- is a major bottleneck for complex integrated circuits. Instruction Footprint Recording and Analysis (IFRA) is a promising post-silicon bug localization technique for complex processor cores. However, applying IFRA to new processor microarchitectures can be challenging</abstract>
+	</publication>
+	<publication>
+		<title>Redundant Arithmetic Optimizations (Research Note)</title>
+		<year>2000</year>
+		<authors>thomas y. yeh</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Intel nehalem processor core made FPGA synthesizable</title>
+		<year>2010</year>
+		<authors>graham schelle,jamison d. collins,ethan schuchman,perry h. wang,xiang zou,gautham n. chinya,ralf plate,thorsten mattner,franz olbrich,per hammarlund,ronak singhal,jim brayton,sebastian steibl</authors>
+		<jconf>Symposium on Field Programmable Gate Arrays</jconf>
+		<label>288</label>
+		<keyword>Clock Gating;fpga architecture;High Speed;Out of Order;</keyword>
+		<organization>null</organization>
+		<abstract>We present a FPGA-synthesizable version of the Intel Nehalem processor core, synthesized, partitioned and mapped to a multi-FPGA emulation system consisting of Xilinx Virtex-4 and Virtex-5 FPGAs. To our knowledge, this is the first time a modern state-of-the-art x86 design with the out-of-order micro-architecture is made FPGA synthesizable and capable of high-speed cycle-accurate emulation. Unlike the Intel Atom core which</abstract>
+	</publication>
+	<publication>
+		<title>Hardware Support for Prescient Instruction Prefetch</title>
+		<year>2004</year>
+		<authors>tor m. aamodt,paul chow,per hammarlund,john paul shen</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Satisfiability;State Machine;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes and evaluates hardware mecha- nisms for supporting prescient instruction prefetch—an approach to improving single-threaded application per- formance by using helper threads to perform instruc- tion prefetch. We demonstrate the need for enabling store-to-load communication and selective instruction ex - ecution when directly pre-executing future regions of an application that suffer I-cache misses. Two novel hard- ware mechanisms,safe-store</abstract>
+	</publication>
+	<publication>
+		<title>Criticality-based optimizations for efficient load processing</title>
+		<year>2009</year>
+		<authors>samantika subramaniam,anne bracy,gabriel h. loh</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Data Cache;Perforation;Performance Improvement;Value Prediction;</keyword>
+		<organization>null</organization>
+		<abstract>Some instructions have more impact on processor perfor- mance than others. Identification of these critical instruc- tions can be used to modify and improve instruction pro- cessing. Previous work has shown that the criticality of instructions can be dynamically predicted with high accu- racy, and that this information can be leveraged to optimize the performance of load value prediction and</abstract>
+	</publication>
+	<publication>
+		<title>Memory Latency-Tolerance Approaches for Itanium Processors: Out-of-Order Execution vs. Speculative Precomputation</title>
+		<year>2002</year>
+		<authors>perry h. wang,jamison d. collins,ed grochowski,ralph-michael kling,john paul shen</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Memory Latency;Out-of-order Execution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Register Renaming and Scheduling for Dynamic Execution of Predicated Code</title>
+		<year>2001</year>
+		<authors>perry h. wang,ralph-michael kling,kalpana ramakrishnan,john paul shen</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Best of Both Latency and Throughput</title>
+		<year>2004</year>
+		<authors>ed grochowski,ronny ronen,john paul shen</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>288</label>
+		<keyword>Energy Per Instruction;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the tradeoff between latency performance and throughput performance in a power-constrained environment. We show that the key to achieving both excellent latency performance as well as excellent throughput performance is to dynamically vary the amount of energy expended to process instructions according to the amount of parallelism available in the software. We survey four techniques for achieving</abstract>
+	</publication>
+	<publication>
+		<title>Prime Cube Graph Approach for Processor Allocation in Hypercube Multiprocessors</title>
+		<year>1991</year>
+		<authors>qing yang</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Fault-Tolerant Computation of Orthogonal Transforms on Hypercube Computers</title>
+		<year>1992</year>
+		<authors>qing yang</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>288</label>
+		<keyword>Fault Tolerant;Orthogonal Transformation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequencer virtualization</title>
+		<year>2007</year>
+		<authors>perry h. wang,jamison d. collins,gautham n. chinya,bernard lint,asit mallick,koichi yamada</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>288</label>
+		<keyword>Instruction Set Extension;Large Scale;Multiprocessor Systems;Programming Environment;</keyword>
+		<organization>null</organization>
+		<abstract>The Multiple Instruction Stream Processor (MISP) architecture introduces the sequencer as a new class of architectural resource, and provides a minimalist user-level MIMD instruction set extension for application programs to directly control execution of concurrent instruction streams on these sequencers. As with classic architectural resources, namely, registers and memory, the sequencer architectural resource can be subject to virtualization. This paper</abstract>
+	</publication>
+	<publication>
+		<title>Quantitative Evaluation of the Register Stack Engine and Optimizations for Future Itanium Processors</title>
+		<year>2002</year>
+		<authors>r. david weldon,steven s. chang,gerolf hoflehner,perry h. wang,daniel m. lavery,john paul shen</authors>
+		<jconf>Workshop on Interaction between Compilers and Computer Architectures</jconf>
+		<label>288</label>
+		<keyword>Quantitative Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pangaea: a tightly-coupled IA32 heterogeneous chip multiprocessor</title>
+		<year>2008</year>
+		<authors>henry wong,anne bracy,ethan schuchman,tor m. aamodt,jamison d. collins,perry h. wang,gautham n. chinya,ankur khandelwal groen,hong jiang</authors>
+		<jconf>International Conference on Parallel Architectures and Compilation Techniques</jconf>
+		<label>288</label>
+		<keyword>Chip Multiprocessor;Shared Memory;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Moore's Law and the drive towards performance eciency have led to the on-chip integration of general-purpose cores with special-purpose accelerators. Pangaea is a heteroge- neous CMP design for non-rendering workloads that inte- grates IA32 CPU cores with non-IA32 GPU-class multi- cores, extending the current state-of-the-art CPU-GPU in- tegration that physically&quot;fuses&quot;existing CPU and GPU de- signs. Pangaea introduces (1) a resource</abstract>
+	</publication>
+	<publication>
+		<title>A Dependency Chain Clustered Microarchitecture</title>
+		<year>2005</year>
+		<authors>satish narayanasamy,perry h. wang,john paul shen,brad calder</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>288</label>
+		<keyword>Compiler Construction;superscalar processor;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we explore a new clustering approach for re- ducing the complexity of wide issue in-order processors based on EPIC architectures. Complexity effectiveness is achieved by heavily clustering the pipeline from decode to commit stage without the need for any direct bypass between clusters. This is made possible by assuming support for executing compiler- constructed traces. One trace</abstract>
+	</publication>
+	<publication>
+		<title>Speculative precomputation: long-range prefetching of delinquent loads</title>
+		<year>2001</year>
+		<authors>jamison d. collins,dean m. tullsen,christopher j. hughes,yong-fong lee,daniel m. lavery,john paul shen</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Data Cache;Memory Access;simultaneous multithreading;Long Range;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores Speculative Precomputation, a tech- nique that uses idle thread contexts in a multithreaded ar- chitecture to improve performance of single-threaded appli- cations. It attacks program stalls from data cache misses by pre-computing future memory accesses in available thread contexts, and prefetching these data. This technique is eval- uated by simulating the performance of a research proces- sor</abstract>
+	</publication>
+	<publication>
+		<title>Multiple Instruction Stream Processor</title>
+		<year>2006</year>
+		<authors>richard a. hankins,gautham n. chinya,jamison d. collins,perry h. wang,ryan rakvic,john paul shen</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Architectural Design;Cache Coherence;Multiprocessor Systems;Paradigm Shift;Processor Architecture;Programming Model;Programming Paradigm;Shared Memory;Stream Processing;Thread Level Parallelism;</keyword>
+		<organization>null</organization>
+		<abstract>Microprocessor design is undergoing a major paradigm shift towards multi-core designs, in anticipation that fu- ture performance gains will come from exploiting thread- level parallelism in the software. To support this trend, we present a novel processor architecture called the Multiple Instruction Stream Processing (MISP) architecture. MISP introduces the sequencer as a new category of architectural resource, and defines a</abstract>
+	</publication>
+	<publication>
+		<title>CAT - Caching Address Tags: A Technique for Reducing Area Cost of On-Chip Caches</title>
+		<year>1995</year>
+		<authors>tong sun,qing yang</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>288</label>
+		<keyword>Cache Memory;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a technique for minimizing chip-area cost of implementing an on-chip cache memory of microprocessors. The main idea of the technique  is expected to have a great impact on overall system performance.</abstract>
+	</publication>
+	<publication>
+		<title>Processor Performance Modeling using Symbolic Simulation</title>
+		<year>2008</year>
+		<authors>omid azizi,jamison d. collins,dinesh patil,mark horowitz</authors>
+		<jconf>International Symposium on Performance Analysis of Systems and Software</jconf>
+		<label>288</label>
+		<keyword>Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inferno: a functional simulation infrastructure for modeling microarchitectural data speculations</title>
+		<year>2003</year>
+		<authors>shiri manor,dave lafollette,nadav nesher,ku-jei king,perry h. wang,shay levy,shai satt,gal carmeli,arjun kapur,ioannis schoinas,ed rubinstein,rahul bhatt</authors>
+		<jconf>International Symposium on Performance Analysis of Systems and Software</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Control Flow Optimization Via Dynamic Reconvergence Prediction</title>
+		<year>2004</year>
+		<authors>jamison d. collins,dean m. tullsen</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>288</label>
+		<keyword>Control Flow;Performance Optimization;Predictive Control;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel microarchitecture technique for accurately predicting control flow reconvergence dynamically. A reconvergence point is the earliest dynamic instruction in the program where we can expect program paths to reconverge regardless of the outcome or target of the current branch. Thus, even if the immediate control flow after a branch is uncertain, execution following the reconvergence point</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic speculative precomputation</title>
+		<year>2001</year>
+		<authors>jamison d. collins,dean m. tullsen,john paul shen</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>288</label>
+		<keyword>Critical Path;Memory Access;</keyword>
+		<organization>null</organization>
+		<abstract>A large number of memory accesses in memory-bound applications are irregular, such as pointer dereferences, and can be effectively targeted by thread-based prefetching techniques like Speculative Precomputation. These techniques execute instructions, for example on an available SMT thread context, that have been extracted directly from the program they are trying to accelerate. Proposed techniques typically require manual user intervention to</abstract>
+	</publication>
+	<publication>
+		<title>CPR: Composable performance regression for scalable multiprocessor models</title>
+		<year>2008</year>
+		<authors>benjamin c. lee,jamison d. collins,david brooks</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>288</label>
+		<keyword>Performance Estimation;Product Quality;Resource Utilization;</keyword>
+		<organization>null</organization>
+		<abstract>Uniprocessor simulators track resource utilization cycle by cycle to estimate performance. Multiprocessor simulators, however, must account for synchronization events that in- crease the cost of every cycle simulated and shared resource contention that increases the total number of cycles simulated. These effects cause multiprocessor simulation times to scale superlinearly with the number of cores. Composable performance regression (CPR) fundamentally addresses</abstract>
+	</publication>
+	<publication>
+		<title>Post-Pass Binary Adaptation for Software-Based Speculative Precomputation</title>
+		<year>2002</year>
+		<authors>steve s. w. liao,perry h. wang,john paul shen,gerolf hoflehner,daniel m. lavery</authors>
+		<jconf>Sigplan Notices</jconf>
+		<label>288</label>
+		<keyword>Long Range;Out of Order;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, a number of thread-based prefetching techniques have been proposed. These techniques aim at improving the latency of single-threaded applications by leveraging multithreading resources to perform memory prefetching via speculative prefetch threads. Software-based speculative precomputation (SSP) is one such technique, proposed for multithreaded Itanium models. SSP does not require expensive hardware support-instead it relies on the compiler to adapt binaries</abstract>
+	</publication>
+	<publication>
+		<title>EXOCHI: architecture and programming environment for a heterogeneous multi-core multithreaded system</title>
+		<year>2007</year>
+		<authors>perry h. wang,jamison d. collins,gautham n. chinya,hong jiang,xinmin tian,milind girkar,nick y. yang,guei-yuan lueh</authors>
+		<jconf>SIGPLAN Conference on Programming Language Design and Implementation</jconf>
+		<label>288</label>
+		<keyword>Domain Specificity;Parallel Computer;Power Efficiency;Programming Environment;Shared Virtual Memory;</keyword>
+		<organization>null</organization>
+		<abstract>Future mainstream microprocessors will likely integrate special- ized accelerators, such as GPUs, onto a single die to achieve bet- ter performance and power efficiency. However, it remains a keen challenge to program such a heterogeneous multi-core platform, since these specialized accelerators feature ISAs and functional- ity that are significantly different from the general purpose CPU cores. In this paper, we</abstract>
+	</publication>
+	<publication>
+		<title>A framework for modeling and optimization of prescient instruction prefetch</title>
+		<year>2003</year>
+		<authors>tor m. aamodt,pedro marcuello,paul chow,antonio gonzález,per hammarlund,john paul shen</authors>
+		<jconf>Sigmetrics Performance Evaluation Review</jconf>
+		<label>288</label>
+		<keyword>Analytical Model;Control Flow;Efficient Estimation;Path Expressions;simultaneous multithreading;itanium processor family;Markov Chain;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a framework for modeling macroscopic program behavior and applies it to optimizing prescient instruction prefetch -- novel technique that uses helper threads to improve single-threaded application performance by performing judicious and timely instruction prefetch. A helper thread is initiated when the main thread encounters a spawn point, and prefetches instructions starting at a distant target point. The</abstract>
+	</publication>
+	<publication>
+		<title>Helper Threads via Virtual Multithreading</title>
+		<year>2004</year>
+		<authors>perry h. wang,jamison d. collins,dongkeun kim,bill greene,kai-ming chan,aamir b. yunus,terry sych,stephen f. moore,john paul shen</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>288</label>
+		<keyword>Data Access;Operating System;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Helper threading is a technology to accelerate a program by exploiting a processor’s multithreading capability to run “assist” threads. Previous experiments on hyper-threaded processors have demonstrated significant speedups by using helper threads to prefetch hard-to-predict delinquent data accesses. In order to apply this technique to processors that do not have built-in hardware support for multithread- ing, we introduce virtual</abstract>
+	</publication>
+	<publication>
+		<title>Minimizing Area Cost of On-Chip Cache Memories by Caching Address Tags</title>
+		<year>1997</year>
+		<authors>tong sun,qing yang</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>288</label>
+		<keyword>Cache Memory;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a technique for minimizing chip-area cost of implementing an on-chip cache memory ofmicroprocessors. The main idea of the technique is Caching Address Tags, or CAT cache, for short. The CAT cache exploits localityproperty that exists among addresses of memory references. By keeping only a limited number of distinct tags of cached data,rather than having as many tags</abstract>
+	</publication>
+	<publication>
+		<title>Mitosis: A Speculative Multithreaded Processor Based on Precomputation Slices</title>
+		<year>2008</year>
+		<authors>carlos madriles,carlos garcía quiñones,jesús sánchez,pedro marcuello,antonio gonzález,dean m. tullsen,john paul shen</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Graph Approach to Minimizing Processor Fragmentation in Hypercube Multiprocessors</title>
+		<year>1993</year>
+		<authors>qing yang</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>288</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Composite Method to Extract Eye Contour</title>
+		<year>2005</year>
+		<authors>ke sun</authors>
+		<jconf>Affective Computing and Intelligent Interaction</jconf>
+		<label>289</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An XML-Based Implementation of Multimodal Affective Annotation</title>
+		<year>2005</year>
+		<authors>fan xia,xiaolan fu,jiaying zhao</authors>
+		<jconf>Affective Computing and Intelligent Interaction</jconf>
+		<label>289</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deception Detection Via Blob Motion Pattern Analysis</title>
+		<year>2007</year>
+		<authors>fan xia,junxian huang</authors>
+		<jconf>Affective Computing and Intelligent Interaction</jconf>
+		<label>289</label>
+		<keyword>Pattern Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fast and Robust Ellipse Detection Algorithm Based on Pseudorandom Sample Consensus</title>
+		<year>2007</year>
+		<authors>ge song</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>289</label>
+		<keyword>Ellipse Detection;Random Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Polygon Detection Algorithm for Robot Visual Servoing</title>
+		<year>2008</year>
+		<authors>ge song,miao hao,zengqi sun</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>289</label>
+		<keyword>Detection Algorithm;visual servoing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Pose Estimation for Outdoor Mobile Robots Using Range Data</title>
+		<year>2002</year>
+		<authors>ming yang,bin dong,bo zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>289</label>
+		<keyword>Mobile Robot;Pose Estimation;Range Data;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PAD Model Based Facial Expression Analysis</title>
+		<year>2008</year>
+		<authors>jie cao,po hu,junwei miao</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>289</label>
+		<keyword>Facial Expression Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Stereovision Method for Obstacle Detection and Tracking in Non-Flat Urban Environments</title>
+		<year>2005</year>
+		<authors>qian yu,helder araújo</authors>
+		<jconf>Autonomous Robots</jconf>
+		<label>289</label>
+		<keyword>Obstacle Detection;Urban Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color-based road detection in urban traffic scenes</title>
+		<year>2004</year>
+		<authors>yinghua he,bo zhang</authors>
+		<jconf>IEEE Transactions on Intelligent Transportation Systems</jconf>
+		<label>289</label>
+		<keyword>Road Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Workflow Management Mechanism for Peer-to-Peer Computing Platforms</title>
+		<year>2005</year>
+		<authors>hiroyuki takizawa,hiroaki kobayashi</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>290</label>
+		<keyword>Peer-to-peer Computing;Workflow Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Reliability Model for Result Checking in Volunteer Computing</title>
+		<year>2008</year>
+		<authors>ling xu,hiroyuki takizawa,hiroaki kobayashi</authors>
+		<jconf>Symposium on Applications and the Internet</jconf>
+		<label>290</label>
+		<keyword>Reliability Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A dependable Peer-to-Peer computing platform</title>
+		<year>2007</year>
+		<authors>hiroyuki takizawa,hiroaki kobayashi</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>290</label>
+		<keyword>Peer-to-peer Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Performance Study of Secure Data Mining on the Cell Processor</title>
+		<year>2008</year>
+		<authors>hiroyuki takizawa,hiroaki kobayashi</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>290</label>
+		<keyword>Cell Processor;Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementing a Scalable ASC Processor</title>
+		<year>2003</year>
+		<authors>robert a. walker</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>291</label>
+		<keyword>Scaling Up;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>Previous papers (1,2) have described our implementation of a small prototype processor and control unit for associative computing, called the ASC Procesor. That initial prototype was implemented on an Altera education board using an Altera FLEX 10K FPGA, and was limited to an unrealistic 4 Processing Elements (PEs). This paper describes a more complete implementation — a scalable ASC processor</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Associative Processor with Applications in Database and Image Processing</title>
+		<year>2004</year>
+		<authors>lei xie,meiduo wu,robert a. walker</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>291</label>
+		<keyword>Edge Detection;Image Processing;Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the implementation and use of a dedicated associative SIMD co-processor ideally suited for many applications such as database processing, image processing, genome matching, or molecular similarity analysis. The concept of associative SIMD processing is introduced, and differentiated from other associative and SIMD techniques. Then our ASC (ASsociative Computing) processor is briefly described, along with its implementation of</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Pipelined Associative SIMD Array with Reconfigurable PE Interconnection Network for Embedded Applications</title>
+		<year>2005</year>
+		<authors>robert a. walker</authors>
+		<jconf>Parallel and Distributed Computing Systems</jconf>
+		<label>291</label>
+		<keyword>Data Mining;Embedded System;fpga implementation;Interconnection Network;String Matching;Processing Element;system on a chip;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the FPGA implementation of a specialized SIMD processor array for embedded applications. An alternative to traditional SoC or MPSoC architectures, this array combines the massive parallelism inherent in SIMD architectures with the search capabilities of associative computing, producing a SIMD Processor Array System on a Chip (PASoC) well suited for applications such as data mining and bioinformatics.</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of DC characteristics of GaAs double heterojunction bipolar transistors (DHBTs) with a pseudomorphic GaAsSb base</title>
+		<year>2006</year>
+		<authors>yuan tian</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<label>292</label>
+		<keyword>Double Heterojunction Bipolar Transistor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Temperature dependence of DC characteristics of NpN InP/GaAsSb/InP double heterojunction bipolar transistors: an analytical study</title>
+		<year>2006</year>
+		<authors>yuan tian</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<label>292</label>
+		<keyword>Temperature Dependence;Double Heterojunction Bipolar Transistor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Directed Bipartite Graphs Containing Every Possible Pair of Directed Cycles</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Ars Combinatoria</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Quadrilaterals and Cycle Covers in a Bipartite Graph</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Ars Combinatoria</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Maximal Total Length Of k Disjoint Cycles In Bipartite Graphs</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Combinatorica</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;Total Length;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vertex-Disjoint Triangles in Claw-Free Graphs with Minimum Degree at Least Three</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Combinatorica</jconf>
+		<label>293</label>
+		<keyword>claw-free graph;Minimum Degree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>All trees contain a large induced subgraph having all degrees 1 (mod k)</title>
+		<year>1997</year>
+		<authors>david m. berman,a. j. radcliffe,alex d. scott,larry wargo</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>. We prove that, for integers n  2 and k  2, every tree with n verticescontains an induced subgraph of order at least 2b(n + 2k \Gamma 3)=(2k \Gamma 1)c with all degreescongruent to 1 modulo k. This extends a result of Radcliffe and Scott, and answers aquestion of Caro, Krasikov and Roditty.y Supported in part by NSF 94013511x1. IntroductionAn</abstract>
+	</publication>
+	<publication>
+		<title>Existence of two disjoint long cycles in graphs</title>
+		<year>2005</year>
+		<authors>yoshimi egawa,shinya fujita,ken-ichi kawarabayashi</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Let n, h be integers with n ≥ 6 and h ≥ 7. We prove that if G is a graph of order n with σ2(G) ≥ h, then G contains two disjoint cycles C1 and C2 such that |V (C1)| + |V (C2) |≥ min{h, n}.</abstract>
+	</publication>
+	<publication>
+		<title>Covering vertices of a graph by k disjoint cycles</title>
+		<year>2003</year>
+		<authors>yoshimi egawa,mariko hagita,ken-ichi kawarabayashi</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An extension of a theorem on cycles containing specified independent edges</title>
+		<year>2002</year>
+		<authors>yoshiyas ishigami</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On quadrilaterals in a graph</title>
+		<year>1999</year>
+		<authors>bert randerath,ingo schiermeyer</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vertex-disjoint quadrilaterals in graphs</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Partition of a bipartite graph into cycles</title>
+		<year>1993</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>P2p-factorization of a complete bipartite graph</title>
+		<year>1993</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Complete Bipartite Graph;P2P;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On K1, k-factorizations of a complete bipartite graph</title>
+		<year>1994</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Complete Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vertex-disjoint hexagons with chords in a bipartite graph</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Triangles in claw-free graphs</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>claw-free graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the maximum number of independent cycles in a graph</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bipartite graphs containing every possible pair of cycles</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Partition of a directed bipartite graph into two directed cycles</title>
+		<year>1996</year>
+		<authors>charles h. c. little,kee l. teo</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Packing Three Copies of a Tree into a Complete Graph</title>
+		<year>1993</year>
+		<authors>norbert sauer</authors>
+		<jconf>European Journal of Combinatorics</jconf>
+		<label>293</label>
+		<keyword>Complete Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Independent Cycles in a Bipartite Graph</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Graphs and Combinatorics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Maximum Number of Independent Cycles in a Bipartite Graph</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Journal of Combinatorial Theory</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pentagons and cycle coverings</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<label>293</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Disjoint directed quadrilaterals in a directed graph</title>
+		<year>2005</year>
+		<authors>danhong zhang</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<label>293</label>
+		<keyword>Directed Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Covering a Bipartite Graph with Cycles</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Siam Journal on Discrete Mathematics</jconf>
+		<label>293</label>
+		<keyword>Bipartite Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

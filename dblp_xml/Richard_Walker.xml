@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Richard Walker</FullName>
+	<publication>
+		<title>Replicating Experiments in &quot;Detour Behavior&quot; with Artifically Evolved Robots: An ALife Approach to Comparative Psychology</title>
+		<year>1999</year>
+		<authors>orazio miglino</authors>
+		<jconf>European Conference on Artificial Life</jconf>
+		<label>869</label>
+		<keyword>Cognitive Map;Evolutionary Process;Bottom Up;</keyword>
+		<organization>null</organization>
+		<abstract>To be useful in psychology &quot;artificial organisms&quot; have to perform tasks comparable to those performed by animals. One way to achieve this is to replicate actual animal experiments. Here we reproduce an experiment show- ing &quot;detour behavior&quot; in chicks - a behavior usually explained in terms of &quot;cognitive maps&quot; or other forms of interna l representation . We artificially evolve</abstract>
+	</publication>
+	<publication>
+		<title>Genetic Redundancy in Evolving Populations of Simulated Robots</title>
+		<year>2002</year>
+		<authors>orazio miglino</authors>
+		<jconf>Artificial Life</jconf>
+		<label>869</label>
+		<keyword>Genetics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Niche Selection' and the Evolution of a Complex Behavior in a Changing Environment--A Simulation</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Artificial Life</jconf>
+		<label>869</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evolving an action-based mechanism for the interpretation of geometrical clues during robot navigation</title>
+		<year>2004</year>
+		<authors>orazio miglino</authors>
+		<jconf>Connection Science</jconf>
+		<label>869</label>
+		<keyword>Robot Navigation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Memory Consolidation and Forgetting During Sleep: A Neural Network</title>
+		<year>2004</year>
+		<authors>vincenzo russo</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<label>869</label>
+		<keyword>Memory Consolidation;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Introducing 'conversational' E-learning To Management Education : A Comparison Of Student Experiences From Two MIS Courses</title>
+		<year>2002</year>
+		<authors>walter baets</authors>
+		<jconf>European Conference on Information Systems</jconf>
+		<label>870</label>
+		<keyword>Course Design;Knowledge Building;Learning Methods;Management Education;Management Information System;Skill Acquisition;Student Attitude;Student Experience;student-centred learning;</keyword>
+		<organization>null</organization>
+		<abstract>This paper draws on the experiences of management education students following courses using a combination of e-learning and class-based learning methods at Nyenrode University. Evidence is taken from two international MBA courses in Management Information Systems, which followed the same pedagogical design but were delivered using contrasting IT platforms. Both courses were designed to support a &quot;conversational&quot; rather than &quot;instructional&quot;</abstract>
+	</publication>
+	<publication>
+		<title>E-learning as a Vehicle for Knowledge Management</title>
+		<year>2001</year>
+		<authors>sunil choenni,robin bakker,walter baets</authors>
+		<jconf>International Conference on Applications of Prolog</jconf>
+		<label>870</label>
+		<keyword>E-learning Environment;Knowledge Management;Lessons Learned;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays, companies want to learn from their own experiences and to be able to enhance that experience with best principles and lessons learned from other companies. Companies emphasise the importance of knowledge management, particularly the relationship between knowledge and learning within an organisation. We feel that an e-learning environment may contribute to knowledge management on the one hand and to</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Richard M. Wilson</FullName>
+	<publication>
+		<title>Dynamic Hierarchy Specification and Visualization</title>
+		<year>1999</year>
+		<authors>r. daniel bergeron</authors>
+		<jconf>IEEE Symposium on Information Visualization</jconf>
+		<label>867</label>
+		<keyword>Design and Implementation;Information Exploration;Semantic Information;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes concepts that underlie the design and implementation of an information exploration system that allows users to impose arbitrary hierarchical organizations on their data. Such hierarchies allow a user to embed important semantic information into the hierarchy definition. Our goal is to recognize the significance of this implicit information and to utilize it in the hierarchy visualization. The</abstract>
+	</publication>
+</person>

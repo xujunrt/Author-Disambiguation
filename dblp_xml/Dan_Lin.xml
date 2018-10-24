@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dan Lin</FullName>
+	<publication>
+		<title>A Genetic Algorithm for Solving Portfolio Optimization Problems with Transaction Costs and Minimum Transaction Lots</title>
+		<year>2005</year>
+		<authors>xiaoming li,minqiang li</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>165</label>
+		<keyword>Portfolio Optimization;Transaction Cost;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Simulated Annealing for Standard Cell Placement</title>
+		<year>2005</year>
+		<authors>guofang nan,minqiang li,jisong kou</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>165</label>
+		<keyword>Adaptive Simulated Annealing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Solving Fuzzy Resource-Constrained Project Scheduling</title>
+		<year>2005</year>
+		<authors>hong wang,minqiang li</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>165</label>
+		<keyword>Project Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Solving Resource-Constrained Project Scheduling Problem</title>
+		<year>2005</year>
+		<authors>hong wang,minqiang li</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>165</label>
+		<keyword>Resource Constrained Project Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamics of fitness sharing evolutionary algorithms for coevolution of multiple species</title>
+		<year>2010</year>
+		<authors>minqiang li,jisong kou</authors>
+		<jconf>Applied Soft Computing</jconf>
+		<label>165</label>
+		<keyword>Coevolution;Evolutionary Algorithm;Fitness Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An investigation on niching multiple species based on population replacement strategies for multimodal functions optimization</title>
+		<year>2010</year>
+		<authors>minqiang li,jisong kou</authors>
+		<jconf>Soft Computing</jconf>
+		<label>165</label>
+		<keyword>Function Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

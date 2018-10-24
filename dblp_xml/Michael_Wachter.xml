@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Wachter</FullName>
+	<publication>
+		<title>Wissensbasierte Suche in Projektbibliotheken</title>
+		<year>1987</year>
+		<authors></authors>
+		<jconf>Knowledge-Based Systems</jconf>
+		<label>709</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

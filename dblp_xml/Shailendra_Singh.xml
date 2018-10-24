@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shailendra Singh</FullName>
+	<publication>
+		<title>Architecture of Agent-Based Healthcare Intelligent Assistant on Grid Environment</title>
+		<year>2004</year>
+		<authors>bukhary ikhwan ismail,fazilah haron,chan huah yong</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>936</label>
+		<keyword>Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RFID Based Localization for a Miniaturized Robotic Platform for Wireless Protocols Evaluation</title>
+		<year>2009</year>
+		<authors>vikram munishwar,christopher mitchell,xiaoshuang wang,kartik gopalan,nael b. abu-ghazaleh</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>937</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Accuracy of RFID-based Localization in a Mobile Wireless Network Testbed</title>
+		<year>2009</year>
+		<authors>vikram munishwar,xiaoshuang wang,christopher mitchell,kartik gopalan,nael b. abu-ghazaleh</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>937</label>
+		<keyword>Experimental Evaluation;Large Scale;Local System;Mobile Wireless Network;Mobility Pattern;multi-hop wireless network;Network Topology;Rfid Tag;Wireless Network;Mobile Node;</keyword>
+		<organization>null</organization>
+		<abstract>The extensive recent research in protocols develop- ment for wireless networks must be complemented with simple yet efficient prototyping and evaluation mechanism. MiNT-2 is a miniaturized multi-hop wireless network testbed that addresses this challenge by combining the benefits of existing protocol evaluations strategies: simulations and custom built large scale wireless network testbeds. A key component of MiNT-2 is the ability</abstract>
+	</publication>
+</person>

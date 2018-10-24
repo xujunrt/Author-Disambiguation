@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Abdul Sattar</FullName>
+	<publication>
+		<title>Teach graphics using excel in place of a graphing calculator</title>
+		<year>2006</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>bezier curve;Computer Graphic;Levels of Abstraction;Linear Algebra;</keyword>
+		<organization>null</organization>
+		<abstract>Excel spreadsheets were developed to teach the underlying math in a computer graphics course including reviewing basic linear algebra operations, tracing a series of OpenGL transformations, and creating Bezier curves and surfaces with forward differences. Each spreadsheet contains an English overview of the mathematical process and the numerical result of each sub step thus providing a high level of abstraction.</abstract>
+	</publication>
+	<publication>
+		<title>Objects first using Alice to introduce object constructs in CS1</title>
+		<year>2008</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>Computer Program;Object Oriented;Object Oriented Programming;Object-oriented Language;Programming Language;</keyword>
+		<organization>null</organization>
+		<abstract>Java has become the programming language of choice for the first computer programming course in most of the computer science programs in the country. However, Java is a true objected-oriented language and requires instructors to introduce object-oriented constructs (classes, objects and methods) early in the course. This poses a problem for both students (who find the introduction to objects to</abstract>
+	</publication>
+	<publication>
+		<title>How to create an online internet course</title>
+		<year>2008</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>Computer Graphic;Student Learning;</keyword>
+		<organization>null</organization>
+		<abstract>The authors have developed two hybrid internet courses with one weekly meeting per week instead of the traditional two or three meetings. One course teaches how to use Microsoft Office and is a service course. The other teaches Computer Graphics to computer science majors. The internet materials are structured to use each of the three student learning styles: visual, auditory,</abstract>
+	</publication>
+	<publication>
+		<title>Develop a shopping mart web application</title>
+		<year>2006</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>Cascading Style Sheets;Markup Language;Front End;</keyword>
+		<organization>null</organization>
+		<abstract>The authors' junior/senior CS class at Bridgewater State College implemented a web site similar to the shopping mart found at AMAZON.COM. The application was broken into four assignments which included an email address verifier written in Java, a 5 page GUI front-end to the web site written in Hypertext Markup Language (HTML), Java Script and Cascading Style Sheet (CSS), a</abstract>
+	</publication>
+	<publication>
+		<title>Develop a compiler in Java for a compiler design course</title>
+		<year>2007</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>Code Generation;Java Virtual Machine;Language Use;</keyword>
+		<organization>null</organization>
+		<abstract>The authors' Compiler Design course at Bridgewater State College implemented a translator for a small language using Java. The project was broken into five assignments that included a language definition, extension of this language, a lexical analyzer, a recursive descent parser, and finally a code generator that generated Jasmin assembly language code for the JVM (Java Virtual Machine).</abstract>
+	</publication>
+	<publication>
+		<title>Computer applications: a service course</title>
+		<year>2007</year>
+		<authors>torben lorenzen</authors>
+		<jconf>Inroads (ACM Sigcse Bulletin)</jconf>
+		<label>1</label>
+		<keyword>Computer Application;Graduate Student;</keyword>
+		<organization>null</organization>
+		<abstract>A paperless computer applications course, which is driven by an online syllabus is described. Students demo their work on the computer rather than hand in paper assignments. Several advanced topics are included to challenge the students and downloads are provided to minimize the amount of student busywork. The use of weekly lecture and assignment downloads allow instructors to teach sections</abstract>
+	</publication>
+	<publication>
+		<title>Teach Alice programming to non-majors</title>
+		<year>2009</year>
+		<authors>torben lorenzen</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1</label>
+		<keyword>Computer Program;Design and Implementation;Object Oriented Programming;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design and implementation of an introductory computer programming course using Alice for non-CS majors. This course gives a broad overview of computer science as an academic discipline and teaches computer programming to non-CS majors in a fun way.</abstract>
+	</publication>
+	<publication>
+		<title>MVAAM (multi-view active appearance model) optimized by multi-objective genetic algorithm</title>
+		<year>2008</year>
+		<authors>renaud séguier</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>2</label>
+		<keyword>Active Appearance Model;Multi Objective Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GGA-AAM: Novel heuristic method of gradient driven Genetic Algorithm for Active Appearance Models</title>
+		<year>2008</year>
+		<authors>renaud séguier</authors>
+		<jconf>International Conference on Digital Information Management</jconf>
+		<label>2</label>
+		<keyword>Active Appearance Model;Heuristic Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GAGM-AAM: A genetic optimization with Gaussian mixtures for Active Appearance Models</title>
+		<year>2008</year>
+		<authors>yasser aidarous,renaud séguier</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>2</label>
+		<keyword>Active Appearance Model;Embedded System;Face Alignment;Gaussian Mixture;Genetic Algorithm;Genetics;Indexing Terms;Optimization Technique;Search Space;genetic al gorithm;Gaus Sian Mixture Model;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an optimization technique of genetic al- gorithm (GA) combined with Gaussian mixtures (GAGM) to make a robust, efficient and real time face alignment applica- tion for embedded systems. It uses 2.5D Active Appearance Model (AAM) for the face search, the model is generated by taking 3D landmarks and 2D texture of the face image. 3D face alignment</abstract>
+	</publication>
+	<publication>
+		<title>Face alignment using active appearance model optimized by simplex</title>
+		<year>2007</year>
+		<authors>yasser aidarous,sylvain le gallou,renaud séguier</authors>
+		<jconf>Computer Vision Theory and Applications</jconf>
+		<label>2</label>
+		<keyword>Active Appearance Model;Embedded System;Face Alignment;Generic Model;Human Machine Interface;Mobile Phone;Optimal Method;Personal Digital Assistant;nelder mead;</keyword>
+		<organization>null</organization>
+		<abstract>The active appearance models (AAM) are robust in face alignment. We use this method to analyze gesture and motions of faces in Human Machine Interfaces (HMI) for embedded systems (mobile phone, game con- sole, PDA: Personal Digital Assistant). However these models are not only high memory consumer but also efficient especially when the aligning objects in the learni ng data</abstract>
+	</publication>
+	<publication>
+		<title>HMOAM: hybrid multi-objective genetic optimization for facial analysis by appearance model</title>
+		<year>2010</year>
+		<authors>renaud séguier</authors>
+		<jconf></jconf>
+		<label>2</label>
+		<keyword>Genetics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

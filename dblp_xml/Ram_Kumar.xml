@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ram Kumar</FullName>
+	<publication>
+		<title>Learning to Perform Weather Forecasting Operations</title>
+		<year>1993</year>
+		<authors>charles chung,craig a. lindley</authors>
+		<jconf>Scandinavian Conference on AI</jconf>
+		<label>864</label>
+		<keyword>Weather Forecasting;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Georg Schneider</FullName>
+	<publication>
+		<title>AWI: a workbench for semi-automated illustration design</title>
+		<year>1994</year>
+		<authors>thomas rist,antonio kriiger,detlev zimmermann</authors>
+		<jconf>Working Conference on Advanced Visual Interfaces</jconf>
+		<label>253</label>
+		<keyword>Automatic Generation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present the system AWI (A Workbench for semi-automated Illustration design). AWI provides operationalizations of illustration techniques frequently used in technical illustration. Given that pure editing systems are too low-level, and that automatically generated illustrations are often suboptimal with regard to functional and aesthetic aspects, semi-automatism seems a reasonable way to produce effective illustrations more efficiently. Within</abstract>
+	</publication>
+	<publication>
+		<title>Integrating synchronous multimedia collaboration into workflow management</title>
+		<year>1997</year>
+		<authors>michael weber,gerhard partsch,siegfried höck,astrid scheller-houy,jean schweitzer</authors>
+		<jconf>International Conference on Supporting Group Work</jconf>
+		<label>253</label>
+		<keyword>Collaborative System;Group Work;Workflow Management;Workflow Management System;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Two different areas of distributed group work are supported by workflow management systems and real-time collaboration systems. Workflow management systems sup- port work being structured in steps such that each step can be handled with the results of former steps and the expertise of the person working on that step. On the other hand, multimedia collaboration systems are best suited</abstract>
+	</publication>
+	<publication>
+		<title>Mobile Reality: A PDA-Based Multimodal Framework Synchronizing a Hybrid Tracking Solution with 3D Graphics and Location-Sensitive Speech Interaction</title>
+		<year>2002</year>
+		<authors>stuart goose,heiko wanning</authors>
+		<jconf>Ubiquitous Computing/Handheld and Ubiquitous Computing</jconf>
+		<label>253</label>
+		<keyword>3d graphics;multi-modal interface;Pocket Pc;User Interface;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>A maintenance engineer who talks to pumps and pipes may not seem like the ideal person to entrust with keeping a factory running smoothly, but we hope that our Mobile Reality framework will enable such behavior in the future to be anything but suspicious! Described in this paper is how the Mobile Reality framework, running entirely on a Pocket PC,</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Location-Based Composite Devices to Support and Facilitate Situated Ubiquitous Computing</title>
+		<year>2000</year>
+		<authors>thai-lai pham,stuart goose</authors>
+		<jconf>Ubiquitous Computing/Handheld and Ubiquitous Computing</jconf>
+		<label>253</label>
+		<keyword>Base Composition;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adhoc Personal Ubiquitous Multimedia Services Via Upnp</title>
+		<year>2001</year>
+		<authors>christian hoymann,stuart goose</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>253</label>
+		<keyword>Multimedia Services;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Telearbeit auf der Grundlage einer neuen Kommunikations-technologie</title>
+		<year>1998</year>
+		<authors>patric hoechst,karsten merschjan,jean schweitzer</authors>
+		<jconf>Internationales Symposium f��r Informationswissenschaft</jconf>
+		<label>253</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Toward Improving the Mobile Experience with Proxy Transcoding and Virtual Composite Devices for a Scalable Bluetooth LAN Access Solution</title>
+		<year>2002</year>
+		<authors>stuart goose,raj tanikella,hans mollenhauer,philippe menard,yannick le floc'h,philippe pillan</authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>253</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A situated computing framework for mobile and ubiquitous multimedia access using small screen and composite devices</title>
+		<year>2000</year>
+		<authors>thai-lai pham,stuart goose</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>253</label>
+		<keyword>Distributed Computing;Mobile Multimedia;Personal Digital Assistant;Small Screen Device;Ubiquitous Computing;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, small screen devices, such as cellular phones or Personal Digital Assistants (PDAs), enjoy phenomenal popularity. PDAs can be used to complement traditional computing systems to access personal multimedia information beyond the usage as digital organizers. However, due to the physical limitations accessing rich multimedia contents and diverse services using a single PDA is more difficult. Hence, the</abstract>
+	</publication>
+	<publication>
+		<title>Wissensbasierte Grafikgenerierung: eine Werkbank zum Erzeugen von 3D-Illustrationen</title>
+		<year>1995</year>
+		<authors></authors>
+		<jconf>K��nstliche Intelligenz</jconf>
+		<label>253</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Composite Device Computing Environment: A Framework for Situated Interaction Using Small Screen Devices</title>
+		<year>2001</year>
+		<authors>thai-lai pham,stuart goose,arturo pizano</authors>
+		<jconf>Personal and Ubiquitous Computing</jconf>
+		<label>253</label>
+		<keyword>Small Screen Device;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Contemporary small screen devices are used as personal companion or communication devices. However, their physical dimensions constrain the processing, communication and user interface capabilities. Thus, rich content presentation and diverse service access via small screen appliances is limited accordingly. This paper introduces the Composite Device Computing Environment (CDCE) that provides a framework for dynamically detecting and utilising surrounding computing resources</abstract>
+	</publication>
+</person>

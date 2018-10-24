@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Hoffmann</FullName>
+	<publication>
+		<title>Efficient Update Strategies for Geometric Computing with Uncertainty</title>
+		<year>2005</year>
+		<authors>richard bruce,danny krizanc,rajeev raman</authors>
+		<jconf>Theory of Computing Systems / Mathematical Systems Theory</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network Discovery and Verification with Distance Queries</title>
+		<year>2006</year>
+		<authors>thomas erlebach,alexander hall,matús mihalák</authors>
+		<jconf>Italian Conference on Algorithms and Complexity</jconf>
+		<label>687</label>
+		<keyword>Approximate Algorithm;Community Networks;Competitive Analysis;Competitive Ratio;On-line Algorithm;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>The network discovery (verification) problem asks for a mini mum subset Q ⊆ V of queries in an undirected graph G = (V, E) such that these queries discover all edges and non-edges of the graph. This is motivated by the common approach of combining local measurements in order to obtain maps of the Internet or other dynamically growing networks.</abstract>
+	</publication>
+	<publication>
+		<title>Network Discovery and Verification</title>
+		<year>2006</year>
+		<authors>zuzana beerliova,felix eberhard,thomas erlebach,alexander hall,matús mihalák,l. shankar ram</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>687</label>
+		<keyword>Approximate Algorithm;Competitive Analysis;Competitive Ratio;On-line Algorithm;Set Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Consider the problem of discovering (or verifying) the edges and nonedges of a network, modelled as a connected undirected graph, using a minimum number,of queries. A query at a vertex v discovers (or verifies) all edges and nonedges whose endpoints have different distance from v. In the network discovery problem, the edges and non-edges are initially unknown, and the</abstract>
+	</publication>
+	<publication>
+		<title>Streaming Algorithms for Data in Motion</title>
+		<year>2007</year>
+		<authors>s. muthukrishnan,rajeev raman</authors>
+		<jconf>Combinatorics, Algorithms, Probabilistic and Experimental Methodologies</jconf>
+		<label>687</label>
+		<keyword>Data Stream;Streaming Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We propose two new data stream models: the reset model and the delta model, motivated by applications to databases, and to tracking the location of spatial points. We present algorithms for several problems that fit within the stream constraint of polylogarithmic space and time. These include tracking the &quot;extent&quot; of the points and Lp sampling.</abstract>
+	</publication>
+	<publication>
+		<title>Biautomatic Semigroups</title>
+		<year>2005</year>
+		<authors>richard m. thomas</authors>
+		<jconf>Fundamentals of Computation Theory</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Notions of Hyperbolicity in Monoids</title>
+		<year>2007</year>
+		<authors>richard m. thomas</authors>
+		<jconf>Fundamentals of Computation Theory</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing Minimum Spanning Trees with Uncertainty</title>
+		<year>2008</year>
+		<authors>thomas erlebach,danny krizanc,matús mihal'ák,rajeev raman</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>687</label>
+		<keyword>Algorithms and Data Structure;Degeneration;Euclidean Space;Minimum Spanning Tree;Uncertainty Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the minimum spanning tree problem in a setting where informa- tion about the edge weights of the given graph is uncertain. Initially, for each edge e of the graph only a set Ae, called an uncertainty area, that contains the actual edge weight we is known. The algorithm can 'update' e to obtain the edge weight we 2</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Semigroups with Subsemigroups of Finite Rees Index</title>
+		<year>2002</year>
+		<authors>richard m. thomas,nikola ruskuc</authors>
+		<jconf>International Journal of Algebra and Computation</jconf>
+		<label>687</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: The notion of automaticity has been widely studied in groups and some progress has been made in understanding this notion in the wider context of semigroups. The purpose of this paper is to study the connections between the automaticity of semigroups S and T where T is a subsemigroup of finite Rees index in S.</abstract>
+	</publication>
+	<publication>
+		<title>Network Discovery and Verification</title>
+		<year>2006</year>
+		<authors>zuzana beerliova,felix eberhard,thomas erlebach,alexander hall,matús mihalák,l. shankar ram</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>687</label>
+		<keyword>Approximate Algorithm;Competitive Analysis;Competitive Ratio;On-line Algorithm;Set Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Consider the problem of discovering (or verifying) the edges and nonedges of a network, modelled as a connected undirected graph, using a minimum number,of queries. A query at a vertex v discovers (or verifies) all edges and nonedges whose endpoints have different distance from v. In the network discovery problem, the edges and non-edges are initially unknown, and the</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Update Strategies for Geometric Computing with Uncertainty</title>
+		<year>2005</year>
+		<authors>richard bruce,danny krizanc,rajeev raman</authors>
+		<jconf>Theory of Computing Systems / Mathematical Systems Theory</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A geometric characterization of automatic semigroups</title>
+		<year>2006</year>
+		<authors>richard m. thomas</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Notions of hyperbolicity in monoids</title>
+		<year>2010</year>
+		<authors>richard m. thomas</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>687</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Business Process Model to Application System - Developing an Information System with the House of Business Engineering (HOBE)</title>
+		<year>1999</year>
+		<authors>august-wilhelm scheer</authors>
+		<jconf>Conference on Advanced Information Systems Engineering</jconf>
+		<label>688</label>
+		<keyword>Business Process Model;Information System;System Development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Entwurf, Simulation und Implementierung von Fuzzy-Logic in einer integrierten Entwicklungsumgebung</title>
+		<year>1992</year>
+		<authors></authors>
+		<jconf>Fuzzy Days</jconf>
+		<label>689</label>
+		<keyword>Fuzzy Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

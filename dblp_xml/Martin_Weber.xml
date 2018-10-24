@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Weber</FullName>
+	<publication>
+		<title>Catalog Integration Made Easy</title>
+		<year>2003</year>
+		<authors>pedro josé marrón,georg lausen</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>658</label>
+		<keyword>E Commerce;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study adaptive evaluation techniques for querying XML- based electronic catalogs, and show, by means of experiments performed on real-world catalogs, that our approach can be used to integrate them with virtually zero effort at start-up time, and a small constant factor needed to perform the adaptive evaluation for all subsequent queries. We reach the conclusion that,</abstract>
+	</publication>
+	<publication>
+		<title>XPath-Transformationen zur Integration von XML-Datenströmen</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>658</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

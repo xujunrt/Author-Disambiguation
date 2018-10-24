@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ning Zhang</FullName>
+	<publication>
+		<title>XML Query Processing and Optimization</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Extending Database Technology</jconf>
+		<label>782</label>
+		<keyword>Optimization Technique;Relation Algebra;Xml Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, I summarize my research on optimizing XML queries. This work has two components: the first component is the de- finition of a logical algebra and logical optimization techniques. This algebra can be translated into dierent physical algebras such as native or extended-relational algebras. The second component is the design of physical storage structures and physical optimization techniques.</abstract>
+	</publication>
+	<publication>
+		<title>Finding shortest paths in large network systems</title>
+		<year>2001</year>
+		<authors>edward p. f. chan</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>782</label>
+		<keyword>dijkstra's algorithm;Graph Partitioning;Networked Systems;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a disk-based algorithm for finding shortest paths in a large network system. It employs a strategy of processing the network piece by piece and is based on new algorithms for graph partitioning and for finding shortest paths that overcome the problem of existing approaches. To show that it is scalable to large network systems and is adaptable</abstract>
+	</publication>
+	<publication>
+		<title>Hive - a petabyte scale data warehouse using Hadoop</title>
+		<year>2010</year>
+		<authors>ashish thusoo,joydeep sen sarma,namit jain,zheng shao,prasad chakka,suresh anthony,hao liu,raghotham murthy</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>783</label>
+		<keyword>Data Warehouse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compact Access Control Labeling for Efficient Secure XML Query Evaluation</title>
+		<year>2005</year>
+		<authors>huaxin zhang,kenneth salem,donghui zhuo</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>782</label>
+		<keyword>Query Evaluation;Xml Database;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Fine-grained access controls for XML deflne access privileges at the granularity of individual XML nodes. In this paper, we present a flne-grained access control mech- anism for XML data. This mechanism exploits the structural locality of access rights as well as correlations among the access rights of difierent users to produce a com- pact physical encoding of the access control</abstract>
+	</publication>
+	<publication>
+		<title>BlossomTree: Evaluating XPaths in FLWOR Expressions</title>
+		<year>2005</year>
+		<authors>shishir agrawal,m. tamer özsu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>782</label>
+		<keyword>Data Structure;Experimental Study;Path Expressions;Pattern Matching;Abstract Data Type;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Efficient evaluation of path expressions has been studied extensively. However, evaluating more com- plex FLWOR expressions that contain multiple path expressions has not been well studied. In this paper, we propose a novel pattern matching approach, called BlossomTree, to evaluate a FLWOR expression that contains correlated path expressions. BlossomTree is a formalism to capture the semantics of the path</abstract>
+	</publication>
+	<publication>
+		<title>A Succinct Physical Storage Scheme for Efficient Evaluation of Path Queries in XML</title>
+		<year>2004</year>
+		<authors>varun kacholia,m. tamer özsu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>782</label>
+		<keyword>Path Expressions;Pattern Matching;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Path expressions are ubiquitous in XML processing lan- guages. Existing approaches evaluate a path expression by selecting nodes that satisfies the tag-name and value con- straints and then joining them according to the structural constraints. In this paper, we propose a novel approach, next-of-kin (NoK) pattern matching, to speed up the node- selection step, and to reduce the join size</abstract>
+	</publication>
+	<publication>
+		<title>XSEED: Accurate and Fast Cardinality Estimation for XPath Queries</title>
+		<year>2006</year>
+		<authors>m. tamer özsu,ashraf aboulnaga,ihab f. ilyas</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>782</label>
+		<keyword>Dynamic Configuration;</keyword>
+		<organization>null</organization>
+		<abstract>We propose XSEED, a synopsis of path queries for cardinality estimation that is accurate, robust, efficient, and adaptive to memory budgets. XSEED starts from a very small kernel, and then incrementally updates information of the synopsis. With such an incremental construction, a synopsis structure can be dynamically configured to accom- modate different memory budgets. Cardinality estimation based on XSEED can</abstract>
+	</publication>
+	<publication>
+		<title>InterJoin: Exploiting Indexes and Materialized Views in XPath Evaluation</title>
+		<year>2006</year>
+		<authors>derek phillips,ihab f. ilyas,m. tamer özsu</authors>
+		<jconf>Statistical and Scientific Database Management</jconf>
+		<label>782</label>
+		<keyword>Cost Model;Data Exchange;Materialized Views;Pattern Matching;Query Evaluation;Query Optimization;Query Processing;Scientific Communication;Scientific Data;Spatial Index;</keyword>
+		<organization>null</organization>
+		<abstract>XML has become the standard for data exchange for a wide variety of applications, particularly in the scientific community. In order to efficiently process queries on XML representations of scientific data, we require specialized techniques for evaluating XPath expressions. Exploiting materialized views in query processing significantly en- hances query processing performance. We propose a novel view definition that allows for</abstract>
+	</publication>
+	<publication>
+		<title>FIX: Feature-based Indexing Technique for XML Documents</title>
+		<year>2006</year>
+		<authors>m. tamer özsu,ihab f. ilyas,ashraf aboulnaga</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>782</label>
+		<keyword>Experimental Study;Feature Vector;Graph Theory;Indexation;Structural Properties;Xml Database;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Indexing large XML databases is crucial for ecient eval- uation of XML twig queries. In this paper, we propose a feature-based indexing technique, called FIX, based on spec- tral graph theory. The basic idea is that for each twig pat- tern in a collection of XML documents, we calculate a vector of features based on its structural properties. These features</abstract>
+	</publication>
+	<publication>
+		<title>Statistical Learning Techniques for Costing XML Queries</title>
+		<year>2005</year>
+		<authors>peter j. haas,vanja josifovski,guy m. lohman,chun zhang</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>782</label>
+		<keyword>Analytical Model;Cost Estimation;Cost Model;Empirical Study;Query Optimization;Statistical Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Developing cost models for query optimization is significantly harder for XML queries than for traditional relational queries. The reason is that XML query operators are much more complex than relational operators such as table scans and joins. In this paper, we propose a new approach, called COMET, to modeling the cost of XML operators; to our knowledge, COMET is the</abstract>
+	</publication>
+	<publication>
+		<title>Compact access control labeling for efficient secure XML query evaluation</title>
+		<year>2007</year>
+		<authors>huaxin zhang,kenneth salem,donghui zhuo</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>782</label>
+		<keyword>Query Evaluation;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Binary XML Storage and Query Processing in Oracle 11g</title>
+		<year>2009</year>
+		<authors>nipun agarwal,sivasankaran chandrasekar,sam idicula,vijay medi,sabina petride,balasubramanyam sthanikam</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>782</label>
+		<keyword>Data Management;High Performance;Indexation;Query Processing;Schema Evolution;Stream Processing;Xml Document;Xml Schema;Object Relational;</keyword>
+		<organization>null</organization>
+		<abstract>Oracle RDBMS has supported XML data management for more than six years since version 9i. Prior to 11g, text- centric XML documents can be stored as-is in a CLOB column and schema-based data-centric documents can be shredded and stored in object-relational (OR) tables mapped from their XML Schema. However, both storage formats have intrinsic limitations|XML/CLOB has unacceptable query and update</abstract>
+	</publication>
+	<publication>
+		<title>C3: A New Learning Scheme to Improve Classification of Rare Category Emails</title>
+		<year>2003</year>
+		<authors>jie yang,joshua zhexue huang,zhuoqun xu</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>784</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Odaies: Ontology-driven Adaptive Web Information Extraction System</title>
+		<year>2003</year>
+		<authors>hong chen,yu wang,shi-jun cheng,ming-feng xiong</authors>
+		<jconf>International Agent Technology Conference</jconf>
+		<label>784</label>
+		<keyword>Web Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building Domain Ontology Based on Web Data and Generic Ontology</title>
+		<year>2004</year>
+		<authors>jie yang,lei wang,song zhang,xin sui,zhuoqun xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>784</label>
+		<keyword>Domain Ontology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Offer Group Generation and Delayed Processing in Multi-Issue Negotiation</title>
+		<year>2004</year>
+		<authors>song zhang,lei wang,jie yang,zhuoqun xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>784</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Concurrent Garbage Collection Implementation in a Standard JVM for Real-Time Purposes</title>
+		<year>2004</year>
+		<authors>yuqiang xian,guangze xiong</authors>
+		<jconf>International Conference on Embedded Software and Systems</jconf>
+		<label>785</label>
+		<keyword>Concurrent Garbage Collection;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

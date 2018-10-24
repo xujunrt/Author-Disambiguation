@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Paul Wright</FullName>
+	<publication>
+		<title>Designing and Managing Networks to Aid the Capture and Preservation of Evidence to support the Fight Against eCrime</title>
+		<year>2007</year>
+		<authors>william fone</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>800</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

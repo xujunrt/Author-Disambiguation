@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Bertram</FullName>
+	<publication>
+		<title>Internationalisierung von ICIS, eines Referenzmodells und -anwendungssystems für den Versicherungsmarkt</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>635</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modellierung als Basis der Prozessoptimierung einer Transaktionsbank</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Modellierung betrieblicher Informationssyteme, MobIS</jconf>
+		<label>635</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Aspekte der Qualitätssicherung von Unternehmensdatenmodellen</title>
+		<year>1992</year>
+		<authors></authors>
+		<jconf>Emisa Forum</jconf>
+		<label>635</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Qualitätsaspekte der Wiederverwendung von Schemata</title>
+		<year>1995</year>
+		<authors></authors>
+		<jconf>Emisa Forum</jconf>
+		<label>635</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

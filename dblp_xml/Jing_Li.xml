@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jing Li</FullName>
+	<publication>
+		<title>Statistical Validation of Compound Structure-Selectivity Relationship Using NCI Cancer Database</title>
+		<year>2003</year>
+		<authors>chris benner,tao jiang,yingyao zhou</authors>
+		<jconf>Mathematics and Engineering Techniques in Medicine and Biological Scienes</jconf>
+		<label>408</label>
+		<keyword>Cell Line;Drug Development;Growth Inhibition;Structural Similarity;Structure Activity Relationship;Web Accessibility;False Positive Rate;National Cancer Institute;</keyword>
+		<organization>null</organization>
+		<abstract>Existence of compound structure-activity relationship (SAR) and structure-selectivity rela- tionship (SSR) are the fundamental hypotheses medicinal chemists rely on for lead selection and optimization during drug development. Although SAR has recently been statistically ex- amined, previous studies did not cover SSR, an equally important assumption., For the current study, structural similarities (or distances) between compounds are dened by ngerprin t-based</abstract>
+	</publication>
+	<publication>
+		<title>Efficient rule-based haplotyping algorithms for pedigree data</title>
+		<year>2003</year>
+		<authors>tao jiang</authors>
+		<jconf>Research in Computational Molecular Biology</jconf>
+		<label>408</label>
+		<keyword>Cyclic Group;Exact Algorithm;Gaussian Elimination;Iterative Algorithm;Linear Equations;Pedigree Analysis;Polynomial Time;Time Complexity;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>We study haplotype reconstruction under the Mendelian law of inheritance and the minimum recombination principleon pedigree data. We prove that the problem of finding a mini-mum-recombinant haplotype configuration (MRHC) is in general NP-hard. This is the first complexity result concerning the problem to our knowledge. An iterative algorithm based on blocks of consecutive resolved marker loci (called block-extension) is proposed.</abstract>
+	</publication>
+	<publication>
+		<title>An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming</title>
+		<year>2004</year>
+		<authors>tao jiang</authors>
+		<jconf>Research in Computational Molecular Biology</jconf>
+		<label>408</label>
+		<keyword>Association Analysis;Branch and Bound Algorithm;Directed Graph;Exact Solution;Genetic Linkage;Integer Linear Program;Lower and Upper Bound;Missing Data;Multiple Solution;Pedigree Analysis;Search Trees;Strongly Connected Component;Branch and Bound;Maximum Likelihood;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of reconstructing haplotype configurations from genotypes on pedigree data with missing alleles under the Mendelian law of inheritance and the minimum recombination principle, which is important for the construction of haplotype maps and genetic linkage/association analysis. Our previous results show that the problem of finding a minimum-recombinant haplotype configuration (MRHC) is in general NP-hard. The existing</abstract>
+	</publication>
+	<publication>
+		<title>Approximating minimum quartet inconsistency (abstract)</title>
+		<year>2002</year>
+		<authors>gianluca della vedova,tao jiang,jianjun wen</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>408</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum Recombiant Haplotype Configuration on Tree Pedigrees</title>
+		<year>2003</year>
+		<authors>koichiro doi,tao jiang</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>408</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Haplotype-based linkage disequilibrium mapping via direct data mining</title>
+		<year>2005</year>
+		<authors>tao jiang</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>408</label>
+		<keyword>Association Mapping;Candidate Gene;case-control study;Complex Disease;Directional Data;Large Scale;Linkage Disequilibrium;Population Model;Similarity Metric;Single Nucleotide Polymorphism;High Density;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: With the availability of large-scale, high-density single- nucleotide polymorphism markers and information on haplotype struc- tures and frequencies, a great challenge is how to take advantage of haplotype information in the association mapping of complex diseases in case-control studies. Results: We present a novel approach for association mapping based on directly mining haplotypes (i.e. phased genotype pairs) produced from</abstract>
+	</publication>
+	<publication>
+		<title>Haplotype-based quantitative trait mapping using a clustering algorithm</title>
+		<year>2006</year>
+		<authors>yingyao zhou,robert c. elston</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>408</label>
+		<keyword>Analysis of Covariance;Association Mapping;Cluster Algorithm;Complex Disease;Experimental Study;Large Scale;Linkage Disequilibrium;Permutation Test;Quantitative Trait;Quantitative Trait Loci;Sample Size;Single Nucleotide Polymorphism;Software Package;Statistical Method;Statistical Significance;High Density;Nucleotides;</keyword>
+		<organization>null</organization>
+		<abstract>Background: With the availability of large-scale, high-density single-nucleotide polymorphism (SNP) markers, substantial effort has been made in identifying disease-causing genes using linkage disequilibrium (LD) mapping by haplotype analysis of unrelated individuals. In addition to complex diseases, many continuously distributed quantitative traits are of primary clinical and health significance. However the development of association mapping methods using unrelated individuals for quantitative</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Inference of Haplotypes from Genotypes on a Pedigree</title>
+		<year>2003</year>
+		<authors>tao jiang</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>408</label>
+		<keyword>Computational Complexity;Cyclic Group;Exact Algorithm;Gaussian Elimination;Haplotype Inference;Iterative Algorithm;Large Scale;Linear Equations;Pedigree Analysis;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We study haplotype reconstruction under the Mendelian law of inheritance and the minimum re- combination principleon pedigree data. We prove that the problem of finding a minimum-recombinant haplotype configuration (MRHC)is in general NP-hard. This is the first complexity result concerning the problem to our knowledge. An iterative algorithm based on blocks of consecutive resolved marker loci (called block-extension) is proposed.</abstract>
+	</publication>
+	<publication>
+		<title>A Survey on Haplotyping Algorithms for Tightly Linked Markers</title>
+		<year>2008</year>
+		<authors>tao jiang</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>408</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing the Minimum Recombinant Haplotype Configuration from Incomplete Genotype Data on a Pedigree by Integer Linear Programming</title>
+		<year>2005</year>
+		<authors>tao jiang</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>408</label>
+		<keyword>Directed Graph;Genetic Linkage;Integer Linear Program;Lower and Upper Bound;Missing Data;Multiple Solution;Search Trees;Branch and Bound;Maximum Likelihood;Partial Order;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of reconstructing haplotype configurations from genotypes on pedi- gree data with missing alleles under the Mendelian law of inheritance and the minimum re- combination principle, which is important for the construction of haplotype maps and genetic linkage/association analyses. Our previous results show that the problem of finding a minimum- recombinant haplotype configuration (MRHC) is in general</abstract>
+	</publication>
+	<publication>
+		<title>Novel Statistical Approach for Primary High-Throughput Screening Hit Selection</title>
+		<year>2005</year>
+		<authors>s. frank yan,hayk asatryan,yingyao zhou</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>408</label>
+		<keyword>High Throughput Screening;Statistical Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Haplotyping Problem: An Overview of Computational Models and Solutions</title>
+		<year>2003</year>
+		<authors>paola bonizzoni,gianluca della vedova,riccardo dondi</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>408</label>
+		<keyword>Computational Biology;Dna Sequence;Genetic Disease;Genetics;Human Genome;Single Nucleotide Polymorphism;Statistical Approach;Nucleotides;</keyword>
+		<organization>null</organization>
+		<abstract>The investigation of genetic differences among humans has given evidence that mutations in DNA sequences are responsible for some genetic diseases. The most common mutation is the one that involves only a single nucleotide of the DNA se- quence, which is called a single nucleotide polymorphism (SNP). As a consequence, computing a complete map of all SNPs occurring in the</abstract>
+	</publication>
+</person>

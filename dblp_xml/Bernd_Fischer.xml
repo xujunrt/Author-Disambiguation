@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bernd Fischer</FullName>
+	<publication>
+		<title>Explaining Verification Conditions</title>
+		<year>2008</year>
+		<authors>ewen denney</authors>
+		<jconf>Algebraic Methodology and Software Technology</jconf>
+		<label>75</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Automated Theorem Provers to Certify Auto-generated Aerospace Software</title>
+		<year>2004</year>
+		<authors>ewen denney,johann schumann</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>75</label>
+		<keyword>Program Verification;Theorem Prover;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a system for the automated certification of safety proper- ties of NASA software. The system uses Hoare-style program verification tech- nology to generate proof obligations which are then processed by an automated first-order theorem prover (ATP). For full automation, however, the obligations must be aggressively preprocessed and simplified. We describe the unique re- quirements this places on the</abstract>
+	</publication>
+	<publication>
+		<title>SETHEO Goes Software Engineering: Application of ATP to Software Reuse</title>
+		<year>1997</year>
+		<authors>johann schumann</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>75</label>
+		<keyword>formal specication;Graphic User Interface;Software Component;Software Engineering;Software Reuse;System Architecture;Target Language;</keyword>
+		<organization>null</organization>
+		<abstract>Reuse of approved software components has been identied as one of the key factors for successful software engineering projects. Although the reuse process also covers many non-technical aspects (9) we will restrict ourselves to the re- trieval of software components (SCR) based on their formal specications. Our system NORA/HAMMR3 is based on a library of software components with associated specications</abstract>
+	</publication>
+	<publication>
+		<title>AutoBayes/CC - Combining Program Synthesis with Automatic Code Certification - System Description</title>
+		<year>2002</year>
+		<authors>michael w. whalen,johann schumann</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>75</label>
+		<keyword>Program Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Retrofitting the AutoBayes Program Synthesis System with Concrete Syntax</title>
+		<year>2003</year>
+		<authors>eelco visser</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>76</label>
+		<keyword>Program Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuous Verification of Large Embedded Software Using SMT-Based Bounded Model Checking</title>
+		<year>2010</year>
+		<authors>lucas cordeiro,joão marques-silva</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>75</label>
+		<keyword>Bounded Model Checking;Case Study;Embedded Software;Embedded System;Error Detection;Product Quality;Program Verification;Software Configuration Management;State Space;State Space Explosion;</keyword>
+		<organization>null</organization>
+		<abstract>The complexity of software in embedded systems has in- creased significantly over the last years so that software ver- ification now plays an important role in ensuring the over- all product quality. In this context, bounded model check- ing has been successfully applied to discover subtle errors, but for larger applications, it often suffers from the state space explosion problem.</abstract>
+	</publication>
+	<publication>
+		<title>Correctness of Source-Level Safety Policies</title>
+		<year>2003</year>
+		<authors>ewen denney</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>75</label>
+		<keyword>hoare logic;Inference Rule;Memory Access;Program Verification;Proof Carrying Code;Safety Properties;Satisfiability;Source Code;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>Program certification techniques formally show that pro- grams satisfy certain safety policies. They rely on the correctness of the safety policy which has to be established externally. In this paper we investigate an approach to show the correctness of safety policies which are formulated as a set of Hoare-style inference rules on the source code level. We develop a framework</abstract>
+	</publication>
+	<publication>
+		<title>Synthesizing Certified Code</title>
+		<year>2002</year>
+		<authors>michael w. whalen,johann schumann</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>75</label>
+		<keyword>Automated Theorem Proving;Automatic Generation;Automatic Programming;Data Analysis;Domain Knowledge;Memory Safety;program verication;Proof Carrying Code;Software Quality;Static Analysis Tools;Theorem Prover;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Code certication is a lightweight approach for formally demonstrating software quality. Its basic idea is to require code producers to provide formal proofs that their code satises certain quality properties. These proofs serve as certic ates that can be checked independently. Since code certication uses the same underlying technology as program verication, it requires detailed annotations (e.g., loop invariants)</abstract>
+	</publication>
+	<publication>
+		<title>Certifiable Program Generation</title>
+		<year>2005</year>
+		<authors>ewen denney</authors>
+		<jconf>Generative Programming and Component Engineering</jconf>
+		<label>75</label>
+		<keyword>Code Generation;Domain Specificity;Generic Programming;Normal Matrix;Program Generation;Safety Properties;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Code generators based on template expansion techniques are easier to build than purely deductive systems but do not guarantee the same level of assurance: instead of providing &quot;correctness-by-construction&quot;, the correctness of the generated code depends on the correctness of the generator itself. We present an alternative assurance approach, in which the generator is extended to enable Hoare-style safety proofs for</abstract>
+	</publication>
+	<publication>
+		<title>A generic annotation inference algorithm for the safety certification of automatically generated code</title>
+		<year>2006</year>
+		<authors>ewen denney</authors>
+		<jconf>Generative Programming and Component Engineering</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Automated Theorem Proving;Automatic Generation;Code Generation;Generic Programming;Pattern Matching;program verication;Safety Properties;</keyword>
+		<organization>null</organization>
+		<abstract>Code generators for realistic application domains are not directly veriable in practice. In the certiable code generation approach the generator is extended to generate logical annotations (i.e., pre- and postconditions and loop invariants) along with the programs, allowing fully automated program proofs of different safety prop- erties. However, this requires access to the generator sources, and remains difcult to implement</abstract>
+	</publication>
+	<publication>
+		<title>Generating customized verifiers for automatically generated code</title>
+		<year>2008</year>
+		<authors>ewen denney</authors>
+		<jconf>Generative Programming and Component Engineering</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Automatic Generation;Code Generation;General Techniques;hoare logic;Levels of Abstraction;meta programming;Program Verification;Safety Properties;Space Flight;Theorem Proving;Real Time Workshop;</keyword>
+		<organization>null</organization>
+		<abstract>Program verification using Hoare-style techniques require s many logical annotations. We have previously developed a generic anno- tation inference algorithm that weaves in all annotations r equired to certify safety properties for automatically generated c ode. It us- es patterns to capture generator- and property-specific cod e idioms and property-specific meta-program fragments to construct the an- notations. The algorithm is</abstract>
+	</publication>
+	<publication>
+		<title>Adding Assurance to Automatically Generated Code</title>
+		<year>2004</year>
+		<authors>ewen denney,johann schumann</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>75</label>
+		<keyword>Automatic Generation;Generic Programming;Program Synthesis;Satisfiability;State Estimation;Static Analysis Tools;</keyword>
+		<organization>null</organization>
+		<abstract>Code to estimate position and attitude of a spacecraft or aircraft belongs to the most safety-critical parts of flight software. The complex underlying mathematics and abun- dance of design details make it error-prone and reliable im- plementations costly. AutoFilter is a program synthesis tool for the automatic generation of state estimation code from compact specifications. It can automatically produce addi-</abstract>
+	</publication>
+	<publication>
+		<title>Certification Support for Automatically Generated Programs</title>
+		<year>2003</year>
+		<authors>johann schumann,michael w. whalen,jon whittle</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>75</label>
+		<keyword>Automatic Generation;Automatic Programming;Code Generation;Data Analysis;Generic Programming;Logic Programs;Software Development;Time Series Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Although autocoding techniques promise large gains in software development productivity, their &quot;real-world&quot; ap- plication has been limited, particularly in safety-critical do- mains. Often, the major impediment is the missing trustwor- thiness of these systems: demonstrating—let alone formally certifying—the trustworthiness of automatic code genera- tors is extremely difficult due to their complexity and size. We develop an alternative product-oriented certification approach</abstract>
+	</publication>
+	<publication>
+		<title>A Lazy Unbounded Model Checker for Event-B</title>
+		<year>2009</year>
+		<authors>paulo j. matos,joão marques-silva</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>75</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Industrial-Strength Certified SAT Solving through Verified SAT Proof Checking</title>
+		<year>2010</year>
+		<authors>ashish darbari,joão marques-silva</authors>
+		<jconf>International Colloquium on Theoretical Aspects of Computing</jconf>
+		<label>75</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extending Source Code Generators for Evidence-Based Software Certification</title>
+		<year>2006</year>
+		<authors>ewen denney</authors>
+		<jconf>Leveraging Applications of Formal Methods</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Code Generation;Software Development;Source Code;Theorem Prover;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Automated code generation offers many advantages over manual,software development but treating generators as trusted black boxes raise problems for certification. Traditional process-oriented approaches to certification thus require that the generator be verified to the same level of assurance as the generated code, but this is infeasible for realistic generators. However, generators can be extended to support an evidencebased approach to</abstract>
+	</publication>
+	<publication>
+		<title>SMT-Based Bounded Model Checking for Embedded ANSI-C Software</title>
+		<year>2009</year>
+		<authors>lucas cordeiro,joão marques-silva</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>75</label>
+		<keyword>Bounded Model Checking;Control System;Embedded Software;Propositional Logic;Software Model Checking;Front End;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Propositional bounded,model,checking,has been applied successfully to verify embedded,software but is limited by the increasing propositional formula size and the loss of structure during the translation. These limitations can,be reduced,by encoding,word-level information in theories richer than propositional logic and using SMT solvers for the generated,verification conditions. Here, we investigate the application of dif- ferent SMT solvers to the verification of</abstract>
+	</publication>
+	<publication>
+		<title>Annotation Inference for Safety Certification of Automatically Generated Code (Extended Abstract)</title>
+		<year>2006</year>
+		<authors>ewen denney</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Automatic Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Verification-Driven Approach to Traceability and Documentation for Auto-Generated Mathematical Software</title>
+		<year>2009</year>
+		<authors>ewen denney</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Mathematical Software;Model Based Design;Natural Language;Verification and Validation;</keyword>
+		<organization>null</organization>
+		<abstract>Automated code generators are increasingly used in safety-critical applications, but since they are typically not qualified, the generated code must still be fully tested, reviewed, and certified. For mathematical and engineering software this requires reviewers to trace subtle details of textbook formulas and algorithms to the code, and to match requirements (e.g., physical units or coordinate frames) not represented explicitly</abstract>
+	</publication>
+	<publication>
+		<title>Software certificate management (SoftCeMent'05)</title>
+		<year>2005</year>
+		<authors>ewen denney,dieter hutter,mark jones</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Document Engineering;Management System;New Technology;Software Systems;Validation and Verification;Fault Tree;</keyword>
+		<organization>null</organization>
+		<abstract>The goal of this workshop is to explore new technologies, underlying principles, and general methodologies for supporting software certificate management. Software certification demonstrates the reliability, safety, or security of software systems in such a way that it can be checked by an independent authority with minimal trust in the techniques and tools used in the certification process itself. It can</abstract>
+	</publication>
+	<publication>
+		<title>Applying AutoBayes to the Analysis of Planetary Nebulae Images</title>
+		<year>2003</year>
+		<authors>johann schumann</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Planetary Nebula;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Integration of Deductive Retrieval into Deductive Synthesis</title>
+		<year>1999</year>
+		<authors>jon whittle</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Software Development;Theorem Proving;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract>Deductive retrieval and deductive synthesis are two con- ceptually closely related software development methods which apply theorem proving techniques to support the con- struction of correct programs. In this paper, we describe an integration of both methods which combines their comple- mentary benefits and alleviates some of their drawbacks. The core of our integration is an algorithm which au- tomatically</abstract>
+	</publication>
+	<publication>
+		<title>NORA/HAMMR: Making Deduction-Based Software Component Retrieval Practical</title>
+		<year>1997</year>
+		<authors>johann schumann</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Answer Sets;Model Checking;Software Component;Theorem Prover;</keyword>
+		<organization>null</organization>
+		<abstract>Deduction-based software component retrieval uses pre- and postconditions as indexes and search keys and an auto- mated theorem prover (ATP) to check whether a component matches. This idea is very simple but the vast number of arising proof tasks makes a practical implementation very hard. We thus pass the components through a chain of filters of increasing deductive power. In</abstract>
+	</publication>
+	<publication>
+		<title>Towards automated synthesis of data mining programs</title>
+		<year>1999</year>
+		<authors>wray l. buntine,thomas pressburgers</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>75</label>
+		<keyword>Data Mining;Knowledge Discovery;Rapid Prototyping;Statistical Data Analysis;COBOL;</keyword>
+		<organization>null</organization>
+		<abstract>Code synthesis is routinely used in industry to generateGUIs, form filling applications, and database support codeand is even used with COBOL. In this paper we considerthe question of whether code synthesis could also beapplied to the data mining phase of knowledge discovery.We view this as a rapid prototyping method. Rapidprototyping of statistical data analysis algorithms wouldallow experienced analysts to experiment</abstract>
+	</publication>
+	<publication>
+		<title>Adding Concrete Syntax to a Prolog-Based Program Synthesis System (Extended Abstract)</title>
+		<year>2003</year>
+		<authors>eelco visser</authors>
+		<jconf>Logic Program Synthesis and Transformation</jconf>
+		<label>76</label>
+		<keyword>Abstract Syntax;Code Size;meta programming;Program Generation;Program Synthesis;Second Order;</keyword>
+		<organization>null</organization>
+		<abstract>Program generation and transformation systems manipulate large, pa- rameterized object language fragments. Support for user-definable concrete syn- tax makes this easier but is typically restricted to certain object and meta lan- guages. We show how Prolog can be retrofitted with concrete syntax and describe how a seamless interaction of concrete syntax fragments with an existing &quot;legacy&quot; meta-programming system based on</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Derivation of Statistical Algorithms: The EM Family and Beyond</title>
+		<year>2002</year>
+		<authors>alexander g. gray,johann schumann,wray l. buntine</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>75</label>
+		<keyword>Closed Form Solution;Computer Algebra;Em Algorithm;Gibbs Sampling;Machine Learning;Program Synthesis;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Machine learning has reached a point where most probabilistic meth-ods can be understood as variations, extensions and combinations of a much smaller set of abstract themes, e. g., as different instances of the EM algorithm. This enables the systematic derivation of algorithms cus-tomized for different models. Here, we demonstrate the AUTOBAYES system which takes a high-level statistical model specification, uses</abstract>
+	</publication>
+	<publication>
+		<title>Constructing a Safety Case for Automatically Generated Code from Formal Program Verification Information</title>
+		<year>2008</year>
+		<authors>nurlida basir,ewen denney</authors>
+		<jconf>International Conference on Computer Safety, Reliability and Security</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Automatic Generation;Code Generation;Fault Tree Analysis;Formal Method;formal verication;hoare logic;program verication;Program Verification;Safety Properties;System Development;</keyword>
+		<organization>null</organization>
+		<abstract>Formal methods can in principle provide the highest levels of assur- ance of code safety by providing formal proofs as explicit evidence for the as- surance claims. However, the proofs are often complex and difcult to relate to the code, in particular if it has been generated automatically. They may also be based on assumptions and reasoning principles that are</abstract>
+	</publication>
+	<publication>
+		<title>Deriving Safety Cases for Hierarchical Structure in Model-Based Development</title>
+		<year>2010</year>
+		<authors>nurlida basir,ewen denney</authors>
+		<jconf>International Conference on Computer Safety, Reliability and Security</jconf>
+		<label>75</label>
+		<keyword>Hierarchical Structure;model-based development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generating Data Analysis Programs from Statistical Models</title>
+		<year>2000</year>
+		<authors>johann schumann,thomas pressburger</authors>
+		<jconf>Semantics, Applications, and Implementation of Program Generation</jconf>
+		<label>75</label>
+		<keyword>Data Analysis;Numerical Analysis;Probability Theory;Statistical Approach;Statistical Data Analysis;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Program Repair as Sound Optimization of Broken Programs</title>
+		<year>2009</year>
+		<authors>ando saabas,tarmo uustalu</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>75</label>
+		<keyword>Error Compensation;hoare logic;Partial Redundancy Elimination;Program Analysis;Program Correctness;Program Optimization;Program Transformation;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new, semantics-based approach to me- chanical program repair where the intended meaning of broken programs (i.e., programs that may abort under a given, error-admitting language semantics) can be defined by a special, error-compensating semantics. Program re- pair can then become a compile-time, mechanical program transformation based on a program analysis. It turns a given program into one</abstract>
+	</publication>
+	<publication>
+		<title>The 2002 AAAI Spring Symposium Series</title>
+		<year>2002</year>
+		<authors>jussi karlgren,pentti kanerva,björn gambäck,kenneth d. forbus,kagan tumer,peter stone,kai goebel,gaurav s. sukhatme,tucker r. balch,doug smith,sanda m. harabagiu,vinay chaudri,mike barley,hans w. guesgen,thomas f. stahovich,randall davis,james a. landay</authors>
+		<jconf>Ai Magazine</jconf>
+		<label>75</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SMT-Based Bounded Model Checking for Embedded ANSI-C Software</title>
+		<year>2009</year>
+		<authors>lucas cordeiro,joão marques-silva</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>75</label>
+		<keyword>Bounded Model Checking;Control System;Embedded Software;Propositional Logic;Software Model Checking;Front End;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Propositional bounded,model,checking,has been applied successfully to verify embedded,software but is limited by the increasing propositional formula size and the loss of structure during the translation. These limitations can,be reduced,by encoding,word-level information in theories richer than propositional logic and using SMT solvers for the generated,verification conditions. Here, we investigate the application of dif- ferent SMT solvers to the verification of</abstract>
+	</publication>
+	<publication>
+		<title>Industrial-Strength Formally Certified SAT Solving</title>
+		<year>2009</year>
+		<authors>ashish darbari,joão marques-silva</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>75</label>
+		<keyword>Automotive Industry;Boolean Satisfiability;Correctness Proof;Sat Solver;Satisfiability;Theorem Prover;</keyword>
+		<organization>null</organization>
+		<abstract>Boolean Satisfiability (SAT) solvers are now routinely used in the verification of large industrial problems. However, their application in safety-critical domains such as the railways, avionics, and automotive industries requires some form of assurance for the results, as the solvers can (and sometimes do) have bugs. Unfortunately, the complexity of modern, highly optimized SAT solvers renders impractical the development of</abstract>
+	</publication>
+	<publication>
+		<title>Continuous Verification of Large Embedded Software using SMT-Based Bounded Model Checking</title>
+		<year>2009</year>
+		<authors>lucas cordeiro,joão marques-silva</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>75</label>
+		<keyword>Bounded Model Checking;Embedded Software;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounded Model Checking of Multi-threaded Software using SMT solvers</title>
+		<year>2010</year>
+		<authors>lucas cordeiro</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>75</label>
+		<keyword>Bounded Model Checking;High Speed;Model Checking;multi-core processor;Partial Order Reduction;Software Verification;State Space;Sat Modulo Theories;Satisfiability Modulo Theories;</keyword>
+		<organization>null</organization>
+		<abstract>The transition from single-core to multi-core processors has made multi-threaded software an important subject in computer aided verification. Here, we describe and evaluate an extension of the ESBMC model checker to support the verification of multi-threaded software with shared variables and locks using bounded model checking (BMC) based on Satisfiability Modulo Theories (SMT). We describe three approaches to model check</abstract>
+	</publication>
+	<publication>
+		<title>Deriving Safety Cases for the Formal Safety Certification of Automatically Generated Code</title>
+		<year>2009</year>
+		<authors>nurlida basir,ewen denney</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>75</label>
+		<keyword>Automated Code Generation;Automatic Generation;hoare logic;Safety Properties;</keyword>
+		<organization>null</organization>
+		<abstract>We present an approach to systematically derive safety cases for automatically generated code from infor- mation collected during a formal, Hoare-style safety certification of the code. This safety case makes explicit the formal and informal reasoning principles, and reveals the top-level assumptions and external dependen- cies that must be taken into account; however, the evidence still comes from the formal</abstract>
+	</publication>
+	<publication>
+		<title>Die inferenzbasierte Softwareentwicklungsumgebung NORA</title>
+		<year>1994</year>
+		<authors>gregor snelting,franz-josef grosch,matthias kievernagel,andreas zeller</authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>77</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Empirical Evaluation of Automated Theorem Provers in Software Certification</title>
+		<year>2006</year>
+		<authors>ewen denney,johann schumann</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<label>75</label>
+		<keyword>Automated Theorem Proving;Empirical Evaluation;hoare logic;Program Synthesis;Program Verification;Safety Properties;Theorem Prover;First Order;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a system for the automated certification of safety properties of NASA software. The system uses Hoare-style program verification technology to generate proof obligations which are then processed by an automated first-order theorem prover (ATP). We discuss the unique requirements this application places on the ATPs, focusing on automation, proof checking, and usability. For full automation, however, the obligations</abstract>
+	</publication>
+	<publication>
+		<title>Empirically Successful Automated Reasoning: Systems Issue</title>
+		<year>2006</year>
+		<authors>geoff sutcliffe,stephan schulz</authors>
+		<jconf>Journal of Automated Reasoning</jconf>
+		<label>75</label>
+		<keyword>Automated Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Empirically Successful Automated Reasoning: Applications Issue</title>
+		<year>2006</year>
+		<authors>geoff sutcliffe,stephan schulz</authors>
+		<jconf>Journal of Automated Reasoning</jconf>
+		<label>75</label>
+		<keyword>Automated Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>AutoBayes: a system for generating data analysis programs from statistical models</title>
+		<year>2003</year>
+		<authors>johann schumann</authors>
+		<jconf>Journal of Functional Programming</jconf>
+		<label>75</label>
+		<keyword>Closed Form Solution;Data Analysis;dieren tial equation;Information Need;Numerical Analysis;Probability Distribution;Probability Theory;Program Synthesis;Statistical Approach;Statistical Data Analysis;Statistical Model;System Architecture;Theorem Proving;</keyword>
+		<organization>null</organization>
+		<abstract>Data analysis is an important scientic task which is required whenever information needs to be extracted from raw data. Statistical approaches to data analysis, which use methods from probability theory and numerical analysis, are well-founded but dicult to imple- ment: the development of a statistical data analysis program for any given application is time-consuming and requires substantial knowledge and experience</abstract>
+	</publication>
+	<publication>
+		<title>Integrating Deduction Techniques in a Software Reuse Application</title>
+		<year>1999</year>
+		<authors>thomas baar,dirk fuchs</authors>
+		<jconf>Journal of Universal Computer Science</jconf>
+		<label>75</label>
+		<keyword>Software Reuse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ALADIN: A Scanner Generator for Incremental Programming Environments</title>
+		<year>1992</year>
+		<authors>carsten hammer,werner struckmann</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>78</label>
+		<keyword>Lexical Analysis;Programming Environment;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY A large number of scanner generators have been developed. Since they are restricted to the longest- match rule, they are unsuitable for an incremental environment. We present the ALADIN system, which is able to deliver more than a single token if required. Thus, an ambiguity may be passed to the calling instance. Beyond this 'incremental feature', ALADIN is a</abstract>
+	</publication>
+	<publication>
+		<title>Interpreting Abstract Interpretations in Membership Equational Logic</title>
+		<year>2001</year>
+		<authors>grigore rosu</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>75</label>
+		<keyword>Abstract Interpretation;Membership Equational Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

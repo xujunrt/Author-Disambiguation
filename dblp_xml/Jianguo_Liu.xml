@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianguo Liu</FullName>
+	<publication>
+		<title>A fast geometric algorithm for finding the minimum distance between two convex hulls</title>
+		<year>2009</year>
+		<authors>dougsoo kaown</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>385</label>
+		<keyword>Convex Hull;Geometric Algorithm;Minimum Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fast hierarchical algorithm for 3-D capacitance extraction</title>
+		<year>1998</year>
+		<authors>weiping shi,naveen kakani,tiejun yu</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>385</label>
+		<keyword>Boundary Element Method;Complex Structure;Hierarchical Data Structure;Integral Equation;Linear System;n-body problem;Three Dimensional;Perfect Electric Conductor;</keyword>
+		<organization>null</organization>
+		<abstract>We presen t a new algorithm for computing the capacitance of three-dimensional perfect electrical conductors of complex structures. The new algorithm is significantly faster and uses muc h less memory than previous best algorithms, and is kernel independent.The new algorithm is based on a hierarchical algorithm for the n-body problem, and is an acceleration of the boundary-element method for solving</abstract>
+	</publication>
+	<publication>
+		<title>A fast hierarchical algorithm for three-dimensional capacitanceextraction</title>
+		<year>2002</year>
+		<authors>weiping shi,naveen kakani,tiejun yu</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>385</label>
+		<keyword>Boundary Element Method;Indexing Terms;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract - The authors present a new algorithm for computing are accurate, some are capable of critical net and clock tree ex</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Transmission for Finite-Rate Feedback MIMO Systems</title>
+		<year>2008</year>
+		<authors>daofeng xu,rui zhao,luxi yang</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>386</label>
+		<keyword>mimo system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Transmit Antenna Selection for V-BLAST MIMO System Based on Extended Channel Matrix Analysis</title>
+		<year>2008</year>
+		<authors>luxi yang</authors>
+		<jconf>Journal of Circuits, Systems, and Computers</jconf>
+		<label>386</label>
+		<keyword>Matrix Analysis;mimo system;Transmit Antenna Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ammunition Supply Decision-Making System Design Based on Fuzzy Control</title>
+		<year>2003</year>
+		<authors>deyong zhao,xinfeng wang</authors>
+		<jconf>Rough Sets, Fuzzy Sets, Data Mining, and Granular-Soft Computing</jconf>
+		<label>387</label>
+		<keyword>Decision Making;Fuzzy Control;System Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A generalized Gilbert's algorithm for approximating general SVM classifiers</title>
+		<year>2009</year>
+		<authors>zhenbing liu,zhong chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>388</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Arbitrary-length and Multiplierless DCT Algorithm and Systolic Implementation</title>
+		<year>2010</year>
+		<authors>zhenbing liu,guoyou wang</authors>
+		<jconf>Journal of Computers</jconf>
+		<label>388</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

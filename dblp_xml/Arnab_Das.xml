@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Arnab Das</FullName>
+	<publication>
+		<title>Assessing discreet packet-dropping attacks using nearest-neighbor and path-vector attribution</title>
+		<year>2007</year>
+		<authors>george kesidis,venkat pothamsetty</authors>
+		<jconf>International Conference on Broadband Networks</jconf>
+		<label>65</label>
+		<keyword>Mobile Ad Hoc Network;Peer-to-peer Network;Reputation System;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstractó A Mobile Ad-Hoc Network (MANET) is considered with nodes that may act selshly or maliciously by simply dropping data packets rather than forwarding them. We study a distributed route assessment (reputation) system for a MANET context in which nodes attribute a route’s performance to their nearest neighbors on the route. Also, attribution to all relaying nodes is studied for</abstract>
+	</publication>
+</person>

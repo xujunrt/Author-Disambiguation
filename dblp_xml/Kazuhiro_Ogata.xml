@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kazuhiro Ogata</FullName>
+	<publication>
+		<title>Adaptive Search Range Motion Estimation Algorithm for H.264/AVC</title>
+		<year>2007</year>
+		<authors>tian song,kosuke saito,takashi shimamoto</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>486</label>
+		<keyword>Motion Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yan Qi</FullName>
+	<publication>
+		<title>Table summarization with the help of domain lattices</title>
+		<year>2008</year>
+		<authors>k. selçuk candan,huiping cao,maria luisa sapino</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1145</label>
+		<keyword>Domain Knowledge;Set Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Table summarization is necessary in various scenarios where it is hard to display a large table. It can benefit from knowledge about acceptable value clustering alternatives. In this paper, we formulate the problem of table summarization with the help of domain knowledge lattices. We provide the outline of a fuzzy mechanism to express alternative clustering strategies. We further sketch a</abstract>
+	</publication>
+	<publication>
+		<title>Exploring path query results through relevance feedback</title>
+		<year>2009</year>
+		<authors>huiping cao,k. selçuk candan,maria luisa sapino</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1145</label>
+		<keyword>Data Exploration;Dependence Structure;Relevance Feedback;Non Structural;</keyword>
+		<organization>null</organization>
+		<abstract>Feedback driven data exploration schemes have been implemented for non-structured data (such as text) and document-centric XML collections where formulating precise queries is often impossible. In this paper, we study the problem of enabling exploratory access, through ranking, to data-centric XML. Given a path query and a set of results identified by the system to this query over the data,</abstract>
+	</publication>
+	<publication>
+		<title>QUEST: QUery-driven Exploration of Semistructured Data with ConflicTs and Partial Knowledge</title>
+		<year>2006</year>
+		<authors>k. selçuk candan,maria luisa sapino,keith w. kintigh</authors>
+		<jconf>Clean Databases</jconf>
+		<label>1145</label>
+		<keyword>Data Model;semistructured data;</keyword>
+		<organization>null</organization>
+		<abstract>An important reality when integrating sci- entific data is the fact that data may often be &quot;missing&quot;, partially specified, or conflict- ing. Therefore, in this paper, we present an assertion-based data model that captures both value-based and structure-based &quot;nulls&quot; in data. We also introduce the QUEST sys- tem, which leverages the proposed model for Query-driven Exploration of Semistructured data with</abstract>
+	</publication>
+	<publication>
+		<title>AlphaSum: size-constrained table summarization using value lattices</title>
+		<year>2009</year>
+		<authors>k. selçuk candan,huiping cao,maria luisa sapino</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>1145</label>
+		<keyword>cumulant;Experimental Evaluation;Information Loss;Real Estate;Search Space;Set Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Consider a scientist who wants to explore multiple data sets to select the relevant ones for further analysis. Since the vi- sualization real estate may put a stringent constraint on how much detail can be presented to this user in a single page, ef- fective table summarization techniques are needed to create summaries that are both sufficiently small and effective</abstract>
+	</publication>
+	<publication>
+		<title>Feedback-driven result ranking and query refinement for exploring semi-structured data collections</title>
+		<year>2010</year>
+		<authors>huiping cao,k. selçuk candan,maria luisa sapino</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>1145</label>
+		<keyword>Data Sharing;Dependence Structure;Finite Automata;Large Scale;Multimedia Retrieval;Query Refinement;Relevance Feedback;semi-structured data;Text Retrieval;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Feedback process has been used extensively in document-centric applications, such as text retrieval and multimedia retrieval. Recently, there have been efforts to apply feedback to semi-structured XML document collections as well. In this paper, we note that feedback can also be an effective tool for exploring (through result ranking and query refinement) large semi-structured data collections. In particular, in large</abstract>
+	</publication>
+	<publication>
+		<title>CUTS: CUrvature-based development pattern analysis and segmentation for blogs and other Text Streams</title>
+		<year>2006</year>
+		<authors>k. selçuk candan</authors>
+		<jconf>ACM Conference on Hypertext</jconf>
+		<label>1145</label>
+		<keyword>Automatic Segmentation;Indexation;Table of Contents;</keyword>
+		<organization>null</organization>
+		<abstract>Weblogs (blogs) are becoming prominent forms of informa- tion exchange in the Internet. A large number and variety of blogs, like personal journals or commentaries, are available for general consumption. However, effective indexes and navigation structures (like the table of content in a book) are not available for blogs. Therefore, it is generally not possible to navigate among entries in</abstract>
+	</publication>
+	<publication>
+		<title>FMware: Middleware for Efficient Filtering and Matching of XML Messages with Local Data</title>
+		<year>2006</year>
+		<authors>k. selçuk candan,mehmet emin dönderler,jaikannan ramamoorthy,jong wook kim</authors>
+		<jconf>International Conference on Distributed Systems Platforms and Open Distributed Processing/Open Distributed Processing</jconf>
+		<label>1145</label>
+		<keyword>Data Access;Data Clustering;Data Mining;Middleware;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>XML message filtering systems are used for sifting through real-time messages to support business data mining and reporting. An XML message filtering system needs to (a) process registered filter pred- icates on multiple distributed real-time streams and (b) match and val- idate the filter results with local data to identify the relevant data that can be used for higher-level processing.</abstract>
+	</publication>
+	<publication>
+		<title>FICSR: feedback-based inconsistency resolution and query processing on misaligned data sources</title>
+		<year>2007</year>
+		<authors>k. selçuk candan,maria luisa sapino</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>1145</label>
+		<keyword>Conflict Resolution;Data Integrity;Directional Data;Domain Knowledge;Query Processing;Relevance Feedback;User Feedback;</keyword>
+		<organization>null</organization>
+		<abstract>A critical reality in data integration is that knowledge from dif- ferent sources may often be conflicting with each other. Conflict resolution can be costly and, if done without proper context, can be ineffective. In this paper, we propose a novel query-driven and feedback-based approach (FICSR1) to conflict resolution when in- tegrating data sources. In particular, instead of relying on</abstract>
+	</publication>
+	<publication>
+		<title>Integrating and querying taxonomies with quest in the presence of conflicts</title>
+		<year>2007</year>
+		<authors>k. selçuk candan,maria luisa sapino,keith w. kintigh</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>1145</label>
+		<keyword>Data Model;h.5.2 user interfaces;Heterogeneous Data;Information Search and Retrieval;Query Processing;Relevance Feedback;Scientific Data;semistructured data;</keyword>
+		<organization>null</organization>
+		<abstract>We present the QUery-driven Exploration of Semistructured data and meta-data with conflicTs and partial knowledge (QUEST) sys- tem for supporting the integration of scientific data and taxonomies in the presence of misalignments and conflicts. QUEST relies on a novel constraint-based data model that captures both value and structural conflicts and enables researchers to observe and resolve such misalignments in the</abstract>
+	</publication>
+	<publication>
+		<title>Supporting OLAP operations over imperfectly integrated taxonomies</title>
+		<year>2008</year>
+		<authors>k. selçuk candan,jun'ichi tatemura,songting chen,fenglin liao</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>1145</label>
+		<keyword>Cost Model;Domain Knowledge;Heterogeneous Data Sources;Knowledge Base;Tree Structure;Bottom Up;Decision Support;</keyword>
+		<organization>null</organization>
+		<abstract>OLAP is an important tool in decision support. With the help of domain knowledge, such as hierarchies of attribute values, OLAP helps the user observe the effects of various decisions. One assumption of most OLAP operations is that the available domain knowledge is precise. In particular, they assume that the hierarchy of values over which the user can navigate forms</abstract>
+	</publication>
+	<publication>
+		<title>Sum-Max Monotonic Ranked Joins for Evaluating Top-K Twig Queries on Weighted Data Graphs</title>
+		<year>2007</year>
+		<authors>k. selçuk candan,maria luisa sapino</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>1145</label>
+		<keyword>Query Evaluation;Query Processing;Relational Database;Weighted Graph;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>In many applications, the underlying data (the web, an XML document, or a relational database) can be seen as a graph. These graphs may be enriched with weights, asso- ciated with the nodes and edges of the graph, denoting ap- plication specific desirability/penalty assessments, such as popularity, trust ,o rcost. A particular challenge when con- sidering such weights in query</abstract>
+	</publication>
+	<publication>
+		<title>Extracting Relevant Snippets fromWeb Documents through Language Model based Text Segmentation</title>
+		<year>2007</year>
+		<authors>qing li,k. selçuk candan</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>1145</label>
+		<keyword>Language Model;Text Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System support for exploration and expert feedback in resolving conflicts during integration of metadata</title>
+		<year>2008</year>
+		<authors>k. selçuk candan,huiping cao,maria luisa sapino</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>1145</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deriving a Novel Codon Index by Combining Period3 and Fractal Features of DNA Sequences</title>
+		<year>2004</year>
+		<authors>jianbo gao,yinhe cao,wen-wen tung</authors>
+		<jconf>IEEE Computer Society Bioinformatics Conference</jconf>
+		<label>1146</label>
+		<keyword>Dna Sequence;Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Genetic interaction motif finding by expectation maximization - a novel statistical model for inferring gene modules from synthetic lethality</title>
+		<year>2005</year>
+		<authors>ping ye,joel s. bader</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>1146</label>
+		<keyword>Budding Yeast;Expectation Maximization;Gene Network;Genetics;Motif Discovery;Nonlinear Transformation;Probabilistic Algorithm;Protein Complex;saccharomyces cerevisiae;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Background: Synthetic lethality experiments identify pairs of genes with complementary function. More direct functional associations (for example greater probability of membership in a single protein complex) may be inferred between genes that share synthetic lethal interaction partners than genes that are directly synthetic lethal. Probabilistic algorithms that identify gene modules based on motif discovery are highly appropriate for the analysis</abstract>
+	</publication>
+	<publication>
+		<title>Toward Hardware-Redundant, Fault-Tolerant Logic for Nanoelectronics</title>
+		<year>2005</year>
+		<authors>jie han,jianbo gao,pieter jonker,josé a. b. fortes</authors>
+		<jconf>IEEE Design &amp; Test of Computers</jconf>
+		<label>1146</label>
+		<keyword>Fault Tolerant;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building Innovative Representations of DNA Sequences to Facilitate Gene Finding</title>
+		<year>2005</year>
+		<authors>jianbo gao,yinhe cao,jing hu</authors>
+		<jconf>IEEE Expert / IEEE Intelligent Systems</jconf>
+		<label>1146</label>
+		<keyword>Dna Sequence;Gene Finding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recurrence Time Statistics: Versatile Tools for Genomic Dna Sequence Analysis</title>
+		<year>2005</year>
+		<authors>yinhe cao,wen-wen tung,jianbo gao</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>1146</label>
+		<keyword>Dna Sequence;Expressed Sequence Tag;Gene Finding;Genomic Dna;Homo Sapiens;Indexation;Prior Knowledge;Sequence Analysis;Non Coding Region;</keyword>
+		<organization>null</organization>
+		<abstract>With the completion of the human and a few model organisms' genomes, and the genomes of many other organisms waiting to be sequenced, it has become increasingly important to develop faster computational tools which are capable of easily identifying the structures and extracting features from DNA sequences. One of the more important structures in a DNA se- quence is repeat-related.</abstract>
+	</publication>
+</person>

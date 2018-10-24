@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jun Sun</FullName>
+	<publication>
+		<title>A Tools Environment for Developing and Reasoning about Ontologies</title>
+		<year>2005</year>
+		<authors>jin song dong,yuzhang feng,yuan-fang li</authors>
+		<jconf>Asia-Pacific Software Engineering Conference</jconf>
+		<label>443</label>
+		<keyword>Building Block;Formal Language;Formal Method;Semantic Web;Tool Support;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>Started in the beginning of 2001, the Semantic Web is re- garded by many as the next generation of the Web. Ontol- ogy languages are the building blocks of Semantic Web as they provide basic vocabularies for data markups: the on- tologies. The correctness of shared ontologies is crucial to the proper functioning of agents. Hence ensuring the con- sistency</abstract>
+	</publication>
+	<publication>
+		<title>PAT: Towards Flexible Verification under Fairness</title>
+		<year>2009</year>
+		<authors>yang liu,jin song dong,jun pang</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>443</label>
+		<keyword>Distributed System;Empirical Evaluation;Model Checking;System Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Recent development on distributed systems has shown that a variety of fairness constraints (some of which are only recently defined) play vital roles in designing self-stabilizing population protocols. Current practice of system anal- ysis is, however, deficient under fairness. In this work, we present PAT, a toolkit for flexible and efficient system analysis under fairness. A unified algorithm is proposed</abstract>
+	</publication>
+	<publication>
+		<title>Synthesis of Distributed Processes from Scenario-Based Specifications</title>
+		<year>2005</year>
+		<authors>jin song dong</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>443</label>
+		<keyword>Distributed Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fair Model Checking with Process Counter Abstraction</title>
+		<year>2009</year>
+		<authors>yang liu,abhik roychoudhury,shanshan liu,jin song dong</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>443</label>
+		<keyword>Automated Verification;Concurrent Systems;Group Behavior;Localized State;Model Checking;State Space;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>Parameterized systems are characterized by the presence of a large (or even unbounded) number of behaviorally similar processes, and they often appear in distributed/concurrent systems. A common state space abstraction for checking parameterized systems involves not keeping track of process identifiers by grouping behaviorally similar processes. Such an abstraction, while useful, conflicts with the notion of fairness. Because process identifiers</abstract>
+	</publication>
+	<publication>
+		<title>Extracting FSMs from Object-Z Specifications with History Invariants</title>
+		<year>2005</year>
+		<authors>jin song dong</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>443</label>
+		<keyword>Complex System;Embedded System;Finite State Machine;Open System;Satisfiability;Software Specification;System Design;Theorem Prover;</keyword>
+		<organization>null</organization>
+		<abstract>Object-Z with history invariants can present precise and abstract models for complex systems. The system behav- ior patterns are often implicitly embedded within various state/operational constraints and history invariants. With- out explicit system behavior representations, it is difficult to implement those abstract models. In this paper, we present a sound and systematic approach to automatically extract ex- plicit system behaviors</abstract>
+	</publication>
+	<publication>
+		<title>Model Checking Live Sequence Charts</title>
+		<year>2005</year>
+		<authors>jin song dong</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>443</label>
+		<keyword>Live Sequence Chart;Message Sequence Chart;Model Checking;System Design;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>Live Sequence Charts (LSCs) are a broad extension to Message Sequence Charts (MSCs) to capture complex inter- object communication rigorously. A tool support for LSCs, named PlayEngine, is developed to interactively &quot;play- in&quot; and &quot;play-out&quot; scenarios. However, PlayEngine can- not automatically expose system design inconsistencies, e.g. conflicts between universal charts and etc. CSP is a for- mal language to specify</abstract>
+	</publication>
+	<publication>
+		<title>A Formal Semantic Model of the Semantic Web Service Ontology (WSMO)</title>
+		<year>2007</year>
+		<authors>hai h. wang,nick gibbins,terry r. payne,ahmed saleh</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>443</label>
+		<keyword>Development Tool;Formal Semantics;Semantic Web;Semantic Web Service;Tool Support;Web Service;Web Service Modelling Ontology;</keyword>
+		<organization>null</organization>
+		<abstract>Semantic Web Services, one of the most significant re- search areas within the Semantic Web vision, has attracted increasing attention from both the research community and industry. The Web Service Modelling Ontology (WSMO) has recently been proposed as an enabling framework for the total/partial automation of the tasks (e.g., discovery , selection, composition, mediation, execution, monitorin g, etc.) involved in</abstract>
+	</publication>
+	<publication>
+		<title>A Formal Model of Semantic Web Service Ontology (WSMO) Execution</title>
+		<year>2008</year>
+		<authors>hai h. wang,nick gibbins,terry r. payne,ahmed saleh</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>443</label>
+		<keyword>Development Tool;Formal Semantics;Semantic Web;Semantic Web Service;Tool Support;Web Service;Web Service Modelling Ontology;</keyword>
+		<organization>null</organization>
+		<abstract>Semantic Web Services have been one of the most sig- nificant research areas within the Semantic Web vision, and have been recognized as a promising technology that ex- hibits huge commercial potential. Current Semantic Web Service research focuses on defining models and languages for the semantic markup of all relevant aspects of services, which are accessible through a Web service</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Approach to Multi-style Architectural Modeling and Verification</title>
+		<year>2008</year>
+		<authors>stephen wong,jing sun,ian warren</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>443</label>
+		<keyword>Architectural Style;Complex System;Software Architecture;Software Engineering;Software Architecture Model;</keyword>
+		<organization>null</organization>
+		<abstract>Software Architecture represents the high level descrip- tion of a system in terms of components, external properties and communication. Despite its importance in the software engineering process, the lack of formal description and ver- ification support limits the value of developing architectural models. Automated formal engineering methods can pro- vide an effective means to precisely describe and rigorously verify intended</abstract>
+	</publication>
+	<publication>
+		<title>Machine-Assisted Proof Support for Validation Beyond Simulink</title>
+		<year>2007</year>
+		<authors>chunqing chen,jin song dong</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Embedded System;Modeling and Simulation;Theorem Prover;Timing Analysis;Real Time;Timed Interval Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Simulink is popular in industry for modeling and simulating embedded systems. It is deflcient to handle requirements of high-level assurance and timing analysis. Previously, we showed the idea of ap- plying Timed Interval Calculus (TIC) to complement Simulink. In this paper, we develop machine-assisted proof support for Simulink models represented in TIC. The work is based on a generic theorem</abstract>
+	</publication>
+	<publication>
+		<title>Timed Patterns: TCOZ to Timed Automata</title>
+		<year>2004</year>
+		<authors>jin song dong,ping hao,shengchao qin,wang yi</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Case Study;Modeling Language;Modeling Technique;Timed Automata;Tool Support;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>The integrated logic-based modeling language, Timed Communicat- ing Object Z (TCOZ), is well suited for presenting complete and coherent re- quirement models for complex real-time systems. However, the challenge is how to verify the TCOZ models with tool support, especially for analyzing timing properties. Specialized graph-based modeling technique, Timed Automata (TA), has powerful mechanisms for designing real-time models using multiple</abstract>
+	</publication>
+	<publication>
+		<title>A Reasoning Method for Timed CSP Based on Constraint Solving</title>
+		<year>2006</year>
+		<authors>jin song dong,ping hao,xian zhang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Case Study;Constraint Logic Programs;Constraint Solving;Reactive System;Safety Properties;Tool Support;Upper Bound;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Timed CSP extends CSP by introducing a capability to quantify temporal aspects of sequencing and synchronization. It is a powerful language to model real time reactive systems. However, there is no veriflcation tool support for proving critical properties over sys- tems modelled using Timed CSP. In this work, we construct a reasoning method using Constraint Logic Programming (CLP) as an</abstract>
+	</publication>
+	<publication>
+		<title>XML-Based Static Type Checking and Dynamic Visualization for TCOZ</title>
+		<year>2002</year>
+		<authors>jin song dong,yuan-fang li,jing sun,hai h. wang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Complex Data;Dynamic System;Tool Support;Type Checking;Real Time;Timed Communicating Object Z;</keyword>
+		<organization>null</organization>
+		<abstract>Timed Communicating Object Z (TCOZ) combines Object-Z's strengths in modelling complex data and state with TCSP's strengths in modeling real-time concurrency. Based on our previous work on the XML environment for TCOZ, this paper firstly demonstrates the development of a type checker for detecting static semantic errors of the TCOZ specification, then illustrates a transformation tool to automatically project TCOZ</abstract>
+	</publication>
+	<publication>
+		<title>Specifying and Verifying Sensor Networks: An Experiment of Formal Methods</title>
+		<year>2008</year>
+		<authors>jin song dong,jing sun,kenji taguchi,xian zhang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Active Sensor;Formal Analysis;Formal Method;Formal Verification;Sensor Deployment;Sensor Network;Specification and Verification;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>With the development of sensor technology and electronic miniatur- ization, wireless sensor networks have shown a wide range of promising applica- tions as well as challenges. Early stage sensor network analysis is critical, which allows us to reveal design errors before sensor deployment. Due to their distin- guishable features, system specification and verification of sensor networks are highly non-trivialtasks. On</abstract>
+	</publication>
+	<publication>
+		<title>Specifying and Verifying Event-Based Fairness Enhanced Systems</title>
+		<year>2008</year>
+		<authors>yang liu,jin song dong,hai h. wang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Base Composition;event-based system;Model Checking;Partial Order Reduction;Software Specification;</keyword>
+		<organization>null</organization>
+		<abstract>Liveness/Fairness plays an important role in software specification, verification and development. Existing event-based compositional models are safety-centric. In this paper, we describe a framework for systematically speci- fying and verifying event-based systems under fairness assumptions. We intro- duce different event annotations to associate fairness constraints with individual events. Fairness annotated events can be used to embed liveness/fairness assump- tions in</abstract>
+	</publication>
+	<publication>
+		<title>Verifying Stateful Timed CSP Using Implicit Clocks and Zone Abstraction</title>
+		<year>2009</year>
+		<authors>yang liu,jin song dong,xian zhang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualizing and Simulating Semantic Web Services Ontologies</title>
+		<year>2005</year>
+		<authors>yuan-fang li,hai h. wang,jing sun</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>443</label>
+		<keyword>Live Sequence Chart;Process Model;Semantic Web;Semantic Web Service;Software Agent;Software Engineering;Tool Support;Visual Simulation;Web Service;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The development of Web Services has transformed the World Wide Web into a more application-aware information portal. The vari- ous standards ensure that Web Services are interpretable and extensible, opening up possibilities for simple services to be combined to build com- plex ones. The Semantic Web presents a new mechanism for users and software agents to discover, describe, invoke, compose</abstract>
+	</publication>
+	<publication>
+		<title>A verification system for timed interval calculus</title>
+		<year>2008</year>
+		<authors>chunqing chen,jin song dong</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Specification Language;Theorem Prover;Theorem Proving;Higher Order Logic;Prototype Verification System;Real Time;Real Time Systems;Timed Interval Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Timed Interval Calculus (TIC) is a highly expressive set-based no- tation for specifying and reasoning about embedded real-time sys- tems. However, it lacks mechanical proving support, as its verifica- tion usually involves infinite time intervals and continuous dynam- ics. In this paper, we develop a system based on a generic theorem prover, Prototype Verification System (PVS), to assist formal ver-</abstract>
+	</publication>
+	<publication>
+		<title>Generating MSCs from an Integrated Formal Specification Language</title>
+		<year>2004</year>
+		<authors>jin song dong,shengchao qin</authors>
+		<jconf>Integrated Formal Methods</jconf>
+		<label>443</label>
+		<keyword>Complex System;Formal Specification Language;Integrable Model;Message Sequence Chart;Multiple Views;Requirement Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>The requirements capture of complex systems requires pow- erful mechanisms for specifying system state, structure and interactive behaviors. Integrated formal specification languages are well suited for presenting more complete and coherent requirement models for complex systems. Given an integrated model, one can project it into multiple views for specialized analysis. Message Sequence Charts (MSCs) is a popular graphical notation for</abstract>
+	</publication>
+	<publication>
+		<title>Context Awareness Systems Design and Reasoning</title>
+		<year>2006</year>
+		<authors>jin song dong,yuzhang feng,jing sun</authors>
+		<jconf>Leveraging Applications of Formal Methods</jconf>
+		<label>443</label>
+		<keyword>Autonomous Control;Context Aware;context-aware systems;Design Model;Formal Model;Integrable Model;Java Programming;Light Intensity;Mobile Device;Mobile Phone;Rfid Tag;Real Time Systems;Timed Communicating Object Z;</keyword>
+		<organization>null</organization>
+		<abstract>This paper reports a recent research investigation on an integrated formal approach to model and verify sensor constraints and relations in the context awareness systems. I. I NTRODUCTION The challenge for designing complex sensor based context awareness system is how to precisely capture communicating behaviors, sensor constraints, and real-time system properties in a highly structured and integrated model. In particular,</abstract>
+	</publication>
+	<publication>
+		<title>Model Checking CSP Revisited: Introducing a Process Analysis Toolkit</title>
+		<year>2008</year>
+		<authors>yang liu,jin song dong</authors>
+		<jconf>Leveraging Applications of Formal Methods</jconf>
+		<label>443</label>
+		<keyword>Base Composition;Communicating Sequential Process;Message Passing;Model Checking;Partial Order Reduction;Process Analysis;System Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>FDR, initially introduced decades ago, is the de facto analyzer for Communicating Sequential Processes (CSP). Model checking techniques have been evolved rapidly since then. This paper describes PAT, i.e., a process analysis toolkit which complements FDR in several aspects. PAT is designed to analyze event-based compositional system models specified using CSP as well as shared variables and asynchronous message passing.</abstract>
+	</publication>
+	<publication>
+		<title>SpecDiff: debugging formal specifications</title>
+		<year>2010</year>
+		<authors>zhenchang xing,yang liu,jin song dong</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Formal Specification;Model Checking;Optimization Technique;Process Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents our SpecDiff tool that exploits the model differencing technique for debugging and understanding evolving behaviors of formal specifications. SpecDiff has been integrated in the Process Analysis Toolkit (PAT), a framework for formal specification, verification and simulation. SpecDiff is able to assist in diagnosing system faults, understanding the impacts of specification optimization techniques, and revealing the system change</abstract>
+	</publication>
+	<publication>
+		<title>Analysing Web Ontology in Alloy: A Military Case Study</title>
+		<year>2003</year>
+		<authors>jin song dong,hai h. wang,chew hung lee,hian beng lee</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>443</label>
+		<keyword>Case Study;Consistency Checking;Formal Method;Information System;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract>Correctness is the essential requirement criteria for mil- itary web ontology based information systems. Reasoning and consistency checking can be useful at many stages dur- ing the design, maintenance and deployment of Semantic Web (SW) ontology. Formal methods can provide automatic reasoning and consistency checking services for SW. In this paper, we use military plan ontology as a case study</abstract>
+	</publication>
+	<publication>
+		<title>Towards Expressive Specification and Efficient Model Checking</title>
+		<year>2009</year>
+		<authors>jin song dong</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Specification and Programs for System Modeling and Verification</title>
+		<year>2009</year>
+		<authors>yang liu,jin song dong,chunqing chen</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Composition Operator;Mechanical Systems;Model System;Modeling Language;Specification Language;System Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>High level specification languages like CSP use math- ematical objects as abstractions to represent systems and processes. System behaviors are described as process ex- pressions combined with compositional operators, which are associated with elegant algebraic laws for system anal- ysis. Nonetheless, modeling systems with non-trivial data and functional aspects using CSP remains difficult. In this work, we propose a modeling</abstract>
+	</publication>
+	<publication>
+		<title>Bounded Model Checking of Compositional Processes</title>
+		<year>2008</year>
+		<authors>yang liu,jin song dong,jing sun</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Bounded Model Checking;Model Checking;Sat Solver;State Space;State Space Explosion;Temporal Properties;On The Fly;Process Algebra;</keyword>
+		<organization>null</organization>
+		<abstract>Verification techniques like SAT-based bounded model checking have been successfully applied to a variety of sys- tem models. Applying bounded model checking to composi- tional process algebras is, however, not a trivial task. One challenge is that the number of system states for process algebra models is not statically known, whereas explor- ing the full state space is computationally expensive.</abstract>
+	</publication>
+	<publication>
+		<title>Realizing Live Sequence Charts in SystemVerilog</title>
+		<year>2007</year>
+		<authors>hai h. wang,shengchao qin,jin song dong</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Design Model;Embedded Control System;Live Sequence Chart;Use Case;</keyword>
+		<organization>null</organization>
+		<abstract>The design of an embedded control system starts with an investigation of properties and behaviors of the process evolving within its environment, and an analysis of the re- quirement for its safety performance. In early stages, sys- tem requirements are often specified as scenarios of behav- ior using sequence charts for different use cases. This spec - ification must be</abstract>
+	</publication>
+	<publication>
+		<title>Validating Semistructured Data Using OWL</title>
+		<year>2006</year>
+		<authors>yuan-fang li,jing sun,gillian dobbie,hai h. wang</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>443</label>
+		<keyword>semistructured data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A formal framework for modeling and validating Simulink diagrams</title>
+		<year>2009</year>
+		<authors>chunqing chen,jin song dong</authors>
+		<jconf>Formal Aspects of Computing</jconf>
+		<label>443</label>
+		<keyword>Design Space;Embedded System;formal veriflcation;Modeling and Simulation;Open System;Theorem Prover;Real Time;Timed Interval Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Simulink has been widely used in industry to model and simulate embedded systems. With the increasing usage of embedded systems in real-time safety-critical situations, Simulink becomes deflcient to analyze (timing) requirements with high-level assurance. In this article, we apply Timed Interval Calculus (TIC), a real-time speciflcation language, to complement Simulink with TIC formal veriflcation capability. We elaborately construct TIC library</abstract>
+	</publication>
+	<publication>
+		<title>Compositional encoding for bounded model checking</title>
+		<year>2008</year>
+		<authors>yang liu,jin song dong,jing sun</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<label>443</label>
+		<keyword>Bounded Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reasoning About ORA-SS Data Models Using the Semantic Web</title>
+		<year>2006</year>
+		<authors>yuan-fang li,jing sun,gillian dobbie,hai h. wang</authors>
+		<jconf>Journal on Data Semantics</jconf>
+		<label>443</label>
+		<keyword>Automated Reasoning;Consistency Checking;Data Model;Database System;Formal Semantics;Formal Verification;Normal Form;Relational Database;Semantic Web;semistructured data;Web Ontology Language;Ontology Web Language;</keyword>
+		<organization>null</organization>
+		<abstract>There has been a rapid growth in the use of semistructured data in both web applications and database systems. Consequently, the design of a good semistructured data model is essential. In the relational database community, al- gorithms have been defined to transform a relational schema from one normal form to a more suitable normal form. These algorithms have been shown</abstract>
+	</publication>
+	<publication>
+		<title>Reasoning support for Semantic Web ontology family languages using Alloy</title>
+		<year>2006</year>
+		<authors>hai h. wang,jin song dong,jing sun</authors>
+		<jconf>Multiagent and Grid Systems</jconf>
+		<label>443</label>
+		<keyword>Language Use;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A verification system for interval-based specification languages</title>
+		<year>2010</year>
+		<authors>chunqing chen,jin song dong,andrew martin</authors>
+		<jconf>ACM Transactions on Software Engineering and Methodology</jconf>
+		<label>443</label>
+		<keyword>Discrete Time;Duration Calculus;Formal Analysis;Formal Model;Formal Specification Language;Real-time Computing;Specification Language;Theorem Prover;Theorem Proving;Prototype Verification System;Real Time Systems;Timed Interval Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Interval-based specification languages have been used to formally model and rigorously reason about real-time computing systems. This usually involves logical reasoning and mathematical computation with respect to continuous or discrete time. When these systems are complex, analyzing their models by hand becomes error-prone and difficult. In this article, we develop a verification system to facilitate the formal analysis of interval-based</abstract>
+	</publication>
+	<publication>
+		<title>Timed Automata Patterns</title>
+		<year>2008</year>
+		<authors>jin song dong,ping hao,shengchao qin,wang yi</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Timed Automata;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design Synthesis from Interaction and State-Based Specifications</title>
+		<year>2006</year>
+		<authors>jin song dong</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>443</label>
+		<keyword>Behavior Modeling;Distributed Design;Live Sequence Chart;</keyword>
+		<organization>null</organization>
+		<abstract>Interaction-based and state-based modeling are two complementary approaches of behavior modeling. The former focuses on global interactions between system components. The latter concentrates on the internal states of individual components. Both approaches have been proven useful in practice. One challenging and important research objective is to combine the modeling power of both effectively and then use the combination as the</abstract>
+	</publication>
+	<publication>
+		<title>HAIL: a language for easy and correct device access</title>
+		<year>2005</year>
+		<authors>wanghong yuan,mahesh kallahalla,nayeem islam</authors>
+		<jconf>International Workshop on Embedded Systems</jconf>
+		<label>444</label>
+		<keyword>Access Method;Automatic Code Generation;Code Reuse;Device Driver;Difference Operator;Domain Specific Language;Embedded System;Generalization Error;Software Reuse;Specification and Verification;System On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>It is difficult to write device drivers. One factor is that writing low-level code for accessing devices and manipulating their registers is tedious and error-prone. For many system-on-chip based systems, buggy hardware, imprecise documentation, and code reuse worsen the situation further. This paper presents HAIL (Hardware Access Interface Language), a language-based approach to simplify device access programming and generate error</abstract>
+	</publication>
+	<publication>
+		<title>Synchronization Protocols in Distributed Real-Time Systems</title>
+		<year>1996</year>
+		<authors>jane w.-s. liu</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>445</label>
+		<keyword>Distributed Real-time System;Fixed Priority Scheduling;Periodic Tasks;Precedence Constraint;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>In many distributed real-time systems, the workload can be modeled as a set of periodic tasks, each of which con- sists of a chain of subtasks executing on different processo rs. Synchronization protocols are used to govern the release of subtasks so that the precedence constraints among subtasks are satisfied and the schedulability of the resultant system is analyzable. Tasks</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic performance guarantee for real-time tasks with varying computation times</title>
+		<year>1995</year>
+		<authors>too-seng tia,zhong deng,mallikarjun shankar,matthew f. storch,l.-c. wu,jane w.-s. liu</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<label>445</label>
+		<keyword>Performance Guarantee;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounding completion times of jobs with arbitrary release times and variable execution times</title>
+		<year>1996</year>
+		<authors>jane w.-s. liu</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<label>445</label>
+		<keyword>Job Scheduling;Precedence Constraint;Upper Bound;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>In many real-time systems, the workload can be charac- terized as a set of jobs with linear precedence constraints among them. Jobs often have variable execution times and arbitrary release times. We describe here three algorithms that can be used to compute upper bounds on completion times of such jobs scheduled on a priority-driven basis. The algorithms have different performance</abstract>
+	</publication>
+	<publication>
+		<title>Supporting Multiple OSes with OS Switching</title>
+		<year>2007</year>
+		<authors>dong zhou,steve longerbeam</authors>
+		<jconf>USENIX Technical Conference</jconf>
+		<label>444</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Perts: a Prototyping Environment for Real-Time Systems</title>
+		<year>1996</year>
+		<authors>jane w.-s. liu,chung laung liu,zhong deng,too-seng tia,matthew f. storch,david hull,j. l. redondo,riccardo bettati,a. silberman</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<label>445</label>
+		<keyword>Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounding Completion Times of Jobs with Arbitrary Release Times, Variable Execution Times and Resource Sharing</title>
+		<year>1997</year>
+		<authors>mark k. gardner,jane w.-s. liu</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>445</label>
+		<keyword>Resource Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A duality view of spectral methods for dimensionality reduction</title>
+		<year>2006</year>
+		<authors>lin xiao,stephen p. boyd</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>446</label>
+		<keyword>Dimensional Reduction;Duality Theory;Eigenvectors;Local Linear Embedding;Nonlinear Dimensionality Reduction;Optimality Condition;Sparse Matrix;Spectral Method;Maximum Variance Unfolding;</keyword>
+		<organization>null</organization>
+		<abstract>We present a unifled duality view of sev- eral recently emerged spectral methods for nonlinear dimensionality reduction, includ- ing Isomap, locally linear embedding, Lapla- cian eigenmaps, and maximum variance un- folding. We discuss the duality theory for the maximum variance unfolding problem, and show that other methods are directly related to either its primal formulation or its dual formulation, or</abstract>
+	</publication>
+	<publication>
+		<title>Occluded text restoration and recognition</title>
+		<year>2010</year>
+		<authors>lanlan chang,misako suwa,hiroaki takebe,yuan he,satoshi naoi</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>447</label>
+		<keyword>Error Propagation;Patch Size;Statistical Analysis;Structural Complexity;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Text occlusion is among the most intractable obstacles for OCR engines. A typical example in document images is visible watermark characters, which are often occluded by foreground contents. This paper proposes a solution by restoring watermark characters before recognition. The text restoration process consists a core module as patch-based restoration method, which reconstructs the missing areas by referring to similar</abstract>
+	</publication>
+	<publication>
+		<title>Unsupervised Decomposition of Color Document Images by Projecting Colors to a Spherical Surface</title>
+		<year>2008</year>
+		<authors>yuan he,satoshi naoi,yusaku fujii,katsuhito fujimoto</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Chinese Character Recognition by Selection of Binary-Based and Grayscale-Based Classifier</title>
+		<year>2006</year>
+		<authors>yoshinobu hotta,yutaka katsuyama,satoshi naoi</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>447</label>
+		<keyword>Character Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Image Based Watermark String Detection System for Document Security Checking</title>
+		<year>2008</year>
+		<authors>yusaku fujii,hiroaki takebe,katsuhito fujimoto,satoshi naoi</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Video Degradation Model and Its Application to Character Recognition in e-Learning Videos</title>
+		<year>2004</year>
+		<authors>yutaka katsuyama,satoshi naoi</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>447</label>
+		<keyword>Character Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effective text extraction and recognition for WWW images</title>
+		<year>2003</year>
+		<authors>zhulong wang,hao yu,fumihito nishino,yukata katsuyama,satoshi naoi</authors>
+		<jconf>ACM Symposium on Document Engineering</jconf>
+		<label>447</label>
+		<keyword>Approximate Matching;Approximate String Matching;Close Relationships;Connected Component;Content Delivery;Dynamic Program;Text Extraction;</keyword>
+		<organization>null</organization>
+		<abstract>Images play a very important role in web content delivery. Many WWW images contain text information that can be used for web indexing and searching. A new text extraction and recognition algorithm is proposed in this paper. The character strokes in the image are first extracted by color clustering and connected component analysis. A novel stroke verification algorithm is used</abstract>
+	</publication>
+	<publication>
+		<title>Enhancement of camera-based whiteboard images</title>
+		<year>2010</year>
+		<authors>yuan he,satoshi naoi,akihiro minagawa,yoshinobu hotta</authors>
+		<jconf>Document Recognition and Retrieval</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Curved paper rectification for digital camera document images by shape from parallel geodesics using continuous dynamic programming</title>
+		<year>2007</year>
+		<authors>katsuhito fujimoto,hiroaki takebe,misako suwa,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>Digital Camera;Dynamic Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An SVM-Based High-accurate Recognition Approach for Handwritten Numerals by Using Difference Features</title>
+		<year>2007</year>
+		<authors>kaizhu huang,yoshinobu hotta,katsuhito fujimoto,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Degraded Character Recognition by Complementary Classifiers Combination</title>
+		<year>2007</year>
+		<authors>kaizhu huang,yoshinobu hotta,katsuhito fujimoto,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>Character Recognition;Classifier Combination;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Camera based Degraded Text Recognition Using Grayscale Feature</title>
+		<year>2005</year>
+		<authors>yoshinobu hotta,yutaka katsuyama,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trinary Image Mosaicing Based Watermark String Detection</title>
+		<year>2009</year>
+		<authors>satoshi naoi,yusaku fujii,hiroaki takebe,yoshinobu hotta</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>image mosaicing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rejection Strategies with Multiple Classifiers for Handwritten Character Recognition</title>
+		<year>2009</year>
+		<authors>xu-cheng yin,hong-wei hao,yun-feng tang,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>Confidence Measure;Handwriting Recognition;Handwritten Character Recognition;Handwritten Digit Recognition;Multiple Classifiers;</keyword>
+		<organization>null</organization>
+		<abstract>With rejection strategies in a handwriting recognition system, we are able to improve the reliability and accuracy of the recognized characters. In this paper, we propose several rejection strategies with multiple classifiers for handwritten character recognition. First, the rejection strategy for the single classifier is introduced, which is composed of three stages: initial scaling, confidence measure calculation, and rejection performing.</abstract>
+	</publication>
+	<publication>
+		<title>A MultiStage Strategy to Perspective Rectification for Mobile Phone Camera-Based Document Images</title>
+		<year>2007</year>
+		<authors>x. c. yin,satoshi naoi,katsuhito fujimoto,yusaku fujii,koji kurokawa,hiroaki takebe</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>Mobile Phone Cameras;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Separate Chinese Character and English Character by Cascade Classifier and Feature Selection</title>
+		<year>2009</year>
+		<authors>yuanping zhu,akihiro minagawa,yoshinobu hotta,satoshi naoi</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>447</label>
+		<keyword>Classifier Combination;Feature Selection;</keyword>
+		<organization>null</organization>
+		<abstract>The separation of Chinese character and English character is helpful for OCR technique. In this paper, a multi-level cascade classifier combined with feature selection is constructed to identify Chinese character and English character based on individual character. Most of samples are identified by the first node classifier, the remained low classification confidence samples are fed to the next node classifiers</abstract>
+	</publication>
+	<publication>
+		<title>A Hybrid Handwritten Chinese Address Recognition Approach</title>
+		<year>2006</year>
+		<authors>kaizhu huang,yoshinobu hotta,katsuhito fujimoto,satoshi naoi,chong long,li zhuang,xiaoyan zhu</authors>
+		<jconf>International Conference on Neural Information Processing</jconf>
+		<label>447</label>
+		<keyword>Character Segmentation;Hybrid Approach;Language Model;Pattern Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>Handwritten Chinese Address Recognition describes a diffi- cult yet important pattern recognition task. There are three difficulties in this problem: (1) Handwritten address is often of free styles and of high variations, resulting in inevitable segmentation errors. (2) The num- ber of Chinese characters is large, leading low recognition rate for single Chinese characters. (3) Chinese address is usually irregular,</abstract>
+	</publication>
+	<publication>
+		<title>Video caption duration extraction</title>
+		<year>2008</year>
+		<authors>hongliang bai,satoshi naoi,yutaka katsuyama,yoshinobu hotta,katsuhito fujimoto</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>447</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Dual Pass Video Stabilization System Using Iterative Motion Estimation and Adaptive Motion Smoothing</title>
+		<year>2010</year>
+		<authors>pan pan,akihiro minagawa,yoshinobu hotta,satoshi naoi</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>447</label>
+		<keyword>Motion Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sparse learning for support vector classification</title>
+		<year>2010</year>
+		<authors>kaizhu huang,danian zheng,yoshinobu hotta,katsuhito fujimoto,satoshi naoi</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>447</label>
+		<keyword>Support Vector Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Skew detection using wavelet decomposition and projection profile analysis</title>
+		<year>2007</year>
+		<authors>shutao li,qinghua shen</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>447</label>
+		<keyword>Wavelet Decomposition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Multiple Description Video Codec Based on Slepian-Wolf Coding</title>
+		<year>2008</year>
+		<authors>yuhua fan,jia wang,peng wang,songyu yu</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>448</label>
+		<keyword>Video Codec;Multiple Description;slepian wolf;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On MultiStage Sequential Coding of Correlated Sources</title>
+		<year>2007</year>
+		<authors>jia wang,xiaolin wu,songyu yu</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>448</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ringing Artifact Reduction for JPEG2000 Images</title>
+		<year>2007</year>
+		<authors>jinyong fang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>448</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variable block size selection for a transcoder based on MB movement information</title>
+		<year>2008</year>
+		<authors>xiangwen wang,rong xie,shibao zheng,songyu yu</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>448</label>
+		<keyword>Variable Block Size;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Format-Compliant Encryption Framework for JPEG2000 Image Code-Streams in Broadcasting Applications</title>
+		<year>2006</year>
+		<authors>jinyong fang</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>448</label>
+		<keyword>Image Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and implementation of the second-generation HDTV prototype video encoder of China</title>
+		<year>2000</year>
+		<authors>zhenghua yu,wei ye,songyu yu</authors>
+		<jconf>Visual Communications and Image Processing</jconf>
+		<label>448</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modified wavelet coding of arbitrarily shaped objects based on extrapolation and reflection (EAR)</title>
+		<year>2002</year>
+		<authors>jia wang,songyu yu</authors>
+		<jconf>Visual Communications and Image Processing</jconf>
+		<label>448</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wavelet image coding based on directional dilation</title>
+		<year>2002</year>
+		<authors>jia wang,songyu yu</authors>
+		<jconf>Visual Communications and Image Processing</jconf>
+		<label>448</label>
+		<keyword>Image Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A contrast enhancement method for compressed images</title>
+		<year>2004</year>
+		<authors>an kebin,qiang ni</authors>
+		<jconf>Ieice Electronic Express</jconf>
+		<label>448</label>
+		<keyword>Contrast Enhanced;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved EZBC algorithm with low complexity</title>
+		<year>2004</year>
+		<authors>wei-na du,miao sima</authors>
+		<jconf>Ieice Electronic Express</jconf>
+		<label>448</label>
+		<keyword>Low Complexity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Homogeneity Based Image Objective Quality Metric</title>
+		<year>2006</year>
+		<authors>an kebin,wei-na du</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>448</label>
+		<keyword>Quality Metric;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Linear Color Correction Method for Compressed Images and Videos</title>
+		<year>2006</year>
+		<authors>an kebin,lei zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>448</label>
+		<keyword>Color Correction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network TV Broadcasting with Multi-Programs on Application-Oriented QoS</title>
+		<year>2005</year>
+		<authors>hongkai xiong,junni zou,songyu yu</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>448</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compliant encryption scheme for JPEG 2000 image code streams</title>
+		<year>2006</year>
+		<authors>jinyong fang</authors>
+		<jconf>Journal of Electronic Imaging</jconf>
+		<label>448</label>
+		<keyword>Image Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved block size selection method based on macroblock movement characteristic</title>
+		<year>2009</year>
+		<authors>xiangwen wang,rong xie,songyu yu,wenjun zhang</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>448</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Improved Facial Expression Recognition Method</title>
+		<year>2000</year>
+		<authors>qing zhuo,wenyuan wang</authors>
+		<jconf>Int. Conf. on Multimodal Interfaces</jconf>
+		<label>449</label>
+		<keyword>Facial Expression Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Expression Recognition Using 2D Embedded HMM</title>
+		<year>2002</year>
+		<authors>wenyuan wang,qing zhuo,rui qi</authors>
+		<jconf>Joint Conference on Information Sciences</jconf>
+		<label>449</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discriminatory Sparse Coding and Its Application to Face Recognition</title>
+		<year>2003</year>
+		<authors>wenyuan wang,qing zhuo,chengyuan ma</authors>
+		<jconf>International Journal of Image and Graphics</jconf>
+		<label>449</label>
+		<keyword>Face Recognition;Sparse Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sparse image coding with clustering property and its application to face recognition</title>
+		<year>2001</year>
+		<authors>qing zhuo,chengyuan ma,wenyuan wang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>449</label>
+		<keyword>Face Recognition;Image Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Opportunistic power allocation for fading channels with non-cooperative users and random access</title>
+		<year>2005</year>
+		<authors>eytan modiano</authors>
+		<jconf>International Conference on Broadband Networks</jconf>
+		<label>450</label>
+		<keyword>Fading Channel;Power Allocation;Random Access;Theoretical Model;Wireless Communication Systems;Nash Equilibrium;</keyword>
+		<organization>null</organization>
+		<abstract>We present a game-theoretical model of a wireless communication system with multiple competing users sharing a multiaccess fading channel. With a speci- fied capture rule and a limited amount of energy available, a user opportunistically adjusts its transmission power based on its own channel state to maximize the user's own indi- vidual throughput. We derive an explicit form of the</abstract>
+	</publication>
+	<publication>
+		<title>Capacity provisioning and failure recovery in mesh-torus networks with application to satellite constellations</title>
+		<year>2002</year>
+		<authors>eytan modiano</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>450</label>
+		<keyword>Failure Recovery;Link Failure;Traffic Model;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>This paper considers the link capacity requirement for a mesh-torus network under a uniform all-to-all traffic model. Both primary capacity and spare capacity for recov- ering from link failures are examined. In both cases, we use a novel method of &quot;cuts on a graph&quot; to obtain lower bounds on capacity requirements and subsequently find algorithms for routing and failure recovery</abstract>
+	</publication>
+	<publication>
+		<title>Minimum Energy Transmission Scheduling Subject to Deadline Constraints</title>
+		<year>2005</year>
+		<authors>alessandro tarello,murtaza zafer,eytan modiano</authors>
+		<jconf>Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks</jconf>
+		<label>450</label>
+		<keyword>Dynamic Program;Energy Consumption;Energy Efficient;Fading Channel;Optimal Scheduling;Optimal Solution;Satisfiability;Wireless Channels;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of transmission scheduling of data over a wireless fading channel with hard deadline con- straints. Our system consists of N users, each with a fixed amount of data that must be served by a common deadline. Given that, for each user, the channel fade state determines the throughput per unit of energy expended, our objective is</abstract>
+	</publication>
+	<publication>
+		<title>Routing strategies for maximizing throughput in LEO satellite networks</title>
+		<year>2004</year>
+		<authors>eytan modiano</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>450</label>
+		<keyword>Indexing Terms;Packet Switched;Satellite Network;Stability Region;Low Earth Orbit;</keyword>
+		<organization>null</organization>
+		<abstract>This paper develops routing and scheduling al- gorithms for packet transmission in a low earth orbit satellite network with a limited number of transmitters and buffer space. We consider a packet switching satellite network, where time is slotted and the transmission time of each packet is fixed and equal to one time slot. Packets arrive at each satellite independently with</abstract>
+	</publication>
+	<publication>
+		<title>Wireless channel allocation using an auction algorithm</title>
+		<year>2006</year>
+		<authors>eytan modiano,lizhong zheng</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>450</label>
+		<keyword>Distribution Channel;Fading Channel;pareto optimality;Second Price Auction;Wireless Channels;Nash Equilibrium;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a novel auction-based algorithm to allowusers to fairly compete for a wireless fading channel. We use the second-price auction mechanism whereby user bids for the channel, during each time-slot, based on the fade state of the channel, and the user that makes the higher bid wins use of the channel by paying the second highest bid. Under the</abstract>
+	</publication>
+	<publication>
+		<title>Minimum energy transmission scheduling subject to deadline constraints</title>
+		<year>2008</year>
+		<authors>alessandro tarello,murtaza zafer,eytan modiano</authors>
+		<jconf>Wireless Networks</jconf>
+		<label>450</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization Clustering Algorithm</title>
+		<year>2006</year>
+		<authors>wenbo xu,bin ye</authors>
+		<jconf>Advanced Data Mining and Applications</jconf>
+		<label>451</label>
+		<keyword>Cluster Algorithm;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Parallel QPSO Algorithm Using Neighborhood Topology Model</title>
+		<year>2009</year>
+		<authors>xiaogen wang,wenbo xu</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>451</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scalability of Hybrid Fuzzy C-Means Algorithm Based on Quantum-Behaved PSO</title>
+		<year>2007</year>
+		<authors>hao wang,shiqin yang,wenbo xu</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>451</label>
+		<keyword>Fuzzy C Means Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-behaved particle swarm optimization based on immune memory and vaccination</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu,x. h. kong</authors>
+		<jconf>IEEE International Conference on Granular Computing</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel and More Efficient Search Strategy of Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2007</year>
+		<authors>choi h. lai,wenbo xu,zhilei chai</authors>
+		<jconf>International Conference on Adaptive and Natural Computing Algorithms</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;Search Strategy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization with Binary Encoding</title>
+		<year>2007</year>
+		<authors>wenbo xu,wei fang,zhilei chai</authors>
+		<jconf>International Conference on Adaptive and Natural Computing Algorithms</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient Quantum-Behaved Particle Swarm Optimization for Multiprocessor Scheduling</title>
+		<year>2007</year>
+		<authors>xiaohong kong,bin ye,wenbo xu</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>451</label>
+		<keyword>Multiprocessor Scheduling;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Modified Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2007</year>
+		<authors>choi h. lai,wenbo xu,yanrui ding,zhilei chai</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization Algorithm with Controlled Diversity</title>
+		<year>2006</year>
+		<authors>wenbo xu,wei fang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>451</label>
+		<keyword>Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving Quantum-Behaved Particle Swarm Optimization by Simulated Annealing</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;Simulated Annealing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving Multi-period Financial Planning Problem Via Quantum-Behaved Particle Swarm Algorithm</title>
+		<year>2006</year>
+		<authors>wenbo xu,wei fang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>451</label>
+		<keyword>Financial Planning;Particle Swarm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Parameter Selection of Quantum-Behaved Particle Swarm Optimization on Global Level</title>
+		<year>2005</year>
+		<authors>wenbo xu</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>451</label>
+		<keyword>Parameter Selection;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving the Hard Knapsack Problems with a Binary Particle Swarm Approach</title>
+		<year>2006</year>
+		<authors>bin ye,wenbo xu</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>451</label>
+		<keyword>Particle Swarm;Knapsack Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>FIR Digital Filters Design Based on Quantum-behaved Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>wei fang,wenbo xu,jing liu</authors>
+		<jconf>International Conference on Innovative Computing, Information and Control</jconf>
+		<label>451</label>
+		<keyword>Fir Digital Filter;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design IIR Digital Filters Using Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>wei fang,wenbo xu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>451</label>
+		<keyword>Digital Filter;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization with Adaptive Mutation Operator</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiple Sequence Alignment Based on a Binary Particle Swarm Optimization Algorithm</title>
+		<year>2009</year>
+		<authors>hai-xia long,wenbo xu,wen-juan ji</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>451</label>
+		<keyword>Multiple Sequence Alignment;Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parameter Selection of Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2005</year>
+		<authors>wenbo xu,jing liu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>451</label>
+		<keyword>Parameter Selection;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structure Learning of Bayesian Networks Based on Discrete Binary Quantum-Behaved Particle Swarm Optimization Algorithm</title>
+		<year>2009</year>
+		<authors>jing zhao,wenbo xu,di zhou</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>451</label>
+		<keyword>Structure Learning;bayesian network;Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization for Integer Programming</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Conference on Neural Information Processing</jconf>
+		<label>451</label>
+		<keyword>Integer Program;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Training RBF Neural Network Via Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>wenbo xu,jing liu</authors>
+		<jconf>International Conference on Neural Information Processing</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;rbf neural network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization with Mutation Operator</title>
+		<year>2005</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>QoS Multicast Routing Based on Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>Intelligent Data Engineering and Automated Learning</jconf>
+		<label>451</label>
+		<keyword>Multicast Routing;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering of Gene Expression Data with Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2008</year>
+		<authors>wei chen,yanrui ding,wei fang,wenbo xu</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>451</label>
+		<keyword>Gene Expression Data;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of Two-Dimensional Recursive Filters by Using Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>wei fang,wenbo xu</authors>
+		<jconf>Intelligent Information Hiding and Multimedia Signal Processing</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of Online System Identification Based on Improved Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2009</year>
+		<authors>ji zhao,wenbo xu</authors>
+		<jconf></jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;System Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization with Immune Operator</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Syposium on Methodologies for Intelligent Systems</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiple Sequence Alignment by Improved Hidden Markov Model Training and Quantum-Behaved Particle Swarm Optimization</title>
+		<year>2010</year>
+		<authors>chengyuan li,hai-xia long,yanrui ding,wenbo xu</authors>
+		<jconf></jconf>
+		<label>451</label>
+		<keyword>Multiple Sequence Alignment;particle swarm optimizer;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum-Behaved Particle Swarm Optimization with a Hybrid Probability Distribution</title>
+		<year>2006</year>
+		<authors>wenbo xu,wei fang</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;Probability Distribution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Global Search Ability of Quantum-Behaved Particle Swarm Optimization by Maintaining Diversity of the Swarm</title>
+		<year>2006</year>
+		<authors>wenbo xu,wei fang</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<label>451</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>QPSO-Based QoS Multicast Routing Algorithm</title>
+		<year>2006</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>Simulated Evolution and Learning</jconf>
+		<label>451</label>
+		<keyword>Multicast Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Diversity-Guided Quantum-Behaved Particle Swarm Optimization Algorithm</title>
+		<year>2006</year>
+		<authors>wenbo xu,wei fang</authors>
+		<jconf>Simulated Evolution and Learning</jconf>
+		<label>451</label>
+		<keyword>Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved quantum-behaved particle swarm optimization algorithm with weighted mean best position</title>
+		<year>2008</year>
+		<authors>maolong xi,wenbo xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>451</label>
+		<keyword>Global Convergence;Local Convergence;particle swarm optimizer;Local Search;Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Quantum-behaved particle swarm optimization (QPSO) algorithm is a global convergence guaranteed algorithms, which outperforms original PSO in search ability but has fewer parameters to control. In this paper, we propose an improved quantum-behaved particle swarm optimization with weighted mean best position according to fitness values of the particles. It is shown that the improved QPSO has faster local convergence speed,</abstract>
+	</publication>
+	<publication>
+		<title>Using quantum-behaved particle swarm optimization algorithm to solve non-linear programming problems</title>
+		<year>2007</year>
+		<authors>jing liu,wenbo xu</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>451</label>
+		<keyword>Non Linear Programming;Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Analysis of IEEE 802.11e EDCA</title>
+		<year>2007</year>
+		<authors>wei zhang,jing liu,haibin zhang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>452</label>
+		<keyword>Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

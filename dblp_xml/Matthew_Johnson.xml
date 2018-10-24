@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matthew Johnson</FullName>
+	<publication>
+		<title>Obtaining Online Ecological Colourings by Generalizing First-Fit</title>
+		<year>2010</year>
+		<authors>viresh patel,daniël paulusma,théophile trunck</authors>
+		<jconf>Computer Science Symposium in Russia</jconf>
+		<label>667</label>
+		<keyword>Computational Complexity;Polynomial Time;First Fit;</keyword>
+		<organization>null</organization>
+		<abstract>A colouring of a graph is ecological if every pair of vertices that have the same set of colours in their neighbourhood are coloured alike. We consider the following problem: if a graphG and an ecological colouringc ofG are given, can further vertices added to G, one at a time, be coloured so that at each stage the current graph</abstract>
+	</publication>
+	<publication>
+		<title>The Computational Complexity of the Parallel Knock-Out Problem</title>
+		<year>2006</year>
+		<authors>hajo broersma,daniël paulusma,iain a. stewart</authors>
+		<jconf>Latin American Theoretical INformatics</jconf>
+		<label>667</label>
+		<keyword>Bipartite Graph;Computational Complexity;Polynomial Time;Regular Graph;Knock Out;</keyword>
+		<organization>null</organization>
+		<abstract>We consider computational complexity questions related to parallel knock-out schemes for graphs. In such schemes, in each round, each remaining vertex of a given graph eliminates exactly one of its neighbours. We show that the problem of whether, for a given bipartite graph, such a scheme can be found that eliminates every vertex is NP-complete. Moreover, we show that, for</abstract>
+	</publication>
+	<publication>
+		<title>Upper Bounds and Algorithms for Parallel Knock-Out Numbers</title>
+		<year>2007</year>
+		<authors>hajo broersma,daniël paulusma</authors>
+		<jconf>Colloquium on Structural Information &amp; Communication Complexity</jconf>
+		<label>667</label>
+		<keyword>Upper Bound;Knock Out;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Amalgamations of factorizations of complete equipartite graphs</title>
+		<year>2004</year>
+		<authors>anthony j. w. hilton</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>667</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Abstract Let   t   be a positive integer, and let   L    = (l1 ,  , lt) and   K    = (k1 ,  , kt) be collections of nonnegative integers A graph has a (t, K, L) factorization if it can be represented as the edge - disjoint union of factors   F1 ,  , Ft where, for 1    =    i    =    t ,</abstract>
+	</publication>
+	<publication>
+		<title>Path factors and parallel knock-out schemes of almost claw-free graphs</title>
+		<year>2010</year>
+		<authors>daniël paulusma,chantal wood</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>667</label>
+		<keyword>claw-free graph;Knock Out;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Defining sets for Latin squares given that they are based on groups</title>
+		<year>2003</year>
+		<authors>david bedford,matthew a. ollis</authors>
+		<jconf>European Journal of Combinatorics</jconf>
+		<label>668</label>
+		<keyword>Latin Square;</keyword>
+		<organization>null</organization>
+		<abstract>We investigate deflning sets for latin squares where we are given that the latin square is the Cayley table for some group. Our main result is that the proportion of entries in a smallest deflning set approaches zero as the order of the group increases without bound.</abstract>
+	</publication>
+	<publication>
+		<title>Amalgamations of connected k-factorizations</title>
+		<year>2003</year>
+		<authors>anthony j. w. hilton,christopher a. rodger,evan b. wantland</authors>
+		<jconf>Journal of Combinatorial Theory</jconf>
+		<label>667</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Characterization of graphs with hall number 2</title>
+		<year>2004</year>
+		<authors>changiz eslahchi</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<label>668</label>
+		<keyword>Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Upper bounds and algorithms for parallel knock-out numbers</title>
+		<year>2009</year>
+		<authors>hajo broersma,daniël paulusma</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>667</label>
+		<keyword>Upper Bound;Knock Out;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The computational complexity of the parallel knock-out problem</title>
+		<year>2008</year>
+		<authors>hajo broersma,daniël paulusma,iain a. stewart</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>667</label>
+		<keyword>Ams Subject Classification;Bipartite Graph;Computational Complexity;Polynomial Time;Regular Graph;Knock Out;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We consider computational complexity questions related to parallel knock-out schemes for graphs. In such schemes, in each round, each remaining vertex of a given graph eliminates exactly one of its neighbours. We show that the problem of whether, for a given bipartite graph, such a scheme can be found that eliminates every vertex is NP-complete. Moreover, we show that,</abstract>
+	</publication>
+</person>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jorge Lobo</FullName>
+	<publication>
+		<title>Tele3D - Developing a Handheld Scanner Using Structured Light Projection</title>
+		<year>2002</year>
+		<authors>joão filipe ferreira,jorge dias</authors>
+		<jconf>3D Data Processing Visualization and Transmission</jconf>
+		<label>440</label>
+		<keyword>Cost Effectiveness;Projective Structure;Structured Light;Surface Reconstruction;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Three-dimensional surface reconstruction from two- dimensional images is a process with great potential for use on different fields of research, commerce and indus- trial production. In this article we will describe the evo- lution of a project comprising the study and development of systems which implement the aforementioned process, ex- ploring several techniques with the final aim of devising the</abstract>
+	</publication>
+	<publication>
+		<title>Registration and Segmentation for 3D Map Building: A Solution Based on Stereo Vision and Inertial Sensors</title>
+		<year>2003</year>
+		<authors>luís almeida,joão alves,jorge dias</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>440</label>
+		<keyword>Inertial Sensor;Map Building;Stereo Vision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robotic implementation of biological Bayesian models for visuo-inertial image stabilization and gaze control</title>
+		<year>2008</year>
+		<authors>joão filipe ferreira,jose prado,jorge dias</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>440</label>
+		<keyword>bayesian framework;bayesian inference;bayesian model;Biological Systems;Gaze Control;Human Brain;Human Vision;Image Sensor;Image Stabilization;Inertial Sensor;Sensor Fusion;Vestibular System;</keyword>
+		<organization>null</organization>
+		<abstract>Robotic implementations of gaze control and im- age stabilization have been previously proposed, that rely on fusing inertial and visual sensing modalities. Human and biological system also combine the two sensing modalities for the same goal. In this work we build upon these previous results and, with the contribution of psychophysical studies, attempt a more bio-inspired approach to the robotic</abstract>
+	</publication>
+	<publication>
+		<title>An Introduction to Inertial and Visual Sensing</title>
+		<year>2007</year>
+		<authors>peter corke,jorge dias</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>440</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Editorial: Special Issue: 2nd Workshop on Integration of Vision and Inertial Sensors</title>
+		<year>2007</year>
+		<authors>jorge dias,markus vinzce,peter corke</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>440</label>
+		<keyword>Inertial Sensor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relative Pose Calibration Between Visual and Inertial Sensors</title>
+		<year>2007</year>
+		<authors>jorge dias</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>440</label>
+		<keyword>Computer Vision;Indexing Terms;Inertial Sensor;Integrable System;Sensor Fusion;Off The Shelf;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an approach to calibrate off-the-shelf cameras and inertial sensors to have a useful integrated system to be used in static and dynamic situations. The rotation between the camera and the inertial sensor can be estimated, when calibrating the camera, by having both sensors observe the vertical direction, using a vertical chessboard target and gravity. The translation between</abstract>
+	</publication>
+	<publication>
+		<title>Inertial Sensed Ego-motion for 3D Vision</title>
+		<year>2004</year>
+		<authors>jorge dias</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>440</label>
+		<keyword>3d vision;Depth Map;Frame of Reference;Inertial Sensor;Stereo Vision;Vestibular System;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract>Inertial sensors attached to a camera can provide valuable data about camera pose and movement. In biological vision systems, inertial cues provided by the vestibular system are fused with vision at an early processing stage. In this article we set a framework for the combination of these two sensing modalities. Cameras can be seen as ray direction measuring devices, and</abstract>
+	</publication>
+	<publication>
+		<title>Vision and Inertial Sensor Cooperation Using Gravity as a Vertical Reference</title>
+		<year>2003</year>
+		<authors>jorge dias</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>440</label>
+		<keyword>3d structure;Autonomous Robot;Biological Systems;Computer Vision;Data Integrity;Feature Detection;Frame of Reference;Image Segmentation;Indexing Terms;Inertial Sensor;Sensor Fusion;Spatial Orientation;Vanishing Point;Vestibular System;Vision System;Visual Cues;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores the combination of inertial sensor data with vision. Visual and inertial sensing are two sensory modalities that can be explored to give robust solutions on image segmentation and recovery of 3D structure from images, increasing the capabilities of autonomous robots and enlarging the application potential of vision systems. In biological systems, the information provided by the vestibular</abstract>
+	</publication>
+	<publication>
+		<title>World feature detection and mapping using stereovision and inertial sensors</title>
+		<year>2003</year>
+		<authors>carlos queiroz,jorge dias</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>440</label>
+		<keyword>3d reconstruction;3d structure;Autonomous Vehicle;Feature Detection;Image Segmentation;Inertial Sensor;Map Building;Mobile Robot;Robot Navigation;Sensor Fusion;Statistical Approach;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores the fusion of inertial information with vision for 3D reconstruction. A method is proposed for vertical line segment detection and subsequent local geometric map building. Visual and inertial sensing are two sensory modalities that can be explored to give robust solutions on image segmentation and recovery of 3D structure from images, increasing the capabilities of autonomous vehicles</abstract>
+	</publication>
+</person>

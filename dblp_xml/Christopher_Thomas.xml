@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christopher Thomas</FullName>
+	<publication>
+		<title>Teaching C++ to high school students</title>
+		<year>1994</year>
+		<authors>david finkel,chet hooker,scott salvidio,mark sullivan</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>158</label>
+		<keyword>High School Student;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The voice of the people: a system for enriching Olympic experiences</title>
+		<year>2004</year>
+		<authors>greg fogel,sonia wendorf,kristen jones</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>159</label>
+		<keyword>Design Research;Interaction Design;Knowledge Base;Learning Curve;</keyword>
+		<organization>null</organization>
+		<abstract>During a 14-week student design project, we developed a concept for a three-component system that allows audience members to voice their opinions at Olympic events. Aside from completing CHI's primary goal of creating a voting device, we found that audience members need a knowledge base and a feeling of empowerment in order to feel secure with their vote. Based on</abstract>
+	</publication>
+</person>

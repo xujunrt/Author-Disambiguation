@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Brochmann Pedersen</FullName>
+	<publication>
+		<title>A Quantum Cipher with Near Optimal Key-Recycling</title>
+		<year>2005</year>
+		<authors>ivan damgård,louis salvail</authors>
+		<jconf>International Crytology Conference</jconf>
+		<label>1006</label>
+		<keyword>Quantum Channel;Quantum Key Distribution;Similarity Function;One Time Pad;</keyword>
+		<organization>null</organization>
+		<abstract>Assuming an insecure quantum channel and an authenti- cated classical channel, we propose an unconditionally secure scheme for encrypting classical messages under a shared key, where attempts to eavesdrop the ciphertext can be detected. If no eavesdropping is de- tected, we can securely re-use the entire key for encrypting new messages. If eavesdropping is detected, we must discard a number</abstract>
+	</publication>
+</person>

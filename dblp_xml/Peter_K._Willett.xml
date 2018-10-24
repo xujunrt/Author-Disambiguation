@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter K. Willett</FullName>
+	<publication>
+		<title>The theoretical bandwidth advantage of CDMA over FDMA in a Gaussian MAC</title>
+		<year>1999</year>
+		<authors>biao chen</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>813</label>
+		<keyword>Capacity Region;Indexing Terms;Frequency Division Multiple Access;Gaussian Multiple Access Channel;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>We develop an expression for the minimum extra bandwidth needed for a frequency-division multiple-access (FDMA) system to out- perform its code-division (CDMA) counterpart uniformly (that is, for all rate -tuples) in a Gaussian multiple-access channel (MAC). For equal- power sources, the behavior of this factor is as an iterated logarithm of the number of users; hence it increases slowly yet</abstract>
+	</publication>
+	<publication>
+		<title>A Detection Optimal Min-Max Test for Transient Signals</title>
+		<year>1998</year>
+		<authors>chunming han,biao chen,douglas abraham</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>813</label>
+		<keyword>Average Distance;Generalized Likelihood Ratio Test;Indexing Terms;</keyword>
+		<organization>null</organization>
+		<abstract>Page's test is optimal for detecting a permanent change in distribution, in the sense that it minimizes the worst case average delay to detection given an average distance between false alarms. When used to detect transient signals, however, it in fact becomes the generalized likelihood ratio test (GLRT). Since a GLRT is in almost all cases ad hoc, Page's test</abstract>
+	</publication>
+</person>

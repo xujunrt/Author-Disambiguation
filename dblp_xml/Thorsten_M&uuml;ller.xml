@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thorsten M&amp;uuml;ller</FullName>
+	<publication>
+		<title>EMV Charakteristiken von Power Supply Systemen im Kfz</title>
+		<year>2006</year>
+		<authors>frank klotz</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit</jconf>
+		<label>1022</label>
+		<keyword>Power Supply;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bewertung von IC-Emissions-Messverfahren an Smart Power-IC's</title>
+		<year>2001</year>
+		<authors>frank klotz</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit in der KFZ-Technik</jconf>
+		<label>1022</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

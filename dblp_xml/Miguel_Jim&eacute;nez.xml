@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Miguel Jim&amp;eacute;nez</FullName>
+	<publication>
+		<title>Problems and Solutions in Distributed Software Development: A Systematic Review</title>
+		<year>2008</year>
+		<authors>mario piattini</authors>
+		<jconf>Software Engineering Approaches for Offshore and Outsourced Development</jconf>
+		<label>713</label>
+		<keyword>Distributed Software Development;Systematic Review;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

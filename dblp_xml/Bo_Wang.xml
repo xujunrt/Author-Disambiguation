@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bo Wang</FullName>
+	<publication>
+		<title>Multicast Algorithms for MultiChannel Wireless Mesh Networks</title>
+		<year>2007</year>
+		<authors>guo-kai zeng,yong ding,li xiao,matt w. mutka</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>96</label>
+		<keyword>Channel Assignment;Data Communication;Energy Efficient;Mesh Network;Network Capacity;Optimal Routing;Sensor Network;Single Channel;Throughput Maximization;wireless multi-hop network;Mobile Node;Wireless Mesh Network;</keyword>
+		<organization>null</organization>
+		<abstract>Multicast is a key technology that provides efficient data communication among a set of nodes for wireless multi-hop networks. In sensor networks and MANETs, multicast algorithms are designed to be energy efficient and to achieve optimal route discovery among mobile nodes, respectively. However, in wireless mesh networks, which are required to provide high quality service to end users as the</abstract>
+	</publication>
+	<publication>
+		<title>Efficient multicast for link-heterogeneous wireless mesh networks</title>
+		<year>2009</year>
+		<authors>guo-kai zeng,matt w. mutka,li xiao,eric torng</authors>
+		<jconf>International Performance, Computing, and Communications Conference</jconf>
+		<label>96</label>
+		<keyword>Wireless Mesh Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Local Detection of Selfish Routing Behavior in Ad Hoc Networks</title>
+		<year>2006</year>
+		<authors>sohraab soltani,jonathan k. shapiro,pang-ning tan</authors>
+		<jconf>Journal of Interconnection Networks</jconf>
+		<label>96</label>
+		<keyword>Ad Hoc Network;Ad Hoc Routing;False Positive;Finite State Machine;Mobile Ad Hoc Network;Reputation Mechanism;Routing Protocol;Selfish Routing;Statistical Test;</keyword>
+		<organization>null</organization>
+		<abstract>Reputation mechanisms for detecting and punishing free-riders in ad hoc networks depend on the local detec- tion of selfish behavior. Although naive selfish strategies based on dropping data packets are readily detected, more sophisticated strategies that manipulate ad hoc routing protocols present a greater challenge. In this work we develop a method to distinguish selfish peers from cooperative ones based</abstract>
+	</publication>
+	<publication>
+		<title>Path selection for mobile stations in IEEE 802.16 multihop relay networks</title>
+		<year>2008</year>
+		<authors>matt w. mutka</authors>
+		<jconf>Workshop on Wireless Mobile Multimedia</jconf>
+		<label>96</label>
+		<keyword>Emerging Technology;Multimedia Application;Network Capacity;Path Selection;Quality of Service;Real Time Application;Relay Network;Satisfiability;Wireless Network;Base Station;Explicit Rate;mobile multihop relay;Mobile Station;Relay Station;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Multimedia applications over wireless mobile net- works become more popular with the increasing deploy- ment of wireless infrastructures. IEEE 802.16 standard has become an emerging technology to support broad- band access and Quality of Service (QoS) for real-time multimedia applications over wireless networks. This paper discusses the path selection problem in IEEE 802.16 mobile multihop relay (MMR) networks where relay</abstract>
+	</publication>
+	<publication>
+		<title>QoS-aware fair rate allocation in wireless mesh networks</title>
+		<year>2008</year>
+		<authors>matt w. mutka</authors>
+		<jconf>Computer Communications</jconf>
+		<label>96</label>
+		<keyword>Bandwidth Allocation;Guaranteed Service;Mesh Network;Quality of Service;Rate Allocation;Service Quality;Wireless Network;Explicit Rate;Real Time;Wireless Mesh Network;</keyword>
+		<organization>null</organization>
+		<abstract>In wireless mesh networks, quality-of-service (QoS) support and fair rate allocation are usually considered separately. Fair rate allo- cation frameworks proposed in previous work focus on elastic flows that do not have explicit service quality requirements. Such frame- works may not be applied directly within mesh networks containing real-time flows that have explicit rate and delay requirements. QoS support frameworks</abstract>
+	</publication>
+	<publication>
+		<title>Local Detection of Selfish Routing Behavior in Ad Hoc Networks</title>
+		<year>2006</year>
+		<authors>sohraab soltani,jonathan k. shapiro,pang-ning tan</authors>
+		<jconf>Journal of Interconnection Networks</jconf>
+		<label>96</label>
+		<keyword>Ad Hoc Network;Ad Hoc Routing;False Positive;Finite State Machine;Mobile Ad Hoc Network;Reputation Mechanism;Routing Protocol;Selfish Routing;Statistical Test;</keyword>
+		<organization>null</organization>
+		<abstract>Reputation mechanisms for detecting and punishing free-riders in ad hoc networks depend on the local detec- tion of selfish behavior. Although naive selfish strategies based on dropping data packets are readily detected, more sophisticated strategies that manipulate ad hoc routing protocols present a greater challenge. In this work we develop a method to distinguish selfish peers from cooperative ones based</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Multicast Algorithms for Multichannel Wireless Mesh Networks</title>
+		<year>2010</year>
+		<authors>guo-kai zeng,yong ding,li xiao,matt w. mutka</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>96</label>
+		<keyword>Wireless Mesh Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variational Bayes Estimation of Mixing Coefficients</title>
+		<year>2004</year>
+		<authors>d. m. titterington</authors>
+		<jconf>Deterministic and Statistical Methods in Machine Learning</jconf>
+		<label>97</label>
+		<keyword>Asymptotic Normal;Covariance Matrix;Fisher Information;Interval Estimation;Iterative Algorithm;Local Convergence;Maximum Likelihood Estimate;Mixture Model;Posterior Distribution;Sample Size;Variational Bayes;Mum Likelihood;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>We investigate theoretically some properties of variational Bayes approximations based on estimating the mixing coecients of known densities. We show that, with probability 1 as the sample size n grows large, the iterative algorithm for the variational Bayes approximation converges locally to the maximum likelihood estimator at the rate of O(1=n). Moreover, the variational posterior distribution for the pa- rameters</abstract>
+	</publication>
+	<publication>
+		<title>Convergence and Asymptotic Normality of Variational Bayesian Approximations for Expon</title>
+		<year>2004</year>
+		<authors>d. m. titterington</authors>
+		<jconf>Uncertainty in Artificial Intelligence</jconf>
+		<label>97</label>
+		<keyword>Asymptotic Normal;variational bayesian;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Lack of Consistency of Mean Field and Variational break Bayes Approximations for State Space Models</title>
+		<year>2004</year>
+		<authors>d. m. titterington</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<label>97</label>
+		<keyword>State Space Model;Variational Bayes;Mean Field;</keyword>
+		<organization>null</organization>
+		<abstract>The consistency problem of both mean eld and variational Bayes estimates in the context of linear state space models is investigated. We prove that the mean eld approximation is asymptotically ecient when the variances of the noise variables in the system are suciently small, but neither the mean eld estimator nor the variational Bayes</abstract>
+	</publication>
+	<publication>
+		<title>A Comparative Study on Chinese Word Clustering</title>
+		<year>2006</year>
+		<authors>houfeng wang</authors>
+		<jconf>International Conference on the Computer Processing of Oriental Languages</jconf>
+		<label>98</label>
+		<keyword>Comparative Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bootstrapping both Product Properties and Opinion Words from Chinese Reviews with Cross-Training</title>
+		<year>2007</year>
+		<authors>houfeng wang</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>98</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicting Chinese Abbreviations from Definitions: An Empirical Learning Approach Using Support Vector Regression</title>
+		<year>2008</year>
+		<authors>xu sun,houfeng wang</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>98</label>
+		<keyword>Statistical Natural Language Processing;Support Vector Regression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Throughput Scaling of Wideband Sensory Relay Networks: Cooperative Relaying, Power Allocation and Achievable Rates</title>
+		<year>2006</year>
+		<authors>junshan zhang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>99</label>
+		<keyword>Power Allocation;Relay Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the capacity of MIMO relay channels</title>
+		<year>2005</year>
+		<authors>junshan zhang,anders høst-madsen</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>99</label>
+		<keyword>Ad Hoc Network;Convex Programming;Cooperative Communication;Rayleigh Fading;Regularity Condition;Relay Channel;Upper Bound;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We study the capacity of MIMO relay channels. We flrst consider the Gaussian MIMO relay channel with flxed channel conditions, and derive upper bounds and lower bounds that can be obtained numerically by convex programming. We present algorithms to compute the bounds. Next, we generalize the study to the Rayleigh fading case. We flnd an upper bound and a lower</abstract>
+	</publication>
+	<publication>
+		<title>Achievable Rates and Scaling Laws of Power-Constrained Wireless Sensory Relay Networks</title>
+		<year>2006</year>
+		<authors>junshan zhang,lizhong zheng</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>99</label>
+		<keyword>a priori knowledge;Amplify and Forward;Channel Estimation;Channel Model;Channel State Information;Frequency Selective Fading;Indexing Terms;Power Allocation;Relay Network;Scaling Law;</keyword>
+		<organization>null</organization>
+		<abstract>A wireless sensory relay network consists of one source node, one destination node and multiple intermediate relay nodes. In this paper, we study the achievable rates and the scaling laws of power-constrained wireless relay networks in the wideband regime, assuming that relay nodes have no a priori knowledge of channel-state information (CSI) for both the backward channels and the forward</abstract>
+	</publication>
+	<publication>
+		<title>Performance Optimization of Wireless Video Sensor Networks using Swarm Optimization with Convex Mapping</title>
+		<year>2006</year>
+		<authors>zhihai he</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>100</label>
+		<keyword>Constrained Optimization Problem;Evolutionary Optimization;High Dimension;Indexing Terms;Optimization Problem;Perforation;Performance Optimization;Sensor Network;Spatial Distribution;Swarm Intelligence;Theoretical Analysis;Wireless Video;</keyword>
+		<organization>null</organization>
+		<abstract>A wireless video sensor network (WVSN) is a system of spatially distributed video sensors which capture, process and transmit video information over a wireless ad hoc net- work. The performance optimization in WVSN is a nonlin- ear high-dimension constrained optimization problem. In this work, we consider the unique characteristics of WVSN and develop an evolutionary optimization scheme using a swarm</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Rate Allocation and Performance Optimization for Video Communication Over Mesh Networks</title>
+		<year>2007</year>
+		<authors>zhihai he,yu sun</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>100</label>
+		<keyword>Large Scale;Mesh Network;Optimization Problem;particle swarm optimizer;Performance Optimization;Rate Allocation;Resource Allocation;Resource Limitation;Utility Function;Video Communication;Video Streaming;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Video streaming imposes high rate requirement and strin- gent constraints on resource limited mesh networks. In this work, we develop a distributed asynchronous particle swarm optimization (DAPSO) algorithm for resource allocation and performance optimization scheme for video communica- tion over large-scale mesh networks. Unlike many,network resource allocation performance optimization algorithms in the literatures which are able to handle convex</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Optimization Over Wireless Sensor Networks using Swarm Intelligence</title>
+		<year>2007</year>
+		<authors>zhihai he</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>100</label>
+		<keyword>Distributed Optimization;Swarm Intelligence;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Weighted Frequency-Domain Least Squares Approach for Equalization in Discrete Multitone Systems</title>
+		<year>2000</year>
+		<authors>tülay adali</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>101</label>
+		<keyword>Cost Function;Echo Cancellation;Frequency Division Multiplexing;Frequency Domain;Least Square;Weight Function;Weighted Least Square;Cyclic Prefix;Time Domain;</keyword>
+		<organization>null</organization>
+		<abstract>In Discrete Multitone (DMT) transceivers, a time domain equalizer (TEQ) is used to shorten the effective channel im- pulse response such that a shorter cyclic prefix can be used. In this paper, we pose the TEQ design problem completely in the frequency domain by defining a frequency-domain weighted least squares cost function. The definition of the frequency-domain TEQ design criterion,</abstract>
+	</publication>
+	<publication>
+		<title>Time-Dmain Equalizer Design for Discrete Multitone Systems</title>
+		<year>2000</year>
+		<authors>tülay adali</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>101</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A frequency-domain training approach for equalization and noise suppression in discrete multitone systems</title>
+		<year>2004</year>
+		<authors>tülay adali</authors>
+		<jconf>Signal Processing</jconf>
+		<label>101</label>
+		<keyword>Frequency Domain;Noise Suppression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A General Probabilistic Formulation for Supervised Neural Classifiers</title>
+		<year>2000</year>
+		<authors>hongmei ni,tülay adali,xiao liu</authors>
+		<jconf>Journal of Signal Processing Systems</jconf>
+		<label>101</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Studying On Real Time Video Transporting System Over Ad-hoc Networks</title>
+		<year>2006</year>
+		<authors>zhixiong liu,guiming he</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>102</label>
+		<keyword>Ad Hoc Network;Transport System;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Real Time Video Transporting System Over Ad-hoc Networks</title>
+		<year>2006</year>
+		<authors>zhixiong liu,guiming he</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>102</label>
+		<keyword>Ad Hoc Network;Transport System;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Scheme For Wireless Network Authentication System</title>
+		<year>2006</year>
+		<authors>jing zhang</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>102</label>
+		<keyword>Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Tunnel Scheme for Multimedia Communications Traversing NAT/Firewall in NGN</title>
+		<year>2005</year>
+		<authors>gengsheng zheng,zhiping xie,guiming he</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>102</label>
+		<keyword>Multimedia Communication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Semantic Interoperability Based on Ontology Mapping in Distributed Collaborative Design Environment</title>
+		<year>2003</year>
+		<authors>jingyi zhang,shen-sheng zhang,chun chen</authors>
+		<jconf>Atlantic Web Intelligence Conference</jconf>
+		<label>103</label>
+		<keyword>Design Environment;Distributed Collaboration;Ontology Mapping;Semantic Interoperability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Semantic consistency maintenance in collaborative graphics design systems</title>
+		<year>2008</year>
+		<authors>bo jiang,jiajun bu,chun chen</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>103</label>
+		<keyword>Consistency Maintenance;Graphic Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel coordination mechanism in cooperative pattern design systems</title>
+		<year>2008</year>
+		<authors>jiajun bu,chun chen,bo jiang</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>103</label>
+		<keyword>Coordination Mechanisms;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>User-perceived QoS mechanism under SCTP/IPv6</title>
+		<year>2008</year>
+		<authors>dong yang,ping dong,hongke zhang</authors>
+		<jconf>Mobility Conference</jconf>
+		<label>104</label>
+		<keyword>Design Principle;Evaluation Criteria;Model Analysis;Network Design;New Technology;Optimality Theory;Queuing Theory;Service Quality;</keyword>
+		<organization>null</organization>
+		<abstract>Internet has evolved greatly from its original incarnation, such as two new technologies have arisen, SCTP and IPv6 corresponding to TCP and IPv4. Because of the advantages, the new architecture SCTP/IPv6 will replace the TCP/IP architecture very probably in the future. On the other hand, considering that the Internet was designed to meet the different needs of users, the evaluative</abstract>
+	</publication>
+	<publication>
+		<title>A Parallel Link State Routing Protocol for Mobile Ad-Hoc Networks</title>
+		<year>2007</year>
+		<authors>dong yang,hongke zhang,hongchao wang,shuigen yang</authors>
+		<jconf>Mobile Sensor Networks</jconf>
+		<label>104</label>
+		<keyword>Mobile Ad Hoc Network;Routing Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Distributed Energy-Efficient Topology Control Routing for Mobile Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>yan ren,sidong zhang,hongke zhang</authors>
+		<jconf>Networking</jconf>
+		<label>104</label>
+		<keyword>Energy Efficient;Topology Control;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

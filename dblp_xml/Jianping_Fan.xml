@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianping Fan</FullName>
+	<publication>
+		<title>An Efficient Observability Evaluation Algorithm Based on Factored Use-Def Chains</title>
+		<year>2003</year>
+		<authors>lv tao,xiaowei li</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-core aware optimization for MPI collectives</title>
+		<year>2008</year>
+		<authors>bibo tu,ming zou,jianfeng zhan,xiaofang zhao</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PGDC: Parallel Generation of Digital City</title>
+		<year>2008</year>
+		<authors>dingju zhu</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Parsing of Sports Videos with Grammars</title>
+		<year>2005</year>
+		<authors>fei wang,kevin j. lü,jing-tao li</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>391</label>
+		<keyword>Case Study;Domain Knowledge;Error Handling;Event Detection;Semantic Annotation;Semantic Indexing;Sports Video;Syntactic Analysis;Table of Contents;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the analogies between languages and sports videos, we introduce a novel approach for video parsing with grammars. It utilizes compiler techniques for integrating both semantic annotation and syntactic analysis to generate a semantic index of events and a table of content for a given sports video. The video sequence is first segmented and annotated by event detection with</abstract>
+	</publication>
+	<publication>
+		<title>Flexible Grid Client</title>
+		<year>2007</year>
+		<authors>dingju zhu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of Parallel Computing in Digital City</title>
+		<year>2008</year>
+		<authors>dingju zhu</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>391</label>
+		<keyword>Parallel Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Strategy-Proof Combinatorial Auction-Based Grid Resource Allocation System</title>
+		<year>2007</year>
+		<authors>yi liang,dan meng,ruihua di</authors>
+		<jconf>International Conference on Algorithms and Architectures for Parallel Processing</jconf>
+		<label>391</label>
+		<keyword>Combinatorial Auction;Resource Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards virtually cooking Chinese food</title>
+		<year>2009</year>
+		<authors>jinghao fei,jie yang</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Confusion network based Video OCR post-processing approach</title>
+		<year>2009</year>
+		<authors>anan liu,jinghao fei,lin pang,yongdong zhang,jintao li</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>391</label>
+		<keyword>Confusion Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GMIP: A Novel Optical Interconnect Gridded Memory Service Protocol</title>
+		<year>2008</year>
+		<authors>siyuan liu,lei li,yiyang zhao</authors>
+		<jconf>International Conference on Parallel and Distributed Systems</jconf>
+		<label>391</label>
+		<keyword>Optical Interconnect;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Evaluation of Optical Bus in High Performance Computer</title>
+		<year>2008</year>
+		<authors>lei li,zheng cao,mingyu chen</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>391</label>
+		<keyword>High Performance Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel integration model</title>
+		<year>2009</year>
+		<authors>dingju zhu</authors>
+		<jconf>International Conference on Interaction Sciences</jconf>
+		<label>391</label>
+		<keyword>Application Development;Integrable Model;Parallel Computer;Parallel Programs;</keyword>
+		<organization>null</organization>
+		<abstract>The parallel programs can be integrated into the parallel software in order to avoid different departments or different applications developing a same type of parallel programs many times. This article brought forward a parallel integration model. In which, the parallel programs need interoperate each other for the integration, and the interoperation ability can be achieved by the message communication in</abstract>
+	</publication>
+	<publication>
+		<title>Design Techniques for the Scalability of Cluster Management Software on Dawning Supercomputers</title>
+		<year>2008</year>
+		<authors>bibo tu,ming zou,jianfeng zhan</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>391</label>
+		<keyword>Design Technique;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HPL Performance Prevision to Intending System Improvement</title>
+		<year>2004</year>
+		<authors>wenli zhang,mingyu chen</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Network Memory Architecture Model and Performance Analysis</title>
+		<year>2008</year>
+		<authors>li liu,mingyu chen,yungang bao,jianwei xu</authors>
+		<jconf>Networking, Architecture and Storages</jconf>
+		<label>391</label>
+		<keyword>Memory Architecture;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards mobility-based clustering</title>
+		<year>2010</year>
+		<authors>siyuan liu,yunhuai liu,lionel m. ni,minglu li</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>391</label>
+		<keyword>Biased Sampling;Cluster Algorithm;Hot Spot;Mobile Environment;Urban Area;</keyword>
+		<organization>null</organization>
+		<abstract>Identifying hot spots of moving vehicles in an urban area is essential to many smart city applications. The practical research on hot spots in smart city presents many unique features, such as highly mobile environments, supremely limited size of sample objects, and the non-uniform, biased samples. All these features have raised new challenges that make the traditional density-based clustering algorithms</abstract>
+	</publication>
+	<publication>
+		<title>Robust TCP Reassembly with a Hardware-Based Solution for Backbone Traffic</title>
+		<year>2010</year>
+		<authors>yuan ruan,weibing yang,mingyu chen,xiaofang zhao</authors>
+		<jconf></jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Reconfigurable Optical Interconnect System for DSAG</title>
+		<year>2005</year>
+		<authors>lei li,zheng cao,mingyu chen</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>391</label>
+		<keyword>Optical Interconnect;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design Patterns of Scalable Cluster System Software</title>
+		<year>2006</year>
+		<authors>bibo tu,ming zou,jianfeng zhan,lei wang</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>391</label>
+		<keyword>Cluster System;Design Pattern;Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>The design pattern of cluster system software has an important influence on scalability of massive cluster system. The paper presents design patterns of scalable cluster system software, including scalable software topologies and optimized communication modes. These design patterns have been widely applied in Dawning series of supercomputers and some results of performance evaluation show their good scalability.</abstract>
+	</publication>
+	<publication>
+		<title>DCGG: Digital City Group Grid</title>
+		<year>2007</year>
+		<authors>dingju zhu,jie sun</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Accurate Analytical Models for Message Passing on Multi-core Clusters</title>
+		<year>2009</year>
+		<authors>bibo tu,jianfeng zhan,xiaofang zhao</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>391</label>
+		<keyword>Analytical Model;Message Passing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>China science grid: e-science activity support</title>
+		<year>2007</year>
+		<authors>taoying liu,guojie li</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HMTT: a platform independent full-system memory trace monitoring system</title>
+		<year>2008</year>
+		<authors>yungang bao,mingyu chen,yuan ruan,li liu,qingbo yuan,bo song,jianwei xu</authors>
+		<jconf>Measurement and Modeling of Computer Systems</jconf>
+		<label>391</label>
+		<keyword>Compiler Optimization;Gigabit Ethernet;Memory Access;Monitoring System;Performance Improvement;State Machine;System Design;Trace Analysis;Virtual Memory;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Memory,trace analysis is an important technology for architecture research, system  software  (i.e.,  OS,  compiler)  optimization,  and  application performance ,improvements.  Many  approaches ,have  been used  to  track  memory  trace,  such  as  simulation,  binary  instrumentation and  hardware  snooping.  However,  they  usually  have limitations of time, accuracy and capacity.  Inthis paper we propose,a platform,independent,memory,trace monitoring system,  which  is  able  to  track  virtual</abstract>
+	</publication>
+	<publication>
+		<title>An Introduction to Aggregation Grid</title>
+		<year>2006</year>
+		<authors>dingju zhu</authors>
+		<jconf>Semantics, Knowledge and Grid</jconf>
+		<label>391</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Achieving Flow-Level Controllability in Network Intrusion Detection System</title>
+		<year>2010</year>
+		<authors>bo song,weibing yang,mingyu chen,xiaofang zhao</authors>
+		<jconf>Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing</jconf>
+		<label>391</label>
+		<keyword>Network Intrusion Detection System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Power Control Based Spectrum Handover for Cognitive Radio Networks</title>
+		<year>2010</year>
+		<authors>dianjie lu,xiaoxia huang,cong liu</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>391</label>
+		<keyword>Cognitive Radio Network;Spectrum;Power Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A 3D Geosciences Modeling System for Large-Scale Water-Diversion Projects</title>
+		<year>2010</year>
+		<authors>siyuan liu,gaojin wen</authors>
+		<jconf>Computing in Science and Engineering</jconf>
+		<label>391</label>
+		<keyword>Large Scale;Model System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Observability Statement Coverage Based on Dynamic Factored Use-Definition Chains for Functional Verification</title>
+		<year>2006</year>
+		<authors>lv tao,xiaowei li,ling-yi liu</authors>
+		<jconf>Journal of Electronic Testing</jconf>
+		<label>391</label>
+		<keyword>Functional Verification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Personalized Knowledge Acquisition through Interactive Data Analysis in E-learning System</title>
+		<year>2010</year>
+		<authors>zhongying zhao,shengzhong feng,qingtian zeng,xiaohong zhang</authors>
+		<jconf>Journal of Computers</jconf>
+		<label>391</label>
+		<keyword>Data Analysis;E-learning System;Knowledge Acquisition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

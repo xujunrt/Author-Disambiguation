@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andrea Pugliese</FullName>
+	<publication>
+		<title>Output Resistance Scaling Model for Deep-Submicron Cmos Buffers for Timing Performance Optimisation</title>
+		<year>2005</year>
+		<authors>gregorio cappuccino,giuseppe cocorullo</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>46</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Settling-Optimization-Based Design Approach for Three-Stage Nested-Miller Amplifiers</title>
+		<year>2008</year>
+		<authors>francesco a. amoroso,gregorio cappuccino,giuseppe cocorullo</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>46</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Simple MOSFET Parasitic Capacitance Model and Its Application to Repeater Insertion Technique</title>
+		<year>2006</year>
+		<authors>gregorio cappuccino,giuseppe cocorullo</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>46</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Correct Modelling of Nested Miller Compensated Amplifier for Discrete-Time Applications</title>
+		<year>2006</year>
+		<authors>gregorio cappuccino,giuseppe cocorullo</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>46</label>
+		<keyword>Discrete Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Settling Time Minimization of Operational Amplifiers</title>
+		<year>2007</year>
+		<authors>gregorio cappuccino,giuseppe cocorullo</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>46</label>
+		<keyword>Operational Amplifier;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

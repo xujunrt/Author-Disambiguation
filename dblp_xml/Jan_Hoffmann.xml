@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jan Hoffmann</FullName>
+	<publication>
+		<title>The Complexity of Computing Minimal Unidirectional Covering Sets</title>
+		<year>2010</year>
+		<authors>dorothea baumeister,felix brandt,felix a. fischer,joerg rothe</authors>
+		<jconf>Italian Conference on Algorithms and Complexity</jconf>
+		<label>346</label>
+		<keyword>Game Theory;Polynomial Time;Satisfiability;Social Science;Upper Bound;Lower Bound;Polynomial Hierarchy;</keyword>
+		<organization>null</organization>
+		<abstract>Given a binary dominance relation on a set of alternatives, a common thread in the social sciences is to identify subsets of alternatives that satisfy certain notions of stability. Examples can be found in areas as diverse as voting theory, game theory, and argumentation theory. Brandt and Fischer (BF08) proved that it is NP-hard to decide whether an alternative is</abstract>
+	</publication>
+	<publication>
+		<title>Amortized Resource Analysis with Polynomial Potential</title>
+		<year>2010</year>
+		<authors>martin hofmann</authors>
+		<jconf>European Symposium on Programming</jconf>
+		<label>346</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Computational Complexity of Weak Saddles</title>
+		<year>2009</year>
+		<authors>felix brandt,markus brill,felix a. fischer</authors>
+		<jconf>Algorithmic Game Theory</jconf>
+		<label>346</label>
+		<keyword>Computational Complexity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resolution Trees with Lemmas: Resolution Refinements that Characterize DLL Algorithms with Clause Learning</title>
+		<year>2008</year>
+		<authors>samuel r. buss,jan johannsen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>346</label>
+		<keyword>Proof Search;Propositional Proof Complexity;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Resolution refinements called w-resolution trees with lemmas (WRTL) and with input lemmas (WRTI) are introduced. Dag-like resolution is equivalent to both WRTL and WRTI when there is no regularity con- dition. For regular proofs, an exponential separation between regular dag-like resolution and both regular WRTL and regular WRTI is given. It is proved that DLL proof search algorithms that use</abstract>
+	</publication>
+	<publication>
+		<title>The NP-hardness of finding a directed acyclic graph for regular resolution</title>
+		<year>2008</year>
+		<authors>samuel r. buss</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>346</label>
+		<keyword>Directed Acyclic Graph;</keyword>
+		<organization>null</organization>
+		<abstract>Let R be a resolution refutation, given as a sequence of clauses without explicit description of the underlying dag. Then, it is NP- complete to decide whether R is a regular resolution refutation.</abstract>
+	</publication>
+	<publication>
+		<title>Finding a tree structure in a resolution proof is NP-complete</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>346</label>
+		<keyword>Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

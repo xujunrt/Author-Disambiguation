@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kelly A. Shaw</FullName>
+	<publication>
+		<title>Constructing a Query Facility for RBS Networks</title>
+		<year>2000</year>
+		<authors>marijke f. augusteijn</authors>
+		<jconf>Mexican International Conference on Artificial Intelligence</jconf>
+		<label>493</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constructing a Query-Able Radial Basis Function Artificial Neural Network</title>
+		<year>2002</year>
+		<authors>marijke f. augusteijn</authors>
+		<jconf>International Journal of Neural Systems</jconf>
+		<label>493</label>
+		<keyword>Artificial Neural Network;Radial Basis Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

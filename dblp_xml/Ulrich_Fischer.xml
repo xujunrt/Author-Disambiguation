@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ulrich Fischer</FullName>
+	<publication>
+		<title>Multi-objective process design in multi-purpose batch plants using a Tabu Search optimization algorithm</title>
+		<year>2004</year>
+		<authors>laurent cavin,f. glover,konrad hungerbühler</authors>
+		<jconf>Computers &amp; Chemical Engineering</jconf>
+		<label>1030</label>
+		<keyword>Batch Process;Case Study;Combinatorial Optimization;Optimal Algorithm;Optimal Design;Process Design;Process Evaluation;Simulation Software;Steepest Descent;tabu search;</keyword>
+		<organization>null</organization>
+		<abstract>Chemical batch processes are typically used for the production of speciality chemicals and pharmaceuticals. Due to the still growing importance of this type of processing, design methods are required that take into account the special requirements and constraints in the corresponding production facilities. We developed a method that optimizes the design of a single chemical process to be implemented in</abstract>
+	</publication>
+	<publication>
+		<title>Batch process optimization in a multipurpose plant using Tabu Search with a design-space diversification</title>
+		<year>2005</year>
+		<authors>laurent cavin,andrej mosat,konrad hungerbühler</authors>
+		<jconf>Computers &amp; Chemical Engineering</jconf>
+		<label>1030</label>
+		<keyword>Batch Process;Design Space;tabu search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiobjective optimization of multipurpose batch plants using superequipment class concept</title>
+		<year>2008</year>
+		<authors>andrej mosat,laurent cavin,konrad hungerbühler</authors>
+		<jconf>Computers &amp; Chemical Engineering</jconf>
+		<label>1030</label>
+		<keyword>multiobjective optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

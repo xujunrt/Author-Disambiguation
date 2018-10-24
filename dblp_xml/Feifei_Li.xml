@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feifei Li</FullName>
+	<publication>
+		<title>Composite Pattern Query Expression over Medical Data Streams</title>
+		<year>2009</year>
+		<authors>hongyan li,qiang qu</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>228</label>
+		<keyword>Data Stream;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Low-complexity Adaptive Subcarrier, Bit, and Power Allocation Algorithm for OFDMA Systems</title>
+		<year>2006</year>
+		<authors>long gao,shuguang cui</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>228</label>
+		<keyword>Low Complexity;Power Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Method for Evaluating Trustworthiness between Strangers in Large, Dynamic Ad Hoc Networks</title>
+		<year>2009</year>
+		<authors>yanhui ding,qingzhong li</authors>
+		<jconf>Workshop on Knowledge Discovery and Data Mining</jconf>
+		<label>228</label>
+		<keyword>Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OPTIMOL: A Framework for Online Picture Collection via Incremental Model Learning</title>
+		<year>2007</year>
+		<authors>li-jia li,juan carlos niebles</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>229</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>What do reflections tell us about the shape of a mirror?</title>
+		<year>2004</year>
+		<authors>silvio savarese,pietro perona</authors>
+		<jconf>Applied Perception in Graphics and Visualization</jconf>
+		<label>229</label>
+		<keyword>Ideal Observer;Pattern Matching;Shape Perception;Specular Reflection;Three Dimensional;Visual Cues;</keyword>
+		<organization>null</organization>
+		<abstract>Three-dimensional shape may be perceived from static images. Contours, shading, texture gradients, perspective and occlusion are well-studied cues to this percept. When looking at a picture of a specular object, such as a silver vase, one additional cue is potentially available: a deformed picture of the reflected environment is seen in the surface of the object and the amount and</abstract>
+	</publication>
+	<publication>
+		<title>ImageNet: A large-scale hierarchical image database</title>
+		<year>2009</year>
+		<authors>jia deng,wei dong,richard socher,li-jia li,kai li</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Computer Vision;Data Collection;Image Database;Indexation;Large Scale;Multimedia Data;Object Recognition;Full Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>The explosion of image data on the Internet has the po- tential to foster more sophisticated and robust models and algorithms to index, retrieve, organize and interact with im- ages and multimedia data. But exactly how such data can be harnessed and organized remains a critical problem. We introduce here a new database called &quot;ImageNet&quot;, a large- scale ontology of</abstract>
+	</publication>
+	<publication>
+		<title>A Bayesian hierarchical model for learning natural scene categories</title>
+		<year>2005</year>
+		<authors>pietro perona,l. fei-fei</authors>
+		<jconf></jconf>
+		<label>229</label>
+		<keyword>Approaches To Learning;bayesian hierarchical model;Natural Scenes;Unsupervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a novel approach to learn and recognize natural scene categories. Unlike previous work, it does not require experts to annotate the training set. We represent the image of a scene by a collection of local regions, denoted as codewords obtained by unsupervised learning. Each region is represented as part of a &quot;theme&quot;. In previous work,such themes were</abstract>
+	</publication>
+	<publication>
+		<title>Towards total scene understanding: Classification, annotation and segmentation in an automatic framework</title>
+		<year>2009</year>
+		<authors>li-jia li,richard socher</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Generic Model;Scene Understanding;</keyword>
+		<organization>null</organization>
+		<abstract>Given an image, we propose a hierarchical generative model that classifies the overall scene, recognizes and seg- ments each object component, as well as annotates the im- age with a list of tags. To our knowledge, this is the first model that performs all three tasks in one coherent frame- work. For instance, a scene of a 'polo game' consists</abstract>
+	</publication>
+	<publication>
+		<title>OPTIMOL: automatic Online Picture collecTion via Incremental MOdel Learning</title>
+		<year>2007</year>
+		<authors>li-jia li,gang wang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Computer Vision;Graphical Model;Image Annotation;Incremental Learning;Learning Process;Object Model;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>A well-built dataset is a necessary starting point for ad- vanced computer vision research. It plays a crucial role in evaluation and provides a continuous challenge to state- of-the-art algorithms. Dataset collection is, however, a te- dious and time-consuming task. This paper presents a novel automatic dataset collecting and model learning approach that uses object recognition techniques in an incremental</abstract>
+	</publication>
+	<publication>
+		<title>A Hierarchical Model of Shape and Appearance for Human Action Classification</title>
+		<year>2007</year>
+		<authors>juan carlos niebles</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Feature Modeling;Hierarchical Model;Interest Points;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel model for human action categoriza- tion. A video sequence is represented as a collection of spatial and spatial-temporal features by extracting static and dynamic interest points. We propose a hierarchical model that can be characterized as a constellation of bags- of-features and that is able to combine both spatial and spatial-temporal features. Given a novel video</abstract>
+	</publication>
+	<publication>
+		<title>A multi-view probabilistic model for 3D object classes</title>
+		<year>2009</year>
+		<authors>min sun,hao su,silvio savarese</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Geometric Constraints;Image Features;Object Categorization;Probabilistic Model;Relative Position;Visual Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a novel probabilistic framework for learning visual models of 3D object categories by combining appear- ance information and geometric constraints. Objects are represented as a coherent ensemble of parts that are con- sistent under 3D viewpoint transformations. Each part is a collection of salient image features. A generative frame- work is used for learning a model that captures</abstract>
+	</publication>
+	<publication>
+		<title>Using Dependent Regions for Object Categorization in a Generative Framework</title>
+		<year>2006</year>
+		<authors>gang wang,ye zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Age Structure;Building Block;Object Categorization;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>Bag of words&quot; models have enjoyed much attention and achieved good performances in recent studies of ob- ject categorization. In most of these works, local patches are modeled as basic building blocks of an image, analo- gous to words in text documents. In most previous works using the &quot;bag of words&quot; models (e.g. (4, 20, 7)), the local patches are</abstract>
+	</publication>
+	<publication>
+		<title>Towards Scalable Dataset Construction: An Active Learning Approach</title>
+		<year>2008</year>
+		<authors>brendan collins,jia deng,kai li</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Active Learning;Computer Vision;Discrimination Learning;Online Learning;</keyword>
+		<organization>null</organization>
+		<abstract>As computer vision research considers more object categories and greater variation within object categories, it is clear that larger and more exhaustive datasets are necessary. However, the process of collect- ing such datasets is laborious and monotonous. We consider the setting in which many images have been automatically collected for a visual category (typically by automatic internet search), and we</abstract>
+	</publication>
+	<publication>
+		<title>Extracting Moving People from Internet Videos</title>
+		<year>2008</year>
+		<authors>juan carlos niebles,bohyung han,andras ferencz</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>View Synthesis for Recognizing Unseen Poses of Object Classes</title>
+		<year>2008</year>
+		<authors>silvio savarese</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>View Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatially Coherent Latent Topic Model for Concurrent Segmentation and Classification of Objects and Scenes</title>
+		<year>2007</year>
+		<authors>liangliang cao</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Spatial Coherence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Bayesian Approach to Unsupervised One-Shot Learning of Object Categories</title>
+		<year>2003</year>
+		<authors>robert fergus,pietro perona</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>bayesian approach;Learning Object;Probabilistic Model;Probability Density Function;Visual Modeling;variational bayesian;</keyword>
+		<organization>null</organization>
+		<abstract>Learning visual models of object categories notoriously re- quires thousands of training examples; this is due to the diversity and richness of object appearance which requires models containing hundreds of parameters. We present a method for learning object categories from just a few im- ages ( ). It is based on incorporating 'generic' knowl- edge which may be obtained from</abstract>
+	</publication>
+	<publication>
+		<title>Learning Object Categories from Google's Image Search</title>
+		<year>2005</year>
+		<authors>robert fergus,pietro perona,andrew zisserman</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Image Search;Learning Object;Scale Invariance;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Current approaches to object category recognition require datasets of training images to be manually prepared, with varying degrees of supervision. We present an approach that can learn an object category from just its name, by uti- lizing the raw output of image search engines available on the Internet. We develop a new model, TSI-pLSA, which extends pLSA (as applied to</abstract>
+	</publication>
+	<publication>
+		<title>What, where and who? Classifying events by scene and object recognition</title>
+		<year>2007</year>
+		<authors>li-jia li</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Graphical Model;Human Activity;Object Categorization;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a first attempt to classify events in static im- ages by integrating scene and object categorizations. We define an event in a static image as a human activity taking place in a specific environment. In this paper, we use a num- ber of sport games such as snow boarding, rock climbing or badminton to demonstrate event classification. Our</abstract>
+	</publication>
+	<publication>
+		<title>3D generic object categorization, localization and pose estimation</title>
+		<year>2007</year>
+		<authors>silvio savarese</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Object Categorization;Pose Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Audio-Visual Speaker Localization Using Graphical Models</title>
+		<year>2006</year>
+		<authors>akash kushal,mandar rahurkar,jean ponce,thomas s. huang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Graphical Model;Temporal Correlation;Audio Visual;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract>In this work we propose an approach to combine audio and video modalities for person tracking using graphical models. We demonstrate a principled and intuitive frame- work for combining these modalities to obtain robustness against occlusion and change in appearance. We further exploit the temporal correlations that exist for a moving ob - ject between adjacent frames to account for</abstract>
+	</publication>
+	<publication>
+		<title>Variational Shift Invariant Probabilistic PCA for Face Recognition</title>
+		<year>2006</year>
+		<authors>jilin tu,aleksandar ivanovic,xun xu,thomas s. huang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>229</label>
+		<keyword>Face Recognition;Shift Invariant;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning generative visual models from few training examples: An incremental Bayesian approach tested on 101 object categories</title>
+		<year>2007</year>
+		<authors>robert fergus,pietro perona</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>229</label>
+		<keyword>Approaches To Learning;bayesian approach;bayesian method;Incremental Algorithm;Incremental Learning;Learning Object;Learning Process;Prior Information;Probabilistic Model;Visual Modeling;Maximum Likelihood;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Current computational approaches to learning vi- sual object categories require thousands of training images, are slow, cannot learn in an incremental manner and cannot incorporate prior information into the learning process. In addition, no algorithm presented in the literature has been tested on more than a handful of object categories. We present an method for learning object categories from just</abstract>
+	</publication>
+	<publication>
+		<title>Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words</title>
+		<year>2008</year>
+		<authors>juan carlos niebles,hongcheng wang</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>229</label>
+		<keyword>Interest Points;Probability Distribution;Unsupervised Learning;Bag of Words;Probabilistic Latent Semantic Analysis;Space Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel unsupervised learning method for human action cate- gories. A video sequence is represented as a collection of spatial-temporal words by extracting space-time interest points. The algorithm automatically learns the probability distributions of the spatial-temporal words and interme- diate topics corresponding to human action categories. This is achieved by using a probabilistic Latent Semantic Analysis (pLSA) model.</abstract>
+	</publication>
+	<publication>
+		<title>One-Shot Learning of Object Categories</title>
+		<year>2006</year>
+		<authors>robert fergus,pietro perona</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>229</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

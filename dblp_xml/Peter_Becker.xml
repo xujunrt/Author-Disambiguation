@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Becker</FullName>
+	<publication>
+		<title>XML-Based Offline Website Generation</title>
+		<year>2002</year>
+		<authors>florence amardeilh</authors>
+		<jconf>Australasian Document Computing Symposium - ADCS</jconf>
+		<label>810</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Survey of Formal Concept Analysis Support for Software Engineering Activities</title>
+		<year>2005</year>
+		<authors>thomas tilley,richard cole,peter w. eklund</authors>
+		<jconf>Formal Concept Analysis</jconf>
+		<label>810</label>
+		<keyword>Formal Concept Analysis;Object Oriented;Software Engineering;Software Maintenance;Agile Methods;Formal Specification;Programming Language;</keyword>
+		<organization>null</organization>
+		<abstract>Formal Concept Analysis (FCA) has typically been applied in the field of software engineering to support software maintenance and object-oriented class identification tasks. This paper presents a broader overview by describing and classifying academic papers that report the application of FCA to software engineering. The papers are classified using a framework based on the activities defined in the ISO12207 Software</abstract>
+	</publication>
+	<publication>
+		<title>Numerical Analysis in Conceptual Systems with ToscanaJ</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Formal Concept Analysis</jconf>
+		<label>810</label>
+		<keyword>Numerical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Intermediate Representation Systems to Interact with Concept Lattices</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>International Conference on Formal Concept Analysis</jconf>
+		<label>810</label>
+		<keyword>Concept Lattice;Intermediate Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Agreement Contexts in Formal Concept Analysis</title>
+		<year>2004</year>
+		<authors>richard j. cole ii</authors>
+		<jconf>International Conference on Formal Concept Analysis</jconf>
+		<label>810</label>
+		<keyword>Formal Concept Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Navigation Spaces for the Conceptual Analysis of Software Structure</title>
+		<year>2005</year>
+		<authors>richard cole</authors>
+		<jconf>International Conference on Formal Concept Analysis</jconf>
+		<label>810</label>
+		<keyword>Complex Structure;Conceptual Analysis;Data Mining;Formal Concept Analysis;Information Technology;Software Structure;Source Code;Information Operations;</keyword>
+		<organization>null</organization>
+		<abstract>Information technology of today is often concerned with information that is not only large in quantity but also complex in structure. Understanding this structure is important in many domains - many quantitative approaches such as data mining have been proposed to address this issue. This paper presents a conceptual approach based on Formal Concept Analysis. Using software source code as</abstract>
+	</publication>
+</person>

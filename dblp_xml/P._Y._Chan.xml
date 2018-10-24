@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>P. Y. Chan</FullName>
+	<publication>
+		<title>Evaluation of Competing Software Reliability Predictions</title>
+		<year>1986</year>
+		<authors>abdallah a. abdel-ghaly,bev littlewood</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>793</label>
+		<keyword>Software Reliability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recalibrating Software Reliability Models</title>
+		<year>1990</year>
+		<authors>sarah brocklehurst,bev littlewood,john snell</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>793</label>
+		<keyword>Prediction Accuracy;Software Reliability;Software Reliability Growth Model;</keyword>
+		<organization>null</organization>
+		<abstract>In spite of much research effort, there is no universally applicable software reliability growth model which can be trusted to give accurate predictions of reliability in all circumstances. Worse, we are not even in a position to be abl_ to decide a priori which of the many models is most suitable in a particular context. Our own r_ecent work has</abstract>
+	</publication>
+</person>

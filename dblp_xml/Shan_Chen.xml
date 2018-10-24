@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shan Chen</FullName>
+	<publication>
+		<title>Building an Adaptive Hierarchy of Clusters for Text Data</title>
+		<year>2005</year>
+		<authors>damminda alahakoon,maria indrawan</authors>
+		<jconf>International Conference on Computational Intelligence forModelling, Control and Automation</jconf>
+		<label>938</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Background Knowledge Driven Ontology Discovery</title>
+		<year>2005</year>
+		<authors>damminda alahakoon,maria indrawan</authors>
+		<jconf>e-Technology, e-Commerce and e-Service</jconf>
+		<label>938</label>
+		<keyword>Background Knowledge;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Profiling System</title>
+		<year>2004</year>
+		<authors>maria indrawan,chin min teoh,bala srinivasan</authors>
+		<jconf>Information and Knowledge Engineering</jconf>
+		<label>938</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

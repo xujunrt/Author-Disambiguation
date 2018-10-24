@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Eric Y. K. Chan</FullName>
+	<publication>
+		<title>Generating, Selecting and Prioritizing Test Cases from Specifications with Tool Support</title>
+		<year>2003</year>
+		<authors>ysong yueh yu,sebastian p. ng</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>218</label>
+		<keyword>Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

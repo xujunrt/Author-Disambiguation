@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Pascal Lafourcade</FullName>
+	<publication>
+		<title>Mechatronic design of NAO humanoid</title>
+		<year>2009</year>
+		<authors>david gouaillier,vincent hugel,pierre blazevic,chris kilner,jerome monceaux,brice marnier,julien serre,bruno maisonnier</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>796</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The NAO humanoid: a combination of performance and affordability</title>
+		<year>2008</year>
+		<authors>david gouaillier,vincent hugel,pierre blazevic,chris kilner,jerome monceaux,brice marnier,julien serre,bruno maisonnier</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>796</label>
+		<keyword>Dc Motor;Distributed Software Architecture;Embedded System;Humanoid Robot;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents the design of the autonomous humanoid robot called NAO that is built by the French company Aldebaran-Robotics. With its height of 0.57 m and its weight about 4.5 kg, this innovative robot is lightweight and compact. It distinguishes itself from its existing Japanese, American, and other counterparts thanks to its pelvis kinematics design, its proprietary actuation system</abstract>
+	</publication>
+</person>

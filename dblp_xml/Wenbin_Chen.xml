@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wenbin Chen</FullName>
+	<publication>
+		<title>Approximation Algorithms for k -Duplicates Combinatorial Auctions with Subadditive Bidders</title>
+		<year>2007</year>
+		<authors>jiangtao meng</authors>
+		<jconf>Conference on Combinatorial Optimization and Applications</jconf>
+		<label>1087</label>
+		<keyword>Approximate Algorithm;Combinatorial Auction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inapproximability Results for the Closest Vector Problem with Preprocessing over infty Norm</title>
+		<year>2006</year>
+		<authors>jiangtao meng</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1087</label>
+		<keyword>Closest Vector Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved lower bound for approximating Shortest Integer Relation in linfinity norm (SIRinfinity)</title>
+		<year>2007</year>
+		<authors>jiangtao meng</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>1087</label>
+		<keyword>Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hardness of approximating the Minimum Solutions of Linear Diophantine Equations</title>
+		<year>2007</year>
+		<authors>jiangtao meng</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>1087</label>
+		<keyword>diophantine equation;Hardness of Approximation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved lower bound for approximating minimum GCD multiplier in linfinity norm (GCDMinfinity)</title>
+		<year>2008</year>
+		<authors>jiangtao meng,dengpan yin</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>1087</label>
+		<keyword>Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inapproximability results for equations over infinite groups</title>
+		<year>2010</year>
+		<authors>dengpan yin,zhengzhang chen</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>1087</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

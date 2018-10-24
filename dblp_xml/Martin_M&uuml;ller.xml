@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin M&amp;uuml;ller</FullName>
+	<publication>
+		<title>TabVer: A Case Study in Table Verbalization</title>
+		<year>1994</year>
+		<authors>ingo glöchner,andrea grieszl,marc ronthaler</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>646</label>
+		<keyword>Case Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Modular Termination Proofs for Real Prolog Programs</title>
+		<year>1996</year>
+		<authors>thomas glaß,karl stroetmann</authors>
+		<jconf>Static Analysis Symposium/Workshop on Static Analysis</jconf>
+		<label>646</label>
+		<keyword>Formal Method;Natural Extension;Program Development;Static Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>We present a methodology for checking the termination of Prolog programs that can be automated and is scalable. Furthermore, the proposed method can be used to locate errors. It has been successfully implemented as part of a tool that uses static analysis based on formal methods in order to validate Prolog programs. This tool is aimed at supporting the design</abstract>
+	</publication>
+	<publication>
+		<title>PAN - The Prolog Analyzer</title>
+		<year>1996</year>
+		<authors>thomas glaß,karl stroetmann</authors>
+		<jconf>Static Analysis Symposium/Workshop on Static Analysis</jconf>
+		<label>646</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A General Solution to the Graph History Interaction Problem</title>
+		<year>2004</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Call Graph;Directed Graph;Game Playing;Game Tree Search;General Solution;State Space;</keyword>
+		<organization>null</organization>
+		<abstract>Since the state space of most games is a directed graph, many game-playing systems detect repeated positions with a trans- position table. This approach can reduce search effort by a large margin. However, it suffers from the so-called Graph History Interaction (GHI) problem, which causes errors in games containing repeated positions. This paper presents a practical solution to the GHI</abstract>
+	</publication>
+	<publication>
+		<title>Search versus Knowledge for Solving Life and Death Problems in Go</title>
+		<year>2005</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>High Performance;Knowledge Engineering;Large Scale;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>In games research, Go is considered the classical board game that is most resistant to current AI techniques. Large-scale knowledge engineering has been considered indispensable for building state of the art programs, even for subprob- lems such as Life and Death, or tsume-Go. This paper de- scribes the technologies behind TSUMEGO EXPLORER ,a high-performance tsume-Go search engine for enclosed prob-</abstract>
+	</publication>
+	<publication>
+		<title>Temperature Discovery Search</title>
+		<year>2004</year>
+		<authors>markus enzenberger,jonathan schaeffer</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Combinatorial Games;Game Tree Search;Simple Game;</keyword>
+		<organization>null</organization>
+		<abstract>Temperature Discovery Search (TDS) is a new minimax- based game tree search method designed to compute or ap- proximate the temperature of a combinatorial game. TDS is based on the concept of an enriched environment, where a combinatorial game G is embedded in an environment con- sisting of a large set of simple games of decreasing temper- ature. Optimal play</abstract>
+	</publication>
+	<publication>
+		<title>A Lock-Free Multithreaded Monte-Carlo Tree Search Algorithm</title>
+		<year>2009</year>
+		<authors>markus enzenberger</authors>
+		<jconf>Advances in Computer Games</jconf>
+		<label>647</label>
+		<keyword>Memory Model;Parallel Algorithm;Monte Carlo Tree Search;</keyword>
+		<organization>null</organization>
+		<abstract>With the recent success of Monte-Carlo tree search algorithms in Go and other games, and the increasing number of cores in standard CPUs, the ef- ficient parallelization of the search has become an important issue. We present a new lock-free parallel algorithm for Monte-Carlo tree search which takes ad- vantage of the memory model of the IA-32 and Intel-64 CPU</abstract>
+	</publication>
+	<publication>
+		<title>DF-PN in Go: An Application to the One-Eye Problem</title>
+		<year>2003</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>Advances in Computer Games</jconf>
+		<label>647</label>
+		<keyword>Game of Go;Search Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Search algorithms based on the notion of proof and disproof numbers have been shown to be effective in many games. In this paper, we modify the depth-first proof-number search algorithm df-pn, in order to apply it to the game of Go. We develop a solver for one-eye problems, a special case of enclosed tsume-Go ( life and death) problems. Our</abstract>
+	</publication>
+	<publication>
+		<title>Recognizing Seki in Computer Go</title>
+		<year>2006</year>
+		<authors>xiaozhen niu,akihiro kishimoto</authors>
+		<jconf>Advances in Computer Games</jconf>
+		<label>647</label>
+		<keyword>Computer Go;Game of Go;Profitability;Static Analysis;Test Collection;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>Seki is a situation of coexistence in the game of Go, where neither player can profitably capture the opponent's stones. This paper presents a new method for deciding whether an enclosed area is or can become a seki. The method combines local search with global-level static analysis. Local search is used to identify possible seki, and reasoning on the global</abstract>
+	</publication>
+	<publication>
+		<title>Solving Probabilistic Combinatorial Games</title>
+		<year>2006</year>
+		<authors>ling zhao</authors>
+		<jconf>Advances in Computer Games</jconf>
+		<label>647</label>
+		<keyword>Combinatorial Games;Monte Carlo;Monte Carlo Analysis;Monte Carlo Method;Probability Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>Probabilistic combinatorial games (PCG) are a model for Go-like games recently introduced by Ken Chen. They differ from normal combinatorial games since terminal position in each subgame are evaluated by a probability distribution. The distribution expresses the uncertainty in the local evaluation. This paper focuses on the analysis and solution methods for a special case, 1-level binary PCG. Monte-Carlo analysis</abstract>
+	</publication>
+	<publication>
+		<title>Learning Partial-Order Macros from Solutions</title>
+		<year>2005</year>
+		<authors>adi botea,jonathan schaeffer</authors>
+		<jconf>International Conference on Automated Planning and Scheduling/Artificial Intelligence Planning Systems</jconf>
+		<label>647</label>
+		<keyword>Ai Planning;Domain Structure;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>Despite recent progress in AI planning, many benchmarks re- main challenging for current planners. In many domains, the performance of a planner can greatly be improved by discov- ering and exploiting information about the domain structure that is not explicitly encoded in the initial PDDL formulation. In this paper we present an automated method that learns rel- evant information from</abstract>
+	</publication>
+	<publication>
+		<title>Using Component Abstraction for Automatic Generation of Macro-Actions</title>
+		<year>2004</year>
+		<authors>adi botea,jonathan schaeffer</authors>
+		<jconf>International Conference on Automated Planning and Scheduling/Artificial Intelligence Planning Systems</jconf>
+		<label>647</label>
+		<keyword>Ai Planning;Automatic Generation;General Techniques;</keyword>
+		<organization>null</organization>
+		<abstract>Despite major progress in AI planning over the last few years, many interesting domains remain challenging for cur- rent planners. This paper presents component abstraction, an automatic and generic technique that can reduce the complex- ity of an important class of planning problems. Component abstraction uses static facts in a problem denition to decom- pose the problem into linked abstract</abstract>
+	</publication>
+	<publication>
+		<title>Action Elimination and Plan Neighborhood Graph Search: Two Algorithms for Plan Improvement</title>
+		<year>2010</year>
+		<authors>hootan nakhost</authors>
+		<jconf>International Conference on Automated Planning and Scheduling/Artificial Intelligence Planning Systems</jconf>
+		<label>647</label>
+		<keyword>Graph Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Abstraction for Planning in Sokoban</title>
+		<year>2002</year>
+		<authors>adi botea,jonathan schaeffer</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Heuristic Search;Problem Solving;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>Heuristic search has been successful for games like chess and checkers, but seems to be of limited value in games such as Go and shogi, and puzzles such as Sokoban. Other techniques are necessary to approach the performance that humans achieve in these hard domains. This paper explores using planning as an alternative problem-solving framework for Sokoban. Previous attempts to</abstract>
+	</publication>
+	<publication>
+		<title>About the Completeness of Depth-First Proof-Number Search</title>
+		<year>2008</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Directed Acyclic Graph;Game Tree Search;</keyword>
+		<organization>null</organization>
+		<abstract>Depth-first proof-number (df-pn) search is a powerful mem- ber of the family of algorithms based on proof and disproof numbers. While df-pn has succeeded in practice, its theoretical properties remain poorly understood. This paper resolves the question of completeness of df-pn: its ability to solve any finite boolean-valued game tree search prob- lem in principle, given unlimited amounts of time</abstract>
+	</publication>
+	<publication>
+		<title>Review: Computer Go 1984-2000</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Computer Go;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Proof-Set Search</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Locally Informed Global Search for Sums of Combinatorial Games</title>
+		<year>2004</year>
+		<authors>zhichao li</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Combinatorial Game Theory;Combinatorial Games;Search Algorithm;Search Method;</keyword>
+		<organization>null</organization>
+		<abstract>There are two complementary approaches to playing sums of combi- natorial games. They can be characterized as local analysis and global search. Algorithms from combinatorial game theory such as Hotstrat and Thermostrat (2) exploit summary information about each subgame such as its temperature or its thermograph. These algorithms can achieve good play, with a bounded error. Their runtime depends mainly</abstract>
+	</publication>
+	<publication>
+		<title>An Improved Safety Solver for Computer Go</title>
+		<year>2004</year>
+		<authors>xiaozhen niu</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Computer Go;Exact Algorithm;Influence Function;Region Merging;</keyword>
+		<organization>null</organization>
+		<abstract>Most Go-playing programs use a combination of search and heuristics based on an influence function to determine whether territories are safe. However, to assure the correct evaluation of Go positions, the safety of stones and territories must be proved by an exact method. The first exact algorithm, due to Benson (1), determines the unconditional safety of stones and completely surrounded</abstract>
+	</publication>
+	<publication>
+		<title>An Open Boundary Safety-of-Territory Solver for the Game of Go</title>
+		<year>2006</year>
+		<authors>xiaozhen niu</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Game of Go;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents SAFETY SOLVER 2.0 , a safety-of-territory solver for the game of Go that can solve problems in areas with open boundaries. Pre- vious work on assessing safety of territory has concentrated on regions that are completely surrounded by stones of one player. SAFETY SOLVER 2.0can iden- tify open boundary problems under real game conditions, and generate moves</abstract>
+	</publication>
+	<publication>
+		<title>An Improved Safety Solver in Go Using Partial Regions</title>
+		<year>2008</year>
+		<authors>xiaozhen niu</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Artificial Boundaries in the Game of Go</title>
+		<year>2008</year>
+		<authors>ling zhao</authors>
+		<jconf>Computers and Games</jconf>
+		<label>647</label>
+		<keyword>Game of Go;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Decomposition Search: A Divide and Conquer Approach and its Application to the One-Eye Problem in Go</title>
+		<year>2005</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>IEEE Symposium on Computational Intelligence and Games</jconf>
+		<label>647</label>
+		<keyword>Divide and Conquer;Game of Go;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>Decomposition search is a divide and conquer approach that splits a game position into sub-positions and computes the global outcome by combining results of local searches. This approach has been shown to be successful to play endgames in the game of Go. This pa- per introduces dynamic decomposition search as a way of splitting a problem dynamically during search. Our</abstract>
+	</publication>
+	<publication>
+		<title>Automating Layouts of Sewers in Subdivisions</title>
+		<year>2010</year>
+		<authors>neil burch,robert c. holte,david o'connell,jonathan schaeffer</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Every Interactive System Evolves into Hyperspace: The Case of the Smart Game Board</title>
+		<year>1991</year>
+		<authors>anders kierulf,ralph gasser,peter m. geiser,jürg nievergelt,christoph wirth</authors>
+		<jconf>Hypertext, Information Retrieval, Multimedia</jconf>
+		<label>647</label>
+		<keyword>Interactive System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sample-based learning and search with permanent and transient memories</title>
+		<year>2008</year>
+		<authors>david silver,richard s. sutton</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>647</label>
+		<keyword>Computer Go;Function Approximation;High Performance Computer;Learning Algorithm;linear functionals;Reinforcement Learning;Search Algorithm;Template Matching;</keyword>
+		<organization>null</organization>
+		<abstract>We present a reinforcement learning architec- ture, Dyna-2, that encompasses both sample- based learning and sample-based search, and that generalises across states during both learning and search. We apply Dyna-2 to high performance Computer Go. In this do- main the most successful planning methods are based on sample-based search algorithms, such as UCT, in which states are treated individually, and</abstract>
+	</publication>
+	<publication>
+		<title>Fast Planning with Iterative Macros</title>
+		<year>2007</year>
+		<authors>adi botea,jonathan schaeffer</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Heuristic Search;</keyword>
+		<organization>null</organization>
+		<abstract>Research on macro-operators has a long history in planning and other search applications. There has been a revival of interest in this topic, lead- ing to systems that successfully combine macro- operators with current state-of-the-art planning ap- proaches based on heuristic search. However, re- search is still necessary to make macros become a standard, widely-used enhancement of search al- gorithms.</abstract>
+	</publication>
+	<publication>
+		<title>Monte-Carlo Exploration for Deterministic Planning</title>
+		<year>2009</year>
+		<authors>hootan nakhost</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Action Selection;Game Playing;Monte Carlo;Monte Carlo Simulation;Search Method;Stochastic Local Search;General Game Playing;Random Walk;</keyword>
+		<organization>null</organization>
+		<abstract>Search methods based on Monte-Carlo simulation have recently led to breakthrough performance im- provements in difficult game-playing domains such as Go and General Game Playing. Monte-Carlo Random Walk (MRW) planning applies Monte- Carlo ideas to deterministic classical planning. In the forward chaining planner ARVAND, Monte- Carlo random walks are used to explore the local neighborhood of a search state for</abstract>
+	</publication>
+	<publication>
+		<title>Solving Checkers</title>
+		<year>2005</year>
+		<authors>jonathan schaeffer,yngvi björnsson,neil burch,akihiro kishimoto,robert lake,paul lu,steve sutphen</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Game Playing;High Performance;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>AI has had notable success in building high- performance game-playing programs to compete against the best human players. However, the availability of fast and plentiful machines with large memories and disks creates the possibility of a game. This has been done before for simple or relatively small games. In this paper, we present new ideas and algorithms for solving the</abstract>
+	</publication>
+	<publication>
+		<title>Reinforcement Learning of Local Shape in the Game of Go</title>
+		<year>2007</year>
+		<authors>david silver,richard s. sutton</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Computer Go;Domain Knowledge;Evaluation Function;Game of Go;Game Playing;Reinforcement Learning;Temporal Difference Learning;Translation Invariant;</keyword>
+		<organization>null</organization>
+		<abstract>We explore an application to the game of Go of a reinforcement learning approach based on a lin- ear evaluation function and large numbers of bi- nary features. This strategy has proved effective in game playing programs and other reinforcement learning applications. We apply this strategy to Go by creating over a million features based on tem- plates for small</abstract>
+	</publication>
+	<publication>
+		<title>Lambda Depth-First Proof Number Search and Its Application to Go</title>
+		<year>2007</year>
+		<authors>kazuki yoshizoe,akihiro kishimoto</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Search Algorithm;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>Thomsen's λ search and Nagai's depth-first proof- number (DFPN) search are two powerful but very different AND/OR tree search algorithms. Lambda Depth-First Proof Number search (LDFPN) is a novel algorithm that combines ideas from both algorithms. λ search can dramatically reduce a search space by finding different levels of threat sequences. DFPN employs the notion of proof and disproof numbers</abstract>
+	</publication>
+	<publication>
+		<title>Game-SAT: A Preliminary Report</title>
+		<year>2004</year>
+		<authors>ling zhao</authors>
+		<jconf>Theory and Applications of Satisfiability Testing</jconf>
+		<label>647</label>
+		<keyword>Empirical Study;Game Tree Search;Heuristic Search;Sat Solver;Search Method;Variable Selection;Phase Transition;</keyword>
+		<organization>null</organization>
+		<abstract>Game-SAT is a 2-player version of SAT where two players (MAX and MIN) play on a SAT instance by alternatively selecting a variable and assigning it a value true or false. MAX tries to make the formula true, while MIN tries to make it false. The Game-SAT problem is to determine the winner of a SAT instance under the rules</abstract>
+	</publication>
+	<publication>
+		<title>Partial order bounding: A new approach to evaluation in game tree search</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Game Tree Search;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer Go</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Artificial Intelligence</jconf>
+		<label>647</label>
+		<keyword>Computer Go;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving Systems of Difference Constraints Incrementally with Bidirectional Search</title>
+		<year>2004</year>
+		<authors>jianjun zhou</authors>
+		<jconf>Algorithmica</jconf>
+		<label>647</label>
+		<keyword>Computational Complexity;Experimental Study;Incremental Algorithm;Shortest Path Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an incremental algorithm for the problem of maintaining systems of difference constraints.AsadifferencefromtheunidirectionalapproachofRamalingametal.(16),itemploysbidirectional search, which is similar to that of Alpern et al. (1), and has a bounded runtime complexity in the worst case in termsofthesizeofchanges.Themajorchallengeishowtoupdatethesolutionefficientlyafterthebidirectional search discovers a region that needs changes. Experimental results show that our approach is much faster in runtime and generates much smaller changes</abstract>
+	</publication>
+	<publication>
+		<title>Depth-First Discovery Algorithm for incremental topological sorting of directed acyclic graphs</title>
+		<year>2003</year>
+		<authors>jianjun zhou</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>647</label>
+		<keyword>Depth First Search;Directed Acyclic Graph;Graph Algorithm;Space Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of incrementally maintaining a topological sorting in a large DAG. The Discovery Algorithm (DA) of Alpern et al. (Proc. 1st Annual ACM-SIAM Symp. on Discrete Algorithms, 1990, pp. 32-42) computes a cover K of nodes such that a solution to the modified problem can be found by changing node priorities within K only. It achieves a</abstract>
+	</publication>
+	<publication>
+		<title>A solution to the GHI problem for depth-first proof-number search</title>
+		<year>2005</year>
+		<authors>akihiro kishimoto</authors>
+		<jconf>Information Sciences</jconf>
+		<label>647</label>
+		<keyword>Game of Go;Game Playing;</keyword>
+		<organization>null</organization>
+		<abstract>The Graph-History interaction (GHI) problem is a notorious problem that causes game-playing programs to occasionally return incorrect solutions. This paper presents a practical method to cure the GHI problem for the case of the df-pn algorithm. Results in the game of Go with the situational super-ko rule show that the overhead incurred by our method is very small, while correctness</abstract>
+	</publication>
+	<publication>
+		<title>Global and local game tree search</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Information Sciences</jconf>
+		<label>647</label>
+		<keyword>Game Tree Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Conditional combinatorial games and their application to analyzing capturing races in Go</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Information Sciences</jconf>
+		<label>647</label>
+		<keyword>Combinatorial Games;Game of Go;Game Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Macro-FF: Improving AI Planning with Automatically Learned Macro-Operators</title>
+		<year>2005</year>
+		<authors>adi botea,markus enzenberger,jonathan schaeffer</authors>
+		<jconf>Journal of Artificial Intelligence Research</jconf>
+		<label>647</label>
+		<keyword>Ai Planning;Domain Structure;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Despite recent progress in AI planning, many benchmarks remain challenging for cur- rent planners. In many domains, the performance of a planner can greatly be improved by discovering and exploiting information about the domain structure that is not explicitly encoded in the initial PDDL formulation. In this paper we present and compare two auto- mated methods that learn relevant</abstract>
+	</publication>
+	<publication>
+		<title>A Comparison of BPML and BPEL4WS</title>
+		<year>2003</year>
+		<authors>jan mendling</authors>
+		<jconf>Berliner XML Tage</jconf>
+		<label>648</label>
+		<keyword>Business Process;Business Process Model;Web Service;Web Service Composition;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>Web services composition receives an increasing attention as a concept to bui ld business processes from. This paper addresses the heterogeneity of business process modeling specifications in the area of web services. A new concept called metadata relationships (MR) is introduced to d escribe the semantic relationship between concepts from two different XML Schemas. This approach is applied for the</abstract>
+	</publication>
+	<publication>
+		<title>Weblogs, Legitimacy and Organizations</title>
+		<year>2007</year>
+		<authors>markus glötzel</authors>
+		<jconf>Information Technologies in Environmental Engineering</jconf>
+		<label>649</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

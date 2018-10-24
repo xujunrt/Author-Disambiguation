@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Vasilis Aggelis</FullName>
+	<publication>
+		<title>An evolutionary system for neural logic networks using genetic programming and indirect encoding</title>
+		<year>2004</year>
+		<authors>athanasios tsakonas,ioannis karkazis,georgios dounias</authors>
+		<jconf>Journal of Applied Logic</jconf>
+		<label>1034</label>
+		<keyword>Evolutionary System;Genetic Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

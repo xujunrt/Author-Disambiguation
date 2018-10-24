@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Miao Song</FullName>
+	<publication>
+		<title>The Output of Human Expression System Measured by Visual Adaptation and Its Implication for the Computer Recognition System</title>
+		<year>2009</year>
+		<authors>shiyong zhang,keizo shinomori</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>676</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Persistency Model and Its Applications in Choice Modeling</title>
+		<year>2009</year>
+		<authors>karthik natarajan,chung-piaw teo</authors>
+		<jconf></jconf>
+		<label>677</label>
+		<keyword>Choice Models;Discrete Optimization;Expected Value;Optimal Solution;</keyword>
+		<organization>null</organization>
+		<abstract>Given a discrete optimization problem Z(˜ c) = max{˜ cx : x ∈ X }, with objective coefficients ˜ c chosen randomly from a distribution θ, we would like to evaluate the expected value E�(Z(˜ c)) and the probability P�(x∗i(˜ c) = k) where x∗(˜ c) is an optimal solution to Z(˜ c). We call this ...</abstract>
+	</publication>
+</person>

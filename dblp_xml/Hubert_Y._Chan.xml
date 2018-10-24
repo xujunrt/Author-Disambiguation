@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hubert Y. Chan</FullName>
+	<publication>
+		<title>A Parameterized Algorithm for Upward Planarity Testing</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>European Symposium on Algorithms</jconf>
+		<label>303</label>
+		<keyword>parameterized algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rui Wang</FullName>
+	<publication>
+		<title>Transaction Time Support Inside a Database Engine</title>
+		<year>2006</year>
+		<authors>david b. lomet,roger s. barga,mohamed f. mokbel,german shegalov,yunyue zhu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>882</label>
+		<keyword>Concurrency Control;High Performance;Middleware;New Record;Snapshot Isolation;</keyword>
+		<organization>null</organization>
+		<abstract>Transaction time databases retain and provide access to prior states of a database. An update &quot;inserts&quot; a new record while preserving the old version. Immortal DB builds transaction time database support into a database engine, not in middleware. It supports as of queries re- turning records current at the specified time. It also sup- ports snapshot isolation concurrency control. Versions</abstract>
+	</publication>
+	<publication>
+		<title>Transaction Support for Log-Based Middleware Server Recovery</title>
+		<year>2009</year>
+		<authors>betty salzberg,david b. lomet</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>882</label>
+		<keyword>Middleware;</keyword>
+		<organization>null</organization>
+		<abstract>We have developed log-based recovery for middle- ware servers that access back-end transaction systems (DBMSs). Transactional consistency is provided between in-memory state stored in middleware servers and persistent state stored in transaction systems. A new logging method called results logging is exploited to ensure coordinated recovery of in-memory state with persistent database state. Results logging incurs low logging overhead for</abstract>
+	</publication>
+	<publication>
+		<title>Log-based recovery for middleware servers</title>
+		<year>2007</year>
+		<authors>betty salzberg,david b. lomet</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>882</label>
+		<keyword>Distributed System;Fault Tolerant;High Availability;Message Logging;Middleware;program verication;</keyword>
+		<organization>null</organization>
+		<abstract>We have developed new methods for log-based recovery for middleware servers which involve thread pooling, private in- memory states for clients, shared in-memory state and mes- sage interactions among middleware servers. Due to the observed rareness of crashes, relatively small size of shared state and infrequency of shared state read/write accesses, we are able to reduce the overhead of message</abstract>
+	</publication>
+	<publication>
+		<title>Immortal DB: transaction time support for SQL server</title>
+		<year>2005</year>
+		<authors>david b. lomet,roger s. barga,mohamed f. mokbel,german shegalov,yunyue zhu</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>882</label>
+		<keyword>Concurrency Control;Indexation;Middleware;Moving Object;New Record;Snapshot Isolation;</keyword>
+		<organization>null</organization>
+		<abstract>Immortal DB builds transaction time database support into the SQL Server engine, not in middleware. Transaction time databases retain and provide access to prior states of a database. An update &quot;inserts&quot; a new record while preserving the old version. The system supports as of queries returning records current at the specified time. It also supports snapshot isolation concurrency control. Versions</abstract>
+	</publication>
+	<publication>
+		<title>Online B-tree merging</title>
+		<year>2005</year>
+		<authors>xiaowei sun,betty salzberg,chendong zou</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>882</label>
+		<keyword>Concurrency Control;High Performance;Indexation;Conventional Logging;</keyword>
+		<organization>null</organization>
+		<abstract>Many scenarios involve merging of two B-tree indexes, both covering the same key range. Increasing demand for continuous availability and high performance requires that such merging be done online, with minimal interference to normal user transactions. In this paper we present an online B-tree merging method, in which the merging of leaf pages in two B-trees are piggybacked lazily with</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Reconstruction of Indoor Scenes with Color</title>
+		<year>2003</year>
+		<authors>david p. luebke</authors>
+		<jconf>International Conference on 3-D Imaging and Modeling</jconf>
+		<label>883</label>
+		<keyword>Coordinate System;Euclidean Distance;Marching Cube;Range Image;Line of Sight;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present an efcient and general ap- proach to computing and integrating 3D distance elds di- rectly from multiple range images. We compute normal and condence values directly from a 2D range image. We then approximate 3D Euclidean distance by correcting the line- of-sight distance. To integrate multiple scans, we efciently transform voxels of the target distance</abstract>
+	</publication>
+	<publication>
+		<title>Fast Omnidirectional 3D Scene Acquisition with an Array of Stereo Cameras</title>
+		<year>2007</year>
+		<authors>jiajun zhu,greg humphreys,david koller,skip steuart</authors>
+		<jconf>International Conference on 3-D Imaging and Modeling</jconf>
+		<label>883</label>
+		<keyword>3d laser scanner;3d model;High Dynamic Range;High Resolution;Range Image;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract>We present an omnidirectional 3D acquisition system based on a mobile array of high-resolution consumer digital SLR cameras that automatically capture high dynamic range stereo pairs across a full 360-degree panorama. The stereo pairs are augmented with a time-varying lighting pattern created using standard photographic flashes, lenses, and patterned slides. Spacetime stereo techniques are used to generate 3D range images</abstract>
+	</publication>
+	<publication>
+		<title>Precomputed Visibility Cuts for Interactive Relighting with Dynamic BRDFs</title>
+		<year>2007</year>
+		<authors>oskar akerlund,mattias unger</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>883</label>
+		<keyword>Binary Tree;Environment Maps;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel PRT-based method that uses precomputed visibility cuts for interactive relighting with all-frequency environment maps and arbitrary dy- namic BRDFs. Our method is inspired by the recent Light- cuts approach (25) and we parameterize distant environ- ment lighting onto uniformly distributed sample points over the sphere. Using a binary tree structure of the points, we precompute</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Time-Dependent Tone Mapping Using Programmable Graphics Hardware</title>
+		<year>2003</year>
+		<authors>nolan goodnight,cliff woolley,greg humphreys</authors>
+		<jconf>Eurographics Symposium on Rendering/Eurographics Workshop on Rendering Techniques</jconf>
+		<label>883</label>
+		<keyword>Dynamic Range;Graphics Hardware;High Dynamic Range;Interactive Application;Programmable Graphics Hardware;Texture Mapping;Tone Mapping;Time Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>Modern graphics architectures have replaced stages of the graphics pipeline with fully programmable modules. Therefore, it is now possible to perform fairly general computation on each vertex or fragment in a scene. In addition, the nature of the graphics pipeline makes substantial computational power available if the programs have a suitable structure. In this paper, we show that it is</abstract>
+	</publication>
+	<publication>
+		<title>All-Frequency Relighting of Non-Diffuse Objects using Separable BRDF Approximation</title>
+		<year>2004</year>
+		<authors>john tran,david p. luebke</authors>
+		<jconf>Eurographics Symposium on Rendering/Eurographics Workshop on Rendering Techniques</jconf>
+		<label>883</label>
+		<keyword>Dynamic Environment;Environment Maps;Graphics Hardware;Interactive Rendering;Light Transport;Spherical Harmonic;Low Frequency;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a technique, based on pre-computed light transport and separable BRDF approximation, for interactive rendering of non-diffuse objects under all-frequency environment illumination. Existing techniques using spherical harmonics to represent environment maps and transport functions are limited to low-frequency light transport effects. Non-linear wavelet lighting approximation is able to capture all-frequency illumination and shadows for geometry relighting, but interactive</abstract>
+	</publication>
+	<publication>
+		<title>Computation on Programmable Graphics Hardware</title>
+		<year>2005</year>
+		<authors>nolan goodnight,greg humphreys</authors>
+		<jconf>IEEE Computer Graphics and Applications</jconf>
+		<label>883</label>
+		<keyword>Programmable Graphics Hardware;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bidirectional Importance Sampling for Unstructured Direct Illumination</title>
+		<year>2009</year>
+		<authors>oskar akerlund</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>883</label>
+		<keyword>Importance Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interactive Glossy Reflections using GPU-based Ray Tracing with Adaptive LOD</title>
+		<year>2008</year>
+		<authors>xuan yu,jingyi yu</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>883</label>
+		<keyword>Ray Tracing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast, realistic lighting and material design using nonlinear cut approximation</title>
+		<year>2008</year>
+		<authors>ewen cheslack-postava,oskar akerlund,fabio pellacini</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>883</label>
+		<keyword>Error Bound;Linear Interpolation;Materials Design;</keyword>
+		<organization>null</organization>
+		<abstract>We present an efficient computational algorithm for functions represented by a nonlinear piecewise constant approximation called cuts. Our main contribution is a single traversal algorithm for merging cuts that allows for arbitrary pointwise computation, such as addition, multiplication, linear interpolation, and multi-product integration. A theoretical error bound of this approach can be proved using a statistical interpretation of cuts. Our</abstract>
+	</publication>
+	<publication>
+		<title>All-frequency interactive relighting of translucent objects with single and multiple scattering</title>
+		<year>2005</year>
+		<authors>john tran,david p. luebke</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>883</label>
+		<keyword>Environment Maps;Haar Wavelet;Interactive Rendering;Interactive System;Light Transport;Multiple Scattering;precomputed radiance transfer;Subsurface Scattering;</keyword>
+		<organization>null</organization>
+		<abstract>We present a technique, based on precomputed light transport, for interactive rendering of translucent objects under all-frequency environment maps. We consider the complete BSSRDF model proposed by Jensen et al. [2001]. which includes both single and diffuse multiple scattering components. The challenge is how to efficiently precompute all-frequency light transport functions due to subsurface scattering. We apply the two-pass hierarchical</abstract>
+	</publication>
+	<publication>
+		<title>All-frequency relighting of glossy objects</title>
+		<year>2006</year>
+		<authors>john tran,david p. luebke</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>883</label>
+		<keyword>Global Illumination;Inner Product;Interactive Rendering;precomputed radiance transfer;Programmable Graphics Hardware;Vertex Coloring;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>We present a technique for interactive rendering of glossy objects in all-frequency lighting en- vironments that captures shadows and interreections. Our technique is based on precomputed radiance transfer and separable BRDF approximation. In the preprocessing step, we factor glossy BRDFs using separable decomposition and keep only a few low-order approximation terms, con- sisting of purely view-dependent and light-dependent components. At</abstract>
+	</publication>
+	<publication>
+		<title>Real-time editing and relighting of homogeneous translucent materials</title>
+		<year>2008</year>
+		<authors>ewen cheslack-postava,david p. luebke,qianyong chen,wei hua,qunsheng peng,hujun bao</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>883</label>
+		<keyword>Complex Dynamics;Haar Wavelet;Light Transport;Material Properties;Multiple Scattering;precomputed radiance transfer;On The Fly;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Existing techniques for fast, high-quality rendering of translucent materials often fix BSS- RDF parameters at precomputation time. We present a novel method for accurate rendering and relighting of translucent materials that also enables real-time editing and manipulation of homogeneous diffuse BSSRDFs. We first apply PCA analysis on diffuse multiple scattering to derive a compact basis set, consisting of only twelve</abstract>
+	</publication>
+	<publication>
+		<title>Fast, Sub-pixel Antialiased Shadow Maps</title>
+		<year>2009</year>
+		<authors>minghao pan,weifeng chen,kun zhou,hujun bao</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>884</label>
+		<keyword>Shadow Mapping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Precomputed Radiance Transfer Field for Rendering Interreflections in Dynamic Scenes</title>
+		<year>2007</year>
+		<authors>minghao pan,xinguo liu,qunsheng peng,hujun bao</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>884</label>
+		<keyword>Dynamic Scenes;precomputed radiance transfer;Principal Component Analysis;Low Frequency;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce a new representation - radiance transfer fields (RTF) - for rendering interreflections in dynamic scenes under low frequency illumination. The RTF describes the radiance transferred by an individ- ual object to its surrounding space as a function of the incident radiance. An important property of RTF is its independence of the scene configuration, enabling interreflection</abstract>
+	</publication>
+	<publication>
+		<title>Real-time soft shadows in dynamic scenes using spherical harmonic exponentiation</title>
+		<year>2006</year>
+		<authors>zhong ren,john snyder,kun zhou,xinguo liu,bo sun,peter-pike j. sloan,hujun bao,qunsheng peng,baining guo</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>884</label>
+		<keyword>Dynamic Scenes;Light Environment;Numerical Integration;Soft Shadow;Spherical Harmonic;volterra series;Low Frequency;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Previous methods for soft shadows numerically integrate over many light directions at each receiver point, testing blocker visibility in each direction. We introduce a method for real-time soft shad- ows in dynamic scenes illuminated by large, low-frequency light sources where such integration is impractical. Our method operates on vectors representing low-frequency visibility of blockers in the spherical harmonic basis. Blocking</abstract>
+	</publication>
+	<publication>
+		<title>An efficient GPU-based approach for interactive global illumination</title>
+		<year>2009</year>
+		<authors>kun zhou,minghao pan,hujun bao</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>884</label>
+		<keyword>Global Illumination;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time KD-tree construction on graphics hardware</title>
+		<year>2008</year>
+		<authors>kun zhou,qiming hou,baining guo</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>884</label>
+		<keyword>Dynamic Scenes;Graphics Hardware;kd tree;Photon Mapping;Point Cloud;Ray Tracing;Breadth First Search;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present an algorithm for constructing kd-trees on GPUs. This algorithm achieves real-time performance by exploiting the GPU's streaming architecture at all stages of kd-tree construction. Unlike previous parallel kd-tree algorithms, our method builds tree nodes completely in BFS (breadth-first search) order. We also develop a special strategy for large nodes at upper tree levels so as to further exploit</abstract>
+	</publication>
+	<publication>
+		<title>Synthesizing trees by plantons</title>
+		<year>2006</year>
+		<authors>wei hua,zilong dong,qunsheng peng,hujun bao</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>884</label>
+		<keyword>image-based modeling;Maximum Likelihood Estimate;Statistical Model;Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a two-level statistical model for char- acterizing the stochastic and specific nature of trees. At the low level, we define plantons, which are a group of similar organs, to depict tree organ details statistically. At the high level, a set of transitions between plantons is provided to describe the stochastic distribution of organs. Based on</abstract>
+	</publication>
+	<publication>
+		<title>Variational sphere set approximation for solid objects</title>
+		<year>2006</year>
+		<authors>kun zhou,john snyder,xinguo liu,hujun bao,qunsheng peng,baining guo</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>884</label>
+		<keyword>Collision Detection;Medial Axis;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>We approximate a solid object represented as a triangle mesh by a bounding set of spheres having min- imal summed volume outside the object. We show how outside volume for a single sphere can be computed us- ing a simple integration over the object's triangles. We then minimize the total outside volume over all spheres in the set using a</abstract>
+	</publication>
+	<publication>
+		<title>Perceptually-motivated shape exaggeration</title>
+		<year>2010</year>
+		<authors>xin zhang,wei chen,jing fang,qunsheng peng</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>884</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recognizing Textual Entailment Using a Subsequence Kernel Method</title>
+		<year>2007</year>
+		<authors>günter neumann</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>885</label>
+		<keyword>Inference Rule;Information Extraction;Kernel Method;Knowledge Base;Machine Learning;Question Answering;Recognizing Textual Entailment;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel approach to recognizing Textual Entailment. Structural features are constructed from abstract tree descriptions, which are automatically extracted from syntactic dependency trees. These features are then applied in a subsequence-kernel-based classifier to learn whether an entailment relation holds between two texts. Our method makes use of machine learning techniques using a limited data set, no external knowledge</abstract>
+	</publication>
+	<publication>
+		<title>Adapting QA Components to Mine Answers in Speech Transcripts</title>
+		<year>2007</year>
+		<authors>günter neumann</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>885</label>
+		<keyword>question an swering;</keyword>
+		<organization>null</organization>
+		<abstract>The paper describes QAst-v1 a robust question an- swering system for answering factoid questions in manual and au- tomatic transcriptions of speech. The system is an adaptation of our text-based crosslingual open-domain QA system that we used for the CLEF main tasks.</abstract>
+	</publication>
+	<publication>
+		<title>Using Recognizing Textual Entailment as a Core Engine for Answer Validation</title>
+		<year>2007</year>
+		<authors>günter neumann</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>885</label>
+		<keyword>English Language;Answer Validation Exercise;Recognizing Textual Entailment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper is about our approach to answer validat ion, which centered by a Recognizing Textual Entailment (RTE) core engine. We first combined the question and the answer into Hypothesis (H) and view the document as Text ( T); then, we used our RTE system to check whether the entailment relation holds between them. Our system was evaluated on the</abstract>
+	</publication>
+	<publication>
+		<title>Information Synthesis for Answer Validation</title>
+		<year>2008</year>
+		<authors>günter neumann</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>885</label>
+		<keyword>Named Entity;Answer Validation Exercise;Recognizing Textual Entailment;</keyword>
+		<organization>null</organization>
+		<abstract>This report is about our participation in the Answer Validation Exercise (AVE2008). Our system casts the AVE task into a Recognizing Textual Entailment (RTE) problem and uses an existing RTE system to validate answers. Additional information from named-entity (NE) recognizer, question analysis component, and so on, is also considered as assistances to make the final decision. In all, we have</abstract>
+	</publication>
+	<publication>
+		<title>Ontology-Based Query Construction for GeoCLEF</title>
+		<year>2008</year>
+		<authors>günter neumann</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>885</label>
+		<keyword>Geographic Information Retrieval;Information Retrieval;Query Expansion;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes our participation in GeoCLEF. Being different from the traditional information retrieval, we focus more on the query expansion instead of document ranking. We parse each topic into the event part and the geographic part and use different ontologies to expand both parts respectively. The results show great advantages of our strategy for this task.</abstract>
+	</publication>
+	<publication>
+		<title>Inference Rules and their Application to Recognizing Textual Entailment</title>
+		<year>2009</year>
+		<authors>georgiana dinu</authors>
+		<jconf>Conference of the European Chapter of the Association for Computational Linguistics</jconf>
+		<label>885</label>
+		<keyword>Error Analysis;Inference Rule;Recognizing Textual Entailment;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we explore ways of improv- ing an inference rule collection and its ap- plication to the task of recognizing textual entailment. For this purpose, we start with an automatically acquired collection and we propose methods to refine it and ob- tain more rules using a hand-crafted lex- ical resource. Following this, we derive a dependency-based structure representa-</abstract>
+	</publication>
+	<publication>
+		<title>Recognizing Textual Relatedness with Predicate-Argument Structures</title>
+		<year>2009</year>
+		<authors>zhang yi</authors>
+		<jconf>Empirical Methods in Natural Language Processing</jconf>
+		<label>885</label>
+		<keyword>Argument Structure;Semantic Similarity;Recognizing Textual Entailment;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we first compare several strategies to handle the newly proposed three-way Recognizing Textual Entailment (RTE) task. Then we define a new mea- surement for a pair of texts, called Textual Relatedness, which is a weaker concept than semantic similarity or paraphrase. We show that an alignment model based on the predicate-argument structures using this measurement can help</abstract>
+	</publication>
+	<publication>
+		<title>Hybrid Constituent and Dependency Parsing with Tsinghua Chinese Treebank</title>
+		<year>2010</year>
+		<authors>zhang yi</authors>
+		<jconf>Language Resources and Evaluation</jconf>
+		<label>885</label>
+		<keyword>Computational Linguistic;Dependence Structure;Dependency Parsing;Large Scale;Mandarin Chinese;Model Combination;Model Development;Natural Language Parsing;part-of-speech tagging;Syntactic Parsing;Word Order;Word Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe our hybrid parsing model on Mandarin Chinese processing. The model combines the mainstream constitute and dependency parsing and the dataset we use it the Tsinghua Chinese Treebank, whose annotation has both constitutes and head information. We show the adaption of this annotation scheme to the normal constitute structure, dependency structure, and the integration of both.</abstract>
+	</publication>
+	<publication>
+		<title>SketchML a representation language for novel sketch recognition approach</title>
+		<year>2009</year>
+		<authors>danilo avola,andrea del buono,giorgio gianforme,stefano paolozzi</authors>
+		<jconf>International Conference on Pervasive Technologies Related to Assistive Environments</jconf>
+		<label>885</label>
+		<keyword>Modeling Language;multimodal interface;Profitability;Sketch Recognition;User Needs;Multi Domain;</keyword>
+		<organization>null</organization>
+		<abstract>Multimodal interfaces can be profitably used to support in- creasingly complex services in assistive environments. In particular, sketch-based interfaces offer users an effortless and powerful communication way to represent concepts and commands on different devices. Unlike other modalities, sketch-based interaction can be easily fitted according to heterogeneous services. Moreover it can be quickly person- alized according to the user needs.</abstract>
+	</publication>
+	<publication>
+		<title>Formal semantics and communication strategies for proactive information delivery among team-based agents</title>
+		<year>2003</year>
+		<authors>john yen,xiaocong fan,shuang sun,cong chen,kaivan kamali,michael s. miller,richard a. volz</authors>
+		<jconf>Autonomous Agents &amp; Multiagent Systems/Agent Theories, Architectures, and Languages</jconf>
+		<label>886</label>
+		<keyword>Formal Semantics;Information Need;Shared Mental Model;Team Performance;</keyword>
+		<organization>null</organization>
+		<abstract>Effective human teams often benefit from proactivity through members' capability of anticipating different needs of teammates. In this paper, we focus on three issues related to the behavior of proactive information delivery. Two types of information needs are identified, the intentional semantics of ProInform is given, and priliminary experiments are carried out to study how different strategies for choosing ProInform</abstract>
+	</publication>
+	<publication>
+		<title>Context-Centric Proactive Information Delivery</title>
+		<year>2004</year>
+		<authors>xiaocong fan,john yen,shuang sun,richard a. volz</authors>
+		<jconf>International Agent Technology Conference</jconf>
+		<label>886</label>
+		<keyword>Agent Architecture;Information Need;Information Overload;Shared Mental Model;web-based service;</keyword>
+		<organization>null</organization>
+		<abstract>Delivering only those information relevant to the needs of teammates is critical for avoiding information overload. Need-driven proactive information delivery has thus been widely investigated in diverse areas spanning from psy- chology, AI, to Web-based services. CAST, a team-oriented agent architecture, realized proactive information de- livery as a built-in agent behavior, which is derived by the capability of anticipating others'</abstract>
+	</publication>
+	<publication>
+		<title>A Market-Based Adaptation for Resolving Competing Needs for Scarce Resources</title>
+		<year>2006</year>
+		<authors>tracy mullen,viswanath avasarala,john yen</authors>
+		<jconf>IEEE Industry Applications Magazine</jconf>
+		<label>886</label>
+		<keyword>Distributed Team;Resource Allocation;Task Assignment;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>The dynamic nature of many real-world domains (e.g., military, emergency first response and hurricane relief, etc) requires adaptive resource allocation to respond to changes in the environment that trigger additional resource requirements. Since the total resources are limited, there are often conflicts among various tasks regarding their resource needs. Thus, resources must be reallocated in order to maximize global utility</abstract>
+	</publication>
+	<publication>
+		<title>Context-Centric Needs Anticipation Using Information Needs Graphs</title>
+		<year>2006</year>
+		<authors>xiaocong fan,shuang sun,john yen,richard a. volz</authors>
+		<jconf>Applied Intelligence</jconf>
+		<label>886</label>
+		<keyword>Agent Architecture;Distributed Artificial Intelligence;Information Exchange;Information Need;Shared Mental Model;Team Performance;Agent Based;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Effective agent teamwork requires information exchange to be conducted in a proactive, selective, and intelligent way. In the field of distributed artificial intelligence, there has been increasing number of research focusing on need-driven proactive communication, both theoretically and practically. Among these works, CAST has realized a team-oriented agent architecture where agents, based on a computational shared mental model, are able</abstract>
+	</publication>
+	<publication>
+		<title>Proactive information gathering for homeland security teams</title>
+		<year>2004</year>
+		<authors>paul a. kogut,john yen,yui leung,shuang sun,ted mielczarek,ben hellar</authors>
+		<jconf>Communications of The ACM</jconf>
+		<label>886</label>
+		<keyword>Homeland Security;Information Gathering;Software Agent;</keyword>
+		<organization>null</organization>
+		<abstract>Supporting counterterrorism analysts with software agents that dynamically anticipate their information requirements.</abstract>
+	</publication>
+	<publication>
+		<title>Web mapping service on second life compatible virtual world system</title>
+		<year>2010</year>
+		<authors>bin chen,xiao cai,qiang cao</authors>
+		<jconf>Geoinformatics</jconf>
+		<label>887</label>
+		<keyword>Web Map Service;Second Life;Virtual Worlds;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combined Cross Layer Design and HARQ for TDD Multiuser Systems with Outdated CSIT</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>887</label>
+		<keyword>Cross Layer Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Optimal Cross Layer Designs for TDD-OFDMA Systems with Imperfect CSIT and Unknown Interference - State-Space Approach based on 1bit ACK/NAK Feedbacks</title>
+		<year>2006</year>
+		<authors>vincent k. n. lau</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>887</label>
+		<keyword>Robust Optimization;State Space;Cross Layer Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Decentralized Fair Resource Allocation for Relay-Assisted Cognitive Cellular Downlink Systems</title>
+		<year>2009</year>
+		<authors>vincent k. n. lau,cui ying,kaibin huang,bin chen,xia yang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>887</label>
+		<keyword>Resource Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint cross-layer scheduling and spectrum sensing for OFDMA cognitive radio systems</title>
+		<year>2009</year>
+		<authors>vincent k. n. lau,lv linjun,bin chen</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>887</label>
+		<keyword>Cognitive Radio;Cross Layer;Spectrum Sensing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Scaling Law on Throughput and Delay Performance of Wireless Mobile Relay Networks over Parallel Fading Channels</title>
+		<year>2009</year>
+		<authors>vincent k. n. lau,kaibin huang</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>887</label>
+		<keyword>Communication System;Decode and Forward;Fading Channel;Multipath Channel;Packet Delay;Path Loss;Relay Network;Scaling Law;and Forward;Point To Point;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, utilizing the relay buffers, we propose an opportunistic decode-wait-and-forward relay scheme for a point-to-point communication system with a half-duplexing relay network to better exploit the time diversity and relay mobility. For instance, we analyze the asymptotic throughput-delay tradeoffs in a dense relay network for two scenarios: (1) fixed relays with \textit{microscopic fading} channels (multipath channels), and (2)</abstract>
+	</publication>
+	<publication>
+		<title>Distributive Subband Allocation, Power and Rate Control for Relay-Assisted OFDMA Cellular System with Imperfect System State Knowledge</title>
+		<year>2009</year>
+		<authors>ying cui,vincent k. n. lau</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>887</label>
+		<keyword>Asymptotic Optimality;Cellular System;Computational Complexity;Decode and Forward;Distributed Algorithm;Indexing Terms;Optimization Problem;Rate Allocation;Rate Control;Resource Allocation;Weighted Sums;Orthogonal Frequency Division Multiple Access;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we consider distributive subband, power and rate allocation for a two-hop transmission in an orthogonal frequency-division multiple-access (OFDMA) cellular system with fixed relays which operate in decode-and-forward strategy. We take into account of system fairness by considering weighted sum goodput as our optimization objective. Based on the cluster-based architecture, we obtain a fast-converging distributive solution with only</abstract>
+	</publication>
+	<publication>
+		<title>Decentralized Fair Scheduling in Two-Hop Relay-Assisted Cognitive OFDMA Systems</title>
+		<year>2010</year>
+		<authors>vincent k. n. lau,ying cui</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>887</label>
+		<keyword>Asymptotic Optimality;Fair Scheduling;Spectrum;System Dynamics;Weighted Sums;Proportional Fair Scheduling;Primary User;Relay Station;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we consider a two-hop relay-assisted cognitive downlink OFDMA system (named as secondary system) dynamically accessing a spectrum licensed to a primary network, thereby improving the efficiency of spectrum usage. A cluster-based relay-assisted architecture is proposed for the secondary system, where relay stations are employed for minimizing the interference to the users in the primary network and achieving</abstract>
+	</publication>
+	<publication>
+		<title>Robust Optimal Cross-Layer Designs for TDD-OFDMA Systems with Imperfect CSIT and Unknown Interference: State-Space Approach Based on 1bit ACK/NAK Feedbacks</title>
+		<year>2008</year>
+		<authors>vincent k. n. lau</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<label>887</label>
+		<keyword>Robust Optimization;State Space;Cross Layer Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributive Subband Allocation, Power and Rate Control for Relay-Assisted OFDMA Cellular System with Imperfect System State Knowledge</title>
+		<year>2009</year>
+		<authors>ying cui,vincent k. n. lau</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>887</label>
+		<keyword>Asymptotic Optimality;Cellular System;Computational Complexity;Decode and Forward;Distributed Algorithm;Indexing Terms;Optimization Problem;Rate Allocation;Rate Control;Resource Allocation;Weighted Sums;Orthogonal Frequency Division Multiple Access;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we consider distributive subband, power and rate allocation for a two-hop transmission in an orthogonal frequency-division multiple-access (OFDMA) cellular system with fixed relays which operate in decode-and-forward strategy. We take into account of system fairness by considering weighted sum goodput as our optimization objective. Based on the cluster-based architecture, we obtain a fast-converging distributive solution with only</abstract>
+	</publication>
+	<publication>
+		<title>Combined cross-layer design and HARQ for multiuser systems with outdated channel state information at transmitter (CSIT) in slow fading channels</title>
+		<year>2008</year>
+		<authors>vincent k. n. lau</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>887</label>
+		<keyword>Asymptotic Optimality;Cross Layer;Fading Channel;hybrid arq;Integrated Design;Power Allocation;Rate Allocation;Spectral Efficiency;System Performance;Wireless Systems;Base Station;Cross Layer Design;Channel State Information at Transmitter;Incremental Redundancy;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Cross-layer scheduling and Hybrid ARQ (HARQ) are effective means to improve the spectral efficiency of wireless systems. However, most of the existing works handle HARQ and,cross-layer scheduling in a decoupled manner,based on heuristic approaches. In this paper, we propose an integrated design framework,for cross-layer scheduling and HARQ design in multiuser systems with slow fading channel and,outdated knowledge,of channel state information</abstract>
+	</publication>
+	<publication>
+		<title>Cross Layer Design of Downlink Multi-Antenna OFDMA Systems with Imperfect CSIT for Slow Fading Channels</title>
+		<year>2007</year>
+		<authors>vincent k. n. lau</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>887</label>
+		<keyword>Fading Channel;Cross Layer Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Closed-loop cross-layer SDMA designs with outdated CSIT</title>
+		<year>2009</year>
+		<authors>vincent k. n. lau</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>887</label>
+		<keyword>Cross Layer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint cross-layer scheduling and spectrum sensing for OFDMA cognitive radio systems</title>
+		<year>2009</year>
+		<authors>vincent k. n. lau,lv linjun,bin chen</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>887</label>
+		<keyword>Cognitive Radio;Cross Layer;Spectrum Sensing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Cognitive Study on the Effectiveness of an Augmented Virtuality-Based Collaborative Design Space</title>
+		<year>2008</year>
+		<authors>xiangyu wang,rui chen</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>888</label>
+		<keyword>Collaborative Design;Augmented Virtuality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mixed Reality-Mediated Collaborative Design System: Concept, Prototype, and Experimentation</title>
+		<year>2008</year>
+		<authors>xiangyu wang</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>888</label>
+		<keyword>Collaborative Design;Mixed Reality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experimental Investigation of Co-Presence Factors in a Mixed Reality-Mediated Collaborative Design System</title>
+		<year>2009</year>
+		<authors>xiangyu wang</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>888</label>
+		<keyword>Collaborative Design;Mixed Reality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Spatial Faithful Cooperative System Based on Mixed Presence Groupware Model</title>
+		<year>2009</year>
+		<authors>wei wang,xiangyu wang</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>888</label>
+		<keyword>Cooperative Systems;Mixed Presence Groupware;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Motivated learning agent model for distributed collaborative systems</title>
+		<year>2009</year>
+		<authors>xiangyu wang,wei wang</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>888</label>
+		<keyword>Agent Modeling;Distributed Collaboration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>User-Centered Design and Visualization of Service Oriented Recommender Agents: An Approach to Achieve Better Consumers' Involvement in E-Commerce Systems</title>
+		<year>2009</year>
+		<authors>xiangyu wang</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>888</label>
+		<keyword>E Commerce;Service Orientation;User Centered Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Motivated learning agent model for distributed collaborative systems</title>
+		<year>2009</year>
+		<authors>xiangyu wang,wei wang</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>888</label>
+		<keyword>Agent Modeling;Distributed Collaboration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Gossiping in Square Meshes in All-Port Mode and with Short Packets</title>
+		<year>2005</year>
+		<authors>francis c. m. lau</authors>
+		<jconf>Colloquium on Structural Information &amp; Communication Complexity</jconf>
+		<label>889</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>NP-Completeness Results for All-Shortest-Path Interval Routing</title>
+		<year>2004</year>
+		<authors>francis c. m. lau,yan yan liu</authors>
+		<jconf>Colloquium on Structural Information &amp; Communication Complexity</jconf>
+		<label>889</label>
+		<keyword>Interval Routing;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hamiltonicity of regular graphs and blocks of consecutive ones in symmetric matrices</title>
+		<year>2007</year>
+		<authors>francis c. m. lau,yingchao zhao</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<label>889</label>
+		<keyword>Adjacency Matrix;Hamiltonian Path;Regular Graph;Symmetric Matrices;Theory of Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We show that the Hamiltonicity of a regular graph G can be fully characterized by the numbers,of blocks of consecutive ones in the binary matrix A + I, where A is the adjacency matrix of G, I is the unit matrix, and the blocks can be either linear or circular. Concretely, a k-regular graph G with girth g(G) 5</abstract>
+	</publication>
+	<publication>
+		<title>Optimal gossiping in square 2D meshes</title>
+		<year>2007</year>
+		<authors>francis c. m. lau</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>889</label>
+		<keyword>Fast Algorithm;Information Dissemination;Network Algorithm;Optimal Algorithm;Parallel and Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract>Gossiping is the communication problem in which each node has a unique message to be transmitted to every other node. The nodes exchange their message by packets. A solution to the problem is judged by how many rounds of packet sending it requires. In this paper, we consider the version of the problem in which small-size packets each carrying exactly</abstract>
+	</publication>
+	<publication>
+		<title>On the hardness of minimizing space for all-shortest-path interval routing schemes</title>
+		<year>2007</year>
+		<authors>francis c. m. lau,yan yan liu</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>889</label>
+		<keyword>Interval Routing Scheme;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving P2P Traffic Identification Problems Via Optimized Support Vector Machines</title>
+		<year>2007</year>
+		<authors>yue-xiang yang,yang liu,shang-zhen li,xiao-yong zhou</authors>
+		<jconf>ACS/IEEE International Conference on Computer Systems and Applications</jconf>
+		<label>890</label>
+		<keyword>P2P;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning your identity and disease from research papers: information leaks in genome wide association study</title>
+		<year>2009</year>
+		<authors>yong fuga li,xiaofeng wang,haixu tang,xiao-yong zhou</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>890</label>
+		<keyword>Allele Frequency;Genetic Variation;Human Genome;Integer Program;Research Paper;Single Nucleotide Polymorphism;Genome Wide Association Study;Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Genome-wide association studies (GWAS) aim at discovering the association between genetic variations, particularly single-nucleotide polymorphism (SNP), and common diseases, which is well recog- nized to be one of the most important and active areas in biomedical research. Also renowned is the privacy implication of such stud- ies, which has been brought into the limelight by the recent attack proposed by</abstract>
+	</publication>
+	<publication>
+		<title>Privacy-preserving genomic computation through program specialization</title>
+		<year>2009</year>
+		<authors>xiaofeng wang,zhou li,haixu tang,michael k. reiter,zheng dong</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>890</label>
+		<keyword>Computer Program;Dynamic Program;Dynamic Programming Algorithm;Genetics;Human Genome;Multi Party Computation;Privacy Preservation;Privacy Protection;Program Specialization;Program Transformation;Symbolic Execution;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a new approach to performing impor- tant classes of genomic computations (e.g., search for homologous genes) that makes a significant step towards privacy protection in this domain. Our approach leverages a key property of the human genome, namely that the vast majority of it is shared across humans (and hence public), and consequently relatively little</abstract>
+	</publication>
+	<publication>
+		<title>Towards automatic reverse engineering of software security configurations</title>
+		<year>2008</year>
+		<authors>xiaofeng wang,kehuan zhang,zhuowei li</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>890</label>
+		<keyword>Access Control Policy;Context Free Language;It Security;Reverse Engineering;Security Policy;Semantic Relations;Software Security;Specification Language;Access Control;Graphical User Inter Face;</keyword>
+		<organization>null</organization>
+		<abstract>The specifications of an application's security configuration are crucial for understanding its security policies, which can be very helpful in security-related contexts such as misconfiguration de- tection. Such specifications, however, are often ill-documented, or even close because of the increasing use of graphic user inter- faces to set program options. In this paper, we propose ConfigRE, a new technique for</abstract>
+	</publication>
+	<publication>
+		<title>Bandelet Union Optimal Matrix Norms Constructing Lossless Watermarking</title>
+		<year>2007</year>
+		<authors>yue-xiang yang,li-zhi cheng,yong luo</authors>
+		<jconf>Computer Information Systems and Industrial Management Applications</jconf>
+		<label>890</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Side-Channel Leaks in Web Applications: A Reality Today, a Challenge Tomorrow</title>
+		<year>2010</year>
+		<authors>shuo chen,xiaofeng wang,kehuan zhang</authors>
+		<jconf>IEEE Symposium on Security and Privacy</jconf>
+		<label>890</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Panalyst: Privacy-Aware Remote Error Analysis on Commodity Software</title>
+		<year>2008</year>
+		<authors>xiaofeng wang,zhuowei li</authors>
+		<jconf>USENIX Security Symposium</jconf>
+		<label>890</label>
+		<keyword>Error Analysis;Perforation;Private Information;Symbolic Execution;</keyword>
+		<organization>null</organization>
+		<abstract>Remote error analysis aims at timely detection and rem- edy of software vulnerabilities through analyzing run- time errors that occur on the client. This objective can only be achieved by offering users effective protection of their private information and minimizing the perfor- mance impact of the analysis on their systems without undermining the amount of information the server can access</abstract>
+	</publication>
+	<publication>
+		<title>Bayesian Face Recognition Based on Markov Random Field Modeling</title>
+		<year>2009</year>
+		<authors>zhen lei,meng ao,stan z. li</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>891</label>
+		<keyword>Face Recognition;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Analysis-by-Synthesis Method for Heterogeneous Face Biometrics</title>
+		<year>2009</year>
+		<authors>jimei yang,dong yi,stan z. li</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>891</label>
+		<keyword>Analysis By Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Outdoor Face Recognition Using Enhanced Near Infrared Imaging</title>
+		<year>2007</year>
+		<authors>dong yi,rong liu,rufeng chu,dong liu,stan z. li</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>891</label>
+		<keyword>Face Recognition;Near Infrared;Near Infrared Imaging;Statistical Learning;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a robust and accurate system for outdoor (as well as indoor) face recognition, based on a recently de- veloped enhanced near-infrared (ENIR) imaging device. Using a narrow band NIR laser generator instead of LED lights for active frontal illumi- nation, the ENIR device can provide face images of good quality even under sunlight. Experiments show</abstract>
+	</publication>
+	<publication>
+		<title>Fusion of Near Infrared Face and Iris Biometrics</title>
+		<year>2007</year>
+		<authors>zhijian zhang,ke pan,stan z. li,peiren zhang</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>891</label>
+		<keyword>Near Infrared;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Research on Modified Structure of Turbo-Blast System</title>
+		<year>2006</year>
+		<authors>he wang,chen fan,xin zhang,dacheng yang</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>892</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Performance of Three Kinds of Channel Code Used in Turbo-BLAST</title>
+		<year>2006</year>
+		<authors>xin zhang,ran duan,chen fan,dacheng yang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>892</label>
+		<keyword>Channel Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

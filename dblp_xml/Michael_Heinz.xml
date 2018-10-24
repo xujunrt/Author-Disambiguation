@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Heinz</FullName>
+	<publication>
+		<title>Virtuelle Maschinen in einem allgemeinen Time-Sharing-Betriebssystem</title>
+		<year>1974</year>
+		<authors></authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>682</label>
+		<keyword>Time Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Das Programmsystem LINET zur Analyse linearer elektrischer Netzwerke</title>
+		<year>1971</year>
+		<authors>rainer engelhardt,hermann kremer</authors>
+		<jconf>Information Technology</jconf>
+		<label>682</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Firm-like behavior of journals? Scaling properties of their output and impact growth dynamics</title>
+		<year>2005</year>
+		<authors>frank havemann,roland wagner-döbler</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>683</label>
+		<keyword>Conditional Probability;Research Funding;Growth Rate;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  In the study of growth dynamicsof artificial and natural systems, the scaling properties of fluctuations can exhibit information on the underlying processes responsible for the observed macroscopic behaviour, according to researchers of a group around H.E. Stanley and others. With such an approach, they examined the growth dynamics of firms, of national economies, and of university research fundings and</abstract>
+	</publication>
+	<publication>
+		<title>Growth dynamics of German university enrolments and of scientific disciplines in the 19th century: Scaling behaviour under weak competitive pressure</title>
+		<year>2004</year>
+		<authors>frank havemann,roland wagner-döbler</authors>
+		<jconf>Scientometrics</jconf>
+		<label>683</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structural similarities between science growth dynamics in China and in western countries</title>
+		<year>2006</year>
+		<authors>liming liang,frank havemann,roland wagner-döbler</authors>
+		<jconf>Scientometrics</jconf>
+		<label>683</label>
+		<keyword>Structural Similarity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

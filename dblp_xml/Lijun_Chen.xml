@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lijun Chen</FullName>
+	<publication>
+		<title>Evaluating MAX and MIN over Sliding Windows with Various Size Using the Exemplary Sketch</title>
+		<year>2007</year>
+		<authors>jiakui zhao,dongqing yang,bin cui,jun gao</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>547</label>
+		<keyword>Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effective Skyline Cardinality Estimation on Data Streams</title>
+		<year>2008</year>
+		<authors>yang lu,jiakui zhao,bin cui,dongqing yang</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>547</label>
+		<keyword>Data Stream;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient XML Query Processing in Mediators</title>
+		<year>2001</year>
+		<authors>liang huai yang,shiwei tang,dongqing yang</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>547</label>
+		<keyword>E Commerce;Path Expressions;Pattern Matching;Query Language;Query Optimization;Search Space;Statistical Method;Xml Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>With the advent of XML as the standard for data rep- resentation and exchange over Internet, there are ever in- creasing applications, E-Commerce application in partic- ular, using XML as a mediator model. It raises the issue on how to evaluate XML queries efficiently in mediator sys- tems. In this article, we address the problem of multiple query optimization in</abstract>
+	</publication>
+	<publication>
+		<title>Improving Text Classification by Using Encyclopedia Knowledge</title>
+		<year>2007</year>
+		<authors>pu wang,jian hu,hua-jun zeng,zheng chen</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>547</label>
+		<keyword>Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Balanced Data Allocating and Online Migrating Algorithms in Database Cluster</title>
+		<year>2009</year>
+		<authors>weihua gong,liang huai yang,decai huang</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>547</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cardinality Computing: A New Step Towards Fully Representing Multi-sets by Bloom Filters</title>
+		<year>2006</year>
+		<authors>jiakui zhao,dongqing yang,jun gao,tengjiao wang</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>547</label>
+		<keyword>Bloom Filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>3D Mesh Compression Using an Efficient Neighborhood-based Segmentation</title>
+		<year>2005</year>
+		<authors>nicolas d. georganas</authors>
+		<jconf>Distributed Simulation and Real-Time Applications</jconf>
+		<label>548</label>
+		<keyword>Mesh Compression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient and robust algorithm for 3D mesh segmentation</title>
+		<year>2006</year>
+		<authors>nicolas d. georganas</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>548</label>
+		<keyword>3d model;Estimation Algorithm;Fast Marching;Feature Extraction;Gaussian Curvature;Mesh Segmentation;Object Model;Region Merging;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an efficient and robust algorithm for 3D mesh segmen- tation. Segmentation is one of the main areas of 3D object modeling. Most segmen- tation methods decompose 3D objects into parts based on curvature analysis. Most of the existing curvature estimation algorithms are computationally costly. The pro- posed algorithm extracts features using Gaussian curvature and concaveness esti- mation</abstract>
+	</publication>
+	<publication>
+		<title>Region-based 3D Mesh Compression Using an Efficient Neighborhood-based Segmentation</title>
+		<year>2008</year>
+		<authors>nicolas d. georganas</authors>
+		<jconf>Transactions of The Society for Modeling and Simulation International</jconf>
+		<label>548</label>
+		<keyword>Compression Algorithm;Interactive Application;Mesh Compression;Mesh Segmentation;Object Model;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the popularity of polygonal models in the Virtual Reality applications, 3D mesh compression and segmentation are two active areas of 3D object modeling. Most existing 3D compression algorithms compress the whole object to reduce the local storage requirement and the delays in transmitting objects over the Internet. However, in some interactive applications, the client may be interested in</abstract>
+	</publication>
+	<publication>
+		<title>Succinct and Informative Cluster Descriptions for Document Repositories</title>
+		<year>2006</year>
+		<authors>guozhu dong</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>549</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Energy Efficient Data Gathering with Intra-cluster Coverage in Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>hai-gang gong,ming liu,yinchi mao,li xie</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>550</label>
+		<keyword>Data Gathering;Energy Efficient;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>EEBASS: Energy-Efficient Balanced Storage Scheme for Sensor Networks</title>
+		<year>2008</year>
+		<authors>lei xie,daoxu chen,li xie</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>550</label>
+		<keyword>Approximate Algorithm;Energy Consumption;Energy Efficient;Load Balance;Sensor Network;Data Centric Storage;</keyword>
+		<organization>null</organization>
+		<abstract>Data-centric storage is an effective and important technique in sensor networks, however, most data-centric storage schemes may not be energy efficient and load balanced due to non-uniform event and query distributions. This paper proposes EEBASS, it utilizes an approximation algorithm to solve the optimal storage placement problem according to the variance of event and query distributions, aiming to minimize the</abstract>
+	</publication>
+	<publication>
+		<title>An Energy-Aware Protocol for Data Gathering Applications in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>ming liu,yuan zheng,jiannong cao,guihai chen,hai-gang gong</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>550</label>
+		<keyword>Data Gathering;Energy Consumption;Hierarchical Clustering;Network Lifetime;Sensor Network;Sensor Nodes;Cluster Head;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Data gathering is a major function of many applications in wireless sensor networks (WSNs). The most important issue in designing a data gathering algorithm is how to save energy of sensor nodes while meeting the requirement of applications/users such as sensing area coverage. In this paper, we propose a novel hierarchical clustering protocol for long-lived sensor network. EAP achieves a</abstract>
+	</publication>
+	<publication>
+		<title>Traffic Adaptive MAC Protocol for Wireless Sensor Network</title>
+		<year>2005</year>
+		<authors>hai-gang gong,ming liu,yinchi mao,li xie</authors>
+		<jconf>International Conference on Computer Network and Mobile Computing</jconf>
+		<label>550</label>
+		<keyword>Mac Protocol;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Distributed Power-Efficient Data Gathering and Aggregation Protocol for Wireless Sensor Networks</title>
+		<year>2005</year>
+		<authors>ming liu,jiannong cao,hai-gang gong,li xie</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>550</label>
+		<keyword>Data Gathering;Energy Efficient;Power Efficiency;Sensor Network;Spanning Tree;Base Station;Cluster Head;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: This paper proposes a distributed energy-efficient data gathering and aggregation protocol, in which a node,  according  to  its  residual  energy  and  the  strength  of  the  signal  received  from  its  neighboring  nodes,  independently makes its decision to compete for becoming a cluster head. In addition, assume that the inter-cluster communication  data  in  a  multi-hop  manner  is  sent  to  the  designated</abstract>
+	</publication>
+	<publication>
+		<title>Coverage Analysis for Wireless Sensor Networks</title>
+		<year>2005</year>
+		<authors>ming liu,jiannong cao,wei lou,li xie</authors>
+		<jconf>Mobile Sensor Networks</jconf>
+		<label>550</label>
+		<keyword>Coverage Analysis;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling the Topology for Cluster-Based Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>qing-feng pan,daoxu chen,li xie</authors>
+		<jconf></jconf>
+		<label>550</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Locating Nodes in Mobile Sensor Networks More Accurately and Faster</title>
+		<year>2008</year>
+		<authors>shigeng zhang,jiannong cao,daoxu chen</authors>
+		<jconf></jconf>
+		<label>550</label>
+		<keyword>Indexing Terms;Local Algorithm;Mobile Sensor Network;Position Estimation;Posterior Distribution;Sensor Network;Sequential Monte Carlo;Sequential Monte Carlo Method;Wireless Sensor Net Work;</keyword>
+		<organization>null</organization>
+		<abstract>Localization in mobile sensor networks is more chal- lenging than in static sensor networks because mobility increases the uncertainty of nodes' positions. Most existing localization algorithms in mobile sensor networks use Sequential Monte Carlo (SMC) methods due to their simplicity in implementation. How- ever, SMC methods are very time-consuming because they need to keep sampling and filtering until enough samples</abstract>
+	</publication>
+	<publication>
+		<title>A Location-Unaware Connected Coverage Protocol in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>yingchi mao,daoxu chen</authors>
+		<jconf>Ubiquitous Intelligence and Computing</jconf>
+		<label>550</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Clustering-Based Approximation Scheme for In-Network Aggregation over Sensor Networks</title>
+		<year>2007</year>
+		<authors>lei xie,daoxu chen,li xie</authors>
+		<jconf>Ubiquitous Intelligence and Computing</jconf>
+		<label>550</label>
+		<keyword>Approximation Scheme;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Interference Free Cluster-Based TDMA Protocol for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>hai-gang gong,ming liu,xiaomin wang,li xie</authors>
+		<jconf>Wireless Algorithms, Systems, and Applications</jconf>
+		<label>550</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-Efficient Multi-query Optimization over Large-Scale Sensor Networks</title>
+		<year>2006</year>
+		<authors>lei xie,sanglu lu,li xie,daoxu chen</authors>
+		<jconf>Wireless Algorithms, Systems, and Applications</jconf>
+		<label>550</label>
+		<keyword>Energy Efficient;Large Scale;Query Optimization;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>EEFF: a cross-layer designed energy efficient fast forwarding protocol for wireless sensor networks</title>
+		<year>2009</year>
+		<authors>tao zhang,daoxu chen,li xie</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>550</label>
+		<keyword>Energy Efficient;Cross Layer Design;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On accuracy of region based localization algorithms for wireless sensor networks</title>
+		<year>2010</year>
+		<authors>shigeng zhang,jiannong cao,yingpei zeng,zhuo li,daoxu chen</authors>
+		<jconf>Computer Communications</jconf>
+		<label>550</label>
+		<keyword>Local Algorithm;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A traffic aware, energy-efficient MAC protocol for Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>hai-gang gong,jiannong cao,ming liu,li xie</authors>
+		<jconf>International Journal of Ad Hoc and Ubiquitous Computing</jconf>
+		<label>550</label>
+		<keyword>Energy Efficient;Mac Protocol;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Accurate and Energy-Efficient Range-Free Localization for Mobile Sensor Networks</title>
+		<year>2010</year>
+		<authors>shigeng zhang,jiannong cao,daoxu chen</authors>
+		<jconf>IEEE Transactions on Mobile Computing</jconf>
+		<label>550</label>
+		<keyword>Energy Efficient;Mobile Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

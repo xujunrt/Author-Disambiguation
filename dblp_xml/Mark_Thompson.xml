@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mark Thompson</FullName>
+	<publication>
+		<title>Learning to value the Bardic tradition: Culture, communication and organisational knowledge</title>
+		<year>2001</year>
+		<authors>geoff walsham</authors>
+		<jconf>European Conference on Information Systems</jconf>
+		<label>624</label>
+		<keyword>Empirical Study;Information and Communication Technology;organisational culture;Shared Knowledge;</keyword>
+		<organization>null</organization>
+		<abstract>Recent work on organisational knowledge suggests that, in addition to cultivating the 'knowledge spiral', organisations need to focus on facilitating forms of 'knowing' which are deeply rooted in their own contexts and which reside in the communicative act itself. The implications are that organisations seeking to implement so-called 'knowledge management' systems should invest not so much in constructing knowledge repositories</abstract>
+	</publication>
+	<publication>
+		<title>Application of Multi Objective Evolutionary Algorithms to Analogue Filter Tuning</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Evolutionary Multi-Criterion Optimization</jconf>
+		<label>624</label>
+		<keyword>Multi Objective Evolutionary Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ICT, Power, and Developmental Discourse: A Critical Analysis</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>IFIP WG8.2 Publications</jconf>
+		<label>624</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation and evaluation of shufflenet, gemnet and de bruijn graph logical network topologies</title>
+		<year>2004</year>
+		<authors>tekiner firat,zabih ghassemlooy,samir al-khayatt</authors>
+		<jconf>Parallel and Distributed Computing and Networks</jconf>
+		<label>624</label>
+		<keyword>de bruijn graph;Generic Model;Interconnection Network;Network Topology;Packet Delay;Programming Language;Routing Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract –In  this  paper,  a  generic  model  for  implementing,logical  interconnection ,topologies ,in  software has  been  proposed ,in  order  to  investigate  the  performance,of the logical topologies and their routing algorithms for packet based synchronous,networks. This model,is  generic ,for  synchronous ,transfer  modes ,and  therefore can  be  used ,in  implementing ,any  logical  topology by  using ,any  programming ,language.  Three  topologies have ,been ,investigated</abstract>
+	</publication>
+</person>

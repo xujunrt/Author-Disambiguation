@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Guang Cheng</FullName>
+	<publication>
+		<title>Non-rigid Registration of High Angular Resolution Diffusion Images Represented by Gaussian Mixture Fields</title>
+		<year>2009</year>
+		<authors>baba c. vemuri,paul r. carney,thomas h. mareci</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>261</label>
+		<keyword>Gaussian Mixture;Non-rigid Registration;High Angular Resolution Diffusion Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

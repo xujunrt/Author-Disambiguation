@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qiang Liu</FullName>
+	<publication>
+		<title>Repairing the Missing isa Structure of Ontologies</title>
+		<year>2009</year>
+		<authors>patrick lambrix,he tan</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>834</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RepOSE: An Environment for Repairing Missing Ontological Structure</title>
+		<year>2009</year>
+		<authors>patrick lambrix,he tan</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>834</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A System for Debugging Missing Isa Structure in Networked Ontologies</title>
+		<year>2010</year>
+		<authors>patrick lambrix</authors>
+		<jconf>Data Integration in the Life Sciences</jconf>
+		<label>834</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Partial Reference Alignments to Align Ontologies</title>
+		<year>2009</year>
+		<authors>patrick lambrix</authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>834</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Debugging the Missing IsA Structure of Networked Ontologies</title>
+		<year>2010</year>
+		<authors>patrick lambrix</authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>834</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SAMBO and SAMBOdtf Results for the Ontology Alignment Evaluation Initiative 2008</title>
+		<year>2008</year>
+		<authors>patrick lambrix,he tan</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>834</label>
+		<keyword>Ontology Alignment;String Matching;Ontology Alignment Evaluation Initiative;</keyword>
+		<organization>null</organization>
+		<abstract>This article describes a base system for ontology alignment, SAMBO, and an extension, SAMBOdtf. We present their results for the benchmark, anatomy and FAO tasks in the 2008 Ontology Alignment Evaluation Initiative. For the benchmark and FAO tasks SAMBO uses a strategy based on string matching as well as the use of a thesaurus. It obtains good results in many</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mark Nicholson</FullName>
+	<publication>
+		<title>Pen-Based Gestures: An Approach to Reducing Screen Clutter in Mobile Computing</title>
+		<year>2004</year>
+		<authors>paul vickers</authors>
+		<jconf>Mobile HCI</jconf>
+		<label>622</label>
+		<keyword>Mobile Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

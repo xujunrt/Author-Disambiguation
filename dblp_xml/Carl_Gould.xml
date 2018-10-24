@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Carl Gould</FullName>
+	<publication>
+		<title>Rapid steady-state analysis of cll resonant power converters</title>
+		<year>2004</year>
+		<authors>c. m. bingham,d. a. stone,m. p. foster</authors>
+		<jconf>Circuits, Signals, and Systems</jconf>
+		<label>116</label>
+		<keyword>Power Converter;Steady State Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

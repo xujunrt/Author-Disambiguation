@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J&amp;ouml;rg M&amp;uuml;ller</FullName>
+	<publication>
+		<title>A probabilistic sonar sensor model for robust localization of a small-size blimp in indoor environments using a particle filter</title>
+		<year>2009</year>
+		<authors>axel rottmann,leonhard m. reindl,wolfram burgard</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>323</label>
+		<keyword>Indoor Environment;Monte Carlo Localization;Particle Filter;Sensor Model;Ultrasound;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, autonomous miniature airships have gained increased interest in the robotics community. This is due to their ability to move safely and hover for extended periods of time. The major constraints of miniature airships come from their limited payload which introduces substantial constraints on their perceptional capabilities. In this paper, we consider the problem of localizing a miniature</abstract>
+	</publication>
+	<publication>
+		<title>Improved Monte Carlo localization of autonomous robots through simultaneous estimation of motion model parameters</title>
+		<year>2010</year>
+		<authors>christoph gonsior,wolfram burgard</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>323</label>
+		<keyword>Autonomous Robot;Monte Carlo Localization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

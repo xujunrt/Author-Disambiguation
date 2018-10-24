@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thanh Tran</FullName>
+	<publication>
+		<title>Wavelet-based preconditioners for boundary integral equations</title>
+		<year>1998</year>
+		<authors>ernst p. stephan,stefan zaprianov</authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>1005</label>
+		<keyword>Boundary Integral Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two-Level Additive Schwarz Preconditioners for the hp Version of the Galerkin Boundary Element Method for 2-d Problems</title>
+		<year>2001</year>
+		<authors>ernst p. stephan</authors>
+		<jconf>Computing</jconf>
+		<label>1005</label>
+		<keyword>additive schwarz preconditioner;Boundary Element Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multilevel additive Schwarz method for the hp version of the Galerkin boundary element method</title>
+		<year>1998</year>
+		<authors>norbert heuer,ernst p. stephan</authors>
+		<jconf>Mathematics of Computation</jconf>
+		<label>1005</label>
+		<keyword>Additive Schwarz Method;Blow Up;Boundary Element Method;Boundary Integral Equation Method;Condition Number;Multilevel Method;Preconditioned Conjugate Gradient;Singular Integral Equation;</keyword>
+		<organization>null</organization>
+		<abstract>We study a multilevel additive Schwarz method for the h-p version of the Galerkin boundary element method with geometrically graded meshes. Both hypersingular and weakly singular integral equations of the rst kind are considered. As it is well known the h-p version with geometric meshes con- verges exponentially fast in the energy norm. However, the condition number of the Galerkin</abstract>
+	</publication>
+</person>

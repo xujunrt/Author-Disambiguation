@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lars E. Olson</FullName>
+	<publication>
+		<title>Microfocal X-ray computed tomography post-processing operations for optimizing reconstruction volumes of stented arteries during 3D computational fluid dynamics modeling</title>
+		<year>2005</year>
+		<authors>john f. ladisa jr.,kristina m. ropella,robert c. molthen,steven t. haworth,judy r. kersten,david c. warltier,paul s. pagel</authors>
+		<jconf>Computer Methods and Programs in Biomedicine</jconf>
+		<label>503</label>
+		<keyword>Computation Fluid Dynamics;X-ray Computed Tomography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

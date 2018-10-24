@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sachin Agarwal</FullName>
+	<publication>
+		<title>Carnival - A low cost solution to Interactive Movie on Demand System</title>
+		<year>2005</year>
+		<authors>raman mittal,aayush deep garg,sudip sanyal</authors>
+		<jconf>International Conference on Computational Intelligence forModelling, Control and Automation</jconf>
+		<label>910</label>
+		<keyword>Demand Systems;File System;Personal Computer;</keyword>
+		<organization>null</organization>
+		<abstract>This paper aims at describing Carnival, a movie on demand system that provides Movie on demand service by implementing low cost storage architecture for movie storage server. Carnival uses personal computers with ordinary configuration, as movie storage servers. Since RAM will become a major bottleneck in such storage servers, hence optimization from the view of memory should be a primary</abstract>
+	</publication>
+	<publication>
+		<title>A Fuzzy Logic Approach to Search Results - Personalization by Tracking User - Web Navigation Pattern and Psychology</title>
+		<year>2005</year>
+		<authors>pallavi agarwal</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>910</label>
+		<keyword>Fuzzy Logic;Web Navigation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Pragmatic Solution to an Indian Accented English Speech Synthesizer Using Residual Excited Linear Predictive Coded Voice</title>
+		<year>2005</year>
+		<authors>pallavi agarwal</authors>
+		<jconf>Indian International Conference on Artificial Intelligence</jconf>
+		<label>910</label>
+		<keyword>Linear Prediction Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Semantic Features to Improve Task Identification in Email Messages</title>
+		<year>2008</year>
+		<authors>shinjae yoo,donna gates,lori s. levin,simon fung,michael freed</authors>
+		<jconf>Applications of Natural Language to Data Bases</jconf>
+		<label>910</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multimedia Systems for Art and Culture: A Case Study of Brihadisvara Temple</title>
+		<year>1997</year>
+		<authors>anil k. jain,sanjay goel,vipin mittal,hariom sharma,ranjeev mahindru</authors>
+		<jconf>Storage and Retrieval for Image and Video Databases</jconf>
+		<label>911</label>
+		<keyword>Case Study;Multimedia Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

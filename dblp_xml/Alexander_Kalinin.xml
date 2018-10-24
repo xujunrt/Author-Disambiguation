@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander Kalinin</FullName>
+	<publication>
+		<title>Usage of Instrument of Neural Networks in Control of Complex Chemical-Technological Processes</title>
+		<year>2000</year>
+		<authors>l. nechaeva,e. soltadov,symon podvalny</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>24</label>
+		<keyword>Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multivariate Distribution Generation</title>
+		<year>2001</year>
+		<authors>symon podvalny,irina chernikova</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>24</label>
+		<keyword>Multivariate Distribution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

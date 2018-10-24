@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Schiffer</FullName>
+	<publication>
+		<title>A Fuzzy Set Semantics for Qualitative Fluents in the Situation Calculus</title>
+		<year>2008</year>
+		<authors>alexander ferrein,gerhard lakemeyer</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>974</label>
+		<keyword>Agent Programming;Autonomous Robot;Fuzzy Set;Situation Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Specifying the behavior of an intelligent autonomous robot or agent is a non-trivial task. The question is: how can the knowledge of the domain expert be encoded in the agent program? Qualitative rep- resentations in general facilitate to express the knowledge of a domain expert. In this paper, we propose a semantics for qualitative fluents in the situation calculus. Our</abstract>
+	</publication>
+	<publication>
+		<title>Randomized trees for real-time one-step face detection and recognition</title>
+		<year>2008</year>
+		<authors>vaishak belle,thomas deselaers</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>974</label>
+		<keyword>Face Detection;Face Recognition;Mobile Service;Random Tree;Support Vector Machine;Random Forest;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a system for detecting and recognizing faces in images in real-time which is able to learn new iden- tities in instants. In mobile service robotics, interac- tion with persons is becoming increasingly important, real-time performance is required and the introduction of new persons is a necessary feature for many applica- tions. Although face detection and face recognition are</abstract>
+	</publication>
+	<publication>
+		<title>A Robust Speech Recognition System for Service-Robotics Applications</title>
+		<year>2008</year>
+		<authors>masrur doostdar,gerhard lakemeyer</authors>
+		<jconf>RoboCup</jconf>
+		<label>974</label>
+		<keyword>False Positive;Mobile Service;Robust Speech Recognition;Service Robot;Speech Detection;Speech Recognition;Off The Shelf;Speaker Independent;</keyword>
+		<organization>null</organization>
+		<abstract>Mobile service robots in human environments need to have versatile abilities to perceive and to interact with their environment. Spoken language is a natural way to interact with a robot, in general, and to instruct it, in particula r. However, most existing speech recognition systems often suffer from high envi- ronmental noise present in the target domain and they require</abstract>
+	</publication>
+	<publication>
+		<title>Robust Collision Avoidance in Unknown Domestic Environments</title>
+		<year>2009</year>
+		<authors>stefan jacobs,alexander ferrein,daniel beck,gerhard lakemeyer</authors>
+		<jconf>RoboCup</jconf>
+		<label>974</label>
+		<keyword>Collision Avoidance;Indoor Environment;Laser Range Finder;Service Robot;</keyword>
+		<organization>null</organization>
+		<abstract>Service robots operating in domestic indoor environments must be endowed with a safe collision avoidance and navigation method that is reactive enough to avoid contacts with the furniture of the apart- ment and humans that suddenly appear in front of the robot. Moreover, the method should be local, i.e. should not need a predefined map of the environment. In this</abstract>
+	</publication>
+</person>

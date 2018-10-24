@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yang Liu</FullName>
+	<publication>
+		<title>Directed Feedback Vertex Set Problem is FPT</title>
+		<year>2007</year>
+		<authors>jianer chen,songjian lu</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>1149</label>
+		<keyword>Directed Graph;Feedback Vertex Set;Fixed Parameter Tractable;Network Flow;</keyword>
+		<organization>null</organization>
+		<abstract>To decide if the parameterized feedback vertex set problem in directed graph is fixed-parameter tractable is a long standing open problem. In this paper, we prove that the parameterized feed- back vertex set in directed graph is fixed-parameter tractable and give the first FPT algorithm of running time O((1.48k)knO(1)) for it. As the feedback arc set problem in directed graph</abstract>
+	</publication>
+	<publication>
+		<title>Greedy Localization and Color-Coding: Improved Matching and Packing Algorithms</title>
+		<year>2006</year>
+		<authors>songjian lu,jianer chen,sing-hoi sze</authors>
+		<jconf>International Workshop on Parameterized and Exact Computation</jconf>
+		<label>1149</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fixed-parameter algorithm for the directed feedback vertex set problem</title>
+		<year>2008</year>
+		<authors>jianer chen,songjian lu,barry o'sullivan,igor razgon</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>1149</label>
+		<keyword>Directed Graph;Feedback Vertex Set;</keyword>
+		<organization>null</organization>
+		<abstract>The (parameterized) feedback vertex set problem on di- rected graphs, which we refer to as the dfvs problem, is dened as follows: given a directed graph</abstract>
+	</publication>
+	<publication>
+		<title>On Feedback Vertex Set New Measure and New Structures</title>
+		<year>2010</year>
+		<authors>yixin cao,jianer chen</authors>
+		<jconf>Scandinavian Workshop on Algorithm Theory</jconf>
+		<label>1149</label>
+		<keyword>Feedback Vertex Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Deterministic Algorithms for Weighted Matching and Packing Problems</title>
+		<year>2009</year>
+		<authors>qilong feng,songjian lu,jianxin wang</authors>
+		<jconf>Theory and Applications of Models of Computation</jconf>
+		<label>1149</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Algorithms for the Feedback Vertex Set Problems</title>
+		<year>2007</year>
+		<authors>jianer chen,fedor v. fomin,songjian lu,yngve villanger</authors>
+		<jconf>Workshop on Algorithms and Data Structures</jconf>
+		<label>1149</label>
+		<keyword>Feedback Vertex Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Improved SAT Algorithm in Terms of Formula Length</title>
+		<year>2009</year>
+		<authors>jianer chen</authors>
+		<jconf>Workshop on Algorithms and Data Structures</jconf>
+		<label>1149</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Improved Parameterized Algorithm for the Minimum Node Multiway Cut Problem</title>
+		<year>2009</year>
+		<authors>jianer chen,songjian lu</authors>
+		<jconf>Algorithmica</jconf>
+		<label>1149</label>
+		<keyword>parameterized algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Improved Parameterized Algorithm for the Minimum Node Multiway Cut Problem</title>
+		<year>2009</year>
+		<authors>jianer chen,songjian lu</authors>
+		<jconf>Algorithmica</jconf>
+		<label>1149</label>
+		<keyword>parameterized algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Feedback Vertex Set, New Measure and New Structures</title>
+		<year>2010</year>
+		<authors>yixin cao,jianer chen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1149</label>
+		<keyword>Feedback Vertex Set;parameterized algorithm;parameterized complexity;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We study the parameterized complexity of the {\sc feedback vertex set} problem ({\sc fvs}) on undirected graphs. We approach the problem by considering a variation of it, the {\sc disjoint feedback vertex set} problem ({\sc disjoint-fvs}), which finds a disjoint feedback vertex set of size $k$ when a feedback vertex set of a graph is given. We show that {\sc</abstract>
+	</publication>
+	<publication>
+		<title>A fixed-parameter algorithm for the directed feedback vertex set problem</title>
+		<year>2008</year>
+		<authors>jianer chen,songjian lu,barry o'sullivan,igor razgon</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>1149</label>
+		<keyword>Directed Graph;Feedback Vertex Set;</keyword>
+		<organization>null</organization>
+		<abstract>The (parameterized) feedback vertex set problem on di- rected graphs, which we refer to as the dfvs problem, is dened as follows: given a directed graph</abstract>
+	</publication>
+	<publication>
+		<title>Improved algorithms for feedback vertex set problems</title>
+		<year>2008</year>
+		<authors>jianer chen,fedor v. fomin,songjian lu,yngve villanger</authors>
+		<jconf>Journal of Computer and System Sciences</jconf>
+		<label>1149</label>
+		<keyword>Feedback Vertex Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Developing Model Checkers Using PAT</title>
+		<year>2010</year>
+		<authors>jun sun,jin song dong</authors>
+		<jconf>Automated Technology for Verification and Analysis</jconf>
+		<label>1150</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Checking Linearizability via Refinement</title>
+		<year>2009</year>
+		<authors>wei chen,yanhong a. liu,jun sun</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>1150</label>
+		<keyword>Concurrent Process;Model Checking;Search Space;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>Linearizability is an important correctness criterion for implementa- tions of concurrent objects. Automatic checking of linearizability is challenging because it requires checking that 1) all executions of concurrent operations be serializable, and 2) the serialized executions be correct with respect to the se- quential semantics. This paper describes a new method to automatically check linearizability based on renement relations from</abstract>
+	</publication>
+	<publication>
+		<title>Verification of Computation Orchestration Via Timed Automata</title>
+		<year>2006</year>
+		<authors>jin song dong,jun sun,xian zhang</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>1150</label>
+		<keyword>Maturity Model;Model Checking;Operational Semantics;Programming Model;Timed Automata;Tool Support;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, a promising programming model called Orc has been pro- posed to support a structured way of orchestrating distributed web services. Orc is intuitive because it offers concise constructors to manage concurrent commu- nication, time-outs, priorities, failure of sites or communication and so forth. The semantics of Orc is also precisely defined. However, there is no verification tool available to</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Multi-core Model Checking Fairness Enhanced Systems</title>
+		<year>2009</year>
+		<authors>jun sun,jin song dong</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>1150</label>
+		<keyword>Automated Verification;Detection Algorithm;Model Checking;Parallel Algorithm;Parallel Models;Partial Order Reduction;Scaling Up;Search Space;Shared Memory;State Space Reduction;Strongly Connected Component;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>Rapid development in hardware industry has brought the prevalence of multi-core systems with shared-memory, which enabled the speedup of various tasks by using parallel algorithms. The Linear Tempo- ral Logic (LTL) model checking problem is one of the difficult problems to be parallelized or scaled up to multi-core. In this work, we propose an on- the-fly parallel model checking algorithm</abstract>
+	</publication>
+	<publication>
+		<title>An analyzer for extended compositional process algebras</title>
+		<year>2008</year>
+		<authors>jun sun,jin song dong</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>1150</label>
+		<keyword>Interactive System;Linear Temporal Logic;Model Checking;Modeling and Simulation;Sat Solver;Support System;System Modeling;System Simulation;On The Fly;Process Algebra;</keyword>
+		<organization>null</organization>
+		<abstract>System simulation and verification become more demanding as complexity grows. PAT is developed as an interactive system to support composing, simulating and reasoning of process algebra with various extensions like fairness events, global variables and parameterized processes. PAT provides user friendly interfaces to support system modeling and simulation. Furthermore, it embeds two complementing model checking techniques catering for different systems</abstract>
+	</publication>
+	<publication>
+		<title>Formal Verification of Scalable NonZero Indicators</title>
+		<year>2009</year>
+		<authors>shao jie zhang,jun sun,jin song dong,wei chen,yanhong a. liu</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>1150</label>
+		<keyword>Concurrent Data Structures;Formal Verification;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>Concurrent algorithms are notoriously difficult to design correctly, and high performance algorithms that make little or no use of locks even more so. In this paper, we describe a formal verification of a recent concurrent data structure Scalable NonZero Indicators. The algorithm supports in- crementing, decrementing, and querying the shared counter in an efficient and linearizable way without blocking. The</abstract>
+	</publication>
+	<publication>
+		<title>Discovering Anomalies in Semantic Web Rules</title>
+		<year>2010</year>
+		<authors>yuzhang feng,yuan-fang li,daqing zhang</authors>
+		<jconf></jconf>
+		<label>1150</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Checking a Lazy Concurrent List-Based Set Algorithm</title>
+		<year>2010</year>
+		<authors>shao jie zhang</authors>
+		<jconf></jconf>
+		<label>1150</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling and Analyzing Timed Security Protocols Using Extended Timed CSP</title>
+		<year>2010</year>
+		<authors>xian zhang,mikhail auguston</authors>
+		<jconf></jconf>
+		<label>1150</label>
+		<keyword>Security Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Verification of Population Ring Protocols in PAT</title>
+		<year>2009</year>
+		<authors>jun pang,jun sun,jianhua zhao</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>1150</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Algorithmic Design Using Object-Z for Twig XML Queries Evaluation</title>
+		<year>2006</year>
+		<authors>jun sun</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>1150</label>
+		<keyword>Algorithm Design;Query Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

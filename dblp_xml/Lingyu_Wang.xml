@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lingyu Wang</FullName>
+	<publication>
+		<title>Near and Far Infrared Imaging for Vein Pattern Biometrics</title>
+		<year>2006</year>
+		<authors>graham leedham</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>569</label>
+		<keyword>Far Infrared;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Watershed Algorithmic Approach for Gray-Scale Skeletonization in Thermal Vein Pattern Biometrics</title>
+		<year>2006</year>
+		<authors>graham leedham</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>569</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Thermal Hand Vein Pattern Verification System</title>
+		<year>2005</year>
+		<authors>graham leedham</authors>
+		<jconf>Advances in Pattern Recognition</jconf>
+		<label>569</label>
+		<keyword>hausdorff distance;Image Enhancement;Thermal Imaging;</keyword>
+		<organization>null</organization>
+		<abstract>Many biometrics, such as face, fingerprint and iris images, have been studied extensively for personal verification purposes in the past few decades. However, verification using vein patterns is less devel- oped compared to other human traits. A new personal verification system using the thermal-imaged vein pattern in the back of the hand is pre- sented in the paper. The system</abstract>
+	</publication>
+	<publication>
+		<title>Minutiae feature analysis for infrared hand vein pattern biometrics</title>
+		<year>2008</year>
+		<authors>graham leedham,david siu-yeung cho</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>569</label>
+		<keyword>Feature Analysis;Infrared;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

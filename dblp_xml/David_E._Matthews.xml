@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David E. Matthews</FullName>
+	<publication>
+		<title>Life and Death in Markov Deterministic Tabled OL Systems</title>
+		<year>1981</year>
+		<authors>helmut jürgensen,derick wood</authors>
+		<jconf>Information and Computation/information and Control</jconf>
+		<label>190</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Entropy and Higher Moments of Information</title>
+		<year>2010</year>
+		<authors>helmut jürgensen</authors>
+		<jconf>Journal of Universal Computer Science</jconf>
+		<label>190</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

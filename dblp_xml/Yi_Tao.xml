@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Tao</FullName>
+	<publication>
+		<title>A Compromised Large-Scale Neighborhood Search Heuristic for Cargo Loading Planning</title>
+		<year>2007</year>
+		<authors>yanzhi li,fan wang</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>1176</label>
+		<keyword>Large Scale;Neighborhood Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Survey on Vehicle Routing Problem with Loading Constraints</title>
+		<year>2009</year>
+		<authors>fan wang,ning shi</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>1176</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A compromised large-scale neighborhood search heuristic for capacitated air cargo loading planning</title>
+		<year>2009</year>
+		<authors>yanzhi li,fan wang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>1176</label>
+		<keyword>Large Scale;Neighborhood Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Theoretical investigation on hermeticity testing of MEMS packages based on MIL-STD-883E</title>
+		<year>2005</year>
+		<authors>ajay p. malshe</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>1177</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selective bonding and encapsulation for wafer-level vacuum packaging of MEMS and related micro systems</title>
+		<year>2004</year>
+		<authors>ajay p. malshe,william d. brown</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>1177</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Multiple-Domain Evaluation of Stratified Case-Based Reasoning</title>
+		<year>1999</year>
+		<authors>karl branting</authors>
+		<jconf>Case-Based Reasoning and Development</jconf>
+		<label>1178</label>
+		<keyword>Case Base Reasoning;Combinatorial Optimization;Empirical Evaluation;Indexation;Problem Solving;Search Cost;</keyword>
+		<organization>null</organization>
+		<abstract>Stratified case-based reasoning (SCBR) is a technique in which case abstractions are used to assist case retrieval, matching, and adaptation. Previous work has shown that SCBR can significantly decrease the computational expense required for retrieval, matching, and adaptation under a variety of different problem conditions. This paper extends this work to two new domains: a problem in combinatorial optimization, sorting</abstract>
+	</publication>
+</person>

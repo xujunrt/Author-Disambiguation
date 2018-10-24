@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chris J. Taylor</FullName>
+	<publication>
+		<title>A Multi-agent System for MRI Brain Segmentation</title>
+		<year>1999</year>
+		<authors>laurence germond,michel dojat,catherine garbay</authors>
+		<jconf>Conference on Artificial Intelligence in Medicine and Medical Decision Making</jconf>
+		<label>139</label>
+		<keyword>Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Services for the DDSM and Digital Mammography Research</title>
+		<year>2006</year>
+		<authors>chris rose,daniele turi,alan williams,katy wolstencroft</authors>
+		<jconf>Digital Mammography</jconf>
+		<label>139</label>
+		<keyword>Digital Mammography;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A cooperative framework for segmentation of MRI brain scans</title>
+		<year>2000</year>
+		<authors>laurence germond,michel dojat,catherine garbay</authors>
+		<jconf>Artificial Intelligence in Medicine</jconf>
+		<label>139</label>
+		<keyword>Automatic Segmentation;Brain Structure;Deformable Model;Dynamic Adaptation;Human Brain;Statistical Model;Multi Agent System;Seeded Region Growing;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Automatic,segmentation,of MRI brain scans is a complex,task for two main reasons: the large variability of the human brain anatomy, which limits the use of general knowledge and, inherent to MRI acquisition, the artifacts present in the images,that are difficult to process. To tackle these difficulties we propose to mix, in a cooperative framework, several types of information and knowledge,provided</abstract>
+	</publication>
+	<publication>
+		<title>The MGED Ontology: a resource for semantics-based description of microarray experiments</title>
+		<year>2006</year>
+		<authors>patricia l. whetzel,helen e. parkinson,helen c. causton,liju fan,jennifer fostel,gilberto fragoso,laurence game,mervi heiskanen,norman morrison,philippe rocca-serra,susanna-assunta sansone,joseph white,christian j. stoeckert jr.</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>139</label>
+		<keyword>Data Exchange;Data Management;Data Representation;Gene Expression;Gene Expression Data;Indexation;Microarray Data;Object Model;Working Group;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: The generation of large amounts of microarray data and the need to share these data bring challenges for both data manage- ment and annotation and highlights the need for standards. MIAME specifies the minimum information needed to describe a microarray experiment and the Microarray Gene Expression Object Model (MAGE-OM) and resulting MAGE-ML provide a mechanism to stand- ardize data</abstract>
+	</publication>
+</person>

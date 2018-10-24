@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Lange</FullName>
+	<publication>
+		<title>Holistic Body Tracking for Gestural Interfaces</title>
+		<year>2003</year>
+		<authors>thomas hermann,helge ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<label>144</label>
+		<keyword>gestural interface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

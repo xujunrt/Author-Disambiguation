@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bj&amp;ouml;rn Decker</FullName>
+	<publication>
+		<title>Reconstructing Control Flow from Predicated Assembly Code</title>
+		<year>2003</year>
+		<authors>daniel kästner</authors>
+		<jconf>Software and Compilers for Embedded Systems</jconf>
+		<label>94</label>
+		<keyword>Control Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

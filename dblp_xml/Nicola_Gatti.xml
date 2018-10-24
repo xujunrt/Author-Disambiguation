@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nicola Gatti</FullName>
+	<publication>
+		<title>Software architecture for the future information market</title>
+		<year>1995</year>
+		<authors>martin d. chapman,hendrik berndt</authors>
+		<jconf>Computer Communications</jconf>
+		<label>780</label>
+		<keyword>Information Market;Software Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

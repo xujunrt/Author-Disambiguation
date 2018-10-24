@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fernando Pereira</FullName>
+	<publication>
+		<title>Visual Interactive Subgroup Discovery with Numerical Properties of Interest</title>
+		<year>2006</year>
+		<authors>alípio mário jorge,paulo j. azevedo</authors>
+		<jconf>Discovery Science</jconf>
+		<label>240</label>
+		<keyword>Association Rule;Biological Control;Goodness of Fit Test;Probability Distribution;Satisfiability;Subgroup Discovery;Visual Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Subgroup discovery consists in finding subsets of individuals from a given population which have distinctive collective properties with regard to one or more properties of interest. The interest of a subgroup can be objectively assessed using appropriate statistics, but it can also be evaluated by a data analyst or domain expert. In this paper we pro- pose an approach to</abstract>
+	</publication>
+	<publication>
+		<title>A Tool for Interactive Subgroup Discovery Using Distribution Rules</title>
+		<year>2007</year>
+		<authors>joel p. lucas,alípio mário jorge,ana m. pernas,amauri a. machado</authors>
+		<jconf>Portuguese Conference on Artificial Intelligence</jconf>
+		<label>240</label>
+		<keyword>Subgroup Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distribution Rules with Numeric Attributes of Interest</title>
+		<year>2006</year>
+		<authors>alípio mário jorge,paulo j. azevedo</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>240</label>
+		<keyword>Association Rule;Frequent Pattern Discovery;Visualization Technique;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we introduce distribution rules, a kind of as- sociation rules with a distribution on the consequent. Distribution rules are related to quantitative association rules but can be seen as a more fundamental concept, useful for learning distributions. We formalize the main concepts and indicate applications to tasks such as frequent pattern discovery, sub group discovery and forecasting.</abstract>
+	</publication>
+</person>

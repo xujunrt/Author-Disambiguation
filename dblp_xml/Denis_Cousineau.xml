@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Denis Cousineau</FullName>
+	<publication>
+		<title>Embedding Pure Type Systems in the Lambda-Pi-Calculus Modulo</title>
+		<year>2007</year>
+		<authors>gilles dowek</authors>
+		<jconf>Typed Lambda Calculus and Applications</jconf>
+		<label>205</label>
+		<keyword>Calculus of Constructions;Dependent Types;Lambda Calculus;Logical Framework;Polymorphism;Pure Type Systems;Rewrite Rule;Rewrite Systems;Type Theory;</keyword>
+		<organization>null</organization>
+		<abstract>The lambda-Pi-calculus allows to express proofs of minimal predicate logic. It can be extended, in a very simple way, by adding com- putation rules. This leads to the lambda-Pi-calculus modulo. We show in this paper that this simple extension is surprisingly expressive and, in particular, that all functional Pure Type Systems, such as the system F, or the Calculus of</abstract>
+	</publication>
+</person>

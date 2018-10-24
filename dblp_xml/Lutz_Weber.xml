@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lutz Weber</FullName>
+	<publication>
+		<title>Schnelle Generierung von SPICE-Modellen für den Frequenzberech auf der Basis von Streu-Parametern am Beispiel der EMV-Prüfmethode Stromeinspeisung (BCI)</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Elektromagnetische Vertr?glichkeit</jconf>
+		<label>594</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

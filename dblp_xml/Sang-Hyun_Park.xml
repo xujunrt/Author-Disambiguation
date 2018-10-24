@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sang-Hyun Park</FullName>
+	<publication>
+		<title>An Effective, Efficient XML Data Broadcasting Method in a Mobile Wireless Network</title>
+		<year>2006</year>
+		<authors>jae-ho choi,sangkeun lee</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>916</label>
+		<keyword>Data Broadcast;Mobile Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PhraseRank for document clustering: reweighting the weight of phrase</title>
+		<year>2009</year>
+		<authors>yoon-ho cho,sangkeun lee</authors>
+		<jconf>International Conference on Interaction Sciences</jconf>
+		<label>916</label>
+		<keyword>Document Clustering;Document Model;Hierarchical Clustering;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>Given a document collection, a hierarchical clustering algorithm groups several clusters. Recent works have identified the set of overlap phrases as useful features in hierarchical document clustering. However, they did not consider the relationship between co-occurred overlap phrases in a document and degrees of opposite relationships between overlap phrases. In this paper, we propose new algorithms for effective similarity measure</abstract>
+	</publication>
+	<publication>
+		<title>XIR: cache invalidation strategy for xml data in mobile environments</title>
+		<year>2007</year>
+		<authors>jae-ho choi,myong-soo lee,yon dohn chung,sangkeun lee</authors>
+		<jconf>ACM International Workshop on Data Engineering for Wireless and Mobile Access</jconf>
+		<label>916</label>
+		<keyword>Extensible Markup Language;Invalidation Report;Mobile Environment;</keyword>
+		<organization>null</organization>
+		<abstract>As eXtensible Markup Language becomes ubiquitous, XML transmission efficiency has been emerged as an important issue. The research area of XML is currently expanding into wireless environments, however, most previous works for XML broadcasting in wireless environments have not considered updating data. In this paper, we concern XML data update in wireless broadcast environments. We propose a cache invalidation strategy</abstract>
+	</publication>
+	<publication>
+		<title>XIR: Efficient Cache Invalidation Strategies for XML Data in Wireless Environments</title>
+		<year>2009</year>
+		<authors>jae-ho choi,myong-soo lee,sangkeun lee</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>916</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

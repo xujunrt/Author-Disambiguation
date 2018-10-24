@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Massimo Santini</FullName>
+	<publication>
+		<title>Principal Component Analysis of the P-Wave - Quantification of Not-Dipolar Components of Atrial Depolarization</title>
+		<year>2008</year>
+		<authors>federica censi,giovanni calcagnini,pietro bartolini,chiara ricci,renato pietro ricci</authors>
+		<jconf>International Joint Conference on Biomedical Engineering Systems and Technologies</jconf>
+		<label>665</label>
+		<keyword>Principal Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

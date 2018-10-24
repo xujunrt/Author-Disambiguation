@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shujing Wang</FullName>
+	<publication>
+		<title>A Flexible Electrode Array for Acute In-Vitro Stimulating on Animal</title>
+		<year>2009</year>
+		<authors>kai guo,weihua pei,xu zhang,lin zhu,qiang gui,hongda chen,yu wang</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>951</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of Portable MultiChannel EEG Signal Acquisition System</title>
+		<year>2009</year>
+		<authors>lin zhu,haifeng chen,xu zhang,kai guo,yu wang,weihua pei,hongda chen</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>951</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

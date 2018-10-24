@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiao Ying</FullName>
+	<publication>
+		<title>Research of Web services workflow and its key technology based on XPDL</title>
+		<year>2004</year>
+		<authors>chen deren,chen min</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>1103</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Robert A. Walker</FullName>
+	<publication>
+		<title>Design notes on a single board multiprocessor for real-time contour surface display generation</title>
+		<year>1988</year>
+		<authors>michael j. zyda</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>872</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

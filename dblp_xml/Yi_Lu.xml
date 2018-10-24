@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Lu</FullName>
+	<publication>
+		<title>Cryptanalysis of Bluetooth Keystream Generator Two-Level E0</title>
+		<year>2004</year>
+		<authors>serge vaudenay</authors>
+		<jconf>ASIACRYPT</jconf>
+		<label>1173</label>
+		<keyword>State Machine;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we carefully study both distinguishing and key- recovery attacks against Bluetooth two-level E0 given many short frames. Based on a a w in the resynchronization of Bluetooth E0, we are able to fully exploit the largest bias of the nite state machine inside E0 for our attacks. Our key-recovery attack works with 240 simple operations given the</abstract>
+	</publication>
+	<publication>
+		<title>The Conditional Correlation Attack: A Practical Attack on Bluetooth Encryption</title>
+		<year>2005</year>
+		<authors>willi meier,serge vaudenay</authors>
+		<jconf>International Crytology Conference</jconf>
+		<label>1173</label>
+		<keyword>Finite State Machine;known-plaintext attack;Statistical Model;Stream Cipher;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the security of the nonlinear lter generator, the concept of correlation was previously extended to the conditional correla- tion, that studied the linear correlation of the inputs conditioned on a given (short) output pattern of some specic nonlinear function. Based on the con- ditional correlations, conditional correlation attacks were shown to be suc- cessful and ecien t against</abstract>
+	</publication>
+	<publication>
+		<title>Faster Correlation Attack on Bluetooth Keystream Generator E0</title>
+		<year>2004</year>
+		<authors>serge vaudenay</authors>
+		<jconf>International Crytology Conference</jconf>
+		<label>1173</label>
+		<keyword>Computational Method;Fast Correlation Attack;Linear Code;Maximum Likelihood Decoding;State Machine;Fast Walsh Transform;</keyword>
+		<organization>null</organization>
+		<abstract>We study both distinguishing and key-recovery attacks against E0, the keystream generator used in Bluetooth by means of correlation. First, a powerful computation method of correlations is formulated by a recursive expression, which makes it easier to calculate correlations of the nite state machine output sequences up to 26 bits for E0 and allows us to verify the two known</abstract>
+	</publication>
+	<publication>
+		<title>Cryptanalysis of an E0like Combiner with Memory</title>
+		<year>2008</year>
+		<authors>serge vaudenay</authors>
+		<jconf>Journal of Cryptology</jconf>
+		<label>1173</label>
+		<keyword>Linear Code;Maximum Likelihood Decoding;Random Sequence;Stream Cipher;Upper Bound;Fast Walsh Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study an E0-like combiner with memory as the keystream generator. First, we formulate a systematic and sim- ple method to compute correlations of the FSM output sequences (up to certain bits). An upper bound of the correlations is given, which is useful to the designer. Second, we show how to build either a uni-bias-based or multi-bias-based</abstract>
+	</publication>
+	<publication>
+		<title>Ownership Downgrading for Ownership Types</title>
+		<year>2009</year>
+		<authors>john potter,jingling xue</authors>
+		<jconf>Asian Symposium on Programming Languages and Systems</jconf>
+		<label>1174</label>
+		<keyword>Information Hiding;Ownership Types;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Ownership types support information hiding by providing object-based encapsulation. However the static restrictions they impose on object accessibility can limit the expressiveness of ownership types. In order to deal with real applications, it is sometimes necessary to admit mechanisms,for dynamically exposing otherwise encapsulated informa- tion. The need for policies and mechanisms,to control such information ∞ow, known as downgrading or</abstract>
+	</publication>
+	<publication>
+		<title>A Type System for Reachability and Acyclicity</title>
+		<year>2005</year>
+		<authors>john potter</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>1174</label>
+		<keyword>Type System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Ownership and Accessibility</title>
+		<year>2006</year>
+		<authors>john potter</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>1174</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Validity Invariants and Effects</title>
+		<year>2007</year>
+		<authors>john potter,jingling xue</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>1174</label>
+		<keyword>Object Oriented Programming;Ownership Types;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>Object invariants describe the consistency of object states, and are crucial for reasoning about the correctness of object-oriented programs. However, reasoning about object invariants in the presence of object abstraction and encapsulation, arbitrary object aliasing and re-entrant method calls, is di-cult. We present a framework for reasoning about object invariants based on a behavioural contract that specifles two sets: the</abstract>
+	</publication>
+	<publication>
+		<title>Protecting representation with effect encapsulation</title>
+		<year>2006</year>
+		<authors>john potter</authors>
+		<jconf>Symposium on Principles of Programming Languages</jconf>
+		<label>1174</label>
+		<keyword>Object Oriented;Ownership Structure;Ownership Types;Side Effect;Type Checking;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>Representation exposure is a well-known problem in the object- oriented realm. Object encapsulation mechanisms have established a tradition for solving this problem based on a principle of refer- ence containment. This paper proposes a novel type system which is based on a different principle, we call effect encapsulation, which confines side effects, rather than object references, according to an ownership</abstract>
+	</publication>
+	<publication>
+		<title>Online Task Scheduling for the FPGA-Based Partially Reconfigurable Systems</title>
+		<year>2009</year>
+		<authors>thomas marconi,koen bertels,georgi gaydadjiev</authors>
+		<jconf>Applied Reconfigurable Computing</jconf>
+		<label>1175</label>
+		<keyword>Partial Reconfiguration;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online Hardware Task Scheduling and Placement Algorithm on Partially Reconfigurable Devices</title>
+		<year>2008</year>
+		<authors>thomas marconi,koen bertels,georgi gaydadjiev</authors>
+		<jconf>Applied Reconfigurable Computing</jconf>
+		<label>1175</label>
+		<keyword>Partial Reconfiguration;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. In this paper, we propose an online hardware task scheduling and placement algorithm and evaluate it performance. Experimental re-sults on large random task set show that our algorithm outperforms the existing algorithms in terms of reduced total wasted area up to 89.7%, has 1.5 % shorter schedule time and 31.3% faster response time.</abstract>
+	</publication>
+	<publication>
+		<title>3D Compaction: A Novel Blocking-Aware Algorithm for Online Hardware Task Scheduling and Placement on 2D Partially Reconfigurable Devices</title>
+		<year>2010</year>
+		<authors>thomas marconi,koen bertels,georgi gaydadjiev</authors>
+		<jconf>Applied Reconfigurable Computing</jconf>
+		<label>1175</label>
+		<keyword>Partial Reconfiguration;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient algorithm for free resources management on the FPGA</title>
+		<year>2008</year>
+		<authors>thomas marconi,georgi gaydadjiev,koen bertels</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1175</label>
+		<keyword>Dynamic Information;Efficient Algorithm;Partial Reconfiguration;Resource Manager;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>Finding the available empty space for arrival tasks on FPGAs with runtime partially reconfigurable abilities is the most time consuming phase in on-line placement algo- rithms. Naturally, this phase has the highest impact on the overall system performance. In this paper, we present a new algorithm which is used to find the complete set of maxi- mum free rectangles on</abstract>
+	</publication>
+	<publication>
+		<title>Intelligent Merging Online Task Placement Algorithm for Partial Reconfigurable Systems</title>
+		<year>2008</year>
+		<authors>thomas marconi,koen bertels,georgi gaydadjiev</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1175</label>
+		<keyword>Partial Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract>Speed and placement quality are two very important at- tributes of a good online placement algorithm, because the time taken by the algorithm is considered as an overhead to the application overall execution time. To solve this prob- lem, we propose three techniques: Merging Only if Needed (MON), Partial Merging (PM), and Direct Combine (DC). Our IM (intelligent merging) algorithm</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Self-Reconfiguration of System-on-Chip Peripherals</title>
+		<year>2007</year>
+		<authors>neil w. bergmann,john a. williams</authors>
+		<jconf>Field-Programmable Custom Computing Machines</jconf>
+		<label>1175</label>
+		<keyword>System On Chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DWARV: DelftWorkBench Automated Reconfigurable VHDL Generator</title>
+		<year>2007</year>
+		<authors>yana yankova,koen bertels,georgi kuzmanov,georgi gaydadjiev,stamatis vassiliadis</authors>
+		<jconf>Field-Programmable Logic and Applications</jconf>
+		<label>1175</label>
+		<keyword>Polymorphism;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present the DWARV C-to-VHDL genera- tion toolset. The toolset provides support for broad range of application domains. It exploits the operation parallelism, available in the algorithms. Our designs are generated with a view of actual hardware/software co-execution on a real hardware platform. The carried experiments on the MOLEN polymorphic processor prototype suggest overall applica- tion speedups</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Loading of Peripherals on Reconfigurable System-on-Chip</title>
+		<year>2005</year>
+		<authors>neil w. bergmann</authors>
+		<jconf>IEEE International Conference on Field-Programmable Technology</jconf>
+		<label>1175</label>
+		<keyword>Dynamic Loading;reconfigurable system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A self-adaptive on-line task placement algorithm for partially reconfigurable systems</title>
+		<year>2008</year>
+		<authors>thomas marconi,georgi gaydadjiev,koen bertels,roel meeuws</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1175</label>
+		<keyword>Partial Reconfiguration;Resource Manager;</keyword>
+		<organization>null</organization>
+		<abstract>With the arrival of partial reconfiguration technology, modern FPGAs support swapping tasks in or out individually at run-time without interrupting other tasks running on the same FPGA. Al- though, implementing this feature achieves much better flexibility and device utilization, the challenge remains to quickly and effi- ciently place tasks arriving at run-time on such partially reconfig- urable systems. In this</abstract>
+	</publication>
+</person>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jiang Zheng</FullName>
+	<publication>
+		<title>Attribute-based Workload Characterization: An Initial Case Study</title>
+		<year>2008</year>
+		<authors>k. eric harper</authors>
+		<jconf>Computer Measurement Group Conference</jconf>
+		<label>381</label>
+		<keyword>Case Study;Workload Characterization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Initial Study of a Process for Performance Evaluation on a Large-scale Commercial System</title>
+		<year>2008</year>
+		<authors>k. eric harper,brian p. robinson</authors>
+		<jconf>Computer Measurement Group Conference</jconf>
+		<label>381</label>
+		<keyword>Large Scale;Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Lightweight Process for Change Identification and Regression Test Selection in Using COTS Components</title>
+		<year>2006</year>
+		<authors>brian p. robinson,laurie williams,karen smiley</authors>
+		<jconf>International Conference on COTS-Based Software Systems</jconf>
+		<label>381</label>
+		<keyword>Case Study;Fault Detection;Regression Testing;Software Component;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Various regression test selection techniques have been developed and have shown fault detection effectiveness. The majority of these test selection techniques rely on access to source code for change identification. However, when new releases of COTS components are made available for integration and testing, source code is often not available. In this paper we present a lightweight Integrated - Black-box</abstract>
+	</publication>
+	<publication>
+		<title>Experiences in initiating concurrency software research efforts</title>
+		<year>2010</year>
+		<authors>k. eric harper,shakeel mahate</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>381</label>
+		<keyword>Design Pattern;Large Scale;Large Scale System;Low Latency;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-core CPUs are now common in modern computers. To get access to effectively an unlimited supply of compute resources, software programs that have been highly optimized to use a single CPU need to be converted where possible to use concurrency. We have initiated our concurrency software research for performance enhancement on a large-scale system with high throughput and low latency</abstract>
+	</publication>
+	<publication>
+		<title>Applying regression test selection for COTS-based applications</title>
+		<year>2006</year>
+		<authors>brian p. robinson,laurie williams,karen smiley</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>381</label>
+		<keyword>Case Study;Cost Effectiveness;Regression Testing;Software Testing;Source Code;Commercial Off The Shelf;</keyword>
+		<organization>null</organization>
+		<abstract>ABB incorporates a variety of commercial-off-the-shelf (COTS) components in its products. When new releases of these components are made available for integration and testing, source code is often not provided. Various regression test selection processes have been developed and have been shown to be cost effectiveness. However, the majority of these test selection techniques rely on access to source code</abstract>
+	</publication>
+	<publication>
+		<title>GERT: An Empirical Reliability Estimation and Testing Feedback Tool</title>
+		<year>2004</year>
+		<authors>martin davidsson,nachiappan nagappan,laurie williams,mladen a. vouk</authors>
+		<jconf>International Symposium on Software Reliability Engineering</jconf>
+		<label>381</label>
+		<keyword>Automated Testing;Extreme Programming;Feedback Loop;Open Source;Software Development;Software Development Process;Software Engineering;Software Testing;Source Code;Test Coverage;Test Driven Development;Unit Testing;</keyword>
+		<organization>null</organization>
+		<abstract>Software testing is an integral part of the software development process. Some software developers, particularly those who use the Extreme Programming test- driven development practice, continuously write automated tests to verify their code. We present a tool to complement the feedback loops created by continuous testing. The tool combines static source code metrics with dynamic test coverage for use throughout</abstract>
+	</publication>
+	<publication>
+		<title>An Initial Study of a Lightweight Process for Change Identification and Regression Test Selection When Source Code Is Not Available</title>
+		<year>2005</year>
+		<authors>brian p. robinson,laurie williams,karen smiley</authors>
+		<jconf>International Symposium on Software Reliability Engineering</jconf>
+		<label>381</label>
+		<keyword>Case Study;Cost Effectiveness;Regression Testing;Software Component;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Various regression test selection techniques have been developed and have shown to improve testing cost effectiveness via improving efficiency. The majority of these test selection techniques rely on access to source code for change identification. However, when new releases of COTS components are made available for integration and testing, source code is often not available to guide in regression test</abstract>
+	</publication>
+	<publication>
+		<title>In regression testing selection when source code is not available</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>381</label>
+		<keyword>Regression Testing;Software Testing;Source Code;Commercial Off The Shelf;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pallino: automation to support regression test selection for cots-based applications</title>
+		<year>2007</year>
+		<authors>laurie williams,brian p. robinson</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>381</label>
+		<keyword>Case Study;Cost Effectiveness;Impact Analysis;Regression Testing;Software Testing;Source Code;Commercial Off The Shelf;</keyword>
+		<organization>null</organization>
+		<abstract>Software products are often built from commercial-off-the-shelf (COTS) components. When new releases of these components are made available for integration and testing, source code is usually not provided by the vendors. Various regression test selection techniques have been developed and have been shown to be cost effective. However, the majority of these test selection techniques rely on source code for</abstract>
+	</publication>
+	<publication>
+		<title>A process for identifying changes when source code is not available</title>
+		<year>2005</year>
+		<authors>brian p. robinson,laurie williams,karen smiley</authors>
+		<jconf>ACM Sigsoft Software Engineering Notes</jconf>
+		<label>381</label>
+		<keyword>Fault Detection;Feasibility Study;Regression Testing;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Various regression test selection techniques have been developed and shown to improve fault detection effectiveness. The majority of these test selection techniques rely on access to source code for change identification. However, when new releases of COTS components are made available for integration and testing, source code is often not available to guide regression test selection. This paper describes a</abstract>
+	</publication>
+	<publication>
+		<title>On the Value of Static Analysis for Fault Detection in Software</title>
+		<year>2006</year>
+		<authors>laurie williams,nachiappan nagappan,will snipes,john p. hudepohl,mladen a. vouk</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>381</label>
+		<keyword>Fault Detection;Static Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Switch Design to Enable Predictive Multiplexed Switching in Multiprocessor Networks</title>
+		<year>2005</year>
+		<authors>zhu ding,raymond r. hoare,alex k. jones,dan li,shou-kuo shao,shen-chien tung,rami g. melhem</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>382</label>
+		<keyword>Circuit Switched;Data Communication;Hardware Design;Network Control;Parallel Systems;Perforation;</keyword>
+		<organization>null</organization>
+		<abstract>Predictive multiplexed switching is a new approach for building interconnection switches for high perfor- mance parallel systems. This approach advocates sacrific- ing some link bandwidth in return for more efficient network control and simpler connection management. The main idea is to depart from the traditional packet and worm- hole switching in favor of row data communication over established communication pipes</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications</title>
+		<year>2008</year>
+		<authors>david brumley,pongsin poosankam,dawn xiaodong song</authors>
+		<jconf>IEEE Symposium on Security and Privacy</jconf>
+		<label>383</label>
+		<keyword>Automatic Generation;</keyword>
+		<organization>null</organization>
+		<abstract>The automatic patch-based exploit generation prob- lem is: given a program P and a patched version of the program P ', automatically generate an exploit for the potentially unknown vulnerability present in P but fixed in P '. In this paper, we propose techniques for auto- matic patch-basedexploit generation,and show that our techniquescan automaticallygenerate exploits for 5 Mi- crosoft programs</abstract>
+	</publication>
+	<publication>
+		<title>Entropy Based Evaluation of Communication Predictability in Parallel Applications</title>
+		<year>2006</year>
+		<authors>alex k. jones,ahmed amer</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>382</label>
+		<keyword>Parallel Applications;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Architecture design of grid GIS and its applications on image processing based on LAN</title>
+		<year>2004</year>
+		<authors>zhanfeng shen,jiancheng luo,chenghu zhou,shaohua cai,qiuxiao chen,dongping ming,qinghui sun</authors>
+		<jconf>Information Sciences</jconf>
+		<label>384</label>
+		<keyword>Architectural Design;Geographic Information System;Global Position System;Grid Computing;High Speed;Image Processing;Informing Science;Internet Technology;Natural Science;Remote Sensing;Resource Sharing;</keyword>
+		<organization>null</organization>
+		<abstract>Computer technology and its relative subjects developed at very high speed in recent years, so is geo-information science, including Geographic Information System (GIS), remote sensing (RS) and global position system (GPS). But with the increase of data, many data cannot be used efficiently because of the tremendous amount of data and information and the difficulty of process and transfer through</abstract>
+	</publication>
+	<publication>
+		<title>An elliptical basis function network for classification of remote sensing images</title>
+		<year>2004</year>
+		<authors>jiancheng luo,yee leung,jiang-hong ma</authors>
+		<jconf>Journal of Geographical Systems</jconf>
+		<label>384</label>
+		<keyword>Remote Sensing Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wei Li</FullName>
+	<publication>
+		<title>Performing Incremental Bayesian Inference by Dynamic Model Counting</title>
+		<year>2006</year>
+		<authors>peter van beek,pascal poupart</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1045</label>
+		<keyword>Adaptive System;bayesian inference;Dynamic Model;bayesian network;Davis Putnam;</keyword>
+		<organization>null</organization>
+		<abstract>The ability to update the structure of a Bayesian net- work when new data becomes available is crucial for building adaptive systems. Recent work by Sang, Beame, and Kautz (AAAI 2005) demonstrates that the well-known Davis-Putnam procedure combined with a dynamic decomposition and caching technique is an ef- fective method for exact inference in Bayesian networks with high ...</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Causal Independence Using Weighted Model Counting</title>
+		<year>2008</year>
+		<authors>pascal poupart,peter van beek</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1045</label>
+		<keyword>Backtrack Search;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract>Previous studies have demonstrated that encoding a Bayesian network into a SAT-CNF formula and then performing weighted model counting using a backtracking search al- gorithm can be an effective method for exact inference in Bayesian networks. In this paper, we present techniques for improving this approach for Bayesian networks with noisy-ORand noisy-MAXrelations—tworelationswhichare widely used in practice as ...</abstract>
+	</publication>
+	<publication>
+		<title>A Hypergraph Separator Based Variable Ordering Heuristic for Solving Real World SAT</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Principles and Practice of Constraint Programming</jconf>
+		<label>1045</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Guiding Real-World SAT Solving with Dynamic Hypergraph Separator Decomposition</title>
+		<year>2004</year>
+		<authors>peter van beek</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>1045</label>
+		<keyword>General Solution;Sat Solver;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>The general solution of satisfiability problems is NP- Complete. Although state-of-the-art SAT solvers can effi- ciently obtain the solutions of many real-world instances, there are still a large number of real-world SAT families which cannot be solved in reasonable time. Much effort has been spent to take advantage of the internal struc- ture of SAT ...</abstract>
+	</publication>
+	<publication>
+		<title>An Expert Lexicon Approach to Identifying English Phrasal Verbs</title>
+		<year>2003</year>
+		<authors>xiuhong zhang,cheng niu,yuankai jiang,rohini k. srihari</authors>
+		<jconf>Meeting of the Association for Computational Linguistics</jconf>
+		<label>1046</label>
+		<keyword>English Language;Natural Language Processing;Shallow Parsing;</keyword>
+		<organization>null</organization>
+		<abstract>Phrasal Verbs are an important feature of the English language. Properly identifying them provides the basis for an English parser to decode the related structures. Phrasal verbs have been a challenge to Natural Language Processing (NLP) because they sit at the borderline between lexicon and syntax. Traditional NLP frameworks that separate the lexicon module from the parser make it difficult</abstract>
+	</publication>
+	<publication>
+		<title>A Bootstrapping Approach to Named Entity Classification Using Successive Learners</title>
+		<year>2003</year>
+		<authors>cheng niu,jihong ding,rohini k. srihari</authors>
+		<jconf>Meeting of the Association for Computational Linguistics</jconf>
+		<label>1046</label>
+		<keyword>Named Entity;System Approach;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new bootstrapping approach to named entity (NE) classification. This approach only requires a few common noun/pronoun seeds that correspond to the concept for the target NE type, e.g.  for PERSON NE. The entire bootstrapping procedure is implemented as training two successive learners: (i) a decision list is used to learn the parsing-based high precision NE rules;</abstract>
+	</publication>
+	<publication>
+		<title>Weakly Supervised Learning for Cross-document Person Name Disambiguation Supported by Information Extraction</title>
+		<year>2004</year>
+		<authors>cheng niu,rohini k. srihari</authors>
+		<jconf>Meeting of the Association for Computational Linguistics</jconf>
+		<label>1046</label>
+		<keyword>bayesian framework;Information Extraction;Maximum Entropy Model;name disambiguation;Probability Distribution;Supervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>It is fairly common that different people are associated with the same name. In tracking person entities in a large document pool, it is important to determine whether multiple mentions of the same name across documents refer to the same entity or not. Previous approach to this problem involves measuring context similarity only based on co-occurring words. This paper presents</abstract>
+	</publication>
+	<publication>
+		<title>A Question Answering System Supported by Information Extraction</title>
+		<year>2000</year>
+		<authors>rohini k. srihari</authors>
+		<jconf>Applied Natural Language Processing Conference</jconf>
+		<label>1046</label>
+		<keyword>Information Extraction;Named Entity;Natural Language;Question Answering;Question Answering System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses an information extraction (IE) system, Textract, in natural language (NL) question answering (QA) and examines the role of IE in QA application. It shows: (i) Named Entity tagging is an important component for QA, (ii) an NL shallow parser provides a structural basis for questions, and (iii) high-level domain independent IE can result in a QA breakthrough.</abstract>
+	</publication>
+	<publication>
+		<title>Location Normalization for Information Extraction</title>
+		<year>2002</year>
+		<authors>huifeng li,rohini k. srihari,cheng niu</authors>
+		<jconf>International Conference on Computational Linguistics</jconf>
+		<label>1046</label>
+		<keyword>Graph Search;Hybrid Approach;Information Extraction;Relation Extraction;Spanning Tree;Test Collection;</keyword>
+		<organization>null</organization>
+		<abstract>Ambiguity is very high for location names. For example, there are 23 cities named 'Buffalo' in the U.S. Country names such as 'Canada', 'Brazil' and 'China' are also city names in the USA. Almost every city has a Main Street or Broadway. Such ambiguity needs to be handled before we can refer to location names for visualization of related extracted</abstract>
+	</publication>
+	<publication>
+		<title>Orthographic Case Restoration Using Supervised Learning Without Manual Annotation</title>
+		<year>2003</year>
+		<authors>cheng niu,jihong ding,rohini k. srihari</authors>
+		<jconf>The Florida AI Research Society Conference</jconf>
+		<label>1046</label>
+		<keyword>Language Model;Named Entity;Rule Based System;Speech Recognition;Statistical Model;Supervised Learning;Text Processing;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract One challenge in text processing is the treatment of case insensitive documents,such as speech recognition results. The traditional approach,is to re-train a language,model excluding case-related  features.  This  paper  presents  an  alternative two-step  approach ,whereby ,a  preprocessing  module,(Step  1)  is  designed ,to  restore ,case-sensitive  form to  feed ,the  core  system (Step  2).  Step  1  is  implemented,as  a ,Hidden  Markov  Model</abstract>
+	</publication>
+	<publication>
+		<title>A Case Restoration Approach to Named Entity Tagging in Degraded Documents</title>
+		<year>2003</year>
+		<authors>rohini k. srihari,cheng niu,jihong ding</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>1046</label>
+		<keyword>Information Extraction;Information Retrieval System;Named Entity;Speech Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a novel approach to named entity (NE) tagging on degraded documents. NE tagging is the process of identifying salient text strings in unstructured text, corresponding to names of people, places, organizations, times/dates, etc. Although NE tagging is typically part of a larger information extraction process, it has other applications, such as improving search in an information retrieval</abstract>
+	</publication>
+	<publication>
+		<title>Bootstrapping for Named Entity Tagging Using Concept-based Seeds</title>
+		<year>2003</year>
+		<authors>cheng niu,jihong ding,rohini k. srihari</authors>
+		<jconf>North American Chapter of the Association for Computational Linguistics</jconf>
+		<label>1046</label>
+		<keyword>Named Entity;System Approach;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>A novel bootstrapping approach to Named Entity (NE) tagging using concept-based seeds and successive learners is presented. This approach only requires a few common noun or pronoun seeds that correspond to the concept for the targeted NE, e.g.  for PERSON NE. The bootstrapping procedure is implemented as training two successive learners. First, decision list is used to learn the parsing-based</abstract>
+	</publication>
+	<publication>
+		<title>Information Extraction Supported Question Answering</title>
+		<year>1999</year>
+		<authors>rohini k. srihari</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1046</label>
+		<keyword>Information Extraction;Information Retrieval;Named Entity;Natural Language;Question Answering;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the use of our information extraction (IE) system, Textract, in the question- answering (QA) track of the recently held TREC-8 tests. One of our major objectives is to examine how IE can help IR (Information Retrieval) in applications like QA. Our study shows: (i) IE can provide solid support for QA; (ii) low-level IE like Named Entity</abstract>
+	</publication>
+	<publication>
+		<title>Orthographic case restoration using supervised learning without manual annotation</title>
+		<year>2004</year>
+		<authors>cheng niu,jihong ding,rohini k. srihari</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<label>1046</label>
+		<keyword>Language Model;Named Entity;Rule Based System;Speech Recognition;Statistical Model;Supervised Learning;Text Processing;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract One challenge in text processing is the treatment of case insensitive documents,such as speech recognition results. The traditional approach,is to re-train a language,model excluding case-related  features.  This  paper  presents  an  alternative two-step  approach ,whereby ,a  preprocessing  module,(Step  1)  is  designed ,to  restore ,case-sensitive  form to  feed ,the  core  system (Step  2).  Step  1  is  imple- mented,as  a ,Hidden  Markov</abstract>
+	</publication>
+	<publication>
+		<title>InfoXtract: A customizable intermediate level information extraction engine</title>
+		<year>2008</year>
+		<authors>rohini k. srihari,thomas l. cornell,cheng niu</authors>
+		<jconf>Natural Language Engineering</jconf>
+		<label>1046</label>
+		<keyword>Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Melting and Flowing of Viscous Volumes</title>
+		<year>2003</year>
+		<authors>xiaoming wei,arie e. kaufman</authors>
+		<jconf>Computer Animation Conference</jconf>
+		<label>1047</label>
+		<keyword>Heat Transfer;Natural Phenomena;Physical Simulation;Texture Mapping;Volume Data;Cellular Automata;Phase Transition;</keyword>
+		<organization>null</organization>
+		<abstract>We present a simple, linear 3D cellular automata approach for an- imating the melting process of solid volumetric models. Accurate modelling of object melting usually requires complicated physical simulations of heat transfer and phase transition from solid to liq- uid. Instead, we propose a simplified model to describe the melt- ing behaviors of highly viscous objects, such as wax, lava,</abstract>
+	</publication>
+	<publication>
+		<title>Texture Partitioning and Packing for Accelerating Texture-based Volume Rendering</title>
+		<year>2003</year>
+		<authors>arie e. kaufman</authors>
+		<jconf>Graphics Interface</jconf>
+		<label>1047</label>
+		<keyword>Graphics Hardware;Volume Rendering;Transfer Function;</keyword>
+		<organization>null</organization>
+		<abstract>To apply empty space skipping in texture-based vol- ume rendering, we partition the texture space with a box- growing algorithm. Each sub-texture comprises neigh- boring voxels with similar densities and gradient mag- nitudes. Sub-textures with similar range of density and gradient magnitude are then packed into larger ones to reduce the number of textures. The partitioning and packing is independent</abstract>
+	</publication>
+	<publication>
+		<title>A Neural Network Based Method for Automated Classification of Sheep Leather Images</title>
+		<year>1992</year>
+		<authors>jian-qin liu,nanning zheng,qingyuan wang</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>1047</label>
+		<keyword>Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Volume Rendering for Virtual Colonoscopy</title>
+		<year>2001</year>
+		<authors>arie e. kaufman,kevin kreeger</authors>
+		<jconf>Volume Graphics</jconf>
+		<label>1047</label>
+		<keyword>Image Warping;Large Data Sets;Occlusion Culling;Virtual Colonoscopy;Volume Rendering;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a volume rendering system that is capable of generating high-quality images of large volumetric data (e.g., 5123) in real time (30 frames or more per second). The system is particularly suitable for applications that gen- erate densely occluded scenes of large data sets, such as virtual colonoscopy. The central idea is to divide the volume into sets of</abstract>
+	</publication>
+	<publication>
+		<title>Empty Space Skipping and Occlusion Clipping for Texture-based Volume Rendering</title>
+		<year>2003</year>
+		<authors>klaus mueller,arie e. kaufman</authors>
+		<jconf>IEEE Visualization</jconf>
+		<label>1047</label>
+		<keyword>Bsp Tree;Graphics Hardware;Volume Rendering;Transfer Function;</keyword>
+		<organization>null</organization>
+		<abstract>We propose methods to accelerate texture-based volume rendering by skipping invisible voxels. We partition the volume into sub-volumes, each containing voxels with similar properties. Sub-volumes composed of only voxels mapped to empty by the transfer function are skipped. To render the adaptively partitioned sub-volumes in visibility order, we reorganize them into an orthogonal BSP tree. We also present an algorithm</abstract>
+	</publication>
+	<publication>
+		<title>Simulating fire with texture splats</title>
+		<year>2002</year>
+		<authors>xiaoming wei,klaus mueller,arie e. kaufman</authors>
+		<jconf>IEEE Visualization</jconf>
+		<label>1047</label>
+		<keyword>Graphics Hardware;Interactive Rendering;lattice boltzmann model;Real Time Simulation;Temperature Field;</keyword>
+		<organization>null</organization>
+		<abstract>We propose the use of textured splats as the basic display primitives for an open surface fire model. The high-detail textures help to achieve a smooth boundary of the fire and gain the small-scale turbulence appearance. We utilize the Lattice Boltzmann Model (LBM) to simulate physically-based equations describing the fire evolution and its interaction with the environment (e.g., obstacles, wind</abstract>
+	</publication>
+	<publication>
+		<title>Accelerating volume rendering with texture hulls</title>
+		<year>2002</year>
+		<authors>arie e. kaufman</authors>
+		<jconf>Volume Visualization and Graphics</jconf>
+		<label>1047</label>
+		<keyword>Graphics Hardware;Texture Mapping;Volume Rendering;</keyword>
+		<organization>null</organization>
+		<abstract>Texture-mapping hardware has been successfully exploited for volume rendering. In this paper, we propose algorithms for texture-based volume rendering accelerated by texture hulls that avoid the transferring and compositing of empty voxels. We have developed methods that efficiently find all the bounding rectangles of the non-empty regions as well as the bounding contours that more accurately describe the borders of</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Flowing of Highly Viscous Volumes in Virtual Environments</title>
+		<year>2003</year>
+		<authors>xiaoming wei,arie e. kaufman</authors>
+		<jconf>Virtual Reality</jconf>
+		<label>1047</label>
+		<keyword>Dynamic Change;Fluid Flow;Physical Simulation;Texture Mapping;Virtual Environment;Viscous Flow;Viscous Fluid;Cellular Automata;</keyword>
+		<organization>null</organization>
+		<abstract>We present a simple and linear 3D cellular automata approach for animating the behaviors of viscous flow volumes in virtual environ- ments. An accurate modeling of fluid flow usually requires com- plicated physical simulations. In this paper, we concentrate on the behaviors of highly viscous fluids, such as wax, lava, plastic, metal, chocolate, etc. We animate the smooth behaviors of</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Implementing OpenGL on PVM</title>
+		<year>1997</year>
+		<authors>xiaohu huang,nanning zheng</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>1047</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Lattice-Boltzmann Method for Simulating Gaseous Phenomena</title>
+		<year>2004</year>
+		<authors>xiaoming wei,klaus mueller,arie e. kaufman</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>1047</label>
+		<keyword>Boundary Condition;Graphics Hardware;Indexing Terms;lattice boltzmann method;lattice boltzmann model;Real Time Rendering;Temperature Field;Velocity Field;navier stokes;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a physically-based, yet fast and simple method to simulate gaseous phenomena. In our approach, the incompressible Navier-Stokes (NS) equations governing fluid motion have been modeled in a novel way to achieve a realistic animation. We introduce the Lattice Boltzmann Model (LBM), which simulates the microscopic movement of fluid particles by linear and local rules on a grid of</abstract>
+	</publication>
+	<publication>
+		<title>Lattice-Based Flow Field Modeling</title>
+		<year>2004</year>
+		<authors>xiaoming wei,ye zhao,zhe fan,feng qiu,suzanne yoakum-stover,arie e. kaufman</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>1047</label>
+		<keyword>Boundary Condition;Drag Force;Flow Field;Graphics Hardware;Hardware Accelerator;Indexing Terms;lattice boltzmann model;Moving Object;Spherical Harmonic;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present an approach for simulating the natural dynamics that emerge from the interaction be- tween a flow field and immersed objects. We model the flow field using the Lattice Boltzmann Model (LBM) with boundary conditions appropriate for moving objects, and accelerate the computation on commodity graphics hardware (GPU) to achieve real-time performance. The boundary conditions mediate the exchange of</abstract>
+	</publication>
+	<publication>
+		<title>Implementing lattice Boltzmann computation on graphics hardware</title>
+		<year>2003</year>
+		<authors>xiaoming wei,arie e. kaufman</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>1047</label>
+		<keyword>Automatic Generation;boltzmann equation;Flow Simulation;Graphics Hardware;lattice boltzmann;lattice boltzmann method;Visual Simulation;Cellular Automata;</keyword>
+		<organization>null</organization>
+		<abstract>LBM is a physically-based approach that simulates the microscopic movement of fluid particles by simple, identical and local rules. We accelerate the computation of the LBM on general-purpose graph- ics hardware, by grouping particle packets into 2D textures and mapping the Boltzmann equations completely to the rasterization and frame buffer operations. We apply stitching and packing to further improve the</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Reconfiguration Planning with Influence Control</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>ACIS International Conference on Computer and Information Science</jconf>
+		<label>1048</label>
+		<keyword>Dynamic Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Influence Control for Dynamic Reconfiguration</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>Australian Software Engineering Conference</jconf>
+		<label>1048</label>
+		<keyword>Dynamic Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Breaking the Constraints to a High Performance Metacomputing System: A System Approach</title>
+		<year>2005</year>
+		<authors>lily d. li,russel j. stonier,xinghuo yu</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>1048</label>
+		<keyword>High Performance;System Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling Volunteer Computing Grid on the Web by Socially Intelligent Agents</title>
+		<year>2003</year>
+		<authors>xinghuo yu</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>1048</label>
+		<keyword>Computational Grid;Social Intelligence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Preserving Global Consistency for Dynamic Reconfiguration</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>1048</label>
+		<keyword>Dynamic Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identifying and Breaking Necessary Constraints to Web-Based Metacomputing</title>
+		<year>2004</year>
+		<authors>w. k. daniel pun,minjie zhang</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1048</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automating Dynamic Reconfiguration for Non-Stop Dataflow Systems</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1048</label>
+		<keyword>Dynamic Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Reconfiguration of Distributed Data Flow Systems</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1048</label>
+		<keyword>Distributed Data;Dynamic Reconfiguration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Applying an Evolutionary Algorithm to Web Search: The Methodology of Evagent</title>
+		<year>2002</year>
+		<authors>xinghuo yu</authors>
+		<jconf>International Conference on Artificial Intelligence</jconf>
+		<label>1048</label>
+		<keyword>Evolutionary Algorithm;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Task Plan: A Model for Designing Autonomous Mobile Agents</title>
+		<year>1999</year>
+		<authors>minjie zhang</authors>
+		<jconf>International Conference on Artificial Intelligence</jconf>
+		<label>1048</label>
+		<keyword>Autonomous Agent;Computer Network;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present DTP (Distributed Task Plan), a model to depict distributed tasks for executions by mobile agents. DTP is composed of autonomous primitives and can generate the autonomous workflow when a mobile agent executes it. DTP provides mobile agents with navigational and computational autonomies when transporting through the underlying computational network. A mobile agent plans a DTP</abstract>
+	</publication>
+	<publication>
+		<title>A Computational Strategy for Information Integration in Meta-Search Agent Systems</title>
+		<year>2003</year>
+		<authors>quan bai,minjie zhang</authors>
+		<jconf>Information and Knowledge Engineering</jconf>
+		<label>1048</label>
+		<keyword>Agent Systems;Information Integration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DynaInteg: Meta-Ontology Supporting Dynamic Knowledge Sharing and Acquisition for Multi-Agent Cooperation</title>
+		<year>2000</year>
+		<authors>minjie zhang</authors>
+		<jconf>ISCA Conference on Intelligent Systems</jconf>
+		<label>1048</label>
+		<keyword>Knowledge Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Persisting Autonomous Workflow for Mobile Agents Using a Mobile Thread Programming Model</title>
+		<year>1999</year>
+		<authors>minjie zhang</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>1048</label>
+		<keyword>Mobile Agent;Model Simulation;Programming Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a Mobile Thread Programming Model(MTPM), a model to simulate the persistence of a migratory thread, toovercome the problem of coexistence of mobility, persistence and autonomyfor mobile agents. An advantage of MTPM over other code mobilityparadigms is that the model simulates strong mobility at the application-levelrather than at the system-level as used in many strong mobility-supportingsystems.</abstract>
+	</publication>
+	<publication>
+		<title>An Agent-Based Adaptive Task-Scheduling Model for Peer-to-Peer Computational Grids</title>
+		<year>2006</year>
+		<authors>zhikun zhao</authors>
+		<jconf>Pacific Rim International Workshop on Multi-Agents</jconf>
+		<label>1048</label>
+		<keyword>Peer-to-peer Computing;Task Scheduling;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Influence Control for Dynamic Reconfiguration of Data Flow Systems</title>
+		<year>2007</year>
+		<authors>zhikun zhao</authors>
+		<jconf>Journal of Software</jconf>
+		<label>1048</label>
+		<keyword>Case Study;Data Encryption;Data Flow;Digital Signature;Dynamic Reconfiguration;Side Effect;Version Control;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Influence control is a very challenging,issue in dynamic,reconfiguration,and,still not well addressed in the literature. This paper,argues,that dynamic,reconfiguration influences system execution in four ways: functional update, functional side-effect, logical influence on performance and physical,influence,on,performance.,Methods,including version control, transaction tracing, switching reconfiguration plan, and reconfiguration scheduling have been proposed,for controlling the influence. These methods are integrated,into the Reconfigurable,Data Flow (RDF) model, which is</abstract>
+	</publication>
+	<publication>
+		<title>Identifying potential synthesis cases in distributed expert systems: a fuzzy logic approach</title>
+		<year>2001</year>
+		<authors>minjie zhang</authors>
+		<jconf>Knowledge Based Systems</jconf>
+		<label>1048</label>
+		<keyword>Fuzzy Logic;Expert System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DynaQoS(c)RDF: a best effort for QoS-assurance of dynamic reconfiguration of dataflow systems</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<label>1048</label>
+		<keyword>Dynamic Reconfiguration;Best Effort;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Iterative Fuzzy Segmentation Algorithm for Recognizing an Odor Source in Near Shore Ocean Environments</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>IEEE Computational Intelligence Magazine</jconf>
+		<label>1049</label>
+		<keyword>Fuzzy Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimization of Source Identification Algorithm Derived from Moth-Inspired Plume Tracing Strategies</title>
+		<year>2007</year>
+		<authors>j. e. sutton</authors>
+		<jconf>IEEE Computational Intelligence Magazine</jconf>
+		<label>1049</label>
+		<keyword>Source Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vision-Based Behavior Control of Autonomous Systems by Fuzzy Reasoning</title>
+		<year>1998</year>
+		<authors>friedrich m. wahl,jiangzhong z. zhou,hong wang,kezhong z. he</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>1049</label>
+		<keyword>Autonomic System;Behavioral Control;Fuzzy Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of a source identification zone for declaring an odor source location in turbulent fluid-advected environments</title>
+		<year>2006</year>
+		<authors>mohamound m. elgassier,thomas rutledge,j. e. sutton</authors>
+		<jconf>Information Reuse and Integration</jconf>
+		<label>1049</label>
+		<keyword>Source Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Moth plume-tracing derived algorithm for identifying chemical source in nearshore ocean environments</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>1049</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multisensor Integration for Declaring the Odor Source of a Plume in Turbulent Fluid-Advected Environments</title>
+		<year>2006</year>
+		<authors>carl bloomquist,mohamoud m. elgassier,karan srivasta</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>1049</label>
+		<keyword>Autonomous Underwater Vehicle;Autonomous Vehicle;behavior-based control;Color Image;Fuzzy Reasoning;Indexing Terms;Length Scale;Sensor Integration;Success Rate;</keyword>
+		<organization>null</organization>
+		<abstract>A mission of chemical plume tracing (CPT) is to navigate an autonomous underwater vehicle (AUV) to find a chemical plume, to trace the plume to its source, and to declare the source location. This paper presents a multisensor integration strategy for source declaration subsumed in a behavior based control architecture with several individual behaviors. The performance of the proposed strategy</abstract>
+	</publication>
+	<publication>
+		<title>Abstraction of Odor Source Declaration Algorithm from Moth-Inspired Plume Tracing Strategies</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Robotics and Biomimetics</jconf>
+		<label>1049</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Biologically inspired chemical plume tracing on an autonomous underwater vehicle</title>
+		<year>2004</year>
+		<authors>jay a. farrell,shuo pang,richard m. arrieta</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>1049</label>
+		<keyword>Autonomous Underwater Vehicle;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tracking control of a manipulator under uncertainty by FUZZY P+ID controller</title>
+		<year>2001</year>
+		<authors>x. g. chang,friedrich m. wahl,jay a. farrell</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<label>1049</label>
+		<keyword>Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recognizing white line markings for vision-guided vehicle navigation by fuzzy reasoning</title>
+		<year>1997</year>
+		<authors>goutao lu,yongqiang wang</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>1049</label>
+		<keyword>Fuzzy Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modifizierung des Roberts' Algorithmus zur graphischen Darstellung von Robotern</title>
+		<year>1990</year>
+		<authors>hilmar jaschek,dieter wloka</authors>
+		<jconf>Robotersysteme</jconf>
+		<label>1049</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Plume mapping via hidden Markov methods</title>
+		<year>2003</year>
+		<authors>jay a. farrell,shuo pang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>1049</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of an enhanced hybrid fuzzy P+ID controller for a mechanical manipulator</title>
+		<year>2001</year>
+		<authors>x. g. chang,jay a. farrell,friedrich m. wahl</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>1049</label>
+		<keyword>Dynamic Response;Fuzzy Logic Control;Hybrid System;Indexing Terms;Pid Control;Pid Controller;Robot Manipulator;Simulation Study;Steady State;</keyword>
+		<organization>null</organization>
+		<abstract>We propose in this paper an enhanced FUZZY P ID controller to improve control performance in both dynamic transient and steady-state periods for mechanical manipulators under uncertainty. The FUZZY P ID controller adds only two additional parameters to be tuned relative to the original PID controller. One of these parameters is mainly used to reduce a steady-state error. The other</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Transmission Power Control for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>liang xiao,t. aaron gulliver</authors>
+		<jconf>Conference on Communication Networks and Services Research</jconf>
+		<label>1050</label>
+		<keyword>Transmission Power Control;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Biorthogonal Pulse Position Modulation for Time-Hopping UWB Systems</title>
+		<year>2005</year>
+		<authors>hao zhang,t. aaron gulliver</authors>
+		<jconf>Conference on Communication Networks and Services Research</jconf>
+		<label>1050</label>
+		<keyword>Pulse Position Modulated;Time Hopping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Analysis of NonOrthogonal Pulse Position Modulation for Time-Hopping UWB Transmission</title>
+		<year>2007</year>
+		<authors>hao zhang,t. aaron gulliver</authors>
+		<jconf>Conference on Communication Networks and Services Research</jconf>
+		<label>1050</label>
+		<keyword>Performance Analysis;Pulse Position Modulated;Time Hopping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance of Hybrid Decision SIC with Transmit Diversity</title>
+		<year>2004</year>
+		<authors>t. aaron gulliver</authors>
+		<jconf>International Conference on Wireless Networks</jconf>
+		<label>1050</label>
+		<keyword>Transmit Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive video compression rate optimization in wireless access networks</title>
+		<year>2009</year>
+		<authors>xiaoling qiu,haiping liu,dipak ghosal,biswanath mukherjee,john benko,rashmi bajaj</authors>
+		<jconf>IEEE Conference on Local Computer Networks</jconf>
+		<label>1050</label>
+		<keyword>Video Compression;Wireless Access Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cognitive Multicast Pilot Scheduling for Heterogeneous Networks</title>
+		<year>2010</year>
+		<authors>zhiyong feng,jing zhong,t. aaron gulliver</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1050</label>
+		<keyword>Heterogeneous Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Pulse Shaping for Pulse Position Modulation UWB Systems with Sparsity-Driven Signal Detection</title>
+		<year>2006</year>
+		<authors>t. aaron gulliver</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1050</label>
+		<keyword>Pulse Position Modulated;Pulse Shaping;Signal Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sparsity-Driven Multiple Access Ultra-Wideband Signal Detection</title>
+		<year>2006</year>
+		<authors>t. aaron gulliver</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1050</label>
+		<keyword>Multiple Access;Signal Detection;ultra wideband;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OFDM-Based Millimeter Wave System for High Data Rate WPAN Applications</title>
+		<year>2008</year>
+		<authors>pascal pagani,maxim piz,isabelle siaud,eckhard grass,klaus tittelbach-helmrich,anne-marie ulmer-moll,frank herzel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1050</label>
+		<keyword>Millimeter Wave;High Data Rate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Spectrum Management for WCDMA and DVB Heterogeneous Systems</title>
+		<year>2010</year>
+		<authors>zhiyong feng,qian li,vanbien le,t. aaron gulliver</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>1050</label>
+		<keyword>Heterogeneous Systems;Dynamic Spectrum Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Circle Construction for SONET/WDM Wavelength Assignment</title>
+		<year>2006</year>
+		<authors>t. aaron gulliver,wei zou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>1050</label>
+		<keyword>Wavelength Assignment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Capacity and Error Probability Analysis for Orthogonal Space-Time Block Codes over Correlated Rayleigh and Rician Fading Channels</title>
+		<year>2005</year>
+		<authors>hao zhang,t. aaron gulliver</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>1050</label>
+		<keyword>Error Probability;Fading Channel;Orthogonal Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance and Capacity Analysis of UWB Networks over 60GHz WPAN Channel</title>
+		<year>2008</year>
+		<authors>jun wei,michael smith</authors>
+		<jconf>Journal of Communications</jconf>
+		<label>1050</label>
+		<keyword>Capacity Analysis;Channel Model;Fading Channel;Indexing Terms;Moment Generating Function;Multiple Access;Outage Probability;Performance Evaluation;Rake Receiver;System Performance;ultra wideband;Wireless Personal Area Network;Single Carrier;Symbol Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we evaluate the system performance and capacity of single carrier ultra-wideband (UWB) net- works over 60GHz wireless personal area network (WPAN) channel. Symbol error rate is derived for both single user and multiple access scenario with a general system capacity and performance evaluation approach based on moment generation function. System outage probability and network throughput performance are</abstract>
+	</publication>
+	<publication>
+		<title>Pulse Position Amplitude Modulation for Time-Hopping Multiple-Access UWB Communications</title>
+		<year>2005</year>
+		<authors>hao zhang,t. aaron gulliver</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<label>1050</label>
+		<keyword>Amplitude Modulated;Multiple Access;Time Hopping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>VegaFS: A Prototype for File-Sharing Crossing Multiple Administrative Domains</title>
+		<year>2003</year>
+		<authors>jianmin liang,zhiwei xu</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1051</label>
+		<keyword>File Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cluster and Grid Superservers: The Dawning Experiences in China</title>
+		<year>2001</year>
+		<authors>zhiwei xu,ninghui sun,dan meng</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1051</label>
+		<keyword>Computational Grid;Grid Computing;Chinese Academy of Sciences;</keyword>
+		<organization>null</organization>
+		<abstract>This paper summarizes recent activities at Institute of Computing Technology, Chinese Academy of Sciences, in developing superservers for cluster and grid computing. We first identify market and technical trends observed from a Chinese perspective. Then we describe the research work in developing the Dawning series high performance computers and the China computational grid. We also highlight some on-going research work</abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Grid File Management System Hotfile</title>
+		<year>2004</year>
+		<authors>liqiang cao,jie qiu,li zha,haiyan yu,yuzhong sun</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Design and Implementation;Management System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GSRP: An Application-Level Protocol for Grid Environments</title>
+		<year>2003</year>
+		<authors>zhiqiang hou,donghua liu,zhiwei xu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Asynchronous Communication;Grid Service;Session Management;Transport Layer;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>The Grid Service Request Protocol (GSRP), a multi-pattern application-level protocol supporting session management and asynchronous communication, is designed to meet application requirements of Web service and Grid service. The GSRP consists of two layers: Message Transporting Layer (MTL) and Application Session Layer (ASL). The MTL controls the transmission procedure of packets on network channels, named as GSRP Dialog. The ASL</abstract>
+	</publication>
+	<publication>
+		<title>Personal Grid Running at the Edge of Internet</title>
+		<year>2003</year>
+		<authors>bingchen li,zhiwei xu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Collaborative Work;Grid Applications;Grid Service;Grid System;High Performance Computer;Mandatory Access Control;P2P;P2p System;Resource Sharing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>http://www.ict.ac.cn Abstract. The common Grid systems are running on the backbone of Internet. These high performance computing environment provide a high scalable, high reconstructive Grid services in a C/S mode, while more and more Grid applications require a P2P liked infrastructure for personal intercommunication, resources sharing and collaborative work. Personal Grid, we proposed in VEGA Grid project of ICT, would</abstract>
+	</publication>
+	<publication>
+		<title>A Layered Grid User Expression Model in Grid User Management</title>
+		<year>2003</year>
+		<authors>limin liu,zhiwei xu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Management System;</keyword>
+		<organization>null</organization>
+		<abstract>As a main compositive part of the grid user management infrastructure, grid user expression is very important to realize a practical user management system. In this paper, we present a layered user expression model -RUS model and describe each layer's user set and expression method. Then give the model's application. Finally we analysis the model's advantages to the convenience of</abstract>
+	</publication>
+	<publication>
+		<title>A Service Management Scheme for Grid Systems</title>
+		<year>2003</year>
+		<authors>zhiwei xu,li cha,haiyan yu,jie qiu,yanzhe zhang</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Application Development;Fault Tolerant;Grid Service;Grid System;Large Scale;Service Management;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a service management scheme named Grid Service Space (GSS) model, which provides application developers a high-level logical view of grid services and a set of primitives to control the full lifecycle of a grid service. The GSS model provides a novel approach to meet the desired management requirements for large-scale service-oriented grids, including loca- tion-independent</abstract>
+	</publication>
+	<publication>
+		<title>A Grid Service Lifecycle Management Scheme</title>
+		<year>2003</year>
+		<authors>jie qiu,haiyan yu,shuoying chen,li cha,zhiwei xu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>Grid Service;Large Scale;</keyword>
+		<organization>null</organization>
+		<abstract>Grid technologies enable large-scale sharing of computing resources and make them open to formal or informal consortia of individuals, who utilize these computing resources by means of consuming Grid Services. In such con- text, a more mature mechanism of Grid Service management, not only on the creation and destruction of Grid Service instances but also on the whole lifecy- cle</abstract>
+	</publication>
+	<publication>
+		<title>Agora: Grid Community in Vega Grid</title>
+		<year>2003</year>
+		<authors>hao wang,zhiwei xu,yili gong</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vega Grid: A Computer Systems Approach to Grid Research</title>
+		<year>2003</year>
+		<authors>zhiwei xu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1051</label>
+		<keyword>System Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Grid Resource Discovery Based on a Routing-Transferring Model</title>
+		<year>2002</year>
+		<authors>zhiwei xu,fangpeng dong,jun zhang</authors>
+		<jconf>Grid Computing</jconf>
+		<label>1051</label>
+		<keyword>Resource Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Layered Resource Representation in Grid Environment: An Example from VEGA Grid</title>
+		<year>2003</year>
+		<authors>fangpeng dong,yili gong,zhiwei xu</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1051</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A C/S and P2P Hybrid Resource Discovery Framework in Grid Environments</title>
+		<year>2005</year>
+		<authors>yili gong,yuzhong sun,zhiwei xu</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1051</label>
+		<keyword>P2P;Resource Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Vega Grid and Grid-Based Education</title>
+		<year>2002</year>
+		<authors>zhiwei xu,hongguang fu,zhenbing zeng</authors>
+		<jconf>International Conference on Web-Based Learning</jconf>
+		<label>1051</label>
+		<keyword>Dynamic Geometry;Education System;Chinese Academy of Sciences;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents research work conducted at Chinese Academy of Sciences, on the Vega Grid technology and dynamic geometry technology, and how the two can integrate to provide a dynamic geometry education system based on grid technology.</abstract>
+	</publication>
+	<publication>
+		<title>An Approach to Debugging Grid or Web Services</title>
+		<year>2007</year>
+		<authors>qiang yue,zhiwei xu,haiyan yu,li zha</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1051</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Language-based Approach to Service Deployment</title>
+		<year>2006</year>
+		<authors>xiaoning wang,hong liu,zhiwei xu</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1051</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Abacus: A Service-Oriented Programming Language for Grid Applications</title>
+		<year>2005</year>
+		<authors>xiaoning wang,lijuan xiao,zhiwei xu</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1051</label>
+		<keyword>Grid Applications;Programming Language;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System Software for China National Grid</title>
+		<year>2005</year>
+		<authors>li zha,haiyan yu,xianghui xie,nong xiao,zhiwei xu</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>1051</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Service-Oriented Virtual Machine for Grid Applications</title>
+		<year>2006</year>
+		<authors>hong liu,xiaoning wang,yili gong,tian luo</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>1051</label>
+		<keyword>Building Block;Distributed Computing;Grid Applications;Grid Computing;Service Orientation;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Grid computing is a new paradigm for distributed computing, and service technologies become building blocks of grid applications. However, current approaches can not fully free developers from low- level laborious work when building grid applications. We propose a service-oriented virtual machine called Abacus Virtual Machine to support grid application development. As a language level virtual machine, it provides a service-oriented</abstract>
+	</publication>
+	<publication>
+		<title>The Vega Personal Grid: A Lightweight Grid Architecture</title>
+		<year>2002</year>
+		<authors>z. xu,b. li,yili gong</authors>
+		<jconf>Parallel and Distributed Computing Systems</jconf>
+		<label>1051</label>
+		<keyword>Architectural Design;Autonomous Control;Grid Computing;Middleware;Operating System;Software Tool;</keyword>
+		<organization>null</organization>
+		<abstract>Grid computing has emerged as a technology to solve the problem of sharing and cooperating of computational resources in wide area. In this paper, we propose a Grid architecture called Vega Personal Grid (the Vega PG). The key feature of the Vega PG is that it is a user- centered lightweight Grid architecture. We make a mapping between traditional computer</abstract>
+	</publication>
+	<publication>
+		<title>Vega: A Computer Systems Approach to Grid Computing</title>
+		<year>2004</year>
+		<authors>zhiwei xu,li zha,haiyan yu,donghua liu</authors>
+		<jconf>Journal of Grid Computing</jconf>
+		<label>1051</label>
+		<keyword>Grid Computing;System Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Grid Computing in China</title>
+		<year>2004</year>
+		<authors>guangwen yang,hai jin,minglu li,nong xiao,zhaohui wu,yongwei wu,feilong tang</authors>
+		<jconf>Journal of Grid Computing</jconf>
+		<label>1051</label>
+		<keyword>Distributed Computing;Grid Applications;Grid Computing;Grid Middleware;Grid System;Internet Application;Scientific Research;</keyword>
+		<organization>null</organization>
+		<abstract>Grid computing presents a new trend to distributed computation and Internet applications, which can construct a virtual single image of heterogeneous resources, provide uniform application interface and integrate widespread computational resources into super, ubiquitous and transparent aggregation. In the adoption of Grid computing, China, who is facing more resource heterogeneity and other specific demands, has put much effort on both</abstract>
+	</publication>
+	<publication>
+		<title>VegaFS: file sharing crossing multiple domains</title>
+		<year>2004</year>
+		<authors>jianmin liang,zhiwei xu</authors>
+		<jconf>International Journal of High Performance Computing and Networking</jconf>
+		<label>1051</label>
+		<keyword>File Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>VEGA Infrastructure for Resource Discovery in Grids</title>
+		<year>2003</year>
+		<authors>yili gong,fangpeng dong,zhiwei xu</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>1051</label>
+		<keyword>Resource Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning for accurate classification of real-time traffic</title>
+		<year>2006</year>
+		<authors>andrew w. moore</authors>
+		<jconf>Conference on Emerging Network Experiment and Technology</jconf>
+		<label>1052</label>
+		<keyword>bayesian method;Classification System;Machine Learning;Network Flow;Network Traffic;Real-time Traffic;Traffic Classification;Type of Service;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate network traffic classification is an important task. We intend to develop an intelligent classification system by learning the types of service inside a network flow using machine learning techniques. Previous work used Bayesian methods for traffic classification. In this paper we propose a further plan to identify a fine-grained traffic classification scheme through combining a series of techniques.</abstract>
+	</publication>
+	<publication>
+		<title>Tracking elephant flows in internet backbone traffic with an FPGA-based cache</title>
+		<year>2009</year>
+		<authors>martin zádník,marco canini,andrew w. moore,david j. miller</authors>
+		<jconf>Field-Programmable Logic and Applications</jconf>
+		<label>1052</label>
+		<keyword>Elephants;Hash Table;Network Traffic;Replacement Policy;Least Recently Used;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an FPGA-friendly approach to track- ing elephant flows in network traffic. Our approach, Single Step Segmented Least Recently Used (S3-LRU) policy, is a network traffic-friendly replacement policy for maintaining flow states in a Na¨õve Hash Table (NHT). We demonstrate that our S3-LRU approach preserves elephant flows: con- servatively promoting potential elephants and evicting low- rate flows in</abstract>
+	</publication>
+	<publication>
+		<title>A Machine Learning Approach for Efficient Traffic Classification</title>
+		<year>2007</year>
+		<authors>andrew w. moore</authors>
+		<jconf>Modeling, Analysis, and Simulation On Computer and Telecommunication Systems</jconf>
+		<label>1052</label>
+		<keyword>Internet Traffic;Intrusion Detection;Machine Learning;Network Monitoring;Quality of Service;Traffic Classification;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Online traffic classification continues to be of long- term interest to the networking community. It serves as the input for practical solutions such as network monitoring, quality- of-service and intrusion-detection. In this paper we present a machine-learning approach that accurately classifies internet traffic using C4.5 decision tree. Accuracy is not our only concern; the latency and throughput are also of</abstract>
+	</publication>
+	<publication>
+		<title>GTVS: Boosting the Collection of Application Traffic Ground Truth</title>
+		<year>2009</year>
+		<authors>marco canini,andrew w. moore,raffaele bolla</authors>
+		<jconf>Networking</jconf>
+		<label>1052</label>
+		<keyword>Case Study;Traffic Classification;Traffic Monitoring;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract>Interesting research in the areas of traffic classification, net- work monitoring, and application-oriented analysis can not proceed with- out real traffic traces, labeled with actual application information. How- ever, hand-labeled traces are an extremely valuable but scarce resource in the traffic monitoring and analysis community, as a result of both privacy concerns and technical difficulties. Hardly any possibilityexists for payloaded</abstract>
+	</publication>
+	<publication>
+		<title>Efficient application identification and the temporal and spatial stability of classification schema</title>
+		<year>2009</year>
+		<authors>marco canini,andrew w. moore,raffaele bolla</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>1052</label>
+		<keyword>Classification Accuracy;Deep Packet Inspection;Machine Learning;Network Traffic;Spatial Diversity;Traffic Classification;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the importance of accurate identification for a range of applica tions, this paper compares and contrasts the effective and efficient classification of network-based applications using behavioral observations of network-traffic and thos e using Deep-Packet Inspection. Importantly, throughout our work we are able to make comparison with data possessing an accurate, independently-determined ground-truth that describes the actual applications causing</abstract>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Sequence Modeling with Syntactic Topic Models</title>
+		<year>2005</year>
+		<authors>andrew mccallum</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1053</label>
+		<keyword>Error Reduction;Feature Space;Manifold Learning;part-of-speech tagging;Semi Supervised Learning;Statistical Significance;Unlabeled Data;Word Segmentation;con ditional random fields;</keyword>
+		<organization>null</organization>
+		<abstract>Although there has been significant previous work on semi-supervised learning for classification, there has been relatively little in sequence modeling. This pa- per presents an approach that leverages recent work in manifold-learning on sequences to discover word clus- ters from language data, including both syntactic classes and semantic topics. From unlabeled data we form a smooth, low-dimensional feature space, where</abstract>
+	</publication>
+	<publication>
+		<title>Pachinko allocation: DAG-structured mixture models of topic correlations</title>
+		<year>2006</year>
+		<authors>andrew mccallum</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1053</label>
+		<keyword>Directed Acyclic Graph;Discrete Data;Latent Dirichlet Allocation;Mixture Model;</keyword>
+		<organization>null</organization>
+		<abstract>Latent Dirichlet allocation (LDA) and other related topic models are increasingly popu- lar tools for summarization and manifold dis- covery in discrete data. However, LDA does not capture correlations between topics. In this paper, we introduce the pachinko alloca- tion model (PAM), which captures arbitrary, nested, and possibly sparse correlations be- tween topics using a directed acyclic graph (DAG). The</abstract>
+	</publication>
+	<publication>
+		<title>Mixtures of hierarchical topics with Pachinko allocation</title>
+		<year>2007</year>
+		<authors>david m. mimno,andrew mccallum</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1053</label>
+		<keyword>Mutual Information;</keyword>
+		<organization>null</organization>
+		<abstract>The four-level pachinko allocation model (PAM) (Li &amp;amp; McCallum, 2006) represents correlations among topics using a DAG struc- ture. It does not, however, represent a nested hierarchy of topics, with some top- ical word distributions representing the vo- cabulary that is shared among several more specic topics. This paper presents hierar- chical PAM |an enhancement that explic- itly represents a</abstract>
+	</publication>
+	<publication>
+		<title>QuASM: a system for question answering using semi-structured data</title>
+		<year>2002</year>
+		<authors>david pinto,michael branstein,ryan coleman,w. bruce croft,matthew king,xing wei</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1053</label>
+		<keyword>Document Retrieval;Indexation;Language Model;Question Answering;Question Answering System;semi-structured data;Structured Documents;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a system for question answering using semi-structured metadata, QuASM (pronounced &quot;chasm&quot;). Question answering systems aim to improve search performance by providing users with specific answers, rather than having users scan retrieved documents for these answers. Our goal is to answer factual questions by exploiting the structure inherent in documents found on the World Wide Web (WWW). Based</abstract>
+	</publication>
+	<publication>
+		<title>Exploitation and exploration in a performance based contextual advertising system</title>
+		<year>2010</year>
+		<authors>xuerui wang,ruofei zhang,ying cui,jianchang mao,rong jin</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1053</label>
+		<keyword>Online Advertising;Reinforcement Learning;Simulation Framework;Click Through Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The dynamic marketplace in online advertising calls for ranking systems that are optimized to consistently promote and capitalize better performing ads. The streaming nature of online data inevitably makes an advertising system choose between maximizing its expected revenue according to its current knowledge in short term (exploitation) and trying to learn more about the unknown to improve its knowledge (exploration),</abstract>
+	</publication>
+	<publication>
+		<title>Rapid development of Hindi named entity recognition using conditional random fields and feature induction</title>
+		<year>2003</year>
+		<authors>andrew mccallum</authors>
+		<jconf>ACM Transactions on Asian Language Information Processing</jconf>
+		<label>1053</label>
+		<keyword>Conditional Random Field;Cross Validation;Development Time;Named Entity Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes our application of conditional random fields with feature induction to a Hindi named entity recognition task. With only five days development time and little knowledge of this language, we automatically discover relevant features by providing a large array of lexical tests and using feature induction to automatically construct the features that most increase conditional likelihood. In an</abstract>
+	</publication>
+	<publication>
+		<title>A Study of Conway's Thrackle Conjecture</title>
+		<year>2006</year>
+		<authors>karen daniels,konstantin a. rybnikov</authors>
+		<jconf>Canadian Conference on Computational Geometry</jconf>
+		<label>1054</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PCS: An Efficient Clustering Method for High-Dimensional Data</title>
+		<year>2008</year>
+		<authors>cindy chen,jie wang</authors>
+		<jconf>Int. Conf. on Data Mining</jconf>
+		<label>1054</label>
+		<keyword>Cluster Algorithm;Clustering Method;Data Analysis;High Dimension;High Dimensional Data;Information Retrieval;Numerical Experiment;</keyword>
+		<organization>null</organization>
+		<abstract>Clustering algorithms play an important role in data analysis and information retrieval. How to obtain a clustering for a large set of high- dimensional data suitable for database applications remains a challenge. We devise in this paper a set-theoretic clustering method called PCS (Pair- wise Consensus Scheme) for high-dimensional data. Given a large set of d-dimensional data, PCS flrst constructs</abstract>
+	</publication>
+	<publication>
+		<title>Efficient data modeling and querying system for multidimensional spatial data</title>
+		<year>2008</year>
+		<authors>cindy chen</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>1054</label>
+		<keyword>Data Acquisition;Data Model;Point Cloud;Spatial Analysis;Spatial Data;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-dimensional spatial data are obtained when a number of data acquisition devices are deployed at difierent locations to measure a certain set of attributes of the study subject. How to manipulate these spatial data remains a challenge to the database community, especially when the spatial loca- tions are represented in 3D. In this work, we establish a data model to</abstract>
+	</publication>
+	<publication>
+		<title>SQS - A Secure XML Querying System</title>
+		<year>2008</year>
+		<authors>cindy chen</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>1054</label>
+		<keyword>Design and Development;Query Evaluation;Secure System;Xml Database;Xml Document;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Contemporary XML database querying systems have to deal with a rapidly growing amount of data and a large number of users. As a consequence, if access control is used to protect sensitive XML data at a flne-grained level, it is ine-cient when it comes to query evaluation, since it is di-cult to enforce access control on each node in an</abstract>
+	</publication>
+	<publication>
+		<title>Robust Spatial Data Hiding for Color Images</title>
+		<year>2003</year>
+		<authors>xiaoqiang li,xiangyang xue</authors>
+		<jconf>Communications and Multimedia Security</jconf>
+		<label>1055</label>
+		<keyword>Color Image;Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Optimized Multi-bits Blind Watermarking Scheme</title>
+		<year>2003</year>
+		<authors>xiaoqiang li,xiangyang xue</authors>
+		<jconf>International Conference on Information and Communication Security</jconf>
+		<label>1055</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Robust Mesh Watermarking Scheme Based on PCA</title>
+		<year>2009</year>
+		<authors>bin yang,xiaoqiang li</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>1055</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multichannel Data Hiding Scheme for Color Images</title>
+		<year>2003</year>
+		<authors>xiaoqiang li,zhiyan du,peizhong lu,xiangyang xue</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>1055</label>
+		<keyword>Color Image;Data Hiding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Feature-Based Robust Audio Watermarking for Copyright Protection</title>
+		<year>2003</year>
+		<authors>xiangyang xue,xiaoqiang li,peizhong lu</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>1055</label>
+		<keyword>Audio Watermarking;Copyright Protection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Audio Watermarking Based on Music Content Analysis: Robust against Time Scale Modification</title>
+		<year>2003</year>
+		<authors>xiangyang xue</authors>
+		<jconf>International Workshop on Digital Watermarking</jconf>
+		<label>1055</label>
+		<keyword>Audio Watermarking;Content Analysis;Time Scale;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Content Based Localized Robust Audio Watermarking</title>
+		<year>2003</year>
+		<authors>xiangyang xue</authors>
+		<jconf>Multimedia Interactive Protocols and Systems</jconf>
+		<label>1055</label>
+		<keyword>Audio Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust audio identification for MP3 popular music</title>
+		<year>2010</year>
+		<authors>yaduo liu,xiangyang xue</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1055</label>
+		<keyword>Music Information Retrieval;Personal Computer;Software Systems;Time Scale;Band Pass Filter;</keyword>
+		<organization>null</organization>
+		<abstract>Audio identification via fingerprint has been an active research field with wide applications for years. Many technical papers were published and commercial software systems were also employed. However, most of these previously reported methods work on the raw audio format in spite of the fact that nowadays compressed format audio, especially MP3 music, has grown into the dominant way to</abstract>
+	</publication>
+	<publication>
+		<title>Robust music identification based on low-order zernike moment in the compressed domain</title>
+		<year>2010</year>
+		<authors>yaduo liu,xiangyang xue</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1055</label>
+		<keyword>Image Processing Techniques;Time Scale;Zernike Moment;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we devise a novel robust music identification algorithm utilizing compressed-domain audio Zernike moment adapted from image processing techniques as the pivotal feature. Audio fingerprint derived from this feature exhibits strong robustness against various audio signal distortions including the challenging pitch shifting and time-scale modification. Experiments show that in our test dataset composed of 1822 popular songs, a</abstract>
+	</publication>
+	<publication>
+		<title>Audio Watermarking Based on Statistical Feature in Wavelet Domain</title>
+		<year>2003</year>
+		<authors>xiangyang xue,xiaoqiang li</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>1055</label>
+		<keyword>Audio Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Localized audio watermarking technique robust against timescale modification</title>
+		<year>2006</year>
+		<authors>xiangyang xue,peizhong lu</authors>
+		<jconf>IEEE Transactions on Multimedia</jconf>
+		<label>1055</label>
+		<keyword>Audio Watermarking;Time Scale;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network Intrusion Detection with Workflow Feature Definition Using BP Neural Network</title>
+		<year>2009</year>
+		<authors>yong wang,dawu gu,hongjiao li,jing li</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>1056</label>
+		<keyword>Network Intrusion Detection;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach for Symmetric Encryption Against Side Channel Attacks in Provable Security</title>
+		<year>2007</year>
+		<authors>dawu gu</authors>
+		<jconf>Provable Security</jconf>
+		<label>1056</label>
+		<keyword>Provable Security;Symmetric Encryption;Side Channel Attacks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Differential fault analysis on the ARIA algorithm</title>
+		<year>2008</year>
+		<authors>dawu gu,juanru li</authors>
+		<jconf>Information Sciences</jconf>
+		<label>1056</label>
+		<keyword>Fault Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Differential fault analysis on Camellia</title>
+		<year>2010</year>
+		<authors>dawu gu,juanru li,zhiqiang liu,ya liu</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>1056</label>
+		<keyword>Fault Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Differential fault analysis on the contracting UFN structure, with application to SMS4 and MacGuffin</title>
+		<year>2009</year>
+		<authors>dawu gu,wang yi</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>1056</label>
+		<keyword>Fault Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An empirical study of the boundary values of the object-oriented metrics</title>
+		<year>2006</year>
+		<authors>raed shatnawi</authors>
+		<jconf>Computer Applications in Industry and Engineering</jconf>
+		<label>1057</label>
+		<keyword>Empirical Study;Object-oriented Metrics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Investigation of Bad Smells in Object-Oriented Design</title>
+		<year>2006</year>
+		<authors>raed shatnawi</authors>
+		<jconf>International Conference on Information Technology: New Generations</jconf>
+		<label>1057</label>
+		<keyword>Object Oriented Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Graph-Based Representation of Object-Oriented Designs</title>
+		<year>2006</year>
+		<authors>huaming zhang,raed shatnawi</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>1057</label>
+		<keyword>Formal Analysis;Graph Representation;Object Oriented;Object Oriented Design;Small World;Software Metric;Unified Modeling Language;</keyword>
+		<organization>null</organization>
+		<abstract>This article proposes a general graph-based representation for modeling Object Oriented (OO) soft- ware designs. The advantages of the representation over the Unified Modeling Language (UML) are: it formalizes the link between primitive OO design features and primitive entities of graphs; it models all the design features of an OO design in one cohesive graph; it provides us a convenient</abstract>
+	</publication>
+	<publication>
+		<title>Predicting Error Probability in the Eclipse Project</title>
+		<year>2006</year>
+		<authors>raed shatnawi,huaming zhang</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>1057</label>
+		<keyword>Empirical Study;Error Probability;Object Oriented Design;Object-oriented Metrics;Object-oriented Software;Open Source;Prediction Error;Software Quality;</keyword>
+		<organization>null</organization>
+		<abstract>Object-oriented software metrics have been shown to be able to predict various software quality factors. This paper investigated whether the metrics could predict class error probability and whether the predicted probability could group classes in the object-oriented design. We found, in an open source system, that a set of object-oriented metrics could predict class error probability and the probability could</abstract>
+	</publication>
+	<publication>
+		<title>An empirical study of the bad smells and class error probability in the post-release object-oriented system evolution</title>
+		<year>2007</year>
+		<authors>raed shatnawi</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>1057</label>
+		<keyword>Empirical Study;Error Probability;Object Oriented Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The effectiveness of software metrics in identifying error-prone classes in post-release software evolution process</title>
+		<year>2008</year>
+		<authors>raed shatnawi</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>1057</label>
+		<keyword>Software Evolution;Software Metric;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding software metrics threshold values using ROC curves</title>
+		<year>2010</year>
+		<authors>raed shatnawi,james swain,tim newman</authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<label>1057</label>
+		<keyword>Roc Curve;Software Metric;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Access Normalization: Loop Restructuring for NUMA Compilers</title>
+		<year>1992</year>
+		<authors>keshav pingali</authors>
+		<jconf>Architectural Support for Programming Languages and Operating Systems</jconf>
+		<label>1058</label>
+		<keyword>Lattice Theory;Loop Transformation;Memory Access;Parallel Machines;Remote Access;Basic Linear Algebra Subprograms;Remote Memory Access;FORTRAN;</keyword>
+		<organization>null</organization>
+		<abstract>In scalable parallel machines, processors can make local memory accesses much faster than they can make remote memory accesses. In addition, when a number of remote accesses must be made, it is usually more efficient to use block transfers of data rather than to use many small messages. To run well on such machines, software must exploit these features. We</abstract>
+	</publication>
+	<publication>
+		<title>Integrating High-Level Optimizations in a Production Compiler: Design and Implementation Experience</title>
+		<year>2003</year>
+		<authors>somnath ghosh,abhay kanhere,rakesh krishnaiyer,dattatraya kulkarni,chu-cheow lim,ng john</authors>
+		<jconf>Compiler Construction</jconf>
+		<label>1058</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Value-Profile Guided Stride Prefetching for Irregular Code</title>
+		<year>2002</year>
+		<authors>youfeng wu,mauricio j. serrano,rakesh krishnaiyer,jesse fang</authors>
+		<jconf>Compiler Construction</jconf>
+		<label>1058</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Loop Scheduling for Heterogeneity</title>
+		<year>1995</year>
+		<authors>michal cierniak,mohammed javeed zaki</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>1058</label>
+		<keyword>Heterogeneous Network;Load Balance;Loop Scheduling;Optimal Scheduling;Parallel Programs;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the problem of scheduling par- allel loops at compile-time for a heterogeneous network of machines. We considerheterogeneity in three aspects of parallel programming: program, processor and network. A heterogeneous program has parallel loops with different amount of work in each iteration; heterogeneous proces- sors have different speeds; and a heterogeneous network has different cost of</abstract>
+	</publication>
+	<publication>
+		<title>Customized Dynamic Load Balancing for a Network of Workstations</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>1058</label>
+		<keyword>Dynamic Load Balancing;Network of Workstation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Lightweight lock-free synchronization methods for multithreading</title>
+		<year>2006</year>
+		<authors>arun kejariwal,hideki saito,xinmin tian,milind girkar,utpal banerjee,constantine d. polychronopoulos</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>1058</label>
+		<keyword>Chip Multiprocessor;Memory Model;Parallel Programs;Sequential Consistency;Thread Level Parallelism;</keyword>
+		<organization>null</organization>
+		<abstract>Emergence of chip multiprocessors has created a need for exploitation of beyond DOALL-type thread-level parallelism (TLP). This calls for development of efficient thread synchronization techniques to exploit TLP in general parallel programs with dependences. For this, several thread synchronization techniques have been proposed in the past. However, these limit the exploitation of fine-grain TLP due to large run-time overhead. Furthermore,</abstract>
+	</publication>
+	<publication>
+		<title>On the performance potential of different types of speculative thread-level parallelism: The DL version of this paper includes corrections that were not made available in the printed proceedings</title>
+		<year>2006</year>
+		<authors>arun kejariwal,xinmin tian,milind girkar,sergey kozhukhov,hideki saito,utpal banerjee,alexander v. veidenbaum,constantine d. polychronopoulos</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>1058</label>
+		<keyword>Arithmetic Mean;Control Dependence;Data Dependence;Geometric Mean;Performance Evaluation;Speculative Execution;Standard Deviation;Thread Level Parallelism;Thread Level Speculation;Upper Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Recent research in thread-level speculation (TLS) has proposed several mechanisms for optimistic execution of difficult-to-analyze serial codes in parallel. Though it has been shown that TLS helps to achieve higher levels of parallelism, evaluation of the unique performance potential of TLS, i.e., performance gain that be achieved only through speculation, has not received much attention. In this paper, we evaluate</abstract>
+	</publication>
+	<publication>
+		<title>Interprocedural Array Remapping</title>
+		<year>1997</year>
+		<authors>michal cierniak</authors>
+		<jconf>International Conference on Parallel Architectures and Compilation Techniques</jconf>
+		<label>1058</label>
+		<keyword>Compiler Optimization;Data Transformation;Programming Language;FORTRAN;</keyword>
+		<organization>null</organization>
+		<abstract>Programming languages like Fortran or C define exactly the layout of array elements in memory. Programmers often use that definition to access the same memory via variables of different types. For many real programs this practice makes changing the layout of an array impossible without violating the semantics of the program since the same memory block may be accessed via</abstract>
+	</publication>
+	<publication>
+		<title>Inter-Procedural Loop Fusion, Array Contraction and Rotation</title>
+		<year>2003</year>
+		<authors>john ng,dattatraya kulkarni,robert cox,scott bobholz</authors>
+		<jconf>International Conference on Parallel Architectures and Compilation Techniques</jconf>
+		<label>1058</label>
+		<keyword>Code Motion;Design and Implementation;Loop Fusion;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present the design and implementation of an inter-procedural loop fusion, array contraction and rotation technique in a production compiler. We provide experimental results to show that this technique improves SPECfp2000 benchmarks by 12%. The technique employs a locality-conscious inter-procedural analysis to drive inlining decisions. It then uses regular section analysis and code motion techniques to enable</abstract>
+	</publication>
+	<publication>
+		<title>Impact of Compiler-based Data-Prefetching Techniques on SPEC OMP Application Performance</title>
+		<year>2005</year>
+		<authors>xinmin tian,rakesh krishnaiyer,hideki saito,milind girkar</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1058</label>
+		<keyword>Compiler Optimization;data prefetching;Multiprocessor Systems;Performance Evaluation;Shared Memory Multiprocessor;Thread Level Parallelism;FORTRAN;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we evaluate the benefits achievable from software data-prefetching techniques for OpenMP* C/C++ and Fortran benchmark programs, using the framework of the Intel production compiler for the Intel Itanium® 2 processor. Prior work on software data-prefetching study has primarily focused on benchmark performance in the context of a few software data-prefetching schemes developed in research compilers. In contrast,</abstract>
+	</publication>
+	<publication>
+		<title>Memory Placement Techniques for Parallel Association Mining</title>
+		<year>1998</year>
+		<authors>srinivasan parthasarathy,mohammed javeed zaki</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1058</label>
+		<keyword>Association Mining;Association Rule;Data Locality;Data Mining;Data Structure;Distributed Memory Machine;Perforation;Recursive Data Structure;Sequential Pattern;</keyword>
+		<organization>null</organization>
+		<abstract>Many data mining tasks (e.g., Association Rules, Sequen- tial Patterns) use complex pointer-based data structures (e.g., hash trees) that typically suffer from sub-optimal data local- ity. In the multiprocessor case shared access to these data structures may also result in false sharing. For these tasks it is commonly observed that the recursive data structure is built once and accessed multiple</abstract>
+	</publication>
+	<publication>
+		<title>New Algorithms for Fast Discovery of Association Rules</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy,mitsunori ogihara</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1058</label>
+		<keyword>Association Rule;frequent itemset;Bottom Up;</keyword>
+		<organization>null</organization>
+		<abstract>Discovery of association rules is an important problem in database mining. In this paper we present new algorithms for fast association min- ing, which scan the database only once, address- ing the open question whether all the rules can be efficiently extracted in a single database pass. The algorithms use novel itemset clustering tech- niques to approximate the set of</abstract>
+	</publication>
+	<publication>
+		<title>Recovering Logical Structures of Data</title>
+		<year>1995</year>
+		<authors>michal cierniak</authors>
+		<jconf>Languages and Compilers for Parallel Computing</jconf>
+		<label>1058</label>
+		<keyword>Data Structure;Parallelizing Compilers;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Many powerful parallelizing compiler techniques rely on the structures of data and code. Unfortunately, in many real applications, arrays do not have syntactic structures. In this paper, we show that logical da ta structures can be automatically recovered from the flat, one-dimensional arr ays and accesses. We present a framework,and algorithms for recovering the logic al multi-dimensional data structures.</abstract>
+	</publication>
+	<publication>
+		<title>An Executable Representation of Distance and Direction</title>
+		<year>1991</year>
+		<authors>richard johnson,keshav pingali</authors>
+		<jconf>Languages and Compilers for Parallel Computing</jconf>
+		<label>1058</label>
+		<keyword>Continuation Passing Style;Intermediate Representation;Parallelizing Compilers;Static Single Assignment Form;</keyword>
+		<organization>null</organization>
+		<abstract>The dependence flow graph is a novel intermediate representation for optimizingand parallelizing compilers that can be viewed as an executable representationof program dependences. The execution model, called dependencedrivenexecution, is a generalization of the tagged-token dataflow model thatpermits imperative updates to memory. The dependence flow graph subsumesother representations such as continuation-passing style [12], data dependencegraphs [13], and static single assignment form...</abstract>
+	</publication>
+	<publication>
+		<title>A Singular Loop Transformation Framework Based on NonSingular Matrices</title>
+		<year>1992</year>
+		<authors>keshav pingali</authors>
+		<jconf>Languages and Compilers for Parallel Computing</jconf>
+		<label>1058</label>
+		<keyword>Loop Transformation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Unifying Data and Control Transformations for Distributed Shared Memory Machines</title>
+		<year>1995</year>
+		<authors>michal cierniak</authors>
+		<jconf>Sigplan Notices</jconf>
+		<label>1058</label>
+		<keyword>Compiler Optimization;Data Locality;Data Transformation;Distributed Shared Memory;Memory Hierarchy;Parallel Machines;Pure Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tight analysis of the performance potential of thread speculation using spec CPU 2006</title>
+		<year>2007</year>
+		<authors>arun kejariwal,xinmin tian,milind girkar,sergey kozhukhov,utpal banerjee,alexander v. veidenbaum,constantine d. polychronopoulos</authors>
+		<jconf>Principles and Practice of Parallel Programming</jconf>
+		<label>1058</label>
+		<keyword>Data Dependence;Limiting Factor;Performance Evaluation;Speculative Execution;Thread Level Parallelism;Thread Level Speculation;Upper Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-cores such as the Intel®1 Core™2 Duo processor, facilitate efficient thread-level parallel execution of ordinary programs, wherein the different threads-of-execution are mapped onto different physical processors. In this context, several techniques have been proposed for auto-parallelization of programs. Recently, thread-level speculation (TLS) has been proposed as a means to parallelize difficult-to-analyze serial codes. In general, more than one technique can</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Sampling for Data Mining of Association Rules</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy,mitsunori ogihara</authors>
+		<jconf>Research Issues in Data Engineering</jconf>
+		<label>1058</label>
+		<keyword>Association Rule;Data Mining;Experimental Evaluation;Random Sampling;</keyword>
+		<organization>null</organization>
+		<abstract>Discovery of association rules is a prototypical problem in data mining. The current algorithms proposed for data mining of association rules make repeated passes over the database to determine the commonly occurring itemsets (or set of items). For large databases, the I/O overhead in scan- ning the database can be extremely high. In this paper we show that random sampling</abstract>
+	</publication>
+	<publication>
+		<title>Common runtime support for high-performance parallel languages</title>
+		<year>1993</year>
+		<authors>geoffrey fox,sanjay ranka,michael l. scott,allen d. malony,james c. browne,marina c. chen,alok n. choudhary,thomas cheatham,janice e. cuny,rudolf eigenmann,amr f. fahmy,ian t. foster,dennis gannon,tomasz haupt,carl kesselman,charles koelbel,monica s. lam,thomas j. leblanc,jim openshaw,david a. padua,constantine d. polychronopoulos,joel h. saltz,alan sussman,gil weigand,katherine a. yelick</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>1058</label>
+		<keyword>High Performance;Parallel Languages;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Loop Transformations for NUMA Machines</title>
+		<year>1992</year>
+		<authors>keshav pingali</authors>
+		<jconf>SIGPLAN Workshops</jconf>
+		<label>1058</label>
+		<keyword>Loop Transformation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A localized algorithm for parallel association mining</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy</authors>
+		<jconf>ACM Symposium on Parallel Algorithms and Architectures</jconf>
+		<label>1058</label>
+		<keyword>Association Mining;Association Rule;Data Consistency;frequent itemset;Local Algorithm;Parallel Algorithm;Process Mining;Decision Support;Knowledge Discovery and Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Discovery of association rules is an important database mining problem. Mining for association rules involves extracting pat- terns from large databases and inferring useful rules from them. Several parallel and sequential algorithms have been proposed in the literature to solve this problem. Almost all of these algo- rithms make repeated passes over the database to determine the commonly occurring patterns</abstract>
+	</publication>
+	<publication>
+		<title>Compile-Time Scheduling Algorithms for a Heterogeneous Network of Workstations</title>
+		<year>1997</year>
+		<authors>michal cierniak,mohammed javeed zaki</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>1058</label>
+		<keyword>Heterogeneous Network;Parallel Programs;Scheduling Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>this paper, we study the problem of scheduling parallel loops at compile-timefor a heterogeneous network of workstations. We consider heterogeneity in variousaspects of parallel programming: program, processor, memory and network. Aheterogeneous program has parallel loops with different amount of work in eachiteration; heterogeneous processors have different speeds; heterogeneous memoryrefers to the different amount of user-available memory on the machines; and</abstract>
+	</publication>
+	<publication>
+		<title>Just-in-Time Pptimizations for High-Performance Java Programs</title>
+		<year>1997</year>
+		<authors>michal cierniak</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>1058</label>
+		<keyword>High Performance;Java Programming;Just In Time;FORTRAN;</keyword>
+		<organization>null</organization>
+		<abstract>Our previous experience with an off-line Java optimizer (6) has shown that some traditional algorithms used in compilers are too slow for a JIT compiler. In this paper we propose and implement faster ways of performing analyses needed for our optimizations. For instance we have replaced reaching definition with constant values and loop induction variables with loop-defined variables. As the</abstract>
+	</publication>
+	<publication>
+		<title>Optimizing Java bytecodes</title>
+		<year>1997</year>
+		<authors>michal cierniak</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>1058</label>
+		<keyword>Intermediate Representation;java bytecode;Memory Hierarchy;Front End;Just In Time;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY We have developed a research compiler for Java class files. The compiler, which we call Briki, is designed to test new compilation techniques. We focus on optimiza- tions which are only possible or much easier to perform on a high-level intermediate representation. We have designed such a representation, JavaIR, and have written a front-end which recovers high-level structure from</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Algorithms for Discovery of Association Rules</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy,mitsunori ogihara</authors>
+		<jconf>Data Mining and Knowledge Discovery</jconf>
+		<label>1058</label>
+		<keyword>Association Rule;Parallel Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Customized Dynamic Load Balancing for a Network of Workstations</title>
+		<year>1997</year>
+		<authors>mohammed javeed zaki,srinivasan parthasarathy</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>1058</label>
+		<keyword>Dynamic Load Balancing;Network of Workstation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Data Mining for Association Rules on Shared-Memory Systems</title>
+		<year>2001</year>
+		<authors>srinivasan parthasarathy,mohammed javeed zaki,mitsunori ogihara</authors>
+		<jconf>Knowledge and Information Systems</jconf>
+		<label>1058</label>
+		<keyword>Association Rule;Computer Experiment;Data Locality;Data Mining;Data Structure;Parallel Algorithm;Recursive Data Structure;Sequential Pattern;Shared Memory Multiprocessor;Shared Memory System;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present a new parallel algorithm for data mining of association rules on shared-memory multiprocessors. We study the degree of parallelism, synchroniza- tion, and data locality issues, and present optimizations for fast frequency computation. Experiments show that a signicant improvement of performance is achieved using our proposed optimizations. We also achieved good speed-up for the parallel algorithm.</abstract>
+	</publication>
+	<publication>
+		<title>An Advanced Optimizer for the IA64 Architecture</title>
+		<year>2000</year>
+		<authors>rakesh krishnaiyer,dattatraya kulkarni,daniel m. lavery,chu-cheow lim,ng john,david c. sehr</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>1058</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Access normalization: loop restructuring for NUMA computers</title>
+		<year>1993</year>
+		<authors>keshav pingali</authors>
+		<jconf>ACM Transactions on Computer Systems</jconf>
+		<label>1058</label>
+		<keyword>Data Distribution;Data Locality;Lattice Theory;Loop Transformation;Memory Access;Parallel Machines;Parallelizing Compilers;Remote Access;Basic Linear Algebra Subprograms;Remote Memory Access;FORTRAN;</keyword>
+		<organization>null</organization>
+		<abstract>In scalable parallel machines, processors can make local memory accesses much faster than they can make remote memory accesses. Additionally, when a number of remote accesses must be made, it is usually more efficient to use block transfers of data rather than to use many small messages. To run well on such machines, software must exploit these features. We believe</abstract>
+	</publication>
+</person>

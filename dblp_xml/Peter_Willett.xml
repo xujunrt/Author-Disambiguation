@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Willett</FullName>
+	<publication>
+		<title>Parsimonious Kernel Fisher Discrimination</title>
+		<year>2007</year>
+		<authors>kitsuchart pasupa,robert f. harrison</authors>
+		<jconf>Iberian Conference on Pattern Recognition and Image Analysis</jconf>
+		<label>819</label>
+		<keyword>Machine Learning;Small Sample Size;Virtual Screening;Kernel Fisher Discriminant Analysis;Kernel Fisher Discriminant;</keyword>
+		<organization>null</organization>
+		<abstract>By applying recent results in optimization transfer, a new al- gorithm for kernel Fisher Discriminant Analysis is provided that makes use of a non-smooth penalty on the coecients to provide a parsimo- nious solution. The algorithm is simple, easily programmed and is shown to perform as well as or better than a number of leading machine learning algorithms on a</abstract>
+	</publication>
+	<publication>
+		<title>Searching Databases of Two-Dimensional and Three-Dimensional Chemical Structures Using Genetic Algorithms</title>
+		<year>1993</year>
+		<authors>gareth jones,robert d. brown,david e. clark,robert c. glen</authors>
+		<jconf>International Conference on Genetic Algorithms</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Genetic Algorithm;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancing the Effectiveness of Fingerprint-Based Virtual Screening: Use of Turbo Similarity Searching and of Fragment Frequencies of Occurrence</title>
+		<year>2009</year>
+		<authors>shereena m. arif,jérôme hert,john d. holliday,nurul malim</authors>
+		<jconf>Pattern Recognition in Bioinformatics</jconf>
+		<label>819</label>
+		<keyword>Frequency of Occurrence;Similarity Search;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computational analysis of molecular diversity for drug discovery</title>
+		<year>1999</year>
+		<authors>martin j. bayley,valerie j. gillet,john bradshaw,darren v. s. green</authors>
+		<jconf>Research in Computational Molecular Biology</jconf>
+		<label>819</label>
+		<keyword>Computer Analysis;Drug Discovery;Molecular Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Text Searching in Serial Files Using a Processor Farm</title>
+		<year>1990</year>
+		<authors>janey k. cringean,roger england,gordon a. manson</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>819</label>
+		<keyword>Design and Implementation;Document Database;High Performance;Parallel Computer;Pattern Matching;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the implementation of a parallel text retrieval sys- tem using a microprocessor network. The system is designed to allow fast searching in document databases organised using the serial file structure, with a very rapid initial text signature search being followed by a more detailed, but more time- consuming, pattern matching search. The network is built from transputers,</abstract>
+	</publication>
+	<publication>
+		<title>Hierarchic Document Clustering Using Ward's Method</title>
+		<year>1986</year>
+		<authors>abdelmoula el-hamdouchi</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>819</label>
+		<keyword>Document Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the measurement of inter-linker consistency and retrieval effectiveness in hypertext databases</title>
+		<year>1994</year>
+		<authors>david ellis,jonathan furner-hines</authors>
+		<jconf></jconf>
+		<label>819</label>
+		<keyword>Difference Set;Indexation;Indexing Terms;</keyword>
+		<organization>null</organization>
+		<abstract>An important stage in the process of retrieval of objects from a hypertext database is the creation of a set of inter-nodal links that are intended to represent the relationships existing between objects; this operation is often undertaken manually, just as index terms are often manually assigned to documents in a conventional retrieval system. In this paper, a study is</abstract>
+	</publication>
+	<publication>
+		<title>Non-hierarchical document clustering using the ICL distribution array processor</title>
+		<year>1987</year>
+		<authors>edie m. rasmussen</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>819</label>
+		<keyword>Clustering Method;Document Clustering;Parallel Architecture;Parallel Computer;Test Collection;</keyword>
+		<organization>null</organization>
+		<abstract>This paper considers the suitability and efficiency of a highly parallel computer, the ICL Distributed Array Processor (DAP), for document clustering. Algorithms are described for the implementation of the single-pass and reallocation clustering methods on the DAP and on a conventional mainframe computer. These methods are used to classify the Cranfield, Vaswani and UKCIS document test collections. The results suggest</abstract>
+	</publication>
+	<publication>
+		<title>Searching for historical word-forms in a database of 17th-century English text using spelling-correction methods</title>
+		<year>1992</year>
+		<authors>alexander m. robertson</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>819</label>
+		<keyword>Dynamic Program;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the application of algorithmic spelling-correction techniques to the identification of those words in a database of 17th century English text that are most similar to a query word in modern English. The experiments have used n-gram matching, non-phonetic coding and dynamic programming methods for spelling correction, and have demonstrated that high-recall searches can be carried out, although</abstract>
+	</publication>
+	<publication>
+		<title>Chemoinformatics: an application domain for information retrieval techniques</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>819</label>
+		<keyword>3d structure;Biological Activity;Cost Effectiveness;Database Search;Document Clustering;Graph Representation;Information Retrieval;Molecular Structure;Relevance Feedback;Similarity Search;Software Systems;Three Dimensional;Virtual Screening;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract>Chemoinformatics is the generic name for the techniques used to represent, store and process information about the two-dimensional (2D) and three-dimensional (3D) structures of chemical molecules [1, 2]. Chemoinformatics has attracted much recent prominence as a result of developments in the methods that are used to synthesize new molecules and then to test them for biological activity. These developments have</abstract>
+	</publication>
+	<publication>
+		<title>Protein Structures and Information Extraction from Biological Texts: The PASTA System</title>
+		<year>2003</year>
+		<authors>robert j. gaizauskas,george demetriou,peter j. artymiuk</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>819</label>
+		<keyword>Active Site;Information Extraction;Protein Structure;System Development;Amino Acid;Front End;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Motivation: The rapid,increase,in volume,of,protein structure,literature means,useful,information,may,be hidden,or lost in the published literature and,the process,of finding relevant material, sometimes the rate-determining factor in new research, may be arduous and slow. Results: We describe,the Protein Active Site Template Acquisition (PASTA) system, which addresses these problems,by performing,automatic,extraction of informa- tion relating to the roles of specific amino,acid residues in protein molecules,from,online,scientific articles</abstract>
+	</publication>
+	<publication>
+		<title>Compression of nucleic acid and protein sequence data</title>
+		<year>1986</year>
+		<authors>j. richard walker</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>819</label>
+		<keyword>Protein Sequence;Nucleic Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Hierarchie Agglomerative Clustering Methods for Document Retrieval</title>
+		<year>1989</year>
+		<authors>abdelmoula el-hamdouchi</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>819</label>
+		<keyword>Clustering Method;Document Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity and Dissimilarity Methods for Processing Chemical Structure Databases</title>
+		<year>1998</year>
+		<authors>valerie j. gillet,david j. wild,john bradshaw</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RASCAL: Calculation of Graph Similarity using Maximum Common Edge Subgraphs</title>
+		<year>2002</year>
+		<authors>john w. raymond,eleanor j. gardiner</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>819</label>
+		<keyword>Detection Algorithm;Lower and Upper Bound;Maximum Clique;</keyword>
+		<organization>null</organization>
+		<abstract>A new graph similarity calculation procedure is introduced for comparing labeled graphs. Given a minimum similarity threshold, the procedure consists of an initial screening process to determine whether it is possible for the measure of similarity between the two graphs to exceed the minimum threshold, followed by a rigorous maximum common edge subgraph (MCES) detection algorithm to compute the exact</abstract>
+	</publication>
+	<publication>
+		<title>Inter-linker consistency in the manual construction of hypertext documents</title>
+		<year>1999</year>
+		<authors>jonathan furner,david ellis</authors>
+		<jconf>ACM Computing Surveys</jconf>
+		<label>819</label>
+		<keyword>Graph Theory;Indexation;Topological Indices;</keyword>
+		<organization>null</organization>
+		<abstract>ing with credit is permitted. To copy otherwise, to republish, to post onservers, to redistribute to lists, or to use any component of this work in other works, requires priorspeci#c permission and#or a fee. Permissions may be requested from Publications Dept, ACMInc., 1515 Broadway, New York, NY 10036 USA, fax +1 #212# 869-0481, or permissions@acm.org.2#J. Furner, D. Ellis, and P.</abstract>
+	</publication>
+	<publication>
+		<title>Paragraph-based Searching in Full-Text Documents</title>
+		<year>1988</year>
+		<authors>suliman al-hawamdeh</authors>
+		<jconf>Electronic Publishing - Origination, Dissemination and Design</jconf>
+		<label>820</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nearest-neighbour Searching in Files of Text Signatures Using Transputer Networks</title>
+		<year>1991</year>
+		<authors>janey k. cringean,roger england,gordon a. manson</authors>
+		<jconf>Electronic Publishing - Origination, Dissemination and Design</jconf>
+		<label>819</label>
+		<keyword>Document Retrieval;Information Retrieval;Nearest Neighbour Search;Parallel Processing;Pattern Matching;Nearest Neighbour;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY This paper discusses the implementation of nearest-neighbour document retrieval in serial files using transputer networks. The system uses a two-stage retrieval algorithm in which an initial text-signature search is used to exclude large numbers of documents from the detailed and time-consuming pattern-matching search. The latter is implemented using a processor farm, so that documents which match at the signature</abstract>
+	</publication>
+	<publication>
+		<title>Criteria for the Selection of Search Strategies in Best-Match Document-Retrieval Systems</title>
+		<year>1986</year>
+		<authors>fiona m. mccall</authors>
+		<jconf>International Journal of Human-computer Studies / International Journal of Man-machine Studies</jconf>
+		<label>819</label>
+		<keyword>Document Retrieval;Search Strategy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Spelling Correction Using a Trigram Similarity Measure</title>
+		<year>1983</year>
+		<authors>richard c. angell,george e. freund</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network design for the implementation of text searching using a multicomputer</title>
+		<year>1991</year>
+		<authors>janey k. cringean,roger england,gordon a. manson</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Network Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Retrieving documents by plausible inference: An experimental study</title>
+		<year>1989</year>
+		<authors>w. bruce croft,t. j. lucia,janey k. cringean</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Experimental Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved algorithm for the calculation of exact term discrimination values</title>
+		<year>1988</year>
+		<authors>abdelmoula el-hamdouchi</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Document Retrieval Using a Serial Bit String Search</title>
+		<year>1983</year>
+		<authors>a. f. harding,michael f. lynch</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Document Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Current research into chemical and textual information retrieval at the department of information studies, University of Sheffield</title>
+		<year>1987</year>
+		<authors>michael f. lynch</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the NonRandom Nature of the Nearest-Neighbour Document Clusters</title>
+		<year>1993</year>
+		<authors>rachel j. shaw</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Document Clustering;Nearest Neighbour;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fast procedure for the calculation of similarity coefficients in automatic classification</title>
+		<year>1981</year>
+		<authors></authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Automatic Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An algorithm for the calculation of exact term discrimination values</title>
+		<year>1985</year>
+		<authors></authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recent trends in hierarchic document clustering: A critical review</title>
+		<year>1988</year>
+		<authors></authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>819</label>
+		<keyword>Document Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stemming and N-gram matching for term conflation in Turkish texts</title>
+		<year>1996</year>
+		<authors>f. çuna ekmekçioglu,michael f. lynch</authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Processing morphological variants in searches of Latin text</title>
+		<year>1996</year>
+		<authors>m. greengrass,alexander m. robertson,reinhard schinke</authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-hierarchic document clustering using a genetic algorithm</title>
+		<year>1995</year>
+		<authors>gareth jones,alexander m. robertson,c. santimetvirul</authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword>Document Clustering;Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Word Variant Identification in Old French</title>
+		<year>1997</year>
+		<authors>alan j. o'rourke,alexander m. robertson,penny eley,penny simons</authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Textual and chemical information processing: different domains but similar algorithms</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword>Information Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Molecular diversity techniques for chemical databases</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Information Research</jconf>
+		<label>819</label>
+		<keyword>Molecular Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graph theoretic methods for the analysis of structural relationships in biological macromolecules</title>
+		<year>2005</year>
+		<authors>peter j. artymiuk,ruth v. spriggs</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>819</label>
+		<keyword>Database Search;Detection Algorithm;Graph Theory;Nmr Structure;Pattern Matching;Protein Structure;Structural Complexity;Three Dimensional;Amino Acid;Nucleic Acid;Protein Data Bank;</keyword>
+		<organization>null</organization>
+		<abstract>Subgraph isomorphism and maximum common subgraph isomorphism algorithms from graph theory provide an effective and an efficient way of identifying structural relationships between biological macromolecules. They thus provide a natural complement to the pattern matching algorithms that are used in bioinformatics to identify sequence relationships. Examples are provided of the use of graph theory to analyse proteins for which three-dimensional</abstract>
+	</publication>
+	<publication>
+		<title>On the Creation of Hypertext Links in Full-Text Documents: Measurement of Retrieval Effectiveness</title>
+		<year>1996</year>
+		<authors>david ellis,jonathan furner</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The limitations of term co-occurrence data for query expansion in document retrieval systems</title>
+		<year>1991</year>
+		<authors>helen j. peat</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>819</label>
+		<keyword>Document Retrieval;Indexing Terms;Query Expansion;</keyword>
+		<organization>null</organization>
+		<abstract>Term cooccurrence data has been extensively used in document retrieval systems for the identification of indexing terms that are similar to those that have been specified in a user query: these similar terms can then be used to augment the original query statement. Despite the plausibility of this approach to query expan- sion, the retrieval effectiveness of the expanded que-</abstract>
+	</publication>
+	<publication>
+		<title>The Effectiveness of Stemming for Natural-Language Access to Slovene Textual Data</title>
+		<year>1992</year>
+		<authors>mirko popovic</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>819</label>
+		<keyword>Natural Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analysis and use of fragment-occurrence data in similarity-based virtual screening</title>
+		<year>2009</year>
+		<authors>shereena m. arif,john d. holliday</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Representation, searching and discovery of patterns of bases in complex RNA structures</title>
+		<year>2003</year>
+		<authors>anne-marie harrison,darren r. south,peter j. artymiuk</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Graph Theory;Rna Structure;Structure Comparison;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A genetic algorithm for flexible molecular overlay and pharmacophore elucidation</title>
+		<year>1995</year>
+		<authors>gareth jones,robert c. glen</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of protein surfaces using a genetic algorithm</title>
+		<year>1998</year>
+		<authors>andrew r. poirrette,peter j. artymiuk,david w. rice</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of protein surfaces using a genetic algorithm</title>
+		<year>1998</year>
+		<authors>andrew r. poirrette,peter j. artymiuk,david w. rice</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effectiveness of graph-based and fingerprint-based similarity measures for virtual screening of 2D chemical structure databases</title>
+		<year>2002</year>
+		<authors>john w. raymond</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Graph Matching;Similarity Measure;Similarity Search;Structural Similarity;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract>This paper reports an evaluation of both graph-based and fingerprint-based measures of structural similarity, when used for virtual screening of sets of 2D molecules drawn from the MDDR and ID Alert databases. The graph-based measures employ a new maximum common edge subgraph isomorphism algorithm, called RASCAL, with several similarity coefficients described previously for quantifying the similarity between pairs of graphs.</abstract>
+	</publication>
+	<publication>
+		<title>Maximum common subgraph isomorphism algorithms for the matching of chemical structures</title>
+		<year>2002</year>
+		<authors>john w. raymond</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Graph Matching;</keyword>
+		<organization>null</organization>
+		<abstract>The maximum common subgraph (MCS) problem has become increasingly important in those aspects of chemoinformatics that involve the matching of 2D or 3D chemical structures. This paper provides a classification and a review of the many MCS algorithms, both exact and approximate, that have been described in the literature, and makes recommendations regarding their applicability to typical chemoinformatics tasks.</abstract>
+	</publication>
+	<publication>
+		<title>Similarity searching in files of three-dimensional chemical structures: Representation and searching of molecular electrostatic potentials using field-graphs</title>
+		<year>1997</year>
+		<authors>david a. thorner,p. matthew wright,robin taylor</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Electrostatic Potential;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of the EVA descriptor for QSAR studies: 3. The use of a genetic algorithm to search for models with enhanced predictive properties (EVA_GA)</title>
+		<year>2000</year>
+		<authors>david b. turner</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of a novel infrared range vibration-based descriptor (EVA) for QSAR studies. 1. General application</title>
+		<year>1997</year>
+		<authors>david b. turner,allan m. ferguson</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Infrared;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of a novel molecular vibration-based descriptor (EVA) for QSAR studies: 2. Model validation using a benchmark steroid dataset</title>
+		<year>1999</year>
+		<authors>david b. turner,allan m. ferguson</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Model Validation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Calculating the knowledge-based similarity of functional groups using crystallographic data</title>
+		<year>2001</year>
+		<authors>paul watson ii,valerie j. gillet,marcel l. verdonk</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>819</label>
+		<keyword>Functional Group;Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dissimilarity-Based Algorithms for Selecting Structurally Diverse Sets of Compounds</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structure and singly occupied molecular orbital analysis of anionic tautomers of guanine</title>
+		<year>2008</year>
+		<authors>maciej haranczyk,john d. holliday,maciej gutowski</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>819</label>
+		<keyword>Molecular Orbital;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Angular Spectroscopy: Rapid Visualization of Three-Dimensional Substructure Dissimilarity Using Valence Angle or Torsional Descriptors</title>
+		<year>1995</year>
+		<authors>frank h. allen,peter a. bath</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity searching in databases of three-dimensional molecules and macromolecules</title>
+		<year>1992</year>
+		<authors>peter j. artymiuk,peter a. bath,helen m. grindley,catherine a. pepperrell,andrew r. poirrette,david w. rice,david a. thorner,david j. wild</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identification of .beta.sheet motifs, of .psi.-loops, and of patterns of amino acid residues in three-dimensional protein structures using a subgraph-isomorphism algorithm</title>
+		<year>1994</year>
+		<authors>peter j. artymiuk,helen m. grindley,andrew r. poirrette,david w. rice,elizabeth c. ujah</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Protein Structure;Three Dimensional;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scaffold Hopping Using Clique Detection Applied to Reduced Graphs</title>
+		<year>2006</year>
+		<authors>edward j. barker,david buttar,david a. cosgrove,eleanor j. gardiner,paula kitts,valerie j. gillet</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Method for generating a chemical reaction index for storage and retrieval of information. Comments</title>
+		<year>1981</year>
+		<authors>john m. barnard</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Reaction;Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity searching in files of three-dimensional chemical structures: Comparison of fragment-based measures of shape similarity</title>
+		<year>1994</year>
+		<authors>peter a. bath,andrew r. poirrette,frank h. allen</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Shape Similarity;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Extent of the Relationship between the Graph-Theoretical and the Geometrical Shape Coefficients of Chemical Compounds</title>
+		<year>1995</year>
+		<authors>peter a. bath,andrew r. poirrette,frank h. allen</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Response to Comment on &quot;The Extent of the Relationship between the Graph-Theoretical and the Geometrical Shape Coefficients of Chemical Compounds</title>
+		<year>1995</year>
+		<authors>peter a. bath,andrew r. poirrette,frank h. allen</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation and implementation of topological codes for online compound search and registration</title>
+		<year>1981</year>
+		<authors>david bawden,j. trevor catlow,trevor k. devon,judith m. dalton,michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Qualitative Comparison of Wiswesser Line Notation Descriptors of Reactions and the Derwent Chemical Reaction Documentation Service</title>
+		<year>1979</year>
+		<authors>david bawden,trevor k. devon,frank t. jackson,sandra i. wood,michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fourier Fingerprint-Based Method for Protein Surface Representation</title>
+		<year>2005</year>
+		<authors>martin j. bayley,eleanor j. gardiner,peter j. artymiuk</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Surface Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Algorithms for the identification of three-dimensional maximal common substructures</title>
+		<year>1987</year>
+		<authors>andrew t. brint</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hyperstructure model for chemical structure handling: Techniques for substructure searching</title>
+		<year>1994</year>
+		<authors>robert d. brown,geoffrey m. downs,gareth jones</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hyperstructure model for chemical structure handling: generation and atom-by-atom searching of hyperstructures</title>
+		<year>1992</year>
+		<authors>robert d. brown,geoffrey m. downs,anthony p. f. cook</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Matching two-dimensional chemical graphs using genetic algorithms</title>
+		<year>1994</year>
+		<authors>robert d. brown,gareth jones,robert c. glen</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generation and Display of Activity-Weighted Chemical Hyperstructures</title>
+		<year>2003</year>
+		<authors>nathan brown,david j. wilton,richard a. lewis</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual Screening Using Binary Kernel Discrimination: Effect of Noisy Training Data and the Optimization of Performance</title>
+		<year>2006</year>
+		<authors>beining chen,robert f. harrison,kitsuchart pasupa,david j. wilton,david j. wood,xiao qing lewell</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pharmacophoric pattern matching in files of three-dimensional chemical structures: Comparison of conformational-searching algorithms for flexible searching</title>
+		<year>1994</year>
+		<authors>david e. clark,gareth jones,peter w. kenny,robert c. glen</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Pattern Matching;Search Algorithm;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching and Clustering of Chemical-Structure Databases Using Molecular Property Data</title>
+		<year>1994</year>
+		<authors>geoffrey m. downs,william fisanick</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structural Search Codes for On-Line Compound Registration</title>
+		<year>1978</year>
+		<authors>lindsay a. evans,michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sampling Consideration in the Selection of Fragment Screens for Chemical Substructure Search Systems</title>
+		<year>1979</year>
+		<authors>marie t. gannon</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Genomic Data Analysis Using DNA Structure: An Analysis of Conserved Nongenic Sequences and Ultraconserved Elements</title>
+		<year>2006</year>
+		<authors>eleanor j. gardiner,linda hirons,christopher a. hunter</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Data Analysis;Dna Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graph-Theoretic Techniques for Macromolecular Docking</title>
+		<year>2000</year>
+		<authors>eleanor j. gardiner,peter j. artymiuk</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combinatorial Library Design Using a Multiobjective Genetic Algorithm</title>
+		<year>2002</year>
+		<authors>valerie j. gillet,wael khatib,peter j. fleming,darren v. s. green</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Bioactive Compound;Combinatorial Chemistry;Library Design;multiobjective genetic algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: INTRODUCTIONThe development of combinatorial chemistry techniquesduring the past decade has revolutionized the processesinvolved in the discovery of novel bioactive compounds inthe pharmaceutical and agrochemical industries.1,2Initiallythe focus in combinatorial library design was on selectingdiverse sets of compounds on the assumption that maximizingdiversity would result in a broad coverage of bioactivityspace3and hence would maximize the chances of findinghits. However,...</abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching Using Reduced Graphs</title>
+		<year>2003</year>
+		<authors>valerie j. gillet,john bradshaw</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Effectiveness of Reactant Pools for Generating Structurally-Diverse Combinatorial Libraries</title>
+		<year>1997</year>
+		<authors>valerie j. gillet,john bradshaw</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identification of Biological Activity Profiles Using Substructural Analysis and Genetic Algorithms</title>
+		<year>1998</year>
+		<authors>valerie j. gillet,john bradshaw</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Biological Activity;Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selecting Combinatorial Libraries to Optimize Diversity and Physical Properties</title>
+		<year>1999</year>
+		<authors>valerie j. gillet,john bradshaw,darren v. s. green</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Physical Properties;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer storage and retrieval of generic chemical structures in patents. 7. Parallel simulation of a relaxation algorithm for chemical substructure search</title>
+		<year>1986</year>
+		<authors>valerie j. gillet,stephen m. welford,michael f. lynch,john m. barnard,geoffrey m. downs,gordon a. manson,j. thompson</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Parallel Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Files of Three-Dimensional Chemical Structures: Evaluation of the EVA Descriptor and Combination of Rankings Using Data Fusion</title>
+		<year>1997</year>
+		<authors>claire m. r. ginn,david b. turner,allan m. ferguson</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Similarity Search;Three Dimensional;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Fingerprint-Based Methods for Virtual Screening Using Multiple Bioactive Reference Structures</title>
+		<year>2004</year>
+		<authors>jérôme hert,david j. wilton,pierre acklin,kamal azzaoui,edgar jacoby,ansgar schuffenhauer</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Methods for Ligand-Based Virtual Screening: Use of Data Fusion and Machine Learning to Enhance the Effectiveness of Similarity Searching</title>
+		<year>2006</year>
+		<authors>jérôme hert,david j. wilton,pierre acklin,kamal azzaoui,edgar jacoby,ansgar schuffenhauer</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Machine Learning;Similarity Search;Virtual Screening;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structural DNA Profiles: Single Sequence Queries</title>
+		<year>2006</year>
+		<authors>linda hirons,eleanor j. gardiner,christopher a. hunter</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Calculation of Intersubstituent Similarity Using R-Group Descriptors</title>
+		<year>2003</year>
+		<authors>john d. holliday,stephen p. jelfs,peter gedeck</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering Files of Chemical Structures Using the Fuzzy k-Means Clustering Method</title>
+		<year>2004</year>
+		<authors>john d. holliday,sarah l. rodgers,min-you chen,mahdi mahfouf,kevin lawson,graham mullier</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Clustering Method;Fuzzy K Means;K Means;</keyword>
+		<organization>null</organization>
+		<abstract>This paper evaluates the use of the fuzzy k-means clustering method for the clustering of files of 2D chemical structures. Simulated property prediction experiments with the Starlist file of logP values demonstrate that use of the fuzzy k-means method can, in some cases, yield results that are superior to those obtained with the conventional k-means method and with Ward's clustering</abstract>
+	</publication>
+	<publication>
+		<title>Analysis and Display of the Size Dependence of Chemical Similarity Coefficients</title>
+		<year>2003</year>
+		<authors>john d. holliday,naomie salim,martin whittle</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Production of Machine-Readable Descriptions of Chemical Reactions Using Wiswesser Line Notations</title>
+		<year>1978</year>
+		<authors>michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Automatic Detection of Chemical Reaction Sites</title>
+		<year>1978</year>
+		<authors>michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Automatic Detection;Chemical Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>George Vladutz, 1928-1990</title>
+		<year>1990</year>
+		<authors>michael f. lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Use of a maximum common subgraph algorithm in the automatic identification of ostensible bond changes occurring in chemical reactions</title>
+		<year>1981</year>
+		<authors>james j. mcgregor</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A tribute of Michael F. Lynch</title>
+		<year>1991</year>
+		<authors>george w. a. milne</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Knowledge-Based Interaction Fingerprint Scoring: A Simple Method for Improving the Effectiveness of Fast Scoring Functions</title>
+		<year>2006</year>
+		<authors>chidochangu p. mpamhanga,beining chen,iain m. mclay</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Knowledge Base;Score Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Heuristics for Similarity Searching of Chemical Graphs Using a Maximum Common Edge Subgraph Algorithm</title>
+		<year>2002</year>
+		<authors>john w. raymond,eleanor j. gardiner</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Databases of Flexible 3D Structures Using Smoothed Bounded Distance Matrices</title>
+		<year>2003</year>
+		<authors>john w. raymond</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>3d structure;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Databases of Flexible 3D Structures Using Autocorrelation Vectors Derived from Smoothed Bounded Distance Matrices</title>
+		<year>2006</year>
+		<authors>nicholas rhodes,david e. clark</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>3d structure;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CLIP: Similarity Searching of 3D Databases Using Clique Detection</title>
+		<year>2003</year>
+		<authors>nicholas rhodes,alain calvet,james b. dunbar jr.,christine humblet</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bit-String Methods for Selective Compound Acquisition</title>
+		<year>2000</year>
+		<authors>nicholas rhodes,james b. dunbar jr.,christine humblet</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combination of Fingerprint-Based Similarity Coefficients Using Data Fusion</title>
+		<year>2003</year>
+		<authors>naomie salim,john d. holliday</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Files of Three-Dimensional Chemical Structures: Analysis of the BIOSTER Database Using Two-Dimensional Fingerprints and Molecular Field Descriptors</title>
+		<year>2000</year>
+		<authors>ansgar schuffenhauer,valerie j. gillet</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Searching for Patterns of Amino Acids in 3D Protein Structures</title>
+		<year>2003</year>
+		<authors>ruth v. spriggs,peter j. artymiuk</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Protein Structure;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Files of Three-Dimensional Chemical Structures: Flexible Field-Based Searching of Molecular Electrostatic Potentials</title>
+		<year>1996</year>
+		<authors>david a. thorner,david j. wild,p. matthew wright</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Electrostatic Potential;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rapid Quantification of Molecular Diversity for Selective Database Acquisition</title>
+		<year>1997</year>
+		<authors>david b. turner,simon m. tyrrell</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Molecular Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancing the Effectiveness of Virtual Screening by Fusing Nearest Neighbor Lists: A Comparison of Similarity Coefficients</title>
+		<year>2004</year>
+		<authors>martin whittle,valerie j. gillet,alexander alex,jens loesel</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Virtual Screening;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Similarity Measures for Searching the Dictionary of Natural Products Database</title>
+		<year>2003</year>
+		<authors>martin whittle,werner klaffke,paula van noort</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Natural Product;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity searching in files of three-dimensional chemical structures. Implementation of atom mapping on the distributed array processor DAP610, the MasPar MP1104, and the connection machine CM200</title>
+		<year>1994</year>
+		<authors>david j. wild</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searching in Files of Three-Dimensional Chemical Structures. Alignment of Molecular Electrostatic Potential Fields with a Genetic Algorithm</title>
+		<year>1996</year>
+		<authors>david j. wild</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Electrostatic Potential;Genetic Algorithm;Similarity Search;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer Techniques for the Indexing of Chemical Reaction Information</title>
+		<year>1979</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Reaction;Computational Techniques;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Screen Set Generation Algorithm</title>
+		<year>1979</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Generic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Evaluation of an Automatically Indexed, Machine-Readable Chemical Reactions File</title>
+		<year>1980</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Automatic Indexing;Chemical Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some heuristics for nearest-neighbor searching in chemical structure files</title>
+		<year>1983</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Nearest Neighbor Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of relocation clustering algorithms for the automatic classification of chemical structures</title>
+		<year>1984</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Automatic Classification;Chemical Structure;Cluster Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering tendency in chemical classifications</title>
+		<year>1985</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An algorithm for chemical superstructure searching</title>
+		<year>1985</year>
+		<authors></authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Chemical Similarity Searching</title>
+		<year>1998</year>
+		<authors>john m. barnard,geoffrey m. downs</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation of nearest-neighbor searching in an online chemical structure search system</title>
+		<year>1986</year>
+		<authors>vivienne winterman,david bawden</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Chemical Structure;Nearest Neighbor Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation of nonhierarchic cluster analysis methods in chemical information systems: selection of compounds for biological testing and clustering of substructure search output</title>
+		<year>1986</year>
+		<authors>vivienne winterman,david bawden</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Cluster Analysis;Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Atom-by-atom searching using massive parallelism. Implementation of the Ullmann subgraph isomorphism algorithm on the distributed array processor</title>
+		<year>1991</year>
+		<authors>terence wilson,stewart f. reddaway</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Parallel Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual Screening Using Binary Kernel Discrimination: Analysis of Pesticide Data</title>
+		<year>2006</year>
+		<authors>david j. wilton,robert f. harrison,john delaney,kevin lawson,graham mullier</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Kernel Discriminant Analysis;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Ranking Methods for Virtual Screening in Lead-Discovery Programs</title>
+		<year>2003</year>
+		<authors>david j. wilton,kevin lawson,graham mullier</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>819</label>
+		<keyword>Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Chemical graph matching using transputer networks</title>
+		<year>1988</year>
+		<authors>andrew t. brint,valerie j. gillet,michael f. lynch,gordon a. manson,g. a. wilson</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>819</label>
+		<keyword>Graph Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Searching and clustering of databases using the ICL distributed array processor</title>
+		<year>1988</year>
+		<authors>christine a. pogue,edie m. rasmussen</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>819</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Use of text signatures for document retrieval in a highly parallel environment</title>
+		<year>1987</year>
+		<authors>christine a. pogue</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>819</label>
+		<keyword>Document Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Turbo similarity searching: Effect of fingerprint and dataset on virtual-screening performance</title>
+		<year>2009</year>
+		<authors>eleanor j. gardiner,valerie j. gillet,maciej haranczyk,jérôme hert,john d. holliday,nurul malim,yogendra patel</authors>
+		<jconf>Statistical Analysis and Data Mining</jconf>
+		<label>819</label>
+		<keyword>Similarity Search;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the performance degradation from one-bit quantized detection</title>
+		<year>1995</year>
+		<authors>peter f. swaszek</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>821</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fact about the logistic distribution</title>
+		<year>1997</year>
+		<authors>peter f. swaszek</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>821</label>
+		<keyword>Logistic Distribution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The suboptimality of randomized tests in distributed and quantized detection systems</title>
+		<year>1992</year>
+		<authors>douglas j. warren</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>821</label>
+		<keyword>Random Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

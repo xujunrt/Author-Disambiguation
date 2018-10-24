@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wenbing Zhao</FullName>
+	<publication>
+		<title>Normalizing XML Element Trees as Well-Designed Document Structures for Data Integration</title>
+		<year>2003</year>
+		<authors>shaohua tan,dongqing yang,shiwei tang</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>1088</label>
+		<keyword>Data Integrity;Document Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

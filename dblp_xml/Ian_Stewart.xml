@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ian Stewart</FullName>
+	<publication>
+		<title>The University of Bristol grid, a production campus grid</title>
+		<year>2005</year>
+		<authors>david wallom,jon wakelin</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>319</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

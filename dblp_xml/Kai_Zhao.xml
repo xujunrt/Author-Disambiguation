@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kai Zhao</FullName>
+	<publication>
+		<title>A UI Design Case Study and a Prototype of a Travel Search Engine</title>
+		<year>2010</year>
+		<authors>serguei a. mokhov,mashrur mia,petr solodov,jihed halimi</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>479</label>
+		<keyword>Case Study;Design Guideline;Feasibility Study;Open Source;Search Engine;User Centered Design;</keyword>
+		<organization>null</organization>
+		<abstract>We review a case study of a UI design project for a complete travel search engine system prototype for regular and corporate users. We discuss various usage scenarios, guidelines, and so for, and put them into a web-based prototype with screenshots and the like. We combined into our prototype the best features found at the time (2002) on most travel-like</abstract>
+	</publication>
+</person>

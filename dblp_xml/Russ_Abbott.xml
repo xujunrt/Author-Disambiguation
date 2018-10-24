@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Russ Abbott</FullName>
+	<publication>
+		<title>Improved Core Isolation and Access for Hierarchical Embedded Test</title>
+		<year>2009</year>
+		<authors>benoit nadeau-dostie,saman adham</authors>
+		<jconf>IEEE Design &amp; Test of Computers</jconf>
+		<label>902</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

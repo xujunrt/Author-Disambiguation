@@ -1,0 +1,2764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lei Zhang</FullName>
+	<publication>
+		<title>Head Pose Estimation using Fisher Manifold Learning</title>
+		<year>2003</year>
+		<authors>longbin chen,yuxiao hu,mingjing li,hongjiang zhang</authors>
+		<jconf>Analysis and Modeling of Faces and Gestures</jconf>
+		<label>512</label>
+		<keyword>Head Pose Estimation;Manifold Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>IGroup: presenting web image search results in semantic clusters</title>
+		<year>2007</year>
+		<authors>shuo wang,feng jing,jibo he,qixing du</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>512</label>
+		<keyword>Image Search;Search Result Clustering;User Study;User Testing;Web Image Search;</keyword>
+		<organization>null</organization>
+		<abstract>Current web image search engines still rely on user typing textual description: query word(s) for visual targets. As the queries are often short, general or even ambiguous, the images in resulting pages vary in content and style. Thus, browsing with these results is likely to be tedious, frustrating and unpredictable. IGroup, a proposed image search engine addresses these problems by</abstract>
+	</publication>
+	<publication>
+		<title>Ranking web objects from multiple communities</title>
+		<year>2006</year>
+		<authors>le chen,feng jing,ke-feng deng,wei-ying ma</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>512</label>
+		<keyword>Detection Algorithm;Image Search;Search Engine;Test Bed;User Study;Web Community;</keyword>
+		<organization>null</organization>
+		<abstract>Vertical search is a promising direction as it leverages domain- speciflc knowledge and can provide more precise information for users. In this paper, we study the Web object-ranking problem, one of the key issues in building a vertical search engine. More speciflcally, we focus on this problem in cases when objects lack relationships between difierent Web com- munities, and take</abstract>
+	</publication>
+	<publication>
+		<title>Learning query-biased web page summarization</title>
+		<year>2007</year>
+		<authors>changhu wang,feng jing,hongjiang zhang</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>512</label>
+		<keyword>Evaluation Metric;Support Vector Machine;Web Pages;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Query-biased Web page summarization is the summarization of a Web page reflecting the relevance of it to a specific query. It plays an important role in search results representation of Web search engines. In this paper, we propose a learning-based query- biased Web page summarization method. The summarization problem is solved within the typical sentence selection framework. Different from existing</abstract>
+	</publication>
+	<publication>
+		<title>Search-based query suggestion</title>
+		<year>2008</year>
+		<authors>jiang-ming yang,rui cai,feng jing,shuo wang,wei-ying ma</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>512</label>
+		<keyword>Query Logs;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we proposed a unified strategy to combine query log and search results for query suggestion. In this way, we leverage both the users' search intentions for popular queries and the power of search engines for unpopular queries. The suggested queries are also ranked according to their relevance and qualities; and each suggestion is described with a rich</abstract>
+	</publication>
+	<publication>
+		<title>Learning in Region-Based Image Retrieval</title>
+		<year>2003</year>
+		<authors>feng jing,mingjing li,hongjiang zhang,bo zhang</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>512</label>
+		<keyword>Image Representation;Learning Algorithm;Region Based Image Retrieval;Relevance Feedback;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, several effective learning algorithms using global image representations are adjusted and introduced to region -based image retrieval (RBIR). First, the query point movement technique is considered. By assembling all the segmented regions of positive examples together and resizing the regions to emphasize the latest positive examples, a composite image is formed as the new query. Second, the</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Markov model-based image annotation</title>
+		<year>2008</year>
+		<authors>changhu wang,hongjiang zhang</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Transition Matrix;Markov Chain;Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a novel Markov model-based formulation for the image annotation problem. In this formulation, we treat image annotation as a graph ranking problem, by defining all possible labels in the lexicon as the states of a Markov chain. To fully utilize the correlation between labels, a query-biased transition matrix is dynamically constructed according to the query</abstract>
+	</publication>
+	<publication>
+		<title>What are the high-level concepts with small semantic gaps?</title>
+		<year>2008</year>
+		<authors>yijuan lu,qi tian,wei-ying ma</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Data Collection;Image Annotation;Large Scale;Multimedia Information Retrieval;Semantic Gap;</keyword>
+		<organization>null</organization>
+		<abstract>Concept-based multimedia search has become more and more popular in Multimedia Information Retrieval (MIR). However, which semantic concepts should be used for data collection and model construction is still an open question. Currently, there is very little research found on automatically choosing multimedia concepts with small semantic gaps. In this paper, we propose a novel framework to develop a lexicon</abstract>
+	</publication>
+	<publication>
+		<title>Content-Based Image Annotation Refinement</title>
+		<year>2007</year>
+		<authors>changhu wang,feng jing,hongjiang zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Automatic Image Annotation;Image Annotation;Image Retrieval;Markov Process;Markov Chain;</keyword>
+		<organization>null</organization>
+		<abstract>Automatic image annotation has been an active research topic due to its great importance in image retrieval and management. However, results of the state-of-the-art image annotation methods are often unsatisfactory. Despite continuous efforts in inventing new annotation algorithms, it would be advantageous to develop a dedicated approach that could refine imprecise annotations. In this paper, a novel approach to automatically</abstract>
+	</publication>
+	<publication>
+		<title>Multiplicative nonnegative greph embedding</title>
+		<year>2009</year>
+		<authors>changhu wang,zheng song,shuicheng yan,hongjiang zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Factor Graph;Graph Embedding;Matrix Inversion;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In this paper, we study the problem of nonnegative graph embedding, originally investigated in [14] for reaping the benefits from both nonnegative data factorization and the specific purpose characterized by the intrinsic and penalty graphs [13]. Our contributions are two-fold. On the one hand, we present a multiplicative iterative procedure for nonnegative graph embedding, which significantly reduces the computational,cost</abstract>
+	</publication>
+	<publication>
+		<title>Multi-label sparse coding for automatic image annotation</title>
+		<year>2009</year>
+		<authors>changhu wang,shuicheng yan,hongjiang zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Automatic Image Annotation;Dimensional Reduction;Feature Extraction;Gaussian Mixture Model;Image Annotation;Sparse Coding;Subspace Learning;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a multi-label sparse coding framework for feature extraction and classification within the context of automatic image annotation. First, each im- age is encoded into a so-called supervector, derived from the universal Gaussian Mixture Models on orderless im- age patches. Then, a label sparse coding based subspace learning algorithm is derived to effectively harness multi- label</abstract>
+	</publication>
+	<publication>
+		<title>AnnoSearch: Image Auto-Annotation by Search</title>
+		<year>2006</year>
+		<authors>xin-jing wang,feng jing,wei-ying ma</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Data Mining;High Dimensionality;Image Annotation;Machine Learning;Semantic Similarity;Visual Features;</keyword>
+		<organization>null</organization>
+		<abstract>Although it has been studied for several years by computer vision and machine learning communities, image annotation is still far from practical. In this paper, we present AnnoSearch, a novel way to annotate images using search and data mining technologies. Leveraging the Web-scale images, we solve this problem in two-steps: 1) searching for semantically and visually similar images on the</abstract>
+	</publication>
+	<publication>
+		<title>Concurrent Subspaces Analysis</title>
+		<year>2005</year>
+		<authors>dong xu,shuicheng yan,hongjiang zhang,zhengkai liu,heung-yeung shum</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Curse of Dimensionality;gabor filter;Image Analysis;Image Database;Principal Component Analysis;Digital Number;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract>A representative subspace is significant for image analysis, while the corresponding techniques often suffer from the curse of dimensionality dilemma. In this paper, we pro- pose a new algorithm, called Concurrent Subspaces Analysis (CSA), to derive representative subspaces by encoding image objects as 2 nd or even higher order ten- sors. In CSA, an original higher dimensional tensor is transformed</abstract>
+	</publication>
+	<publication>
+		<title>Discriminant Analysis with Tensor Representation</title>
+		<year>2005</year>
+		<authors>shuicheng yan,dong xu,qiang yang,xiaoou tang,hongjiang zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Curse of Dimensionality;Dimensional Reduction;Discriminant Analysis;Eigenvalue Decomposition;Feature Selection;Small Sample Size;Subspace Learning;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel approach to solving the supervised dimensionality reduction problem by encoding an image object as a general tensor of 2nd or higher or- der. First, we propose a Discriminant Tensor Criterion (DTC), whereby multiple interrelated lower-dimensional discriminative subspaces are derived for feature selection. Then, a novel approach called k-mode Cluster-based Dis- criminant Analysis is</abstract>
+	</publication>
+	<publication>
+		<title>Coupled Kernel-Based Subspace Learning</title>
+		<year>2005</year>
+		<authors>shuicheng yan,dong xu,benyu zhang,hongjiang zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Dimensional Reduction;Kernel Discriminant Analysis;Spatial Structure;Subspace Learning;Singular Value De Composition;</keyword>
+		<organization>null</organization>
+		<abstract>It was prescriptive that an image matrix was transformed into a vector before the kernel-based subspace learning. In this paper, we take the Kernel Discriminant Analysis (KDA) algorithm as an example to perform kernel analy- sis on 2D image matrices directly. First, each image ma- trix is decomposed as the product of two orthogonal ma- trices and a diagonal one</abstract>
+	</publication>
+	<publication>
+		<title>Max-Margin Dictionary Learning for Multiclass Image Categorization</title>
+		<year>2010</year>
+		<authors>xiao-chen lian,zhiwei li,bao-liang lu</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>512</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>3D Shape Constraint for Facial Feature Localization Using Probabilistic-like Output</title>
+		<year>2004</year>
+		<authors>longbin chen,hongjiang zhang,mohamed abdel-mottaleb</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>512</label>
+		<keyword>3d model;Active Shape Model;Facial Expression;Facial Features;Gaussian Mixture Model;Shape Constraints;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a method to automatically locate facial feature points under large variations in pose, illumination and facial expressions. First we propose a method to calculate probabilistic-like output for each pixel of image. This probabilistic-like output describes the possibility of the pixel to be the center of specified object. A Gaussian Mixture Model is used to approximate the distribution</abstract>
+	</publication>
+	<publication>
+		<title>Automatic 3D Reconstruction for Face Recognition</title>
+		<year>2004</year>
+		<authors>yuxiao hu,dalong jiang,shuicheng yan,hongjiang zhang</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>512</label>
+		<keyword>3d integration;3d reconstruction;Analysis By Synthesis;Face Modeling;Face Recognition;Pose Illumination and Expression;</keyword>
+		<organization>null</organization>
+		<abstract>An analysis-by-synthesis framework for face recognition with variant pose, illumination and expression (PIE) is proposed in this paper. First, an efficient 2D-to-3D integrated face reconstruction approach is introduced to reconstruct a personalized 3D face model from a single frontal face image with neutral expression and normal illumination; Then, realistic virtual faces with different PIE are synthesized based on the personalized</abstract>
+	</publication>
+	<publication>
+		<title>Search Result Clustering Based Relevance Feedback for Web Image Retrival</title>
+		<year>2007</year>
+		<authors>en cheng,feng jing,chao zhang</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>512</label>
+		<keyword>Relevance Feedback;Search Result Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The data deluge: Challenges and opportunities of unlimited data in statistical signal processing</title>
+		<year>2009</year>
+		<authors>michael l. seltzer</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>512</label>
+		<keyword>Statistical Signal Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Neighborhood Preserving Projections (NPP): A Novel Linear Dimension Reduction Method</title>
+		<year>2005</year>
+		<authors>yanwei pang,zhengkai liu,nenghai yu,houqiang li</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>512</label>
+		<keyword>Curse of Dimensionality;Dimension Reduction;Information Retrieval;Linear Transformation;Local Linear Embedding;Pattern Recognition;principal com ponent analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Dimension reduction is a crucial step for pattern recognition and information retrieval tasks to overcome the curse of dimensionality. In this paper a novel unsupervised linear dimension reduction method, Neighborhood Preserving Projections (NPP), is proposed. In contrast to traditional linear dimension reduction method, such as principal com- ponent analysis (PCA), the proposed method has good neighborhood- preserving property. The central</abstract>
+	</publication>
+	<publication>
+		<title>Support vector machine learning for image retrieval</title>
+		<year>2001</year>
+		<authors>fuzong lin,bo zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Image Retrieval;Interactive Learning;Relevance Feedback;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT In this paper,  a  novel  method  of  relevance  feedback  is  presented based  on  Support ,Vector  Machine  learning  in  the,content-based  image ,retrieval  system.  A  SVM  classifier can  be  learned ,from  training  data  of  relevance  images and irrelevance images marked by users. Using the classifier, the system can retrieve more images relevant to the query  in  the  database  efficiently.  Experiments  were</abstract>
+	</publication>
+	<publication>
+		<title>Automated red-eye detection and correction in digital photographs</title>
+		<year>2004</year>
+		<authors>yanfeng sun,mingjing li,hongjiang zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>512</label>
+		<keyword>Digital Image;Efficient Algorithm;Eye Detection;</keyword>
+		<organization>null</organization>
+		<abstract>Caused by light reflected off the subject's retina, red-eye is a troublesome problem in consumer photography. Although most of the cameras have the red-eye reduction mode, the result reality is that no on-camera system is completely effective. In this paper, we propose a fully automatic approach to detecting and correcting red-eyes in digital images. In order to detect red-eyes in</abstract>
+	</publication>
+	<publication>
+		<title>A lexica family with small semantic gap</title>
+		<year>2009</year>
+		<authors>jiemin liu,qi tian,yijuan lu,changhu wang,xiaokang yang,shipeng li</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Data Collection;Feature Selection;Image Retrieval;Indexing Terms;Large Scale;Search Model;Semantic Gap;</keyword>
+		<organization>null</organization>
+		<abstract>Defining a lexicon of high-level concepts is the first step for data collection and model construction in concept-based im- age retrieval. Differences of semantic gaps among concepts are well worth considering. By measuring consistency in vi- sual space and textual space, concepts with small semantic gap can be obtained. Considering so many diverse concepts in large-scale image dataset, we construct</abstract>
+	</publication>
+	<publication>
+		<title>Robust semantic sketch based specific image retrieval</title>
+		<year>2010</year>
+		<authors>cailiang liu,dong wang,xiaobing liu,changhu wang,bo zhang</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Image Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Retrieving Web Images to Enrich Music Representation</title>
+		<year>2007</year>
+		<authors>zhi-kun wang,rui cai,yu zheng,jian-min li</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Image Search;Search Result Clustering;Web Image Search;</keyword>
+		<organization>null</organization>
+		<abstract>Audiovisual media which integrates visual media with audio to enrich music representation, such as music video (MV) or music slideshow, is now more welcome than only audio. In this paper, we proposed a novel approach to automatically retrieve web images appropriately suitable to a given music song. In this approach, an imageability measurement is first proposed to select those meaningful</abstract>
+	</publication>
+	<publication>
+		<title>Advertising based on users' photos</title>
+		<year>2009</year>
+		<authors>xin-jing wang,mo yu,wei-ying ma</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Indexing Terms;Photo Collection;Semantic Gap;Experience Base;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we tackle the problem of learning a user's interest from his photo collections and suggesting relevant ads. We address two key challenges in this work: 1) under- standing a user's photos to detect his interest, and 2) bridg- ing the lexical and semantic gap between the vocabulary of ads and that of general users' photos. We solve</abstract>
+	</publication>
+	<publication>
+		<title>Natural Image Retrieval with Sketches</title>
+		<year>2005</year>
+		<authors>jinyi yao,mingjing li,zhiwei li,wei-ying ma</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Natural Images;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Auto cropping for digital photographs</title>
+		<year>2005</year>
+		<authors>mingju zhang,yanfeng sun,lin feng,wei-ying ma</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>512</label>
+		<keyword>Energy Function;Model Composition;Multimedia Application;Objective Function;Optimal Solution;Optimization Problem;particle swarm optimizer;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose an effective approach to the nearly untouched problem, still photograph auto cropping, which is one of the important features to automatically enhance photographs. To obtain an optimal result, we first formulate auto cropping as an optimization problem by defining an energy function, which consists of three sub models: composition sub model, conservative sub model and</abstract>
+	</publication>
+	<publication>
+		<title>Semantic image clustering using relevance feedback</title>
+		<year>2003</year>
+		<authors>xiaoxin yin,mingjing li,hongjiang zhang</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>512</label>
+		<keyword>Clustering Method;Image Clustering;Image Retrieval;Relevance Feedback;Semantic Relations;Semantic Similarity;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes an image clustering approach to grouping semantically similar images. In this approach, the similarity between images is estimated using users' relevance feedback information recorded in the user log of an image retrieval system. An algorithm similar to CAST (Cluster Affinity Search Technique) is used tu identify clusters of semantically related images. It is a two-stage clustering method:</abstract>
+	</publication>
+	<publication>
+		<title>User grouping behavior in online forums</title>
+		<year>2009</year>
+		<authors>xiaolin shi,jun zhu,rui cai</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>512</label>
+		<keyword>Computer Application;Data Mining;Database Management;Group Behavior;Human Behavior;Information Diffusion;Information System;Model Category;Quantitative Evaluation;Selection Model;Social Media;Social Network;User Participation;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Online forums represent one type of social media that is particularly rich for studying human,behavior in informa- tion seeking and diusing.,The way users join communities is a reection,of the changing and expanding of their inter- ests toward information. In this paper, we study the pat- terns of user participation behavior, and the feature factors that inuence,such behavior on dierent,forum</abstract>
+	</publication>
+	<publication>
+		<title>Argo: intelligent advertising by mining a user's interest from his photo collections</title>
+		<year>2009</year>
+		<authors>xin-jing wang,mo yu,rui cai,wei-ying ma</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>512</label>
+		<keyword>Image Understanding;Photo Collection;Semantic Gap;Visual Features;Experience Base;for Profit;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce a system named Argo which provides intelligent advertising made possible from users' photo collec- tions. Based on the intuition that user-generated photos imply user interests which are the key for profitable targeted ads, the Argo system attempts to learn a user's profile from his shared photos and suggests relevant ads accordingly. To learn a user</abstract>
+	</publication>
+	<publication>
+		<title>Incorporating site-level knowledge for incremental crawling of web forums: a list-wise strategy</title>
+		<year>2009</year>
+		<authors>jiang-ming yang,rui cai,chunsong wang,hua huang,wei-ying ma</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>512</label>
+		<keyword>Regression Model;</keyword>
+		<organization>null</organization>
+		<abstract>We study in this paper the problem of incremental crawling of web forums, which is a very fundamental yet challeng- ing step in many web applications. Traditional approaches mainly focus on scheduling the revisiting strategy of each in- dividual page. However, simply assigning different weights for different individual pages is usually inefficient in crawling forum sites because of the different</abstract>
+	</publication>
+	<publication>
+		<title>Searching One Billion Web Images by Content: Challenges and Opportunities</title>
+		<year>2007</year>
+		<authors>zhiwei li,xing xie,wei-ying ma</authors>
+		<jconf>Multimedia Content Analysis and Mining</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Image Annotation;Image Search;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>Although content-based image retrieval has been studied for decades, most commercial image search engines are still text-based. However, there is a growing demand for techniques to support content-based image search at Web scale. In this paper, we propose an ambitious goal to searching one billion Web images by content, and discuss the major challenges and opportunities. We also present several</abstract>
+	</publication>
+	<publication>
+		<title>Similarity space projection for web image search and annotation</title>
+		<year>2005</year>
+		<authors>ying liu,tao qin,tie-yan liu,wei-ying ma</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Image Search;Information Retrieval Model;Visual Features;Web Image Search;Vector Space Model;</keyword>
+		<organization>null</organization>
+		<abstract>Web image search has been explored and developed in academic as well as commercial areas for over a decade. To measure the similarity between Web images and user queries, most of the existing Web image search systems try to convert an image to textual keywords by analyzing the textual information available (such as surrounding text and image filename) with or</abstract>
+	</publication>
+	<publication>
+		<title>Scalable search-based image annotation of personal images</title>
+		<year>2006</year>
+		<authors>changhu wang,feng jing,hongjiang zhang</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Automatic Image Annotation;Content Based Image Retrieval;Digital Camera;Digital Image;Image Annotation;Image Retrieval;Keyword Search;Large Scale;Visual Features;Web Pages;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>With the prevalence of digital cameras, more and more people have considerable digital images on their personal devices. As a result, there are increasing needs to effectively search these personal images. Automatic image annotation may serve the goal, for the annotated keywords could facilitate the search processes. Although many image annotation methods have been proposed in recent years, their effectiveness</abstract>
+	</publication>
+	<publication>
+		<title>Multigraph enabled active learning for multimodal web image retrieval</title>
+		<year>2005</year>
+		<authors>xin-jing wang,wei-ying ma,xing li</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Active Learning;Heterogeneous Data;Image Retrieval;transductive learning;Web Graph;Learning Problems;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a multimodal Web image retrieval technique based on multi-graph enabled active learning. The main goal is to leverage the heterogeneous data on the Web to improve retrieval precision. Three graphs are constructed on images' content features, textual annotations and hyperlinks respectively, namely Content-Graph, Text-Graph and Link-Graph, which provide complimentary information on the images. By analyzing</abstract>
+	</publication>
+	<publication>
+		<title>Graph-based multiple-instance learning for object-based image retrieval</title>
+		<year>2008</year>
+		<authors>changhu wang,hongjiang zhang</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Image Retrieval;Iterative Solution;Multiple Instance Learning;Semi Supervised Learning;Unlabeled Data;Multiple Instance;</keyword>
+		<organization>null</organization>
+		<abstract>We study in this paper the problem of using multiple-instance semi-supervised learning to solve object-based image retrieval problem, in which the user is only interested in a portion of the image, and the rest of the image is considered as irrelevant. Although many multiple-instance learning (MIL) algorithms have been proposed to solve object-based image retrieval problem, most of them only</abstract>
+	</publication>
+	<publication>
+		<title>Scalable music recommendation by search</title>
+		<year>2007</year>
+		<authors>rui cai,chao zhang,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>General Solution;Indexation;Locality Sensitive Hashing;Relevance Ranking;Similarity Search;Term Weighting;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>The growth of music resources on personal devices and In- ternet radio has increased the need for music recommenda- tions. In this paper, aiming at providing an efficient and general solution, we present a search-based solution for scal- able music recommendations. In this solution a music piece is first transformed to a music signature sequence in which each signature characterizes</abstract>
+	</publication>
+	<publication>
+		<title>Scalable relevance feedback using clickthrough data for web image retrieval</title>
+		<year>2006</year>
+		<authors>en cheng,feng jing,hai jin</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Image Retrieval;Implicit Feedback;Relevance Feedback;Visual Features;Web Image Search;</keyword>
+		<organization>null</organization>
+		<abstract>Relevance feedback (RF) has been extensively studied in the content-based image retrieval community. However, no commercial Web image search engines support RF because of scalability, efficiency and effectiveness issues. In this paper we proposed a scalable relevance feedback mechanism using click- through data for web image retrieval. The proposed mechanism regards users' click-through data as implicit feedback which could be</abstract>
+	</publication>
+	<publication>
+		<title>Generating location overviews with images and tags by mining user-generated travelogues</title>
+		<year>2009</year>
+		<authors>qiang hao,rui cai,xin-jing wang,jiang-ming yang,yanwei pang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Automatic Generation;User Generated Content;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Automatically generating location overviews in the form of both visual and textual descriptions is highly desired for online services such as travel planning, to provide attractive and comprehensive outlines of travel destinations. Actually, user-generated content (e.g., travelogues) on the Web provides abundant information to various aspects (e.g., landmarks, styles, activities) of most loca- tions in the world. To leverage the</abstract>
+	</publication>
+	<publication>
+		<title>TravelScope: standing on the shoulders of dedicated travelers</title>
+		<year>2009</year>
+		<authors>qiang hao,rui cai,jiang-ming yang,rong xiao,like liu,shuo wang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>User Experience;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a system called TravelScope that helps users experience virtual tours by presenting information mined from user-generated travelogues and photos. The system can (1) recommend popular places for a given region; (2) characterize comprehensive aspects (e.g., landmarks, styles, activities) for a location; and (3) show representative images for a landmark. A novel user interface is designed</abstract>
+	</publication>
+	<publication>
+		<title>IGroup: web image search results clustering</title>
+		<year>2006</year>
+		<authors>feng jing,changhu wang,yuhuan yao,ke-feng deng,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Cluster Algorithm;Image Clustering;Search Result Clustering;User Interface;User Interface Design;User Study;Web Image Search;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose, IGroup, an efficient and effective algorithm that organizes Web image search results into clusters. IGroup is different from all existing Web image search results clustering algorithms that only cluster the top few images using visual or textual features. Our proposed algorithm first identifies several query-related semantic clusters based on a key phrases extraction algorithm originally</abstract>
+	</publication>
+	<publication>
+		<title>IGroup: a web image search engine with semantic clustering of search results</title>
+		<year>2006</year>
+		<authors>feng jing,changhu wang,yuhuan yao,ke-feng deng,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Cluster Algorithm;Indexation;Search Result Clustering;User Interface;Web Image Search;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this demo, we present IGroup, a Web image search engine that organizes the search results into semantic clusters. Different from all existing Web image search results clustering algorithms that only cluster the top few images using visual or textual features, IGroup first identifies several query-related semantic clusters based on a key phrases extraction algorithm originally proposed for clustering general</abstract>
+	</publication>
+	<publication>
+		<title>VirtualTour: an online travel assistant based on high quality images</title>
+		<year>2006</year>
+		<authors>feng jing,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Search;User Interface Design;</keyword>
+		<organization>null</organization>
+		<abstract>With the popularity of both travel and Web, more and more people use online travel services to facilitate their travel activities or share their travel experiences. Considering that existing services emphasize more on the textual content with the pictorial content only as supplement, we propose the VirtualTour system. It is an online travel service dedicated on high quality images, which</abstract>
+	</publication>
+	<publication>
+		<title>Image annotation by large-scale content-based image retrieval</title>
+		<year>2006</year>
+		<authors>xirong li,le chen,fuzong lin,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Automatic Image Annotation;Content Based Image Retrieval;Degeneration;High Dimensionality;Image Annotation;Image Database;Image Understanding;Indexation;Large Scale;Search Result Clustering;Similarity Search;Web Image Search;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>Image annotation has been an active research topic in recent years due to its potentially large impact on both image understanding and Web image search. In this paper, we target at solving the automatic image annotation problem in a novel search and mining framework. Given an uncaptioned image, first in the search stage, we perform content-based image retrieval (CBIR) facilitated</abstract>
+	</publication>
+	<publication>
+		<title>SBIA: search-based image annotation by leveraging web-scale images</title>
+		<year>2007</year>
+		<authors>xirong li,xin-jing wang,changhu wang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Image Search;Indexation;Large Scale;Relevance Ranking;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>In this technical demonstration, we showcase the SBIA system - a search-based image annotation system. At the heart of the system lies a very large-scale image search engine which indexed three million Web images and supports both text and visual queries. Given an image (with initial annotations), SBIA first finds semantically/visually similar images via the search engine, and then mines</abstract>
+	</publication>
+	<publication>
+		<title>Delivering online advertisements inside images</title>
+		<year>2008</year>
+		<authors>zhiwei li,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Business Model;Online Advertising;Revenue Sharing;User Experience;User Study;Web Data Mining;Full Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>We present in this paper a new channel to deliver online advertisements along with Web images and show a new business model to monetize billions of Web images. The idea is intuitively inspired by image displaying processes on the Web, which typically require people to wait a few seconds before they see full resolution images. This is due to large</abstract>
+	</publication>
+	<publication>
+		<title>MyPhotos: a system for home photo management and processing</title>
+		<year>2002</year>
+		<authors>yanfeng sun,hongjiang zhang,mingjing li</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Processing;Image Processing and Analysis;Natural User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>MyPhotos is a prototype system for home photo management and processing. Several home user orientated image processing and analysis tools are provided. And several auto grouping methods can help user to organize photos. The system also provides a natural user interface and a workflow for easy browsing and searching.</abstract>
+	</publication>
+	<publication>
+		<title>Image annotation refinement using random walk with restarts</title>
+		<year>2006</year>
+		<authors>changhu wang,feng jing,hongjiang zhang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Image Retrieval;Relevance Model;Random Walk;</keyword>
+		<organization>null</organization>
+		<abstract>Image annotation plays an important role in image retrieval and management. However, the results of the state-of-the-art image annotation methods are often unsatisfactory. Therefore, it is necessary to refine the imprecise annotations obtained by existing annotation methods. In this paper, a novel approach to automatically refine the original annotations of images is proposed. On the one hand, for Web images,</abstract>
+	</publication>
+	<publication>
+		<title>Iteratively clustering web images based on link and attribute reinforcements</title>
+		<year>2005</year>
+		<authors>xin-jing wang,wei-ying ma,xing li</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Data Type;Image Clustering;Relational Data;</keyword>
+		<organization>null</organization>
+		<abstract>Image clustering is an important research topic which contributes to a wide range of applications. Traditional image clustering approaches are based on image content features only, while content features alone can hardly describe the semantics of the images. In the context of Web, images are no longer assumed homogeneous and &quot;flatdistributed but are richly structured. There are two kinds of</abstract>
+	</publication>
+	<publication>
+		<title>Argo: intelligent advertising made possible from users' photos</title>
+		<year>2009</year>
+		<authors>xin-jing wang,mo yu,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;Image Understanding;Large Scale;Statistical Distribution;User Generated Content;</keyword>
+		<organization>null</organization>
+		<abstract>Though monetizing user-generated photos has a great potential in image business, this topic is seldom touched due to the difficulties of both image understanding and ads-to-images vocabulary matching. In this technical demonstration, we show case the Argo system, which attempts to monetize UGC (user-generated content) photos by mining a user's interest from a group of his photos and advertising the</abstract>
+	</publication>
+	<publication>
+		<title>EnjoyPhoto: a vertical image search engine for enjoying high-quality photos</title>
+		<year>2006</year>
+		<authors>le chen,feng jing,ke-feng deng,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Browsing;Image Database;Image Search;Ranking Algorithm;User Experience;User Interface;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose building a vertical image search engine called EnjoyPhoto that leverages rich metadata from various photo forum web sites to meet users' requirements for enjoying high-quality photos, which is virtually impossible in traditional image search engines. To solve the ranking problem when aggregating multiple photo forums, we propose a novel rank fusion algorithm that uses duplicate</abstract>
+	</publication>
+	<publication>
+		<title>Automated annotation of human faces in family albums</title>
+		<year>2003</year>
+		<authors>longbin chen,mingjing li,hongjiang zhang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Automatic Annotation;bayesian framework;Content Based Image Retrieval;Experimental Evaluation;Face Recognition;Management System;Map Estimation;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>Automatic annotation of photographs is one of the most desirable needs in family photograph management systems. In this paper, we present a learning framework to automate the face annotation in family photograph albums. Firstly, methodologies of content-based image retrieval and face recognition are seamlessly integrated to achieve automated annotation. Secondly, face annotation is formulated in a Bayesian framework, in which</abstract>
+	</publication>
+	<publication>
+		<title>Efficient propagation for face annotation in family albums</title>
+		<year>2004</year>
+		<authors>yuxiao hu,mingjing li,wei-ying ma,hongjiang zhang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Experimental Evaluation;Face Recognition;Objective Function;Optimal Algorithm;Optimization Problem;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose and investigate a new user scenario for face annotation, in which users are allowed to multi-select a group of otogras and assign names to these otogras. The system will then attempt to propagate names from otogra level to face level, i.e. to infer the correspondence between name and face. Given the face similarity measure which</abstract>
+	</publication>
+	<publication>
+		<title>Multimedia content analysis: model-based approaches vs. data-driven approaches</title>
+		<year>2009</year>
+		<authors>qi tian</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>512</label>
+		<keyword>Image Annotation;model-based approach;Multimedia Communication;Multimedia Content Analysis;Multimedia Data;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>The explosive growth of multimedia data on the Web has had a great impact on research, and opened a potentially controversial topic in the multimedia community about model-based approaches and data-driven approaches. In this panel, we expect intelligent discussions between the panelists and the audience on this topic. For example, which approach is more advantageous: model-based or data-driven? How can</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Image Matrix Compression for Face Recognition</title>
+		<year>2005</year>
+		<authors>dong xu,shuicheng yan,mingjing li,wei-ying ma,zhengkai liu,hongjiang zhang</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>512</label>
+		<keyword>Eigenvalues and Eigenvectors;Face Recognition;Matrix Representation;Parallel Imaging;Small Samples;</keyword>
+		<organization>null</organization>
+		<abstract>The canonical face recognition algorithm Eigenface and Fisherface are both based on one dimensional vector representation. However, with the high feature dimen- sions and the small training data, face recognition often suffers from the curse of dimension and the small sample problem. Recent research (4) shows that face recognition based on direct 2D matrix representation, i.e. 2DPCA, obtains better performance</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Gabor-LDA Based Face Recognition Method</title>
+		<year>2004</year>
+		<authors>yanwei pang,mingjing li,zhengkai liu,wei-ying ma</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>512</label>
+		<keyword>Face Recognition;gabor wavelets;Linear Discriminate Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a novel face recognition method based on Gabor-wavelet and linear discriminant analysis (LDA) is proposed. Given training face images, discriminant vectors are computed using LDA. The function of the discriminant vectors is two-fold. First, discriminant vec- tors are used as a transform matrix, and LDA features are extracted by projecting original intensity images onto discriminant vectors. Second,</abstract>
+	</publication>
+	<publication>
+		<title>FBCC: An Image Similarity Algorithm Based on Regions</title>
+		<year>2001</year>
+		<authors>fang qian,fuzong lin,bo zhang</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>512</label>
+		<keyword>Image Similarity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Salient Feature Selection for Visual Concept Learning</title>
+		<year>2005</year>
+		<authors>feng xu,yu-jin zhang,wei-ying ma</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>512</label>
+		<keyword>Concept Learning;Feature Selection;Image Classification;Image Database;</keyword>
+		<organization>null</organization>
+		<abstract>Image classification could be treated as an effective solu- tion to enable keyword-based semantic image retrieval. In this paper, we propose a novel image classification framework by learning seman- tic concepts of image categories. To choose representative features for an image category and meanwhile reduce noisy features, a three-step salient feature selection strategy is proposed. In the feature selection stage,</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Feature Space Selection in Relevance Feedback Using Support Vector Machines</title>
+		<year>2004</year>
+		<authors>fang qian,mingjing li,hongjiang zhang,bo zhang</authors>
+		<jconf>Pattern Recognition in Information Systems</jconf>
+		<label>512</label>
+		<keyword>Feature Space;Relevance Feedback;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ranking community answers by modeling question-answer relationships via analogical reasoning</title>
+		<year>2009</year>
+		<authors>xin-jing wang,xudong tu,dan feng</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Analogical Reasoning;Machine Learning;Question Answering;Question Answering System;Relational Data;Relational Model;Semantic Gap;User Generated Content;Experience Base;</keyword>
+		<organization>null</organization>
+		<abstract>The method of flnding high-quality answers has a signifl- cant impact on users' satisfaction in a community question answering system. However, due to the lexical gap between questions and answers as well as spam typically contained in user-generated content, flltering and ranking answers is very challenging. Existing solutions mainly focus on generating redundant features, or flnding textual clues using machine</abstract>
+	</publication>
+	<publication>
+		<title>Exploring traversal strategy for web forum crawling</title>
+		<year>2008</year>
+		<authors>yida wang,jiang-ming yang,wei lai,rui cai,wei-ying ma</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>512</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the problem of Web forum crawling. Web forum has now become an important data source of many Web applications; while forum crawling is still a challenging task due to complex in-site link structures and login controls of most forum sites. Without carefully selecting the traversal path, a generic crawler usually downloads many duplicate and invalid</abstract>
+	</publication>
+	<publication>
+		<title>Learning to reduce the semantic gap in web image retrieval and annotation</title>
+		<year>2008</year>
+		<authors>changhu wang,hongjiang zhang</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Distance Measure;Distance Metric Learning;Image Annotation;Image Database;Image Features;Image Retrieval;Indexation;Latent Dirichlet Allocation;Semantic Gap;Semantic Similarity;Similarity Measure;Leave One Out;</keyword>
+		<organization>null</organization>
+		<abstract>We study in this paper the problem of bridging the semantic gap between low-level image features and high-level semantic concepts, which is the key hindrance in content-based image retrieval. Piloted by the rich textual information of Web images, the proposed framework tries to learn a new distance measure in the visual space, which can be used to retrieve more semantically</abstract>
+	</publication>
+	<publication>
+		<title>Boosting Image Orientation Detection with Indoor vs. Outdoor Classification</title>
+		<year>2002</year>
+		<authors>mingjing li,hongjiang zhang</authors>
+		<jconf>Workshop on Applications of Computer Vision</jconf>
+		<label>512</label>
+		<keyword>Automatic Detection;Image Orientation;</keyword>
+		<organization>null</organization>
+		<abstract>Automatic detection of image orientation is a very important operation in photo image management. In this paper, we propose an automated method based on the boosting algorithm to estimate image orientations. The proposed method has the capability of rejecting images based on the confidence score of the orientation detection. Also, images are classified into indoor and outdoor, and this classification</abstract>
+	</publication>
+	<publication>
+		<title>iRobot: an intelligent crawler for web forums</title>
+		<year>2008</year>
+		<authors>rui cai,jiang-ming yang,wei lai,yida wang</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Data Mining;Path Selection;Search Engine;Web Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract>We study in this paper the Web forum crawling problem, which is a very fundamental step in many Web applications, such as search engine and Web data mining. As a typical user-created content (UCC), Web forum has become an important resource on the Web due to its rich information contributed by millions of Internet users every day. However, Web forum</abstract>
+	</publication>
+	<publication>
+		<title>Equip tourists with knowledge mined from travelogues</title>
+		<year>2010</year>
+		<authors>qiang hao,rui cai,changhu wang,rong xiao,jiang-ming yang,yanwei pang</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Subjective Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>With the prosperity of tourism and Web 2.0 technologies, more and more people have willingness to share their travel experiences on the Web (e.g., weblogs, forums, or Web 2.0 communities). These so-called travelogues contain rich information, particularly including location-representative knowledge such as attractions (e.g., Golden Gate Bridge), styles (e.g., beach, history), and activities (e.g., diving, surfing). The location-representative information in</abstract>
+	</publication>
+	<publication>
+		<title>A pattern tree-based approach to learning URL normalization rules</title>
+		<year>2010</year>
+		<authors>tao lei,rui cai,jiang-ming yang,yan ke,xiaodong fan</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Approaches To Learning;Canonical Form;Computational Efficiency;Efficient Algorithm;Index Compression;Indexation;Large Scale;Learning Process;Rewrite Rule;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Duplicate URLs have brought serious troubles to the whole pipeline of a search engine, from crawling, indexing, to result serving. URL normalization is to transform duplicate URLs to a canonical form using a set of rewrite rules. Nowadays URL normalization has attracted significant attention as it is lightweight and can be flexibly integrated into both the online (e.g. crawling) and</abstract>
+	</publication>
+	<publication>
+		<title>Improving relevance judgment of web search results with image excerpts</title>
+		<year>2008</year>
+		<authors>zhiwei li,shuming shi</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Automatic Generation;User Interface;User Study;Web Pages;Web Search;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Current web search engines return result pages containing mostly text summary even though the matched web pages may contain informative pictures. A text excerpt (i.e. snippet) is generated by selecting keywords around the matched query terms for each returned page to provide context for user's relevance judgment. However, in many scenarios, we found that the pictures in web pages, if</abstract>
+	</publication>
+	<publication>
+		<title>Diversifying landmark image search results by learning interested views from community photos</title>
+		<year>2010</year>
+		<authors>yuheng ren,mo yu,xin-jing wang,wei-ying ma</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Image Search;Ranking Algorithm;Table of Contents;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we demonstrate a novel landmark photo search and browsing system: Agate, which ranks landmark image search results considering their relevance, diversity and quality. Agate learns from community photos the most interested aspects and related activities of a landmark, and generates adaptively a Table of Content (TOC) as a summary of the attractions to facilitate the user browsing.</abstract>
+	</publication>
+	<publication>
+		<title>Ranking community answers via analogical reasoning</title>
+		<year>2009</year>
+		<authors>xudong tu,xin-jing wang,dan feng</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Analogical Reasoning;Question Answering;Relational Data;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the lexical gap between questions and answers, automati- cally detecting right answers becomes very challenging for com- munity question-answering sites. In this paper, we propose an analogical reasoning-based method. It treats questions and an- swers as relational data and ranks an answer by measuring the analogy of its link to a query with the links embedded in previous</abstract>
+	</publication>
+	<publication>
+		<title>MindFinder: image search by interactive sketching and tagging</title>
+		<year>2010</year>
+		<authors>changhu wang,zhiwei li</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Drag and Drop;Image Database;Image Search;Interactive Search;Relevance Feedback;Scaling Up;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this technical demonstration, we showcase the MindFinder system $-$ a novel image search engine. Different from existing interactive image search engines, most of which only provide image-level relevance feedback, MindFinder enables users to sketch and tag query images at object level. By considering the image database as a huge repository, MindFinder is able to help users present and refine</abstract>
+	</publication>
+	<publication>
+		<title>Image annotation using search and mining technologies</title>
+		<year>2006</year>
+		<authors>xin-jing wang,feng jing,wei-ying ma</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Data Mining;Image Annotation;Image Database;Indexation;Large Scale;Search Result Clustering;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel solution to the image annotation problem which annotates images using search and data mining technologies. An accurate keyword is required to initialize this process, and then leveraging a large-scale image database, it 1) searches for semantically and visually similar images, 2) and mines annotations from them. A notable advantage of this approach is</abstract>
+	</publication>
+	<publication>
+		<title>Incorporating site-level knowledge to extract structured data from web forums</title>
+		<year>2009</year>
+		<authors>jiang-ming yang,rui cai,yida wang,jun zhu,wei-ying ma</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>512</label>
+		<keyword>Data Extraction;Information Extraction;Knowledge Structure;Structured Data;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Web forums have become,an important data resource for many web applications, but extracting structured data from unstructured web forum pages is still a challenging task due to both complex page layout designs and unrestricted user created posts. In this paper, we study the problem of struc- tured data extraction from various web,forum sites. Our target is to flnd a</abstract>
+	</publication>
+	<publication>
+		<title>Face Annotation for Family Photo Album Management</title>
+		<year>2003</year>
+		<authors>longbin chen,bao-gang hu,mingjing li,hongjiang zhang</authors>
+		<jconf>International Journal of Image and Graphics</jconf>
+		<label>512</label>
+		<keyword>Automatic Annotation;Content Based Image Retrieval;Experimental Evaluation;Face Recognition;Learning Algorithm;Relevance Feedback;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a framework to semi-automatically annotate faces in family photo albums. The core of the framework is the features used to dene face similarity and this results in the learning algorithm used to rene automatic face annotation. We have adopted similarity based search and relevance feedback ideas developed for content- based image retrieval and a set</abstract>
+	</publication>
+	<publication>
+		<title>Scalable search-based image annotation</title>
+		<year>2008</year>
+		<authors>changhu wang,feng jing,hongjiang zhang</authors>
+		<jconf>Multimedia Systems</jconf>
+		<label>512</label>
+		<keyword>Automatic Image Annotation;Content Based Image Retrieval;Digital Camera;Digital Image;Image Annotation;Information Retrieval;Large Scale;</keyword>
+		<organization>null</organization>
+		<abstract>With the popularity of digital cameras, more and more people have accumulated considerable digital images on their personal devices. As a result, there are increasing needs to effectively search these personal images. Automatic image annotation may serve the goal, for the annotated key- words could facilitate the search processes. Although many image annotation methods have been proposed in recent years,</abstract>
+	</publication>
+	<publication>
+		<title>Annotating Images by Mining Image Search Results</title>
+		<year>2008</year>
+		<authors>xin-jing wang,xirong li,wei-ying ma</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>512</label>
+		<keyword>Distributed System;Divide and Conquer;High Dimensionality;Image Annotation;Image Search;Machine Learning;Semantic Similarity;Visual Features;Web Service;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Although it has been studied for years by the computer vision and machine learning communities, image annotation is still far from practical. In this paper, we propose a novel attempt at model-free image annotation, which is a data-driven approach that annotates images by mining their search results. Some 2.4 million images with their surrounding text are collected from a few</abstract>
+	</publication>
+	<publication>
+		<title>Efficient 3D reconstruction for face recognition</title>
+		<year>2005</year>
+		<authors>dalong jiang,yuxiao hu,shuicheng yan,hongjiang zhang,wen gao</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>3d integration;3d reconstruction;Analysis By Synthesis;Expression Analysis;Face Modeling;Face Recognition;Pattern Recognition;Pose Illumination and Expression;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Face recognition with variant pose, illumination and expression (PIE) is a challenging problem. In this paper, we propose an analysis-by-synthesis framework for face recognition with variant PIE. First, an efficient two-dimensional (2D)-to-threedimensional,(3D) integrated face reconstruction approach,is introduced to reconstruct a personalized 3D face model from a single frontal face image with neutral expression and normal illumination. Then, realistic virtual</abstract>
+	</publication>
+	<publication>
+		<title>Boosting image classification with LDA-based feature combination for digital photograph management</title>
+		<year>2005</year>
+		<authors>xuezheng liu,mingjing li,hongjiang zhang,dingxing wang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>512</label>
+		<keyword>Classification Accuracy;Computational Efficiency;Digital Camera;Feature Extraction;Image Classification;Learning Algorithm;Linear Discriminate Analysis;New Combination;Statistical Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Image classification is of great importance for digital photograph management.  In this paper we propose a general statistical  learning  method  based  on  boosting  algorithm  to  perform ,image  classification  for  photograph annotation  and  management.  The  proposed  method  employs  both  features  extracted  from  image  content (i.e., color moment and edge direction histogram) and features from the EXIF metadata recorded by digital</abstract>
+	</publication>
+	<publication>
+		<title>Human Gait Recognition With Matrix Representation</title>
+		<year>2006</year>
+		<authors>dong xu,shuicheng yan,dacheng tao,xuelong li,hongjiang zhang</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>512</label>
+		<keyword>Discriminant Analysis;Gait Recognition;Indexing Terms;Matrix Representation;Object Representation;Video Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract>Human gait is an important biometric feature. It can be perceived from a great distance and has recently attracted greater attention in video-surveillance-related applications, such as closed-circuit television. We explore gait recognition based on a matrix representation in this paper. First, binary silhouettes over one gait cycle are averaged. As a result, each gait video sequence, containing a number of</abstract>
+	</publication>
+	<publication>
+		<title>Reconstruction and Recognition of Tensor-Based Objects With Concurrent Subspaces Analysis</title>
+		<year>2008</year>
+		<authors>dong xu,shuicheng yan,stephen lin,hongjiang zhang,thomas s. huang</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>512</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Unified Relevance Feedback Framework for Web Image Retrieval</title>
+		<year>2009</year>
+		<authors>en cheng,feng jing</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>512</label>
+		<keyword>Content Based Image Retrieval;Image Retrieval;Implicit Feedback;Implicit Relevance Feedback;Indexing Terms;Relevance Feedback;Search Result Clustering;User Interface;Visual Features;Web Image Search;</keyword>
+		<organization>null</organization>
+		<abstract>Although relevance feedback (RF) has been exten- sively studied in the content-based image retrieval community, no commercial Web image search engines support RF because of scalability, efficiency, and effectiveness issues. In this paper, we propose a unified relevance feedback framework for Web image retrieval. Our framework shows advantage over traditional RF mechanisms in the following three aspects. First, during the</abstract>
+	</publication>
+	<publication>
+		<title>Multilinear Discriminant Analysis for Face Recognition</title>
+		<year>2007</year>
+		<authors>shuicheng yan,dong xu,qiang yang,xiaoou tang,hongjiang zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>512</label>
+		<keyword>Discriminant Analysis;Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Annotation-based Image Retrieval</title>
+		<year>2009</year>
+		<authors>xin-jing wang</authors>
+		<jconf></jconf>
+		<label>512</label>
+		<keyword>Image Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relevance Feedback for Content-Based Information Retrieval</title>
+		<year>2009</year>
+		<authors>xin-jing wang</authors>
+		<jconf></jconf>
+		<label>512</label>
+		<keyword>Information Retrieval;Relevance Feedback;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hemispherical Harmonic Surface Description and Applications to Medical Image Analysis</title>
+		<year>2006</year>
+		<authors>heng huang,dimitris samaras,li shen,rong zhang,fillia makedon,justin d. pearlman</authors>
+		<jconf>3D Data Processing Visualization and Transmission</jconf>
+		<label>513</label>
+		<keyword>Medical Image;Medical Image Analysis;Shape Description;Shape Descriptor;Surface Model;</keyword>
+		<organization>null</organization>
+		<abstract>The use of surface harmonics for rigid and nonrigid shape description is well known. In this paper we define a set of complete hemispherical harmonic basis functions on a hemisphere domain and propose a novel parametric shape description method to efficiently and flexibly represent the surfaces of anatomical structures in medical images. As the first application of hemispherical harmonic theory</abstract>
+	</publication>
+	<publication>
+		<title>Face Reconstruction Across Different Poses and Arbitrary Illumination Conditions</title>
+		<year>2005</year>
+		<authors>sen wang,dimitris samaras</authors>
+		<jconf>Audio- and Video-Based Biometric Person Authentication</jconf>
+		<label>513</label>
+		<keyword>Bundle Adjustment;Face Modeling;Spherical Harmonic;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel method for face recon- struction from multi-posed face images taken under arbitrary unknown illumination conditions. Previous work shows that any face image can be represented by a set of low dimensional parameters: shape parame- ters, spherical harmonic basis (SHB) parameters, pose parameters and illumination coefficients. Thus, face reconstruction can be performed by recovering</abstract>
+	</publication>
+	<publication>
+		<title>Face Modeling and Analysis in Stony Brook University</title>
+		<year>2005</year>
+		<authors>dimitris samaras,yang wang,sen wang,mohit gupta</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>513</label>
+		<keyword>Face Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face Recognition Under Variable Lighting using Harmonic Image Exemplars</title>
+		<year>2003</year>
+		<authors>dimitris samaras</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>513</label>
+		<keyword>Face Modeling;Face Recognition;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new approach for face recognition under arbitrary illumination conditions, which requires only one training image per subject (if there is no pose variation) and no 3D shape information. Our method is based on the recent result (1) which demostrated that the set of images of a convex Lambertian object obtained under a wide vari- ety of lighting</abstract>
+	</publication>
+	<publication>
+		<title>Machine Learning for Clinical Diagnosis from Functional Magnetic Resonance Imaging</title>
+		<year>2005</year>
+		<authors>dimitris samaras,dardo tomasi,nora d. volkow,rita goldstein</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>513</label>
+		<keyword>Brain Activation;Brain Imaging;Clinical Diagnosis;Drug Addiction;Drug Use;Functional Magnetic Resonance Images;Human Brain;Machine Learning;Side Information;</keyword>
+		<organization>null</organization>
+		<abstract>Functional Magnetic Resonance Imaging (fMRI) has en- abled scientists to look into the active human brain. FMRI provides a sequence of 3D brain images with intensities rep- resenting brain activations. Standard techniques for fMRI analysis traditionally focused on finding the area of most significant brain activation for different sensations or activ- ities. In this paper, we explore a new application</abstract>
+	</publication>
+	<publication>
+		<title>Face Synthesis and Recognition from a Single Image under Arbitrary Unknown Lighting Using a Spherical Harmonic Basis Morphable Model</title>
+		<year>2005</year>
+		<authors>sen wang,dimitris samaras</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>513</label>
+		<keyword>Face Recognition;Illumination Invariance;Spherical Harmonic;</keyword>
+		<organization>null</organization>
+		<abstract>Understanding and modifying the effects of arbitrary il- lumination on human faces in a realistic manner is a chal- lenging problem both for face synthesis and recognition. Recent research demonstrates that the set of images of a convex Lambertian object obtained under a wide variety of lighting conditions can be approximated accurately by a low-dimensional linear subspace using spherical harmon-</abstract>
+	</publication>
+	<publication>
+		<title>Pose Invariant Face Recognition Under Arbitrary Unknown Lighting Using Spherical Harmonics</title>
+		<year>2004</year>
+		<authors>dimitris samaras</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>513</label>
+		<keyword>3d model;Error Estimate;Face Recognition;Generic Model;Illumination Invariance;Shape Parameter;Spherical Harmonic;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new method for face recognition under arbi- trary pose and illumination conditions, which requires only one training image per subject. Furthermore, no limitation on the pose and illumina- tion conditions for the training image is necessary. Our method combines the strengths of Morphable models to capture the variability of 3D face shape and a spherical harmonic representation</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Temporal Information in Functional Magnetic Resonance Imaging Brain Data</title>
+		<year>2005</year>
+		<authors>dimitris samaras,dardo tomasi,nelly alia-klein,lisa cottone,andreana leskovjan,nora d. volkow,rita goldstein</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>513</label>
+		<keyword>Brain Activation;Brain Imaging;Case Study;Clinical Study;Data Analysis Methods;Drug Addiction;Drug Use;Functional Magnetic Resonance Images;Functional Neuroimaging;Genetics;Human Brain;Machine Learning;Temporal Information;</keyword>
+		<organization>null</organization>
+		<abstract>Functional Magnetic Resonance Imaging(fMRI) has enabled scientists to look into the active human brain, leading to a flood of new data, thus encouraging the development of new data analysis methods. In this paper, we contribute a comprehensive framework for spatial and tem- poral exploration of fMRI data, and apply it to a challenging case study: separating drug addicted subjects from</abstract>
+	</publication>
+	<publication>
+		<title>Modeling Neuronal Interactivity using Dynamic Bayesian Networks</title>
+		<year>2005</year>
+		<authors>dimitris samaras,nelly alia-klein,nora d. volkow,rita goldstein</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>513</label>
+		<keyword>Brain Activation;Brain Function;Clinical Study;Drug Addiction;dynamic bayesian network;Functional Magnetic Resonance Images;Functional Neuroimaging;Human Brain;Interaction Model;Learning Algorithm;Machine Learning;Coupled Hidden Markov Model;Control Subjects;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Functional Magnetic Resonance Imaging (fMRI) has enabled scientists to look into the active brain. However, interactivity between functional brain regions, is still little studied. In this paper, we contribute a novel framework for modeling the interactions between multiple active brain regions, using Dynamic Bayesian Networks (DBNs) as generative mod-els for brain activation patterns. This framework is applied to modeling of</abstract>
+	</publication>
+	<publication>
+		<title>Face Relighting from a Single Image under Arbitrary Unknown Lighting Conditions</title>
+		<year>2009</year>
+		<authors>yang wang,zicheng liu,gang hua,zhen wen,zhengyou zhang,dimitris samaras</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>513</label>
+		<keyword>Approximation Error;Face Recognition;Shape Parameter;Spatial Coherence;Spherical Harmonic;Statistical Distribution;Condition Index;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In this paper, we present a new method to modify the appearance of a face image by manipulating the illumination condition, when the face geometry and albedo information is unknown. This problem is particularly difficult when,there is only a single image,of the subject available. Recent research demonstrates,that the set of images,of a convex Lambertian object obtained under a wide</abstract>
+	</publication>
+	<publication>
+		<title>Face Recognition from a Single Training Image under Arbitrary Unknown Lighting Using Spherical Harmonics</title>
+		<year>2006</year>
+		<authors>dimitris samaras</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>513</label>
+		<keyword>Face Recognition;Illumination Invariance;Indexing Terms;Spherical Harmonic;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose two novel methods for face recognition under arbitrary unknown lighting by using spherical harmonics illumination representation, which require only one training image per subject and no 3D shape information. Our methods are based on the recent result which demonstrated that the set of images of a convex Lambertian object obtained under a wide variety of</abstract>
+	</publication>
+	<publication>
+		<title>Color rendering and luminous efficacy of trichromatic and tetrachromatic LED-based white LEDs</title>
+		<year>2007</year>
+		<authors>xia guo,ting liang,xiaoling gu,qiao ming lin,guangdi shen</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<label>514</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-power transverse micro-stack weakly coupled laser diode bars</title>
+		<year>2008</year>
+		<authors>bifeng cui,weiling guo,zhiqun wang,guangdi shen</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<label>514</label>
+		<keyword>High Power;Laser Diode;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Restoring compromised privacy in micro-data disclosure</title>
+		<year>2010</year>
+		<authors>alexander brodsky,sushil jajodia</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>515</label>
+		<keyword>Computational Complexity;Data Privacy;Experimental Study;Micro Data;Monte Carlo;Polynomial Algorithm;Polynomial Time Algorithm;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Studied in this paper is the problem of restoring compromised privacy for micro-data disclosure with multiple disclosed views. The property of γ-privacy is proposed, which requires that the probability of an individual to be associated with a sensitive value must be bounded by γ in a possible table which is randomly selected from a set of tables that would lead</abstract>
+	</publication>
+	<publication>
+		<title>Information disclosure under realistic assumptions: privacy versus optimality</title>
+		<year>2007</year>
+		<authors>sushil jajodia,alexander brodsky</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>515</label>
+		<keyword>Information Disclosure;np-hard problem;Optimal Algorithm;Polynomial Time;Privacy Preservation;Safety Properties;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of information disclosure has attracted much interest from the research community in recent years. When disclosing information, the challenge is to provide as much information as possible (optimality) while guaranteeing a desired safety property for privacy (such as l-diversity). A typical disclosure algorithm uses a sequence of disclosure schemas to output generalizations in the nonincreasing order of data</abstract>
+	</publication>
+	<publication>
+		<title>Exclusive Strategy for Generalization Algorithms in Micro-data Disclosure</title>
+		<year>2008</year>
+		<authors>lingyu wang,sushil jajodia,alexander brodsky</authors>
+		<jconf>IFIP Workshop on Database Security</jconf>
+		<label>515</label>
+		<keyword>Generic Algorithm;Micro Data;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>When generalization algorithms are known to the public, an adver- sary can obtain a more precise estimation of the secret table than what can be deduced from the disclosed generalization result. Therefore, whether a general- ization algorithm can satisfy a privacy property should be judged based on such an estimation. In this paper, we show that the computation of the</abstract>
+	</publication>
+	<publication>
+		<title>k-jump strategy for preserving privacy in micro-data disclosure</title>
+		<year>2010</year>
+		<authors>wen ming liu,lingyu wang</authors>
+		<jconf>International Conference on Database Theory</jconf>
+		<label>515</label>
+		<keyword>Micro Data;</keyword>
+		<organization>null</organization>
+		<abstract>In disclosing micro-data with sensitive attributes, the goal is usually two fold. First, the data utility of disclosed data should be maximized for analysis purposes. Second, the private infor- mation contained in such data must be limited to an acceptable level. Recent studies show that adversarial inferences using knowledge about a disclosure algorithm can usually render the algorithm unsafe. In</abstract>
+	</publication>
+	<publication>
+		<title>Reverse Tree-based Key Routing: Robust Data Aggregation in Wireless Sensor Networks</title>
+		<year>2010</year>
+		<authors>honggang zhang,mauro conti,roberto di pietro,sushil jajodia,luigi vincenzo mancini</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>515</label>
+		<keyword>Data Aggregation;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Toward Information Sharing: Benefit And Risk Access Control (BARAC)</title>
+		<year>2006</year>
+		<authors>alexander brodsky,sushil jajodia</authors>
+		<jconf>Policies for Distributed Systems and Networks</jconf>
+		<label>515</label>
+		<keyword>Information Sharing;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework for Maximizing Utility of Sanitized Documents Based on Meta-labeling</title>
+		<year>2008</year>
+		<authors>alexander brodsky,vipin swarup,sushil jajodia</authors>
+		<jconf>Policies for Distributed Systems and Networks</jconf>
+		<label>515</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Answering Queries Based on Imprecision and Uncertainty Trade-Offs in Numeric Databases</title>
+		<year>2007</year>
+		<authors>alexander brodsky,sushil jajodia</authors>
+		<jconf>Secure Data Management</jconf>
+		<label>515</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simulatable Binding: Beyond Simulatable Auditing</title>
+		<year>2008</year>
+		<authors>sushil jajodia,alexander brodsky</authors>
+		<jconf>Secure Data Management</jconf>
+		<label>515</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>L-Cover: Preserving Diversity by Anonymity</title>
+		<year>2009</year>
+		<authors>lingyu wang,sushil jajodia,alexander brodsky</authors>
+		<jconf>Secure Data Management</jconf>
+		<label>515</label>
+		<keyword>Generic Algorithm;Micro Data;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>To release micro-data tables containing sensitive data, generalization algorithms are usually required for satisfying given privacy properties, such as k-anonymity and l-diversity. It is well accepted that k-anonymity and l-diversity are proposed for different purposes, and the latter is a stronger property than the former. However, this paper uncovers an interesting relationship between these two properties when the generalization algorithms</abstract>
+	</publication>
+	<publication>
+		<title>An Integrity Lock Architecture for Supporting Distributed Authorizations in Database Federations</title>
+		<year>2008</year>
+		<authors>wei li,lingyu wang,bo zhu</authors>
+		<jconf>Information Security</jconf>
+		<label>515</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two secret sharing schemes based on Boolean operations</title>
+		<year>2007</year>
+		<authors>daoshun wang,ning ma,xiaobo li</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>515</label>
+		<keyword>Binary Image;Boolean Operation;Computational Complexity;Pattern Recognition;Secret Sharing Scheme;Space Complexity;Visual Cryptography;Visual Secret Sharing;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional secret sharing schemes involve complex computation. A visual secret sharing (VSS) scheme decodes the secret without computation, but each shadow is m times as big as the original. Probabilistic VSS solved the computation complexity and space complexity problems at once. In this paper we propose a probabilistic (2 ,n )scheme for binary images and a deterministic (n, n) scheme</abstract>
+	</publication>
+	<publication>
+		<title>Privacy-preserving robust data aggregation in wireless sensor networks</title>
+		<year>2009</year>
+		<authors>mauro conti,sankardas roy,roberto di pietro,sushil jajodia,luigi vincenzo mancini</authors>
+		<jconf>Security and Communication Networks</jconf>
+		<label>515</label>
+		<keyword>Data Aggregation;Health Care;Privacy Preservation;Sensor Nodes;base sta tion;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. In-network data aggregation in Wireless Sensor Networks (WSNs) is a technique aimed at re- ducing the communication overhead—sensed data are combined,into partial results at intermediate nodes during message routing. However, in the above tech- nique, some sensor nodes need to send their individual sensed values to an aggregator node, empowered with the capability to decrypt the received data to</abstract>
+	</publication>
+	<publication>
+		<title>Solving the CLM Problem by Discrete-Time Linear Threshold Recurrent Neural Networks</title>
+		<year>2009</year>
+		<authors>pheng-ann heng,zhang yi</authors>
+		<jconf>Int. Conference on Artificial Neural Networks</jconf>
+		<label>516</label>
+		<keyword>Discrete Time;Recurrent Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global Exponential Convergence of Time-Varying Delayed Neural Networks with High Gain</title>
+		<year>2007</year>
+		<authors>zhang yi</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>516</label>
+		<keyword>Exponential Convergence;Time-varying Delay;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some multistability properties of bidirectional associative memory recurrent neural networks with unsaturating piecewise linear transfer functions</title>
+		<year>2009</year>
+		<authors>zhang yi,jiali yu,pheng-ann heng</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>516</label>
+		<keyword>piecewise linear;Bidirectional Associative Memory;Neural Network;Transfer Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Permitted and Forbidden Sets in Discrete-Time Linear Threshold Recurrent Neural Networks</title>
+		<year>2009</year>
+		<authors>zhang yi,jiali yu,kok kiong tan</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>516</label>
+		<keyword>Complete Convergence;Computer Network;Discrete Time;Indexing Terms;Necessary and Sufficient Condition;Recurrent Neural Network;Simulation Study;Neural Network;Transfer Function;</keyword>
+		<organization>null</organization>
+		<abstract>Theconcepts of permittedandforbidden sets enable a new perspective of the memory in neural networks. Such concepts exhibit interesting dynamics in recurrent neural networks. This paper studies the basic theories of permitted and forbidden sets of the linear threshold discrete-time recurrent neural networks. The linear threshold transfer function has been regarded as an ade- quate transfer function for recurrent neural networks.</abstract>
+	</publication>
+	<publication>
+		<title>Representations of Continuous Attractors of Recurrent Neural Networks</title>
+		<year>2009</year>
+		<authors>jiali yu,zhang yi</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>516</label>
+		<keyword>Recurrent Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterated Graph Cuts for Image Segmentation</title>
+		<year>2009</year>
+		<authors>bo peng,jian yang</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>517</label>
+		<keyword>Energy Function;Graph Cut;Image Segmentation;Interactive Segmentation;Region Merging;Mean Shift;</keyword>
+		<organization>null</organization>
+		<abstract>Graph cuts based interactive segmentation has become very popular over the last decade. In standard graph cuts, the extraction of foreground object in a complex background often leads to many seg- mentation errors and the parameter ‚ in the energy function is hard to select. In this paper, we propose an iterated graph cuts algorithm, which starts from the sub-graph</abstract>
+	</publication>
+	<publication>
+		<title>A Multi-scale Bilateral Structure Tensor Based Corner Detector</title>
+		<year>2009</year>
+		<authors>lin zhang,david zhang</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wavelet Based Analysis of Doppler Ultrasonic Wrist-pulse Signals</title>
+		<year>2008</year>
+		<authors>dongyu zhang,david zhang,yongping zheng</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Is White Light the Best Illumination for Palmprint Recognition?</title>
+		<year>2009</year>
+		<authors>zhenhua guo,david zhang</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>517</label>
+		<keyword>White Light;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rotation Invariant Texture Classification Using Binary Filter Response Pattern (BFRP)</title>
+		<year>2009</year>
+		<authors>zhenhua guo,david zhang</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>517</label>
+		<keyword>Rotation Invariance;Texture Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finger-Knuckle-Print Verification Based on Band-Limited Phase-Only Correlation</title>
+		<year>2009</year>
+		<authors>lin zhang,david zhang</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>517</label>
+		<keyword>Coordinate System;Data Acquisition;Feature Extraction;Phase Only Correlation;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>This paper investigates a new automated personal authentication technique using finger-knuckle-print (FKP) imaging. First, a specific data acquisition device is developed to capture the FKP images. The local convex direction map of the FKP image is then extracted, based on which a coordinate system is defined to align the images and a region of interest (ROI) is cropped for feature</abstract>
+	</publication>
+	<publication>
+		<title>Directional independent component analysis with tensor representation</title>
+		<year>2008</year>
+		<authors>quanxue gao,david zhang</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Independent Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Curvature and singularity driven diffusion for oriented pattern enhancement with singular points</title>
+		<year>2009</year>
+		<authors>qijun zhao,david zhang,wenyi huang,jian bai</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Anisotropic Diffusion;Diffusion Model;Diffusion Process;gabor filter;Nonlinear Diffusion;Singular Point;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Oriented patterns, e.g. fingerprints, consist of smoothly varying flow-like patterns, together with important singular points (i.e. cores and deltas) where the orientation changes abruptly. Gabor filters and anisotropic diffusion methods have been widely used to enhance oriented patterns. How- ever, none of them can well cope with regions of varying curvatures or regions surrounding singular points. By in- corporating the</abstract>
+	</publication>
+	<publication>
+		<title>A Block-Based InterBand Lossless Hyperspectral Image Compressor</title>
+		<year>2005</year>
+		<authors>marko j. slyz</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>517</label>
+		<keyword>hyperspectral image;Prediction Error;Random Access;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a hyperspectral image compressor called BH which consid- ers its input image as being partitioned into square blocks, each lying entirely within a particular band, and compresses one such block at a time by using the following steps: first predict the block from the corresponding block in the previous band, then select a predesigned code based on the</abstract>
+	</publication>
+	<publication>
+		<title>Scalable and fault-tolerant network-on-chip design usingthe quartered recursive diagonal torus topology</title>
+		<year>2008</year>
+		<authors>xianfang tan,shankar neelkrishnan,mei yang,yingtao jiang,yulu yang</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<label>518</label>
+		<keyword>Complex System;Fault Tolerant;Finite State Machine;Intellectual Property;Routing Algorithm;Network On Chip;network on a chip;</keyword>
+		<organization>null</organization>
+		<abstract>Network-on-a-chip (NoC) is an effective approach to connect and manage the communication between the variety of design elements and intellectual property blocks required in large and complex system-on-chips. In this paper, we propose a new NoC architecture, referred as the Quartered Recursive Diagonal Torus (QRDT), which is constructed by overlaying diagonal torus. Due to its small diameter and rich routing</abstract>
+	</publication>
+	<publication>
+		<title>Direct Pore Matching for Fingerprint Recognition</title>
+		<year>2009</year>
+		<authors>qijun zhao,david zhang,nan luo</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>517</label>
+		<keyword>Fingerprint Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Block Independent Component Analysis for Face Recognition</title>
+		<year>2007</year>
+		<authors>quanxue gao,david zhang</authors>
+		<jconf>International Conference on Image Analysis and Processing</jconf>
+		<label>517</label>
+		<keyword>Face Recognition;Independent Component Analysis;Independent Component;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  This paper  presents  a  subspace ,algorithm  called  block independent  component  analysis  (B-ICA)  for  face recognition.  Unlike  the  traditional ICA,  in  which  the whole face image is stretched into a vector before calculating the  independent  components  (ICs),  B-ICA  partitions the  facial  images  into  blocks  and  takes  the  block as  the  training  vector.  Since  the  dimensionality  ofthe training  vector  in  B-ICA</abstract>
+	</publication>
+	<publication>
+		<title>Locally Linear Discriminant Embedding for Tumor Classification</title>
+		<year>2008</year>
+		<authors>chun-hou zheng,bo li,hong-qiang wang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inferring the Transcriptional Modules Using Penalized Matrix Decomposition</title>
+		<year>2010</year>
+		<authors>chun-hou zheng,to-yee ng,chi keung shiu,shu-lin wang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>517</label>
+		<keyword>Matrix Decomposition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Context-based bias removal of statistical models of wavelet coefficients for image denoising</title>
+		<year>2009</year>
+		<authors>weisheng dong,xiaolin wu,guangming shi</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Context Model;Gaussian Distribution;image denoising;Indexing Terms;Probability Model;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Existing wavelet-based image denoising techniques all as- sume a probability model of wavelet coefficients that has zero mean, such as zero-mean Laplacian, Gaussian, or gen- eralized Gaussian distributions. While such a zero-mean probability model fits a wavelet subband well, in areas of edges and textures the distribution of wavelet coefficients exhibits a significant bias. We propose a context modeling technique</abstract>
+	</publication>
+	<publication>
+		<title>Nonlocal back-projection for adaptive image enlargement</title>
+		<year>2009</year>
+		<authors>weisheng dong,guangming shi,xiaolin wu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>High Resolution;Image Interpolation;Image Reconstruction;Image Restoration;Indexing Terms;Iterative Reconstruction;Natural Images;Visual Perception;Low Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel non-local iterative back- projection (NLIBP) algorithm for image enlargement. The iterative back-projection (IBP) technique iteratively reconstructs a high resolution (HR) image from its blurred and downsampled low resolution (LR) counterpart. However, the conventional IBP methods often produce many &quot;jaggy&quot; and &quot;ringing&quot; artifacts because the reconstruction errors are back projected into the reconstructed image isotropically and</abstract>
+	</publication>
+	<publication>
+		<title>Palmprint verification using consistent orientation coding</title>
+		<year>2009</year>
+		<authors>zhenhua guo,wangmeng zuo,david zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dark line detection with line width extraction</title>
+		<year>2008</year>
+		<authors>qin li,jane you,david zhang,prabir bhattacharya</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>gabor filter;Image Processing;Indexing Terms;Line Detection;Medical Image;Road Detection;Radon Transform;Second Order;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Automated line  detection  is  a  classical  image  processing  topic with  many  applications  such  as  road  detection  in  remote images  and  vessel  detection  in  medical  images.  Many traditional line detectors, such as Gabor filter, the second order derivative of Gaussian and Radon transform will response not only to lines but also to edges, e.g. they will give  high  responses  to</abstract>
+	</publication>
+	<publication>
+		<title>Principal line based ICP alignment for palmprint verification</title>
+		<year>2009</year>
+		<authors>wei li,david zhang,jingqi yan</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Temporal color video demosaicking via motion estimation and optimal data fusing</title>
+		<year>2004</year>
+		<authors>xiaolin wu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Motion Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Palmprint Verification using Complex Wavelet Transform</title>
+		<year>2007</year>
+		<authors>zhenhua guo,zhou wang,david zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Indexation;Indexing Terms;Similarity Measure;Structural Similarity;Complex Wavelet Transform;False Accept Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Palmprint is a unique and reliable biometric characteristic with high usability. With the increasing demand of automatic palmprint authentication systems, the development of accurate and robust palmprint verification algorithms has been attracting a lot of interests. The relative translation, rotation and distortion between two palmprint images will introduce much error in palmprint matching. However, an accurate registration of palmprint images</abstract>
+	</publication>
+	<publication>
+		<title>Finger-knuckle-print: A new biometric identifier</title>
+		<year>2009</year>
+		<authors>lin zhang,david zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Coordinate System;Data Acquisition;Feature Extraction;gabor filter;Indexing Terms;Personal Identity;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new biometric identifier, namely finger-knuckle-print (FKP), for personal identity authentication. First a specific data acquisition device is constructed to capture the FKP images, and then an efficient FKP recognition algorithm is presented to process the acquired data. The local convex direction map of the FKP image is extracted, based on which a coordinate system is defined</abstract>
+	</publication>
+	<publication>
+		<title>Feature Band Selection for Multispectral Palmprint Recognition</title>
+		<year>2010</year>
+		<authors>zhenhua guo,david zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fingerprint Pore Matching Based on Sparse Representation</title>
+		<year>2010</year>
+		<authors>feng liu,qijun zhao,david zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Sparse Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Approach to Automated Retinal Vessel Segmentation Using Multiscale Analysis</title>
+		<year>2006</year>
+		<authors>qin li,david zhang,prabir bhattacharya</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Blood Vessel;gabor filter;Multiscale Analysis;Retinal Imaging;Vessel Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Computer based  analysis  for  automated  segmentation  of  blood  vessels in  retinal  images  will  help  eye  care  specialists  screen  larger populations  for  vessel  abnormalities.  However,  automated retinal  segmentation  is  complicated  by  the  fact  that  the width  of  retinal  vessels  can  vary  from ,very  large  to  very  small, and  that  the  local  contrast  of  vessels  is  unstable,  especially in  unhealthy  ocular</abstract>
+	</publication>
+	<publication>
+		<title>Face Recognition Using a Multi-manifold Discriminant Analysis Method</title>
+		<year>2010</year>
+		<authors>wankou yang,changyin sun</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Discriminant Analysis;Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Monogenic Binary Pattern (MBP): A Novel Feature Extraction and Representation Model for Face Recognition</title>
+		<year>2010</year>
+		<authors>meng yang,lin zhang,david zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Face Recognition;Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Wavelet-Based Edge Detection Method by Scale Multiplication</title>
+		<year>2002</year>
+		<authors>paul bao</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Edge Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Dimensionality Reduction for Sparse Representation Based Face Recognition</title>
+		<year>2010</year>
+		<authors>meng yang,zhizhao feng,david zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Dimensional Reduction;Face Recognition;Sparse Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Microaneurysm (MA) Detection via Sparse Representation Classifier with MA and Non-MA Dictionary Learning</title>
+		<year>2010</year>
+		<authors>bob zhang,jane you,fakhri karray</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Sparse Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel versus Hierarchical Fusion of Extended Fingerprint Features</title>
+		<year>2010</year>
+		<authors>qijun zhao,feng liu,david zhang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive pore model for fingerprint pore extraction</title>
+		<year>2008</year>
+		<authors>qijun zhao,david zhang,nan luo,jing bao</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Extraction Method;Fingerprint Recognition;Matched Filter;</keyword>
+		<organization>null</organization>
+		<abstract>Sweat pores have been recently employed for auto- mated fingerprint recognition, in which the pores are usually extracted by using a computationally expensive skeletonization method or a unitary scale isotropic pore model. In this paper, however, we show that real pores are not always isotropic. To accurately and robustly extract pores, we propose an adaptive anisotropic pore model, whose parameters</abstract>
+	</publication>
+	<publication>
+		<title>Gene expression data classification based on nonnegative matrix factorization</title>
+		<year>2009</year>
+		<authors>chun-hou zheng,ping zhang,xin-xin liu,ju han</authors>
+		<jconf>IJCNN</jconf>
+		<label>517</label>
+		<keyword>Gene Expression Data;Non-negative Matrix Factorization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Retinal Vessel Segmentation Using Gabor Filters and Scale Multiplication</title>
+		<year>2006</year>
+		<authors>qin li,jane you,prabir bhattacharya</authors>
+		<jconf>International Conference on Image Processing, Computer Vision, and Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>adaptive thresholding;Blood Vessel;Computer Aided Diagnosis;gabor filter;Medical Diagnosis;Multiscale Analysis;Vessel Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract>The accurate identification of the appearance of blood vessels in ocular fundus plays an important role in medical diagnosis of many diseases. The automated segmentation is helpful for eye care specialists to screen larger populations In contrast to the existing methods for computer aided diagnosis which, we propose a novel scheme which combines multiscale analysis and adaptive thresholding for vessel</abstract>
+	</publication>
+	<publication>
+		<title>Gene Expression Data Classification Using Independent Variable Group Analysis</title>
+		<year>2008</year>
+		<authors>chun-hou zheng,bo li,min xu</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>517</label>
+		<keyword>Gene Expression Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a Parameterized NoC Router and its Application to Build PRDT-Based NoCs</title>
+		<year>2008</year>
+		<authors>shankar neelkrishnan,mei yang,yingtao jiang,yulu yang,enyue lu,xiao-chun yun</authors>
+		<jconf>International Conference on Information Technology: New Generations</jconf>
+		<label>517</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Indicator and Calibration Material for Microcalcifications in Dual-Energy Mammography</title>
+		<year>2008</year>
+		<authors>xi chen,xuanqin mou</authors>
+		<jconf>Medical Biometrics</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Diabetes Identification and Classification by Means of a Breath Analysis System</title>
+		<year>2010</year>
+		<authors>dongmin guo,david zhang,naimin li,jianhua yang</authors>
+		<jconf>Medical Biometrics</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Retinal Vessel Centerline Extraction Using Multiscale Matched Filter and Sparse Representation-Based Classifier</title>
+		<year>2010</year>
+		<authors>bob zhang,qin li,jane you,fakhri karray</authors>
+		<jconf>Medical Biometrics</jconf>
+		<label>517</label>
+		<keyword>Matched Filter;Sparse Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recursive Wavelength Routed Optical Network for Optical Network-on-Chips</title>
+		<year>2007</year>
+		<authors>mei yang,yingtao jiang,emma regentova</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>517</label>
+		<keyword>Optical Network;Wavelength Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint Spatial-Temporal Color Demosaicking</title>
+		<year>2005</year>
+		<authors>xiaolin wu</authors>
+		<jconf>Scandinavian Conference on Image Analysis</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Radioscopic Inspection of Cargo Containers with Megavoltage Energy Barriers</title>
+		<year>2009</year>
+		<authors>ajay k. mandava,emma regentova,zane wilson,gongyin chen</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Three Dimensional Palmprint Recognition</title>
+		<year>2009</year>
+		<authors>wei li,david zhang</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>517</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face recognition using FLDA with single training image per person</title>
+		<year>2008</year>
+		<authors>quanxue gao,david zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>517</label>
+		<keyword>Face Recognition;Feature Extraction;Scattering Matrix;Singular Value;Singular Value Decomposition;Fisher Linear Discriminant Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Fisher linear discriminant analysis (FLDA) has been widely used for feature extraction in face recognition. However, it cannot be used when each object has only one training sam- ple because the intra-class variations cannot be statistically measured in this case. In this paper, a novel method is proposed to solve this problem by evaluating the within-class scatter matrix from the</abstract>
+	</publication>
+	<publication>
+		<title>Estimation of systems with statistically-constrained inputs</title>
+		<year>2010</year>
+		<authors>yan liang,donghua zhou,quan pan</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Architectures and routing schemes for optical network-on-chips</title>
+		<year>2009</year>
+		<authors>mei yang,yingtao jiang,emma regentova</authors>
+		<jconf>Computers &amp; Electrical Engineering</jconf>
+		<label>517</label>
+		<keyword>Data Transfer;Optical Network;Optical Switch;Wavelength Routing;Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>As indicated in the latest version of ITRS roadmap, optical wiring is a viable interconnect technology for future SoC/SiC/SiP designs that can provide broad band data transfer rates unmatchable by the existing metal/low-k dielectric interconnects. In this paper, we present an interconnection architecture, referred as the wavelength routed optical network (WRON), suitable to build on-chip optical micro-networks. The routing scheme</abstract>
+	</publication>
+	<publication>
+		<title>A quadratic programming based cluster correspondence projection algorithm for fast point matching</title>
+		<year>2010</year>
+		<authors>wei lian,yan liang,quan pan</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>517</label>
+		<keyword>Quadratic Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A joint demosaicking-zooming scheme for single chip digital color cameras</title>
+		<year>2007</year>
+		<authors>david zhang</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the application of cross correlation function to subsample discrete time delay estimation</title>
+		<year>2006</year>
+		<authors>xiaolin wu</authors>
+		<jconf>Digital Signal Processing</jconf>
+		<label>517</label>
+		<keyword>Cross Correlation;Cross Correlation Function;Delay Estimation;Discrete Time;Estimation Method;Parametric Model;Signal Processing;Signal To Noise Ratio;Stationary Process;Time Delay;Time Delay Estimation;Auto Correlation Function;</keyword>
+		<organization>null</organization>
+		<abstract>Cross correlation function (CCF) of signals is an important tool of multi-sensors signal processing. Parabola functions are commonly used as parametric models of the CCF in time delay estimation. The parameters are determined by fitting samples near the maximum of the CCF to a parabola function. In this paper we analyze the CCF for the stationary processes of exponential auto-</abstract>
+	</publication>
+	<publication>
+		<title>Gaussian kernel based fuzzy rough sets: Model, uncertainty measures and applications</title>
+		<year>2010</year>
+		<authors>qinghua hu,degang chen,witold pedrycz,daren yu</authors>
+		<jconf>International Journal of Approximate Reasoning</jconf>
+		<label>517</label>
+		<keyword>Gaussian Kernel;Model Uncertainty;Rough Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequential row-column independent component analysis for face recognition</title>
+		<year>2009</year>
+		<authors>quanxue gao,david zhang</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>517</label>
+		<keyword>Face Recognition;Feature Extraction;Independent Component Analysis;Subspace Method;Independent Component;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A unified distance measurement for orientation coding in palmprint verification</title>
+		<year>2010</year>
+		<authors>zhenhua guo,wangmeng zuo,david zhang</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>517</label>
+		<keyword>Distance Measure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature extraction using fuzzy inverse FDA</title>
+		<year>2009</year>
+		<authors>wankou yang,jianguo wang,mingwu ren,jingyu yang</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>517</label>
+		<keyword>Face Recognition;Feature Extraction;Fuzzy Set Theory;Scattering Matrix;Fisher Discriminant Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a new method of feature extraction and recognition, namely, the fuzzy inverse Fisher discriminant analysis (FIFDA) based on the inverse Fisher discriminant criterion and fuzzy set theory. In the proposed method, a membership degree matrix is calculated using FKNN, then the membership degree is incorporated into the definition of the between-class scatter matrix and within- class scatter</abstract>
+	</publication>
+	<publication>
+		<title>Robust Object Tracking Using Joint Color-Texture Histogram</title>
+		<year>2009</year>
+		<authors>jifeng ning,david zhang,chengke wu</authors>
+		<jconf>International Journal of Pattern Recognition and Artificial Intelligence</jconf>
+		<label>517</label>
+		<keyword>Object Tracking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Active contours with selective local or global segmentation: A new formulation and level set method</title>
+		<year>2010</year>
+		<authors>kaihua zhang,huihui song,wengang zhou</authors>
+		<jconf>Image and Vision Computing</jconf>
+		<label>517</label>
+		<keyword>Active Contour;Level Set Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Context-based adaptive image resolution upconversion</title>
+		<year>2010</year>
+		<authors>guangming shi,weisheng dong,xiaolin wu</authors>
+		<jconf>Journal of Electronic Imaging</jconf>
+		<label>517</label>
+		<keyword>Image Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Canny Edge Detection Enhancement by Scale Multiplication</title>
+		<year>2005</year>
+		<authors>paul bao,xiaolin wu</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>517</label>
+		<keyword>Edge Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rotation invariant texture classification using LBP variance (LBPV) with global matching</title>
+		<year>2010</year>
+		<authors>zhenhua guo,david zhang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Classification Accuracy;Distance Measure;Feature Extraction;Feature Preservation;Invariant Feature;Local Binary Pattern;Rotation Invariance;Spatial Information;Texture Classification;Texture Features;</keyword>
+		<organization>null</organization>
+		<abstract>Local or global rotation invariant feature extraction has been widely used in texture classification. Local invariant features, e.g. local binary pattern (LBP), have the drawback of losing global spatial information, while global features preserve little local texture information. This paper proposes an alternative hybrid scheme, globally rotation invariant matching with locally variant LBP texture features. Using LBP distribution, we first</abstract>
+	</publication>
+	<publication>
+		<title>Image retrieval based on multi-texton histogram</title>
+		<year>2010</year>
+		<authors>guang-hai liu,ying-kun hou,zuo-yong li,jingyu yang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>co-occurrence matrix;Image Features;Image Retrieval;Image Segmentation;Natural Images;Shape Descriptor;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel image feature representation method, called multi-texton histogram (MTH), for image retrieval. MTH integrates the advantages of co-occurrence matrix and histogram by representing the attribute of co-occurrence matrix using histogram. It can be considered as a generalized visual attribute descriptor but without any image segmentation or model training. The proposed MTH method is based on Julesz's</abstract>
+	</publication>
+	<publication>
+		<title>Interactive image segmentation by maximal similarity based region merging</title>
+		<year>2010</year>
+		<authors>jifeng ning,david zhang,chengke wu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Interactive Image Segmentation;Region Merging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color space normalization: Enhancing the discriminating power of color spaces for face recognition</title>
+		<year>2010</year>
+		<authors>jian yang,chengjun liu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Color Space;Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature extraction based on Laplacian bidirectional maximum margin criterion</title>
+		<year>2009</year>
+		<authors>wankou yang,jianguo wang,mingwu ren,jingyu yang,guang-hai liu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hybrid inter and intra-wavelet scale image restoration</title>
+		<year>2003</year>
+		<authors>paul bao,xiaolin wu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>biorthogonal wavelets;Image Restoration;Noise Removal;Pattern Recognition;Perforation;Scale Dependence;Spatial Orientation;Linear Minimum Mean Square Error;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper exploits both the inter- and intra-scale interdependencies that exist in wavelet coe3cients to improve image restoration from noise-corrupted data. Using an over-complete wavelet expansion, we group the wavelet coe3cients with the same spatial orientation at several scales. We then apply the linear minimum,mean squared-error estimation to smooth noise. This scheme exploits the inter-scale correlation information of wavelet</abstract>
+	</publication>
+	<publication>
+		<title>Two-stage image denoising by principal component analysis with local pixel grouping</title>
+		<year>2010</year>
+		<authors>weisheng dong,david zhang,guangming shi</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>image denoising;Principal Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Active contours driven by local image fitting energy</title>
+		<year>2010</year>
+		<authors>kaihua zhang,huihui song</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Active Contour;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online finger-knuckle-print verification for personal authentication</title>
+		<year>2010</year>
+		<authors>lin zhang,david zhang,hailong zhu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>Biometric Authentication;Coordinate System;Data Acquisition;Feature Extraction;gabor filter;Information Extraction;Region of Interest;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Biometric based personal authentication is an effective method for automatically recognizing, with a high confidence, a person's identity. By observing that the texture pattern produced by bending the finger knuckle is highly distinctive, in this paper we present a new biometric authentication system using finger-knuckle-print (FKP) imaging. A specific data acquisition device is constructed to capture the FKP images, and</abstract>
+	</publication>
+	<publication>
+		<title>High resolution partial fingerprint alignment using pore-valley descriptors</title>
+		<year>2010</year>
+		<authors>qijun zhao,david zhang,nan luo</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword>High Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive fingerprint pore modeling and extraction</title>
+		<year>2010</year>
+		<authors>qijun zhao,david zhang,nan luo</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Independent components extraction from image matrix</title>
+		<year>2010</year>
+		<authors>quanxue gao,david zhang,hui xu</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>517</label>
+		<keyword>Computational Complexity;Curse of Dimensionality;Face Recognition;Feature Extraction;Image Features;Independent Component Analysis;Information Embedding;Small Sample Size;Independent Component;independent component anal ysis;</keyword>
+		<organization>null</organization>
+		<abstract>The key problem of extracting independent components (ICs) is to learn the demixing matrix from the known training images which can be unfolded to vectors in conventional independent component anal- ysis (ICA). However, the unfolded vectors lead to the small sample size problem (SSS) and the curse of dimensionality. In this paper, a novel independent feature extraction method is proposed</abstract>
+	</publication>
+	<publication>
+		<title>Palmprint verification using binary orientation co-occurrence vector</title>
+		<year>2009</year>
+		<authors>zhenhua guo,david zhang,wangmeng zuo</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>517</label>
+		<keyword>Feature Extraction;gabor filter;Equal Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The development of accurate and robust palmprint verification algorithms is a critical issue in automatic palmprint authentication systems. Among various palmprint verification approaches, the orientation based coding methods, such as competitive code (CompCode), palmprint orientation code (POC) and robust line orientation code (RLOC), are state-of-the-art ones. They extract and code the locally dominant orientation as features and could match the</abstract>
+	</publication>
+	<publication>
+		<title>Push-Pull marginal discriminant analysis for feature extraction</title>
+		<year>2010</year>
+		<authors>zhenghong gu,jian yang</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>517</label>
+		<keyword>Discriminant Analysis;Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Edge detection by scale multiplication in wavelet domain</title>
+		<year>2002</year>
+		<authors>paul bao</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>517</label>
+		<keyword>Edge Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Directional binary code with application to PolyU near-infrared face database</title>
+		<year>2010</year>
+		<authors>baochang zhang,david zhang,linlin shen</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>517</label>
+		<keyword>Near Infrared;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time lossless compression of mosaic video sequences</title>
+		<year>2005</year>
+		<authors>xiaolin wu,paul bao</authors>
+		<jconf>Real-time Imaging</jconf>
+		<label>517</label>
+		<keyword>Lossless Compression;Motion Compensated;Predictive Coding;Video Codec;Video Compression;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper presents a simple, fast coding technique for lossless compression of mosaic video data. The design of a video codec needs to strike a balance between,the compression,performance,and the codec throughput. Aiming to make,the encoding,throughput high enough for real-time lossless video compression, we propose a hybrid scheme of inter and intraframe coding. Interframe predictive coding is invoked only when,the</abstract>
+	</publication>
+	<publication>
+		<title>Temporal color video demosaicking via motion estimation and data fusion</title>
+		<year>2006</year>
+		<authors>xiaolin wu</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>517</label>
+		<keyword>Motion Estimation;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Denoising by spatial correlation thresholding</title>
+		<year>2003</year>
+		<authors>paul bao</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>517</label>
+		<keyword>image denoising;Indexing Terms;Noise Reduction;Spatial Correlation;Threshold Scheme;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a spatial-correlation thresh- olding scheme for noise reduction by wavelet transform. Observing that edge structures are of high magnitude across wavelet scales but noise decays rapidly, we multiply two adjacent wavelet scales to form a spatial-correlation function to enhance significant struc- tures and dilute noise. Dissimilar to the traditional thresholding schemes that apply threshold to the wavelet</abstract>
+	</publication>
+	<publication>
+		<title>Multiscale LMMSE-Based Image Denoising With Optimal Wavelet Selection</title>
+		<year>2005</year>
+		<authors>paul bao,xiaolin wu</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>517</label>
+		<keyword>image denoising;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Completed Modeling of Local Binary Pattern Operator for Texture Classification</title>
+		<year>2010</year>
+		<authors>zhenhua guo,david zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Local Binary Pattern;Texture Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improvement of Color Video Demosaicking in Temporal Domain</title>
+		<year>2006</year>
+		<authors>xiaolin wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PCA-Based Spatially Adaptive Denoising of CFA Images for Single-Sensor Digital Cameras</title>
+		<year>2009</year>
+		<authors>rastislav lukac,xiaolin wu,david zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Digital Camera;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color demosaicking via directional linear minimum mean square-error estimation</title>
+		<year>2005</year>
+		<authors>xiaolin wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Linear Minimum Mean Square Error;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An edge-guided image interpolation algorithm via directional filtering and data fusion</title>
+		<year>2006</year>
+		<authors>xiaolin wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Image Interpolation;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Color Demosaicking With Adaptation to Varying Spectral Correlations</title>
+		<year>2009</year>
+		<authors>fan zhang,xiaolin wu,xiaokang yang,wenjun zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color Reproduction From Noisy CFA Data of Single Sensor Digital Cameras</title>
+		<year>2007</year>
+		<authors>xiaolin wu,david zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>517</label>
+		<keyword>Digital Camera;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wavelet Estimation of Fractional Brownian Motion Embedded in a Noisy Environment</title>
+		<year>2004</year>
+		<authors>paul bao,xiaolin wu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>517</label>
+		<keyword>fractional brownian motion;Indexing Terms;Minimum Mean Square Error;Mixture Model;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This correspondence proposes a wavelet-based fractional Brownian motion (fBm) signal estimation scheme. Despite the fact that wavelet transform approximately whitens the fBm processes, it is observed that statistical dependencies still exist across adjacent wavelet scales and between neighboring wavelet coefficients. These dependencies can be exploited to improve the estimation of fBm signals embedded into noise. The idea is to reorganize</abstract>
+	</publication>
+	<publication>
+		<title>A Modified Matched Filter With Double-Sided Thresholding for Screening Proliferative Diabetic Retinopathy</title>
+		<year>2009</year>
+		<authors>qin li,jane you,david zhang</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<label>517</label>
+		<keyword>Matched Filter;Proliferative Diabetic Retinopathy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tumor Clustering Using Nonnegative Matrix Factorization With Gene Selection</title>
+		<year>2009</year>
+		<authors>chun-hou zheng,de-shuang huang,xiang-zhen kong</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<label>517</label>
+		<keyword>Gene Selection;Nonnegative Matrix Factorization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Noise Reduction for Magnetic Resonance Images via Adaptive Multiscale Products Thresholding</title>
+		<year>2003</year>
+		<authors>paul bao</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>517</label>
+		<keyword>adaptive thresholding;Indexing Terms;Magnetic Resonance Image;Medical Image Processing;Noise Reduction;Noise Suppression;Threshold Scheme;wavelet thresholding;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Edge-preserving denoising is of great interest in medical image processing. This paper presents a wavelet-based multiscale products thresholding scheme for noise suppression of magnetic resonance images. A Canny edge detector-like dyadic wavelet transform is employed. This results in the significant features in images evolving with high magnitude across wavelet scales, while noise decays rapidly. To exploit the wavelet interscale dependencies</abstract>
+	</publication>
+	<publication>
+		<title>Comments on &quot;On Image Matrix Based Feature Extraction Algorithms</title>
+		<year>2007</year>
+		<authors>quanxue gao,david zhang,jian yang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>517</label>
+		<keyword>Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Characterization of palmprints by wavelet signatures via directional context modeling</title>
+		<year>2004</year>
+		<authors>david zhang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>517</label>
+		<keyword>Context Model;Cost Effectiveness;Feature Extraction;Indexing Terms;Low Resolution;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>The palmprint is one of the most reliable physio- logical characteristics that can be used to distinguish between individuals. Current palmprint-based systems are more user friendly, more cost effective, and require fewer data signatures than traditional fingerprint-based identification systems. The principal lines and wrinkles captured in a low-resolution palm- print image provide more than enough information to uniquely identify an</abstract>
+	</publication>
+	<publication>
+		<title>Providing an Uncertainty Reasoning Service for Semantic Web Application</title>
+		<year>2006</year>
+		<authors>lei li,qiaoling liu,yunfeng tao,jian zhou,yong yu</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>519</label>
+		<keyword>Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Web Services into Ontology-Based Web Portal</title>
+		<year>2005</year>
+		<authors>jian zhou,yong yu,chenxi lin,yin yang</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>519</label>
+		<keyword>Automatic Generation;Description Logic;Semantic Web Service;Web Ontology Language;Web Portal;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>With the explosive emerged Web services, the Web becomes a world of information and applications. So portals whose goal is present- ing a structured view onto the Web should provide users with a single point access to multiple types of not only information but also services. Recently, many systems have been developed using ontology-driven ap- proaches to automatically generate and</abstract>
+	</publication>
+	<publication>
+		<title>A Semantic Rewriting Approach to Automatic Information Providing Web Service Composition</title>
+		<year>2006</year>
+		<authors>shenghua bao,chenxi lin,yong yu</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Web Service Composition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Catriple: Extracting Triples from Wikipedia Categories</title>
+		<year>2008</year>
+		<authors>qiaoling liu,kaifeng xu,haofen wang,yong yu,yue pan</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minerva: A Scalable OWL Ontology Storage and Inference System</title>
+		<year>2006</year>
+		<authors>jian zhou,li ma,qiaoling liu,yong yu,yue pan</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SPortS: Semantic + Portal + Service</title>
+		<year>2004</year>
+		<authors>chenxi lin,jian zhou,yin yang,yong yu</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>519</label>
+		<keyword>Dynamic Information;Semantic Web Service;Web Portal;Web Service;of Research and Development;</keyword>
+		<organization>null</organization>
+		<abstract>Ontology-based web portal generation and management is an active eld of research and development. Recently, many systems have been developed. However, many of them lack the integration of web services which may provide more dynamic information and richer functionalities. In this paper, we describe SPortS, an OWL-DL based portal generation system that integrates semantic web services into gen- erated portals</abstract>
+	</publication>
+	<publication>
+		<title>Learning to Generate CGs from Domain Specific Sentences</title>
+		<year>2001</year>
+		<authors>yong yu</authors>
+		<jconf>International Conference on Conceptual Structures</jconf>
+		<label>519</label>
+		<keyword>Automatic Generation;Conceptual Graph;Domain Specificity;Information Sources;Knowledge Representation;Machine Learning;Natural Language;</keyword>
+		<organization>null</organization>
+		<abstract>Automatically generating Conceptual Graphs (CGs) (1) from natural language sentences is a difficult task in using CG as a semantic (knowledge) representation language for natural language information source. However, up to now only few approaches have been proposed for this task and most of them either are highly dependent on one domain or use many manually constructed generation rules. In</abstract>
+	</publication>
+	<publication>
+		<title>Towards Composing Information Providing Services</title>
+		<year>2004</year>
+		<authors>chenxi lin,yong yu,yin yang,jian zhou</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>519</label>
+		<keyword>Process Integration;Web Service;of Research and Development;</keyword>
+		<organization>null</organization>
+		<abstract>Composing web services is an active fleld of research and development. Recently, many efiorts are devoted to process integration on world changing services, e.g. busi- nessprocesscomposition.Inthispaper,wepresentasolu- tiontocomposeinformationprovidingservicestoachieve more powerful capabilities and free the user from trivial work. Our work serves as an important complement to the existing research on process integration.</abstract>
+	</publication>
+	<publication>
+		<title>A System to Enable Relational Persistence and Semantic Web style Access Simultaneously for Objects</title>
+		<year>2008</year>
+		<authors>jing mei,guo tong xie,shengping liu,yue pan</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Application Development;Model Transformation;Object Oriented;Relational Database;Semantic Mapping;Semantic Web;Software Development;Object Relational Mapping;</keyword>
+		<organization>null</organization>
+		<abstract>Object Oriented (OO) programming is dominant in the current software development. Starting from the design of OO models for applications, developers also expect to address issues on the data of models and the semantics of models. Objects, being the data of models, could be stored in relational databases, and ontologies appear as a good candidate for capturing the semantics of</abstract>
+	</publication>
+	<publication>
+		<title>UMRR: Towards an Enterprise-Wide Web of Models</title>
+		<year>2008</year>
+		<authors>jing mei,guo tong xie,shengping liu,robert j. schloss,yue pan,yuan ni</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Information Integration;Linked Data;Metadata Management;Resource Description Framework;</keyword>
+		<organization>null</organization>
+		<abstract>Metadata that describes the structure and semantics of data sources takes a significant role in enterprise information integration. Enterprise information integration always involves an increasing set of types of metadata that are dispersed in various repositories, modeled by various tools, represented in various formats. There is a crucial requirement to break the &quot;Tower of Babel&quot; among different types of metadata</abstract>
+	</publication>
+	<publication>
+		<title>Towards Imaging Large-Scale Ontologies for Quick Understanding and Analysis</title>
+		<year>2005</year>
+		<authors>kewei tu,miao xiong,haiping zhu,jie zhang,yong yu</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Large Scale;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>In many practical applications, ontologies tend to be very large and complicated. In order for users to quickly understand and an- alyze large-scale ontologies, in this paper we propose a novel ontology visualization approach, which aims to complement existing approaches like the hierarchy graph. Speciflcally, our approach produces a holistic \imaging&quot; of the ontology which contains a semantic layout of</abstract>
+	</publication>
+	<publication>
+		<title>Semplore: An IR Approach to Scalable Hybrid Query of Semantic Web Data</title>
+		<year>2007</year>
+		<authors>qiaoling liu,jie zhang,haofen wang,yue pan,yong yu</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Index Structure;Indexation;Information Retrieval;Keyword Search;Semantic Web;Structured Data;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>As an extension to the current Web, Semantic Web will not only contain structured data with machine understandable semantics but also textual information. While structured queries can be used to find information more precisely on the Semantic Web, keyword searches are still needed to help exploit textual information. It thus becomes very important that we can combine precise structured queries</abstract>
+	</publication>
+	<publication>
+		<title>ORIENT: Integrate Ontology Engineering into Industry Tooling Environment</title>
+		<year>2004</year>
+		<authors>yong yu,jing lu,chenxi lin,kewei tu,mingchuan guo,zhuo zhang,guo tong xie,zhong su,yue pan</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>519</label>
+		<keyword>Development Tool;Ontology Engineering;Relational Database;Tool Integration;</keyword>
+		<organization>null</organization>
+		<abstract>Orient is a project to develop an ontology engineering tool that integrates into existing industry tooling environments { the Eclipse platform and the WebSphere Studio developing tools family. This paper describes how two important issues are addressed during the project, namely tool integration and scalability. We show how Orient morphs into the Eclipse platform and achieves UI and data level</abstract>
+	</publication>
+	<publication>
+		<title>SOR: A Practical System for Ontology Storage, Reasoning and Search</title>
+		<year>2007</year>
+		<authors>jing lu,li ma,jean-sébastien brunner,chen wang,yue pan,yong yu</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>519</label>
+		<keyword>Data Management;Data Semantics;Enterprise Information System;Faceted Search;</keyword>
+		<organization>null</organization>
+		<abstract>Ontology, an explicit specification of shared conceptualization, has been increasingly used to define formal data semantics and improve data reusability and interoperability in enterprise information systems. In this paper, we present and demonstrate SOR (Scalable Ontology Repository), a practical system for ontology storage, reasoning, and search. SOR uses Relational DBMS to store ontologies, performs inference over them, and supports SPARQL</abstract>
+	</publication>
+	<publication>
+		<title>LSM: Language Sense Model for Information Retrieval</title>
+		<year>2006</year>
+		<authors>shenghua bao,erdong chen,min long,rui li,yong yu</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>519</label>
+		<keyword>Em Algorithm;Information Retrieval;Language Model;Vector Space Model;</keyword>
+		<organization>null</organization>
+		<abstract>A lot of work has been done on drawing word senses into retrieval to deal with the word sense ambiguity problem, but most of them achieved negative results. In this paper, we first implement a WSD system for nouns and verbs, then the language sense model (LSM) for information retrieval is proposed. The LSM combines the terms and senses of</abstract>
+	</publication>
+	<publication>
+		<title>An Approach to RDF(S) Query, Manipulation and Inference on Databases</title>
+		<year>2005</year>
+		<authors>jing lu,yong yu,kewei tu,chenxi lin</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>519</label>
+		<keyword>Data Access;Emergent Semantics;Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract>In order to lay a solid foundation for the emerging semantic web, efiective and e-cient management of large RDF(S) data is in high demand. In this paper we propose an approach to the storage, query, manipulation and inference of large RDF(S) data on top of relational databases. Speciflcally, RDF(S) inference is done on the database in ad- vance instead of</abstract>
+	</publication>
+	<publication>
+		<title>Explorations in the use of semantic web technologies for product information management</title>
+		<year>2007</year>
+		<authors>jean-sébastien brunner,li ma,chen wang,daniel c. wolfson,yue pan,kavitha srinivas</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>519</label>
+		<keyword>Business Process;Data Management;Information Management;Semantic Web;Semantic Web Technology;</keyword>
+		<organization>null</organization>
+		<abstract>Master data refers to core business entities a company uses repeatedly across many business processes and systems (such as lists or hierarchies of customers, suppliers, accounts, products, or organizational units). Product information is the most important kind of master data and product information management (PIM) is becoming critical for modern enterprises because it provides a rich business context for various</abstract>
+	</publication>
+	<publication>
+		<title>A study on combination of block importance and relevance to estimate page relevance</title>
+		<year>2005</year>
+		<authors>shen huang,yong yu,shengping li,gui-rong xue</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>519</label>
+		<keyword>Information Need;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Some work showed that segmenting web pages into &quot;semantic independent&quot; blocks could help to improve the whole page retrieval. One key and unexplored issue is how to combine the block importance and relevance to a given query. In this poster, we first propose an automatic way to measure block importance to improve retrieval. After that, user information need is also</abstract>
+	</publication>
+	<publication>
+		<title>Dataplorer: a scalable search engine for the data web</title>
+		<year>2009</year>
+		<authors>haofen wang,qiaoling liu,gui-rong xue,yong yu,yue pan</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>519</label>
+		<keyword>Faceted Search;Inverted Index;Search Engine;Semantic Search;Web of Data;</keyword>
+		<organization>null</organization>
+		<abstract>More and more structured information in the form of seman- tic data is nowadays available. It oers a wide range of new possibilities especially for semantic search and Web data in- tegration. However, their eective exploitation still brings about a number of challenges, e.g. usability, scalability and uncertainty. In this paper, we present Dataplorer, a solution designed to address these</abstract>
+	</publication>
+	<publication>
+		<title>Exploring social annotations for the semantic web</title>
+		<year>2006</year>
+		<authors>xian wu,yong yu</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>519</label>
+		<keyword>Coarse Grained;Emergent Semantics;Formal Ontology;Point of View;Semantic Relations;Semantic Web;Social Bookmarking;</keyword>
+		<organization>null</organization>
+		<abstract>In order to obtain a machine understandable semantics for web resources, research on the Semantic Web tries to an- notate web resources with concepts and relations from ex- plicitly deflned formal ontologies. This kind of formal an- notation is usually done manually or semi-automatically. In this paper, we explore a complement approach that focuses on the \social annotations of the</abstract>
+	</publication>
+	<publication>
+		<title>An enhanced model for searching in semantic portals</title>
+		<year>2005</year>
+		<authors>yong yu,jian zhou,chenxi lin,yin yang</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>519</label>
+		<keyword>Fuzzy Description Logic;Fuzzy Reasoning;Information Retrieval;Information Sharing;Semantic Information;Semantic Search;Semantic Web Technology;Web Portal;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>Semantic Portal is the next generation of web portals that are powered by Semantic Web technologies for improved information sharing and exchange for a community of users. Current methods of searching in Semantic Portals are limited to keyword-based search using information retrieval (IR) techniques, ontology-based formal query and reasoning, or a simple combination of the two. In this paper, we</abstract>
+	</publication>
+	<publication>
+		<title>Emergent Semantics from Folksonomies: A Quantitative Study</title>
+		<year>2006</year>
+		<authors>xian wu,yong yu</authors>
+		<jconf>Journal on Data Semantics</jconf>
+		<label>519</label>
+		<keyword>Barriers To Entry;Emergent Semantics;Probabilistic Model;Resource Use;Scaling Up;Semantic Annotation;Semantic Model;Semantic Web;Social Bookmarking;Statistical Inference;Bottom Up;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>Defining and using ontology to annotate web resources with semantic markups is generally perceived as the primary way to imple- ment the vision of the Semantic Web. The ontology provides a shared and machine understandable semantics for web resources that agents and applications can utilize. This top-down approach (in the sense that an ontology is defined first on top of</abstract>
+	</publication>
+	<publication>
+		<title>Semplore: A scalable IR approach to search the Web of Data</title>
+		<year>2009</year>
+		<authors>haofen wang,qiaoling liu,thomas penin,linyun fu,thanh tran,yong yu,yue pan</authors>
+		<jconf>Journal of Web Semantics</jconf>
+		<label>519</label>
+		<keyword>Web of Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>M-IVC: Using Multiple Input Vectors to Minimize Aging-Induced Delay</title>
+		<year>2009</year>
+		<authors>song jin,yinhe han,huawei li,xiaowei li,guihai yan</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<label>520</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Defect Tolerance in Homogeneous Manycore Processors Using Core-Level Redundancy with Unified Topology</title>
+		<year>2008</year>
+		<authors>yinhe han,qiang xu,xiaowei li</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>520</label>
+		<keyword>Defect Tolerance;Fault Tolerant;Integrated Circuit;Operating System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Homogeneous,manycore,processors are emerging,for terascale computation. Effective defect tolerance techniques are essential to improve the yield of such complex,integrated circuits. In this paper, we propose to achieve fault tolerance by employing,redundancy,at the core-level instead of at the microarchitecture-level. When faulty cores existing on-chip in this architecture, how to reconfigure the processor with the most effective topology is a relevant research</abstract>
+	</publication>
+	<publication>
+		<title>Performance-asymmetry-aware topology virtualization for defect-tolerant NoC-based many-core processors</title>
+		<year>2010</year>
+		<authors>yue yu,jianbo dong,yinhe han,shangping ren,xiaowei li</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>520</label>
+		<keyword>Defect Tolerance;Operating System;Parallel Applications;Process Variation;</keyword>
+		<organization>null</organization>
+		<abstract>Topology virtualization techniques are proposed for NoC-based many-core processors with core-level redundancy to isolate hardware changes caused by on-chip defective cores. Prior work focuses on homogeneous cores with symmetric performance and optimizes on-chip communication only. However, core-to-core performance asymmetry due to manufacturing process variations poses new challenges for constructing virtual topologies. Lower performance cores may scatter over a virtual topology,</abstract>
+	</publication>
+	<publication>
+		<title>A Routing Algorithm for Random Error Tolerance in Network-on-Chip</title>
+		<year>2007</year>
+		<authors>huawei li,xiaowei li</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>520</label>
+		<keyword>Routing Algorithm;Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variation-Aware Scheduling for Chip Multiprocessors with Thread Level Redundancy</title>
+		<year>2009</year>
+		<authors>jianbo dong,yinhe han,guihai yan,xiaowei li</authors>
+		<jconf>Pacific Rim International Symposium on Dependable Computing</jconf>
+		<label>520</label>
+		<keyword>Chip Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Novel Efficient Certificateless Aggregate Signatures</title>
+		<year>2009</year>
+		<authors>bo qin,qianhong wu,futai zhang</authors>
+		<jconf>Applied Algebra, Algebraic Algorithms and Error-Correcting Codes</jconf>
+		<label>521</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security Model for Certificateless Aggregate Signature Schemes</title>
+		<year>2008</year>
+		<authors>futai zhang</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>521</label>
+		<keyword>Security Model;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identity-Based Authenticated Asymmetric Group Key Agreement Protocol</title>
+		<year>2010</year>
+		<authors>qianhong wu,bo qin,josep domingo-ferrer</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>521</label>
+		<keyword>Group Key Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Efficient Certificateless Signature Scheme</title>
+		<year>2007</year>
+		<authors>futai zhang,fangguo zhang</authors>
+		<jconf>Embedded and Ubiquitous Computing</jconf>
+		<label>521</label>
+		<keyword>Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Provably Secure Certificateless Signature Scheme</title>
+		<year>2008</year>
+		<authors>futai zhang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>521</label>
+		<keyword>Provable Security;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Certificateless One-Way Authenticated Two-Party Key Agreement Protocol</title>
+		<year>2009</year>
+		<authors>wuping chen,bo qin,qianhong wu,huanguo zhang</authors>
+		<jconf>Information Assurance and Security</jconf>
+		<label>521</label>
+		<keyword>Key Agreement Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identity-Based Verifiably Encrypted Signatures without Random Oracles</title>
+		<year>2009</year>
+		<authors>qianhong wu,bo qin</authors>
+		<jconf>Provable Security</jconf>
+		<label>521</label>
+		<keyword>Random Oracle;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Provably Secure Ring Signature Scheme in Certificateless Cryptography</title>
+		<year>2007</year>
+		<authors>futai zhang,wei wu</authors>
+		<jconf>Provable Security</jconf>
+		<label>521</label>
+		<keyword>Provable Security;Ring Signature;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient many-to-one authentication with certificateless aggregate signatures</title>
+		<year>2010</year>
+		<authors>bo qin,qianhong wu,futai zhang</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>521</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new certificateless aggregate signature scheme</title>
+		<year>2009</year>
+		<authors>futai zhang</authors>
+		<jconf>Computer Communications</jconf>
+		<label>521</label>
+		<keyword>Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Certificateless threshold signature scheme from bilinear maps</title>
+		<year>2010</year>
+		<authors>hong yuan,futai zhang,xinyi huang,yi mu,willy susilo</authors>
+		<jconf>Information Sciences</jconf>
+		<label>521</label>
+		<keyword>Bilinear Map;Threshold Signature;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simulatable certificateless two-party authenticated key agreement protocol</title>
+		<year>2010</year>
+		<authors>futai zhang,qianhong wu,josep domingo-ferrer</authors>
+		<jconf>Information Sciences</jconf>
+		<label>521</label>
+		<keyword>Authenticated Key Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new iteration method for the matrix equation AX=B</title>
+		<year>2007</year>
+		<authors>guo konghua,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Iteration Method;Matrix Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Left and right inverse eigenpairs problem of skew-centrosymmetric matrices</title>
+		<year>2006</year>
+		<authors>fan-liang li,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Left and right inverse eigenpairs problem of generalized centrosymmetric matrices and its optimal approximation problem</title>
+		<year>2009</year>
+		<authors>fan-liang li,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The submatrix constraint problem of matrix equation AXB+CYD=E</title>
+		<year>2009</year>
+		<authors>jiao-fen li,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Matrix Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An iteration method for the symmetric solutions and the optimal approximation solution of the matrix equation AXB=C</title>
+		<year>2005</year>
+		<authors>ya-xin peng,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Approximate Solution;Iteration Method;Matrix Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A kind of inverse eigenvalue problems of Jacobi matrix</title>
+		<year>2006</year>
+		<authors>juan peng,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Inverse Eigenvalue Problem;jacobi matrix;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient algorithm for the least-squares reflexive solution of the matrix equation A1XB1=C1, A2XB2=C2</title>
+		<year>2006</year>
+		<authors>zhuo-hua peng,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Efficient Algorithm;Least Square;Matrix Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The (M, N)symmetric Procrustes problem</title>
+		<year>2008</year>
+		<authors>juan peng,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Linear restriction problem of Hermitian reflexive matrices and its approximation</title>
+		<year>2008</year>
+		<authors>lijun zhao,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The solvability conditions for the inverse problems of symmetric ortho-symmetric matrices</title>
+		<year>2004</year>
+		<authors>fu-zhao zhou,xiyan hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>522</label>
+		<keyword>Inverse Problem;Symmetric Matrices;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dykstra's algorithm for constrained least-squares doubly symmetric matrix problems</title>
+		<year>2010</year>
+		<authors>jiao-fen li,xiyan hu</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>522</label>
+		<keyword>Constrained Least Square;Symmetric Matrix;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multiscale hybrid model exploiting heterogeneous contextual relationships for image segmentation</title>
+		<year>2009</year>
+		<authors>qiang ji</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>523</label>
+		<keyword>Hybrid Model;Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Active Image Labeling and Its Application to Facial Action Labeling</title>
+		<year>2008</year>
+		<authors>yan tong,qiang ji</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>523</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>2D and 3D upper body tracking with one framework</title>
+		<year>2008</year>
+		<authors>jixu chen,zhi zeng,qiang ji</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>523</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new global shape prior for level set based segmentation</title>
+		<year>2008</year>
+		<authors>qiang ji</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>523</label>
+		<keyword>Image Segmentation;Level Set;Shape Priors;</keyword>
+		<organization>null</organization>
+		<abstract>The global shape prior knowledge has been ex- ploited by many image segmentation approaches in or- der to improve segmentation results when there are such problems as occlusion, cluttering, low contrast edges, etc. We propose a global shape prior representation and incorporate it into a level set based segmentation framework. This global shape prior can effectively help remove the cluttered</abstract>
+	</publication>
+	<publication>
+		<title>Interactive labeling of facial action units</title>
+		<year>2008</year>
+		<authors>yan tong,qiang ji</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>523</label>
+		<keyword>Action Unit;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Image Segmentation Framework Based on Patch Segmentation Fusion</title>
+		<year>2006</year>
+		<authors>xun wang,nicholas penwarden,qiang ji</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>523</label>
+		<keyword>Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image Segmentation with a Unified Graphical Model</title>
+		<year>2010</year>
+		<authors>qiang ji</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>523</label>
+		<keyword>Graphical Model;Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cryptanalysis of Reduced-Round SMS4 Block Cipher</title>
+		<year>2008</year>
+		<authors>wentao zhang,wenling wu</authors>
+		<jconf>Australasian Conference on Information Security and Privacy</jconf>
+		<label>524</label>
+		<keyword>Block Cipher;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A note on Cook's elastic block cipher</title>
+		<year>2009</year>
+		<authors>liting zhang,wenling wu,yanjun li</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>524</label>
+		<keyword>Block Cipher;Elastic Block Cipher;Security Model;</keyword>
+		<organization>null</organization>
+		<abstract>&quot;VIL Block Cipher&quot; is a kind of block cipher that supports Variable Input-Lengths. It was first proposed by Bellare, etc. and since then several constructions have been given, among which Cook's elastic block cipher is a special one. In this paper we present a security model called &quot;MIL model&quot; for VIL block ciphers, investigating their security when a fixed secret</abstract>
+	</publication>
+	<publication>
+		<title>Constructing Rate1 MACs from Related-Key Unpredictable Block Ciphers: PGV Model Revisited</title>
+		<year>2010</year>
+		<authors>liting zhang,wenling wu,peng wang,bo liang</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>524</label>
+		<keyword>Block Cipher;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security Analysis of the GF-NLFSR Structure and Four-Cell Block Cipher</title>
+		<year>2009</year>
+		<authors>wenling wu,liting zhang,wentao zhang</authors>
+		<jconf>International Conference on Information and Communication Security</jconf>
+		<label>524</label>
+		<keyword>Block Cipher;Security Analysis;Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>The overall structure is one of the most important properties of block ciphers. At present, the most common structures include Feistel structure, SP structure, MISTY structure, L-M structure and Gener- alized Feistel structure. In (29), Choy et al. proposed a new structure called GF-NLFSR (Generalized Feistel-NonLinear Feedback Shift Regis- ter), and designed a new block cipher called Four-Cell which is</abstract>
+	</publication>
+	<publication>
+		<title>Related-Key Differential-Linear Attacks on Reduced AES192</title>
+		<year>2007</year>
+		<authors>wentao zhang,wenling wu,dengguo feng</authors>
+		<jconf>INDOCRYPT</jconf>
+		<label>524</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integral Attacks on Reduced-Round ARIA Block Cipher</title>
+		<year>2010</year>
+		<authors>yanjun li,wenling wu</authors>
+		<jconf>Information Security Practice and Experience</jconf>
+		<label>524</label>
+		<keyword>Block Cipher;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Impossible Differential Attacks on Large-Block Rijndael</title>
+		<year>2008</year>
+		<authors>wenling wu,je hong park,bon wook koo,yongjin yeom</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>524</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Impossible Differential Cryptanalysis of Reduced-Round Camellia</title>
+		<year>2008</year>
+		<authors>wenling wu,wentao zhang</authors>
+		<jconf>Selected Areas in Cryptography</jconf>
+		<label>524</label>
+		<keyword>Differential Cryptanalysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Related-Key Impossible Differential Attacks on Reduced-Round AES192</title>
+		<year>2006</year>
+		<authors>wentao zhang,wenling wu,dengguo feng</authors>
+		<jconf>Selected Areas in Cryptography</jconf>
+		<label>524</label>
+		<keyword>Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present several new related-key impossible difierential attacks on 7- and 8-round AES-192, following the work of Eli Biham and Orr Dunkelman et al. (1). We choose another relation of the two related keys, start attacks from the very beginning(instead of the third round in (1)) so as to improve the data and time complexities of their</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting bidirectional links: making spamming detection easier</title>
+		<year>2009</year>
+		<authors>yan zhang,qiancheng jiang,yizhen zhu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>525</label>
+		<keyword>Seed Set;Spam Detection;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Previous anti-spamming algorithms based on link structure suffer from either the weakness of the page value metric or the vagueness of the seed selection. In this paper, we propose two page value metrics, AVRank and HVRank. These two &quot;values&quot; of all the web pages can be well assessed by using the bidirectional links' information. Moreover, with the help of bidirectional</abstract>
+	</publication>
+	<publication>
+		<title>Exploring both Content and Link Quality for Anti-Spamming</title>
+		<year>2006</year>
+		<authors>zhang yi,yan zhang,xiaoming li</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>525</label>
+		<keyword>Link Quality;Search Engine;Site Effect;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Search engines are playing a more and more impor- tant role in discovering information on the web nowadays. Spam web pages, however, are employing various tricks to bamboozle search engines, therefore achieving undeserved ranks. In this paper, we propose a new page importance metric, which takes both the content quality and the link quality into consideration. Based on this metric,</abstract>
+	</publication>
+	<publication>
+		<title>Larger is better: seed selection in link-based anti-spamming algorithms</title>
+		<year>2008</year>
+		<authors>qiancheng jiang,yizhen zhu,yan zhang</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>525</label>
+		<keyword>Seed Set;</keyword>
+		<organization>null</organization>
+		<abstract>Seed selection is of significant importance for the biased PageRank algorithms such as TrustRank to combat link spamming. Previous work usually uses a small seed set, which has a big problem that the top ranking results have a strong bias towards seeds. In this paper, we analyze the re- lationship between the result bias and the number of seeds. Furthermore,</abstract>
+	</publication>
+</person>

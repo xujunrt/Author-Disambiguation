@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jan Klein</FullName>
+	<publication>
+		<title>A Norm Utilisation for Scarce Hospital Resources: Evidence from Operating Rooms in a Dutch University Hospital</title>
+		<year>2007</year>
+		<authors>mark van houdenhoven,erwin w. hans,gerhard wullink,geert kazemier</authors>
+		<jconf>Journal of Medical Systems</jconf>
+		<label>347</label>
+		<keyword>Operating Room;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

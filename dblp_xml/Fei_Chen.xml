@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fei Chen</FullName>
+	<publication>
+		<title>DBLife: A Community Information Management Platform for the Database Research Community (Demo)</title>
+		<year>2007</year>
+		<authors>pedro derose,warren shen,yoonkyong lee,douglas burdick,anhai doan,raghu ramakrishnan</authors>
+		<jconf>Conference on Innovative Data Systems Research</jconf>
+		<label>224</label>
+		<keyword>Information Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Information Extraction over Evolving Text Data</title>
+		<year>2008</year>
+		<authors>anhai doan,jun yang,raghu ramakrishnan</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>224</label>
+		<keyword>Information Cost;Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract>Most current information extraction (IE) ap- proaches have considered only static text corpora, over which we typically have to apply IE only once. Many real-world text corpora however are dynamic. They evolve over time, and to keep extracted information up to date, we often must apply IE repeatedly, to consecutive corpus snapshots. We describe Cyclex, an approach that efficiently executes</abstract>
+	</publication>
+	<publication>
+		<title>Frequent-subsequence-based prediction of outer membrane proteins</title>
+		<year>2003</year>
+		<authors>rong she,ke wang,martin ester,jennifer l. gardy,fiona s. l. brinkman</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>224</label>
+		<keyword>Association Rule;Classification Algorithm;Data Mining;Drug Design;Frequent Pattern;Genome Sequence;Gram Negative Bacteria;Outer Membrane;Outer Membrane Protein;Protein Localization;Structure and Function;Subcellular Localization;Support Vector Machine;Gram Negative;</keyword>
+		<organization>null</organization>
+		<abstract>A number of medically important disease-causing bacteria (collectively called Gram-negative bacteria) are noted for the extra &quot;outer&quot; membrane that surrounds their cell. Proteins resident in this membrane (outer membrane proteins, or OMPs) are of primary research interest for antibiotic and vaccine drug design as they are on the surface of the bacteria and so are the most accessible targets to</abstract>
+	</publication>
+	<publication>
+		<title>Optimizing complex extraction programs over evolving text data</title>
+		<year>2009</year>
+		<authors>byron j. gao,anhai doan,jun yang,raghu ramakrishnan</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>224</label>
+		<keyword>Information Extraction;Model Complexity;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>Most information extraction (IE) approaches have consid- ered only static text corpora, over which we apply IE only once. Many real-world text corpora however are dynamic. They evolve over time, and so to keep extracted information up to date we often must apply IE repeatedly, to consecutive corpus snapshots. Applying IE from scratch to each snap- shot can take a</abstract>
+	</publication>
+	<publication>
+		<title>Building Structured Web Community Portals: A Top-Down, Compositional, and Incremental Approach</title>
+		<year>2007</year>
+		<authors>pedro derose,warren shen,anhai doan,raghu ramakrishnan</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>224</label>
+		<keyword>Case Study;Integral Operator;Web Community;Web Pages;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>Structured community portals extract and integrate infor- mation from raw Web pages to present a unified view of en- tities and relationships in the community. In this paper we argue that to build such portals, a top-down, compositional, and incremental approach is a good way to proceed. Com- pared to current approaches that employ complex mono- lithic techniques, this approach</abstract>
+	</publication>
+	<publication>
+		<title>PSORTb v.2.0: Expanded prediction of bacterial protein subcellular localization and insights gained from comparative proteome analysis</title>
+		<year>2005</year>
+		<authors>jennifer l. gardy,matthew r. laird,sébastien rey,c. j. walsh,martin ester,fiona s. l. brinkman</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>224</label>
+		<keyword>Comparative Analysis;Gram Negative Bacteria;Gram-positive Bacteria;Protein Subcellular Localization;Proteome Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  Motivation: PSORTb  v.1.1  is  the ,most  precise  bacterial  localization  prediction  tool  available. However the program’s predictive coverage and recall are low and the method isonly,applicable  to  Gram-negative  bacteria.  The  goals  of  the ,present  work ,were:  increase PSORTb’s coverage while maintaining the existing precision level, expand it to include Gram-positive bacteria, and then carry out a comparative analysis of localization.</abstract>
+	</publication>
+	<publication>
+		<title>The Case for a Structured Approach to Managing Unstructured Data</title>
+		<year>2009</year>
+		<authors>anhai doan,jeffrey f. naughton,akanksha baid,xiaoyong chai,ting chen,eric chu,pedro derose,byron j. gao,chaitanya gokhale,jiansheng huang,warren shen,ba-quy vuong</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>224</label>
+		<keyword>Data Management;Lessons Learned;Relational Data;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract>The challenge of managing unstructured data represents perhaps the largest data management opportunity for our community since managing relational data. And yet we are risking letting this opportunity go by, ceding the playing field to other players, ranging from communities such as AI, KDD, IR, Web, and Semantic Web, to industrial players such as Google, Yahoo, and Microsoft. In this</abstract>
+	</publication>
+	<publication>
+		<title>Community Information Management</title>
+		<year>2006</year>
+		<authors>anhai doan,raghu ramakrishnan,pedro derose,yoonkyong lee,robert mccann,mayssam sayyadian,warren shen</authors>
+		<jconf>IEEE Data(base) Engineering Bulletin</jconf>
+		<label>224</label>
+		<keyword>Information Management;Online Community;Software Platform;University of Wisconsin;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce Cimple, a joint project between the University of Illinois and the University of Wisconsin. Cimple aims to develop a software platform that can be rapidly deployed and customized to manage data-rich online communities. We first describe the envisioned working of such a software platform and our prototype, DBLife, which is a community portal being developed for the database</abstract>
+	</publication>
+	<publication>
+		<title>Information extraction challenges in managing unstructured data</title>
+		<year>2008</year>
+		<authors>anhai doan,jeffrey f. naughton,raghu ramakrishnan,akanksha baid,xiaoyong chai,ting chen,eric chu,pedro derose,byron j. gao,chaitanya gokhale,jiansheng huang,warren shen,ba-quy vuong</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>224</label>
+		<keyword>Age Structure;Information Extraction;Process Development;User Feedback;User Interface;Best Effort;</keyword>
+		<organization>null</organization>
+		<abstract>Over the past few years, we have been trying to build an end-to-end system at Wisconsin to manage unstruc- tured data, using extraction, integration, and user in- teraction. This paper describes the key information extraction (IE) challenges that we have run into, and sketches our solutions. We discuss in particular de- veloping a declarative IE language, optimizing for this language,</abstract>
+	</publication>
+</person>

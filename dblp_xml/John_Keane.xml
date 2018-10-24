@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>John Keane</FullName>
+	<publication>
+		<title>A Three-Layer Model for Schema Management in Federated</title>
+		<year>1997</year>
+		<authors>mark roantree</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>434</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

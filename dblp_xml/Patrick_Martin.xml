@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Patrick Martin</FullName>
+	<publication>
+		<title>Integration of a manufacturing ontology with the design of reconfigurable machine tool using function-behavior-structure approach</title>
+		<year>2007</year>
+		<authors>aamer baqai,ali siadat,jean-yves dantan</authors>
+		<jconf>International Conference on Digital Information Management</jconf>
+		<label>798</label>
+		<keyword>Machine Tool;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Introduction to the Prototyping of an Intelligent Supervision System</title>
+		<year>2002</year>
+		<authors>samuel bassetto,ali siadat</authors>
+		<jconf>IFIP TC5/WG5.3 Publications</jconf>
+		<label>798</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tolerance synthesis: quantifier notion and virtual boundary</title>
+		<year>2005</year>
+		<authors>jean-yves dantan,luc mathieu,alex ballu</authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>798</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved approach for automatic process plan generation of complex borings</title>
+		<year>2006</year>
+		<authors>alain etienne,jean-yves dantan,ali siadat</authors>
+		<jconf>Computers in Industry</jconf>
+		<label>798</label>
+		<keyword>Process Planning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

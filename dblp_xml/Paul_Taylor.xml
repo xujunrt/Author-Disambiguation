@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Paul Taylor</FullName>
+	<publication>
+		<title>The Dedekind Reals in Abstract Stone Duality</title>
+		<year>2005</year>
+		<authors>andrej bauer</authors>
+		<jconf>Computability and Complexity in Analysis</jconf>
+		<label>799</label>
+		<keyword>Domain Theory;Interval Analysis;Lambda Calculus;Topological Space;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Stone Duality (ASD) is a direct axiomatisation of the spaces and maps in general topology, whereas the traditional and all other contemporary approaches treat spaces as sets (types, objects of a topos) with additional structure. ASD is presented as a -calculus, of which this paper provides a self-contained summary, the foundational background having been investigated in earlier work. This</abstract>
+	</publication>
+	<publication>
+		<title>A Lambda Calculus for Real Analysis</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Computability and Complexity in Analysis</jconf>
+		<label>799</label>
+		<keyword>Lambda Calculus;Lattice Theory;Recursion Theory;Set Theory;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Stone Duality is a revolutionary theory that works directly with computable contin- uous functions, without using set theory, infinitary lattice theory or a prior theory of discrete computation. Every expression in the calculus denotes both a continuous function and a pro- gram, but the reasoning looks remarkably like a sanitised form of that in classical topology. This paper is</abstract>
+	</publication>
+	<publication>
+		<title>Internal Completeness of Categories of Domains</title>
+		<year>1985</year>
+		<authors></authors>
+		<jconf>Category Theory and Computer Science</jconf>
+		<label>799</label>
+		<keyword>Category Theory;Indexation;Set Theory;</keyword>
+		<organization>null</organization>
+		<abstract>One of the objectives of category theory is to provide a foundation for itself in particular and mathematics in general which is independent of the traditional use of set theory. A major question in this programme is how to formulate the fact that Set is \complete&quot;, i.e. it has all \small&quot; (i.e. set- rather than class-indexed) limits (and colimits). The</abstract>
+	</publication>
+	<publication>
+		<title>Quantitative Domains, Groupoids and Linear Logic</title>
+		<year>1989</year>
+		<authors></authors>
+		<jconf>Category Theory and Computer Science</jconf>
+		<label>799</label>
+		<keyword>Linear Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Fixed Point Property in Synthetic Domain Theory</title>
+		<year>1991</year>
+		<authors></authors>
+		<jconf>Logic in Computer Science</jconf>
+		<label>799</label>
+		<keyword>Domain Theory;Equivalence Relation;Fixed Point Property;xed point;</keyword>
+		<organization>null</organization>
+		<abstract>We present an elementary axiomatisation of synthetic domain theory and show that it is sucient to deduce the xed point property and solve domain equations. Models of these axioms based on partial equivalence relations have received much attention, but there are also very simple sheaf models based on classical domain theory. In any case the aim of this paper is</abstract>
+	</publication>
+	<publication>
+		<title>Local Compactness and the Baire Category Theorem in Abstract Stone Duality</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>799</label>
+		<keyword>baire category;Locally Compact;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inside Every Model of Abstract Stone Duality Lies an Arithmetic Universe</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>799</label>
+		<keyword>Equivalence Relation;Indexation;xed point;</keyword>
+		<organization>null</organization>
+		<abstract>The rst paper published on Abstract Stone Duality showed that the overt discrete objects (those admitting9 and = internally) form a pretopos, i.e. a category with nite limits, stable disjoint coproducts and stable eective quotients of equivalence relations. Using an N-indexed least xed point axiom, here we show that this full subcategory is an arithmetic universe, hav- ing a free</abstract>
+	</publication>
+	<publication>
+		<title>Intuitionistic Sets and Ordinals</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>799</label>
+		<keyword>Free Algebra;Satisfiability;Set Theory;xed point;</keyword>
+		<organization>null</organization>
+		<abstract>Transitive extensional well founded relations provide an intuitionistic notion of ordinals which admits transnite induction . However these ordinals are not directed and their successor operation is poorly behaved, leading to problems of functoriality. We show how to make the successor monotone by introducing plumpness, which strength- ens transitivity. This clarifes the traditional development of successors and unions, making it</abstract>
+	</publication>
+	<publication>
+		<title>Computably Based Locally Compact Spaces</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Logical Methods in Computer Science</jconf>
+		<label>799</label>
+		<keyword>Compact Space;Continuous Lattice;Lambda Calculus;Locally Compact;Locally Compact Space;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. ASD (Abstract Stone Duality) is a re-axiomatisation of general topology in which the topology on a space is treated, not as an infinitary lattice, but as an exponential object of the same category as the original space, with an associated lambda-calculus. In this paper, this is shown to be equivalent to a notion of computable basis for locally compact</abstract>
+	</publication>
+	<publication>
+		<title>The Dedekind reals in abstract Stone duality</title>
+		<year>2009</year>
+		<authors>andrej bauer</authors>
+		<jconf>Mathematical Structures in Computer Science</jconf>
+		<label>799</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

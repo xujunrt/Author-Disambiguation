@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Wang</FullName>
+	<publication>
+		<title>Positive Influence Dominating Set in Online Social Networks</title>
+		<year>2009</year>
+		<authors>erika camacho,kuai xu</authors>
+		<jconf>Conference on Combinatorial Optimization and Applications</jconf>
+		<label>235</label>
+		<keyword>Dominating Set;Online Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Real-Time Network Traffic Profiling System</title>
+		<year>2007</year>
+		<authors>kuai xu,supratik bhattacharyya,zhi-li zhang</authors>
+		<jconf>Dependable Systems and Networks</jconf>
+		<label>235</label>
+		<keyword>Data Mining;Denial of Service Attack;Design and Implementation;High Speed;Monitoring System;Network Traffic;Information Theoretic;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design and implementation of a real-time behavior profiling system for high-speed Inter- net links. The profiling system uses flow-level information from continuous packet or flow monitoring systems, and uses data mining and information-theoretic techniques to automatically discover significant events based on the com- munication patterns of end-hosts. We demonstrate the oper- ational feasibility of the system</abstract>
+	</publication>
+	<publication>
+		<title>Minimum Coverage Breach and Maximum Network Lifetime in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>chen wang,my t. thai,yingshu li,weili wu</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>235</label>
+		<keyword>Network Lifetime;Numerical Simulation;Optimization Problem;Relational Model;Theoretical Analysis;Linear Program;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Network lifetime is a critical issue in Wireless Sensor Networks. It is possible to extend network lifetime by organizing the sensors into a number of sensor covers. However, with the limited bandwidth, coverage breach (i.e, targets that are not covered) can occur if the number of available time-slots/channels is less than the number of sensors in a sensor cover. In</abstract>
+	</publication>
+	<publication>
+		<title>O(log n)Localized Algorithms on the Coverage Problem in Heterogeneous Sensor Networks</title>
+		<year>2007</year>
+		<authors>my t. thai,yingshu li</authors>
+		<jconf>International Performance, Computing, and Communications Conference</jconf>
+		<label>235</label>
+		<keyword>Directed Graph;Energy Efficient;Heterogeneous Sensor Networks;Local Algorithm;Lower and Upper Bound;Network Lifetime;Set Partitions;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the Maximum lifetime Target Cov- erage problem (MTC), which is to maximize the network lifetime while guaranteeing the complete coverage of all the targets. Many centralized algorithms have been pro- posed to solve this problem. A very few distributed ver- sions have also been presented but none of them obtains a good approximation ratio. In</abstract>
+	</publication>
+	<publication>
+		<title>Coverage problems in wireless sensor networks: designs and analysis</title>
+		<year>2008</year>
+		<authors>my t. thai,david hongwei du,xiaohua jia</authors>
+		<jconf>International Journal of Sensor Networks</jconf>
+		<label>235</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fault tolerant topology control for one-to-all communications in symmetric wireless networks</title>
+		<year>2007</year>
+		<authors>kuai xu,my t. thai,ding-zhu du</authors>
+		<jconf>International Journal of Sensor Networks</jconf>
+		<label>235</label>
+		<keyword>Fault Tolerant;Topology Control;Wireless Network;Nearest Neighbor;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces the problem of fault tolerant topology control for one-to-all communications in symmetric wireless networks. We investigate two algo- rithms to address the problem, namely Minimum Weight Based Algorithm (MWBA) and Nearest Neighbor Augmentation Algorithm (NNAA), and prove that the former is a 4k approximation and the latter is a (k +4) approximation. Through simulations, we evaluate the</abstract>
+	</publication>
+	<publication>
+		<title>Improved construction for pooling design</title>
+		<year>2008</year>
+		<authors>ping deng,frank k. hwang,weili wu,david maccallum,taieb znati</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>235</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Note on Optical Network with Nonsplitting Nodes</title>
+		<year>2005</year>
+		<authors>hongwei du,xiaohua jia,my t. thai,yingshu li</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>235</label>
+		<keyword>Multicast Routing;Optical Network;Performance Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of computing the minimum total weight multicast route in an optical network with both nonsplitting and splitting nodes, and present a simple approximation with performance ratio 3, which is better than existing one in the literature. 10 11 12 13</abstract>
+	</publication>
+	<publication>
+		<title>An Approximation for Minimum Multicast Route in Optical Networks with Nonsplitting Nodes</title>
+		<year>2005</year>
+		<authors>longjiang guo,weili wu,my t. thai</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>235</label>
+		<keyword>Multicast Routing;Optical Network;Perforation;Hamiltonian Path Problem;National Science Foundation;Performance Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Consider the problem of computing the minimum-weight multicast route in an op- tical network with both nonsplitting and splitting nodes. This problem can be reduced to the minimum Hamiltonian path problem when all nodes are nonsplitting, and the Steiner minimum tree problem when all nodes are splitting. Therefore, the problem is NP-hard. Previously, the best known polynomial-time approximation has</abstract>
+	</publication>
+	<publication>
+		<title>Optimization scheme for sensor coverage scheduling with bandwidth constraints</title>
+		<year>2009</year>
+		<authors>chen wang,my t. thai,yingshu li,weili wu</authors>
+		<jconf>Optimization Letters</jconf>
+		<label>235</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-unique probe selection and group testing</title>
+		<year>2007</year>
+		<authors>david hongwei du,xiaohua jia,ping deng,weili wu,david maccallum</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>235</label>
+		<keyword>Group Testing;Polynomial Time;Vertex Cover;Performance Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract A minimization problem that has arisen from the study of non-unique probe selection with group testing technique is as follows: Given a binary matrix, find a d-disjunct submatrix with the minimum number of rows and the same number of columns. We show that when every probe hybridizes to at most two viruses, i.e., every row contains at most two</abstract>
+	</publication>
+	<publication>
+		<title>On the Construction of a Strongly Connected Broadcast Arborescence with Bounded Transmission Delay</title>
+		<year>2006</year>
+		<authors>yingshu li,my t. thai,ding-zhu du</authors>
+		<jconf>IEEE Transactions on Mobile Computing</jconf>
+		<label>235</label>
+		<keyword>Energy Conservation;Energy Consumption;Satisfiability;Wireless Network;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Energy conservation is an important concern in wireless networks. Many algorithms for constructing a broadcast tree with minimum energy consumption and other goals have been developed. However, no previous research work considers the total energy consumption and transmission delays of the broadcast tree simultaneously. In this paper, based on (fi;fl)-tree, a novel concept to wireless networks, we deflne a new</abstract>
+	</publication>
+	<publication>
+		<title>Connected Dominating Sets in Wireless Networks with Different Transmission Ranges</title>
+		<year>2007</year>
+		<authors>my t. thai,dan liu,shiwei zhu,ding-zhu du</authors>
+		<jconf>IEEE Transactions on Mobile Computing</jconf>
+		<label>235</label>
+		<keyword>Approximate Algorithm;Connected Dominating Set;Distributed Algorithm;Independent Set;Maximal Independent Set;Routing Protocol;Theoretical Analysis;Wireless Ad Hoc Network;Wireless Network;Unit Disk Graph;</keyword>
+		<organization>null</organization>
+		<abstract>Since there is no fixed infrastructure or centralized management in wireless ad hoc networks, a Connected Dominating Set (CDS) has been proposed as the virtual backbone. The CDS of a graph representing a network has a significant impact on an efficient design of routing protocols in wireless networks. This problem has been studied extensively in Unit Disk Graphs (UDG), in</abstract>
+	</publication>
+	<publication>
+		<title>Fault-Tolerant Topology Control for All-to-One and One-to-All Communication in Wireles Networks</title>
+		<year>2008</year>
+		<authors>my t. thai,yingshu li,xiuzhen cheng,ding-zhu du</authors>
+		<jconf>IEEE Transactions on Mobile Computing</jconf>
+		<label>235</label>
+		<keyword>Approximate Algorithm;Disjoint Paths;Fault Tolerant;Theoretical Analysis;Topology Control;Wireless Links;Wireless Network;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— This paper introduces the problem of fault tolerant topology control for all-to-one and one-to-all communication,in static wireless networks with asym- metric wireless links. This problem is important in both theoretical and practical aspects. We investigate two ap- proaches, namely minimum weight based approach and nearest neighbor augmentation approach, to address this problem. Specifically, for each approach, we propose three</abstract>
+	</publication>
+	<publication>
+		<title>On the construction of 2connected virtual backbone in wireless networks</title>
+		<year>2009</year>
+		<authors>my t. thai,ding-zhu du</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>235</label>
+		<keyword>Ad Hoc Network;Connected Dominating Set;Fault Tolerant;Link Failure;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>Virtual backbone has been proposed as the routing infrastructure to alleviate the broadcasting storm problem in ad hoc networks. Since the nodes in the virtual backbone need to carry other node's traffic, and node and link failure are inherent in wireless networks, it is desirable that the virtual backbone is fault tolerant. In this paper, we propose a new algorithm</abstract>
+	</publication>
+	<publication>
+		<title>On greedy construction of connected dominating sets in wireless networks</title>
+		<year>2005</year>
+		<authors>yingshu li,my t. thai,chih-wei yi,peng-jun wan,ding-zhu du</authors>
+		<jconf>Wireless Communications and Mobile Computing</jconf>
+		<label>235</label>
+		<keyword>Ad Hoc Wireless Network;Connected Dominating Set;Distributed Algorithm;Greedy Algorithm;Local Algorithm;Maximal Independent Set;Wireless Network;Performance Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the fact that there is no flxed infrastructure or centralized management in ad hoc wireless networks, a Connected Dominating Set (CDS) of the graph rep- resenting the network is widely used as the virtual backbone of the network. Constructing a minimum CDS is NP-hard. In this paper, we propose a com- pletely localized distributed algorithm which is r-CDS</abstract>
+	</publication>
+	<publication>
+		<title>Connected Dominating Set</title>
+		<year>2008</year>
+		<authors>xiuzhen cheng,ding-zhu du</authors>
+		<jconf></jconf>
+		<label>235</label>
+		<keyword>Connected Dominating Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Greedy Approximation Algorithms</title>
+		<year>2008</year>
+		<authors>weili wu</authors>
+		<jconf></jconf>
+		<label>235</label>
+		<keyword>Approximate Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OBFS: A File System for Object-Based Storage Devices</title>
+		<year>2004</year>
+		<authors>scott a. brandt,ethan l. miller,darrell d. e. long</authors>
+		<jconf>Symposium on Mass Storage Systems</jconf>
+		<label>236</label>
+		<keyword>Distributed File System;Distributed Storage System;File System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The object-based storage model, in which files are made up of o ne or more data objects stored on self-contained Object-Based Storage Devices (OSDs), is em erging as an architecture for distributed storage systems. The workload,presented to the OSDs will be q uite different from that of general- purpose file systems, yet many distributed file systems employ general-purpose file</abstract>
+	</publication>
+	<publication>
+		<title>Using MEMS-Based Storage to Boost Disk Performance</title>
+		<year>2005</year>
+		<authors>bo hong,scott a. brandt,darrell d. e. long</authors>
+		<jconf>Symposium on Mass Storage Systems</jconf>
+		<label>236</label>
+		<keyword>High Performance;Mobile Device;Hard Disk Drive;</keyword>
+		<organization>null</organization>
+		<abstract>Non-volatile storage technologies such as flash mem- ory, Magnetic RAM (MRAM), and MEMS-based storage are emerging as serious alternatives to disk drives. Among thes e, MEMS storage is predicted to be the least expensive and high- est density, and at about 1 ms access times still consider- ably faster than hard disk drives. Like the other emerging non-volatile storage technologies,</abstract>
+	</publication>
+	<publication>
+		<title>File System Workload Analysis For Large Scientific Computing Applications</title>
+		<year>2004</year>
+		<authors>qin xin,bo hong,scott a. brandt,ethan l. miller,darrell d. e. long,tyce t. mclarty</authors>
+		<jconf>Symposium on Mass Storage Systems</jconf>
+		<label>236</label>
+		<keyword>File System;High Performance;Parallel File System;Scientific Application;Scientific Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Parallel scientific applications require high-performance I/O support from underlying file systems.A comprehensive understanding of the expected workload is therefore essential for the design ofhigh-performance parallel file systems. We re-examine the workload characteristics in parallelcomputing environments in the light of recent technology advances and new applications.</abstract>
+	</publication>
+	<publication>
+		<title>Using MEMS-based storage in computer systems - MEMS storage architectures</title>
+		<year>2006</year>
+		<authors>bo hong,scott a. brandt,darrell d. e. long,thomas j. e. schwarz</authors>
+		<jconf>ACM Transactions on Storage</jconf>
+		<label>236</label>
+		<keyword>Form Factor;High Performance;Low Power Consumption;System Performance;Performance Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>As an emerging non-volatile secondary storage technology, MEMS-based storage exhibits sev-eral desirable properties including high performance, high storage volumic density, low power consumption, low entry cost, and small form factor. However, MEMS-based storage provides a limited amount of storage per device and is likely to be more expensive than magnetic disk. Sys-tems designers will therefore need to make trade-o s</abstract>
+	</publication>
+	<publication>
+		<title>Optimal topology exploration for application-specific 3D architectures</title>
+		<year>2006</year>
+		<authors>ozcan ozturk,mahmut t. kandemir,yuan xie</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>237</label>
+		<keyword>Data Access;Integer Linear Program;Technology Scaling;</keyword>
+		<organization>null</organization>
+		<abstract>As technology scales, increasing interconnect costs make it necessary to consider alternate ways of building inte- grated circuits. One promising option along this direction is 3D architectures where a stack of multiple device layers, with direct vertical tunneling through them, are put together on the same chip. In this paper, we explore how processor cores and storage blocks can be</abstract>
+	</publication>
+	<publication>
+		<title>Variability-driven module selection with joint design time optimization and post-silicon tuning</title>
+		<year>2008</year>
+		<authors>xiaoxia wu,yuan xie</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>237</label>
+		<keyword>Conic Programming;Design Space Exploration;High Level Synthesis;Power Variation;Technology Scaling;Timing Optimization;Adaptive Body Biasing;Deep Sub Micron;</keyword>
+		<organization>null</organization>
+		<abstract>Increasing delay and power variation are significant chal- lenges to the designers as technology scales to the deep sub-micron (DSM) regime. Traditional module selection techniques in high level synthesis use worst case delay/power information to perform the optimization, and therefore may be too pessimistic such that extra resources are used to guarantee design requirements. Parametric yield, which is defined as</abstract>
+	</publication>
+	<publication>
+		<title>Variation-aware resource sharing and binding in behavioral synthesis</title>
+		<year>2009</year>
+		<authors>yuan xie,andres takach</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>237</label>
+		<keyword>Behavioral Synthesis;Image Processing;Performance Improvement;Process Variation;Resource Sharing;Technology Scaling;Timing Analysis;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>As technology scales, the delay uncertainty caused by process variations has become increasingly pronounced in deep submicron designs. In the presence of process variations, worst-case timing analysis may lead to overly conservative synthesis, and may end up using excess resources to guarantee design constraints. In this paper, we propose an efficient variation-aware resource sharing and binding algorithm in behavioral synthesis,</abstract>
+	</publication>
+	<publication>
+		<title>A novel criticality computation method in statistical timing analysis</title>
+		<year>2007</year>
+		<authors>yuan xie,hai ju</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>237</label>
+		<keyword>Circuit Optimization;Computational Method;Linear Complexity;Process Variation;Statistical Timing Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>The impact of process variations increases as tech- nology scales to nanometer region. Under large process vari- ations, the path and arc/node criticality (18) provide effective metrics in guiding circuit optimization. To facilitate the criticality computation considering the correlation, we define the critical region for the path and arc/node in a timing graph, and propose an efficient method to compute</abstract>
+	</publication>
+	<publication>
+		<title>A Variation Aware High Level Synthesis Framework</title>
+		<year>2008</year>
+		<authors>guangyu sun,yuan xie</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>237</label>
+		<keyword>High Level Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-chip bus thermal analysis and optimization</title>
+		<year>2006</year>
+		<authors>yuan xie,narayanan vijaykrishnan,mary jane irwin</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>237</label>
+		<keyword>Low Power;on-chip bus;on-chip buses;Technology Scaling;Theoretical Analysis;Thermal Analysis;Vlsi Design;</keyword>
+		<organization>null</organization>
+		<abstract>As technology scales, increasing clock rates, decreasing interconnect pitch, and the introduction of low-k dielectrics have made self-heating of the global interconnects an important issue in VLSI design. In this paper, we study the self-heating of on-chip buses and show that the thermal impact due to self-heating of on- chip buses increases as technology scales, thus motivating the need of</abstract>
+	</publication>
+	<publication>
+		<title>Variation-aware task allocation and scheduling for MPSoC</title>
+		<year>2007</year>
+		<authors>chrysostomos nicopoulos,xiaoxia wu,yuan xie,narayanan vijaykrishnan</authors>
+		<jconf>International Conference on Computer Aided Design</jconf>
+		<label>237</label>
+		<keyword>Computational Method;Design Methodology;Multiprocessor System On Chip;Paradigm Shift;Process Variation;Scheduling Algorithm;Task Allocation;Task Scheduling;Technology Scaling;Deep Sub Micron;</keyword>
+		<organization>null</organization>
+		<abstract>As technology scales, the delay uncertainty caused by process variations has become increasingly pronounced in deep sub- micron designs. As a result, a paradigm shift from deterministic to statistical design methodology at all levels of the design hierarchy is inevitable (1). In this paper, we propose a variation-aware task allocation and scheduling algorithm for Multiprocessor System-on-Chip (MPSoC) architectures to mitigate</abstract>
+	</publication>
+	<publication>
+		<title>Embedded Multi-Processor System-on-chip (MPSoC) design considering process variations</title>
+		<year>2008</year>
+		<authors>yuan xie</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>237</label>
+		<keyword>Process Variation;Multi Processor System On Chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dependability Analysis of Nano-scale FinFET circuits</title>
+		<year>2006</year>
+		<authors>yuan xie,kerry bernstein,yan luo</authors>
+		<jconf>Annual Symposium on VLSI</jconf>
+		<label>237</label>
+		<keyword>Circuit Design;Dependence Analysis;Process Variation;Soft Error;</keyword>
+		<organization>null</organization>
+		<abstract>FinFET technology has been proposed as a promising alternative for deep sub-micro bulk CMOS technology, because of its better scalability. Previous work have studied the performance or power advantages of FinFET circuits over bulk CMOS circuits. This paper provides the dependability analysis of FinFET circuits, studying the soft error vulnerability of FinFET circuits and the impact of process variation. Our</abstract>
+	</publication>
+	<publication>
+		<title>Architecting Microprocessor Components in 3D Design Space</title>
+		<year>2007</year>
+		<authors>balaji vaidyanathan,wei-lun hung,yuan xie,narayanan vijaykrishnan,mary jane irwin</authors>
+		<jconf>VLSI Design</jconf>
+		<label>237</label>
+		<keyword>3d integration;Design Space;Design Tool;Power Consumption;Power Reduction;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Interconnect is one of the major concerns in current and fu- ture microprocessor designs from both performance and power consumption perspective. The emergence of three-dimensional (3D) chip architectures, with its intrinsic capability to reduce the wire length, is one of the promising solutions to mitigate the interconnect related issues. In this paper we implement a few components of a microprocessor</abstract>
+	</publication>
+	<publication>
+		<title>Soft Error Rate Analysis for Combinational Logic Using An Accurate Electrical Masking Model</title>
+		<year>2007</year>
+		<authors>yuan xie,r. rajaraman,balaji vaidyanathan</authors>
+		<jconf>VLSI Design</jconf>
+		<label>237</label>
+		<keyword>Generic Model;Soft Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate electrical masking modeling represents a significant challenge in soft error rate analysis for combinational logic circuits. In this paper, we use table lookup MOSFET models to accurately capture the nonlinear properties of submicron MOS transistors. Based on these models, we propose and validate the transient pulse generation model and propagation model for soft error rate analysis. The pulse generated</abstract>
+	</publication>
+	<publication>
+		<title>Process-Variation-Aware Adaptive Cache Architecture and Management</title>
+		<year>2009</year>
+		<authors>madhu mutyam,krishnan ramakrishnan,vijaykrishnan narayanan,mahmut t. kandemir,yuan xie,mary jane irwin</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>237</label>
+		<keyword>Process Variation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design Space Exploration for 3-D Cache</title>
+		<year>2008</year>
+		<authors>yuh-fang tsai,yuan xie,narayanan vijaykrishnan,mary jane irwin</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>237</label>
+		<keyword>Design Space Exploration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

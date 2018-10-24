@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Anand Kumar</FullName>
+	<publication>
+		<title>Efficient Search in Document Image Collections</title>
+		<year>2007</year>
+		<authors>c. v. jawahar,r. manmatha</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>44</label>
+		<keyword>Dynamic Time Warping;Image Database;Image Features;Image Matching;Indexation;Indexing and Retrieval;Locality Sensitive Hashing;Nearest Neigh Bor;Nearest Neighbor Search;Approximate Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an efficient indexing and retrieval scheme for searching in document image databases. In many non-European lan- guages, optical character recognizers are not very accurate. Word spotting - word image matching - may instead be used to retrieve word images in response to a word image query. The approaches used for word spotting so far, dynamic time warping</abstract>
+	</publication>
+	<publication>
+		<title>Content-level Annotation of Large Collection of Printed Document Images</title>
+		<year>2007</year>
+		<authors>c. v. jawahar</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>44</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>A large annotated corpus is critical to the development of robust optical character recognizers (OCRs). However, creation of annotated corpora is a tedious task. It is la- borious, especially when the annotation is at the character level. In this paper, we propose an efcient hierarchical approach for annotation of large collection of printed doc- ument images. We align document images</abstract>
+	</publication>
+	<publication>
+		<title>Robust Recognition of Documents by Fusing Results of Word Clusters</title>
+		<year>2009</year>
+		<authors>venkat rasagna,c. v. jawahar,r. manmatha</authors>
+		<jconf>International Conference on Document Analysis and Recognition</jconf>
+		<label>44</label>
+		<keyword>Language Model;Locality Sensitive Hashing;Optical Character Recognition;Character Error Rate;Word Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The word error rate of any optical character recognition system (OCR) is usually substantially below its component or character error rate. This is especially true of Indic lan- guages in which a word consists of many components. Cur- rent OCRs recognize each character or word separately and do not take advantage of document level constraints. We propose a document level</abstract>
+	</publication>
+</person>

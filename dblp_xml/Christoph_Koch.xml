@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christoph Koch</FullName>
+	<publication>
+		<title>Resolution techniques and complexity results with deadlocks: a classifying and annotated bibliography</title>
+		<year>1988</year>
+		<authors>dieter zöbel</authors>
+		<jconf>Operating Systems Review</jconf>
+		<label>151</label>
+		<keyword>Algebraic Graph Theory;Communication Protocol;Community Networks;Distributed System;Operating System;Resource Sharing;Vlsi Design;Communicating Finite State Machine;petri net;</keyword>
+		<organization>null</organization>
+		<abstract>Resource sharing was a basic concept of multiprocessing. But this kind of improved utilization of resources introduced the danger of eternal delays. The problem is inherited from the strategy that processes may exclusively hold resources and acquire resources in the sequel of processing. This phenomenon first discovered in operating systems has been named deadlock. For almost twenty years a lot</abstract>
+	</publication>
+</person>

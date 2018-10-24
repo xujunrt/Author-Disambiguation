@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Baumgartner</FullName>
+	<publication>
+		<title>Freie Bildungsressourcen im didaktischen Kontext</title>
+		<year>2007</year>
+		<authors>s. zauchner</authors>
+		<jconf>&quot;Fachtagung &quot;&quot;e-Learning&quot;&quot; der Gesellschaft f��r Informatik&quot;</jconf>
+		<label>809</label>
+		<keyword>Open Educational Resources;</keyword>
+		<organization>null</organization>
+		<abstract>Im Beitrag werden einige Gründe für Initiativen zu &quot;Open Educational Resources&quot; (OER) für den Hochschulsektor zusammengestellt und kritisch beleuchtet. Daran anschließend werden mögliche didaktische Konsequenzen im Zusammenhang mit dieser Bewegung diskutiert. Im dritten Teil des Beitrages werden didaktische Aspekte von Anforderungen an OER Initiativen diskutiert.</abstract>
+	</publication>
+	<publication>
+		<title>Educating the Knowledge Worker in the Information Society: Baser - Basic Support for Efficient Research</title>
+		<year>1998</year>
+		<authors>sabine payr</authors>
+		<jconf>IFIP TC3 Publications</jconf>
+		<label>809</label>
+		<keyword>Education Research;Information Society;Internet Services;Knowledge Worker;</keyword>
+		<organization>null</organization>
+		<abstract>Research in the information society is undergoing radical change. The new challenges make it necessary to rethink research and the ways of educating researchers so that they can cope with them. We show that research has to be considered as skilled practice, consi- sting of numerous component skills which have to be trained so that future knowledge workers can successfully</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of E-Portfolio Software</title>
+		<year>2009</year>
+		<authors>klaus himpsl</authors>
+		<jconf>International Journal of Emerging Technologies in Learning</jconf>
+		<label>809</label>
+		<keyword>Electronic Portfolio;Higher Education;</keyword>
+		<organization>null</organization>
+		<abstract>E-Portfolios are a new type of software and it is still relatively vague to determine, which functions are obligatory - that is which functions constitute characteristic features - and which functions are just optional (&quot;nice to have&quot;). This article describes the concept and the preliminary results of a research project which was conducted to evaluate E-Portfolio software, and aims at</abstract>
+	</publication>
+	<publication>
+		<title>Auf dem Wege zu einer neuen Lernkultur - Was die Schule vom Web 2.0 lernen kann</title>
+		<year>2008</year>
+		<authors>klaus himpsl</authors>
+		<jconf>Log in</jconf>
+		<label>809</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Juyoung Kang</FullName>
+	<publication>
+		<title>Spatio-temporal discretization for sequential pattern mining</title>
+		<year>2008</year>
+		<authors>hwan-seung yong</authors>
+		<jconf>International Conference on Ubiquitous Information Management and Communication</jconf>
+		<label>470</label>
+		<keyword>Frequent Pattern;Location Based Service;Moving Object;Sequential Pattern;Sequential Pattern Mining;Spatio-temporal Data;Spatio-temporal Data Mining;Temporal Correlation;</keyword>
+		<organization>null</organization>
+		<abstract>Spatio-temporal frequent patterns discovered from historical trajectories of moving objects can provide important knowledge for location-based services. To address the problem of finding sequential patterns from spatio-temporal datasets, continuous values of spatial and temporal attributes should be discretized with the minimum loss of information. Since data carries spatio-temporal correlation among attributes, it should be preserved during discretization to derive accurate</abstract>
+	</publication>
+</person>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hongwei Zhu</FullName>
+	<publication>
+		<title>Framework for the Analysis of the Adaptability, Extensibility, and Scalability of Semantic Information Integration and the Context Mediation Approach</title>
+		<year>2009</year>
+		<authors>thomas gannon,stuart e. madnick,allen moulton,michael siegel,marwan sabbouh</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>295</label>
+		<keyword>Automatic Generation;Data Semantics;Information System;Semantic Information;Semantic Integration;Semantic Interoperability;Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Technological advances such as Service Oriented Architecture (SOA) have increased the feasibility and importance of effectively integrating information from an ever widening number of systems within and across enterprises. A key difficulty of achieving this goal comes from the pervasive heterogeneity in all levels of information systems. A robust solution to this problem needs to be adaptable, extensible, and scalable.</abstract>
+	</publication>
+	<publication>
+		<title>An Approach to Composing Web Services with Context Heterogeneity</title>
+		<year>2009</year>
+		<authors>xitong li,stuart e. madnick,yushun fan</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>295</label>
+		<keyword>Automatic Detection;Semantic Annotation;Semantic Interoperability;Semantic Web Service;Web Service;Web Service Composition;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>The potential benefits of Web services composition heavily rely on semantic interoperability, i.e., the ability to exchange data meaningfully amongst Web services. Context heterogeneity, which refers to different implicit assumptions about interpreting the exchanged data, hampers the automatic composition of Web services. However, existing initiatives of Semantic Web Services (SWSs) often ignore context heterogeneity. In this paper, we introduce an</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Interoperability Through the Use of COIN Lightweight Ontology</title>
+		<year>2006</year>
+		<authors>stuart e. madnick</authors>
+		<jconf>Ontologies-Based Databases and Information Systems</jconf>
+		<label>295</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reasoning About Temporal Context Using Ontology and Abductive Constraint Logic Programming</title>
+		<year>2004</year>
+		<authors>stuart e. madnick,michael siegel</authors>
+		<jconf>Principles and Practice of Semantic Web Reasoning</jconf>
+		<label>295</label>
+		<keyword>Automatic Detection;Constraint Logic Programs;Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract>The underlying assumptions for interpreting the meaning of data of- ten change over time, which further complicates the problem of semantic het- erogeneities among autonomous data sources. As an extension to the Context Interchange (COIN) framework, this paper introduces the notion of temporal context as a formalization of the problem. We represent temporal context as a multi-valued method in F-Logic;</abstract>
+	</publication>
+	<publication>
+		<title>Representation and Reasoning About Changing Semantics in Heterogeneous Data Sources</title>
+		<year>2004</year>
+		<authors>stuart e. madnick,michael siegel</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>295</label>
+		<keyword>Constraint Logic Programs;Heterogeneous Data Sources;Semantic Heterogeneity;Semantic Web;Temporal Constraints;</keyword>
+		<organization>null</organization>
+		<abstract>Changes of semantics in data sources further complicate the semantic heterogeneity problem. We identify four types of semantic heterogeneities re- lated to changing semantics and present a solution based on an extension to the Context Interchange (COIN) framework. Changing semantics is represented as multi-valued contextual attributes in a shared ontology; however, only a single value is valid over a certain</abstract>
+	</publication>
+	<publication>
+		<title>Effective Data Integration in the Presence of Temporal Semantic Conflicts</title>
+		<year>2004</year>
+		<authors>stuart e. madnick,michael siegel</authors>
+		<jconf>Workshops</jconf>
+		<label>295</label>
+		<keyword>Data Integrity;Semantic Heterogeneity;</keyword>
+		<organization>null</organization>
+		<abstract>The change in meaning of data over time poses sig- nificant challenges for the use of that data. These chal- lenges exist in the use of an individual data source and are further compounded with the integration of multi- ple sources. In this paper, we identify three types of temporal semantic heterogeneities. We propose a solu- tion based on extensions</abstract>
+	</publication>
+	<publication>
+		<title>One size does not fit all: legal protection for non-copyrightable data</title>
+		<year>2009</year>
+		<authors>stuart e. madnick</authors>
+		<jconf>Communications of The ACM</jconf>
+		<label>295</label>
+		<keyword>Data Extraction;Data Reuse;Ease of Use;Economic Model;Legislation;Semantic Web Technology;Web Service;European Union;Value Added Services;</keyword>
+		<organization>null</organization>
+		<abstract>The web has become the largest data repository on the planet. An important factor contributing to its success is its openness and ease of use: anyone can contribute data to, and consume data from, the Web. As Tim Berners-Lee, inventor of the Web, said, &quot;the exciting thing is serendipitous reuse of data: one person puts data up there for one</abstract>
+	</publication>
+	<publication>
+		<title>Improving data quality through effective use of data semantics</title>
+		<year>2006</year>
+		<authors>stuart e. madnick</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>295</label>
+		<keyword>Data Quality;Data Semantics;Heterogeneous Data;Semantic Heterogeneity;</keyword>
+		<organization>null</organization>
+		<abstract>Data quality issues have taken on increasing importance in recent years. In our research, we have discovered that many &quot;data quality&quot; problems are actually &quot;data misinterpretation&quot; problems - that is, problems caused by heterogeneous data semantics. In this paper, we first identify semantic heterogeneities that, when not resolved, often cause data quality problems. We discuss the especially challenging problem of</abstract>
+	</publication>
+	<publication>
+		<title>Enabling global price comparison through semantic integration of web data</title>
+		<year>2008</year>
+		<authors>stuart e. madnick,michael siegel</authors>
+		<jconf>International Journal of Electronic Business</jconf>
+		<label>295</label>
+		<keyword>Case Study;Electronic Business;Price Dispersion;Semantic Data Integration;Semantic Heterogeneity;Semantic Integration;</keyword>
+		<organization>null</organization>
+		<abstract>Sell Globally&quot; and &quot;Shop Globally&quot; have been seen as a potential benefit of web-enabled electronic business. One important step toward realizing this benefit is to know how things are selling in various parts of the world. A global price comparison service would address this need. But there have not been many such services. In this paper, we use a case</abstract>
+	</publication>
+	<publication>
+		<title>Reconciliation of temporal semantic heterogeneity in evolving information systems</title>
+		<year>2009</year>
+		<authors>stuart e. madnick</authors>
+		<jconf>Ing��nierie Des Syst��mes D'information</jconf>
+		<label>295</label>
+		<keyword>Information System;Logic Programs;Semantic Heterogeneity;</keyword>
+		<organization>null</organization>
+		<abstract>The change in meaning of data over time poses significant challenges for the use of that data. These challenges exist in the use of an individual data source and are further compounded with the integration of multiple sources. In this paper, we identify three types of temporal semantic heterogeneity. We propose a solution based on extensions to the Context Interchange</abstract>
+	</publication>
+	<publication>
+		<title>Overview and Framework for Data and Information Quality Research</title>
+		<year>2009</year>
+		<authors>stuart e. madnick,richard y. wang,yang w. lee</authors>
+		<jconf></jconf>
+		<label>295</label>
+		<keyword>Data Quality;Information Quality;Knowledge Based Economy;Research Method;Two Dimensions;Quality of Information;</keyword>
+		<organization>null</organization>
+		<abstract>Awareness of data and information quality issues has grown rapidly in light of the critical role played by the quality of information in our data-intensive, knowledge-based economy. Research in the past two decades has produced a large body of data quality knowledge and has expanded our ability to solve many data and information quality problems. In this article, we present</abstract>
+	</publication>
+</person>

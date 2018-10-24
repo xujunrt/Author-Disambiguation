@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Schmitt</FullName>
+	<publication>
+		<title>Multi-core Implementations of Geometric Algorithms</title>
+		<year>2009</year>
+		<authors>stefan näher</authors>
+		<jconf>Birthday ...</jconf>
+		<label>176</label>
+		<keyword>Geometric Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework for Multi-Core Implementations of Divide and Conquer Algorithms and its Application to the Convex Hull Problem</title>
+		<year>2008</year>
+		<authors>stefan näher</authors>
+		<jconf>Canadian Conference on Computational Geometry</jconf>
+		<label>176</label>
+		<keyword>Convex Hull;Divide and Conquer;Ease of Use;</keyword>
+		<organization>null</organization>
+		<abstract>We present a framework for multi-core implementations of divide and conquer algorithms and show its efficiency and ease of use by applying it to the fundamental geo- metric problem of computing the convex hull of a point set. We concentrate on the Quickhull algorithm intro- duced in (2). In general the framework can easily be used for any D&amp;amp;C-algorithm. It</abstract>
+	</publication>
+	<publication>
+		<title>Automated casing event detection in persistent video surveillance</title>
+		<year>2009</year>
+		<authors>stuart h. kurkowski,michael j. mendenhall</authors>
+		<jconf>Intelligence and Security Informatics</jconf>
+		<label>177</label>
+		<keyword>Event Detection;Video Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building Social Networks in Persistent Video Surveillance</title>
+		<year>2009</year>
+		<authors>stuart h. kurkowski,michael j. mendenhall</authors>
+		<jconf>Intelligence and Security Informatics</jconf>
+		<label>177</label>
+		<keyword>Social Network;Video Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

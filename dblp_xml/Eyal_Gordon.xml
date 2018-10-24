@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Eyal Gordon</FullName>
+	<publication>
+		<title>Fusion of 2D and 3D data in three-dimensional face recognition</title>
+		<year>2004</year>
+		<authors>alexander m. bronstein,michael m. bronstein,ron kimmel</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>221</label>
+		<keyword>Face Recognition;Facial Expression;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>We discuss the synthesis between the 3D and the 2D data in three-dimensional face recognition. We show how to com- pensate for the illumination and facial expressions using the 3D facial geometry and present the approach of canonical images, which allows to incorporate geometric information into standard face recognition approaches.</abstract>
+	</publication>
+</person>

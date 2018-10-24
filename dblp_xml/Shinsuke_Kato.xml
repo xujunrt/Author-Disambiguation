@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shinsuke Kato</FullName>
+	<publication>
+		<title>Measurement of airflow of air-conditioning in a car with PIV</title>
+		<year>2009</year>
+		<authors>jeong-hoon yang,hideaki nagano</authors>
+		<jconf>Journal of Visualization</jconf>
+		<label>948</label>
+		<keyword>Air Conditioning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

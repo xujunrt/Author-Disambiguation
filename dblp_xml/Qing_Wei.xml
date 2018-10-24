@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qing Wei</FullName>
+	<publication>
+		<title>A Dual-quaternion Method for Control of Spatial Rigid Body</title>
+		<year>2008</year>
+		<authors>dapeng han,zexiang li</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>840</label>
+		<keyword>Rigid Body;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Weak ratio rules between nonnegative real-valued data in transactional database</title>
+		<year>2005</year>
+		<authors>baoqing jiang,yang xu,kun wu</authors>
+		<jconf>IEEE International Conference on Granular Computing</jconf>
+		<label>841</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

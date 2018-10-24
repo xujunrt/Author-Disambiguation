@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mike Jackson</FullName>
+	<publication>
+		<title>Grid Enabling Your Data Resources with OGSA-DAI</title>
+		<year>2006</year>
+		<authors>mario antonioletti,malcolm p. atkinson,neil p. chue hong,bartosz dobrzelecki,alastair c. hume,kostas karasavvas,amy krause,jennifer m. schopf,tom sugden,elias theocharopoulos</authors>
+		<jconf>Workshop on Applied Parallel Computing</jconf>
+		<label>715</label>
+		<keyword>Globus Toolkit;Shift Work;Software Framework;Web Service;Xml Database;globus toolkit 4;Open Grid Service Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>OGSA-DAI (Open Grid Services Architecture - Data Ac- cess and Integration) provides an extensible software framework allow- ing data resources, such as files, relational and XML databases, to be exposed through Web services acting within collaborative Grid environ- ments or, more modestly, in stand-alone mode. OGSA-DAI may be de- ployed to WSRF-based platforms, such as the Globus Toolkit 4, as</abstract>
+	</publication>
+	<publication>
+		<title>Introduction to OGSA-DAI Services</title>
+		<year>2004</year>
+		<authors>konstantinos karasavvas,mario antonioletti,malcolm p. atkinson,neil p. chue hong,tom sugden,alastair c. hume,amrey krause,charaka palansuriya</authors>
+		<jconf>Scientific Applications of Grid Computing</jconf>
+		<label>715</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The design and implementation of Grid database services in OGSA-DAI</title>
+		<year>2005</year>
+		<authors>mario antonioletti,malcolm p. atkinson,robert m. baxter,andrew borley,neil p. chue hong,brian collins,neil hardman,alastair c. hume,alan knox,amrey krause,simon laws,james magowan,norman w. paton,dave pearson,tom sugden,paul watson,martin westhead</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>715</label>
+		<keyword>Design and Implementation;Domain Specificity;Grid Applications;Grid Middleware;Large Scale;Scientific Application;Structured Data;Web Service;Open Grid Service Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY Initially,Grid technologieswere principallyassociated with supercomputercentresand large-scale scientific applications in physics and astronomy. They are now increasingly seen as being relevant to many areas of e-Science and e-Business. The emergence of the Open Grid Services Architecture (OGSA), to complement the ongoing activity on Web Services standards, promises to provide a service-based platform that can meet the needs of both business</abstract>
+	</publication>
+	<publication>
+		<title>Automated Schematic Mapping for MobileGIS: Technical developments and Human Factors requirements</title>
+		<year>2006</year>
+		<authors>suchith anand,jim nixon,j. mark ware,sarah sharples</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>716</label>
+		<keyword>Human Factors;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Schematization for Web Service Applications</title>
+		<year>2007</year>
+		<authors>jerry swan,suchith anand,j. mark ware</authors>
+		<jconf>Web and Wireless Geographical Information Systems</jconf>
+		<label>716</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qi Dong</FullName>
+	<publication>
+		<title>Spatial Independent Component Analysis of Multitask-Related Activation in fMRI Data</title>
+		<year>2003</year>
+		<authors>zhi-ying long,li yao,xiao-jie zhao,liu-qing pei,gui xue,dan-ling peng</authors>
+		<jconf>Int. Conference on Artificial Neural Networks</jconf>
+		<label>833</label>
+		<keyword>General Linear Model;Hemodynamic Response;Independent Component Analysis;Magnetic Resonance Image;Activation Function;Independent Component;</keyword>
+		<organization>null</organization>
+		<abstract>Independent component analysis (ICA) is a technique to separate the mixed signal into independent components without priori assumptions about the hemodynamic response to the task. Spatial ICA (SICA) is applied widely in fMRI data because the spatial dimension of fMRI data is larger than their tem- poral dimension. The general linear model (GLM) is based on a priori knowl- edge</abstract>
+	</publication>
+	<publication>
+		<title>Cerebral Asymmetry in the Fusiform Areas Predicted the Efficiency of Learning a New Writing System</title>
+		<year>2006</year>
+		<authors>gui xue,chuansheng chen,zhen jin</authors>
+		<jconf>Journal of Cognitive Neuroscience</jconf>
+		<label>833</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

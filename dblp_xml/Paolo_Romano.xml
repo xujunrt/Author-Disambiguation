@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Paolo Romano</FullName>
+	<publication>
+		<title>Integrating Mutations Data of the TP53 Human Gene in the Bioinformatics Network Environment</title>
+		<year>2007</year>
+		<authors>domenico marra</authors>
+		<jconf>Bioinformatics Research and Development</jconf>
+		<label>795</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information Systems and Organization - Empirical Findings Regarding the Introduction of Computers in Manufacturing Firms</title>
+		<year>1977</year>
+		<authors>emilio bartezzaghi,claudio ciborra,piercarlo maggiolini</authors>
+		<jconf>World Computer Congress</jconf>
+		<label>795</label>
+		<keyword>Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automation of in-silico data analysis processes through workflow management systems</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Briefings in Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Access Network;Biological Data;Data Analysis;Data Integrity;Data Mining;Extensible Markup Language;in silico;Web Service;Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract>Data integration is needed in order to cope with the huge amounts of biological information now available and to perform data mining effectively. Current data integration systems have strict limitations, mainly due to the number of resources, their size and frequency of updates, their heterogeneity and distribution on the Internet. Integration must therefore be achieved by accessing network services through</abstract>
+	</publication>
+	<publication>
+		<title>Survival Online: a web-based service for the analysis of correlations between gene expression and clinical and follow-up data</title>
+		<year>2009</year>
+		<authors>luca corradi,valentina mirisola,ivan porro,livia torterolo,marco fato,ulrich pfeffer</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Cox Regression;Development Process;Gene Expression;Gene Expression Data;Gene Ontology;High Performance Computer;web-based service;web-based system;Breast Cancer;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Complex microarray gene expression datasets can be used for many independent analyses and are particularly interesting for the validation of potential biomarkers and multi-gene classifiers. This article presents a novel method to perform correlations between microarray gene expression data and clinico-pathological data through a combination of available and newly developed processing tools. RESULTS: We developed Survival Online (available at</abstract>
+	</publication>
+	<publication>
+		<title>Trends in modeling Biomedical Complex Systems</title>
+		<year>2009</year>
+		<authors>luciano milanesi,gastone c. castellani,daniel remondini,pietro liò</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Biological Systems;Biomedical System;Complex System;Mathematical Model;Statistical Inference;Theoretical Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we provide an introduction to the techniques for multi-scale complex biological systems, from the single bio-molecule to the cell, combining theoretical modeling, experiments, informatics tools and technologies suitable for biological and biomedical research, which are becoming increasingly multidisciplinary, multidimensional and information-driven. The most important concepts on mathematical modeling methodologies and statistical inference, bioinformatics and standards tools to</abstract>
+	</publication>
+	<publication>
+		<title>Biowep: a workflow enactment portal for bioinformatics applications</title>
+		<year>2007</year>
+		<authors>ezio bartocci,guglielmo bertolini,flavio de paoli,domenico marra,giancarlo mauri,emanuela merelli,luciano milanesi</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Data Integrity;in silico;Middleware;Mobile Agent;New Technology;Profitability;Software Tool;User Authentication;User Interface;Web Service;Web System;Workflow Management;Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract>Background: The huge amount of biological information, its distribution over the Internet and the heterogeneity of available software tools makes the adoption of new data integration and analysis network tools a necessity in bioinformatics. ICT standards and tools, like Web Services and Workflow Management Systems (WMS), can support the creation and deployment of such systems. Many Web Services are already</abstract>
+	</publication>
+	<publication>
+		<title>SWS: accessing SRS sites contents through Web Services</title>
+		<year>2008</year>
+		<authors>domenico marra</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Biological Data;Data Analysis;in silico;Networked Systems;Search Engine;Web Service;Workflow Management System;Workflow System;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Web Services and Workflow Management Systems can support creation and deployment of network systems, able to automate data analysis and retrieval processes in biomedical research. Web Services have been implemented at bioinformatics centres and workflow systems have been proposed for biological data analysis. New databanks are often developed by taking into account these technologies, but many existing databases do</abstract>
+	</publication>
+	<publication>
+		<title>Web services and workflow management for biological resources</title>
+		<year>2005</year>
+		<authors>domenico marra,luciano milanesi</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Biological Data;Building Block;Genome Sequence;Human Genome Project;in silico;Information and Communication Technology;Linked Data;Web Service;Workflow Management;Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGORUND: The completion of the Human Genome Project has resulted in large quantities of biological data which are proving difficult to manage and integrate effectively. There is a need for a system that is able to automate accesses to remote sites and to &quot;understand&quot; the information that it is managing in order to link data properly. Workflow management systems combined</abstract>
+	</publication>
+	<publication>
+		<title>Network integration of data and analysis of oncology interest</title>
+		<year>2006</year>
+		<authors>guglielmo bertolini,flavio de paoli,m. fattore,domenico marra,giancarlo mauri,emanuela merelli,ivan porro,silvia scaglione,luciano milanesi</authors>
+		<jconf>Journal of Integrative Bioinformatics</jconf>
+		<label>795</label>
+		<keyword>Drug Screening;Human Genome Project;Large Scale;New Technology;Process Analysis;Profitability;Software Tool;Web Service;Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract>Summary The Human Genome Project has deeply transformed biology and the field has since then expanded to the management, processing, analysis and visualization of large quantities of data from genomics, proteomics, medicinal chemistry and drug screening. This huge amount of data and the heterogeneity of software tools that are used implies the adoption on a very large scale of new,</abstract>
+	</publication>
+	<publication>
+		<title>Molecular Probe Data Base (MPDB)</title>
+		<year>1998</year>
+		<authors>maria giuseppina campi,luciano milanesi,domenico marra,maria assunta manniello,beatrice iannotta,gabriella rondanina,elena grasso,tiziana ruzzon,leonardo santi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>795</label>
+		<keyword>Molecular Probe;Statistical Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, the current status of the Molecular ProbeData Base (&amp;lt;a href=&quot;http://citeseer.ist.psu.edu/rd/0/http%3AqSqqSqwww.biotech.ist.unige.itqSqinterlabqSq&quot; onmouseover=&quot;self.status=&quot;http://www.biotech.ist.unige.it/interlab/&quot;; return true&quot; onmouseout=&quot;self.status=&quot;&quot;; return true&quot;&amp;gt;http://www.biotech.ist.unige.it/interlab/&amp;lt;/a&amp;gt;mpdb.html ) is briefly presented together with a shortanalysis of its activity during 1997. This has beenperformed by statistically evaluating the `logs&quot; of theInternet servers that are used for its distribution withreference to the geographical origin of the requests,the words that wereutilized</abstract>
+	</publication>
+	<publication>
+		<title>Molecular Probe Data Base (MPDB)</title>
+		<year>1998</year>
+		<authors>maria giuseppina campi,luciano milanesi,domenico marra,maria assunta manniello,beatrice iannotta,gabriella rondanina,elena grasso,tiziana ruzzon,leonardo santi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>795</label>
+		<keyword>Molecular Probe;Statistical Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, the current status of the Molecular ProbeData Base (&amp;lt;a href=&quot;http://citeseer.ist.psu.edu/rd/0/http%3AqSqqSqwww.biotech.ist.unige.itqSqinterlabqSq&quot; onmouseover=&quot;self.status=&quot;http://www.biotech.ist.unige.it/interlab/&quot;; return true&quot; onmouseout=&quot;self.status=&quot;&quot;; return true&quot;&amp;gt;http://www.biotech.ist.unige.it/interlab/&amp;lt;/a&amp;gt;mpdb.html ) is briefly presented together with a shortanalysis of its activity during 1997. This has beenperformed by statistically evaluating the `logs&quot; of theInternet servers that are used for its distribution withreference to the geographical origin of the requests,the words that wereutilized</abstract>
+	</publication>
+	<publication>
+		<title>Molecular probe data base (MPDB)</title>
+		<year>1996</year>
+		<authors>maria giuseppina campi,edward thüroff,paola visconti,maria assunta manniello,beatrice iannotta,gabriella rondanina,francesco molina,tiziana ruzzon,leonardo santi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>795</label>
+		<keyword>Molecular Probe;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Molecular Probe Data Base: a database on synthetic oligonucleotides</title>
+		<year>1993</year>
+		<authors>ottavia aresu,barbara parodi,maria assunta manniello,maria giuseppina campi,giovanna angelini,massimo romani,beatrice iannotta,gabriella rondanina,tiziana ruzzon,leonardo santi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>795</label>
+		<keyword>Molecular Probe;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cell Line Data Base: structure and recent improvements towards molecular authentication of human cell lines</title>
+		<year>2009</year>
+		<authors>maria assunta manniello,ottavia aresu,massimiliano armento,michela cesaro,barbara parodi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>795</label>
+		<keyword>Cell Line;Controlled Vocabulary;Information Retrieval;Information Sources;Relational Database;Single Nucleotide Polymorphism;Short Tandem Repeat;</keyword>
+		<organization>null</organization>
+		<abstract>The Cell Line Data Base (CLDB) is a well-known reference information source on human and animal cell lines including information on more than 6000 cell lines. Main biological features are coded according to controlled vocabularies derived from international lists and taxonomies. HyperCLDB (http://bioinformatics.istge.it/hypercldb/) is a hyper- text version of CLDB that improves data accessibil- ity by also allowing information retrieval</abstract>
+	</publication>
+</person>

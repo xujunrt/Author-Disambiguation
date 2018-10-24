@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kai Chen</FullName>
+	<publication>
+		<title>Device design for low power electronics with accurate deep submicrometer LDD-MOSFET models</title>
+		<year>1996</year>
+		<authors>yuhua cheng,chenming hu</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>472</label>
+		<keyword>Low Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Device and technology optimizations for low power design in deep submicron regime</title>
+		<year>1997</year>
+		<authors>chenming hu</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>472</label>
+		<keyword>Low Power Design;Deep Sub Micron;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A unified MOSFET channel charge model for device modeling in circuit simulation</title>
+		<year>1998</year>
+		<authors>yuhua cheng,kiyotaka imai,chenming hu</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>472</label>
+		<keyword>Circuit Simulation;Device Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compositional specification of behavioral semantics</title>
+		<year>2007</year>
+		<authors>janos sztipanovits,sandeep neema</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>473</label>
+		<keyword>Abstract State Machine;Abstract Syntax;Case Study;Domain Specific Modeling Language;Embedded Software;Model Based Design;</keyword>
+		<organization>null</organization>
+		<abstract>Domain-Specific Modeling Languages (DSMLs) play fundamental role in the model-based design of embedded software and systems. While abstract syntax metamodeling enables the rapid and inexpensive development of DSMLs, the specification of DSML semantics is still a hard problem. In previous work, we have developed methods and tools for the semantic anchoring of DSMLs. Semantic anchoring introduces a set of reusable</abstract>
+	</publication>
+	<publication>
+		<title>Semantic Anchoring with Model Transformations</title>
+		<year>2005</year>
+		<authors>janos sztipanovits,sherif abdelwahed,ethan k. jackson</authors>
+		<jconf>European Conference on Model Driven Architecture - Foundations and Applications</jconf>
+		<label>473</label>
+		<keyword>Abstract State Machine;Domain Specific Modeling Language;Embedded System;Generic Model;Mathematical Model;Model Driven Architecture;Model of Computation;Model Transformation;Operational Semantics;Model Integrated Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Model-Integrated Computing (MIC) is an approach to Model-Driven Architecture (MDA), which has been developed primar- ily for embedded systems. MIC places strong emphasis on the use of domain-specific modeling languages (DSML-s) and model transforma- tions. A metamodeling process facilitated by the Generic Modeling En- vironment (GME) tool suite enables the rapid and inexpensive develop- ment of DSML-s. However, the specification</abstract>
+	</publication>
+	<publication>
+		<title>Toward a semantic anchoring infrastructure for domain-specific modeling languages</title>
+		<year>2005</year>
+		<authors>janos sztipanovits,sandeep neema</authors>
+		<jconf>International Workshop on Embedded Systems</jconf>
+		<label>473</label>
+		<keyword>Abstract State Machine;Abstract Syntax;Domain Specificity;Domain Specific Modeling Language;Formal Method;Formal Specification;Industrial Application;Mathematical Model;Model Based Design;Model Integrated Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Metamodeling facilitates the rapid, inexpensive development of domain-specific modeling languages (DSML-s). However, there are still challenges hindering the wide-scale industrial application of model-based design. One of these unsolved problems is the lack of a practical, effective method for the formal specification of DSML semantics. This problem has negative impact on reusability of DSML-s and analysis tools in domain specific tool</abstract>
+	</publication>
+	<publication>
+		<title>Maintaining Linux: the role of &quot;current</title>
+		<year>2005</year>
+		<authors>liguo yu,stephen r. schach</authors>
+		<jconf>International Symposium on Empirical Software</jconf>
+		<label>473</label>
+		<keyword>Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>We examined 249 versions of Linux, and performed definition-use analysis to determine the role played by global variable current in each version. We examined three versions of Linux in detail: versions 1.2.0, 2.2.10, and 2.4.20. For each of those versions, w e display the common coupling induced by current within that version using a graphical notation that reflects definitions and</abstract>
+	</publication>
+	<publication>
+		<title>Measuring the maintainability of open-source software</title>
+		<year>2005</year>
+		<authors>liguo yu,stephen r. schach</authors>
+		<jconf>International Symposium on Empirical Software</jconf>
+		<label>473</label>
+		<keyword>Empirical Software Engineering;Open Source;Open Source Software;Source Code;Tracking System;</keyword>
+		<organization>null</organization>
+		<abstract>An editorial in Empirical Software Engineering suggested that open-source software projects offer a great deal of data that can be used for experimenta- tion. These data include artifacts such as source code and defect reports. In this paper we show that sources of open-source maintenance data, such as defect- tracking systems, change logs, and source code, can- not, in general,</abstract>
+	</publication>
+	<publication>
+		<title>Reusability before and after reuse: a Darwin case study</title>
+		<year>2005</year>
+		<authors>liguo yu,stephen r. schach</authors>
+		<jconf>International Symposium on Empirical Software</jconf>
+		<label>473</label>
+		<keyword>Case Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Semantic Unit for Timed Automata Based Modeling Languages</title>
+		<year>2006</year>
+		<authors>janos sztipanovits,sherif abdelwahed</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<label>473</label>
+		<keyword>Abstract State Machine;Design Flow;Domain Specificity;Domain Specific Modeling Language;Embedded Software;Model Based Design;Model Transformation;Modeling Language;Semantic Model;Timed Automata;Model Integrated Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Model-Integrated Computing (MIC) is an infrastructure for model-based design of real-time and embedded software and systems. MIC places strong emphasis on the use of domain-specific modeling languages (DSMLs) and model transformations in design flows. Building on our earlier work on transformational specification of semantics for DSMLs, the paper proposes a &quot;semantic unit&quot; - a common semantic model - for timed</abstract>
+	</publication>
+	<publication>
+		<title>An Empirical Study of the Maintenance Effort</title>
+		<year>2006</year>
+		<authors>liguo yu</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>473</label>
+		<keyword>Empirical Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two Perspectives on Open-Source Software Evolution: Maintenance and Reuse</title>
+		<year>2006</year>
+		<authors>liguo yu</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>473</label>
+		<keyword>Open Source Software;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Common Coupling as a Measure of Reuse Effort in Kernel-Based Software</title>
+		<year>2007</year>
+		<authors>liguo yu,stephen r. schach</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>473</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Open-Source Change Logs</title>
+		<year>2004</year>
+		<authors>stephen r. schach,liguo yu,a. jefferson offutt,gillian z. heller</authors>
+		<jconf>Empirical Software Engineering</jconf>
+		<label>473</label>
+		<keyword>Empirical Software Engineering;Open Source;Open Source Software;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>A recent editorial in Empirical Software Engineering suggested that open-source software projects offer a great deal of data that can be used for experimentation. These data not only include source code, but also artifacts such as defect reports and update logs. A common type of update log that experimenters may wish to investigate is the ChangeLog, which lists changes and</abstract>
+	</publication>
+	<publication>
+		<title>Maintainability of the kernels of open-source operating systems: A comparison of Linux with FreeBSD, NetBSD, and OpenBSD</title>
+		<year>2006</year>
+		<authors>liguo yu,stephen r. schach,gillian z. heller,a. jefferson offutt</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>473</label>
+		<keyword>Open Source;Operating System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract</abstract>
+	</publication>
+	<publication>
+		<title>Multiple-parameter coupling metrics for layered component-based software</title>
+		<year>2009</year>
+		<authors>liguo yu,srini ramaswamy</authors>
+		<jconf>Software Quality Journal</jconf>
+		<label>473</label>
+		<keyword>component-based software;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Categorization of Common Coupling and Its Application to the Maintainability of the Linux Kernel</title>
+		<year>2004</year>
+		<authors>liguo yu,stephen r. schach,a. jefferson offutt</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>473</label>
+		<keyword>Case Study;Indexing Terms;Longitudinal Analysis;Open Source;Open Source Software;Operating System;Relative Risk;Software Design;</keyword>
+		<organization>null</organization>
+		<abstract>Data coupling between modules, especially common coupling, has long been considered a source of concern in software design, but the issue is somewhat more complicated for products that are comprised of kernel modules together with optional nonkernel modules. This paper presents a refined categorization of common coupling based on definitions and uses between kernel and nonkernel modules and applies the</abstract>
+	</publication>
+	<publication>
+		<title>A New Effective and Powerful Image Segmentation Method</title>
+		<year>2005</year>
+		<authors>yalin miao,xianglin miao,zhengzhong bian,gang yu</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>474</label>
+		<keyword>Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

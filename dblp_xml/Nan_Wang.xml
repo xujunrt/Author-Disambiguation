@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nan Wang</FullName>
+	<publication>
+		<title>Automatic Wrapper Generation for Semi-Structured Biological Data Based on Table Structure Identification</title>
+		<year>2003</year>
+		<authors>liangyou chen,hasan m. jamil</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>766</label>
+		<keyword>Biological Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic composite wrapper generation for semi-structured biological data based on table structure identification</title>
+		<year>2004</year>
+		<authors>liangyou chen,hasan m. jamil</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>766</label>
+		<keyword>Automatic Generation;Biological Data;</keyword>
+		<organization>null</organization>
+		<abstract>Biological data analyses usually require complex manipulations involving tool applications, multiple web site navigation, result selection and filtering, and iteration over the internet. Most biological data are generated from structured databases and by applications and presented to the users embedded within repeated structures, or tables, in HTML documents. In this paper we outline a novel technique for the identification of</abstract>
+	</publication>
+</person>

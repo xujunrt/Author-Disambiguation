@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Conrad</FullName>
+	<publication>
+		<title>Dynamische Datenintegration in Grid-Umgebungen</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>963</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Storytelling Concept for Digital Heritage Exchange in Virtual Environments</title>
+		<year>2003</year>
+		<authors>ernst kruijff,martin suttrop,frank hasenbrink,alex lechner</authors>
+		<jconf>International Conference on Virtual Storytelling</jconf>
+		<label>964</label>
+		<keyword>Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning from the Movie Industry: Adapting Production Processes for Storytelling in VR</title>
+		<year>2004</year>
+		<authors>richard wages,benno grützmacher</authors>
+		<jconf>Technologies for Interactive Digital Storytelling and Entertainment</jconf>
+		<label>964</label>
+		<keyword>Authoring Tool;Production Process;</keyword>
+		<organization>null</organization>
+		<abstract>Any movie production needs a whole group of contributing authors and creative artists from various fields. The same should obviously be true for the making of a compelling VR scenario. Hence artists need to have direct ac- cess to the VR production process itself. In the VR domain however artistic and computational challenges are usually still severely interwoven. Thus nearly</abstract>
+	</publication>
+	<publication>
+		<title>Multifaceted Interaction with a Virtual Engineering Environment using a Scenegraph-oriented Approach</title>
+		<year>2003</year>
+		<authors>arnold müller,ernst kruijff</authors>
+		<jconf>International Conference in Central Europe on Computer Graphics and Visualization</jconf>
+		<label>964</label>
+		<keyword>3d interaction;Interaction Technique;User Interface;Virtual Environment;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract>To provide an adequate user interface to the large amount of geometrical and alphanumerical date coupled to the geometries, the 3D interaction in the virtual environment is combined with 2D interaction techniques using a portable touchscreen computer. Therefore, the consequences are analyzed, when the scenegraph structure of the underlying VR system is applied to the design of the 2D interface</abstract>
+	</publication>
+	<publication>
+		<title>Design Review in a Distributed Collaborative Virtual Environment</title>
+		<year>2006</year>
+		<authors>weiqun cao,hendrik gaertner,hannes guddat,andreas m. straube,ernst kruijff,dirk langenberg</authors>
+		<jconf>International Journal of Image and Graphics</jconf>
+		<label>964</label>
+		<keyword>Distributed Collaboration;Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianjun Chen</FullName>
+	<publication>
+		<title>An Enabling Environment for Distributed Simulation and Visualization</title>
+		<year>2004</year>
+		<authors>yao zheng,guanghua song,jifa zhang</authors>
+		<jconf>Grid Computing</jconf>
+		<label>390</label>
+		<keyword>Computation Fluid Dynamics;Computational Solid Mechanics;Distributed Simulation;Large Scale;Numerical Simulation;Pc Cluster;Scientific Computing;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present the MASSIVE project that aims to use Grid technology to establish an enabling environment for distributed simulation and visualization of large-scale scientific and engineering research. The project focuses on collaborative numerical simulation and visualization in grid environments. Furthermore, the project is also to develop Grid-enabled capability and products for use by the wider community. The</abstract>
+	</publication>
+	<publication>
+		<title>An Improved Laplacian Smoothing Approach for Surface Meshes</title>
+		<year>2007</year>
+		<authors>ligang chen,yao zheng,yi liang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>390</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A General Framework for Parallel Planar Mesh Generation</title>
+		<year>2006</year>
+		<authors>ligang chen,yi liang,yao zheng</authors>
+		<jconf>International Multi-Symposium of Computer and Computational Sciences</jconf>
+		<label>390</label>
+		<keyword>Mesh Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Unstructured Quadrilateral Mesh Generation</title>
+		<year>2005</year>
+		<authors>yao zheng</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>390</label>
+		<keyword>Mesh Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scalable Parallel Quadrilateral Mesh Generation Coupled with Mesh Partitioning</title>
+		<year>2005</year>
+		<authors>yao zheng,xia ning</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>390</label>
+		<keyword>Mesh Generation;Mesh Partitioning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

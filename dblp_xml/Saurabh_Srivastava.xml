@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Saurabh Srivastava</FullName>
+	<publication>
+		<title>Analysis of confocal microendoscope images for automatic detection of ovarian cancer</title>
+		<year>2005</year>
+		<authors>jeffrey j. rodriguez,andrew r. rouse,molly a. brewer,arthur f. gmitro</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>922</label>
+		<keyword>Automatic Detection;Ovarian Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rong Zhou</FullName>
+	<publication>
+		<title>Achieving Channel Capacity with Low Complexity RS-BTC Using QPSK over AWGN Channel</title>
+		<year>2004</year>
+		<authors>a. picart,r. pyndiah,a. goalic</authors>
+		<jconf>International Conference on Telecommunications</jconf>
+		<label>879</label>
+		<keyword>Channel Capacity;Low Complexity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low-Complexity High-Rate Reed--Solomon Block Turbo Codes</title>
+		<year>2007</year>
+		<authors>raphaël le bidan,r. pyndiah,a. goalic</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<label>879</label>
+		<keyword>Low Complexity;Turbo Code;Reed Solomon;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fast Accuracy Crystal Identification Method Based on Fuzzy C-Means (FCM) Clustering Algorithm for MicroPET</title>
+		<year>2008</year>
+		<authors>xiaowen kang,xishan sun,shi wang,yaqiang liu,yan xia,zhaoxia wu,yongjie jin</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>880</label>
+		<keyword>Cluster Algorithm;Fuzzy C Mean;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simulating the generic job shop as a multi-agent system</title>
+		<year>2008</year>
+		<authors>h. p. lee,a. y. c. nee</authors>
+		<jconf>International Journal of Intelligent Systems Technologies and Applications</jconf>
+		<label>881</label>
+		<keyword>Job Shop;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Applying Ant Colony Optimisation (ACO) algorithm to dynamic job shop scheduling problems</title>
+		<year>2008</year>
+		<authors>h. p. lee,a. y. c. nee</authors>
+		<jconf>International Journal of Manufacturing Research</jconf>
+		<label>881</label>
+		<keyword>Ant Colony Optimisation;Job Shop Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Liu</FullName>
+	<publication>
+		<title>Supporting Complex MultiDimensional Queries in P2P Systems</title>
+		<year>2005</year>
+		<authors>wang-chien lee,dik lun lee</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>81</label>
+		<keyword>Indexation;K Nearest Neighbor;Load Balance;P2P;P2p System;Peer To Peer;Query Processing;Range Query;Real Estate;Spatial Data;Spatial Index;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>More and more applications require peer-to-peer (P2P) systems to support complex queries over multi-dimensional data. For example, a P2P auction network for real estate frequently needs to answer queries such as &quot;select five available buildings closest to the airport&quot;. Such queries are not efficiently supported in current P2P systems. Towards an efficient and scalable P2P system capable of processing complex</abstract>
+	</publication>
+	<publication>
+		<title>A Spreadsheet Algebra for a Direct Data Manipulation Query Interface</title>
+		<year>2009</year>
+		<authors>h. v. jagadish</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>82</label>
+		<keyword>Direct Manipulation;Directional Data;Expressive Power;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>A spreadsheet-like &quot;direct manipulation&quot; interface is more intuitive for many non-technical database users compared to traditional alternatives, such as visual query builders. The construction of such a direct manipulation interface may appear straightforward, but there are some significant challenges. First, individual direct manipulation operations cannot be too complex, so expressive power has to be achieved through composing (long) sequences of</abstract>
+	</publication>
+	<publication>
+		<title>Querying about the Past, the Present, and the Future in Spatio-Temporal</title>
+		<year>2004</year>
+		<authors>jimeng sun,dimitris papadias,yufei tao</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>81</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed caching of multidimensional data in mobile environments</title>
+		<year>2005</year>
+		<authors>dik lun lee</authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>81</label>
+		<keyword>Indexation;K Nearest Neighbor;Mobile Data Management;Mobile Device;Mobile Environment;Multidimensional Data;Network Traffic;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Caching has been an important technique for saving network traffic and reducing response time, especially in mobile environments where bandwidth is often a scarce resource. In this paper, we propose a novel approach for caching multidimensional data in a cluster of mobile devices. In particular, we focus on the most common types of multi-dimensional queries, namely range and k-nearest neighbor</abstract>
+	</publication>
+	<publication>
+		<title>DataLens: making a good first impression</title>
+		<year>2009</year>
+		<authors>h. v. jagadish</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>82</label>
+		<keyword>Database Query;User Preferences;informa tion retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>When a database query has a large number of results, the user can only be shown one page of results at a time. One popular approach is to rank results such that the \best&quot; re- sults appear rst. This approach is well-suited for informa- tion retrieval, and for some database queries, such as sim- ilarity queries or under-specied (or keyword)</abstract>
+	</publication>
+	<publication>
+		<title>Prediction and indexing of moving objects with unknown motion patterns</title>
+		<year>2004</year>
+		<authors>yufei tao,christos faloutsos,dimitris papadias</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>81</label>
+		<keyword>Indexation;Individual Object;linear functionals;Moving Object;Spatio-temporal Databases;</keyword>
+		<organization>null</organization>
+		<abstract>Existing methods for peediction spatio-temporal databases assume that objects move according to linear functions. This severely limits their applicability, since in practice movement is more complex, and individual objects may follow drastically diffferent motion patterns. In order to overcome these problems, we first introduce a general framework for monitoring and indexing moving objects, where (i) each boject computes individually the</abstract>
+	</publication>
+	<publication>
+		<title>Michigan Molecular Interactions (MiMI): putting the jigsaw puzzle together</title>
+		<year>2007</year>
+		<authors>magesh jayapandian,adriane chapman,v. glenn tarcea,cong yu,aaron elkiss,angela ianni,arnab nandi,carlos santos,philip andrews,brian athey,david j. states,h. v. jagadish</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>82</label>
+		<keyword>Biomedical Informatics;Data Format;Molecular Interactions;Protein Interaction;Query Language;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Protein interaction data exists in a number of repo- sitories. Each repository has its own data format, molecule identifier and supplementary information. Michigan Molecular Interactions (MiMI) assists scientists searching through this overwhelming amount of protein interaction data. MiMI gathers data from well-known protein interaction databases and deep-merges the information. Utilizing an iden- tity function, molecules that may have different identifiers</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Rule Refinement for Information Extraction</title>
+		<year>2010</year>
+		<authors>laura chiticariu,vivian chu,h. v. jagadish,frederick reiss</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>82</label>
+		<keyword>Information Extraction;System Development;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>Rule-based information extraction from text is increasingly being used to populate databases and to support structured queries on unstructured text. Specification of suitable information extraction rules requires considerable skill and standard practice is to refine rules iteratively, with substantial effort. In this paper, we show that techniques developed in the context of data provenance, to deter- mine the lineage of</abstract>
+	</publication>
+	<publication>
+		<title>Using Trees to Depict a Forest</title>
+		<year>2009</year>
+		<authors>h. v. jagadish</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>82</label>
+		<keyword>Database Query;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>When a database query has a large number of results, the user can only be shown one page of results at a time. One popular approach is to rank results such that the \best&quot; re- sults appear rst. However, standard database query results comprise a set of tuples, with no associated ranking. It is typical to allow users the ability</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating Universal Quantification in XML</title>
+		<year>2007</year>
+		<authors>shurug al-khalifa,h. v. jagadish</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>82</label>
+		<keyword>Access Method;Database System;Xml Database;</keyword>
+		<organization>null</organization>
+		<abstract>Queries posed to database systems often involve Universal Quantification. Such queries are typically expensive to evaluate. Although they can be handled by basic access methods, for selection, grouping, and so forth, new access methods specifically tailored to evaluate universal quantification can greatly decrease the computational cost. In this paper, we study the efficient evaluation of universal quantification in an XML</abstract>
+	</publication>
+</person>

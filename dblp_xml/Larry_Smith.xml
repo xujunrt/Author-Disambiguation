@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Larry Smith</FullName>
+	<publication>
+		<title>A constraint programming language for Life-Cycle Engineering</title>
+		<year>1990</year>
+		<authors>james bowen,peter o'grady</authors>
+		<jconf>Advanced Engineering Informatics</jconf>
+		<label>502</label>
+		<keyword>Constraint Programming;Life Cycle Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

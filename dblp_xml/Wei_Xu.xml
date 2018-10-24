@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wei Xu</FullName>
+	<publication>
+		<title>Literature-based Alignment of Ontologies</title>
+		<year>2008</year>
+		<authors>patrick lambrix,he tan</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>1079</label>
+		<keyword>Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose and evaluate new strategies for aligning ontologies based on text categorization of literature using sup- port vector machines-based text classifiers, and compare them with ex- isting literature-based strategies. We also compare and combine these strategies with linguistic strategies.</abstract>
+	</publication>
+</person>

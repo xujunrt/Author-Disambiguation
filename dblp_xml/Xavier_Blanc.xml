@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xavier Blanc</FullName>
+	<publication>
+		<title>Finite-Temperature Coarse-Graining of One-Dimensional Models: Mathematical Analysis and Computational Approaches</title>
+		<year>2010</year>
+		<authors>claude le bris,f. legoll,c. patz</authors>
+		<jconf>Journal of Nonlinear Science</jconf>
+		<label>1100</label>
+		<keyword>Coarse Grained;Finite Temperature;Mathematical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

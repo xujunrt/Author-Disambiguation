@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gaurav Sharma</FullName>
+	<publication>
+		<title>MedMeSH Summarizer: Text Mining for Gene Clusters</title>
+		<year>2002</year>
+		<authors>pankaj kankar,sudeshna adak,a. sarkar,k. murali</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>251</label>
+		<keyword>Adaptive Response;Cdna Microarray;Environmental Conditions;Expression Profile;Gene Cluster;Gene Expression;Text Mining;High Density;</keyword>
+		<organization>null</organization>
+		<abstract>Gene Expression is the process by which a gene's coded information is translated into the proteins present and operating in the cell. Changes in gene expression are associated with many important biological phenomena, including morphogenesis and aging, cancer and disease states, and adaptive responses to the environment. The advent of high density microarrays, introduced by Schena et al. [1] in</abstract>
+	</publication>
+</person>

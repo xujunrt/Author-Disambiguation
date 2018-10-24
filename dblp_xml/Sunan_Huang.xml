@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sunan Huang</FullName>
+	<publication>
+		<title>Neural Network Control Design for Large-Scale Systems with Higher-Order Interconnections</title>
+		<year>2006</year>
+		<authors>cong ming</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>987</label>
+		<keyword>Large Scale System;Neural Network Control;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

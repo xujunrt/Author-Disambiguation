@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Wagner</FullName>
+	<publication>
+		<title>On-Line Modelling Based on Genetic Programming</title>
+		<year>2005</year>
+		<authors>stephan m. winkler,hajrudin efendic,michael affenzeller,luigi del re</authors>
+		<jconf>Automatic Learning and Real-Time</jconf>
+		<label>977</label>
+		<keyword>Diesel Engine;Fault Diagnosis;Fault Isolation;Genetic Algorithm;Genetic Program;Heuristic Optimization;Machine Learning;Model Identification;Nonlinear Model;Structure Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Genetic Programming, a heuristic optimization technique based on the theory of Genetic Algorithms, is a method successfully used to identify nonlinear model structures by analyzing a system's measured signals. Mostly, it is used as an offline tool which means that structural analysis is done after collecting all available identification data. In this paper, we propose an enhanced on-line GP approach</abstract>
+	</publication>
+	<publication>
+		<title>Music Segmentation With Genetic Algorithms</title>
+		<year>2009</year>
+		<authors>brigitte rafael,stefan oertl,michael affenzeller</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>977</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Self-Adaptive Model for Selective Pressure Handling within the Theory of Genetic Algorithms</title>
+		<year>2003</year>
+		<authors>michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Evolutionary Process;Genetic Algorithm;Selection Model;Selection Principle;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we introduce a new generic selection method for Genetic Algorithms. The main difierence of this selection principle in contrast to conventional selection models is given by the fact that it con- siders not only the fltness of an individual compared to the fltness of the total population in order to determine the possibility of being selected. Additionally,</abstract>
+	</publication>
+	<publication>
+		<title>On the Influence of Selection Schemes on the Genetic Diversity in Genetic Algorithms</title>
+		<year>2009</year>
+		<authors>michael affenzeller,stephan m. winkler,andreas beham</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Algorithm;Genetic Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Self-Adaptive Population Size Adjustment for Genetic Algorithms</title>
+		<year>2007</year>
+		<authors>michael affenzeller,stephan m. winkler</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Algorithm;Population Size;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evolutionary Selection in Simulation-based Optimization</title>
+		<year>2009</year>
+		<authors>andreas beham,monika kofler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimization Methods for Large-scale Production Scheduling Problems</title>
+		<year>2007</year>
+		<authors>roland braune,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Large Scale;Optimal Method;Production Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Heuristic Methods for Searching and Clustering Hierarchical Workflows</title>
+		<year>2009</year>
+		<authors>stefan wagner,m. kastner,w. jacak</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Heuristic Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Priority Rule Generation With a Genetic Algorithm to Minimize Sequence Dependent Setup Costs</title>
+		<year>2009</year>
+		<authors>monika kofler,andreas beham,gabriel kronberger,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Success Rate of Crossover Operators for Genetic Programming with Offspring Selection</title>
+		<year>2009</year>
+		<authors>gabriel kronberger,stephan m. winkler,michael affenzeller,andreas beham</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Success Rate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Heuristic Optimization for Segmentation of Symbolic Music</title>
+		<year>2009</year>
+		<authors>brigitte rafael,s. ortl,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Heuristic Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Driven Rapid Prototyping of Heuristic Optimization Algorithms</title>
+		<year>2009</year>
+		<authors>gabriel kronberger,andreas beham,stephan m. winkler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Heuristic Optimization;Rapid Prototyping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Benefits of Plugin-Based Heuristic Optimization Software Systems</title>
+		<year>2007</year>
+		<authors>stephan m. winkler,erik pitzer,gabriel kronberger,andreas beham,roland braune,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Heuristic Optimization;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selection Pressure Driven Sliding Window Behavior in Genetic Programming Based Structure Identification</title>
+		<year>2007</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf>EUROCAST</jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual Sensors for Emissions of a Diesel Engine Produced by Evolutionary System Identification</title>
+		<year>2009</year>
+		<authors>stephan m. winkler,markus hirsch,michael affenzeller,l. delre</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Diesel Engine;Evolutionary System;Virtual Sensor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Crossover Success Rate in Genetic Programming with Offspring Selection</title>
+		<year>2009</year>
+		<authors>gabriel kronberger,stephan m. winkler,michael affenzeller</authors>
+		<jconf>Lecture Notes in Computer Science</jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Success Rate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>About the Dynamics of Essential Genetic Information: An Empirical Analysis for Selected GA-Variants</title>
+		<year>2009</year>
+		<authors>michael affenzeller,andreas beham,stephan m. winkler</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Empirical Analysis;Genetic Algorithm;Genetics;Premature Convergence;Survival Probability;Standard Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>This paper exemplarily points out how essential genetic information evolves during the runs of selected GA-variants. The algorithmic enhancements to a standard genetic algorithm certify the survival of essential genetic information by supporting the survival of relevant alleles rather than the survival of above average chromosomes. This is achieved by defining the survival probability of a new child chromosome depending</abstract>
+	</publication>
+	<publication>
+		<title>Goal-Oriented Preservation of Essential Genetic Information by Offspring Selection</title>
+		<year>2005</year>
+		<authors>michael affenzeller,stephan m. winkler</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Benchmark Problem;Genetic Algorithm;Genetic Program;Genetics;Goal Orientation;Selection Model;Adaptive Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>This contribution proposes an enhanced and generic selection model for Genetic Algorithms (GAs) and Genetic Programming (GP) which is able to preserve the alleles which are part of a high quality solution. Some selected aspects of these enhanced techniques are discussed exemplarily on the basis of standardized benchmark problems.</abstract>
+	</publication>
+	<publication>
+		<title>Aspects of Adaptation in Natural and Artificial Evolution</title>
+		<year>2007</year>
+		<authors>michael affenzeller,stephan m. winkler</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Artificial Evolution;Benchmark Problem;Evolutionary Computing;Generic Algorithm;Genetic Algorithm;Genetic Drift;Genetics;Population Genetics;Population Structure;genetic pro gramming;</keyword>
+		<organization>null</organization>
+		<abstract>This work addresses selected aspects of natural evolution, especially of the field of population genetics, that are consid- ered to be meaningful for algorithmic further developments in the field of Genetic Algorithms (GAs) and Genetic Pro- gramming (GP) by the authors. In this connection special attention is devoted to selection and replacement strategies, as these are exactly the aspects that</abstract>
+	</publication>
+	<publication>
+		<title>Sets of Receiver Operating Characteristic Curves and their Use in the Evaluation of Multi-Class Classification</title>
+		<year>2006</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Classifier System;Data Mining;False Positive;Machine Learning;multi-class classification;Pattern Recognition;Receiver Operating Characteristic Curve;Roc Curve;</keyword>
+		<organization>null</organization>
+		<abstract>Within the last two decades, Receiver Operating Charac- teristic (ROC) Curves have become a standard tool for the analysis and comparison of classifiers since they provide a convenient graphical display of the trade-off between true and false positive classification rates for two class problems. However, there has been relatively little work examining ROC for more than two classes. Here we</abstract>
+	</publication>
+	<publication>
+		<title>Fine-grained population diversity estimation for genetic programming based structure identification</title>
+		<year>2008</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>977</label>
+		<keyword>Data Mining;Genetic Diversity;Genetic Program;Machine Learning;Similarity Measure;System Identification;genetic pro gramming;</keyword>
+		<organization>null</organization>
+		<abstract>We here describe a novel formalism for estimating the struc- tural similarity of formulas that are evolved by a genetic pro- gramming (GP) based identification process. This method takes into account several aspects of structure tree compar- ison that are particularly important in the context of evolu- tionary system identification; this similarity measure is used for measuring the genetic diversity</abstract>
+	</publication>
+	<publication>
+		<title>Agent-Based Problem Solving: The Ant Colonies Metaphor</title>
+		<year>2003</year>
+		<authors>michael affenzeller,ismail khalil ibrahim</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Ant Colony;Ant Colony Optimization;Foraging Behaviour;multiagent system;Optimization Technique;Problem Solving;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper the analogy between biological swarms and artificial multiagent systems is pointed out. As an example the steps required to model the artificial optimization technique called Ant Colony Optimization starting from the foraging behaviour of natural ant colonies are explained in detail. During the development of the model the authors use the language of multiagent systems to highlight</abstract>
+	</publication>
+	<publication>
+		<title>A Genetic Programming Approach to Solve Scheduling Problems with Parallel Simulation</title>
+		<year>2008</year>
+		<authors>andreas beham,stephan m. winkler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Parallel Simulation;Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Advances in Applying Genetic Programming to Machine Learning, Focussing on Classification Problems</title>
+		<year>2006</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Machine Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fine Grained Population Diversity Analysis for Parallel Genetic Programming</title>
+		<year>2009</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Genetic Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SASEGASA: An Evolutionary Algorithm for Retarding Premature Convergence by Self-Adaptive Selection Pressure Steering</title>
+		<year>2003</year>
+		<authors>michael affenzeller</authors>
+		<jconf>Lecture Notes in Computer Science</jconf>
+		<label>977</label>
+		<keyword>Benchmark Problem;Evolutionary Algorithm;Genetic Algorithm;Genetic Diversity;Global Solution;Interactive Method;Perforation;Premature Convergence;Selection Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new generic Evolutionary Algorithm (EA) for retarding the unwanted effects of premature convergence. This is accomplished by a combination of interacting methods. To be intent on this a new selection scheme is introduced, which is designed to maintain the genetic diversity within the population by advantageous self-adaptive steering of selection pressure. Additionally this new selection model</abstract>
+	</publication>
+	<publication>
+		<title>GA-Selection Revisited from an ES-Driven Point of View</title>
+		<year>2005</year>
+		<authors>michael affenzeller,stephan m. winkler</authors>
+		<jconf>Lecture Notes in Computer Science</jconf>
+		<label>977</label>
+		<keyword>Evolution Strategy;Genetic Algorithm;Genetic Program;Point of View;Population Genetics;Selection Model;</keyword>
+		<organization>null</organization>
+		<abstract>Whereas the selection concept of Genetic Algorithms (GAs) and Genetic Programming (GP) is basically realized by the selection of above-average parents for reproduction, Evolution Strategies (ES) use the fltness of newly evolved ofispring as the basis for selection (survival of the flttest due to birth surplus). This contribution proposes a generic and enhanced selection model for GAs considering selection aspects</abstract>
+	</publication>
+	<publication>
+		<title>The Allele Metamodel - Developing a Common Language for Genetic Algorithms</title>
+		<year>2005</year>
+		<authors>michael affenzeller</authors>
+		<jconf>Lecture Notes in Computer Science</jconf>
+		<label>977</label>
+		<keyword>Genetic Algorithm;Genetic Diversity;Genetics;meta model;Quality Improvement;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the lot of difierent Genetic Algorithm variants, en- codings, and attacked problems, very little general theory is available to explain the internal functioning of Genetic Algorithms. Consequently it is very di-cult for researchers to flnd a common language to document quality improvements of newly developed algorithms. In this paper the authors present a new Allele Meta-Model enabling a</abstract>
+	</publication>
+	<publication>
+		<title>Coupling Simulation with HeuristicLab to Solve Facility Layout Problems</title>
+		<year>2009</year>
+		<authors>andreas beham,monika kofler,michael affenzeller</authors>
+		<jconf></jconf>
+		<label>977</label>
+		<keyword>Algorithm Engineering;Development Process;Facility Layout;Graphic User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe the optimization of a facility layout scenario, which involves coupling simulation with the optimization environment HeuristicLab. For this purpose we show a problem formulation that acts as an interface between these two domains of problem modeling and optimization, and discuss optimization methodologies and their results for a number of artificial test problems as well as</abstract>
+	</publication>
+	<publication>
+		<title>Using Enhanced Genetic Programming Techniques for Evolving Classifiers in the Context of Medical Diagnosis</title>
+		<year>2009</year>
+		<authors>stephan m. winkler,michael affenzeller</authors>
+		<jconf>Genetic Programming and Evolvable Machines</jconf>
+		<label>977</label>
+		<keyword>Genetic Program;Medical Diagnosis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SASEGASA: A New Generic Parallel Evolutionary Algorithm for Achieving Highest Quality Results</title>
+		<year>2004</year>
+		<authors>michael affenzeller</authors>
+		<jconf>Journal of Heuristics</jconf>
+		<label>977</label>
+		<keyword>Benchmark Problem;Evolutionary Algorithm;General Methods;Genetic Algorithm;Genetic Drift;Parallel Evolutionary Algorithm;Population Genetics;Premature Convergence;Selection Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new generic Evolutionary Algorithm (EA) for retarding the unwanted efiects of premature convergence. This is accomplished by a combination of interacting generic methods. These generalizations of a Genetic Algorithm (GA) are inspired by population genetics and take advantage of the interactions between genetic drift and migration. In this regard a new selection scheme is introduced, which</abstract>
+	</publication>
+	<publication>
+		<title>Online modelling based on Genetic Programming</title>
+		<year>2007</year>
+		<authors>stephan m. winkler,hajrudin efendic,luigi del re,michael affenzeller</authors>
+		<jconf>International Journal of Intelligent Systems Technologies and Applications</jconf>
+		<label>977</label>
+		<keyword>Genetic Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Adjusted Evolutionary Algorithm for the Optimization of Fuzzy Controllers</title>
+		<year>1997</year>
+		<authors>hans-dieter kochs</authors>
+		<jconf>Fuzzy Days</jconf>
+		<label>978</label>
+		<keyword>Evolutionary Algorithm;Fuzzy Controller;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quality Assurance at Continuous Hot-Dip Galvanizing Lines by Neuro-Model Assisted Fuzzy-Control</title>
+		<year>1998</year>
+		<authors>hans-dieter kochs</authors>
+		<jconf>International Journal of Uncertainty, Fuzziness and Knowledge-based Systems</jconf>
+		<label>978</label>
+		<keyword>Fuzzy Control;Quality Assurance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

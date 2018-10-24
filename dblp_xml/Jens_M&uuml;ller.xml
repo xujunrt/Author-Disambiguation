@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jens M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Collaborative Smart Items</title>
+		<year>2007</year>
+		<authors>christian decker,clemens van dinther,marc schleyer,emilian peev</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>353</label>
+		<keyword>Decision Making;Information Loss;Information Processing;Business Information Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Business information systems provide computer support for decision making across huge data sets. Smart Items are miniaturized computer and sensing systems embedded into physical goods, items and assets. This paper proposes col- laborative Smart Items for pushing business relevant computing as close as possi- ble into the real world. Collaboration is enabled through an auction-based negotia- tion mechanism running distributed</abstract>
+	</publication>
+	<publication>
+		<title>Service lifecycle management infrastructure for smart items</title>
+		<year>2006</year>
+		<authors>leonardo weiss ferreira chaves,luciana moreira sá de souza,jürgen anke</authors>
+		<jconf>International Conference on Distributed Systems Platforms and Open Distributed Processing/Open Distributed Processing</jconf>
+		<label>353</label>
+		<keyword>Information Technology;Middleware;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Smart items are physical objects that are enhanced by information technology. There are a number of different smart item technologies available, all of which have different capabilities, protocols, and management functionality. These devices have become an attractive solution for enterprise scenarios. In such scenarios lifecycle management can become a challenge when considering the differences of the smart item types while</abstract>
+	</publication>
+	<publication>
+		<title>Understanding User Preferences and Awareness: Privacy Mechanisms in Location-Based Services</title>
+		<year>2009</year>
+		<authors>thorben burghardt,erik buchmann,klemens böhm</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>353</label>
+		<keyword>Location Based Service;User Preferences;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Estimation of class membership functions for grey-level based image fusion</title>
+		<year>1997</year>
+		<authors>isabelle bloch,lars aurdal,domenico bijno</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>354</label>
+		<keyword>Image Fusion;Membership Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rokkatan: scaling an RTS game design to the massively multiplayer realm</title>
+		<year>2006</year>
+		<authors>sergei gorlatch</authors>
+		<jconf>Computers in Entertainment</jconf>
+		<label>355</label>
+		<keyword>Computer Game;Distributed Computing;Game Design;Massively Multiplayer;Network Architecture;Performance Measure;Proxy Server;First Person Shooter;Massively Multiplayer Online Role Playing Game;Real Time Strategy;</keyword>
+		<organization>null</organization>
+		<abstract>While massively multiplayer online role-playing games (MMORPG) involve large numbers of simultaneous players, two other popular game classes -- first-person shooter (FPS) and real-time strategy (RTS) games - are still only rarely considered for massively multiplayer gaming. A main technical problem for scaling these genres to be massively multiplayer is the absence of a suitable scalable multiserver networking approach. While</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Service Provisioning for Multiplayer Online Games</title>
+		<year>2005</year>
+		<authors>rafael schwerdt,sergei gorlatch</authors>
+		<jconf>Advanced Parallel Programming Technologies</jconf>
+		<label>355</label>
+		<keyword>Multiplayer Online Games;Service Provision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clayworks: A System for Collaborative Real-Time Modeling and High-Performance Simulation</title>
+		<year>2006</year>
+		<authors>martin alt,jan dünnweber,sergei gorlatch</authors>
+		<jconf>e-Science and Grid Computing</jconf>
+		<label>355</label>
+		<keyword>High Performance;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards High-Level Grid Programming and Load-Balancing: A Barnes-Hut Case Study</title>
+		<year>2005</year>
+		<authors>martin alt,sergei gorlatch</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>355</label>
+		<keyword>Case Study;Load Balance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Proxy Server-Network for Real-Time Computer Games</title>
+		<year>2004</year>
+		<authors>stefan fischer,sergei gorlatch,martin mauve</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>355</label>
+		<keyword>Computer Game;Distributed Application;Low Latency;Multiplayer Game;Network Topology;Peer To Peer;Proxy Server;Real-time Computing;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>Computer games played over the Internet have recently be- come an important class of distributed applications. In this paper we present a novel proxy server-network topology aiming at improved scala- bility of multiplayer games and low latency in client-server data transmis- sion. We present a mechanism to ecien tly synchronize the distributed state of a game based on the concept</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Architecture for Multiplayer Computer Games</title>
+		<year>2004</year>
+		<authors>sergei gorlatch</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>355</label>
+		<keyword>Computer Game;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scaling multiplayer online games using proxy-server replication: a case study of Quake 2</title>
+		<year>2007</year>
+		<authors>sergei gorlatch,tobias schröter,stefan fischer</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>355</label>
+		<keyword>Case Study;Computer Game;Distributed Application;Massively Multiplayer;Massively Multiplayer Online Game;Multiplayer Online Games;Proxy Server;System Architecture;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Massively Multiplayer Online Games (MMOGs) are an increasingly popular class of real-time interactive distributed applications that require scalable architectures and parallelization approaches. While games of the role-playing genre already allow thousands of users to concurrently participate in a single game session, there are important genres, in particular action and strategy games, which have not been scaled to the massively multiplayer</abstract>
+	</publication>
+	<publication>
+		<title>GSM: a game scalability model for multiplayer real-time games</title>
+		<year>2005</year>
+		<authors>sergei gorlatch</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>355</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On correctness of scalable multi-server state replication in online games</title>
+		<year>2006</year>
+		<authors>andreas gössling,sergei gorlatch</authors>
+		<jconf>Network and System Support for Games</jconf>
+		<label>355</label>
+		<keyword>Massively Multiplayer;Massively Multiplayer Online Game;Network Architecture;Online Game;</keyword>
+		<organization>null</organization>
+		<abstract>Massively Multiplayer Online Games (MMOG) require novel, scalable network architectures for a high amount of participating players in huge game worlds. Consequently, new and complex multi-server parallelization approaches have been proposed to provide responsive, massively multiplayer gameplay for different game genres. Besides scalability and performance, the issue of correctness of the game state processing is vital for providing a failure-free</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Online Computer Games for Grids</title>
+		<year>2007</year>
+		<authors>sergei gorlatch</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>355</label>
+		<keyword>Computer Game;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Rule-Based Approach to Match Structural Patterns with Business Process Models</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Rules and Rule Markup Languages for the Semantic Web</jconf>
+		<label>353</label>
+		<keyword>Business Process Model;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clayworks: Toward User-Oriented Software for Collaborative Modeling and Simulation</title>
+		<year>2007</year>
+		<authors>sergei gorlatch,martin alt,jan dünnweber,hamido fujita,yutaka funyu</authors>
+		<jconf>Software Methodologies, Tools and Techniques</jconf>
+		<label>355</label>
+		<keyword>Modeling and Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rokkatan: scaling an RTS game design to the massively multiplayer realm</title>
+		<year>2006</year>
+		<authors>sergei gorlatch</authors>
+		<jconf>Computers in Entertainment</jconf>
+		<label>355</label>
+		<keyword>Computer Game;Distributed Computing;Game Design;Massively Multiplayer;Network Architecture;Performance Measure;Proxy Server;First Person Shooter;Massively Multiplayer Online Role Playing Game;Real Time Strategy;</keyword>
+		<organization>null</organization>
+		<abstract>While massively multiplayer online role-playing games (MMORPG) involve large numbers of simultaneous players, two other popular game classes -- first-person shooter (FPS) and real-time strategy (RTS) games - are still only rarely considered for massively multiplayer gaming. A main technical problem for scaling these genres to be massively multiplayer is the absence of a suitable scalable multiserver networking approach. While</abstract>
+	</publication>
+	<publication>
+		<title>Data Parallelism in C++ Template Programs: a Barnes-hut Case Study</title>
+		<year>2005</year>
+		<authors>holger bischof,sergei gorlatch,roman leshchinskiy</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<label>355</label>
+		<keyword>Case Study;Data Parallel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A general purpose adaptivity driver for FE software</title>
+		<year>2003</year>
+		<authors>jan g. korvink</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>356</label>
+		<keyword>Finite Element;Mesh Adaptation;Numerical Solution;Software Package;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a tool that serves as an automatic mesh adaptivity driver program for general purpose finite element (FE) software packages. Many commercially available FE programs lack a feature to control the numerical solution's accuracy properly. Our tool implements a mesh adaptive method that, in conjunction with separate finite element software, allows one to fully automatically improve the quality</abstract>
+	</publication>
+</person>

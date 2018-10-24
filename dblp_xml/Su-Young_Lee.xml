@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Su-Young Lee</FullName>
+	<publication>
+		<title>Dealing with AADL End-to-End Flow Latency with UML MARTE</title>
+		<year>2008</year>
+		<authors>frédéric mallet,robert de simone</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>992</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

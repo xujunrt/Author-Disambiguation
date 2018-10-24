@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hongyu Sun</FullName>
+	<publication>
+		<title>An Efficient Web Service Annotation Method Utilizing Concept Mapping and Interface Expansion</title>
+		<year>2009</year>
+		<authors>guobing zou,yang xiang,yanglan gan,zengbao liu</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>296</label>
+		<keyword>Concept Map;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Concept Hierarchy-Based Text Database Categorization</title>
+		<year>2002</year>
+		<authors>weiyi meng,wenxian wang,clement t. yu</authors>
+		<jconf>Knowledge and Information Systems</jconf>
+		<label>297</label>
+		<keyword>Concept Hierarchy;Document Categorization;Large Scale;Text Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

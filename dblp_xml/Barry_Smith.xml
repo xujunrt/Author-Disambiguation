@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Barry Smith</FullName>
+	<publication>
+		<title>SIPs: Shift-and-invert parallel spectral transformations</title>
+		<year>2007</year>
+		<authors>hong zhang,michael sternberg,peter zapol</authors>
+		<jconf>ACM Transactions on Mathematical Software</jconf>
+		<label>70</label>
+		<keyword>Design and Implementation;Distributed Computing;Eigenvalue Distribution;Eigenvalue Problem;Eigenvalues;Material Model;Object-oriented Software;Parallel Computer;Software Package;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>SIPs is a new e!cie nt and robust software package implementing multiple shift-and-invert spectral transformations on parallel computers. Built on top of SLEPc and PETSc, it can compute very large number of eigenpairs for sparse generalized Hermitian eigenvalue problems. The development of SIPs is motivated by applications in nanoscale materials modeling, in which the growing size of the matrices and</abstract>
+	</publication>
+</person>

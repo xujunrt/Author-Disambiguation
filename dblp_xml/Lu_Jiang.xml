@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lu Jiang</FullName>
+	<publication>
+		<title>Building A Global Learning Community</title>
+		<year>2001</year>
+		<authors>gerardine desanctis,matthew wright</authors>
+		<jconf>Communications of The ACM</jconf>
+		<label>575</label>
+		<keyword>Learning Community;</keyword>
+		<organization>null</organization>
+		<abstract>Communicating over differing continents and time zones is not an obstacle when the quality and tone of the communication are viewed as important as the project at hand.</abstract>
+	</publication>
+	<publication>
+		<title>Brain Functional Networks Involved in Finger Movement</title>
+		<year>2009</year>
+		<authors>fangfeng zhang,chunhui chen,qi dong,yan liu</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>576</label>
+		<keyword>Brain Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

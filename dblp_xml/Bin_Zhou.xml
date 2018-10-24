@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Zhou</FullName>
+	<publication>
+		<title>Personalizing entity detection and recommendation with a fusion of web log mining techniques</title>
+		<year>2009</year>
+		<authors>kathleen tsoukalas,jian pei,davor cubranic</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>87</label>
+		<keyword>Query Logs;System Development;Web Log Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Given the proliferation of technology sites and the grow- ing diversity of their readership, readers are more and more likely to encounter specialized language and terminology that they may lack the su-cient background to understand. Such sites may lose readership and the experience of readers may be impacted negatively if readers cannot quickly and easily flnd information about terms they</abstract>
+	</publication>
+	<publication>
+		<title>Continuous privacy preserving publishing of data streams</title>
+		<year>2009</year>
+		<authors>yi han,jian pei,bin jiang,yufei tao,yan jia</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>87</label>
+		<keyword>Data Stream;Privacy Preservation;Statistical Distribution;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, privacy preserving data publishing has received a lot of attention in both research and applications. Most of the previous studies, however, focus on static data sets. In this paper, we study an emerging problem of continuous pri- vacy preserving publishing of data streams which cannot be solved by any straightforward extensions of the existing pri- vacy preserving publishing methods</abstract>
+	</publication>
+	<publication>
+		<title>Answering aggregate keyword queries on relational databases using minimal group-bys</title>
+		<year>2009</year>
+		<authors>jian pei</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>87</label>
+		<keyword>Empirical Evaluation;Keyword Search;Relational Database;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Keyword search has been recently extended to relational databases to retrieve information from text-rich attributes. However, all the existing methods focus on flnding individ- ual tuples matching a set of query keywords from one table or the join of multiple tables. In this paper, we motivate a novel problem of aggregate keyword search: flnding mini- mal group-bys covering a set</abstract>
+	</publication>
+	<publication>
+		<title>Preserving Privacy in Social Networks Against Neighborhood Attacks</title>
+		<year>2008</year>
+		<authors>jian pei</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>87</label>
+		<keyword>Empirical Study;Local Knowledge;Privacy Preservation;Relational Data;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, as more and more social network data has been published in one way or another, preserving privacy in publishing social network data becomes an important con- cern. With some local knowledge about individuals in a social network, an adversary may attack the privacy of some victims easily. Unfortunately, most of the previous studies on privacy preservation can deal with</abstract>
+	</publication>
+	<publication>
+		<title>OLAP on search logs: an infrastructure supporting data-driven applications in search engines</title>
+		<year>2009</year>
+		<authors>daxin jiang,jian pei,hang li</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>87</label>
+		<keyword>Data Mining;Database Management;Empirical Study;Search Engine;Suffix Tree;User Needs;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Search logs, which contain rich and up-to-date information about users’ needs and preferences, have become a critical data source for search engines. Recently, more and more data-driven applications are being developed in search en- gines based on search logs, such as query suggestion, key- word bidding, and dissatisfactory query analysis. In this paper, by observing that many data-driven applications</abstract>
+	</publication>
+	<publication>
+		<title>Understanding Importance of Collaborations in Co-authorship Networks: A Supportiveness Analysis Approach</title>
+		<year>2009</year>
+		<authors>yi han,jian pei,yan jia</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>87</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sketching Landscapes of Page Farms</title>
+		<year>2007</year>
+		<authors>jian pei</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>87</label>
+		<keyword>Greedy Algorithm;Power Law Distribution;Social Network;Web Community;Web Pages;Web Spam;</keyword>
+		<organization>null</organization>
+		<abstract>The Web is a very large social network. It is important and interesting to understand the \ecology&quot; of the Web: the general relations of Web pages to their environment. The understanding of such relations has a few important applications, including Web community identiflcation and analysis, and Web spam detection. In this paper, we propose the notion of page farm, which</abstract>
+	</publication>
+	<publication>
+		<title>A Spamicity Approach to Web Spam Detection</title>
+		<year>2008</year>
+		<authors>jian pei,zhaohui tang</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>87</label>
+		<keyword>Information Retrieval;Spam Detection;Web Graph;Web Pages;Web Spam;</keyword>
+		<organization>null</organization>
+		<abstract>Web spam, which refers to any deliberate actions bringing to selected web pages an unjustiflable favorable relevance or importance, is one of the major obstacles for high quality information retrieval on the web. Most of the existing web spam detection methods are supervised that require a large and representative training set of web pages. Moreover, they often assume some global</abstract>
+	</publication>
+	<publication>
+		<title>PLEDS: A Personalized Entity Detection System Based on Web Log Mining Techniques</title>
+		<year>2008</year>
+		<authors>kathleen tsoukalas,jian pei,davor cubranic</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>87</label>
+		<keyword>Query Logs;User Study;Web Log Mining;</keyword>
+		<organization>null</organization>
+		<abstract>With the expansion of the internet, many special- ized, high-profile sites have become available that bring very technical subject matter to readers with non-technical back- grounds. While the theme of these sites may be of interest to these readers, the posts themselves may contain terms that non-experts may be unfamiliar with and may wish to know more about. We developed</abstract>
+	</publication>
+	<publication>
+		<title>A brief survey on anonymization techniques for privacy preserving publishing of social network data</title>
+		<year>2008</year>
+		<authors>jian pei,wo-shun luk</authors>
+		<jconf>Sigkdd Explorations</jconf>
+		<label>87</label>
+		<keyword>Background Knowledge;Privacy Preservation;Social Network;Systematic Review;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays, partly driven by many Web 2.0 applications, more and more social network data has been made publicly available and analyzed in one way or another. Privacy pre- serving publishing of social network data becomes a more and more important concern. In this paper, we present a brief yet systematic review of the existing anonymization techniques for privacy preserving publishing</abstract>
+	</publication>
+	<publication>
+		<title>Link spam target detection using page farms</title>
+		<year>2009</year>
+		<authors>jian pei</authors>
+		<jconf>ACM Transactions on Knowledge Discovery From Data</jconf>
+		<label>87</label>
+		<keyword>Empirical Study;Target Detection;Web Pages;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Currently, most popular Web search engines adopt some link-based ranking methods such as PageRank. Driven by the huge potential benefit of improving rankings of Web pages, many tricks have been attempted to boost page rankings. The most common way, which is known as link spam, is to make up some artificially designed link structures. Detecting link spam effectively is a</abstract>
+	</publication>
+</person>

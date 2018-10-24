@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Lee</FullName>
+	<publication>
+		<title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
+		<year>2004</year>
+		<authors>james d. myers,thomas c. allison,sandra bittner,brett t. didier,michael frenklach,william h. green jr.,yen-ling ho,john c. hewson,wendy s. koegler,carina lansing,david leahy,renata mccoy,michael minkoff,sandeep nijsure,gregor von laszewski,david montoya,carmen m. pancerella,reinhardt pinzon,william pitz,larry a. rahn,branko ruscic,karen schuchardt,eric g. stephan,al wagner,theresa l. windus,christine l. yang</authors>
+		<jconf>Challenges of Large Applications in Distributed Environments</jconf>
+		<label>697</label>
+		<keyword>Information Flow;Knowledge Grid;Open Source;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  The    Collaboratory    for    Multi - scale    Chemical  Science (CMCS) is developing a powerful informatics - based  approach  to  synthesizing  multi - scale  information   to   support   a   systems - based   research  approach and is applying it in support of combustion  research An   open   source   multi - scale   informatics  toolkit is being developed that addresses a number of  issues core to</abstract>
+	</publication>
+	<publication>
+		<title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+		<year>2005</year>
+		<authors>james d. myers,thomas c. allison,sandra bittner,brett t. didier,michael frenklach,william h. green jr.,yen-ling ho,john c. hewson,wendy s. koegler,carina lansing,david leahy,renata mccoy,michael minkoff,sandeep nijsure,gregor von laszewski,david montoya,luwi oluwole,carmen m. pancerella,reinhardt pinzon,william pitz,larry a. rahn,branko ruscic,karen schuchardt,eric g. stephan,al wagner,theresa l. windus,christine l. yang</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>697</label>
+		<keyword>Information Flow;Knowledge Grid;Open Source;</keyword>
+		<organization>null</organization>
+		<abstract>The Collaboratory for Multi-scale Chemical Science (CMCS) is developing a powerful informatics- based approach to synthesizing multi-scale information to support a systems-based research approach and is applying it in support of combustion research. An open source multi-scale informatics toolkit is being developed that addresses a number of issues core to the emerging concept of knowledge grids including provenance tracking and</abstract>
+	</publication>
+	<publication>
+		<title>An applet-based anonymous distributed computing system</title>
+		<year>2001</year>
+		<authors>david finkel,craig e. wills,michael j. ciaraldi,kevin amorin,adam covati</authors>
+		<jconf>Internet Research</jconf>
+		<label>698</label>
+		<keyword>Distributed Computing System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

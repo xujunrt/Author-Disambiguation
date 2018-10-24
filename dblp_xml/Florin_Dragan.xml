@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Florin Dragan</FullName>
+	<publication>
+		<title>Malicious Node Detection in Wireless Sensor Networks Using an Autoregression Technique</title>
+		<year>2007</year>
+		<authors>daniel-ioan curiac,ovidiu banias,constantin volosencu,octavian dranga</authors>
+		<jconf>International Conference on Networking and Services</jconf>
+		<label>241</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>nRobotic: A platform for managing robots with different capabilities</title>
+		<year>2009</year>
+		<authors>daniel t. iercan,emil voisan,lucian fedorovici</authors>
+		<jconf>Applied Computational Intelligence and Informatics</jconf>
+		<label>241</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Chaos-Based Cryptography: End of the Road?</title>
+		<year>2007</year>
+		<authors>daniel-ioan curiac,daniel t. iercan,octavian dranga,ovidiu banias</authors>
+		<jconf>International Conference on Emerging Security Information, Systems and Technologies</jconf>
+		<label>241</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

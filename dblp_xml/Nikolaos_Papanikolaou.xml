@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nikolaos Papanikolaou</FullName>
+	<publication>
+		<title>Radio coverage measurements into tunnel with leaky section radiating cable</title>
+		<year>2004</year>
+		<authors>a. spanakis,d. apostolakis,philip constantinou</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>781</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-ionizing electromagnetic radiation monitoring in Greece</title>
+		<year>2008</year>
+		<authors>antonis g. gotsis,dimitris komnakos,agamemnon yalofas,philip constantinou</authors>
+		<jconf>Annales Des T��l��communications</jconf>
+		<label>781</label>
+		<keyword>Electric Field;Electromagnetic Radiation;European Commission;</keyword>
+		<organization>null</organization>
+		<abstract>The design, development and operation of a network for the monitoring of the non- ionizing electromagnetic radiation in Greece is presented in this paper. Two independent sub-networks, called &quot;Hermes&quot; and &quot;pedion24&quot; have been operating since November 2002 in several areas, and more than 4,000,000 electric field strength measurements have been conducted to date. The measurement results indicate that the non-ionizing</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christoph Sprenger</FullName>
+	<publication>
+		<title>Rule-based crowds: generation, animation, cloth and rendering of 15.000 unique human characters</title>
+		<year>2003</year>
+		<authors>stephan trojansky,florian hu,kolja kähler,stephan stapel</authors>
+		<jconf>Annual Conference on Computer Graphics</jconf>
+		<label>154</label>
+		<keyword>Character Animation;Crowd Simulation;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>Scanline is currently developing the proprietary crowd-simulation tool &quot;Sheep&quot;. It is designed to generate mass scenes with 15.000 different characters, animate them by an unlimited amount of rules, supply presimulated cloth and render a whole shot in a single layer taking less than 45 minutes. This will disclose completely new dimensions for the realization of Visual Effects with mass sequences.</abstract>
+	</publication>
+</person>

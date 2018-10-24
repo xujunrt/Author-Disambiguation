@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Vincent Vidal</FullName>
+	<publication>
+		<title>Simple Empty-Space Removal for Interactive Volume Rendering</title>
+		<year>2008</year>
+		<authors>xing mei,philippe decaudin</authors>
+		<jconf></jconf>
+		<label>1036</label>
+		<keyword>Cost Function;Graphics Hardware;Interactive Rendering;Interactive Volume Rendering;kd tree;Ray Casting;Volume Data;</keyword>
+		<organization>null</organization>
+		<abstract>Interactive volume rendering methods such as texture-based slicing techniques and ray-casting have been well developed in recent years. The rendering performance is generally restricted by the volume size, the fill-rate and the tex- ture fetch speed of the graphics hardware. For most 3D data sets, a fraction of the volume is empty, which will reduce the rendering performance without specific</abstract>
+	</publication>
+</person>

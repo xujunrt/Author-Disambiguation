@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jung-Ho Ahn</FullName>
+	<publication>
+		<title>Identification of Humans Using Robust Biometric Features</title>
+		<year>2004</year>
+		<authors>byungjun son,ji-hyun park,yillbyung lee</authors>
+		<jconf>International Workshop on Structural and Syntactic Pattern Recognition</jconf>
+		<label>469</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

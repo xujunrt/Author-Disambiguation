@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wolfgang K&amp;ouml;hler</FullName>
+	<publication>
+		<title>Web-basiertes GIS als Informationssystem interdisziplinerer Forschungsprojekte</title>
+		<year>2004</year>
+		<authors>claus mückschel,gabriel a. schachtel,jens nieschulze</authors>
+		<jconf>GIL Jahrestagung</jconf>
+		<label>1093</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Central Data Management in Environmental Research Projects - Selected Problems and Solutions</title>
+		<year>2008</year>
+		<authors>claus mückschel,cornelia weist</authors>
+		<jconf>GIL Jahrestagung</jconf>
+		<label>1093</label>
+		<keyword>Data Management;Project Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

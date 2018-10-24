@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Hess</FullName>
+	<publication>
+		<title>Multiparameter regularization method for atmospheric remote sensing</title>
+		<year>2005</year>
+		<authors>adrian doicu,franz schreier,siegfried hilgers</authors>
+		<jconf>Computer Physics Communications</jconf>
+		<label>684</label>
+		<keyword>Atmospheric Remote Sensing;Regularization Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An iterative regularization method with B-spline approximation for atmospheric temperature and concentration retrievals</title>
+		<year>2005</year>
+		<authors>adrian doicu,franz schreier</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>684</label>
+		<keyword>Regularization Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Error analysis and minimum bound method for atmospheric remote sensing</title>
+		<year>2007</year>
+		<authors>adrian doicu,franz schreier,siegfried hilgers</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>684</label>
+		<keyword>Atmospheric Remote Sensing;Error Analysis;Exact Solution;Inverse Problem;Nonlinear Least Squares;Numerical Simulation;Remote Sensing;tikhonov regularization;</keyword>
+		<organization>null</organization>
+		<abstract>In this study, we present an error analysis for Tikhonov regularization in a semi-stochastic setting. The analysis is carried out in such a way that it can be applied to any kind of inverse problem in atmospheric remote sensing. A method for selecting the optimal regularization parameter relying on the minimization of an estimator of the bound of the error</abstract>
+	</publication>
+</person>

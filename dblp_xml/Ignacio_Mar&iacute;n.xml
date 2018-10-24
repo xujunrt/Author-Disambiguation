@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ignacio Mar&amp;iacute;n</FullName>
+	<publication>
+		<title>Real-time Infrared Imaging System for the Steel Industry</title>
+		<year>2001</year>
+		<authors>daniel f. garcía,rubén usamentiaga,juan a. gonzález,faustino obeso</authors>
+		<jconf>IASTED International Conference on Visualization, Imaging and Image Processing</jconf>
+		<label>320</label>
+		<keyword>Infrared Imaging;Steel Industry;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Shape Inspection System for Variable-Luminance Steel Plates with Real-Time Adaptation Capabilities to Luminance Variations</title>
+		<year>2002</year>
+		<authors>daniel f. garcía,rubén usamentiaga,juan a. gonzález,nicolás de abajo</authors>
+		<jconf>Real-time Imaging</jconf>
+		<label>320</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

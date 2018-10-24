@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianchao Zeng</FullName>
+	<publication>
+		<title>Performance Assessment of Mammography Image Segmentation Algorithms</title>
+		<year>2005</year>
+		<authors>kenneth byrd,mohamed f. chouikha</authors>
+		<jconf>Applied Imagery Pattern Recognition Workshop</jconf>
+		<label>374</label>
+		<keyword>Image Segmentation;Performance Assessment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online Handwritten Circuit Recognition on a Tablet PC</title>
+		<year>2004</year>
+		<authors>o'tega ejofodomi,shani ross,ahmed jendoubi,mohamed f. chouikha</authors>
+		<jconf>Applied Imagery Pattern Recognition Workshop</jconf>
+		<label>374</label>
+		<keyword>Tablet Pc;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Top-Down Approach to Segmentation of Prostate Boundaries in Ultrasound Images</title>
+		<year>2004</year>
+		<authors>ahmed jendoubi,mohamed f. chouikha</authors>
+		<jconf>Applied Imagery Pattern Recognition Workshop</jconf>
+		<label>374</label>
+		<keyword>Ultrasound Imaging;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mammography Database and View System for the African American Patients</title>
+		<year>2004</year>
+		<authors>shani ross,o'tega ejofodomi,ahmed jendoubi,mohamed f. chouikha,shih-chung ben lo,p. paul wang</authors>
+		<jconf>Applied Imagery Pattern Recognition Workshop</jconf>
+		<label>374</label>
+		<keyword>African American;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Study of Seismic Inverse Methods for Radar Signal Processing</title>
+		<year>2005</year>
+		<authors>aya sayedelahl,r. phillip bording,mohamed f. chouikha</authors>
+		<jconf>Applied Imagery Pattern Recognition Workshop</jconf>
+		<label>374</label>
+		<keyword>Inverse Method;Radar Signal Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Development and evaluation of optimal prostate biopsy protocols for individual groups of patients</title>
+		<year>2004</year>
+		<authors>ariela sofer,wei zhang,leon sun,isabell a. sesterhenn,judd w. moul,seong k. mun,mohamed f. chouikha</authors>
+		<jconf>Computer Assisted Radiology and Surgery</jconf>
+		<label>374</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Statistically Optimized Biopsy Strategy for the Diagnosis of Prostate Cancer</title>
+		<year>2001</year>
+		<authors>dinggang shen,zhiqiang lao,edward herskovits,gabor fichtinger,christos davatzikos</authors>
+		<jconf>IEEE Symposium on Computer-Based Medical Systems</jconf>
+		<label>375</label>
+		<keyword>Deformable Model;Deformable Registration;Probabilistic Method;Prostate Cancer;Spatial Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a method for optimizing prostate needle biopsy, by creating a statistical atlas of the spatial distribution of prostate cancer from a large patient cohort. In order to remove inter-individual morphological variability and to determine the true variability in the spatial distribution of cancer within the prostate, an adaptive-focu s deformable model (AFDM) is first used to register</abstract>
+	</publication>
+	<publication>
+		<title>A Statistical Atlas of Prostate Cancer for Optimal Biopsy</title>
+		<year>2001</year>
+		<authors>dinggang shen,zhiqiang lao,edward herskovits,gabor fichtinger,christos davatzikos</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>375</label>
+		<keyword>Deformable Model;Design Optimization;Detection Probability;Probabilistic Method;Prostate Cancer;Spatial Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a methodology of creating a statistical atlas of spatial distribution of prostate cancer from a large patient cohort, and uses it for designing optimal needle biopsy strategies. In order to remove inter-individual morphological variability and determine the true variability in cancer position, an adaptive-focus deformable model (AFDM) is used to register and normalize prostate samples. Moreover, a</abstract>
+	</publication>
+	<publication>
+		<title>Optimization in Prostate Cancer Detection</title>
+		<year>2001</year>
+		<authors>ariela sofer,seong k. mun</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>374</label>
+		<keyword>Prostate Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distribution of Prostrate Cancer for Optimized Biopsy Protocols</title>
+		<year>2000</year>
+		<authors>john j. bauer,ariela sofer,xiaohu yao,brett opell,wei zhang,isabell a. sesterhenn,judd w. moul,john lynch,seong k. mun</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>374</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualization and Evaluation of Prostrate Needle Biopsy</title>
+		<year>1998</year>
+		<authors>charles kaplan,john j. bauer,isabell a. sesterhenn,judd w. moul,seong k. mun</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>374</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Development of a New Image-Guided Prostate Biopsy System</title>
+		<year>2001</year>
+		<authors>ariela sofer,seong k. mun</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>374</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Biopsy Protocols for Prostate Cancer</title>
+		<year>2003</year>
+		<authors>ariela sofer,seong k. mun</authors>
+		<jconf>Annals of Operations Research</jconf>
+		<label>374</label>
+		<keyword>American Cancer Society;Early Detection;Prostate Cancer;Skin Cancer;Ultrasound;United States;Digital Rectal Examination;False Negative;Lung Cancer;Low Resolution;Public Health;</keyword>
+		<organization>null</organization>
+		<abstract>Prostate cancer is the second leading cause of cancer-related death among American men. Biopsy for prostate cancer is a procedure known as transrectal ultrasound-guided needle biopsy. Because of the low resolution of ultrasound, the urologist cannot usually distin- guish between cancerous and healthy tissue. For this reason, most biopsies follow standard protocols based on long-term experience of physicians. Recent studies</abstract>
+	</publication>
+	<publication>
+		<title>Modeling and mapping of prostate cancer</title>
+		<year>2000</year>
+		<authors>john j. bauer,seong k. mun</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>374</label>
+		<keyword>Prostate Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mammography Database and View System for African-American Patients</title>
+		<year>2008</year>
+		<authors>shani ross,o’tega ejofodomi,ahmed jendoubi,lisa kinnard,mohamed chouika,shih-chung ben lo,paul wang</authors>
+		<jconf>Journal of Digital Imaging</jconf>
+		<label>374</label>
+		<keyword>African American;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Targeted Prostate Biopsy Using Statistical Image Analysis</title>
+		<year>2007</year>
+		<authors>yiqiang zhan,dinggang shen,leon sun,gabor fichtinger,judd w. moul,christos davatzikos</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>374</label>
+		<keyword>Clinical Study;Cross Validation;Image Analysis;Indexing Terms;Optimization Technique;Prostate Cancer;Radical Prostatectomy;Space Use;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a method for maximizing the proba- bility of prostate cancer detection via biopsy is presented, by com- bining image analysis and optimization techniques. This method consists of three major steps. First, a statistical atlas of the spa- tial distribution of prostate cancer is constructed from histological images obtained from radical prostatectomy specimen. Second, a probabilistic optimization framework</abstract>
+	</publication>
+</person>

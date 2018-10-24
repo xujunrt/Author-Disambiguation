@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matthias Bender</FullName>
+	<publication>
+		<title>Robust solutions for vehicle routing problems via evolutionary multiobjective optimization</title>
+		<year>2009</year>
+		<authors>robert scheffermann,andreas cardeneo</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>670</label>
+		<keyword>evolutionary multiobjective optimization;Vehicle Routing Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Santanu Sarkar</FullName>
+	<publication>
+		<title>An 8bit 1.8 V 500 MS/s CMOS DAC with a novel four-stage current steering architecture</title>
+		<year>2008</year>
+		<authors>ravi sankar prasad,sanjoy kumar dey,vinay belde,swapna banerjee</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>918</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

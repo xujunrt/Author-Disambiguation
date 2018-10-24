@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaoli Liu</FullName>
+	<publication>
+		<title>Presentation of Programming Domain Knowledge with Ontology</title>
+		<year>2005</year>
+		<authors>xiang su,guojin zhu,wenqin yuan</authors>
+		<jconf>Semantics, Knowledge and Grid</jconf>
+		<label>1114</label>
+		<keyword>Domain Knowledge;Domain Ontology;</keyword>
+		<organization>null</organization>
+		<abstract>For students in computer science, knowledge of programming domain needs to be organized and shared efficiently. In this paper, we propose a method to present programming domain knowledge with ontology. We develop the programming knowledge domain ontology analogous to a dictionary. Therefore, the programming domain knowledge becomes machine-understandable and thus can be shared and reused among different implementations.</abstract>
+	</publication>
+</person>

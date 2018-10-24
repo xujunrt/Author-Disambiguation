@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Salvatore Orlando</FullName>
+	<publication>
+		<title>Failure classification and analysis of the Java Virtual Machine</title>
+		<year>2006</year>
+		<authors>domenico cotroneo,stefano russo</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>913</label>
+		<keyword>Active Fault;Error Detection;Java Virtual Machine;Operating System;Garbage Collector;Just In Time;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This paper presents a failure analy- sis of the Java Virtual Machine in order to pro- vide useful insigths into the nature of reported failures and to improve the understanding of de- pendability aspects of the Java Virtual Machine. Failure data are extracted, in the form of reports, from publicly available bug databases, where de- velopers and users of Java</abstract>
+	</publication>
+	<publication>
+		<title>Java Virtual Machine Monitoring for Dependability Benchmarking</title>
+		<year>2006</year>
+		<authors>stefano russo</authors>
+		<jconf>Object-Oriented Real-Time Distributed Computing</jconf>
+		<label>913</label>
+		<keyword>Java Virtual Machine;Virtual Machine;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>A monitoring infrastructure is a key component in each task aimed at evaluating the dependability of a system. This paper presents a monitoring infrastructure for the Java Virtual Machine (JVM), which is starting to be employed in mission and safety critical application, often with real-time requirements. This infrastructure, named JVMMon, collects data about both the state and the failures of</abstract>
+	</publication>
+	<publication>
+		<title>Characterizing Aging Phenomena of the Java Virtual Machine</title>
+		<year>2007</year>
+		<authors>domenico cotroneo,stefano russo</authors>
+		<jconf>Symposium on Reliable Distributed Systems</jconf>
+		<label>913</label>
+		<keyword>Java Virtual Machine;Just In Time Compiler;Statistical Method;Garbage Collector;</keyword>
+		<organization>null</organization>
+		<abstract>n this work we investigate software aging phenomena inside the Java Virtual Machine (JVM). Starting from an experimental campaign on real world testbeds, this work isolates the contribution of the JVM to the overall aging trend, and identifies, through statistical methods, which workload parameters are more relevant to aging dynamics. Experimental results show that the Sun Hotpost JVM experiences software</abstract>
+	</publication>
+</person>

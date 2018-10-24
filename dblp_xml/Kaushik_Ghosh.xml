@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kaushik Ghosh</FullName>
+	<publication>
+		<title>An Alternative Approach to Find the Fermat Point of a Polygonal Geographic Region for Energy Efficient Geocast Routing Protocols: Global Minima Scheme</title>
+		<year>2009</year>
+		<authors>sarbani roy,pradip k. das</authors>
+		<jconf>IEEE Network</jconf>
+		<label>484</label>
+		<keyword>Energy Efficient;Routing Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>I-Min: An Intelligent Fermat Point Based Energy Efficient Geographic Packet Forwarding Technique for Wireless Sensor and Ad Hoc Networks</title>
+		<year>2010</year>
+		<authors>sarbani roy,pradip k. das</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>484</label>
+		<keyword>Ad Hoc Network;Energy Consumption;Energy Efficient;Geographic Routing;Packet Forwarding;Sensor Network;Wireless Sensor;</keyword>
+		<organization>null</organization>
+		<abstract>Energy consumption and delay incurred in packet delivery are the two important metrics for measuring the performance of geographic routing protocols for Wireless Adhoc and Sensor Networks (WASN). A protocol capable of ensuring both lesser energy consumption and experiencing lesser delay in packet delivery is thus suitable for networks which are delay sensitive and energy hungry at the same time.</abstract>
+	</publication>
+</person>

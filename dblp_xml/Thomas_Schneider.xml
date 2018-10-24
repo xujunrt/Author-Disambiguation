@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Schneider</FullName>
+	<publication>
+		<title>Safe and Economic ReUse of Ontologies: A Logic-Based Methodology and Tool Support</title>
+		<year>2008</year>
+		<authors>ernesto jiménez-ruiz,bernardo cuenca grau,ulrike sattler,rafael berlanga llavori</authors>
+		<jconf>Description Logics</jconf>
+		<label>1020</label>
+		<keyword>Ontology Design;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>Driven by application requirements and using well-understood theoretical results, we describe a novel methodology and a tool for mod- ular ontology design. We support the user in the safe use of imported symbols and in the economic import of the relevant part of the imported ontology. Both features are supported in a well-understood way: safety guarantees that the semantics of</abstract>
+	</publication>
+	<publication>
+		<title>Which Kind of Module Should I Extract?</title>
+		<year>2009</year>
+		<authors>ulrike sattler,michael zakharyaschev</authors>
+		<jconf>Description Logics</jconf>
+		<label>1020</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>There are various techniques for specifying a module of an on- tology that covers all knowledge about a given set of terms. These dier with respect to the size of the module, the complexity of its computa- tion, and certain robustness properties. In this paper, we survey existing logic-based approaches, focus on syntactic approximations, and compare dierent kinds of modules</abstract>
+	</publication>
+	<publication>
+		<title>Safe and Economic ReUse of Ontologies: A Logic-Based Methodology and Tool Support</title>
+		<year>2008</year>
+		<authors>ernesto jiménez-ruiz,bernardo cuenca grau,ulrike sattler,rafael berlanga llavori</authors>
+		<jconf>Description Logics</jconf>
+		<label>1020</label>
+		<keyword>Ontology Design;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>Driven by application requirements and using well-understood theoretical results, we describe a novel methodology and a tool for mod- ular ontology design. We support the user in the safe use of imported symbols and in the economic import of the relevant part of the imported ontology. Both features are supported in a well-understood way: safety guarantees that the semantics of</abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Generalized Satisfiability for Linear Temporal Logic</title>
+		<year>2006</year>
+		<authors>michael bauland,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimal Module Extraction from DL-Lite Ontologies Using QBF Solvers</title>
+		<year>2009</year>
+		<authors>roman kontchakov,luca pulina,ulrike sattler,petra selmer,frank wolter,michael zakharyaschev</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1020</label>
+		<keyword>Large Scale;</keyword>
+		<organization>null</organization>
+		<abstract>We present a formal framework for (minimal) mod- ule extraction based on an abstract notion of in- separability w.r.t. a signature between ontologies. Two instances of this framework are discussed in detail for DL-Lite ontologies: concept inseparabil- ity, when ontologies imply the same complex con- cept inclusions over the signature, and query in- separability, when they give the same answers</abstract>
+	</publication>
+	<publication>
+		<title>The Modular Structure of an Ontology: An Empirical Study</title>
+		<year>2010</year>
+		<authors>bijan parsia,ulrike sattler</authors>
+		<jconf>Principles of Knowledge Representation and Reasoning</jconf>
+		<label>1020</label>
+		<keyword>Empirical Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Satisfiability for Fragments of Hybrid Logic-Part I</title>
+		<year>2009</year>
+		<authors>arne meier,martin mundhenk,michael thomas,volker weber,felix weiss</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1020</label>
+		<keyword>Hybrid Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Easy Keys for OWL</title>
+		<year>2008</year>
+		<authors>bijan parsia,ulrike sattler</authors>
+		<jconf>Workshop on OWL: Experiences and Directions</jconf>
+		<label>1020</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mechanisms for Importing Modules</title>
+		<year>2008</year>
+		<authors>bijan parsia,ulrike sattler</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>1020</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>The current OWL2 specification provides mechanisms for im- porting whole ontologies. This paper discusses the import of only a mod- ule of an external ontology, which is specified by a set of terms (classes and properties) and defined in such a way that it contains &quot;all knowledge&quot; of the external ontology about these terms. We discuss possible design choices for</abstract>
+	</publication>
+	<publication>
+		<title>Model Checking CTL is Almost Always Inherently Sequential</title>
+		<year>2009</year>
+		<authors>olaf beyersdorff,arne meier,michael thomas,heribert vollmer,martin mundhenk</authors>
+		<jconf>Workshops</jconf>
+		<label>1020</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>The model checking problem for CTL is known to be P-complete (Clarke, Emerson, and Sistla (1986), see Schnoebelen (2002)). We consider fragments of CTL obtained by restricting the use of temporal modalities or the use of negations—restrictions already studied for LTL by Sistla and Clarke (1985) and Markey (2004). For all these fragments, except for the trivial case without any</abstract>
+	</publication>
+	<publication>
+		<title>The Tractability of Model-Checking for LTL: The Good, the Bad, and the Ugly Fragments</title>
+		<year>2008</year>
+		<authors>michael bauland,martin mundhenk,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>In a seminal paper from 1985, Sistla and Clarke showed that the model-checking problem for Linear Temporal Logic (LTL) is either NP-complete or PSPACE-complete, depending on the set of temporal operators used. If, in contrast, the set of propositional operators is restricted, the complexity may decrease. This paper systematically studies the model-checking problem for LTL formulae over restricted sets of</abstract>
+	</publication>
+	<publication>
+		<title>Complexity of Hybrid Logics over Transitive Frames</title>
+		<year>2008</year>
+		<authors>martin mundhenk,thomas schwentick,volker weber</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1020</label>
+		<keyword>Hybrid Logic;Satisfiability;Upper Bound;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>This paper examines the complexity of hybrid logics over transitive frames and transitive trees. We show that satisfiability over transitive frames for the hybrid language extended with # is NEXP- complete. This is in contrast to undecidability of satisfiability over ar- bitrary frames for this language (2). We also show that adding @ or the past modality leads to undecidability</abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Generalized Satisfiability for Linear Temporal Logic</title>
+		<year>2006</year>
+		<authors>michael bauland,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Satisfiability for Fragments of Hybrid Logic-Part I</title>
+		<year>2009</year>
+		<authors>arne meier,martin mundhenk,michael thomas,volker weber,felix weiss</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1020</label>
+		<keyword>Hybrid Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Satisfiability for Sub-Boolean Fragments of ALC</title>
+		<year>2010</year>
+		<authors>arne meier</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1020</label>
+		<keyword>Boolean Operation;Description Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>The standard reasoning problem, concept satisfiability, in the basic description logic ALC is PSPACE-complete, and it is EXPTIME-complete in the presence of unrestricted axioms. Several fragments of ALC, notably logics in the FL, EL, and DL-Lite family, have an easier satisfiability problem; sometimes it is even tractable. All these fragments restrict the use of Boolean operators in one way or</abstract>
+	</publication>
+	<publication>
+		<title>The Tractability of Model-Checking for LTL: The Good, the Bad, and the Ugly Fragments</title>
+		<year>2008</year>
+		<authors>michael bauland,martin mundhenk,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>In a seminal paper from 1985, Sistla and Clarke showed that the model-checking problem for Linear Temporal Logic (LTL) is either NP-complete or PSPACE-complete, depending on the set of temporal operators used. If, in contrast, the set of propositional operators is restricted, the complexity may decrease. This paper systematically studies the model-checking problem for LTL formulae over restricted sets of</abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Generalized Satisfiability for Linear Temporal Logic</title>
+		<year>2006</year>
+		<authors>michael bauland,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Tractability of Model-checking for LTL: The Good, the Bad, and the Ugly Fragments</title>
+		<year>2009</year>
+		<authors>michael bauland,martin mundhenk,henning schnoor,ilka schnoor,heribert vollmer</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>1020</label>
+		<keyword>Linear Temporal Logic;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. In a seminal paper from 1985, Sistla and Clarke showed that the model-checking problem for Linear Temporal Logic (LTL) is either NP-complete or PSPACE-complete, depending on the set of temporal operators used. If, in contrast, the set of propositional operators is restricted, the complexity may,decrease. This paper systematically studies the model-checking problem for LTL formulae over restricted sets of</abstract>
+	</publication>
+	<publication>
+		<title>Undecidability of Multi-modal Hybrid Logics</title>
+		<year>2007</year>
+		<authors>martin mundhenk</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>1020</label>
+		<keyword>Computational Complexity;Hybrid Logic;Modal Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>This paper establishes undecidability of satisfiability for multi-modal logic equipped with the hybrid binder ↓, with respect to frame classes over which the same language with only one modality is decidable. This is in contrast to the usual behaviour of many modal and hybrid logics, whose uni-modal and multi-modal versions do not differ in terms of decidability and, quite often,</abstract>
+	</publication>
+	<publication>
+		<title>The Complexity of Hybrid Logics over Equivalence Relations</title>
+		<year>2009</year>
+		<authors>martin mundhenk</authors>
+		<jconf>Journal of Logic, Language and Information</jconf>
+		<label>1020</label>
+		<keyword>Computational Complexity;Equivalence Relation;Hybrid Logic;Model Checking;Polynomial Time;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>This paper examines and classifies the computational complexity of model checking and satisfiability for hybrid logics over frames with equivalence relations. The considered languages contain all possible combinations of the downarrow binder, the existential binder, the satisfaction operator, and the global modality, ranging from the minimal hybrid language to very expressive languages. In the model-checking case, we separate polynomial-time solvable</abstract>
+	</publication>
+	<publication>
+		<title>Practical Secure Evaluation of Semi-private Functions</title>
+		<year>2009</year>
+		<authors>annika paus,ahmad-reza sadeghi</authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>1021</label>
+		<keyword>Security Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Secure Two-Party Computation Is Practical</title>
+		<year>2009</year>
+		<authors>benny pinkas,nigel p. smart,stephen c. williams</authors>
+		<jconf>ASIACRYPT</jconf>
+		<label>1021</label>
+		<keyword>Experimental Data;Secure Multi Party Computation;Secure Two-party Computation;</keyword>
+		<organization>null</organization>
+		<abstract>Secure multi-party computation has been considered by the cryptographic community for a num- ber of years. Until recently it has been a purely theoretical area, with few implementations with which to test various ideas. This has led to a number of optimisations being proposed which are quite restricted in their application. In this paper we describe an implementation of the</abstract>
+	</publication>
+	<publication>
+		<title>Improved Garbled Circuit Building Blocks and Applications to Auctions and Computing Minima</title>
+		<year>2009</year>
+		<authors>vladimir kolesnikov,ahmad-reza sadeghi</authors>
+		<jconf>Cryptology and Network Security</jconf>
+		<label>1021</label>
+		<keyword>Building Block;Perforation;Secure Computation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. We consider generic Garbled Circuit (GC)-based techniques for Secure Function Eval- uation (SFE) in the semi-honest model. We describe ecient,GC constructions for addition, subtraction, multiplication, and comparison functions. Our circuits for subtraction and comparison are approximately two times smaller (in terms of garbled tables) than previous constructions. This implies corresponding computation and communication improvements in SFE of functions using</abstract>
+	</publication>
+	<publication>
+		<title>Garbled Circuits for Leakage-Resilience: Hardware Implementation and Evaluation of One-Time Programs - (Full Version)</title>
+		<year>2010</year>
+		<authors>kimmo järvinen,vladimir kolesnikov,ahmad-reza sadeghi</authors>
+		<jconf>Cryptographic Hardware and Embedded Systems</jconf>
+		<label>1021</label>
+		<keyword>Hardware Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Certifying Compiler for Zero-Knowledge Proofs of Knowledge Based on Sigma-Protocols</title>
+		<year>2010</year>
+		<authors>josé bacelar almeida,endre bangerter,manuel barbosa,stephan krenn,ahmad-reza sadeghi</authors>
+		<jconf>European Symposium on Research in Computer Security</jconf>
+		<label>1021</label>
+		<keyword>Building Block;formal verication;Knowledge Base;Privacy Preservation;Theorem Prover;Zero Knowledge;Zero Knowledge Proof;</keyword>
+		<organization>null</organization>
+		<abstract>Zero-knowledge proofs of knowledge (ZK-PoK) are impor- tant building blocks for numerous cryptographic applications. Although ZK-PoK have very useful properties, their real world deployment is typ- ically hindered by their signicant complexity compared to other (non- interactive) crypto primitives. Moreover, their design and implementa- tion is time-consuming and error-prone. We contribute to overcoming these challenges as follows: We present a</abstract>
+	</publication>
+	<publication>
+		<title>Secure Evaluation of Private Linear Branching Programs with Medical Applications</title>
+		<year>2009</year>
+		<authors>mauro barni,pierluigi failla,vladimir kolesnikov,riccardo lazzeretti,ahmad-reza sadeghi</authors>
+		<jconf>European Symposium on Research in Computer Security</jconf>
+		<label>1021</label>
+		<keyword>Branching Program;Classification Algorithm;Data Analysis;Electrocardiogram;Health Care;Medical Application;Partial Information;Privacy Preservation;Privacy Protection;Security Evaluation;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Diagnostic and classification algorithms play an important role in data analysis, with ap- plications in areas such as health care, fault diagnostics, or benchmarking. Branching programs (BP) is a popular representation model for describing the underlying classification/diagnostics algorithms. Typical application scenarios involve a client who,provides data and a service provider (server) whose diagnostic program is run on client’s data.</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Generation of Sigma-Protocols</title>
+		<year>2009</year>
+		<authors>endre bangerter,thomas briner,wilko henecka,stephan krenn,ahmad-reza sadeghi</authors>
+		<jconf>European Public Key Infrastructure Workshop</jconf>
+		<label>1021</label>
+		<keyword>Automatic Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Embedded SFE: Offloading Server and Network Using Hardware Tokens</title>
+		<year>2010</year>
+		<authors>kimmo järvinen,vladimir kolesnikov,ahmad-reza sadeghi</authors>
+		<jconf>Financial Cryptography</jconf>
+		<label>1021</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Practical Universal Circuit Construction and Secure Evaluation of Private Functions</title>
+		<year>2008</year>
+		<authors>vladimir kolesnikov</authors>
+		<jconf>Financial Cryptography</jconf>
+		<label>1021</label>
+		<keyword>Performance Improvement;Secure Function Evaluation;Security Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>We consider general secure function evaluation (SFE) of pri- vate functions (PF-SFE). Recall, privacy of functions is often most e- ciently achieved by general SFE (17,18,9) of a Universal Circuit (UC). Our main contribution is a new simple and ecient UC construction. Our circuit UCk, universal for circuits of k gates, has size 1.5k log2 k and depth k logk.</abstract>
+	</publication>
+	<publication>
+		<title>Improved Garbled Circuit: Free XOR Gates and Applications</title>
+		<year>2008</year>
+		<authors>vladimir kolesnikov</authors>
+		<jconf>International Congress of Mathematicans</jconf>
+		<label>1021</label>
+		<keyword>Random Oracle;Secure Function Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new garbled circuit construction for two-party secure function evaluation (SFE). In our one-round protocol, XOR gates are evaluated \for free&quot;, which results in the corresponding improvement over the best garbled circuit implementations (e.g. Fairplay (19)). We build permutation networks (26) and Universal Circuits (UC) (25) almost exclusively of XOR gates; this results in a factor of up</abstract>
+	</publication>
+	<publication>
+		<title>Generalized Universal Circuits for Secure Evaluation of Private Functions with Application to Data Classification</title>
+		<year>2008</year>
+		<authors>ahmad-reza sadeghi</authors>
+		<jconf>Information Security and Cryptology</jconf>
+		<label>1021</label>
+		<keyword>Data Classification;Intellectual Property;Oblivious Transfer;Online Community;Provable Security;Secure Function Evaluation;Security Evaluation;Trusted Third Party;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Secure Evaluation of Private Functions (PF-SFE) allows two parties to compute a private function which is known by one party only on private data of both. It is known that PF-SFE can be reduced to Secure Function Evaluation (SFE) of a Universal Circuit (UC). Previous UC constructions only simulated circuits with gates of d = 2 inputs while gates with</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Privacy-Preserving Face Recognition</title>
+		<year>2009</year>
+		<authors>ahmad-reza sadeghi,immo wehrenberg</authors>
+		<jconf>Information Security and Cryptology</jconf>
+		<label>1021</label>
+		<keyword>Face Recognition;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Practical Secure Function Evaluation</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Informatiktage</jconf>
+		<label>1021</label>
+		<keyword>Secure Function Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Token-Based Cloud Computing</title>
+		<year>2010</year>
+		<authors>ahmad-reza sadeghi,marcel winandy</authors>
+		<jconf>Trusted Computing - Challenges and Applications</jconf>
+		<label>1021</label>
+		<keyword>Cloud Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yan Liu</FullName>
+	<publication>
+		<title>Learning Spatial-Temporal Varying Graphs with Applications to Climate Data Analysis</title>
+		<year>2010</year>
+		<authors>xi chen,han liu,jaime g. carbonell</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1135</label>
+		<keyword>Climate Change;Data Analysis;Dependence Structure;Structure Learning;Synthetic Data;Temporal Data;</keyword>
+		<organization>null</organization>
+		<abstract>An important challenge in understanding climate change is to uncover the dependency relationships be- tween various climate observations and forcing factors. Graphical lasso, a recently proposed '1 penalty based structure learning algorithm, has been proven success- ful for learning underlying dependency structures for the data drawn from a multivariate Gaussian distribu- tion. However, climatological data often turn out to be</abstract>
+	</publication>
+	<publication>
+		<title>Graph-based transfer learning</title>
+		<year>2009</year>
+		<authors>jingrui he,richard d. lawrence</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1135</label>
+		<keyword>Image Classification;Iterative Algorithm;Large Scale;Network Intrusion Detection;Transfer Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Transfer learning is the task of leveraging the information from labeled examples in some domains to predict the labels for examples in another domain. It finds abundant practical applications, such as sentiment prediction, image classification and network intrusion detection. In this paper, we propose a graph-based transfer learning framework. It propagates the label information from the source domain to the</abstract>
+	</publication>
+	<publication>
+		<title>Boosting to Correct the Inductive Bias for Text Classification</title>
+		<year>2002</year>
+		<authors>yiming yang,jaime g. carbonell</authors>
+		<jconf></jconf>
+		<label>1135</label>
+		<keyword>Machine Learning;Naive Bayes;Performance Improvement;Support Vector Machine;Text Categorization;Text Classification;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>This paper studies the effects of boosting in the context of different classification methods for text categorization, including Decision Trees, Naive Bayes, Support Vector Machines (SVMs) and a Rocchio-style classifier. We identify the inductive biases of each classifier and explore how boosting, as an error-driven resampling mechanism, reacts to those biases. Our experiments on the Reuters-21578 benchmark show that boosting</abstract>
+	</publication>
+	<publication>
+		<title>A New Pairwise Ensemble Approach for Text Classification</title>
+		<year>2003</year>
+		<authors>jaime g. carbonell,rong jin</authors>
+		<jconf></jconf>
+		<label>1135</label>
+		<keyword>Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graph-Based Rare Category Detection</title>
+		<year>2008</year>
+		<authors>jingrui he,richard d. lawrence</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1135</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Who is the expert? Analyzing gaze data to predict expertise level in collaborative applications</title>
+		<year>2009</year>
+		<authors>pei-yun hsueh,jennifer lai,mirweis sangin,marc-antoine nüssli,pierre dillenbourg</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1135</label>
+		<keyword>Collaborative Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Undirected Graphical Models for Video Analysis and Classification</title>
+		<year>2007</year>
+		<authors>jun yang,alexander g. hauptmann</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1135</label>
+		<keyword>Graphical Model;Video Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Kernel conditional random fields: representation and clique selection</title>
+		<year>2004</year>
+		<authors>john d. lafferty,xiaojin zhu</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1135</label>
+		<keyword>Conditional Random Field;Discriminative Model;Feature Space;Graphical Model;Protein Secondary Structure Prediction;Representation Theorem;Risk Minimization;Semi Supervised Learning;Sparse Representation;Structured Data;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Kernel conditional random fields (KCRFs) are introduced as a framework for discriminative modeling of graph-structured data. A representer theorem for conditional graphical models is given which shows how kernel conditional random fields arise from risk minimization procedures defined using Mercer kernels on labeled graphs. A procedure for greedily selecting cliques in the dual representation is then proposed, which allows sparse</abstract>
+	</publication>
+	<publication>
+		<title>Topic-link LDA: joint models of topic and author community</title>
+		<year>2009</year>
+		<authors>alexandru niculescu-mizil,wojciech gryc</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1135</label>
+		<keyword>Large Scale;Research Paper;</keyword>
+		<organization>null</organization>
+		<abstract>Given a large-scale linked document collec- tion, such as a collection of blog posts or a research literature archive, there are two fun- damental problems that have generated a lot of interest in the research community. One is to identify a set of high-level topics cov- ered by the documents in the collection; the other is to uncover and analyze</abstract>
+	</publication>
+	<publication>
+		<title>Learning Temporal Causal Graphs for Relational Time-Series Analysis</title>
+		<year>2010</year>
+		<authors>alexandru niculescu-mizil,aurelie c. lozano,yong lu</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1135</label>
+		<keyword>Time Series Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicting protein folds with structural repeats using a chain graph model</title>
+		<year>2005</year>
+		<authors>eric p. xing,jaime g. carbonell</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1135</label>
+		<keyword>Amino Acid Sequence;Chain Graph;Computational Efficiency;Conditional Random Field;Leucine Rich Repeat;Local Computation;Long-range Interaction;Prediction Accuracy;Protein Fold Recognition;Protein Folding;Sequence Motif;Sequence Similarity;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>Protein fold recognition is a key step to- wards inferring the tertiary structures from amino-acid sequences. Complex folds such as those consisting of interacting structural re- peats are prevalent in proteins involved in a wide spectrum of biological functions. How- ever, extant approaches often perform inade- quately due to their inability to capture long- range interactions between structural units and</abstract>
+	</publication>
+	<publication>
+		<title>Graph-based semi-supervised learning as a generative model</title>
+		<year>2007</year>
+		<authors>jingrui he,jaime g. carbonell</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1135</label>
+		<keyword>Conditional Probability;Discriminative Model;Generic Model;Linear Regression;Semi Supervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes and develops a new graph-based semi-supervised learning method. Different from previous graph-based methods that are based on discriminative models, our method is essentially a generative model in that the class conditional probabilities are estimated by graph propagation and the class priors are estimated by linear regression. Experimental results on various datasets show that the proposed method is</abstract>
+	</publication>
+	<publication>
+		<title>Protein Quaternary Fold Recognition Using Conditional Graphical Models</title>
+		<year>2007</year>
+		<authors>jaime g. carbonell,vanathi gopalakrishnan,peter weigele</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1135</label>
+		<keyword>Domain Knowledge;Fold Recognition;Graphical Model;Long-range Interaction;Machine Learning;Model Complexity;Protein Fold Recognition;Structural Properties;Structure and Function;</keyword>
+		<organization>null</organization>
+		<abstract>Protein fold recognition is a crucial step in infer- ring biological structure and function. This paper focuses on machine learning methods for predict- ing quaternary structural folds, which consist of multiple protein chains that form chemical bonds among side chains to reach a structurally stable domain. The complexity associated with model- ing the quaternary fold poses major theoretical and computational</abstract>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Learning of Attribute-Value Pairs from Product Descriptions</title>
+		<year>2007</year>
+		<authors>katharina probst,rayid ghani,marko krema,andrew e. fano</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1135</label>
+		<keyword>Demand Forecasting;Semi Supervised Learning;Supervised Classification;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract>We describe an approach to extract attribute-value pairs from product descriptions. This allows us to represent products as sets of such attribute-value pairs to augment product databases. Such a rep- resentation is useful for a variety of tasks where treating a product as a set of attribute-value pairs is more useful than as an atomic entity. Examples of such applications</abstract>
+	</publication>
+	<publication>
+		<title>Temporal causal modeling with graphical granger methods</title>
+		<year>2007</year>
+		<authors>andrew arnold,naoki abe</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Causal Models;Granger Causality;Graphical Model;Key Performance Indicator;Model Selection;Perforation;Structure Learning;Temporal Data;Temporal Information;Time Series Data;</keyword>
+		<organization>null</organization>
+		<abstract>The need for mining causality, beyond mere statistical correla- tions, for real world problems has been recognized widely. Many of these applications naturally involve temporal data, which raises the challenge of how best to leverage the temporal information for causal modeling. Recently graphical modeling with the concept of &quot;Granger causality&quot;, based on the intuition that a cause helps predict its</abstract>
+	</publication>
+	<publication>
+		<title>Looking for Great Ideas: Analyzing the Innovation Jam</title>
+		<year>2007</year>
+		<authors>wojciech gryc,mary e. helander,richard d. lawrence,claudia perlich,chandan reddy,saharon rosset</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Social Network;Unsupervised Learning;Time Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>We discuss the Innovation Jam that IBM carried out in 2006, with the objective of identifying innovative and promising &quot;Big Ideas&quot;through a moderated on-line discussion between IBM worldwide employees and external contributors. We describe the data available and investigate several analytical approaches to address the challenge of understanding &quot;how innovation happens&quot; and to facilitate the success of future Jams. We</abstract>
+	</publication>
+	<publication>
+		<title>Learning dynamic temporal graphs for oil-production equipment monitoring system</title>
+		<year>2009</year>
+		<authors>jayant r. kalagnanam,oivind johnsen</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Complex System;Dependence Graph;Graphical Model;Mechanical Systems;Monitoring System;Structure Learning;Time Series Data;Hidden Markov Model;Unified Model;</keyword>
+		<organization>null</organization>
+		<abstract>Learning temporal graph structures from time series data reveals important dependency relationships between current observations and histories. Most previous work focuses on learning and predicting with &quot;static&quot; temporal graphs only. However, in many applications such as mechanical systems and biology systems, the temporal dependencies might change over time. In this paper, we develop a dynamic temporal graphical models based on</abstract>
+	</publication>
+	<publication>
+		<title>Grouped graphical Granger modeling methods for temporal causal modeling</title>
+		<year>2009</year>
+		<authors>aurelie c. lozano,naoki abe,saharon rosset</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Causal Models;Empirical Evaluation;Gene Regulatory Network;Granger Causality;Graphical Model;Microarray Data;Real World Application;Temporal Variability;Time Course;Time Lag;Time Series;Time Series Data;Variable Selection;</keyword>
+		<organization>null</organization>
+		<abstract>We develop and evaluate an approach to causal modeling based on time series data, collectively referred to as\grouped graphical Granger modeling methods.&quot; Graphical Granger modeling uses graphical modeling techniques on time series data and invokes the notion of \Granger causality&quot; to make assertions on causality among a potentially large number of time series variables through inference on time-lagged ef- fects.</abstract>
+	</publication>
+	<publication>
+		<title>Spatial-temporal causal modeling for climate change attribution</title>
+		<year>2009</year>
+		<authors>aurelie c. lozano,hongfei li,alexandru niculescu-mizil,claudia perlich,jonathan r. m. hosking,naoki abe</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Causal Models;Chaotic System;Climate Change;Climate Model;Extreme Value;Granger Causality;Greenhouse Gases;Heat Wave;Temporal Data;Green House Gases;</keyword>
+		<organization>null</organization>
+		<abstract>Attribution of climate change to causal factors has been based pre- dominantly on simulations using physical climate models, which have inherent limitations in describing such a complex and chaotic system. We propose an alternative, data centric, approach that re- lies on actual measurements of climate observations and human and natural forcing factors. Specifically, we develop a novel method to infer</abstract>
+	</publication>
+	<publication>
+		<title>Segmentation Conditional Random Fields (SCRFs): A New Approach for Protein Fold Recognition</title>
+		<year>2005</year>
+		<authors>jaime g. carbonell,peter weigele,vanathi gopalakrishnan</authors>
+		<jconf>Research in Computational Molecular Biology</jconf>
+		<label>1135</label>
+		<keyword>Bacterial Infection;Conditional Random Field;Detection Algorithm;Global Optimization;Graphical Model;Long-range Interaction;Prediction Model;Protein Fold Recognition;random fleld;Three-dimensional Structure;Hidden Markov Model;Protein Data Bank;</keyword>
+		<organization>null</organization>
+		<abstract>Protein fold recognition is an important step towards un- derstanding protein three-dimensional structures and their functions. A conditional graphical model, i.e. segmentation conditional random flelds (SCRFs), is proposed to solve the problem. In contrast to traditional graphical models such as hidden markov model (HMM), SCRFs follow a discriminative approach. It has the ∞exibility to include overlapping or long-range interaction features</abstract>
+	</publication>
+	<publication>
+		<title>Proximity-Based Anomaly Detection Using Sparse Structure Learning</title>
+		<year>2009</year>
+		<authors>tsuyoshi idé,aurelie c. lozano,naoki abe</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1135</label>
+		<keyword>Anomaly Detection;Conditional Distribution;Covariance Matrix;Maximum Likelihood Estimate;Multivariate Data;Reference Data;Structure Learning;Time Series Data;Graphical Gaussian Model;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the task of performing anomaly detection in highly noisy multivariate data. In many applications involv- ing real-valued time-series data, such as physical sensor data and economic metrics, discovering changes and anomalies in the way variables depend on one another is of particular importance. Our goal is to robustly compute the &quot;correla- tion anomaly&quot; score of each variable by</abstract>
+	</publication>
+	<publication>
+		<title>Context sensitive vocabulary and its application in protein secondary structure prediction</title>
+		<year>2004</year>
+		<authors>jaime g. carbonell,judith klein-seetharaman,vanathi gopalakrishnan</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1135</label>
+		<keyword>Information Retrieval;Prediction Method;Protein Secondary Structure;Protein Secondary Structure Prediction;Protein Sequence;Protein Structure;Regular Expression;Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract>Protein secondary structure prediction is an important step towards understanding the relation between protein sequence and structure. However, most current prediction methods use features difficult for biologists to interpret. In this paper, we present a new method that applies information retrieval techniques to solve the problem:we extract a context sensitive biological vocabulary for protein sequences and apply text classification methods</abstract>
+	</publication>
+	<publication>
+		<title>Extracting and Using Attribute-Value Pairs from Product Descriptions on the Web</title>
+		<year>2006</year>
+		<authors>katharina probst,rayid ghani,marko krema,andy fano</authors>
+		<jconf>Workshop on Web Mining</jconf>
+		<label>1135</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of probabilistic combination methods for protein secondary structure prediction</title>
+		<year>2004</year>
+		<authors>jaime g. carbonell,judith klein-seetharaman,vanathi gopalakrishnan</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>1135</label>
+		<keyword>Conditional Random Field;Information Theory;Protein Folding;Protein Secondary Structure Prediction;Secondary Structure;Three Dimensions;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: Protein secondary structure prediction is an important step towards understanding how proteins fold in three dimensions. Recent analysis by information theory indicates that the correlation between neighboring secondary structures are much stronger than that of neighboring amino acids. In this article, we focus on the combination problem for sequences, i.e. combining the scores or assignments from single or multiple</abstract>
+	</publication>
+	<publication>
+		<title>Grouped graphical Granger modeling for gene expression regulatory networks discovery</title>
+		<year>2009</year>
+		<authors>aurelie c. lozano,naoki abe,saharon rosset</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>1135</label>
+		<keyword>Computational Biology;Gene Expression;Gene Expression Data;Gene Regulatory Network;Graphical Model;High Dimensionality;Large Data;large dataset;Microarray Data;Regulatory Network;Temporal Variability;Time Lag;Time Series;Time Series Data;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of discovering gene regulatory networks from time-series microarray data. Recently, graphical Granger modeling has gained considerable attention as a promising direction for addressing this problem. These methods apply graphical modeling methods on time-series data and invoke the notion of 'Granger causality' to make assertions on causality through inference on time-lagged effects. Existing algorithms, however, have neglected</abstract>
+	</publication>
+	<publication>
+		<title>Medical data mining: insights from winning two competitions</title>
+		<year>2010</year>
+		<authors>saharon rosset,claudia perlich,grzegorz swirszcz,prem melville</authors>
+		<jconf>Data Mining and Knowledge Discovery</jconf>
+		<label>1135</label>
+		<keyword>Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Protein Fold Recognition Using Segmentation Conditional Random Fields (SCRFs)</title>
+		<year>2006</year>
+		<authors>jaime g. carbonell,peter weigele,vanathi gopalakrishnan</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>1135</label>
+		<keyword>Conditional Random Field;Convex Optimization;Detection Algorithm;Fold Recognition;Global Optimization;Graphical Model;Long-range Interaction;Prediction Model;Protein Fold Recognition;Protein Folding;Protein Structure Prediction;Secondary Structure;con ditional random fields;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Protein fold recognition is an important step towards understanding protein three-dimen- sional structures and their functions. A conditional graphical model, i.e., segmentation con- ditional random fields (SCRFs), is proposed as an effective solution to this problem. In contrast to traditional graphical models, such as the hidden Markov model (HMM), SCRFs follow a discriminative approach. Therefore, it is flexible to include</abstract>
+	</publication>
+	<publication>
+		<title>Text mining for product attribute extraction</title>
+		<year>2006</year>
+		<authors>rayid ghani,katharina probst,marko krema,andrew e. fano</authors>
+		<jconf>Sigkdd Explorations</jconf>
+		<label>1135</label>
+		<keyword>Semi Supervised Learning;Text Mining;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract>We describe our work on extracting attribute and value pairs from textual product descriptions. The goal is to augment databases of products by representing each product as a set of attribute-value pairs. Such a representation is beneficial for tasks where treating the product as a set of attribute-value pairs is more useful than as an atomic entity. Examples of such</abstract>
+	</publication>
+	<publication>
+		<title>Predicting who rated what in large-scale datasets</title>
+		<year>2007</year>
+		<authors>zhenzhen kou</authors>
+		<jconf>Sigkdd Explorations</jconf>
+		<label>1135</label>
+		<keyword>Large Scale;Link Prediction;</keyword>
+		<organization>null</organization>
+		<abstract>KDD Cup 2007 focuses on movie rating behaviors. The goal of the task &quot;Who Rated What&quot; is to predict whether &quot;ex- isting&quot; users will review &quot;existing&quot; movies in the future. We cast the task as a link prediction problem and address it via a simple classification approach. Compared with other applications for link prediction, there are two major chal- lenges</abstract>
+	</publication>
+	<publication>
+		<title>Breast cancer identification: KDD CUP winner's report</title>
+		<year>2008</year>
+		<authors>claudia perlich,prem melville,grzegorz swirszcz,richard d. lawrence,saharon rosset</authors>
+		<jconf>Sigkdd Explorations</jconf>
+		<label>1135</label>
+		<keyword>Early Breast Cancer;Evaluation Criteria;Breast Cancer;</keyword>
+		<organization>null</organization>
+		<abstract>We describe the ideas and methodologies that we developed in addressing the KDD Cup 2008 on early breast cancer detection, and discuss how they contributed to our success. The most important components of our solution were 1) the identification of predictive information in the patient identifier, 2) a linear SVM on the 117 provided features, and 3) a heuristic post-processing</abstract>
+	</publication>
+	<publication>
+		<title>Making the most of your data: KDD Cup 2007 &quot;How Many Ratings&quot; winner's report</title>
+		<year>2007</year>
+		<authors>saharon rosset,claudia perlich</authors>
+		<jconf>Sigkdd Explorations</jconf>
+		<label>1135</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>We describe the ideas and methodologies that we developed in addressing the KDD Cup 2007 How Many Ratings task, and discuss how they contributed to our success.</abstract>
+	</publication>
+	<publication>
+		<title>Novelty Detection for a Neural Network-Based Online Adaptive System</title>
+		<year>2005</year>
+		<authors>bojan cukic,edgar fuller,srikanth gururajan,sampath yerramalla</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1136</label>
+		<keyword>Adaptive System;Novelty Detection;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Control Software: Can We Guarantee Safety?</title>
+		<year>2004</year>
+		<authors>sampath yerramalla,edgar fuller,bojan cukic,srikanth gururajan</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1136</label>
+		<keyword>Adaptive Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Context-Aware Policy Model to Support Autonomic Networking</title>
+		<year>2008</year>
+		<authors>john strassner,jing zhang</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1136</label>
+		<keyword>Context Aware;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Software Aging and Multifractality of Memory Resources</title>
+		<year>2003</year>
+		<authors>mark shereshevsky,jonathan crowell,bojan cukic,vijai gandikota</authors>
+		<jconf>Dependable Systems and Networks</jconf>
+		<label>1136</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Case Study: A Model-Based Approach to Retrofit a Network Fault Management System with Self-Healing Functionality</title>
+		<year>2008</year>
+		<authors>jing zhang,michael jiang,david raymer,john strassner</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>1136</label>
+		<keyword>Case Study;Fault Management;model-based approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach to V&amp;V of Embedded Adaptive Systems</title>
+		<year>2004</year>
+		<authors>sampath yerramalla,edgar fuller,bojan cukic,srikanth gururajan</authors>
+		<jconf>Formal Approaches to Agent-Based Systems</jconf>
+		<label>1136</label>
+		<keyword>Adaptive System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Linear Randomized Voting Algorithm for Fault Tolerant Sensor Fusion and the Corresponding Reliability Model</title>
+		<year>2005</year>
+		<authors>dejan desovski,bojan cukic</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>1136</label>
+		<keyword>Fault Tolerant;Reliability Modeling;Sensor Fusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adding Autonomic Capabilities to Network Fault Management System</title>
+		<year>2007</year>
+		<authors>michael jiang,david raymer</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>1136</label>
+		<keyword>Fault Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards the Verification and Validation of Online Learning Systems: General Framework and Applications</title>
+		<year>2004</year>
+		<authors>ali mili,guangjie jiang,bojan cukic,rahma ben ayed</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1136</label>
+		<keyword>Adaptive Control;Adaptive System;Formal Method;Mlp Neural Network;On-line Learning;Online Learning;Radial Basis Function;rbf neural network;Verification and Validation;Neural Network;Neural Network Model;</keyword>
+		<organization>null</organization>
+		<abstract>Online Adaptive Systems cannot be certified using tradi- tional testing and proving methods, because these meth- ods rely on assumptions that do not hold for such systems. In this paper we discuss a framework for reasoning about online adaptive systems, and see how this framework can be used to perform the verification of these systems. In addition to the framework,</abstract>
+	</publication>
+	<publication>
+		<title>The Design of a New Context-Aware Policy Model for Autonomic Networking</title>
+		<year>2008</year>
+		<authors>john strassner,srini samudrala,greg w. cox,michael jiang,jing zhang,sven van der meer,mícheál ó foghlú,willie donnelly</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>1136</label>
+		<keyword>Context Aware;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicting with Confidence - An Improved Dynamic Cell Structure</title>
+		<year>2005</year>
+		<authors>bojan cukic,michael jiang,zhiwei xu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1136</label>
+		<keyword>Dynamic Cell Structures;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Validating an Online Adaptive System Using SVDD</title>
+		<year>2003</year>
+		<authors>srikanth gururajan,bojan cukic,tim menzies,marcello r. napolitano</authors>
+		<jconf></jconf>
+		<label>1136</label>
+		<keyword>Adaptive System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Data Sniffing - Monitoring of Machine Learning for Online Adaptive Systems</title>
+		<year>2002</year>
+		<authors>tim menzies,bojan cukic</authors>
+		<jconf></jconf>
+		<label>1136</label>
+		<keyword>Adaptive System;Machine Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequential Proximity-Based Clustering for Telecommunication Network Alarm Correlation</title>
+		<year>2008</year>
+		<authors>jing zhang,xin meng,john strassner</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>1136</label>
+		<keyword>Telecommunication Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Estimation of a Neural Network-Based Controller</title>
+		<year>2006</year>
+		<authors>johann schumann</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>1136</label>
+		<keyword>Adaptive Control;Flight Control;Indexation;Learning Model;Network Performance;Perforation;Performance Estimation;Soft Computing;Statistical Inference;System Performance;Confidence Level;Neural Network;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Biologically inspired soft computing paradigms such as neu- ral networks are popular learning models adopted in adaptive control systems for their ability to cope with a changing environment. However, continual changes induce uncertainty that limits the applicability of con- ventional validation techniques to assure a reliable system performance. In this paper, we present a dynamic approach to estimate the perfor-</abstract>
+	</publication>
+	<publication>
+		<title>Validation and Reliability Estimation of a Fingerprint Image Registration Software</title>
+		<year>2004</year>
+		<authors>dejan desovski,vijai gandikota,yue jiang,bojan cukic</authors>
+		<jconf>International Symposium on Software Reliability Engineering</jconf>
+		<label>1136</label>
+		<keyword>Image Registration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model-Driven Adaptive Self-healing for Autonomic Computing</title>
+		<year>2008</year>
+		<authors>jing zhang,john strassner</authors>
+		<jconf></jconf>
+		<label>1136</label>
+		<keyword>Autonomic Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A model-based approach to adding autonomic capabilities to network fault management system</title>
+		<year>2008</year>
+		<authors>jing zhang,michael jiang,david raymer,john strassner</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>1136</label>
+		<keyword>Fault Management;model-based approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Monitoring techniques for an online neuro-adaptive controller</title>
+		<year>2006</year>
+		<authors>bojan cukic,edgar fuller,sampath yerramalla,srikanth gururajan</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>1136</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Validating neural network-based online adaptive systems: a case study</title>
+		<year>2007</year>
+		<authors>bojan cukic,srikanth gururajan</authors>
+		<jconf>Software Quality Journal</jconf>
+		<label>1136</label>
+		<keyword>Adaptive System;Case Study;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Dynamic Cell Structures</title>
+		<year>2007</year>
+		<authors>bojan cukic,johann schumann,michael jiang</authors>
+		<jconf></jconf>
+		<label>1136</label>
+		<keyword>Performance Analysis;Dynamic Cell Structures;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of Neural Networks in High Assurance Systems: A Survey</title>
+		<year>2010</year>
+		<authors>johann schumann,pramod gupta</authors>
+		<jconf></jconf>
+		<label>1136</label>
+		<keyword>Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Video Retrieval under Sparse Training Data</title>
+		<year>2003</year>
+		<authors>john r. kender</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>1137</label>
+		<keyword>Dimensional Reduction;Feature Selection;Heuristic Method;Image Features;mahalanobis distance;Time Complexity;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Feature selection for video retrieval applications is impra ctical with existing techniques, because of their high time complexity and their failure on the relatively sparse training data that is available given video data size. In this paper we present a novel heuristic method for selecting image features for video, called the Complement Sort-Merge Tree (CSMT). It combines the virtues of</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Multimedia System for Distance Learning of Higher Education</title>
+		<year>2006</year>
+		<authors>wong chit</authors>
+		<jconf>Edutainment - International Conference on E-learning and Games</jconf>
+		<label>1137</label>
+		<keyword>Distance Learning;Higher Education;Interactive Multimedia;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Full-Reference Quality Assessment for Video Summary</title>
+		<year>2008</year>
+		<authors>tongwei ren,gangshan wu</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1137</label>
+		<keyword>Quality Assessment;Full Reference;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Video feature selection using fast-converging sort-merge tree</title>
+		<year>2004</year>
+		<authors>john r. kender</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1137</label>
+		<keyword>Feature Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiple video trajectories representation using double-layer isometric feature mapping</title>
+		<year>2008</year>
+		<authors>yang liu,keith c. c. chan</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1137</label>
+		<keyword>Double Layer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human-Centered Multimedia E-Learning System for Real-Time Interactive Distance Education</title>
+		<year>2007</year>
+		<authors>yung hoi wah</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1137</label>
+		<keyword>Distance Education;E-learning System;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Full-reference quality diagnosis for video summary</title>
+		<year>2008</year>
+		<authors>yan zhang,maosong sun,wenjie li</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1137</label>
+		<keyword>Full Reference;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image retargeting based on global energy optimization</title>
+		<year>2009</year>
+		<authors>tongwei ren,gangshan wu</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1137</label>
+		<keyword>Energy Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Source Switching for Gossip-Based Peer-to-Peer Streaming</title>
+		<year>2008</year>
+		<authors>zhenhua li,jiannong cao,guihai chen</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1137</label>
+		<keyword>Greedy Algorithm;Optimization Problem;Peer-to-peer Streaming;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we consider gossip-based Peer-to-Peer streaming applications where multiple sources exist and they work serially. More specifically, we tackle the prob- lem of fast source switching to minimize the startup delay of the new source. We model the source switch process and formulate it into an optimization problem. Then we propose a practical greedy algorithm that can approximate</abstract>
+	</publication>
+	<publication>
+		<title>Statistical Validation for Automatic Feature Selection Algorithms in Video Applications</title>
+		<year>2007</year>
+		<authors>john r. kender</authors>
+		<jconf>Machine Learning; Models, Technologies and Applications</jconf>
+		<label>1137</label>
+		<keyword>Feature Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tensor distance based multilinear multidimensional scaling for image and video analysis</title>
+		<year>2009</year>
+		<authors>yang liu</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1137</label>
+		<keyword>Dimensional Reduction;Distance Metric;Multidimensional Scaling;Video Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel dimensionality reduction technique named Tensor Distance based Multilinear Multidimensional Scaling (TD-MMDS). First, we propose a new distance metric called Tensor Distance (TD) to build a relationship graph of data points with high-order. Then we employ an iterative strategy to sequentially learn the transformation matrices that can best keep pair-wise TDs of the high-order data in</abstract>
+	</publication>
+	<publication>
+		<title>Rushes video summarization using audio-visual information and sequence alignment</title>
+		<year>2008</year>
+		<authors>yang liu,tongwei ren,keith c. c. chan</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1137</label>
+		<keyword>Color Histogram;Sequence Alignment;Video Summarization;Audio Visual;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes our system and methodologies for the BBC rushes video summarization task of TRECVID 2008. The procedure of the system is composed of three major steps: shot detection, irrelevant and repetitive subshot removal, and final summary generation. First, we segment the original rushes video into subshots according to the difference and accumulative difference of local color histogram between</abstract>
+	</publication>
+	<publication>
+		<title>The Hong Kong Polytechnic University at TRECVID 2007 BBC rushes summarization</title>
+		<year>2007</year>
+		<authors>yang liu,yan zhang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1137</label>
+		<keyword>Feature Space;Video Summarization;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose the framework and methodology for BBC rushes summarization task of TRECVID 2007. We divide the entire task into three sub-tasks: shot segmentation; noise shot detection and removal; video summarization. We first segment the rushes to a set of video shots based on the accumulative difference between the consecutive frames. In the second sub-task, we classify</abstract>
+	</publication>
+	<publication>
+		<title>Image retargeting using multi-map constrained region warping</title>
+		<year>2009</year>
+		<authors>tongwei ren,gangshan wu</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1137</label>
+		<keyword>Constrained Optimization Problem;Optimal Solution;Visual Attention;Aspect Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>Image retargeting aims to adapt images to various screens with small sizes and arbitrary aspect ratios. In this paper, we propose a novel image retargeting approach based on region warping, which emphasizes the image parts with important content while reducing the visual distortion over the whole image. First, the original image is decomposed into homogeneous regions and further represented by</abstract>
+	</publication>
+	<publication>
+		<title>A High-Level Semantics Extraction Model for Stored Videos</title>
+		<year>2000</year>
+		<authors>fei li</authors>
+		<jconf>Microelectronics Systems Education</jconf>
+		<label>1137</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sort-Merge Feature Selection for Video Data</title>
+		<year>2003</year>
+		<authors>john r. kender</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1137</label>
+		<keyword>Dimensional Reduction;Empirical Validation;Feature Selection;Linear Time;mahalanobis distance;Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>Applying existing feature selection algorithms to video classification is impractical. A novel algorithm called Basic Sort-Merge Tree (BSMT) is proposed to choose a very small subset of features for video classification in linear time in the number of features. We reduce the cardinality of the input data by sorting the individual features by their effectiveness in categorization, and then merging</abstract>
+	</publication>
+	<publication>
+		<title>Dimensionality Reduction for Descriptor Generation in Rushes Editing</title>
+		<year>2008</year>
+		<authors>yang liu,keith c. c. chan</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>1137</label>
+		<keyword>Dimensional Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast video segment retrieval by Sort-Merge feature selection, boundary refinement, and lazy evaluation</title>
+		<year>2003</year>
+		<authors>john r. kender</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>1137</label>
+		<keyword>Classification Accuracy;Dimensional Reduction;Efficient Implementation;Feature Selection;Heuristic Method;Indexation;Lazy Evaluation;Machine Learning;mahalanobis distance;Video Retrieval;Video Segmentation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a fast video retrieval system with three novel characteristics. First, it exploits the methods of machine learning to construct automatically a hierarchy of small subsets of features that are progressively more useful for indexing. These subsets are induced by a new heuristic method called Sort-Merge feature selection, which exploits a novel combination of Fastmap for dimensionality reduction and</abstract>
+	</publication>
+	<publication>
+		<title>On the source switching problem of Peer-to-Peer streaming</title>
+		<year>2010</year>
+		<authors>zhenhua li,jiannong cao,guihai chen</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>1137</label>
+		<keyword>Peer-to-peer Streaming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Semantic Extraction and Semantics-Based Annotation and Retrieval for Video Databases</title>
+		<year>2002</year>
+		<authors>fei li</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>1137</label>
+		<keyword>Digital Video;Management System;Multimedia Database System;Real-time Computing;Retrieval Model;Semantic Annotation;Semantic Interpretation;System Design;Video Database;</keyword>
+		<organization>null</organization>
+		<abstract>Digital video databases have become more pervasive and finding video clips quickly in large databases becomes a major challenge. Due to the nature of video, accessing contents of video is difficult and time-consuming. With content-based video systems today, there exists a significant gap between the user's information and what the system can deliver. Therefore, enabling intelligent means of interpretation on</abstract>
+	</publication>
+	<publication>
+		<title>Dimensionality reduction for heterogeneous dataset in rushes editing</title>
+		<year>2009</year>
+		<authors>yang liu,keith c. c. chan</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1137</label>
+		<keyword>Dimensional Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Flaw in SVD-based Watermarking</title>
+		<year>2006</year>
+		<authors>luc lamarche,jiying zhao</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>1138</label>
+		<keyword>Audio Watermarking;False Positive;Image Watermarking;Robust Watermarking;Singular Value;Singular Value Decomposition;Short Time Fourier Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In the recent years, many papers have been published on the use of Singular Value Decomposition (SVD) for watermarking because of its robust nature. The singular values that are produced are very stable and vary very little under attacks. This introduces an ideal medium for which a watermark is embedded for robust watermarking. Nevertheless a severe flaw has been discovered</abstract>
+	</publication>
+	<publication>
+		<title>A Survey of RST Invariant Image Watermarking Algorithms</title>
+		<year>2006</year>
+		<authors>dong zheng,jiying zhao</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>1138</label>
+		<keyword>Algorithm Design;Digital Image Watermarking;Image Processing;Image Watermarking;mellin transform;Template Matching;Rotation Scaling and Translation;Radon Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we review the algorithms for rotation, scaling and translation (RST) invariant image watermarking. There are mainly two categories of RST invariant image watermarking algorithms. One is to rectify the RST transformed image before conducting watermark extraction. Another is to embed and extract watermark in an RST invariant or semi-invariant domain. In order to help readers understand, we</abstract>
+	</publication>
+	<publication>
+		<title>Rotation, Scaling, Translation Invariant Image Watermarking Based on Radon Transform</title>
+		<year>2004</year>
+		<authors>jiying zhao</authors>
+		<jconf>Canadian Conference on Computer and Robot Vision</jconf>
+		<label>1138</label>
+		<keyword>Image Watermarking;Translation Invariant;Radon Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RST invariant video watermarking based on log-polar mapping and phase-only filtering</title>
+		<year>2010</year>
+		<authors>jiying zhao</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1138</label>
+		<keyword>Video Watermarking;Log Polar Mapping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A survey of RST invariant image watermarking algorithms</title>
+		<year>2007</year>
+		<authors>dong zheng,jiying zhao,abdulmotaleb el-saddik</authors>
+		<jconf>ACM Computing Surveys</jconf>
+		<label>1138</label>
+		<keyword>Digital Image Watermarking;Image Watermarking;mellin transform;Template Matching;Rotation Scaling and Translation;Radon Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In this article, we review the algorithms for rotation, scaling and translation (RST) invariant image watermarking. There are mainly two categories of RST invariant image watermarking algorithms. One is to rectify the RST transformed image before conducting watermark detection. Another is to embed and detect watermark in an RST invariant or semi-invariant domain. In order to help readers understand, we</abstract>
+	</publication>
+	<publication>
+		<title>A Rectification Scheme for RST Invariant Image Watermarking</title>
+		<year>2005</year>
+		<authors>dong zheng,jiying zhao</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>1138</label>
+		<keyword>Image Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An image rectification scheme and its applications in RST invariant digital image watermarking</title>
+		<year>2007</year>
+		<authors>dong zheng,jiying zhao</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>1138</label>
+		<keyword>Digital Image Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new video watermarking algorithm based on 1D DFT and Radon transform</title>
+		<year>2010</year>
+		<authors>jiying zhao</authors>
+		<jconf>Signal Processing</jconf>
+		<label>1138</label>
+		<keyword>Video Watermarking;Radon Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RST invariant digital image watermarking based on a new phase-only filtering method</title>
+		<year>2005</year>
+		<authors>dong zheng,jiying zhao</authors>
+		<jconf>Signal Processing</jconf>
+		<label>1138</label>
+		<keyword>Digital Image Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Email Community Detection Using Artificial Ant Colony Clustering</title>
+		<year>2007</year>
+		<authors>qingxian wang,wang qiang,qing yao,yao liu</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>1139</label>
+		<keyword>Ant Colony;Community Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Optimization in News Search Engine Using Formal Concept Analysis</title>
+		<year>2007</year>
+		<authors>qingxian wang,lei guo,qing yao,lv nan,wang qiang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>1139</label>
+		<keyword>Formal Concept Analysis;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Evaluation Method Based on Variable Range of Triangular Fuzzy Number</title>
+		<year>2007</year>
+		<authors>liang wei,feng dai,songtao wu,chenggang cai</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>1139</label>
+		<keyword>Evaluation Method;Triangular Fuzzy Number;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Methodology for Building Ontology Based on Reusing the Heterogeneous Ontologies</title>
+		<year>2007</year>
+		<authors>qing yao,qingxian wang,wang qiang,junyong luo</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>1139</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Adaptive Scoring Method for Block Importance Learning</title>
+		<year>2006</year>
+		<authors>wang qiang,qingxian wang,yao liu,liang wei</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>1139</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving Link Analysis through Considering Hosts and Blocks</title>
+		<year>2006</year>
+		<authors>wang qiang,junyong luo,jing ning,qing yao</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>1139</label>
+		<keyword>Link Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Heuristic Approach for Topical Information Extraction from News Pages</title>
+		<year>2006</year>
+		<authors>wang qiang,qingxian wang</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>1139</label>
+		<keyword>Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Link Analysis with a Three-Layer Web Structure Model</title>
+		<year>2006</year>
+		<authors>wang qiang,junyong luo</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>1139</label>
+		<keyword>Link Analysis;Structural Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Neural Mechanisms for Recognizing Spike Trains</title>
+		<year>2009</year>
+		<authors>liujun chen,jiawei chen,qinghua chen,fukang fang</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>1140</label>
+		<keyword>Spike Train;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discussion on the Spike Train Recognition Mechanisms in Neural Circuits</title>
+		<year>2007</year>
+		<authors>liujun chen,jiawei chen,fangfeng zhang,fukang fang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1140</label>
+		<keyword>Spike Train;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Neural Network Model for Chinese Character Perception</title>
+		<year>2009</year>
+		<authors>jiawei chen,qinghua chen,liujun chen,fukang fang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1140</label>
+		<keyword>Neural Network Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Chinese Character Learning by Synchronization in Wilson-Cowan Oscillatory Neural Networks</title>
+		<year>2009</year>
+		<authors>jiaxin cui,jiawei chen,liujun chen,fukang fang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1140</label>
+		<keyword>Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Burst Spike Trains Recognition Based on the Dynamic Properties of Hodgkin-Huxley Neurons and Synapses</title>
+		<year>2009</year>
+		<authors>liujun chen,jiawei chen,jiaxin cui,fukang fang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1140</label>
+		<keyword>Dynamic Properties;Spike Train;Hodgkin Huxley;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Features of Hodgkin-Huxley Neuron Response to Periodic Spike-Train Inputs</title>
+		<year>2009</year>
+		<authors>an zeng,liujun chen</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>1140</label>
+		<keyword>Spike Train;Hodgkin Huxley;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interactive Visual Decision Tree Classification</title>
+		<year>2007</year>
+		<authors>gavriel salvendy</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>1141</label>
+		<keyword>Interactive Visualization;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and evaluation of visualization support to facilitate association rules modeling</title>
+		<year>2006</year>
+		<authors>gavriel salvendy</authors>
+		<jconf>International Journal of Human-computer Interaction</jconf>
+		<label>1141</label>
+		<keyword>Association Rule;Association Rule Mining;Data Mining;Interactive Visualization;Modeling Tool;Visualization Technique;</keyword>
+		<organization>null</organization>
+		<abstract>Association rules mining is a popular data mining modeling tool. It discovers interest- ing associations or correlation relationships among a large set of data items, showing attribute values that occur frequently together in a given dataset. Despite their great potential benefit, current association rules modeling tools are far from optimal. This article studies how visualization techniques can be applied to</abstract>
+	</publication>
+	<publication>
+		<title>Design and evaluation of visualization support to facilitate decision trees classification</title>
+		<year>2007</year>
+		<authors>gavriel salvendy</authors>
+		<jconf>International Journal of Human-computer Studies / International Journal of Man-machine Studies</jconf>
+		<label>1141</label>
+		<keyword>Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Multi-agent System Architecture for End-User Level Grid Monitoring Using Geographic Information Systems (MAGGIS): Architecture and Implementation</title>
+		<year>2003</year>
+		<authors>shaowen wang,anand padmanabhan,ransom briggs,jun ni,tao he,boyd m. knosp,yasar onel</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1142</label>
+		<keyword>Geographic Information System;Grid Portal;Resource Scheduling;User Interface;Multi Agent System;Open Grid Service Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>This paper illustrates a Multi-Agent system architecture for end-user level Grid monitoring using Geographical Information Systems (MAGGIS). The purpose of this research is to investigate MAGGIS architecture and implementation issues, and to verify the following two hypotheses: 1.) multi- agent systems provide an effective and scalable architecture to synthesize various Grid information providers for monitoring Grid resources; and 2.) geographic</abstract>
+	</publication>
+	<publication>
+		<title>A High Throughput Approach to Combinatorial Search on Grids</title>
+		<year>2006</year>
+		<authors>alberto maria segre,shaowen wang</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>1142</label>
+		<keyword>High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SimpleGrid 2.0: a learning and development toolkit for building highly usable TeraGrid science gateways</title>
+		<year>2009</year>
+		<authors>shaowen wang,nancy wilkins-diehr</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>1142</label>
+		<keyword>Domain Specificity;Problem Solving;Science Communication;Service Oriented Architecture;Software Component;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>The science gateway approach has been widely employed to bridge cyberinfrastructure and domain science communities for advancing scientific and engineering problem solving. Numerous efforts have been made toward developing Web-based gateway systems to enable efficient and integrated access to cyberinfrastructure resources and services. As the number of science gateways grows rapidly, however, it still remains challenging for a science gateway</abstract>
+	</publication>
+	<publication>
+		<title>TeraGrid GIScience Gateway: Bridging cyberinfrastructure and GIScience</title>
+		<year>2009</year>
+		<authors>shaowen wang</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>1142</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>EvoRAID: Adaptation to Dynamic Change of Disks in Storage System</title>
+		<year>2008</year>
+		<authors>chang-sheng xie,huaiyang li,zhaobin liu</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>1143</label>
+		<keyword>Dynamic Change;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Data Migration in RAID Based on Stripe Unit Heat</title>
+		<year>2005</year>
+		<authors>chang-sheng xie,huaiyang li,zhen zhao</authors>
+		<jconf>Machine Learning and Cybernetics</jconf>
+		<label>1143</label>
+		<keyword>Data Migration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Technique for Eliminating Data Migration in Logistic Evolution Storage System</title>
+		<year>2005</year>
+		<authors>huaiyang li,chang-sheng xie,bin cai</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>1143</label>
+		<keyword>Data Migration;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Implement of Snapshots in Linux Block Level</title>
+		<year>2008</year>
+		<authors>huaiyang li,chang-sheng xie,qiang cao</authors>
+		<jconf>Networking, Architecture and Storages</jconf>
+		<label>1143</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Method of Pefetching I/O Requests</title>
+		<year>2007</year>
+		<authors>huaiyang li,chang-sheng xie</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>1143</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Data Layout Method in Heterogeneous RAID</title>
+		<year>2009</year>
+		<authors>xiaodong xie,huaiyang li</authors>
+		<jconf>Scalable Computing and Communications</jconf>
+		<label>1143</label>
+		<keyword>Data Layout;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Approach to Web Services Characterization</title>
+		<year>2008</year>
+		<authors>mingguang zhuang,qingling wang,guannan zhang</authors>
+		<jconf>Asia-Pacific Services Computing Conference</jconf>
+		<label>1144</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reengineering Legacy Systems with RESTful Web Service</title>
+		<year>2008</year>
+		<authors>qingling wang,mingguang zhuang,yunyun zhu</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1144</label>
+		<keyword>Legacy System;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Approach for Service Capabilities Representation Based on Statistical Study on WSDL</title>
+		<year>2008</year>
+		<authors>mingguang zhuang,qingling wang,hanli wang</authors>
+		<jconf>International Conference on Internet and Web Applications and Services</jconf>
+		<label>1144</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>UTISP: An Urban Traffic Information Portal Based on WebGIS</title>
+		<year>2008</year>
+		<authors>mingguang zhuang,qingling wang,biao yu</authors>
+		<jconf>International Conference on Internet and Web Applications and Services</jconf>
+		<label>1144</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Services Characterization with Statistical Study on Existing Web Services</title>
+		<year>2008</year>
+		<authors>mingguang zhuang,biao yu,guannan zhang,xiaojing meng</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1144</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

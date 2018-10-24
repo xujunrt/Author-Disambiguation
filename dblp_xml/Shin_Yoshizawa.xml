@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shin Yoshizawa</FullName>
+	<publication>
+		<title>A control framework for the non-invasive ultrasound theragnostic system</title>
+		<year>2009</year>
+		<authors>norihiro koizumi,joonho seo,y. suzuki,deukhee lee,kohei ota,a. nomiya,kiyoshi yoshinaka,naohiko sugita,yoichiro matsumoto,y. homma,mamoru mitsuishi</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>947</label>
+		<keyword>Ultrasound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ultrasound-based visual servoing system for lithotripsy</title>
+		<year>2007</year>
+		<authors>deukhee lee,norihiro koizumi,kohei ota,akira ito,yukio kaneko,yoichiro matsumoto,mamoru mitsuishi</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>947</label>
+		<keyword>Ultrasound;visual servoing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework of the Non-invasive Ultrasound Theragnostic System</title>
+		<year>2008</year>
+		<authors>norihiro koizumi,deukhee lee,kohei ota,kiyoshi yoshinaka,yoichiro matsumoto,mamoru mitsuishi</authors>
+		<jconf>Medical Imaging and Augmented Reality</jconf>
+		<label>947</label>
+		<keyword>Ultrasound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

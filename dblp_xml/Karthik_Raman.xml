@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Karthik Raman</FullName>
+	<publication>
+		<title>Flux balance analysis of biological systems: applications and challenges</title>
+		<year>2009</year>
+		<authors>nagasuma chandra</authors>
+		<jconf>Briefings in Bioinformatics</jconf>
+		<label>483</label>
+		<keyword>Biological Systems;Flux Balance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

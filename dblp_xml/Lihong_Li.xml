@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lihong Li</FullName>
+	<publication>
+		<title>Colonic polyp characterization and detection based on both morphological and texture features</title>
+		<year>2004</year>
+		<authors>zigang wang,joseph anderson,donald harrington,zhengrong liang</authors>
+		<jconf>Computer Assisted Radiology and Surgery</jconf>
+		<label>546</label>
+		<keyword>Computed Tomography;Computer Aided Detection;False Positive;Texture Features;Virtual Colonoscopy;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a method is presented for detection of colonic polyps using both morphological and texture features of the colon wall from the abdominal computed tomography (CT) images. This method consists of two steps. In the first step, suspicious patches of the colon wall are quickly identified by utilizing special local and global geometrical information of the segmented inner-wall</abstract>
+	</publication>
+	<publication>
+		<title>An Integrated MRI and MRS Approach to Evaluation of Multiple Sclerosis with Cognitive Impairment</title>
+		<year>2008</year>
+		<authors>zhengrong liang,hongbing lu,wei huang,alina tudorica,lauren krupp</authors>
+		<jconf>Medical Biometrics</jconf>
+		<label>546</label>
+		<keyword>Cognitive Impairment;Multiple Sclerosis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Extract Colon Lumen from CT Images for Virtual Colonoscopy</title>
+		<year>2000</year>
+		<authors>dongqing chen,zhengrong liang,mark r. max,bin li,arie e. kaufman</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>546</label>
+		<keyword>Computed Tomography;Feature Extraction;Image Classification;Image Segmentation;Indexing Terms;Partial Volume Effect;Region Growing;Statistical Analysis;Three Dimensional;Vector Quantizer;Virtual Colonoscopy;</keyword>
+		<organization>null</organization>
+		<abstract>An automatic method has been developed for segmentation of abdominal computed tomography (CT) images for virtual colonoscopy obtained after a bowel preparation of a low-residue diet with ingested contrast solutions to enhance the image intensities of residual colonic materials. Removal of the enhanced materials was performed electronically by a computer algorithm. The method is a multistage approach that employs a</abstract>
+	</publication>
+</person>

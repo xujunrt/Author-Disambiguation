@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matthias John</FullName>
+	<publication>
+		<title>Groundplane Dependent Performance of Printed Antenna for MB-OFDM-UWB</title>
+		<year>2007</year>
+		<authors>sergio curto,m. j. ammann</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>671</label>
+		<keyword>Orthogonal Frequency Division Multiplex;Radiation Pattern;ultra wideband;</keyword>
+		<organization>null</organization>
+		<abstract>A printed ultra wideband (UWB) antenna suitable for multiband orthogonal frequency division multiplexing (MB- OFDM) UWB is presented in this paper. The proposed antenna covers a wide band from 3.1 GHz to 11.2 GHz. Good performance and low cost production was obtained using FR-4 substrate. An examination of the effects of ground plane dimensions on antenna properties such as gain,</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ge Yu</FullName>
+	<publication>
+		<title>The Principles of the AV-FMS Computer Vision System</title>
+		<year>2009</year>
+		<authors>penghui wu,chunhuang liu</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>252</label>
+		<keyword>Computer Vision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

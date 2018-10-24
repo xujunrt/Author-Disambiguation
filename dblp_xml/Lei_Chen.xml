@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lei Chen</FullName>
+	<publication>
+		<title>Efficient join processing on uncertain data streams</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Data Cleaning;Outlier Detection;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Join processing in the streaming environment has many practical applications such as data cleaning and outlier detection. Due to the inherent uncertainty in the real-world data, it has become an increasingly important problem to consider the join processing on uncertain data streams, where the incoming data at each timestamp are uncertain and imprecise. Different from the static databases, processing uncertain</abstract>
+	</publication>
+	<publication>
+		<title>Localized routing trees for query processing in sensor networks</title>
+		<year>2005</year>
+		<authors>jie lian,kshirasagar naik,m. tamer özsu,gordon b. agnew</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Data Aggregation;Energy Consumption;Energy Cost;Energy Efficient;Query Processing;Sensor Network;Simulation Study;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a novel energy-efficient approach, a localized routing tree (LRT) coupled with a route redirection (RR) strategy, to support various types of queries. LRTs take care of the sensors near the sink and reduce the energy consumption of these sensors, and RR reduces the energy cost of data receptions. Compared to the existing approaches, simulation studies</abstract>
+	</publication>
+	<publication>
+		<title>Effective XML content and structure retrieval with relevance ranking</title>
+		<year>2009</year>
+		<authors>xiping liu,changxuan wan</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Document Structure;Efficient Algorithm;Experimental Study;Heterogeneous Data;It Adoption;Point of View;Relevance Ranking;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>XML documents can be retrieved by means of not only content-only (CO) queries, but also content-and-structure (CAS) queries. Though promising better retrieval precision, CAS queries introduce several new challenges. To address these challenges, we propose a novel approach for XML CAS retrieval. The distinctive feature of the approach is that it adopts a content-oriented point of view. Specifically, the approach</abstract>
+	</publication>
+	<publication>
+		<title>Optimal proactive caching in peer-to-peer network: analysis and application</title>
+		<year>2007</year>
+		<authors>weixiong rao,ada wai-chee fu,yingyi bu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Fault Tolerant;High Efficiency;New Technology;Optimal Solution;P2P;P2p Networks;Peer To Peer;Peer-to-peer Network;trace-driven simulation;Web Caching;Object Relational;</keyword>
+		<organization>null</organization>
+		<abstract>As a promising new technology with the unique properties like high efficiency, scalability and fault tolerance, Peer-to- Peer (P2P) technology is used as the underlying network to build new Internet-scale applications. However, one of the well known issues in such an application (for example WWW) is that the distribution of data popularities is heav- ily tailed with a Zipf-like distribution.</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic correlation-based similarity measure of unstructured records</title>
+		<year>2007</year>
+		<authors>shaoxu song</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Approximate String Matching;Similarity Measure;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Computing the similarity between unstructured records is a fundamental function in multiple applications. Approximate string matching and full text retrieval techniques do not show the best performance when applied directly, since the information are limited in unstructured records of short record length. In this paper, we propose a novel probabilistic correlation-based similarity measure. Rather than simply conducting the exact matching</abstract>
+	</publication>
+	<publication>
+		<title>Speed up semantic search in p2p networks</title>
+		<year>2008</year>
+		<authors>qiang wang,rui li,jie lian,m. tamer özsu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Distributed System;Heterogeneous Data;Information Retrieval;Large Scale;Overlay Network;P2P;P2p Networks;Peer To Peer;Performance Evaluation;Semantic Search;Web Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Peer-to-peer architectures become popular in modern massively distributed systems, which are often in very large scale and contain a huge volume of heterogeneous data. To facilitate the information retrieval process in P2P networks, we consider semantic search approach, where syntax-based queries are shipped to peers based on semantic correlations. Motivated by an interesting experience in Web information retrieval, we propose</abstract>
+	</publication>
+	<publication>
+		<title>Towards interactive indexing for large Chinese calligraphic character databases</title>
+		<year>2006</year>
+		<authors>yi zhuang,yueting zhuang,qing li</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>High Dimensionality;Image Database;Indexation;Relevance Feedback;Shape Similarity;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, based on a novel shape-similarity-based retrieval method, we propose an interactive partial-distance-map (PDM)- based high-dimensional indexing scheme to speed up the retrieval performance of the large Chinese calligraphic character databases. Specifically, we use the approximate minimal bounding hyper- sphere of query character to search the PDM and utilize the users' relevance feedback to refine the search process.</abstract>
+	</publication>
+	<publication>
+		<title>Top-k subgraph matching query in a large graph</title>
+		<year>2007</year>
+		<authors>lei zou,yansheng lu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>506</label>
+		<keyword>Data Mining;Graph Matching;Graph Search;Indexation;Large Data;Score Function;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, due to its wide applications, subgraph search has at- tracted a lot of attention from database and data mining commu- nity. Sub-graph search is defined as follows: given a query graph Q, we report all data graphs containing Q in the database. How- ever, there is little work about sub-graph search in a single large graph, which has been</abstract>
+	</publication>
+	<publication>
+		<title>In-network Outlier Cleaning for Data Collection in Sensor Networks</title>
+		<year>2006</year>
+		<authors>yongzhen zhuang</authors>
+		<jconf>Clean Databases</jconf>
+		<label>506</label>
+		<keyword>Data Collection;Data Transmission;Dynamic Time Warping;Routing Algorithm;Sensor Network;Temporal Correlation;</keyword>
+		<organization>null</organization>
+		<abstract>Outliers are very common in the environmen- tal data monitored by a sensor network con- sisting of many inexpensive, low fldelity, and frequently failed sensors. The limited battery power and costly data transmission have in- troduced a new challenge for outlier clean- ing in sensor networks: it must be done in- network to avoid spending energy on trans- mitting outliers.</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic Inverse Ranking Queries over Uncertain Data</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Approximate Similarity Search over Multiple Stream Time Series</title>
+		<year>2007</year>
+		<authors>xiang lian,bin wang</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Similarity Search;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Joins of Text with Incomplete Information Formats</title>
+		<year>2007</year>
+		<authors>shaoxu song</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Incomplete Information;Similarity Join;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detecting Leaders from Correlated Time Series</title>
+		<year>2010</year>
+		<authors>di wu,yiping ke,jeffrey xu yu,philip s. yu</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-Efficient Evaluation of Multiple Skyline Queries over a Wireless Sensor Network</title>
+		<year>2009</year>
+		<authors>junchang xin,guoren wang,vincent oria</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Energy Efficient;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuously Maintaining Sliding Window Skylines in a Sensor Network</title>
+		<year>2007</year>
+		<authors>junchang xin,guoren wang,xiaoyi zhang,zhenhua wang</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Sensor Network;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficiently Answering Probability Threshold-Based Shortest Path Queries over Uncertain Graphs</title>
+		<year>2010</year>
+		<authors>ye yuan,guoren wang</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Unified Indexing Structure for Efficient Cross-Media Retrieval</title>
+		<year>2009</year>
+		<authors>yi zhuang,qing li</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Index Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Top-K Correlation Sub-graph Search in Graph Databases</title>
+		<year>2009</year>
+		<authors>lei zou,yansheng lu</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Graph Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Skyline Queries in Large Graphs</title>
+		<year>2010</year>
+		<authors>lei zou,m. tamer özsu,dongyan zhao</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Summarization Graph Indexing: Beyond Frequent Structure-Based Approach</title>
+		<year>2008</year>
+		<authors>lei zou,huaming zhang,yansheng lu,qiang lou</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>506</label>
+		<keyword>Complete Graph;Data Structure;Experimental Study;False Positive;Graph Search;Indexation;Indexing Method;Model Complexity;Signature File;Structured Data;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Graph is an important data structure to model complex structural data, such as chemical compounds, proteins, and XMLdocuments. Among many graph data-based applications, sub-graph search is a key problem, which is defined as given a query Q, retrieving all graphs containing Q as a sub-graph in the graph database. Most existing sub-graph search methods try to filter out false positives</abstract>
+	</publication>
+	<publication>
+		<title>Answering Constrained k-NN Queries in Unstructured P2P Systems</title>
+		<year>2006</year>
+		<authors>bin wang,xiaochun yang,guoren wang,sean x. wang,xuemin lin,ge yu</authors>
+		<jconf>Databases, Information Systems, and Peer-to-Peer Computing</jconf>
+		<label>506</label>
+		<keyword>P2p System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating probability threshold k-nearest-neighbor queries over uncertain data</title>
+		<year>2009</year>
+		<authors>reynold cheng,jinchuan chen,xike xie</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>Data Structure;K Nearest Neighbor;Location Based Service;Management System;Probability Density Function;Satisfiability;Spatial Index;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>In emerging applications such as location-based services, sensor monitoring and biological management systems, the values of the database items are naturally imprecise. For these uncertai n databases, an important query is the Probabilistic k-Nearest-Neighbor Query (k-PNN), which computes the probabilities of sets of k objects for being the closest to a given query point. The evaluation of this query can</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic skyline queries in metric spaces</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>Business Planning;Euclidean Space;Indexation;Metric Space;Multi Criteria Decision Making;</keyword>
+		<organization>null</organization>
+		<abstract>Skyline query is of great importance in many applications, such as multi-criteria decision making and business planning. In particular, a skyline point is a data object in the database whose attribute vec- tor is not dominated by that of any other objects. Previous methods to retrieve skyline points usually assume static data objects in the database (i.e. their attribute vectors</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic ranked queries in uncertain databases</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>Data Mining;Decision Making;Mobile Device;Search Space;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, many new applications, such as sensor data monitoring and mobile device tracking, raise up the issue of uncertain data management. Compared to &quot;certain&quot; data, the data in the uncertain database are not exact points, which, instead, often locate within a region. In this paper, we study the ranked queries over uncer- tain data. In fact, ranked queries have been</abstract>
+	</publication>
+	<publication>
+		<title>Top-k dominating queries in uncertain databases</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>Query Processing;Search Space;Spectrum;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the existence of uncertain data in a wide spectrum of real applications, uncertain query processing has become increasingly important, which dramatically differs from handling certain data in a traditional database. In this paper, we formulate and tackle an important query, namely probabilistic top-k dominating (PTD) query, in the uncertain database. In particular, a PTD query re- trieves k</abstract>
+	</publication>
+	<publication>
+		<title>Indexing high-dimensional data in dual distance spaces: a symmetrical encoding approach</title>
+		<year>2008</year>
+		<authors>yi zhuang,yueting zhuang,qing li,yi yu</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>High Dimensional Data;High Dimensionality;Index Structure;Indexation;k-means clustering;K Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the well-known dimensionality curse problem, search in a high-dimensional space is considered as a &quot;hard&quot; problem. In this paper, a novel symmetrical encoding-based index structure, which is called EHD-Tree (for symmetrical Encoding-based Hybrid Distance Tree), is proposed to support fast k-Nearest-Neighbor (k-NN) search in high-dimensional spaces. In an EHD-Tree, all data points are first grouped into clusters by</abstract>
+	</publication>
+	<publication>
+		<title>A novel spectral coding in a large graph database</title>
+		<year>2008</year>
+		<authors>lei zou,jeffrey xu yu,yansheng lu</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>506</label>
+		<keyword>Drug Discovery;Graph Isomorphism;Graph Search;Local Structure;np-complete problem;Pattern Recognition;Satisfiability;False Negative;</keyword>
+		<organization>null</organization>
+		<abstract>Retrieving related graphs containing a query graph from a large graph database is a key issue in many graph-based applications, such as drug discovery and structural pattern recognition. Because sub-graph isomorphism is a NP-complete problem (4), we have to employ a filter-and-verification frame- work to speed up the search efficiency, that is, using an effec- tive and efficient pruning strategy</abstract>
+	</publication>
+	<publication>
+		<title>Portlet-based Portal Design for Grid Systems</title>
+		<year>2006</year>
+		<authors>yanli cai,jian cao,minglu li</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>506</label>
+		<keyword>Grid System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HAND: An Overlay Optimization Algorithm in Peer-to-Peer Systems</title>
+		<year>2006</year>
+		<authors>xiaoming chen,zhoujun li,yongzhen zhuang,jinsong han</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>506</label>
+		<keyword>Optimal Algorithm;Peer To Peer System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-Threshold based Event Detection for 3D Environment Monitoring in Sensor Networks</title>
+		<year>2007</year>
+		<authors>mo li,yunhao liu</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>506</label>
+		<keyword>3d environment;Coal Mining;Event Detection;Sensor Network;Spatio-temporal Data;Time Series;trace-driven simulation;Wireless Sensor Net Work;</keyword>
+		<organization>null</organization>
+		<abstract>Event detection is a crucial task for wireless sensor net- work applications, especially environment monitoring. Ex- isting approaches for event detection are mainly based on some predefined threshold values, and thus are often inac- curate and incapable of capturing complex events. For ex- ample, in coal mine monitoring scenarios, gas leakage or water osmosis can hardly be described by the</abstract>
+	</publication>
+	<publication>
+		<title>A Weighted Moving Average-based Approach for Cleaning Sensor Data</title>
+		<year>2007</year>
+		<authors>yongzhen zhuang,xiaoyang sean wang,jie lian</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>506</label>
+		<keyword>Data Cleaning;Energy Efficient;Moving Average;Importance Value;Quick Response;Random Effects;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays, wireless sensor networks have been widely used in many monitoring applications. Due to the low qual- ity of sensors and random effects of the environments, how- ever, it is well known that the collected sensor data are noisy. Therefore, it is very critical to clean the sensor data before using them to answer queries or conduct data anal- ysis.</abstract>
+	</publication>
+	<publication>
+		<title>Multi-query Optimization for Distributed Similarity Query Processing</title>
+		<year>2008</year>
+		<authors>yi zhuang,qing li</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>506</label>
+		<keyword>Answer Sets;Dynamic Query;Indexation;Load Balance;Query Evaluation;Query Optimization;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>This paper considers a multi-query optimization issue for distributed similarity query processing, which attempts to exploit the dependencies in the derivation of a query evaluation plan. To the best of our knowledge, this is the first work investigating a multi- query optimization technique for distributed similarity query processing (MDSQ). Four steps are incorporated in our MDSQ algorithm. First when a</abstract>
+	</publication>
+	<publication>
+		<title>Multi-Scale Histograms for Answering Queries over Time Series Data</title>
+		<year>2004</year>
+		<authors>m. tamer özsu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Data Analysis;Data Distribution;Dynamic Time Warping;Euclidean Distance;Exact Results;Histogram Equalization;Interaction Analysis;Longest Common Subsequence;Normal Form;Real World Application;Source Code;Symbolic Representation;Time Series;Time Series Data;Local Time;Weighted Averaging;</keyword>
+		<organization>null</organization>
+		<abstract>Similarity-based time series data retrieval has been used in many real world applications, such as stock data or weather data analysis. Two types of queries on time series data are generally studied: pattern existence queries and ex- act match queries. In pattern existence queries, users are interested in the general shape of time series data and ig- nore the specific</abstract>
+	</publication>
+	<publication>
+		<title>A General Cost Model for Dimensionality Reduction in High Dimensional Spaces</title>
+		<year>2007</year>
+		<authors>xiang lian</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Cost Model;Curse of Dimensionality;Dimensional Reduction;Formal Model;High Dimensionality;Indexation;Range Query;Similarity Search;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Similarity search usually encounters a serious problem in the high dimensional space, known as the &quot;curse of dimensionality&quot;. In order to speed up the retrieval effi- ciency, previous approaches usually reduce the dimension- ality of the entire data set to a fixed lower value before building indexes (referred to as global dimensionality re- duction (GDR)). More recent works focus on</abstract>
+	</publication>
+	<publication>
+		<title>Similarity Search in Arbitrary Subspaces Under Lp-Norm</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Cost Model;Data Analysis;Information Retrieval;Lp Norm;Similarity Search;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>Similarity search has been widely used in many applications such as information retrieval, image data analysis, and time-series matching. Specifically, a similarity query retrieves all data objects in a data set that are similar to a given query object. Previous work on similarity search usually consider the search problem in the full space. In this paper, however, we propose a</abstract>
+	</publication>
+	<publication>
+		<title>Pattern Matching over Cloaked Time Series</title>
+		<year>2008</year>
+		<authors>xiang lian,jeffrey xu yu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Pattern Matching;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Match Over High Speed Time-Series Streams</title>
+		<year>2007</year>
+		<authors>xiang lian,jeffrey xu yu,guoren wang,ge yu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>High Speed;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection of Shape Anomalies: A Probabilistic Approach Using Hidden Markov Models</title>
+		<year>2008</year>
+		<authors>zheng liu,jeffrey xu yu,di wu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Probabilistic Approach;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>STAIRS: Towards Efficient Full-Text Filtering and Dissemination in a DHT Environment</title>
+		<year>2009</year>
+		<authors>weixiong rao,ada wai-chee fu,hanhua chen</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Distributed Environment;Distributed Hash Table;Query Logs;Web Search;Experience Base;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays contents in Internet like weblogs, wikipedia and news sites become &quot;live&quot;. How to notify and provide users with the relevant contents becomes a challenge. Unlike conventional Web search technology or the RSS feed, this paper envisions a personalized full-text content filtering and dissemination system in a highly distributed environment such as a Distributed Hash Table (DHT). Users can subscribe</abstract>
+	</publication>
+	<publication>
+		<title>Continuous Subgraph Pattern Search over Graph Streams</title>
+		<year>2009</year>
+		<authors>changliang wang</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Pattern Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Concise Representation of Range Queries</title>
+		<year>2009</year>
+		<authors>ke yi,xiang lian,feifei li</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Communication Cost;Handheld Device;Information Loss;Mobile Phone;Range Query;Spatial Database;Wireless Communication;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—With the advance of wireless communication tech- nology, it is quite common for people to view maps or get related services from the handheld devices, such as mobile phones and PDAs. Range queries, as one of the most commonly used tools, are often posed by the users to retrieve needful information from a spatial database. However, due to the limits</abstract>
+	</publication>
+	<publication>
+		<title>Max Regional Aggregate over Sensor Networks</title>
+		<year>2009</year>
+		<authors>yongzhen zhuang</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dominant Graph: An Efficient Indexing Structure to Answer Top-K Queries</title>
+		<year>2008</year>
+		<authors>lei zou</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Cost Analysis;High Dimension;Index Structure;Optimization Technique;Score Function;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>Given a record set D and a query score function F ,a top-k query returns k records from D ,w hose values of function F on their attributes are the highest. In this paper, we investigate the intrinsic connection between top-k queries and dominant relationship between records, and based on which, we propose an efficient layer-based indexing structure, Dominant Graph</abstract>
+	</publication>
+	<publication>
+		<title>Spotting Significant Changing Subgraphs in Evolving Graphs</title>
+		<year>2008</year>
+		<authors>zheng liu,jeffrey xu yu,yiping ke,xuemin lin</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>506</label>
+		<keyword>Efficient Algorithm;Sensor Network;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Graphs are popularly used to model structural relation- ships between objects. In many application domains such as social networks, sensor networks and telecommunication, graphs evolve over time. In this paper, we study a new prob- lem of discovering the subgraphs that exhibit significant changes in evolving graphs. This problem is challenging since it is hard to define changing regions that</abstract>
+	</publication>
+	<publication>
+		<title>Rule-based scene extraction from video</title>
+		<year>2002</year>
+		<authors>m. tamer özsu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>506</label>
+		<keyword>Finite State Machine;Image Features;Video Editing;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Instead of clustering video shots into scenes using low level image features, in this paper, we propose a rule-based model to extract simple dialog or action scenes. Through analyzing video editing rules and observing temporal appearance patterns of shots in dialog scenes of movies, we deduce a set of rules to recognize dialog or action scenes. Based on these</abstract>
+	</publication>
+	<publication>
+		<title>Mixed Type Audio Classification with Support Vector Machine</title>
+		<year>2006</year>
+		<authors>sule gündüz,m. tamer özsu</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>506</label>
+		<keyword>Audio Classification;Boundary Detection;Classification System;Content Based Video Retrieval;K Nearest Neighbor;Naive Bayes;Speech Segmentation;Support Vector Machine;Audio Visual;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Content-based classification of audio data is an important problem for various applications such as overall analysis of audio-visual streams, boundary detection of video story segment, extraction of speech segments from video, and content-based video retrieval. Though the classification of audio into single type such as music, speech, environmen- tal sound and silence is well studied, classification of mixed type audio</abstract>
+	</publication>
+	<publication>
+		<title>Research of Blind Images Separation Algorithm Based on Kernel Space</title>
+		<year>2009</year>
+		<authors>liyi zhang,yanju guo,ting liu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequential blind image extraction based on particle swarm optimization</title>
+		<year>2010</year>
+		<authors>liyi zhang,yanju guo,ting liu,qiang li</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>506</label>
+		<keyword>particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Adaptive Multi-user Detection Algorithm Based on Forward Neural Network</title>
+		<year>2009</year>
+		<authors>ting liu,bin wang,yunshan sun,liyi zhang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>506</label>
+		<keyword>Multi User Detection;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Research on neural network blind equalization algorithm with structure optimized by genetic algorithm</title>
+		<year>2010</year>
+		<authors>liyi zhang,ting liu,yunshan sun</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>506</label>
+		<keyword>Blind Equalization;Genetic Algorithm;Structure Optimization;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual Surrounding Face Geocasting with Guaranteed Message Delivery for Ad Hoc and Sensor Networks</title>
+		<year>2006</year>
+		<authors>jie lian,kshirasagar naik,yunhao liu</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>506</label>
+		<keyword>Ad Hoc Network;Sensor Network;Simulation Study;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Geocasting in wireless sensor networks and ad hoc networks is the delivery of a message from a source to all the nodes in a given geographical region. The objectives of a geocasting protocol are two-folds: guaranteed message delivery and low transmission cost. Most of the existing protocols do not guarantee message delivery, and those that do incur a high transmission</abstract>
+	</publication>
+	<publication>
+		<title>A push-based prefetching for cooperative caching RAM Grid</title>
+		<year>2007</year>
+		<authors>rui chu,nong xiao,xicheng lu</authors>
+		<jconf>International Conference on Parallel and Distributed Systems</jconf>
+		<label>506</label>
+		<keyword>Cooperative Caching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Collaborative Search in Large-scale Unstructured Peer-to-Peer Networks</title>
+		<year>2007</year>
+		<authors>yiming zhang,dongsheng li,xicheng lu</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>506</label>
+		<keyword>Bloom Filter;Information Aggregation;Large Scale;Peer-to-peer Network;Theoretical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Searching in large-scale unstructured peer-to-peer networks is challenging due to the lack of effective hint information to guide queries. In this paper, we propose POP, a Parallel, cOllaborative and Probabilistic search mechanism, in which query messages are viewed as search units to collaborate with each other and aggregate the distributed hints during the search process. A scheme called Distributed Bloom</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Edit Distance on Real Sequences Filters using Histogram Distance on Fixed Reference Ordering</title>
+		<year>2006</year>
+		<authors>prima chairunnanda,vivekanand gopalkrishnan</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>506</label>
+		<keyword>Edit Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two Novel Semantics of Top-k Queries Processing in Uncertain Database</title>
+		<year>2010</year>
+		<authors>dexi liu,changxuan wan,naixue xiong,laurence tianruo yang</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>506</label>
+		<keyword>top-k query processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recent Advances in CFD Grid Application Platform</title>
+		<year>2004</year>
+		<authors>xinhua lin,xi-li sun,xinda lu,qianni deng,minglu li,hong liu,yang qi</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>506</label>
+		<keyword>Grid Applications;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Efficient Content Matching in Distributed Pub/Sub Systems</title>
+		<year>2009</year>
+		<authors>weixiong rao,ada wai-chee fu,hanhua chen,futai zou</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>506</label>
+		<keyword>Cost Model;Distributed Environment;High Efficiency;Indexation;Performance Evaluation;publish/subscribe system;Simulation Environment;Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—The efficiency of matching structures is the key issue for content publish/subscribe systems. In this paper, we propose an efficient matching tree structure, named COBASTREE ,f or a distributed environment. Particularly, we model a predicate in each subscription filter as an interval and published content value as a data point. The COBASTREE is designed to index all subscription intervals and</abstract>
+	</publication>
+	<publication>
+		<title>Continuous answering holistic queries over sensor networks</title>
+		<year>2008</year>
+		<authors>kebin liu,minglu li,yunhao liu</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>506</label>
+		<keyword>Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SenCast: Scalable multicast in wireless sensor networks</title>
+		<year>2008</year>
+		<authors>shaoliang peng,shanshan li,nong xiao,yuxing peng</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>506</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Exact Locality Sensitive Mapping to Group and Detect Audio-Based Cover Songs</title>
+		<year>2008</year>
+		<authors>yi yu,j. stephen downie,fabian mörchen,kazuki joe</authors>
+		<jconf>International Symposium on Multimedia</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient anomaly monitoring over moving object trajectory streams</title>
+		<year>2009</year>
+		<authors>yingyi bu,ada wai-chee fu,dawei liu</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>506</label>
+		<keyword>Data Processing;High Speed;Index Structure;Moving Object;Outlier Detection;Similarity Search;Temporal Data;</keyword>
+		<organization>null</organization>
+		<abstract>Lately there exist increasing demands for online abnormality mon- itoring over trajectory streams, which are obtained from moving object tracking devices. This problem is challenging due to the re- quirement of high speed data processing within limited space cost. In this paper, we present a novel framework for monitoring anoma- lies over continuous trajectory streams. First, we illustrate the im-</abstract>
+	</publication>
+	<publication>
+		<title>Symbolic representation and retrieval of moving object trajectories</title>
+		<year>2004</year>
+		<authors>m. tamer özsu,vincent oria</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>506</label>
+		<keyword>Content Based Video Retrieval;Data Analysis;Edit Distance;Movement Pattern;Moving Object;Scene Classification;Symbolic Representation;Video Database;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Searching moving object trajectories of video databases has been applied to many fields, such as video data analysis, content-based video retrieval, video scene classification. In this paper, we propose a novel representation of trajectories, called movement pattern strings, which convert the trajectories into symbolic representations. Movement pattern strings encode both the movement direction and the movement distance information of the</abstract>
+	</publication>
+	<publication>
+		<title>Searching musical audio datasets by a batch of multivariant tracks</title>
+		<year>2008</year>
+		<authors>yi yu,j. stephen downie,vincent oria,kazuki joe</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>506</label>
+		<keyword>Audio Retrieval;Indexation;K Nearest Neighbor;Locality Sensitive Hashing;Semantic Indexing;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-variant music tracks are those audio tracks of a particular song which are sung and recorded by different people (i.e., cover songs). As music social clubs grow on the Internet, more and more people like to upload music recordings onto such music social sites to share their own home-produced albums and participate in Internet singing contests. Therefore it is very</abstract>
+	</publication>
+	<publication>
+		<title>A MultiLevel Index Structure for Video Databases</title>
+		<year>2002</year>
+		<authors>vincent oria,m. tamer özsu</authors>
+		<jconf>Workshop on Multimedia Information Systems</jconf>
+		<label>506</label>
+		<keyword>Data Model;Index Structure;Indexation;Video Database;</keyword>
+		<organization>null</organization>
+		<abstract>Several salient object-based data models have been proposed to model the video data, however, none of them proposed an index structure to handle the salient object-based queries efciently . There are several indexing schemes that have been proposed for spatio-temporal relationships among objects and they are used to optimize timestamp and interval queries, which are rarely used in video database.</abstract>
+	</publication>
+	<publication>
+		<title>Local summarization and multilevel LSH for retrieving multivariant audio tracks</title>
+		<year>2009</year>
+		<authors>yi yu,michel crucianu,vincent oria</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>506</label>
+		<keyword>Experimental Evaluation;Locality Sensitive Hashing;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we study the problem of detecting and group- ing multi-variant audio tracks in large audio datasets. To address this issue, a fast and reliable retrieval method is necessary. But reliability requires elaborate representations of audio content, which challenges fast retrieval by similar- ity from a large audio database. To flnd a better trade- ofi between retrieval quality</abstract>
+	</publication>
+	<publication>
+		<title>COSIN: content-based retrieval system for cover songs</title>
+		<year>2008</year>
+		<authors>yi yu,j. stephen downie,fabian moerchen,kazuki joe,vincent oria</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>506</label>
+		<keyword>Approximate Matching;Audio Retrieval;Content Based Retrieval;Dynamic Program;Indexation;Music Retrieval;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a content-based audio COver Song IdeNtification (COSIN) system to detect/group cover songs. The COSIN takes music audio content as input and performs similarity searching to locate variants of the input (i.e., cover versions). Identified cover songs are returned in the rank order according to their similarity to the input. The COSIN also incorporates a set of tools to</abstract>
+	</publication>
+	<publication>
+		<title>Modeling Video Data for Content Based Queries: Extending the DISIMA Image Data Model</title>
+		<year>2003</year>
+		<authors>m. tamer özsu,vincent oria</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>506</label>
+		<keyword>Data Model;Query Language;</keyword>
+		<organization>null</organization>
+		<abstract>We present an efficient video data model that extends the DISIMA image data model by add- ing the video components and setting up links between image and video data. Many video data models have been proposed, most of which describe video data independently of image data and therefore fail to consider the relationship between videos and images. Our proposed model</abstract>
+	</publication>
+	<publication>
+		<title>Flexible Routing in Grouped DHTs</title>
+		<year>2008</year>
+		<authors>yiming zhang,dongsheng li,xicheng lu</authors>
+		<jconf>Peer-to-Peer Computing</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining Frequent Trajectory Patterns for Activity Monitoring Using Radio Frequency Tag Arrays</title>
+		<year>2007</year>
+		<authors>yunhao liu,jian pei,qiuxia chen,yiyang zhao</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>506</label>
+		<keyword>Data Mining;Empirical Study;Fault Tolerant;Radio Frequency;</keyword>
+		<organization>null</organization>
+		<abstract>Activity monitoring, a crucial task in many applications, is often conducted expensively using video cameras. Also, effectively monitoring a large field by analyzing images from multiple cameras remains a challenging problem. In this paper, we introduce a novel application of the recently developed RFID technology: using RF tag arrays for activity monitoring, where data mining techniques play a critical role.</abstract>
+	</publication>
+	<publication>
+		<title>Robust and fast similarity search for moving object trajectories</title>
+		<year>2005</year>
+		<authors>m. tamer özsu,vincent oria</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>506</label>
+		<keyword>Distance Function;Dynamic Time Warping;Edit Distance;Euclidean Distance;Longest Common Subsequence;Moving Object;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract>An important consideration in similarity-based retrieval of moving object trajectories is the definition of a distance function. The existing distance functions are usually sensitive to noise, shifts and scaling of data that commonly occur due to sensor failures, errors in detection techniques, disturbance signals, and different sampling rates. Cleaning data to eliminate these is not always possible. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Monochromatic and bichromatic reverse skyline search over uncertain databases</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>506</label>
+		<keyword>Business Planning;Search Space;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Reverse skyline queries over uncertain databases have many im- portant applications such as sensor data monitoring and business planning. Due to the existence of uncertainty in many real-world data, answering reverse skyline queries accurately and efficiently over uncertain data has become increasingly important. In this pa- per, we model the probabilistic reverse skyline query on uncertain data, in both monochromatic</abstract>
+	</publication>
+	<publication>
+		<title>Consistent query answers in inconsistent probabilistic databases</title>
+		<year>2010</year>
+		<authors>xiang lian,shaoxu song</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>506</label>
+		<keyword>Data Collection;Data Uncertainty;False Positive;Graph Representation;Possible Worlds;Probabilistic Database;Query Answering;Range Query;</keyword>
+		<organization>null</organization>
+		<abstract>Efficient and effective manipulation of probabilistic data has become increasingly important recently due to many real applications that involve the data uncertainty. This is especially crucial when probabilistic data collected from different sources disagree with each other and incur inconsistencies. In order to accommodate such inconsistencies and enable consistent query answering (CQA), in this paper, we propose the all-possible-repair semantics</abstract>
+	</publication>
+	<publication>
+		<title>Contour map matching for event detection in sensor networks</title>
+		<year>2006</year>
+		<authors>wenwei xue,qiong luo,yunhao liu</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>506</label>
+		<keyword>Coal Mining;Data Distribution;Energy Efficient;Event Detection;Object Tracking;Pattern Matching;Sensor Network;Temporal Pattern;</keyword>
+		<organization>null</organization>
+		<abstract>Many sensor network applications, such as object tracking and disaster monitoring, require effective techniques for event detection. In this paper, we propose a novel event detection mechanism based on matching the contour maps of in-network sensory data distribution. Our key observation is that events in sensor networks can be abstracted into spatio-temporal patterns of sensory data and that pattern matching</abstract>
+	</publication>
+	<publication>
+		<title>Incorporating Audio Cues into Dialog and Action Scene Extraction</title>
+		<year>2003</year>
+		<authors>shariq rizvi,m. tamer özsu</authors>
+		<jconf>Storage and Retrieval for Image and Video Databases</jconf>
+		<label>506</label>
+		<keyword>Audio Classification;Finite State Machine;Support Vector Machine;Video Editing;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present an approach to extract scenes in video. The approach is top-down and uses video editing rules and audio cues to extract simple dialog and action scenes. The underlying model is a finite state machine coupled with audio cues that are determined using an audio classifier.</abstract>
+	</publication>
+	<publication>
+		<title>Using Multi-Scale Histograms to Answer Pattern Existence and Shape Match Queries</title>
+		<year>2005</year>
+		<authors>m. tamer özsu,vincent oria</authors>
+		<jconf>Statistical and Scientific Database Management</jconf>
+		<label>506</label>
+		<keyword>Shape Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Methods on Predictions for Similarity Search over Stream Time Series</title>
+		<year>2006</year>
+		<authors>xiang lian</authors>
+		<jconf>Statistical and Scientific Database Management</jconf>
+		<label>506</label>
+		<keyword>Batch Process;Indexation;Similarity Search;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the wide usage of stream time series, an efficient and effective similarity search over stream data becomes essential for many applications. Although many approaches have been proposed for searching through archived data, because of the unique characteristics of the stream, for example, data are frequently updated, traditional methods may not work for the stream time series. Especially, for</abstract>
+	</publication>
+	<publication>
+		<title>Indexable PLA for Efficient Similarity Search</title>
+		<year>2007</year>
+		<authors>qiuxia chen,xiang lian,yunhao liu,jeffrey xu yu</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>506</label>
+		<keyword>chebyshev polynomial;Data Mining;Dimensional Reduction;Distance Function;Euclidean Distance;High Dimensionality;Indexation;Multimedia Retrieval;piecewise linear approximation;Reduction Method;Similarity Search;Spectrum;Synthetic Data;Time Series;Web Search;adaptive piecewise constant approximation;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Similarity-based search over time-series databases has been a hot research topic for a long history, which is widely used in many applications, including multimedia retrieval, data mining, web search and retrieval, and so on. However, due to high dimensionality (i.e. length) of the time series, the similarity search over directly indexed time series usually encounters a serious problem, known as</abstract>
+	</publication>
+	<publication>
+		<title>On The Marriage of Lp-norms and Edit Distance</title>
+		<year>2004</year>
+		<authors>raymond t. ng</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>506</label>
+		<keyword>Distance Function;Edit Distance;Indexation;Lp Norm;Time Series;Triangle Inequality;Lower Bound;Local Time;</keyword>
+		<organization>null</organization>
+		<abstract>Existing studies on time series are based on two categories of distance functions. The first category consists of the Lp-norms. They are metric distance functions but cannot support local time shifting. The second category con- sists of distance functions which are capable of handling local time shifting but are non- metric. The first contribution of this paper is the proposal</abstract>
+	</publication>
+	<publication>
+		<title>Efficient multi-keyword search over p2p web</title>
+		<year>2008</year>
+		<authors>hanhua chen,hai jin,jiliang wang,yunhao liu,lionel m. ni</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>506</label>
+		<keyword>Algorithm Design;Bloom Filter;Design Optimization;Keyword Search;P2P;P2p System;Query Logs;Search Engine;Test Collection;False Positive Rate;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Current search mechanisms of DHT-based P2P systems can well handle a single keyword search problem. Other than single keyword search, multi-keyword search is quite popular and useful in many real applications. Simply using the solution for single keyword search will require distributed intersection/union operations in wide area networks, leading to unacceptable traffic cost. As it is well known that Bloom</abstract>
+	</publication>
+	<publication>
+		<title>Discovering Matching Dependencies</title>
+		<year>2009</year>
+		<authors>shaoxu song</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>506</label>
+		<keyword>Data Quality;Experimental Evaluation;Functional Dependency;Greedy Algorithm;Object Identification;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>The concept of matching dependencies(MDs) is recently proposed for specifying matching rules for object identification. Si milar to the functional dependencies (with conditions), MDs can also be ap- plied to various data quality applications such as violatio n detec- tion. In this paper, we first formally define the statistical m easures to evaluate MDs in a given database instance. Then,</abstract>
+	</publication>
+	<publication>
+		<title>BBS: An Energy Efficient Localized Routing Scheme for Query Processing in Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>jie lian,kshirasagar naik,gordon b. agnew,m. tamer özsu</authors>
+		<jconf>International Journal of Distributed Sensor Networks</jconf>
+		<label>506</label>
+		<keyword>Energy Efficient;Query Processing;Routing Protocol;Simulation Study;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>A wireless sensor network (WSNET) can support various types of queries. The energy resource of sensors constrains the total number of query responses, called query capacity, received by the sink. There are four problems in the existing approaches for energy-efficient query processing in WSNETs: (i) the fact that sensors near the sink drain their energy much faster than distant sensors</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Base-Station Model-Based Multicast in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>shaoliang peng,shanshan li,yuxing peng,nong xiao</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>506</label>
+		<keyword>Base Station;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continually Answering Constraint k - NN Queries in Unstructured P2P Systems</title>
+		<year>2008</year>
+		<authors>bin wang,xiaochun yang,guoren wang,ge yu,xiaoyang sean wang,xuemin lin</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>506</label>
+		<keyword>Communication Cost;Continuous Query;P2P;P2p System;Peer To Peer;Query Answering;Minimum Bounding Rectangle;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of e-ciently computing distributed geographical k-NN queries in an unstructured peer-to-peer (P2P) system, in which each peer is managed by an individual organization and can only communicate with its logical neighboring peers. Such queries are based on local fllter query statistics, and require as less communication cost as possible, which makes it more di-cult than the</abstract>
+	</publication>
+	<publication>
+		<title>MINDEX: An efficient index structure for salient-object-based queries in video databases</title>
+		<year>2004</year>
+		<authors>m. tamer özsu,vincent oria</authors>
+		<jconf>Multimedia Systems</jconf>
+		<label>506</label>
+		<keyword>Data Model;Index Structure;Indexation;Video Database;</keyword>
+		<organization>null</organization>
+		<abstract>The date of receipt and acceptance will be inserted by the editor Abstract Several salient object-based data models have been proposed to model video data. However, none of them address the development of an index structure to ecien tly handle salient object-based queries. There are several indexing schemes that have been proposed for spatio-temporal relationships among objects and they are</abstract>
+	</publication>
+	<publication>
+		<title>Robust and Efficient Aggregate Query Processing in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>kebin liu,yunhao liu,minglu li</authors>
+		<jconf>Mobile Networks and Applications</jconf>
+		<label>506</label>
+		<keyword>Query Processing;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy preserving serial data publishing by role composition</title>
+		<year>2008</year>
+		<authors>yingyi bu,ada wai-chee fu,raymond chi-wing wong,jiuyong li</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>506</label>
+		<keyword>Medical Application;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Previous works about privacy preserving serial data publishing on dynamic databases have relied on unrealistic assumptions of the nature of dynamic databases. In many applications, some sensi- tive values changes freely while others never change. For exam- ple, in medical applications, the disease attribute changes with time when patients recover from one disease and develop another dis- ease. However, patients</abstract>
+	</publication>
+	<publication>
+		<title>Sliding-window top-k queries on uncertain streams</title>
+		<year>2008</year>
+		<authors>cheqing jin,ke yi,jeffrey xu yu,xuemin lin</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>506</label>
+		<keyword>Data Model;Data Stream;Possible Worlds;Query Processing;Sensor Network;Sliding Window;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Query processing on uncertain data streams has attracted a l ot of attentions lately, due to the imprecise nature in the data ge nerated from a variety of streaming applications, such as readings f rom a sensor network. However, all of the existing works on uncertain data streams study unbounded streams. This paper takes the fi rst step towards the</abstract>
+	</publication>
+	<publication>
+		<title>Set Similarity Join on Probabilistic Data</title>
+		<year>2010</year>
+		<authors>xiang lian</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>506</label>
+		<keyword>Similarity Join;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Generic Framework for Handling Uncertain Data with Local Correlations</title>
+		<year>2011</year>
+		<authors>xiang lian</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>506</label>
+		<keyword>Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DistanceJoin: Pattern Match Query In a Large Graph Database</title>
+		<year>2009</year>
+		<authors>lei zou,m. tamer özsu</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>506</label>
+		<keyword>Data Management;Graph Embedding;Large Data;Order Selection;Pattern Matching;Search Space;Vector Space;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>The growing popularity of graph databases has generated interesting data management problems, such as subgraph search, shortest-path query, reachability veriflcation, and pattern match. Among these, a pattern match query is more ∞exible compared to a subgraph search and more informa- tive compared to a shortest-path or reachability query. In this paper, we address pattern match problems over a large data</abstract>
+	</publication>
+	<publication>
+		<title>K-Automorphism: A General Framework For Privacy Preserving Network Publication</title>
+		<year>2009</year>
+		<authors>lei zou,m. tamer özsu</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>506</label>
+		<keyword>Data Management;Data Mining;Privacy Preservation;Social Network;Social Security;</keyword>
+		<organization>null</organization>
+		<abstract>The growing popularity of social networks has generated interest- ing data management and data mining problems. An important concern in the release of these data for study is their privacy, since social networks usually contain personal information. Simply re- moving all identifiable personal information (such as names and social security number) before releasing the data is insufficient. It is easy</abstract>
+	</publication>
+	<publication>
+		<title>Interactive high-dimensional index for large Chinese calligraphic character databases</title>
+		<year>2007</year>
+		<authors>yi zhuang,yueting zhuang,qing li</authors>
+		<jconf>ACM Transactions on Asian Language Information Processing</jconf>
+		<label>506</label>
+		<keyword>Cultural Heritage;High Dimensionality;Indexation;Relevance Feedback;Shape Similarity;</keyword>
+		<organization>null</organization>
+		<abstract>The large numbers of Chinese calligraphic scripts in existence are valuable part of the Chinese cultural heritage. However, due to the shape complexity of these characters, it is hard to employ existing techniques to effectively retrieve and efficiently index them. In this article, using a novel shape-similarity- based retrieval method in which shapes of calligraphic characters are represented by their</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Search in Nonmetric Spaces with Local Constant Embedding</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Processing of Metric Skyline Queries</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuous Subgraph Pattern Search over Certain and Uncertain Graph Streams</title>
+		<year>2010</year>
+		<authors>changliang wang</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Pattern Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Search over Future Stream Time Series</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Anomaly Detection;Batch Process;Communication Technology;Data Mining;Discrete Fourier Transform;Financial Data;Indexation;Similarity Search;Time Series;Process Network;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>With the advance of hardware and communication technologies, stream time series is gaining ever-increasing attention due to its importance in many applications such as financial data processing, network monitoring, Web click-stream analysis, sensor data mining, and anomaly detection. For all of these applications, an efficient and effective similarity search over stream data is essential. Because of the unique characteristics of</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic Group Nearest Neighbor Queries in Uncertain Databases</title>
+		<year>2008</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Nearest Neighbor Queries;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>General Cost Models for Evaluating Dimensionality Reduction in High-Dimensional Spaces</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Cost Model;Dimensional Reduction;High Dimensionality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Join over Multiple Stream Time Series</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Similarity Join;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ranked Query Processing in Uncertain Databases</title>
+		<year>2010</year>
+		<authors>xiang lian</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiscale Representations for Fast Pattern Matching in Stream Time Series</title>
+		<year>2009</year>
+		<authors>xiang lian,jeffrey xu yu,jinsong han,jian ma</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Multiscale Representation;Pattern Matching;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonthreshold-Based Event Detection for 3D Environment Monitoring in Sensor Networks</title>
+		<year>2008</year>
+		<authors>mo li,yunhao liu</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>3d environment;Event Detection;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Maximal Subspace Coregulated Gene Clustering</title>
+		<year>2008</year>
+		<authors>yuhai zhao,jeffrey xu yu,guoren wang,bin wang,ge yu</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword>Experimental Study;Gene Cluster;Microarray Data;</keyword>
+		<organization>null</organization>
+		<abstract>Clustering is a popular technique for analyzing microarray data sets, with n genes and m experimental conditions. As explored by biologists, there is a real need to identify coregulated gene clusters, which include both positive and negative regulated gene clusters. The existing pattern-based and tendency-based clustering approaches cannot directly be applied to find such coregulated gene clusters, because they are</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Subspace Symbolization for Content-Based Video Detection</title>
+		<year>2010</year>
+		<authors>xiangmin zhou,xiaofang zhou,yanfeng shu,athman bouguettaya,john a. taylor</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reverse skyline search in uncertain databases</title>
+		<year>2010</year>
+		<authors>xiang lian</authors>
+		<jconf>ACM Transactions on Database Systems</jconf>
+		<label>506</label>
+		<keyword>Business Planning;Query Processing;Search Space;Uncertain Data;</keyword>
+		<organization>null</organization>
+		<abstract>Reverse skyline queries over uncertain databases have many important applications such as sensor data monitoring and business planning. Due to the wide existence of uncertainty in many real-world data, answering reverse skyline queries accurately and efficiently over uncertain data has become increasingly important. In this article, we formalize the probabilistic reverse skyline query over uncertain data, in both monochromatic and</abstract>
+	</publication>
+	<publication>
+		<title>Virtual surrounding face geocasting in wireless ad hoc and sensor networks</title>
+		<year>2009</year>
+		<authors>jie lian,yunhao liu,kshirasagar naik</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>506</label>
+		<keyword>Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gradient Boundary Detection for Time Series Snapshot Construction in Sensor Networks</title>
+		<year>2007</year>
+		<authors>jie lian,kshirasagar naik,yunhao liu,gordon b. agnew</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>506</label>
+		<keyword>Boundary Detection;Energy Consumption;Energy Efficient;Energy Saving;Historical Data;Indexing Terms;Planar Graph;Query Processing;Sensor Network;Time Series;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>In many applications of sensor networks, the sink needs to keep track of the history of sensed data of a monitored region for scientific analysis or supporting historical queries. We call these historical data as a time series of value distributions, or snapshots. Obviously, to build the time series snapshots by requiring all the sensors to transmit their data to</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Resource Placement in Structured Peer-to-Peer Networks</title>
+		<year>2010</year>
+		<authors>weixiong rao,ada wai-chee fu,guoren wang</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>506</label>
+		<keyword>Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data</title>
+		<year>2009</year>
+		<authors>xiang lian</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>506</label>
+		<keyword>Uncertain Data;Reverse Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Curse of Dimensionality</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>506</label>
+		<keyword>Curse of Dimensionality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two-Dimensional Shape Retrieval</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>506</label>
+		<keyword>Shape Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Video Content Modeling</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>506</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning from Aggregate Views</title>
+		<year>2006</year>
+		<authors>bee-chung chen,raghu ramakrishnan,david r. musicant</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>507</label>
+		<keyword>Data Mining;Learning Methods;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce a new class of data mining problems called learning from aggregate views. In contrast to the traditional problem of learning from a single table of training examples, the new goal is to learn from multiple aggregate views of the underlying data, without access to the un-aggregated data. We motivate this new problem, present a general</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Evaluation of Composite Aggregate Queries</title>
+		<year>2008</year>
+		<authors>christopher olston,raghu ramakrishnan</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>507</label>
+		<keyword>Distributed System;Exploratory Analysis;Grouped Data;Optimal Algorithm;Sliding Window;Decision Support;</keyword>
+		<organization>null</organization>
+		<abstract>Aggregate measures summarizing subsets of data are valuable in exploratory analysis and decision support, espe- cially when dependent aggregations can be easily specified and computed. A novel class of queries, called composite subset mea- sures, was previously introduced to allow correlated aggregate queries to be easily expressed. This paper considers how to evaluate composite subset mea- sure queries using a</abstract>
+	</publication>
+	<publication>
+		<title>Mass Spectrum Labeling: Theory and Practice</title>
+		<year>2004</year>
+		<authors>zheng huang,jin-yi cai,deborah s. gross,david r. musicant,raghu ramakrishnan,james j. schauer,stephen j. wright</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>507</label>
+		<keyword>Atmospheric Aerosols;Data Mining;Experimental Evaluation;Machine Learning;Real-time Monitoring;Spectrum;Theory and Practice;Aerosol Mass Spectrometer;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, a number of instruments have been developed for continuous, real-time monitoring of the environment. Aerosol mass spectrometers can analyze several hundred atmospheric aerosol particles per minute and generate a plot of mass-to-charge versus intensity (a mass spectrum) for each particle. The mass spectrum could be used to identify the compounds present in the particle in real- time,</abstract>
+	</publication>
+	<publication>
+		<title>Cost-based labeling of groups of mass spectra</title>
+		<year>2004</year>
+		<authors>zheng huang,raghu ramakrishnan</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>507</label>
+		<keyword>Atmospheric Aerosols;Data Mining;Query Optimization;Spectrum;Linear Program;Mass Spectra;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>We make two main contributions in this paper. First, we motivate and introduce a novel class of data mining problems that arise in labeling a group of mass spectra, specifically for analysis of atmospheric aerosols, but with natural applications to market-basket datasets. This builds upon other recent work in which we introduced the problem of labeling a single spectrum, and</abstract>
+	</publication>
+	<publication>
+		<title>Composite Subset Measures</title>
+		<year>2006</year>
+		<authors>raghu ramakrishnan,paul barford,bee-chung chen,vinod yegneswaran</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>507</label>
+		<keyword>Aggregation Function;Evaluation Framework;large dataset;Multidimensional Data;Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>Measures are numeric summaries of a collection of data records produced by applying aggregation functions. Summarizing a col- lection of subsets of a large dataset, by computing a measure for each subset in the (typically, user-specified) collection is a funda- mental problem. The multidimensional data model, which treats records as points in a space defined by dimension attributes, offers a</abstract>
+	</publication>
+	<publication>
+		<title>Prediction Cubes</title>
+		<year>2005</year>
+		<authors>bee-chung chen,yanping lin,raghu ramakrishnan</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>507</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Environmental chemistry through intelligent atmospheric data analysis</title>
+		<year>2010</year>
+		<authors>deborah s. gross,robert atlas,jeffrey rzeszotarski,emma turetsky,janara m. christensen,sami benzaid,jamie f. olson,thomas g. smith,leah e. steinberg,jon sulman,anna m. ritz,benjamin j. anderson,catherine nelson,david r. musicant,david c. snyder,james j. schauer</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>507</label>
+		<keyword>Data Analysis;Environmental Chemistry;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The EDAM project: Mining atmospheric aerosol datasets</title>
+		<year>2005</year>
+		<authors>raghu ramakrishnan,james j. schauer,zheng huang,martin m. shafer,deborah s. gross,david r. musicant</authors>
+		<jconf>International Journal of Intelligent Systems</jconf>
+		<label>507</label>
+		<keyword>Atmospheric Aerosols;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Audio and Vision-Based Evaluation of Parkinson's Disease from Discourse Video</title>
+		<year>2001</year>
+		<authors>francis k. h. quek,robert k. bryll,mary p. harper,lorraine ramig</authors>
+		<jconf>IEEE International Conference on Bioinformatics and Bioengineering</jconf>
+		<label>508</label>
+		<keyword>Disease Progression;parkinson's disease;Pilot Study;Treatment Efficacy;</keyword>
+		<organization>null</organization>
+		<abstract>Parkinson's disease (PD) belongs to a class of neurodegen- erative diseases that affect both the patient's speech and motor capabilities. To date, PD diagnosis and the determi- nation of disease progress and treatment efficacy is based entirely on the subjective observation of a trained physi- cian. We present the results of a pilot study of two Id- iopathic PD patients</abstract>
+	</publication>
+	<publication>
+		<title>Using maximum entropy (ME) model to incorporate gesture cues for SU detection</title>
+		<year>2006</year>
+		<authors>mary p. harper,zhongqiang huang</authors>
+		<jconf>Int. Conf. on Multimodal Interfaces</jconf>
+		<label>508</label>
+		<keyword>Boundary Detection;Classification Error;Language Model;Maximum Entropy;multimodal fusion;multimodal integration;Posterior Probability;Speech Recognition;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate identification of sentence units (SUs) in sponta- neous speech has been found to improve the accuracy of speech recognition, as well as downstream applications such as parsing. In recent multimodal investigations, gestur)al features were utilized, in addition to lexical and prosodic cues from the speech channel, for detecting SUs in conversa- tional interactions using a hidden Markov model (HMM)</abstract>
+	</publication>
+	<publication>
+		<title>Multimodal floor control shift detection</title>
+		<year>2009</year>
+		<authors>mary p. harper</authors>
+		<jconf>Int. Conf. on Multimodal Interfaces</jconf>
+		<label>508</label>
+		<keyword>Automatic Detection;Interactive System;Language Model;multimodal fusion;Nonverbal Communication;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Floor control is a scheme used by people to organize speak- ing turns in multi-party conversations. Identifying the floor control shifts is important for understanding a conversa- tion's structure and would be helpful for more natural hu- man computer interaction systems. Although people tend to use verbal and nonverbal cues for managing floor control shifts, only audio cues, e.g., lexical</abstract>
+	</publication>
+	<publication>
+		<title>Gesture Patterns during Speech Repairs</title>
+		<year>2002</year>
+		<authors>mary p. harper,francis k. h. quek</authors>
+		<jconf>Int. Conf. on Multimodal Interfaces</jconf>
+		<label>508</label>
+		<keyword>Data Extraction;multimodal interface;Speech Recognition;Spontaneous Speech;</keyword>
+		<organization>null</organization>
+		<abstract>Speech and gesture are two primary modes used in nat- ural human communication; hence, they are important in- puts for a multimodalinterface to process. One of the chal- lenges for multimodal interfaces is to accurately recognize the words in spontaneous speech. This is partly due to the presence of speech repairs, which seriously degrade the ac- curacy of current speech</abstract>
+	</publication>
+	<publication>
+		<title>A Multimodal Analysis of Floor Control in Meetings</title>
+		<year>2006</year>
+		<authors>mary p. harper,amy franklin,r. travis rose,irene kimbara,zhongqiang huang,francis k. h. quek</authors>
+		<jconf>Machine Learning for Multimodal Interaction</jconf>
+		<label>508</label>
+		<keyword>Discourse Marker;Eye Gaze;Information Retrieval;Visual Cues;</keyword>
+		<organization>null</organization>
+		<abstract>The participant in a human-to-human communication who controls the floor bears the burden of moving the communication process along. Change in control of the floor can happen through a number of mechanisms, including interruptions, delegation of the floor, and so on. This paper investigates floor control in multiparty meetings that are both audio and video taped; hence, we analyze patterns</abstract>
+	</publication>
+	<publication>
+		<title>VACE Multimodal Meeting Corpus</title>
+		<year>2005</year>
+		<authors>r. travis rose,ying qiao,irene kimbara,fey parrill,haleema welji,tony x. han,jilin tu,zhongqiang huang,mary p. harper,francis k. h. quek,yingen xiong,david mcneill,ronald tuttle,thomas s. huang</authors>
+		<jconf>Machine Learning for Multimodal Interaction</jconf>
+		<label>508</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we report on the infrastructure we have de- veloped to support our research on multimodal cues for understanding meetings. With our focus on multimodality, we investigate the interaction among speech, gesture, posture, and gaze in meetings. For this purpose, a high quality multimodal corpus is being produced.</abstract>
+	</publication>
+	<publication>
+		<title>A Dependable Communication Network for e-Textiles</title>
+		<year>2006</year>
+		<authors>nenggan zheng,zhaohui wu,yanmiao zhou,qijia wang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>509</label>
+		<keyword>Community Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The E-Textile Token Grid Network with Dual Rings</title>
+		<year>2006</year>
+		<authors>nenggan zheng,zhaohui wu,yanmiao zhou</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>509</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Auction-Based Congestion Management for Target Tracking in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>boleslaw k. szymanski,joel w. branch</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>510</label>
+		<keyword>Bandwidth Allocation;Congestion Management;Incentive Compatibility;Second Price Auction;Target Tracking;Quality of Information;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we advocate the use of a distributed auction-based approach to locally manage network bandwidth allocation in the described context. We use the Second Price Auction mechanism (to ensure incentive compatibility) in which the congested node acts as the auctioneer and the packets carrying target updates act as bidders. Their bid values are defined by the loss of</abstract>
+	</publication>
+</person>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Sommer</FullName>
+	<publication>
+		<title>Distance Oracles for Sparse Graphs</title>
+		<year>2009</year>
+		<authors>elad verbin,wei yu</authors>
+		<jconf>IEEE Symposium on Foundations of Computer Science</jconf>
+		<label>148</label>
+		<keyword>Data Structure;Distance Estimation;Efficient Algorithm;Space Complexity;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Thorup and Zwick, in their seminal work, intro- duced the approximate distance oracle, which is a data structure that answers distance queries in a graph. For any integer k, they showed an efficient algorithm to construct an approximate distance oracle using space O(kn1+1/k) that can answer queries in time O(k) with a distance estimate that is at most = 2k</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Arrays: A P2P Data Structure for Efficient Logical Arrays</title>
+		<year>2009</year>
+		<authors>daisuke fukuchi,yuichi sei,shinichi honiden</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>148</label>
+		<keyword>Data Management;Data Structure;Distributed Hash Table;Hash Function;Overlay Network;P2P;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed hash tables (DHT) are used for data management in P2P environments. However, since most hash functions ignore relations between items, DHTs are not efficient for operations on related items. In this paper, we modify a DHT into a distributed array (DA) that enables efficient operations on logical arrays. The array elements of a DA are placed in a P2P</abstract>
+	</publication>
+	<publication>
+		<title>Balancing Graph Voronoi Diagrams</title>
+		<year>2009</year>
+		<authors>shinichi honiden,michael e. houle</authors>
+		<jconf>International Symposium on Voronoi Diagrams in Science and Engineering</jconf>
+		<label>148</label>
+		<keyword>voronoi diagram;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Approximate Shortest Path Queries in Graphs Using Voronoi Duals</title>
+		<year>2009</year>
+		<authors>shinichi honiden,michael e. houle</authors>
+		<jconf>International Symposium on Voronoi Diagrams in Science and Engineering</jconf>
+		<label>148</label>
+		<keyword>Approximation Method;Graph Algorithm;Random Sampling;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an approximation method to answer shortest path queries in graphs, based on hierarchical random sampling and Voronoi duals. The lowest level of the hierarchy stores the initial graph. At each higher level, we compute a simplification of the graph on the level below, by selecting a constant fraction of nodes. Edges are generated as the Voronoi dual within</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Geographically Bound Mobile Agents</title>
+		<year>2006</year>
+		<authors>kenji tei,yoshiaki fukazawa,shinichi honiden,pierre-loïc garoche</authors>
+		<jconf>Mobile Sensor Networks</jconf>
+		<label>148</label>
+		<keyword>Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Outsourcing and Offshoring: The Consultancies' Estimates</title>
+		<year>2007</year>
+		<authors>georg troxler</authors>
+		<jconf>Software Engineering Approaches for Offshore and Outsourced Development</jconf>
+		<label>148</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Specifying and Checking Refinement Relationships in VDM</title>
+		<year>2009</year>
+		<authors>yojiro kawamata,fuyuki ishikawa,shinichi honiden</authors>
+		<jconf>Conference on Software Engineering and Formal Methods</jconf>
+		<label>148</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Checking Networked Programs in the Presence of Transmission Failures</title>
+		<year>2007</year>
+		<authors>cyrille artho,shinichi honiden</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>148</label>
+		<keyword>Distributed Application;Fault Model;Model Checking;Network Model;Network Programming;</keyword>
+		<organization>null</organization>
+		<abstract>Software model checkers work directly on single-process programs, but not on multiple processes. Conversion of pro- cesses into threads, combined with a network model, allows for model checking distributed applications, but does not cover potential communication failures. This paper con- tributes a fault model for model checking networked pro- grams. If a naïve fault model is used, spurious deadlocks may</abstract>
+	</publication>
+	<publication>
+		<title>Compact Routing in Power-Law Graphs</title>
+		<year>2009</year>
+		<authors>wei chen,shang-hua teng,yajun wang</authors>
+		<jconf>Workshop on Distributed Algorithms/International Symposium on Distributed Computing</jconf>
+		<label>148</label>
+		<keyword>Adaptive Routing;Compact Routing;Graph Model;Labeling Scheme;Upper Bound;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>We adapt the compact routing scheme by Thorup and Zwick to op- timize it for power-law graphs. We analyze our adapted routing scheme based on the theory of unweighted random power-law graphs with fixed expected de- gree sequence by Aiello, Chung, and Lu. Our result is the first theoretical bound coupled to the parameter of the power-law graph model for</abstract>
+	</publication>
+	<publication>
+		<title>On Shortest Disjoint Paths in Planar Graphs</title>
+		<year>2009</year>
+		<authors>yusuke kobayashi</authors>
+		<jconf>Discrete Optimization</jconf>
+		<label>148</label>
+		<keyword>Disjoint Paths;Planar Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A note on coloring sparse random graphs</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>148</label>
+		<keyword>Analysis of Algorithm;Combinatorial Problems;Generating Function;Graph Algorithm;Graph Coloring;Random Graph;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Coja-Oghlan and Taraz (2004) presented a graph coloring algorithm that has expected linear running time for random graphs with edge prob- ability p satisfying np 1.01. In this work, we develop their analysis by exploiting generating function techniques. We show that, in fact, their al- gorithm colors Gn,p with the minimal number of colors and has expected linear running time,</abstract>
+	</publication>
+	<publication>
+		<title>Approximate Shortest Path Queries Using Voronoi Duals</title>
+		<year>2010</year>
+		<authors>shinichi honiden,michael e. houle,martin wolff</authors>
+		<jconf></jconf>
+		<label>148</label>
+		<keyword>Approximation Method;Random Sampling;Weighted Graph;Point To Point;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an approximation method to answer point-to-point shortest path queries in undirected edge-weighted graphs, based on random sampling and Voronoi duals. We compute a simplication of the graph by selecting nodes independently at random with probability p. Edges are generated as the Voronoi dual of the original graph, using the selected nodes as Voronoi sites. This overlay graph allows</abstract>
+	</publication>
+</person>

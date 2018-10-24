@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shigang Li</FullName>
+	<publication>
+		<title>Support for OpenMP Tasks on Cell Architecture</title>
+		<year>2010</year>
+		<authors>qian cao,changjun hu,haohu he,xiang huang</authors>
+		<jconf>International Conference on Algorithms and Architectures for Parallel Processing</jconf>
+		<label>946</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

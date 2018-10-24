@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Markus Schneider</FullName>
+	<publication>
+		<title>A Note on Certificate Path Verification in Next Generation Mobile Communications</title>
+		<year>2004</year>
+		<authors>matthias enzmann,elli giessler,michael haisch,brian hunter,mohammad ilyas</authors>
+		<jconf>Architektur von Rechensystemen</jconf>
+		<label>629</label>
+		<keyword>Internet Access;Mobile Communication;Mobile Device;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>Certificate-based authentication of parties provides a power- ful means for verifying claimed identities, since communicating partners do not have to exchange secrets in advance for authentication. This is es- pecially valuable for roaming scenarios in mobile communications. When dealing with certificates, one must cope with the verification of complete certificate paths for security reasons. In mobile communications, there exist special</abstract>
+	</publication>
+	<publication>
+		<title>Electronic Payment Systems</title>
+		<year>2003</year>
+		<authors>ahmad-reza sadeghi</authors>
+		<jconf>ACM Digital Rights Management Workshop</jconf>
+		<label>629</label>
+		<keyword>Electronic Payment System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy Protection through Unlinkability of Customer Activities in Business Processes Using Mobile Agents</title>
+		<year>2002</year>
+		<authors>matthias enzmann,thomas kunz</authors>
+		<jconf>Electronic Commerce and Web Technologies</jconf>
+		<label>629</label>
+		<keyword>Business Process;Information Gathering;Mobile Agent;Privacy Protection;Web Technology;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Web technologies provide several means to infringe user privacy. This is especially true when,customers with the intent to buy tangible goods submit their orders containing their real identity and physical address. Then in practice, the vendor can link this information with all information gathered about the customer beforehand, e.g., observation data on him while browsing through the product catalog.</abstract>
+	</publication>
+	<publication>
+		<title>A Privacy-Friendly Loyalty System for Electronic Marketplaces</title>
+		<year>2004</year>
+		<authors>matthias enzmann</authors>
+		<jconf>e-Technology, e-Commerce and e-Service</jconf>
+		<label>629</label>
+		<keyword>Customer Relationship Management;Electronic Marketplace;Security Properties;</keyword>
+		<organization>null</organization>
+		<abstract>Loyalty systems provide an interesting possibility for vendors in customer relationship management. This holds for both real world and online vendors. Beside potential benefits of loyalty systems, customers may fear an invasion of privacy, and thus often refuse to participate in such pro- grams. In this paper, we present two variants of a privacy- friendly loyalty system to be used</abstract>
+	</publication>
+	<publication>
+		<title>A Privacy-Protecting Coupon System</title>
+		<year>2005</year>
+		<authors>li-qun chen,matthias enzmann,ahmad-reza sadeghi,michael steiner</authors>
+		<jconf>Financial Cryptography</jconf>
+		<label>629</label>
+		<keyword>Privacy Protection;Security Properties;</keyword>
+		<organization>null</organization>
+		<abstract>A coupon represents the right to claim some service which is typically offered by vendors. In practice, issuing bundled multi-coupons is more efcient than issuing single coupons separately. The diversity of interests of the parties involved in a coupon system demands additional security properties beyond the common requirements (e.g., unforgeability). Customers wish to preserve their privacy when using the multi-coupon</abstract>
+	</publication>
+	<publication>
+		<title>A Privacy-Friendly Loyalty System Based on Discrete Logarithms over Elliptic Curves</title>
+		<year>2004</year>
+		<authors>matthias enzmann,marc fischlin</authors>
+		<jconf>Financial Cryptography</jconf>
+		<label>629</label>
+		<keyword>Customer Relationship Management;Discrete Logarithm;Elliptic Curve;Security and Privacy;computational diffie hellman;decisional diffie hellman;</keyword>
+		<organization>null</organization>
+		<abstract>Systems for the support of customer relationship management are be- coming increasingly attractive for vendors. Loyalty systems provide an interest- ing possibility for vendors in customer relationship management. This holds for both real world and online vendors. However, beside some potential benefits of a loyalty system, customers may also fear an invasion into their privacy, and may thus refuse to</abstract>
+	</publication>
+	<publication>
+		<title>A New Infrastructure for User Tracking Prevention and Privacy Protection in Internet Shopping</title>
+		<year>2002</year>
+		<authors>matthias enzmann,thomas kunz</authors>
+		<jconf>Infrastructure Security</jconf>
+		<label>629</label>
+		<keyword>Information Gathering;Mobile Agent;Privacy Protection;Web Technology;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract>Web technologies provide several means to infringe user privacy. This is especially true when customers buying tangible goods submit orders that contain their real identity and physical address. Then, in practice, the vendor can link this information with all information gathered about the customer, obtained through various means. In this paper, we present a solution that is based on mobile</abstract>
+	</publication>
+	<publication>
+		<title>Improving Customer Retention in E-Commerce through a Secure and Privacy-Enhanced Loyalty System</title>
+		<year>2005</year>
+		<authors>matthias enzmann</authors>
+		<jconf>Information Systems Frontiers</jconf>
+		<label>629</label>
+		<keyword>Customer Retention;E Commerce;Security and Privacy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Cost-Efficient RISC Processor Platform for Real Time Audio Applications</title>
+		<year>2004</year>
+		<authors>jens peter wittenburg,ulrich schreiber,ulrich gries,tim niggemeier</authors>
+		<jconf>Systems, Architectures, Modeling, and Simulation</jconf>
+		<label>630</label>
+		<keyword>Cost Efficiency;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fachdidaktik des Informatikgrundstudiums</title>
+		<year>2005</year>
+		<authors>volker claus,klaus-peter löhr,sigrid e. schubert</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>631</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

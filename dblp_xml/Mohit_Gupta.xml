@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mohit Gupta</FullName>
+	<publication>
+		<title>Sonic Grid: an auditory interface for the visually impaired to navigate GUI-based environments</title>
+		<year>2008</year>
+		<authors>deepak jagdish,rahul sawhney,shreyas nangia</authors>
+		<jconf>Intelligent User Interfaces</jconf>
+		<label>758</label>
+		<keyword>Auditory Icons;Auditory Interface;Learning Curve;Participatory Design;Spatial Context;Visual Impairment;Visually Impaired Users;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores the prototype design of an auditory interface enhancement called the Sonic Grid that helps visually impaired users navigate GUI-based environments. The Sonic Grid provides an auditory representation of GUI elements embedded in a two- dimensional interface, giving a 'global' spatial context for use of auditory icons, ear-cons and speech feedback. This paper introduces the Sonic Grid, discusses</abstract>
+	</publication>
+</person>

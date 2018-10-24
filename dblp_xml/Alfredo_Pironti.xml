@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alfredo Pironti</FullName>
+	<publication>
+		<title>Plasma position and shape control in ITER using in-vessel coils</title>
+		<year>2008</year>
+		<authors>giuseppe ambrosino,marco ariola,gianmaria de tommasi,alfredo portone</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>30</label>
+		<keyword>Shape Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Basic issues on tokamak plasma magnetic control</title>
+		<year>2008</year>
+		<authors>marco ariola</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>30</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trading output performance for input allocation: application to the JET tokamak shape controller</title>
+		<year>2009</year>
+		<authors>gianmaria de tommasi,sergio galeani,gianluca varano,luca zaccarian</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>30</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solution of the state feedback singular Hinfinity control problem for linear time-varying systems</title>
+		<year>2000</year>
+		<authors>francesco amato,massimiliano mattei</authors>
+		<jconf>Automatica</jconf>
+		<label>30</label>
+		<keyword>Control Problem;Linear Time-varying System;State Feedback;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Guaranteeing cost strategies for linear quadratic differential games under uncertain dynamics</title>
+		<year>2002</year>
+		<authors>francesco amato,massimiliano mattei</authors>
+		<jconf>Automatica</jconf>
+		<label>30</label>
+		<keyword>Differential Game;Linear Quadratic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>H optimal terminal state control for linear systems with lumped and distributed time delays</title>
+		<year>1999</year>
+		<authors>francesco amato</authors>
+		<jconf>Automatica</jconf>
+		<label>30</label>
+		<keyword>Linear System;Time Delay;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hinifinity optimal terminal control for linear systems with delayed states and controls</title>
+		<year>2008</year>
+		<authors>marco ariola</authors>
+		<jconf>Automatica</jconf>
+		<label>30</label>
+		<keyword>Linear System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

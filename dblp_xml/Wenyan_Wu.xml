@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wenyan Wu</FullName>
+	<publication>
+		<title>Harbin Water Supply Network Monitoring and Evaluation</title>
+		<year>2007</year>
+		<authors>zu qian,jinliang gao,x. q. hou,yingbin wu,l. tao,ning ran</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>1090</label>
+		<keyword>Network Monitoring;Water Supply;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Assessing and Optimizing Online Monitoring for Securing the Water Distribution System</title>
+		<year>2007</year>
+		<authors>jinliang gao,ming zhao,zu qian,x. q. hou,y. han</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>1090</label>
+		<keyword>Online Monitoring;Water Distribution System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

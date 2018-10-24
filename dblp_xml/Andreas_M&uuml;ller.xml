@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Dual-Hop Adaptive Packet Transmission with Regenerative Relaying for Wireless TDD Systems</title>
+		<year>2009</year>
+		<authors>hong-chuan yang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>54</label>
+		<keyword>Adaptive Modulation and Coding;Channel State Information;Decode and Forward;Performance Analysis;Performance Measure;Finite State Markov Chain;Relay Station;Time Division Duplex;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the design and performance analysis of adaptive modulation and coding (AMC) applied to regenerative dual-hop transmission systems, where a source node commu- nicates with a corresponding destination node only indirectly via an intermediate relay station operating in the well-known decode-and-forward mode. Specifically, we consider the general case where the AMC over both hops is performed independently of each</abstract>
+	</publication>
+	<publication>
+		<title>Characterization of Mutual Information of Spatially Correlated MIMO Channels with Keyhole</title>
+		<year>2007</year>
+		<authors>joachim speidel</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>54</label>
+		<keyword>Channel Capacity;Channel Model;Communication System;Covariance Matrices;Cumulative Distribution Function;Density Functional;Gaussian Noise;mimo channel;Monte Carlo Simulation;Multiple Input Multiple Output;Mutual Information;Probability Density Function;Rayleigh Fading;Spatial Correlation;Statistical Analysis;Statistical Properties;Theoretical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>We characterize the statistical properties of the mutual information between the transmitter and the receiver of a multiple-input multiple-output (MIMO) communication system in case of spatially correlated Rayleigh-fading keyhole channels with arbitrarily correlated input signals and potentially colored additive Gaussian noise. The probability density function (pdf) as well as the cumulative distribution function (cdf) of the mutual information are derived</abstract>
+	</publication>
+	<publication>
+		<title>Relay Selection in Dual-Hop Transmission Systems: Selection Strategies and Performance Results</title>
+		<year>2008</year>
+		<authors>joachim speidel</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>54</label>
+		<keyword>Channel State Information;Communication System;Outage Probability;Relay Station;</keyword>
+		<organization>null</organization>
+		<abstract>We address the problem of selecting an appropriate relay station for forwarding data from a source to a destination node in dual-hop communication systems. In this regard, we focus on regenerative relays, which try to fully decode the messages received from the source before forwarding them to the actual destination. Several different scenarios are considered with different kinds of channel</abstract>
+	</publication>
+	<publication>
+		<title>Achieving Exponential Diversity in Wireless Multihop Systems with Regenerative Relays</title>
+		<year>2009</year>
+		<authors>joachim speidel</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>54</label>
+		<keyword>Channel State Information;Power Allocation;Upper Bound;Bit Error Rate;Relay Station;</keyword>
+		<organization>null</organization>
+		<abstract>We present and analyze two different power alloca- tion strategies for considerably improving the average bit error rate (BER) performance of wireless multihop systems with an arbitrary number of regenerative relay stations. In both cases, the power allocation is done based on instantaneous channel state information subject to an overall sum power constraint as well as possible additional per-node power</abstract>
+	</publication>
+	<publication>
+		<title>Performance of CSI-based multi-user MIMO for the LTE downlink</title>
+		<year>2010</year>
+		<authors>philipp frank,joachim speidel</authors>
+		<jconf>International Conference on Wireless Communications and Mobile Computing</jconf>
+		<label>54</label>
+		<keyword>Cellular Network;Channel State Information;Link Adaptation;Multiple Input Multiple Output;Vector Quantizer;Base Station;Channel Quality Indicator;Long Term Evolution;Multi User;User Equipment;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the application of a channel state information (CSI) based multi-user (MU) multiple input multiple output (MIMO) scheme to the downlink of 3GPP Long Term Evolution (LTE) cellular networks. For that purpose, we propose a novel feedback method for providing CSI to the base stations (BSs) based upon standard vector quantization techniques. Moreover, we introduce and compare different ways</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive modulation for MIMO spatial multiplexing systems with zero-forcing receivers in semi-correlated Rayleigh fading channels</title>
+		<year>2006</year>
+		<authors>joachim speidel</authors>
+		<jconf>International Conference on Wireless Communications and Mobile Computing</jconf>
+		<label>54</label>
+		<keyword>Adaptive Modulation;Computer Communication Networks;mimo system;Perforation;Rate Adaptation;Rayleigh Fading Channel;Satisfiability;Spatial Correlation;Spatial Multiplexing;Wireless Communication;Bit Error Ratio;multiple input multi ple output;Zero Forcing;</keyword>
+		<organization>null</organization>
+		<abstract>We present and analyze a rate-adaptive multiple-input multi- ple-output (MIMO) spatial multiplexing system with linear zero-forcing (ZF) receiver in a semi-correlated flat Rayleigh fading channel with spatial correlation at the transmitter- side only. The goal is to maximize the average spectral effi- ciency (ASE) while satisfying a given bit error ratio (BER) constraint. We consider both continuous and discrete rate</abstract>
+	</publication>
+	<publication>
+		<title>InterSite Joint Detection with Reduced Backhaul Capacity Requirements for the 3GPP LTE Uplink</title>
+		<year>2010</year>
+		<authors>philipp frank,joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>BER Analysis and Optimization of Generalized Spatial Modulation in Correlated Fading Channels</title>
+		<year>2009</year>
+		<authors>thomas handte,joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Correlated Fading;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperative Interference Prediction for Enhanced Link Adaptation in the 3GPP LTE Uplink</title>
+		<year>2010</year>
+		<authors>philipp frank</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Cellular Network;Channel Estimation;Data Transmission;Link Adaptation;Base Station;Long Term Evolution;</keyword>
+		<organization>null</organization>
+		<abstract>The interference situation in the uplink of cellular networks, such as the 3GPP UTRAN Long Term Evolution (LTE), is usually highly volatile since from one transmission time interval to the other different users might be scheduled in nearby cells, thus often causing completely different levels of interference. This unstable behavior of the interference generally has a negative impact on the</abstract>
+	</publication>
+	<publication>
+		<title>Performance of the LTE Uplink with Intra-Site Joint Detection and Joint Link Adaptation</title>
+		<year>2010</year>
+		<authors>philipp frank,joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Link Adaptation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Orthogonal STBC in General Nakagami-m Fading Channels: BER Analysis and Optimal Power Allocation</title>
+		<year>2007</year>
+		<authors>joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Coding Gain;Fading Channel;mimo system;Performance Improvement;Power Allocation;Quadrature Amplitude Modulated;Bit Error Rate;Orthogonal Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract>We analyze the performance of multiple-input mul- tiple-output (MIMO) systems employing orthogonal space-time block codes (STBC) in general Nakagami-m fading channels with channel coefficients having not necessarily identical fading parameters and average power gains. First, we derive an exact analytical closed-form expression for the average bit error rate (BER) of M -ary quadrature amplitude modulation. Then, we determine asymptotically tight</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Modulation for Wireless Multihop Systems with Regenerative Relays</title>
+		<year>2008</year>
+		<authors>joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Adaptive Modulation;Channel State Information;Quadrature Amplitude Modulated;Rate Adaptation;Rayleigh Fading;Average Spectral Efficiency;Bit Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>We present and analyze several adaptive modulation schemes for wireless multihop systems with regenerative relays. In particular, we consider both rate adaptation based on perfect channel state information (csi) of all hops as well as suboptimal strategies based on partial csi, which require only a very limited amount of feedback information and hence represent attractive approaches for practical systems. We</abstract>
+	</publication>
+	<publication>
+		<title>Symbol Error Probability of M-QAM in Multihop Communication Systems with Regenerative Relays</title>
+		<year>2008</year>
+		<authors>joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Communication System;Fading Channel;Quadrature Amplitude Modulated;Additive White Gaussian Noise;Relay Station;Symbol Error Probability;</keyword>
+		<organization>null</organization>
+		<abstract>We analyze the performance of multihop communi- cation systems with regenerative relays in terms of the average symbol error probability (SEP) for M -ary quadrature amplitude modulation (M -QAM). We derive an exact analytical closed- form expression for the average SEP in time-invariant additive white Gaussian noise channels as well as a generic expression for slow, frequency-flat fading channels, which</abstract>
+	</publication>
+	<publication>
+		<title>Outage-Optimal Transmit Antenna Selection for Cooperative Decode-and-Forward Systems</title>
+		<year>2009</year>
+		<authors>joachim speidel</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>54</label>
+		<keyword>Asymptotic Behavior;Channel State Information;Cooperative Diversity;Decode and Forward;Difference Scheme;Outage Probability;Rayleigh Fading;Signal To Noise Ratio;Transmit Antenna Selection;</keyword>
+		<organization>null</organization>
+		<abstract>We propose and analyze three different transmit antenna selection schemes for cooperative diversity systems with regenerative relays. Our goal is to minimize the information out- age probability by properly selecting one out of several available antenna elements at the source node. This problem is generally more involved than transmit antenna selection for conventional single-hop systems since the selection of a</abstract>
+	</publication>
+	<publication>
+		<title>Switch-And-Stay Transmit Diversity for Cooperative Decode-And-Forward Systems</title>
+		<year>2010</year>
+		<authors>joachim speidel</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>54</label>
+		<keyword>Decode and Forward;Transmit Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance limits of multiple-input multiple-output keyhole channels with antenna selection</title>
+		<year>2008</year>
+		<authors>joachim speidel</authors>
+		<jconf>European Transactions on Telecommunications</jconf>
+		<label>54</label>
+		<keyword>Antenna Selection;Multiple Input Multiple Output;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Collision Avoiding Continuation Method for the Inverse Kinematics of Redundant Manipulators</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>55</label>
+		<keyword>Collision Avoidance;Continuation Method;Inverse Kinematics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Internal Preload Control of redundantly actuated Parallel Manipulators - Backlash avoiding Control</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>55</label>
+		<keyword>Parallel Manipulator;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stiffness Control of Redundantly Actuated Parallel Manipulators</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>55</label>
+		<keyword>Parallel Manipulator;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A genericity condition for general serial manipulators</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>55</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Internal Preload Control of Redundantly Actuated Parallel Manipulators - Its Application to Backlash Avoiding Control</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>55</label>
+		<keyword>Parallel Manipulator;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Partial Derivatives of the Inverse Mass Matrix of Multibody Systems via Its Factorization</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>55</label>
+		<keyword>multibody systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Consequences of Geometric Imperfections for the Control of Redundantly Actuated Parallel Manipulators</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>55</label>
+		<keyword>Parallel Manipulator;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ANTS - A Framework for Knowledge Based NAT Traversal</title>
+		<year>2009</year>
+		<authors>andreas klenk,georg carle</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>56</label>
+		<keyword>Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Synchronized Multimedia Streams over SCTP</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Informatiktage</jconf>
+		<label>57</label>
+		<keyword>Multimedia Streaming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Applicability of Knowledge Based NAT-Traversal for Home Networks</title>
+		<year>2008</year>
+		<authors>andreas klenk,georg carle</authors>
+		<jconf>Networking</jconf>
+		<label>56</label>
+		<keyword>Home Network;Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomous NAT Traversal</title>
+		<year>2010</year>
+		<authors>nathan s. evans,christian grothoff,samy kamkar</authors>
+		<jconf>Peer-to-Peer Computing</jconf>
+		<label>56</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Behavior and classification of NAT devices and implications for NAT traversal</title>
+		<year>2008</year>
+		<authors>georg carle,andreas klenk</authors>
+		<jconf>IEEE Network</jconf>
+		<label>56</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition</title>
+		<year>2010</year>
+		<authors>dominik scherer,sven behnke</authors>
+		<jconf>Int. Conference on Artificial Neural Networks</jconf>
+		<label>58</label>
+		<keyword>Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualisierungswerkzeuge zur Modellierung virtueller Landschaften</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Mensch &amp; Computer</jconf>
+		<label>59</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On de Casteljau's algorithm</title>
+		<year>1999</year>
+		<authors>wolfgang böhm</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<label>60</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

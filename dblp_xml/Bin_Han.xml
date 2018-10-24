@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Han</FullName>
+	<publication>
+		<title>Advances in the Design and Implementation of a Multi-tier Architecture in the GIPSY Environment with Java</title>
+		<year>2010</year>
+		<authors>serguei a. mokhov,joey paquet</authors>
+		<jconf>Software Engineering Research and Applications</jconf>
+		<label>79</label>
+		<keyword>Design and Implementation;Run-time System;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>We present advances in the software engineering design and implementation of the multi-tier run-time system for the General Intensional Programming System (GIPSY) by further unifying the distributed technologies used to implement the Demand Migration Framework (DMF) in order to streamline distributed execution of hybrid intensional-imperative programs using Java.</abstract>
+	</publication>
+	<publication>
+		<title>Advances in the Design and Implementation of a Multi-Tier Architecture in the GIPSY Environment</title>
+		<year>2009</year>
+		<authors>serguei a. mokhov,joey paquet</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>79</label>
+		<keyword>Design and Implementation;Run-time System;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>We present advances in the software engineering design and implementation of the multi-tier run-time system for the General Intensional Programming System (GIPSY) by further unifying the distributed technologies used to implement the Demand Migration Framework (DMF) in order to streamline distributed execution of hybrid intensional-imperative programs using Java.</abstract>
+	</publication>
+	<publication>
+		<title>Construction of multivariate biorthogonal wavelets with arbitrary vanishing moments</title>
+		<year>2000</year>
+		<authors>di-rong chen,sherman d. riemenschneider</authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>80</label>
+		<keyword>biorthogonal wavelets;Spectral Radius;Vanishing Moment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solutions in Sobolev spaces of vector refinement equations with a general dilation matrix</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>80</label>
+		<keyword>Existence of Solution;sobolev space;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. In this paper, we present a necessary and su‐cient condition for the existence of solutions in a Sobolev space W 0. This paper generalizes the results in [R. Q. Jia, K. S. Lau, and D. X. Zhou, J. Fourier Anal. Appl., 7 (2001), pp. 143{167] in the univariate setting to the multivariate setting.</abstract>
+	</publication>
+	<publication>
+		<title>Symmetric orthonormal scaling functions and wavelets with dilation factor 4</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>80</label>
+		<keyword>Scale Function;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: It is well known that in the univariate case, up to an integer shift andpossible sign change, there is no dyadic compactly supported symmetric orthonormalscaling function except for the Haar function. In this paper we are concerned with theconstruction of symmetric orthonormal scaling functions with dilation factor d = 4.Several examples of such scaling functions are provided in this</abstract>
+	</publication>
+	<publication>
+		<title>Multiwavelet Frames from Refinable Function Vectors</title>
+		<year>2003</year>
+		<authors>qun mo</authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>80</label>
+		<keyword>Hermite Interpolation;Sum Rules;Vanishing Moment;Wavelet Frame;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Starting from any two compactly supported d-refinable function vectors in ¡ L2(R) ¢with</abstract>
+	</publication>
+	<publication>
+		<title>Dyadic C2 Hermite interpolation on a square mesh</title>
+		<year>2005</year>
+		<authors>serge dubuc,jean-louis merrien,qun mo</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<label>80</label>
+		<keyword>General Solution;Hermite Interpolation;Subdivision Scheme;Subdivision Surface;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>For prescribed values of a function and its partial derivatives of orders 1 and 2 at the vertices of a square, we flt an interpolating surface. We investigate two families of solutions provided by two Hermite subdivision schemes, denoted HD2 and HR2. Both schemes depend on 2 matrix parameters, a square matrix of order 2 and a square matrix of</abstract>
+	</publication>
+	<publication>
+		<title>Approximation Properties and Construction of Hermite Interpolants and Biorthogonal Multiwavelets</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>80</label>
+		<keyword>Approximation Property;Hermite Interpolation;Linear Equations;multiresolution analysis;Satisfiability;Sum Rules;Vanishing Moment;</keyword>
+		<organization>null</organization>
+		<abstract>Multiwavelets are generated from refinable function vectors by using multiresolution analysis. In this paper we investigate the approximation properties of a multivariate refinable function vector associated with a general dilation matrix in terms of both the subdivision operator and the order of sum rules satisfied by the matrix refinement mask. Based on a fact about the sum rules of biorthogonal</abstract>
+	</publication>
+	<publication>
+		<title>Vector cascade algorithms and refinable function vectors in Sobolev spaces</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>80</label>
+		<keyword>Convergence Rate;Error Estimate;Hermite Interpolation;sobolev space;Subdivision Scheme;Sum Rules;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we shall study vector cascade algorithms and refinable function vectors with a general isotropic dilation matrix in Sobolev spaces. By investigating several properties of the initial function vectors in a vector cascade algorithm, we are able to take a relatively unified approach to study several questions such as convergence, rate of convergence and error estimate for a</abstract>
+	</publication>
+	<publication>
+		<title>Quincunx fundamental refinable functions and quincunx biorthogonal wavelets</title>
+		<year>2002</year>
+		<authors>rong-qing jia</authors>
+		<jconf>Mathematics of Computation</jconf>
+		<label>80</label>
+		<keyword>biorthogonal wavelets;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multivariate refinable Hermite interpolant</title>
+		<year>2004</year>
+		<authors>thomas p. y. yu,bruce r. piper</authors>
+		<jconf>Mathematics of Computation</jconf>
+		<label>80</label>
+		<keyword>Computer Aided Geometric Design;Hermite Interpolation;Shift Invariant Subspace;Spline Interpolation;Subdivision Surface;Symmetry Group;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a general denition of renable Hermite interpolants and investigate their general properties. We also study a notion of symmetry of these renable interpolants. Results and ideas from the extensive theory of general renement equations are applied to obtain results on renable Hermite interpolants. The theory developed here is constructive and yields an easy- to-use construction method for multivariate</abstract>
+	</publication>
+	<publication>
+		<title>On simple oversampled A/D conversion in shift-invariant spaces</title>
+		<year>2005</year>
+		<authors>wen chen,rong-qing jia</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>80</label>
+		<keyword>Quantization Error;Sampling Theorem;Shift Invariant Space;Shift Invariant;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we study a simple oversampled analog-to-digital (A/D) conversion in shift invariant spaces. The Beurling-Landau type theo- rem for bandlimited signal spaces is extended to shift invariant spaces, and then a non-uniform sampling theorem for shift invariant spaces is established, which says, a uniformly discrete set is a stable sampling set for a shift invariant space if its</abstract>
+	</publication>
+	<publication>
+		<title>Estimate of aliasing error for non-smooth signals prefiltered by quasi-projections into shift-invariant spaces</title>
+		<year>2005</year>
+		<authors>wen chen,rong-qing jia</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<label>80</label>
+		<keyword>a/d converter;Decay Rate;Indexing Terms;lipschitz continuity;Shift Invariant Space;Wiener Amalgam Space;</keyword>
+		<organization>null</organization>
+		<abstract>An ideal analog-to-digital (A/D) converter prefilters a signal by an ideal lowpass filter. Recent research on A/D conversion based on shift- invariant spaces reveals that prefiltering signals by quasiprojections into shift-invariant spaces provides more flexible choices in designing an A/D conversion system of high accuracy. This paper focuses on the accuracy of such prefiltering, in which the aliasing error is</abstract>
+	</publication>
+</person>

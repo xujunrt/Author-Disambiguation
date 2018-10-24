@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jim Gray</FullName>
+	<publication>
+		<title>Mobile technologies for the world's children</title>
+		<year>2009</year>
+		<authors>allison druin,david cavallo,christopher fabian,benjamin b. bederson,glenda revelle,yvonne rogers</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>406</label>
+		<keyword>Educational Application;Mobile Application;Mobile Device;Mobile Phone;Mobile Technology;Profitability;Third World;</keyword>
+		<organization>null</organization>
+		<abstract>In this panel, academic, non-profit, and industry professionals will discuss their global perspectives on mobile technologies for the world's children. Panelists will explore such issues concerning children's access to mobile devices, the decreasing age that children have access to these technologies, mobile innovations for learning, and challenges/opportunities in diverse countries. This interactive session will begin with each panelist giving a</abstract>
+	</publication>
+</person>

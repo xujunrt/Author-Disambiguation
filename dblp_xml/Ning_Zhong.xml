@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ning Zhong</FullName>
+	<publication>
+		<title>The Wave Propagator Is Turing Computable</title>
+		<year>1999</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>International Congress of Mathematicans</jconf>
+		<label>786</label>
+		<keyword>Wave Propagation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Beyond the First Main Theorem - When Is the Solution of a Linear Cauchy Problem Computable?</title>
+		<year>2006</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Theory and Applications of Models of Computation</jconf>
+		<label>786</label>
+		<keyword>Cauchy Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Complexity of Blowup Problems: Extended Abstract</title>
+		<year>2008</year>
+		<authors>robert rettinger,klaus weihrauch</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>786</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Solution Operator of the Korteweg-de Vries Equation is Computable</title>
+		<year>2002</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>786</label>
+		<keyword>Initial Value Problem;kdv equation;korteweg de vries equation;korteweg de vries;</keyword>
+		<organization>null</organization>
+		<abstract>The initial value problem of the Korteweg-de Vries (KdV) equation posted on the real line R:   </abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Computing Fundamental Solutions</title>
+		<year>2006</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>786</label>
+		<keyword>Fundamental Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computable Analysis of the Abstract Cauchy Problem in a Banach Space and Its Applications (I)</title>
+		<year>2007</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>786</label>
+		<keyword>Abstract Cauchy Problem;banach space;Computer Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computability theory of generalized functions</title>
+		<year>2003</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>786</label>
+		<keyword>Computability Theory;Computer Analysis;Distributed Computing;Generating Function;Partial Differential Equation;Three Dimensional;turing machine;Wave Equation;Fourier Transform;Machine Model;</keyword>
+		<organization>null</organization>
+		<abstract>The theory of generalized functions is the foundation of the modern theory of partial differential equations (PDE). As computers are playing an ever-larger role in solving PDEs, it is important to know those operations involving generalized functions in analysis and PDE that can be computed on digital computers. In this article, we introduce natural concepts of computability on test functions</abstract>
+	</publication>
+	<publication>
+		<title>Topological Complexity of Blowup Problems</title>
+		<year>2009</year>
+		<authors>robert rettinger,klaus weihrauch</authors>
+		<jconf>Journal of Universal Computer Science</jconf>
+		<label>786</label>
+		<keyword>Topological Complexity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Computing Fundamental Solutions</title>
+		<year>2006</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>786</label>
+		<keyword>Fundamental Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing the solution of the Korteweg-de Vries equation with arbitrary precision on Turing</title>
+		<year>2005</year>
+		<authors>klaus weihrauch</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>786</label>
+		<keyword>korteweg de vries equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

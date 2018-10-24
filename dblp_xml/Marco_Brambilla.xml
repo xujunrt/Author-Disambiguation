@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marco Brambilla</FullName>
+	<publication>
+		<title>Acceptance Test of a Commercially Available Software for Automatic Image Registration of Computed Tomography (CT), Magnetic Resonance Imaging (MRI) And 99mTc-methoxyisobutylisonitrile (MIBI) Single-Photon Emission Computed Tomography (SPECT) Brain Images</title>
+		<year>2008</year>
+		<authors>gianfranco loi,marco dominietto,irene manfredda,eleonora mones,alessandro carriero,eugenio inglese,marco krengli</authors>
+		<jconf>Journal of Digital Imaging</jconf>
+		<label>616</label>
+		<keyword>Brain Imaging;Computed Tomography;Image Registration;Magnetic Resonance Image;Single Photon Emission Computed Tomography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

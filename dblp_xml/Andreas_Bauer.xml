@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Bauer</FullName>
+	<publication>
+		<title>Model-based runtime analysis of distributed reactive systems</title>
+		<year>2006</year>
+		<authors>martin leucker,christian schallhart</authors>
+		<jconf>Australian Software Engineering Conference</jconf>
+		<label>47</label>
+		<keyword>Automatic Generation;Distributed System;Everyday Life;Linear Time;Reactive System;Runtime Analysis;Safety Properties;</keyword>
+		<organization>null</organization>
+		<abstract>Reactive distributed systems have pervaded everyday life and objects, but often lack measures to ensure adequate be- haviour in the presence of unforeseen events or even errors at runtime. As interactions and dependencies within dis- tributed systems increase, the problem of detecting failures which depend on the exact situation and environment condi- tions they occur in grows. As a result,</abstract>
+	</publication>
+	<publication>
+		<title>Tools for Traceable Security Verification</title>
+		<year>2008</year>
+		<authors>jan jürjens,yijun yu</authors>
+		<jconf></jconf>
+		<label>48</label>
+		<keyword>Data Security;Dependable Systems;Design Model;Internet Security;Protocol Implementation;Security Analysis;Security Requirements;Software Evolution;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>Dependable systems evolution has been identified by the UK Computing Research Committee (UKCRC) as one of the current grand challenges for computer science. We present work towards addressing this challenge which focusses on one facet of dependability, namely data security: We give an overview on an approach for model- based security verification which provides a traceability link to the implementation.</abstract>
+	</publication>
+	<publication>
+		<title>Simplifying Diagnosis Using LSAT: A Propositional Approach to Reasoning from First Principles</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>CPAIOR</jconf>
+		<label>47</label>
+		<keyword>First Principle;Formal Specification;Model Based Diagnosis;Model Based Reasoning;Propositional Logic;Sat Solver;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>In face of the unwieldiness of non-monotonic logic solving engines, or meta interpreters usually authored in Prolog/CLP as they are commonly used for model-based reasoning and diagnosis, this paper proposes a simple, but eective improvement for performing the complex diagnostic task. The chosen approach is twofold: firstly, the problem of contradicting first order system descriptions with a set of observations</abstract>
+	</publication>
+	<publication>
+		<title>Tool-support for the analysis of hybrid systems and models</title>
+		<year>2007</year>
+		<authors>markus pister,michael tautschnig</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>47</label>
+		<keyword>Constraint Solving;Control System;Domain Specificity;Expert Knowledge;Hybrid System;Industrial Case Study;System Modeling;Tool Support;Multi Domain;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces a method and tool-support for the automatic analysis and verification of hybrid and embed- ded control systems, whose continuous dynamics are often modelled using MATLAB/Simulink. The method is based upon converting system models into the uniform input lan- guage of our efficient multi-domain constraint solving li- brary, ABSOLVER, which is then used for subsequent anal- ysis. Basically,</abstract>
+	</publication>
+	<publication>
+		<title>LTL Goal Specifications Revisited</title>
+		<year>2010</year>
+		<authors>patrik haslum</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>47</label>
+		<keyword>Linear Temporal Logic;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>The language of linear temporal logic (LTL) has been proposed as a formalism for specifying temporally extended goals and search control constraints in planning. However, the semantics of LTL is defined wrt. infinite state sequences, while a finite plan generates only a finite trace. This necessitates the use of a finite trace semantics for LTL. A common approach is to</abstract>
+	</publication>
+	<publication>
+		<title>Loose synchronization of event-triggered networks for distribution of synchronous programs</title>
+		<year>2004</year>
+		<authors>jan romberg</authors>
+		<jconf>International Workshop on Embedded Systems</jconf>
+		<label>47</label>
+		<keyword>Discrete Time;Distributed Application;Embedded Software;Hardware Design;Hardware Synthesis;Real Time Application;State Space;synchronous dataflow;Synchronous Language;Synchronous Programming;Real Time Control;Time Triggered Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Dataflow synchronous languages have attracted considerable interest in domains such as real-time control and hardware design. The potential benefits are promising: Discrete-time semantics and deterministic concurrency reduce the state-space of parallel designs, and the engineer's intuition of uniformly progressing physical time is clearly reflected. However, for deriving implementations, use of synchronous programs is currently limited to hardware synthesis, generation of</abstract>
+	</publication>
+	<publication>
+		<title>Compatibility and reuse in component-based systems via type and unit inference</title>
+		<year>2007</year>
+		<authors>christian kühnel,michael tautschnig</authors>
+		<jconf>EUROMICRO</jconf>
+		<label>47</label>
+		<keyword>Component Reuse;component-based design;Component Based Systems;Control System;Levels of Abstraction;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>In many branches of industry, the component-based ap- proach to systems design is predominant, e. g., as in embed- ded control systems which are often modelled using MAT- LAB/Simulink. In order to facilitate reuse, and to raise the level of abstraction for future designs and frequently used functions, the employed tool sets offer built-in mech- anisms to create sophisticated component</abstract>
+	</publication>
+	<publication>
+		<title>Runtime Verification Using a Temporal Description Logic</title>
+		<year>2009</year>
+		<authors>franz baader,marcel lippmann</authors>
+		<jconf>Frontiers of Combining Systems</jconf>
+		<label>47</label>
+		<keyword>Description Logic;Dynamic System;Linear Temporal Logic;Model Checking;Runtime Verification;Satisfiability;Transition Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Formulae of linear temporal logic (LTL) can be used to spec- ify (wanted or unwanted) properties of a dynamical system. In model checking, the system's behavior is described by a transition system, and one needs to check whether all possible traces of this transition system satisfy the formula. In runtime verication, one observes the actual sys- tem behavior, which at</abstract>
+	</publication>
+	<publication>
+		<title>Monitoring of Real-Time Properties</title>
+		<year>2006</year>
+		<authors>martin leucker,christian schallhart</authors>
+		<jconf>Foundations of Software Technology and Theoretical Computer Science</jconf>
+		<label>47</label>
+		<keyword>Linear Temporal Logic;Natural Extension;Runtime Monitoring;Real Time;Standard Model;</keyword>
+		<organization>null</organization>
+		<abstract>unchen Abstract. This paper presents a construction for runtime monitors that check real-time properties expressed in timed LTL (TLTL). Due to D'Souza's results, TLTL can be considered a natural extension of LTL towards real-time. Moreover, a typical obstacle in runtime verication is solved both for untimed and timed for- mulae, in that standard models of linear temporal logic are innite</abstract>
+	</publication>
+	<publication>
+		<title>Integrierte Entwicklung von Automotive-Software mit AutoFOCUS</title>
+		<year>2004</year>
+		<authors>jan romberg,bernhard schätz</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>47</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SALT - Structured Assertion Language for Temporal Logic</title>
+		<year>2006</year>
+		<authors>martin leucker,jonathan streit</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>47</label>
+		<keyword>Design Rationale;Language Development;Levels of Abstraction;Reactive System;Regular Expression;Temporal Logic;Real Time;Real Time Logic;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents Salt. Salt is a general purpose speci- cation and assertion language developed for creating concise temporal specications to be used in industrial verication environments. It incor- porates ideas of existing approaches, such as specication patterns, but also provides nested scopes, exceptions, support for regular expressions and real-time. The latter is needed in particular for verication tasks to</abstract>
+	</publication>
+	<publication>
+		<title>Security protocols, properties, and their monitoring</title>
+		<year>2008</year>
+		<authors>jan jürjens</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>48</label>
+		<keyword>language-based security;Open Source;Protocol Implementation;Protocol Specification;Runtime Verification;Safety Properties;Satisfiability;Security Properties;Security Protocol;Security Requirements;Temporal Logic;</keyword>
+		<organization>null</organization>
+		<abstract>This paper examines the suitability and use of runtime verification as means for monitoring security protocols and their properties. In particular, we employ the runtime verification framework intro- duced in (5) to monitor complex, history-based security-properties of the SSL-protocol. We give a detailed account of the methodol- ogy, compare its formal expressiveness to prior art, and describe its application to</abstract>
+	</publication>
+	<publication>
+		<title>A First-Order Policy Language for History-Based Transaction Monitoring</title>
+		<year>2009</year>
+		<authors>rajeev goré,alwen tiu</authors>
+		<jconf>International Colloquium on Theoretical Aspects of Computing</jconf>
+		<label>47</label>
+		<keyword>Linear Temporal Logic;Model Checking;Partial Observation;Policy Language;Polynomial Time;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>Online trading invariably involves dealings between strangers, so it is important for one party to be able to judge objectively the trust- worthiness of the other. In such a setting, the decision to trust a user may sensibly be based on that user's past behaviour. We introduce a specication language based on linear temporal logic for expressing a policy for</abstract>
+	</publication>
+	<publication>
+		<title>Don't care in SMT-Building flexible yet efficient abstraction/refinement solvers</title>
+		<year>2007</year>
+		<authors>martin leucker,christian schallhart,michael tautschnig</authors>
+		<jconf>Leveraging Applications of Formal Methods</jconf>
+		<label>47</label>
+		<keyword>Case Study;Control System;Off The Shelf;Satisfiability Modulo Theories;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a method for combining &quot;off-the-shelf &quot; SAT and constraint solvers for building an efficient Satisfiability Modulo Theories (SMT) solver for a wide range of theories. Our method follows the abstrac- tion/refinement approach to simplify the implementation of custom SMT solvers. The expected performance penalty by not using an interweaved combination of SAT and theory solvers is reduced</abstract>
+	</publication>
+	<publication>
+		<title>The Contribution of Free Software to Software Evolution</title>
+		<year>2003</year>
+		<authors>markus pizka</authors>
+		<jconf>International Workshop on Principles of Software Evolution</jconf>
+		<label>47</label>
+		<keyword>Best Practice;Development Process;Free Software;Open Source;Open Source Development;Software Evolution;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>It is remarkable to think that even without any interest in finding suitable methods and concepts that would allow complex software systems to evolve and remain manage- able, the ever growing open source movement has silently managed to establish highly successful evolution techniques over the last two decades. These concepts represent best practices that could be applied equally to a</abstract>
+	</publication>
+	<publication>
+		<title>A Brief Top-Down and Bottom-Up Philosophy on Software Evolution</title>
+		<year>2004</year>
+		<authors>markus pizka</authors>
+		<jconf>International Workshop on Principles of Software Evolution</jconf>
+		<label>47</label>
+		<keyword>Computer Game;Development Process;Operating System;Software Development;Software Evolution;Software Systems;Bottom Up;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>The decision on whether to proceed top-down or bottom- up during software development has a strong and underes- timated impact on the quality of the final product includ- ing its later evolvability. Various examples for both strate- gies taken from such different domains as operating systems and computer games provide evidence that bottom-up devel- oped systems are more suitable for</abstract>
+	</publication>
+	<publication>
+		<title>Matching Trace Patterns with Regular Policies</title>
+		<year>2009</year>
+		<authors>franz baader,alwen tiu</authors>
+		<jconf>Language and Automata Theory and Applications</jconf>
+		<label>47</label>
+		<keyword>Finite Automata;Linear Temporal Logic;</keyword>
+		<organization>null</organization>
+		<abstract>We consider policies that are described by regular expres- sions, finite automata, or formulae of linear temporal logic (LTL). Such policies are assumed to describe situations that are problematic, and thus should be avoided. Given a trace pattern u, i.e., a sequence of ac- tion symbols and variables, were the variables stand for unknown (i.e., not observed) sequences of actions,</abstract>
+	</publication>
+	<publication>
+		<title>The Good, the Bad, and the Ugly, But How Ugly Is Ugly?</title>
+		<year>2007</year>
+		<authors>martin leucker,christian schallhart</authors>
+		<jconf>Runtime Verification</jconf>
+		<label>47</label>
+		<keyword>Temporal Logic;</keyword>
+		<organization>null</organization>
+		<abstract>When monitoring a system wrt. a property defined in some temporal logic, e.g., LTL, a major concern is to settle with an adequate interpretation of observable system events; that is, models of temporal logic formulae are usually infinite streams of events, whereas at runtime only prefixes are available. This work defines a four-valued semantics for LTL over finite traces, which</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Architecture for Situation Awareness Systems</title>
+		<year>2009</year>
+		<authors>franz baader,peter baumgartner,anne cregan,alfredo gabaldon,krystian ji,kevin lee,david rajaratnam,rolf schwitter</authors>
+		<jconf>Analytic Tableaux and Related Methods</jconf>
+		<label>47</label>
+		<keyword>Automated Reasoning;Controlled Natural Language;Decision Making;Domain Specificity;Dynamic Environment;Formal Logic;Google Earth;Information Fusion;Linear Temporal Logic;Semantic Analysis;Situation Awareness;System Architecture;Theorem Prover;Data Fusion;</keyword>
+		<organization>null</organization>
+		<abstract>Situation Awareness (SA) is the problem of comprehending elements of an environment within a volume of time and space. It is a crucial factor in decision-making in dynamic environments. Current SA systems support the col- lection, filtering and presentation of data from different sources very well, and typically also some form of low-level data fusion and analysis, e.g., recognizing patterns</abstract>
+	</publication>
+	<publication>
+		<title>Creating a Portable Programming Language Using Open Source Software</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>USENIX Technical Conference</jconf>
+		<label>47</label>
+		<keyword>Open Source Software;Programming Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Runtime verification of cryptographic protocols</title>
+		<year>2010</year>
+		<authors>jan jürjens</authors>
+		<jconf>Computers &amp; Security</jconf>
+		<label>48</label>
+		<keyword>Cryptographic Protocol;Runtime Verification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A decidable policy language for history-based transaction monitoring</title>
+		<year>2009</year>
+		<authors>rajeev goré,alwen tiu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>47</label>
+		<keyword>Linear Temporal Logic;Model Checking;Partial Observation;Policy Language;Polynomial Time;Security Policy;Specification Language;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Online trading invariably involves dealings between strangers, so it is important for one party to be able to judge objectively the trustworthiness of the other. In su ch a setting, the decision to trust a user may sensibly be based on that user's past behaviour. We introduc e a specification language based on linear temporal logic for expressing a policy</abstract>
+	</publication>
+	<publication>
+		<title>Monitorability of omega-regular languages</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>47</label>
+		<keyword>Infinite Word;Regular Expression;Regular Language;Runtime Verification;Linear Time Temporal Logic;</keyword>
+		<organization>null</organization>
+		<abstract>Arguably, omega-regular languages play an important role as a specification formalism in many approaches to systems monitoring via runtime verification. However, since their elements are infinite words, not every omega-regular language can sensibly be monitored at runtime when only a finite prefix of a word, modelling the observed system behaviour so far, is available. The monitorability of an omega-regular language,</abstract>
+	</publication>
+	<publication>
+		<title>Prognosis of omegaLanguages for the Diagnosis of *Languages: A Topological Perspective</title>
+		<year>2009</year>
+		<authors>sophie pinchinat</authors>
+		<jconf>Discrete Event Dynamic Systems</jconf>
+		<label>48</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Das AutoMoDe-Projekt</title>
+		<year>2007</year>
+		<authors>manfred broy,jan romberg,bernhard schätz,peter braun,ulrich freund,nuria mata,robert sandner,pierre mai,dirk ziegenbein</authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>47</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrierte Entwicklung von Automotive-Software mit AutoFocus</title>
+		<year>2005</year>
+		<authors>jan romberg,bernhard schätz</authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>47</label>
+		<keyword>Embedded Software;Software Engineering;Synchronous Language;</keyword>
+		<organization>null</organization>
+		<abstract>Zur Beherrschung der komplexen vernetzten und verteilten Funktionen von Automotive-Software ist eine Beschreibung des zu erstellenden Systems auf verschie- denen Abstraktionsebenen und schrittweise ¨ Ubergange zwischen diesen Ebenen not- wendig. Neben der Definition geeigneter Ebenen werden zur Unterst ¨ utzung echtzeit- kritischer Systemanteile ein einheitliches Berechnungsmodell, ebenenspezifische Be- schreibungstechniken, sowie methodische Regeln f¨ ur diese Abstraktionsebenen ein- gef¨ uhrt und</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation Architecture for Digital Radio Mondiale Multimedia Applications</title>
+		<year>2005</year>
+		<authors>edmund coersmeier,martin kosakowski,nadine pfuhl,boris spahl,daniel tolksdorf,yuhuan xu,michael gerharz,wolfgang hansmann,felix leder</authors>
+		<jconf>Communication Systems and Applications</jconf>
+		<label>49</label>
+		<keyword>Multimedia Application;digital radio mondiale;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving Channel Estimation for Software Radios</title>
+		<year>2006</year>
+		<authors>edmund coersmeier,carlos sáez,andreas hotz,marc hoffman,martin kosakowski,yuhuan xu,felix leder</authors>
+		<jconf>IASTED International Multi-Conference on Wireless and Optical Communications</jconf>
+		<label>49</label>
+		<keyword>Channel Estimation;Software Radio;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Cube-Query-Languages (CQL) for Multidimensional Statistical and Scientific Database Systems</title>
+		<year>1997</year>
+		<authors>wolfgang lehner</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>50</label>
+		<keyword>Query Language;Scientific Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Supporting Hot Spots with Materialized Views</title>
+		<year>2000</year>
+		<authors>jens albrecht,m. redert</authors>
+		<jconf>Data Warehousing and Knowledge Discovery</jconf>
+		<label>50</label>
+		<keyword>Hot Spot;Materialized Views;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Alternative Relational OLAP Modeling Approach</title>
+		<year>2000</year>
+		<authors>wolfgang hümmer,wolfgang lehner</authors>
+		<jconf>Data Warehousing and Knowledge Discovery</jconf>
+		<label>50</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Decathlon in Multidimensional Modeling: Open Issues and Some Solutions</title>
+		<year>2002</year>
+		<authors>wolfgang hümmer,wolfgang lehner,lutz schlesinger</authors>
+		<jconf>Data Warehousing and Knowledge Discovery</jconf>
+		<label>50</label>
+		<keyword>Data Model;Data Warehouse;Data Warehousing;Modeling Technique;Multidimensional Data;Point of View;</keyword>
+		<organization>null</organization>
+		<abstract>The concept of multidimensional modeling has proven extremely suc- cessful in the area of Online Analytical Processing (OLAP) as one of many appli- cations running on top of a data warehous e installation. Although many different modeling techniques expressed in extended multidimensional data models were proposed in the recent past, we feel that many hot issues are not properly reflected.</abstract>
+	</publication>
+	<publication>
+		<title>Identifying Security Holes in OLAP Applications</title>
+		<year>2000</year>
+		<authors>jürgen steger,holger günzel</authors>
+		<jconf>IFIP Workshop on Database Security</jconf>
+		<label>50</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>XCube: XML for data warehouses</title>
+		<year>2003</year>
+		<authors>wolfgang hümmer,gunnar harde</authors>
+		<jconf>International Workshop on Data Warehousing and OLAP</jconf>
+		<label>50</label>
+		<keyword>Data Cube;Data Transfer;Data Warehouse;Multidimensional Data;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Data warehouse systems are nowadays a well known and widely spread approach for supporting management decisions. In several companies or even across companies the idea of integrating several data warehouses into a virtual or federated data warehouse is of growing interest. But the technical and semantic problems are very demanding. An essential part for solving this problem is a standardized,</abstract>
+	</publication>
+	<publication>
+		<title>On the problem of generating common predecessors</title>
+		<year>2002</year>
+		<authors>wolfgang lehner,wolfgang hümmer,lutz schlesinger</authors>
+		<jconf>International Workshop on Data Warehousing and OLAP</jconf>
+		<label>50</label>
+		<keyword>Data Mart;Data Warehousing;Materialized Views;</keyword>
+		<organization>null</organization>
+		<abstract>Using common subexpressions to speed up a set of queries is a well known and long studied problem. However, due to the isolation requirement, operating a database in the classic transactional way does not offer many applications to exploit the benefits of simultaneously computing a set of queries. In the opposite, many applications can be identified in the context of</abstract>
+	</publication>
+	<publication>
+		<title>Efficiently synchronizing multidimensional schema data</title>
+		<year>2001</year>
+		<authors>lutz schlesinger,wolfgang lehner,g. ediberidze,michael m. gutzmann</authors>
+		<jconf>International Workshop on Data Warehousing and OLAP</jconf>
+		<label>50</label>
+		<keyword>Data Warehouse;Data Warehousing;Materialized Views;Personal Computer;Special Needs;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Most existing concepts in data warehousing provide a central data�base system storing gathered raw data and redundantly computed materialized views. While in current system architectures client tools are sending queries to a central data warehouse system and are only used to graphically present the result, the steady rise in power of personal computers and the expansion of network bandwidth makes</abstract>
+	</publication>
+	<publication>
+		<title>Management of Multidimensional Aggregates for Efficient Online Analytical Processing</title>
+		<year>1999</year>
+		<authors>jens albrecht,o. deyerling,holger günzel,wolfgang hümmer,wolfgang lehner,lutz schlesinger</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>50</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Solving the View Selection Problem in Distributed Data Warehouse Architectures</title>
+		<year>2003</year>
+		<authors>wolfgang lehner</authors>
+		<jconf>Statistical and Scientific Database Management</jconf>
+		<label>50</label>
+		<keyword>Distributed Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Arbeitskreis Konzepts des Data Warehousing</title>
+		<year>2001</year>
+		<authors>wolfgang lehner</authors>
+		<jconf>Datenbank Rundbrief</jconf>
+		<label>50</label>
+		<keyword>Data Warehousing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Arbeitskreis ``Konzepte des Data Warehousing</title>
+		<year>2000</year>
+		<authors>holger günzel</authors>
+		<jconf>Datenbank Rundbrief</jconf>
+		<label>50</label>
+		<keyword>Data Warehousing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nutzung von Datenbankdiensten in Data-Warehouse-Anwendungen</title>
+		<year>2003</year>
+		<authors>lutz schlesinger,wolfgang lehner,wolfgang hümmer</authors>
+		<jconf>Information Technology</jconf>
+		<label>50</label>
+		<keyword>Data Warehouse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dongwon Lee</FullName>
+	<publication>
+		<title>How Rigid Are Prices in E-Commerce? An Analysis of Daily Price Change Activity in Internet Retailing</title>
+		<year>2005</year>
+		<authors>mark bergen,robert j. kauffman</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>214</label>
+		<keyword>E Commerce;Price Adjustment;Price Rigidity;</keyword>
+		<organization>null</organization>
+		<abstract>We explore daily patterns of Internet pricing for the two major Internet retailers, Amazon.com and BarnesandNoble.com, using data on 377 books col- lected over a 449-day period in 2003-2004. We frame this investigation in terms of a key question: How rigid are prices on the Internet? Internet retailers, in contrast with traditional firms, adjust prices any day of the week</abstract>
+	</publication>
+	<publication>
+		<title>Should We Expect Less Price Rigidity in the Digital Economy?</title>
+		<year>2004</year>
+		<authors>robert j. kauffman</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>214</label>
+		<keyword>Digital Economy;E Commerce;Economic Theory;Empirical Research;Information Asymmetry;Information System;Information Technology;Market Structure;Menu Cost;Price Competition;Price Rigidity;Production Function;Yield Management;</keyword>
+		<organization>null</organization>
+		<abstract>Price rigidity, a phenomenon where prices do not change with the regularity predicted by standard economic theory, is a topic of long-standing interest in firms, industries and the economy as a whole. As information technology is increasingly changing the process by which strategic pricing decisions are made and implemented in business operations, there is a need to develop a more</abstract>
+	</publication>
+	<publication>
+		<title>Price Rigidity on the Internet: New Evidence from the Online Bookselling Industry</title>
+		<year>2004</year>
+		<authors>robert j. kauffman</authors>
+		<jconf>International Conference on Information Systems</jconf>
+		<label>214</label>
+		<keyword>Price Rigidity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Book Review Section: Thinking About Information Technologies in the New Digital Economy</title>
+		<year>2003</year>
+		<authors>nicholas l. ball,robert j. kauffman,baba prasad,sriram thirumalai,priscilla arling</authors>
+		<jconf>Electronic Markets</jconf>
+		<label>214</label>
+		<keyword>Digital Economy;Information Technology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

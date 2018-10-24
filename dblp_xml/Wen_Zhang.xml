@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wen Zhang</FullName>
+	<publication>
+		<title>Modal expansion of HRTFs: Continuous representation in frequency-range-angle</title>
+		<year>2009</year>
+		<authors>thushara d. abhayapala,rodney a. kennedy,ramani duraiswami</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>1086</label>
+		<keyword>Compact Representation;Frequency Domain;Indexing Terms;Modal Analysis;Near Field;Wave Equation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a continuous HRTF representation in both 3D spatial and frequency domains. The method is based on the acous- tic reciprocity principle and a modal expansion of the wave equation solution to represent the HRTF variations with different variables in separate basis functions. The derived spatial basis modes can achieve HRTF near-field and far-field representation in one formulation.</abstract>
+	</publication>
+	<publication>
+		<title>Iterative extrapolation algorithm for data reconstruction over sphere</title>
+		<year>2008</year>
+		<authors>rodney a. kennedy,thushara d. abhayapala</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>1086</label>
+		<keyword>Convergence Rate;Data Reconstruction;fredholm integral equation;Indexing Terms;Iterative Algorithm;Largest Eigenvalue;Spherical Harmonic;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Given limited or incomplete measurement data on a sphere, a new iterative algorithm is proposed on how to extrapolate signal over the whole sphere. The algorithm is based on a priori assump- tion that the Fourier decomposition of the signal on the sphere has finite degree of spherical harmonic coefficients, that is, the signal is modelimited. The algorithm is a</abstract>
+	</publication>
+	<publication>
+		<title>UWB Spatia - Frequency Channel Characterization</title>
+		<year>2006</year>
+		<authors>thushara d. abhayapala,jian zhang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1086</label>
+		<keyword>Cluster Model;Frequency Dependence;Spatial Frequency;ultra wideband;</keyword>
+		<organization>null</organization>
+		<abstract>Thispaperinvestigates thespatial-frequency chan- nelcharacterization ofUltra-wideband (UWB)wireless commu- nication systems. Firstly, a novelfrequency dependent UWB channel modelisconstructed basedonthetheory ofelectro- magnetic diffraction mechanism, whichcauses thefield strength tovarywiththefrequency ineachmultipath. Secondly, webuild aspace-frequency model, whichincludes spatial characteristics suchasangular powerspectrum, andphysical sampling points inspace. Thespace-frequency modelhastwospecial cases(i) discrete multipath model, and(ii) cluster model, whichcanbe readily usedtogenerate channel dataforanyarbitrary set ofsensorlocations. Thereconstruction results fromchannel measurements showtheaccurateness</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Continuous HRTF Model Using Data Independent Basis Functions: Experimentally Guided Approach</title>
+		<year>2009</year>
+		<authors>rodney a. kennedy,thushara d. abhayapala</authors>
+		<jconf>IEEE Transactions on Audio, Speech &amp; Language Processing</jconf>
+		<label>1086</label>
+		<keyword>Experimental Measurement;Fourier Series;Functional Model;Head Related Transfer Function;Indexing Terms;Model Performance;Principle Component Analysis;Series Expansion;Synthetic Data;Fourier Bessel;karhunen loeve;Time Domain;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces a continuous functional model for head-related transfer functions (HRTFs) in the horizontal auditory scene. The approach uses a separable representation consisting of a Fourier-Bessel series expansion for the spectral components and a conventional Fourier series expansion for the spatial components. Being independent of the data, these two sets of basis functions remain unchanged for all subjects and</abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Simon K&amp;uuml;nzli</FullName>
+	<publication>
+		<title>Efficient Computation of Algebraic Immunity for Algebraic and Fast Algebraic Attacks</title>
+		<year>2006</year>
+		<authors>frederik armknecht,claude carlet,philippe gaborit,willi meier,olivier ruatta</authors>
+		<jconf>Theory and Application of Cryptographic Techniques</jconf>
+		<label>953</label>
+		<keyword>Algebraic Attack;Algebraic Degree;Algebraic Immunity;Boolean Function;Fast Algebraic Attacks;Generic Algorithm;Large Classes;Multivariate Polynomial Interpolation;Stream Cipher;Symmetric Function;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose several ecient algorithms for as- sessing the resistance of Boolean functions against algebraic and fast al- gebraic attacks when implemented in LFSR-based stream ciphers. An al- gorithm is described which permits to compute the algebraic immunity d of a Boolean function with n variables inO(D2) operations, for Dn d ´ , rather than in O(D3)</abstract>
+	</publication>
+	<publication>
+		<title>Distinguishing Attacks on T-Functions</title>
+		<year>2005</year>
+		<authors>pascal junod,willi meier</authors>
+		<jconf>Inf. Conf. on Cryptology in Malaysia</jconf>
+		<label>953</label>
+		<keyword>Distinguishing Attack;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

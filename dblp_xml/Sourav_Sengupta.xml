@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sourav Sengupta</FullName>
+	<publication>
+		<title>Designing a Value Based Niche Search Engine Using Evolutionary Strategies</title>
+		<year>2005</year>
+		<authors>bernard j. jansen</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>960</label>
+		<keyword>Evolutionary Strategy;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

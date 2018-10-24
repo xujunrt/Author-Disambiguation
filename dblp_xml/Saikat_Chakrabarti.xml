@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Saikat Chakrabarti</FullName>
+	<publication>
+		<title>Authenticating Feedback in Multicast Applications Using a Novel Multisignature Scheme Based on Cubic LFSR Sequences</title>
+		<year>2007</year>
+		<authors>santosh chandrasekhar,mukesh singhal,kenneth l. calvert</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>912</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Authenticating DSR Using a Novel Multisignature Scheme Based on Cubic LFSR Sequences</title>
+		<year>2007</year>
+		<authors>santosh chandrasekhar,mukesh singhal,kenneth l. calvert</authors>
+		<jconf>European Workshop on Security in Ad-hoc and Sensor Networks</jconf>
+		<label>912</label>
+		<keyword>Communication Cost;Dynamic Source Routing;Mobile Ad Hoc Network;on-demand routing protocol;Public Key;Route Discovery;Secure Routing;Signature Scheme;Small World;Special Functions;Theoretical Analysis;Trusted Third Party;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of secure routing in mobile ad hoc networks is long-standing and has been extensively studied by researchers. Re- cently, techniques of aggregating signatures have been applied to au- thenticate on demand routing protocols in mobile ad hoc networks. In this paper, we propose an efficient, single round multisignature scheme, CLFSR-M, constructed using cubic (third-order) linear feedback shift reg-</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Proxy Signatures For Ubiquitous Computing</title>
+		<year>2008</year>
+		<authors>santosh chandrasekhar,mukesh singhal</authors>
+		<jconf>Sensor Networks, Ubiquitous, and Trustworthy Computing</jconf>
+		<label>912</label>
+		<keyword>Proxy Signature;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Password-Based Authentication: Preventing Dictionary Attacks</title>
+		<year>2007</year>
+		<authors>mukesh singhal</authors>
+		<jconf>IEEE Computer</jconf>
+		<label>912</label>
+		<keyword>Dictionary Attack;password-based authentication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An escrow-less identity-based group-key agreement protocol for dynamic peer groups</title>
+		<year>2009</year>
+		<authors>santosh chandrasekhar,mukesh singhal</authors>
+		<jconf>International Journal of Security and Networks</jconf>
+		<label>912</label>
+		<keyword>Group Key Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A distributed multi-party key agreement protocol for dynamic collaborative groups using ECC</title>
+		<year>2006</year>
+		<authors>venkata c. giruka,mukesh singhal</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>912</label>
+		<keyword>Key Agreement Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient and Scalable Quasi-Aggregate Signature Scheme Based on LFSR Sequences</title>
+		<year>2009</year>
+		<authors>santosh chandrasekhar,mukesh singhal,kenneth l. calvert</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>912</label>
+		<keyword>Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

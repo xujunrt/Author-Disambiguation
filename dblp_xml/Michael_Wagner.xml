@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Wagner</FullName>
+	<publication>
+		<title>Anatomische Abbildung elektrischer Aktivität des ZNS</title>
+		<year>1996</year>
+		<authors>r. beckmann,helmut buchner,g. knoll,a. rienäcker,manfred fuchs,jiri silny,j. pesch</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>710</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Restoration of the Sphere-Cortex Homeomorphism</title>
+		<year>2006</year>
+		<authors>andreas mang,jan müller,manfred fuchs,thorsten m. buzug</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>710</label>
+		<keyword>Magnetic Resonance Image;Software Package;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. The proposed algorithm has been developed as a pre-proces-sing tool for inflating cortical surface meshes, which have been created using segmentation and subsequent triangulation of magnetic resonance images (MRI) [1]. It works directly on the triangulated surface and is therefore completely independent from the underlying segmentation. It needs no other information than the triangle mesh itself, which makes it</abstract>
+	</publication>
+	<publication>
+		<title>Model-based EEG and MEG Source Reconstruction Methods</title>
+		<year>1996</year>
+		<authors>manfred fuchs,hans-aloys wischmann,ralf drenckhahn,thomas köhler</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>710</label>
+		<keyword>Gray Matter;neuronal activity;Pyramidal Cell;Region Growing;Software Package;</keyword>
+		<organization>null</organization>
+		<abstract>Neurophysiological activity, as measured with EEG or MEG, has its origin in the brain. For most EEG and MEG experiments it is known beforehand, that the folded gray matter of t he cortex is the location of the neurons whose activity is measured. These neurons, the pyramidal cells, a re oriented p erpendicular to the c ortical surface. Triangulation o</abstract>
+	</publication>
+</person>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Takashi Yoshino</FullName>
+	<publication>
+		<title>Romeo: Robot-Mediated Cooperative Work for Handling 3Dimensional Physical Objects</title>
+		<year>1993</year>
+		<authors>kenji kawasugi,yasushi nakauchi,yuichiro anzai</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>1000</label>
+		<keyword>Cooperative Work;3 dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human Interface and Applications on IdeaBoard</title>
+		<year>1997</year>
+		<authors>masaki nakagawa,tsuyoshi oguni</authors>
+		<jconf>IFIP Conference on Human-Computer Interaction</jconf>
+		<label>1000</label>
+		<keyword>Human Interface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Demonstration of the IdeaBoard Interface and Applications</title>
+		<year>1997</year>
+		<authors>tsuyoshi oguni,masaki nakagawa</authors>
+		<jconf>IFIP Conference on Human-Computer Interaction</jconf>
+		<label>1000</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

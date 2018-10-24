@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Naoki Kobayashi</FullName>
+	<publication>
+		<title>Bayesian Perspective of Optimal Checkpoint Placement</title>
+		<year>2005</year>
+		<authors>tadashi tadashi</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>776</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Edge preserving pre-post filtering for low bitrate video coding</title>
+		<year>2001</year>
+		<authors>hideaki kimata,yoshiyuki yashima</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>776</label>
+		<keyword>Video Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constructing a uniform color space for visually lossless color representation and image coding</title>
+		<year>2001</year>
+		<authors>seishi takamura</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>776</label>
+		<keyword>Color Space;Image Coding;Image Processing;Just Noticeable Difference;</keyword>
+		<organization>null</organization>
+		<abstract>A uniform color space in terms of just-noticeable differ- ences (JND) to the human eye is important in industry and image processing, as well as for visually lossless image cod- ing and noise evaluations. The method of this paper builds a non-linear color space, by making use of structural anal- ysis with various JND data sets. Through computer simu- lation,</abstract>
+	</publication>
+	<publication>
+		<title>MPEG2 one-pass variable bit rate control algorithm and its LSI implementation</title>
+		<year>2001</year>
+		<authors>seishi takamura</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>776</label>
+		<keyword>Control Algorithm;Variable Bit Rate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Practical extension to CIELUV color space to improve uniformity</title>
+		<year>2002</year>
+		<authors>seishi takamura</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>776</label>
+		<keyword>Color Space;Human Perception;Image Coding;Image Processing;Just Noticeable Difference;</keyword>
+		<organization>null</organization>
+		<abstract>A uniform chromaticity scale (UCS) in terms of just-noticeable difference (JND) to the human eye is important in industry and image processing, as well as for visually lossless image coding and noise evaluations. CIELUV, which aims at mi- croscopic uniformity to human perception, is widely used in color representation. However, its uniformity needs further improvements. In this paper, we demonstrate</abstract>
+	</publication>
+	<publication>
+		<title>A nonlinear spatio-temporal diffusion and its application to prefiltering in MPEG4 video coding</title>
+		<year>2002</year>
+		<authors>hiroyuki tsuji,toru sakatani,yoshiyuki yashima</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>776</label>
+		<keyword>Anisotropic Diffusion;Blocking Artifact;Compressed Video;Computer Simulation;Video Coding;White Noise;</keyword>
+		<organization>null</organization>
+		<abstract>A new spatio-temporal pre-filter based on anisotropic diffusion is proposed. The filter has a nonlinear feature; it is capable of smoothing out white noise and insignificant textures in a video sequence in order to improve coding efficiency, while preserving such significant information as object edges. Computer simulation results verify that the subjective quality of a compressed video sequence is usually</abstract>
+	</publication>
+	<publication>
+		<title>MPEG4 Very Low Bit-rate Video Compression Using Sprite Coding</title>
+		<year>2001</year>
+		<authors>kumi jinzenji,hiroshi watanabe,shigeki okada</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>776</label>
+		<keyword>Global Motion Estimation;Image Quality;Moving Object;Normal Modes;Reduction Method;Video Coding;Video Compression;Video Object Plane;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on the &quot;sprite coding&quot; that supports the MPEG-4 Version 1 Main profile in order to transfer &quot;near VHS quality video &quot; across narrow-band transmission links such as the Internet. Automatic VOP (Video Object Plane) generation technologies are being studied as one of the most important issues of MPEG-4 object coding. This paper proposes a two-layer VOP generation</abstract>
+	</publication>
+	<publication>
+		<title>A Study of Keyframe Reference Picture Selection Method for Error Resilient Multiple Video Objects Distribution</title>
+		<year>2000</year>
+		<authors>hideaki kimata,yoshiyuki yashima</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>776</label>
+		<keyword>Error Resilience;Reference Picture Selection;Video Object;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Time Adaptive Motion Estimation Method For Software-Based Real-Time Video Coding</title>
+		<year>2001</year>
+		<authors>hideaki kimata,yoshiyuki yashima</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>776</label>
+		<keyword>Motion Estimation;Video Coding;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bitstream scaling by reference frame altering</title>
+		<year>2001</year>
+		<authors>atsushi shimizu,atsushi sagata,hiroshi watanabe</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<label>776</label>
+		<keyword>Reference Frame;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A study on iterative video coding rate-distortion optimization and its rate control</title>
+		<year>2003</year>
+		<authors>seishi takamura</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<label>776</label>
+		<keyword>Rate Control;Rate Distortion Optimization;Video Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

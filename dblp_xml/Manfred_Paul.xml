@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manfred Paul</FullName>
+	<publication>
+		<title>Pointer Swizzling in Non-Mapped Object Stores</title>
+		<year>1996</year>
+		<authors>lutz michael wegner,jens thamm,sven thelemann</authors>
+		<jconf>Australasian Database Conference</jconf>
+		<label>600</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A visual interface for synchronous collaboration and negotiated transactions</title>
+		<year>1996</year>
+		<authors>lutz michael wegner,jens thamm,sven thelemann</authors>
+		<jconf>Working Conference on Advanced Visual Interfaces</jconf>
+		<label>600</label>
+		<keyword>Computer Supported Cooperative Work;Data Model;Data Type;Database System;Normal Form;Query Formulation;Synchronous Collaboration;Visual Interfaces;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces a visual interface for computer-supported cooperative work (CSCW). The interface is an extension of the editor interface of ESCHER, a prototype database system based on the extended non-first-normal-form data model. In ESCHER, the nested table approach is the paradigm for presenting data, where presenting includes browsing, editing and querying the database. Interaction is achieved by fingers generalising</abstract>
+	</publication>
+	<publication>
+		<title>Scripten in ESCHER: Erweiterung des NF2-Datenmodells um Konzepte der Objektorientierung</title>
+		<year>1992</year>
+		<authors></authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>600</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ESCHER's Portable Zeichenkettenverwaltung</title>
+		<year>1990</year>
+		<authors>lutz michael wegner</authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>600</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperation and Coordination of Information and Communication Services at German Universities</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>European University Information Systems</jconf>
+		<label>601</label>
+		<keyword>Communication Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Das Rechenzentrum der Uni Trier</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Praxis Der Informationsverarbeitung Und Kommunikation</jconf>
+		<label>601</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

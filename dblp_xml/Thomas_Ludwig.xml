@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Ludwig</FullName>
+	<publication>
+		<title>Smart Carpet: A Footstep Tracking Interface</title>
+		<year>2007</year>
+		<authors>domnic savio</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CORBA-basierte verteilte Berechnung medizinischer Bilddaten mit SPM</title>
+		<year>2000</year>
+		<authors>marcel may,frank munz</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improved Functional Imaging through Network Based Parallel Processing</title>
+		<year>1998</year>
+		<authors>frank munz,t. stephan,ursula maier,arndt bode,sibylle ziegler,stephan g. nekolla,p. bartenstein,markus schwaiger</authors>
+		<jconf>Communication, Architecture, and Applications for Network-Based Parallel Computing</jconf>
+		<label>1011</label>
+		<keyword>Functional Imaging;High Efficiency;High Performance;Iterative Algorithm;Parallel Computer;Parallel Processing;</keyword>
+		<organization>null</organization>
+		<abstract>. This paper deals with currently used algorithms for the reconstructionof functional images which run up to 60 hours or more on asingle workstation and deal with hundreds of megabyte of data. A parallelimplementation with high efficiency and almost linear speedup of asophisticated iterative algorithm is given and its applicability to otherreconstruction methods is shown. Whereas running this application ona</abstract>
+	</publication>
+	<publication>
+		<title>PATOP for Performance Tuning of Parallel Programs</title>
+		<year>1990</year>
+		<authors>thomas bemmerl,olav hansen</authors>
+		<jconf>Conference on Algorithms and Hardware for Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Parallel Programs;Performance Tuning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MMK - A Distributed Operating System Kernel with Integrated Dynamic Loadbalancing</title>
+		<year>1990</year>
+		<authors>thomas bemmerl</authors>
+		<jconf>Conference on Algorithms and Hardware for Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Community Networks;Distributed Operating System;Dynamic Program;Interconnection Network;Object Oriented;Operating System;Parallel Algorithm;Parallel Computer;Parallel Machines;Parallel Systems;Process Model;Programming Model;Research and Development;and Forward;Nearest Neighbour;</keyword>
+		<organization>null</organization>
+		<abstract>The paper presents an operating system kernel for h ighly parallel supercomputers, which was implemente d on an iPSC/2 Hypercube with 32 processors. The kernel offe rs a process model, which is well suited for most p artition- ing strategies of parallel algorithms. The base for the efficiency of this object oriented, global, an d dynamic programming concept are advances</abstract>
+	</publication>
+	<publication>
+		<title>AxML: A Fast Program for Sequential and Parallel Phylogenetic Tree Calculations Based on the Maximum Likelihood Method</title>
+		<year>2002</year>
+		<authors>alexandros stamatakis,harald meier,marty j. wolf</authors>
+		<jconf>IEEE Computer Society Bioinformatics Conference</jconf>
+		<label>1011</label>
+		<keyword>Evaluation Function;High Performance Computer;Maximum Likelihood Method;np-complete problem;Phylogenetic Tree;Processor Architecture;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>Heuristics for the NP-complete problem of calculating the optimal phylogenetic tree for a set of aligned rRNA se- quences based on the maximum likelihood method are com- putationally expensive. In most existing algorithms the tree evaluation and branch length optimization functions, calcu- lating the likelihood value for each tree topology examined in the search space, account for the greatest part</abstract>
+	</publication>
+	<publication>
+		<title>Load Management on Multiprocessor Systems</title>
+		<year>1993</year>
+		<authors></authors>
+		<jconf>DFG Projects</jconf>
+		<label>1011</label>
+		<keyword>Multiprocessor Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SEEDS - Simulation Environment for the Evaluation of Distributed Traffic Control Systems</title>
+		<year>1997</year>
+		<authors>sebastiano bottalico,filippo de stefani,günther rackl</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Simulation Environment;Traffic Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Support Tools and Environments</title>
+		<year>2002</year>
+		<authors>marian bubak</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Topic Introduction</title>
+		<year>2003</year>
+		<authors>helmar burkhart,rudolf eigenmann,tomàs margalef</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bottleneck Detection in Parallel File Systems with Trace-Based Performance Monitoring</title>
+		<year>2008</year>
+		<authors>julian m. kunkel</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Parallel File System;Performance Monitoring;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Open Monitoring System for Parallel and Distributed Programs</title>
+		<year>1996</year>
+		<authors>michael oberhuber,roland wismüller</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Distributed Programs;Monitoring System;On-line Monitoring;Workstation Cluster;</keyword>
+		<organization>null</organization>
+		<abstract>The on-line monitoring interface specification OMIS provid es means for developing more powerful tool environments for parallel and distributed sys- tems. It specifies the interaction between any tool and a moni toring system which is responsible for observing and manipulating the programs' execution. By hav- ing this well defined interface it is now possible to concurre ntly use several tools</abstract>
+	</publication>
+	<publication>
+		<title>Topic 2: Performance Evaluation</title>
+		<year>2004</year>
+		<authors>wolfgang e. nagel,jeffrey s. vetter,lorenzo donatiello</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Configurable Load Measurement in Heterogeneous Workstation Clusters</title>
+		<year>1998</year>
+		<authors>christian röder,arndt bode</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Workstation Cluster;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Inference of a 10.000Taxon Phylogeny with Maximum Likelihood</title>
+		<year>2004</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Universal Infrastructure for the Run-Time Monitoring of Parallel and Distributed Applications</title>
+		<year>1998</year>
+		<authors>roland wismüller,jörg trinitis</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1011</label>
+		<keyword>Distributed Application;Distributed Programs;Monitoring System;</keyword>
+		<organization>null</organization>
+		<abstract>. On-line tools for parallel and distributed programs requirea facility to observe and possibly manipulate the programs&quot; run-timebehavior, a so called monitoring system. Currently, most tools use proprietarymonitoring techniques that are incompatible to each other andusually apply only to specific target plattforms. The On-line MonitoringInterface Specification (OMIS) is the first specification of a universal interfacebetween different tools and a monitoring</abstract>
+	</publication>
+	<publication>
+		<title>A Methodology for Efficiently Developing On-Line Tools for Heterogeneous Middleware</title>
+		<year>2001</year>
+		<authors>günther rackl</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1011</label>
+		<keyword>Application Management;Development Process;Middleware;Monitoring System;Software Development;Software Development Process;</keyword>
+		<organization>null</organization>
+		<abstract>Software development is getting more and more com- plex, especially within distributed and heterogeneous envi- ronments based on middleware enabling the interaction of distributed components. A major drawback during the over- all software development process is the lack of on-line tools, i.e. tools applied as soon as there is a running prototype of an application. On-line tools can either be</abstract>
+	</publication>
+	<publication>
+		<title>Performance Assessment of Parallel Spectral Analysis: Towards a Practical Performance Model for Parallel Medical Applications</title>
+		<year>1999</year>
+		<authors>frank munz,sibylle ziegler,p. bartenstein,markus schwaiger,arndt bode</authors>
+		<jconf>High-Performance Computing and Networking</jconf>
+		<label>1011</label>
+		<keyword>Medical Application;Performance Assessment;Performance Model;Spectral Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Airport Simulation using CORBA and DIS</title>
+		<year>1999</year>
+		<authors>günther rackl,filippo de stefani,francois héran,antonello pasquarelli</authors>
+		<jconf>High-Performance Computing and Networking</jconf>
+		<label>1011</label>
+		<keyword>Control System;Performance Analysis;Simulation Environment;</keyword>
+		<organization>null</organization>
+		<abstract>. This paper presents the SEEDS simulation environment forthe evaluation of distributed trac control systems. Starting with anoverview of the general simulator architecture, performance measurementsof the simulation environment carried out with a prototype forairport ground-trac simulation are described.The main aspects of the performance analysis are the attained applicationperformance using CORBA and DIS as communication middleware,and the scalability of the overall</abstract>
+	</publication>
+	<publication>
+		<title>Developing Applications for Multicomputer Systems on Workstation Clusters</title>
+		<year>1994</year>
+		<authors>georg stellner,arndt bode,stefan lamberts</authors>
+		<jconf>High-Performance Computing and Networking</jconf>
+		<label>1011</label>
+		<keyword>Design and Implementation;Workstation Cluster;</keyword>
+		<organization>null</organization>
+		<abstract>. Much computational power on state-of-the-art multicomputerslike the Paragon is wasted with porting applications. Using networksof workstations is an attempt to withdraw this workload from multicomputersystems. Therefore an environment is needed which provides theprogramming interface of multicomputers on coupled workstations. Thepaper describes the design and implementation of the NXLib environmentwhich allows to use Ethernet coupled workstations as a developmentplatform for...</abstract>
+	</publication>
+	<publication>
+		<title>Interoperability Support in Distributed On-Line Monitoring Systems</title>
+		<year>2000</year>
+		<authors>jörg trinitis,vaidy s. sunderam,roland wismüller</authors>
+		<jconf>High-Performance Computing and Networking</jconf>
+		<label>1011</label>
+		<keyword>On-line Monitoring;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Tool-Set - An Integrated Tool Envrionment for PVM</title>
+		<year>1996</year>
+		<authors>roland wismüller</authors>
+		<jconf>High-Performance Computing and Networking</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A strategy for cost efficient distributed data storage for in-memory OLAP</title>
+		<year>2009</year>
+		<authors>olga mordvinova,oleksandr shepil,andrew ross</authors>
+		<jconf>International Association for Development of the Information Society</jconf>
+		<label>1011</label>
+		<keyword>Cost Efficiency;Distributed Data Storage;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Small-file access in parallel file systems</title>
+		<year>2009</year>
+		<authors>philip h. carns,sam lang,robert b. ross,murali vilayannur,julian m. kunkel</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1011</label>
+		<keyword>Best Practice;Large Scale;Large Scale System;Parallel Computer;Parallel File System;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract>Today's computational science demands have re- sulted in ever larger parallel computers, and storage systems have grown to match these demands. Parallel file systems used in this environment are increasingly specialized to extract the highest possible performance for large I/O operations, at the expense of other potential workloads. While some applications have adapted to I/O best practices and can obtain</abstract>
+	</publication>
+	<publication>
+		<title>NOW Parallel Reconstruction of Functional Images</title>
+		<year>1998</year>
+		<authors>frank munz,t. stephan,ursula maier,arndt bode,sibylle ziegler,stephan g. nekolla,p. bartenstein,markus schwaiger</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1011</label>
+		<keyword>Functional Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Phylogenetic Tree Inference on PC Architectures with AxML/PAxML</title>
+		<year>2003</year>
+		<authors>alexandros stamatakis</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1011</label>
+		<keyword>Floating Point;Large Data Sets;Phylogenetic Tree;Processor Architecture;maximum like lihood;</keyword>
+		<organization>null</organization>
+		<abstract>Inference of phylogenetic trees comprising hundreds or even thousands of organisms based on the maximum like- lihood method is computationally extremely expensive. In previous work, we have introduced Subtree Equality Vec- tors (SEVs) to significantly reduce the number of required floating point operations during topology evaluation and implemented this method in(P)AxML, which is a deriva- tive of (parallel) fastDNAml. Experimental</abstract>
+	</publication>
+	<publication>
+		<title>New Fast and Accurate Heuristics for Inference of Large Phylogenetic Trees</title>
+		<year>2004</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1011</label>
+		<keyword>Exhaustive Search;Open Source;Phylogenetic Tree;Statistical Method;Synthetic Data;Time Factor;</keyword>
+		<organization>null</organization>
+		<abstract>Inference of phylogenetic trees comprising hundreds or even thousands of organisms based on the maximum likeli- hood method is computationally extremely expensive. We present simple new heuristics which yield accurate trees for synthetic (simulated) as well as real data and signifi- cantly reduce execution time. The new heuristics have been implemented in a program called RAxML which is freely available</abstract>
+	</publication>
+	<publication>
+		<title>Kinetic Analysis of Functional Images: The Case for a Practical Approach to Performance Prediction</title>
+		<year>1999</year>
+		<authors>frank munz,sibylle ziegler,p. bartenstein,markus schwaiger,arndt bode</authors>
+		<jconf>High Performance Computing</jconf>
+		<label>1011</label>
+		<keyword>Functional Imaging;Kinetic Analysis;Performance Prediction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PFSLib - A Parallel File System for Workstation Clusters</title>
+		<year>1995</year>
+		<authors>stefan lamberts</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1011</label>
+		<keyword>Design and Implementation;File System;Parallel File System;Parallel Programming Environment;Workstation Cluster;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we dicuss the the design and implementation of the PFSLib library wich offers the functionality of Intel's par allel file system PFS. It is intended to be used with parallel programming environments like PVM, P4, and NXLib on workstation clusters. We also present preliminary performance results of PFSLib in comparison to NFS.</abstract>
+	</publication>
+	<publication>
+		<title>Tool Environments in CORBA-Based Medical High Performance Computing</title>
+		<year>2001</year>
+		<authors>markus lindermeier,alexandros stamatakis,günther rackl</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1011</label>
+		<keyword>High Performance Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Synergetic Tool Environments</title>
+		<year>1999</year>
+		<authors>jörg trinitis,roland wismüller</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DAxML: A Program for Distributed Computation of Phylogenetic Trees Based on Load Managed CORBA</title>
+		<year>2003</year>
+		<authors>alexandros stamatakis,markus lindermeier,michael ott,harald meier</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1011</label>
+		<keyword>Distributed Computing;Phylogenetic Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RAxML-OMP: An Efficient Program for Phylogenetic Inference on SMPs</title>
+		<year>2005</year>
+		<authors>alexandros stamatakis,michael ott</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1011</label>
+		<keyword>Data Locality;Evolutionary Trees;Hill Climbing;large dataset;Open Source;Phylogenetic Inference;Phylogenetic Tree;Search Algorithm;Simulated Annealing;Base Pair;Maximum Likelihood;Symmetric Multi Processing;</keyword>
+		<organization>null</organization>
+		<abstract>Inference of phylogenetic trees comprising hundreds or even thousands of organisms based on the Maximum Likelihood (ML) method is computationally extremely intensive. In order to accelerate computa- tions we implemented RAxML-OMP, an efficient OpenMP-parallelization for Symmetric Multi-Processing machines (SMPs) based on the sequen- tial program RAxML-V (Randomized Axelerated Maximum Likelihood). RAxML-V is a program for inference of evolutionary trees based</abstract>
+	</publication>
+	<publication>
+		<title>NXLib - A Parallel Programming Environment for Workstation Clusters</title>
+		<year>1994</year>
+		<authors>georg stellner,arndt bode,stefan lamberts</authors>
+		<jconf>Parallel Architectures and Languages Europe</jconf>
+		<label>1011</label>
+		<keyword>Parallel Applications;Parallel Programming Environment;Workstation Cluster;</keyword>
+		<organization>null</organization>
+		<abstract>. Workstations provide an attractive platform to develop software.This paper describes the NXLib environment which enables usersto use this platform to develop parallel applications. The source codecompatibility of NXLib applications with Intel's Paragon multicomputersystem easily allows to migrate these applications to a supercomputer.The performance which can be achieved with either platform is comparedusing two applications. In addition performance results of</abstract>
+	</publication>
+	<publication>
+		<title>Tracing Internal Communication in MPI and MPI-I/O</title>
+		<year>2009</year>
+		<authors>julian m. kunkel,yuichi tsujita,olga mordvinova</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of the PVFS2 Architecture</title>
+		<year>2007</year>
+		<authors>julian m. kunkel</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>1011</label>
+		<keyword>Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interoperable Run-Time Tools for Distributed Systems - A Case Study</title>
+		<year>1999</year>
+		<authors>roland wismüller</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>1011</label>
+		<keyword>Case Study;Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Airport Simulation Using CORBA and DIS</title>
+		<year>1999</year>
+		<authors>günther rackl,filippo de stefani,francois héran,antonello pasquarelli</authors>
+		<jconf>International Symposium on Software Engineering for Parallel and Distributed Systems</jconf>
+		<label>1011</label>
+		<keyword>Distributed Interactive Simulation;High Performance;Perforation;Performance Analysis;Programming Model;Simulation Environment;Traffic Control;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the SEEDS simulation environment for the evaluation of distributed traffic control systems. Starting with an overview of the general simulator archi- tecture, the software modules and the derived hardware ar- chitecture of the simulation environment are described wit h respect to performance requirements. The communication architecture of the SEEDS simulator is based on the OMG's CORBA standard</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of the MPI-IO Optimization Levels with the PIOViz Jumpshot Enhancement</title>
+		<year>2007</year>
+		<authors>stephan krempel,michael kuhn,julian m. kunkel,christian lohse</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Non-blocking I/O Operations in High Performance Computing to Reduce Execution Times</title>
+		<year>2009</year>
+		<authors>david buettner,julian m. kunkel</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword>High Performance Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hint Controlled Distribution with Parallel File Systems</title>
+		<year>2005</year>
+		<authors>hipolito vasquez lucas</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword>Parallel File System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tracing the MPI-IO Calls' Disk Accesses</title>
+		<year>2006</year>
+		<authors>stephan krempel,julian m. kunkel,frank panse,dulip withanage</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OMIS 2.0 - A Universal Interface for Monitoring Systems</title>
+		<year>1997</year>
+		<authors>roland wismüller</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword>Development Tool;Monitoring System;Parallel Programs;Parallel Systems;</keyword>
+		<organization>null</organization>
+		<abstract>. The OMIS project aims at defining a standard interface betweentools for parallel systems and monitoring systems. Monitoring systemsact as mediators between tools and the parallel program runningon some target architecture. Their task is to observe and manipulatethe program according to the tools&quot; commands. A standardized interfacewill allow different research groups to develop tools that can be usedconcurrently with the</abstract>
+	</publication>
+	<publication>
+		<title>OCM - An OMIS Compliant Monitoring System</title>
+		<year>1996</year>
+		<authors>roland wismüller,michael oberhuber</authors>
+		<jconf>Parallel Virtual Machine / Message Passing Interface</jconf>
+		<label>1011</label>
+		<keyword>Development Tool;Monitoring System;Parallel Programs;Parallel Systems;</keyword>
+		<organization>null</organization>
+		<abstract>. The OMIS project aims at defining a standard interface betweentools for parallel systems and monitoring systems. Monitors actas mediators between tools and the parallel program running on sometarget architecture. Their task is to observe and manipulate the programaccording to the tool's commands. A standardized interface willallow different research groups to develop tools which can be used concurrentlywith the same</abstract>
+	</publication>
+	<publication>
+		<title>A fast program for maximum likelihood-based inference of large phylogenetic trees</title>
+		<year>2004</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>1011</label>
+		<keyword>Biological Data;Distributed Computing;Open Source;Parallel Programs;Phylogenetic Inference;Phylogenetic Tree;Randomized Algorithm;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>The computation of large phylogenetic trees with maximum likelihood is computationally intensive. In previous work we have introduced and implemented algorithmic optimizations in PAxML. The program shows run time improvements &amp;gt; 25% over parallel fastDNAml yielding exactly the same results. This paper is focusing on computations of large phylogenetic trees (&amp;gt; 100 organisms) with maximum likelihood. We propose a novel,</abstract>
+	</publication>
+	<publication>
+		<title>Accelerating parallel maximum likelihood-based phylogenetic tree calculations using subtree equality vectors</title>
+		<year>2002</year>
+		<authors>alexandros stamatakis,harald meier,marty j. wolf</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>1011</label>
+		<keyword>Cost Saving;Evaluation Function;Floating Point;Maximum Likelihood Method;Optimal Scaling;Parallel Algorithm;Parallel Programs;Phylogenetic Tree;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>Heuristics for calculating phylogenetic trees for a large sets of aligned rRNA sequences based on the maximum likelihood method are computationally expensive. The core of most parallel algorithms, which accounts for the greatest part of computation time, is the tree evaluation function, that calculates the likelihood value for each tree topology. This paper describes and uses Subtree Equality Vectors (SEVs)</abstract>
+	</publication>
+	<publication>
+		<title>RAxML-III: a fast program for maximum likelihood-based inference of large phylogenetic trees</title>
+		<year>2005</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>1011</label>
+		<keyword>bayesian inference;Computational Complexity;Evolutionary Trees;Neighbor Joining;Open Source;Phylogenetic Tree;Statistical Model;Synthetic Data;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: The computation of large phylogenetic trees with statistical models such as maximum likelihood or bayesian inference is computationally extremely intensive. It has repeatedly been demonstrated that these models are able to recover the true tree or a tree which is topo- logically closer to the true tree more frequently than less elaborate methods such as parsimony or neighbor joining.</abstract>
+	</publication>
+	<publication>
+		<title>The AxML program family for maximum likelihood-based phylogenetic tree inference</title>
+		<year>2004</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>1011</label>
+		<keyword>Phylogenetic Tree;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RAxML-II: a program for sequential, parallel and distributed inference of large phylogenetic trees</title>
+		<year>2005</year>
+		<authors>alexandros stamatakis,harald meier</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>1011</label>
+		<keyword>Phylogenetic Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tool environments in CORBA-based medical high-performance computing</title>
+		<year>2002</year>
+		<authors>markus lindermeier,alexandros stamatakis,günther rackl</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1011</label>
+		<keyword>High Performance Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance assessment of parallel spectral analysis: towards a practical performance model for parallel medical applications</title>
+		<year>2000</year>
+		<authors>frank munz,sibylle ziegler,p. bartenstein,markus schwaiger,arndt bode</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1011</label>
+		<keyword>Medical Application;Performance Assessment;Performance Model;Spectral Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Airport simulation using CORBA and DIS</title>
+		<year>2000</year>
+		<authors>günther rackl,filippo de stefani,francois héran,antonello pasquarelli</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1011</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DRAxML at home: a distributed program for computation of large phylogenetic trees</title>
+		<year>2005</year>
+		<authors>alexandros stamatakis,markus lindermeier,michael ott,harald meier</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1011</label>
+		<keyword>Distributed Programs;Phylogenetic Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficiently building on-line tools for distributed heterogeneous environments</title>
+		<year>2002</year>
+		<authors>günther rackl,markus lindermeier,alexandros stamatakis</authors>
+		<jconf>Scientific Programming</jconf>
+		<label>1011</label>
+		<keyword>Development Process;Heterogeneous Environment;High Performance;Image Reconstruction;Load Balance;Middleware;Performance Improvement;Software Development;Software Development Process;</keyword>
+		<organization>null</organization>
+		<abstract>Software development is getting more and more complex, espe- cially within distributed middleware-based environments. A major drawback during the overall software development process is the lack of on-line tools, i.e. tools applied as soon as there is a running proto- type of an application. The MIMO MIddleware MOnitor provides a solution to this problem by implementing a framework for an</abstract>
+	</publication>
+	<publication>
+		<title>Interoperable Run-Time Tools for Distributed Systems--A Case Study</title>
+		<year>2000</year>
+		<authors>roland wismüller</authors>
+		<jconf>The Journal of Supercomputing</jconf>
+		<label>1011</label>
+		<keyword>Case Study;Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A flat, timing-driven design system for a high-performance CMOS processor chipset</title>
+		<year>1998</year>
+		<authors>juergen koehl,ulrich baur,bernhard kick,thomas pflueger</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1012</label>
+		<keyword>Cycle Time;Global Optimization;High Performance;Place and Route;</keyword>
+		<organization>null</organization>
+		<abstract>We describe the methodology used for the design of the CMOS processor chipset used in the IBM S/390 Parallel Enterprise Server - Generation 3. The majority of the logic is implemented by standard cell elements placed and routed flat, using timing-driven techniques. The result is a globally optimized solution without artificial floorplan boundaries. We will show that the density in</abstract>
+	</publication>
+	<publication>
+		<title>Standard-cell-based design methodology for high-performance support chips</title>
+		<year>1997</year>
+		<authors>bernhard kick,ulrich baur,jürgen koehl,thomas pflueger</authors>
+		<jconf>Ibm Journal of Research and Development</jconf>
+		<label>1012</label>
+		<keyword>Design Methodology;High Performance;Logic Design;Place and Route;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>We describe the methodology used for the design of a set of CMOS support chips used in the IBM S/390@ Parallel Enterprise Server Generations 3 and 4.The logic design is based on functional units, and the majority of the logic is implemented by standard cell elements placed and routed flat, using timing-driven techniques. Custom library elements are used wherever needed</abstract>
+	</publication>
+	<publication>
+		<title>Power-delay product minimization in high-performance 64bit carry-select adders</title>
+		<year>2004</year>
+		<authors>amaury nève,helmut schettler,denis flandre</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>1012</label>
+		<keyword>High Performance;Carry Select Adder;Power Delay Product;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analyzing Metadata Performance in Distributed File Systems</title>
+		<year>2009</year>
+		<authors>christoph biardzki</authors>
+		<jconf>Parallel Computing Technologies</jconf>
+		<label>1013</label>
+		<keyword>Distributed File System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Editorial for the ISC'10 Scientific Sessions Proceedings</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>1013</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

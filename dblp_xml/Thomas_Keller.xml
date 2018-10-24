@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Keller</FullName>
+	<publication>
+		<title>Subband-adaptive turbo-coded OFDM-based interactive video telephony</title>
+		<year>2002</year>
+		<authors>peter j. cherriman,lajos hanzo</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>1008</label>
+		<keyword>Indexing Terms;Indoor Environment;Interactive Video;Orthogonal Frequency Division Multiplex;Path Loss;Signal Representation;Turbo Code;Video Codec;Video Quality;Wireless Channels;Wireless Video;Bit Error Rate;Channel Signal To Noise Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>A range of adaptive orthogonal frequency division multiplex (AOFDM) video systems are proposed for interactive communications over wireless channels. The proposed constant target bit-rate subband adaptive OFDM modems can provide a lower bit error rate than a corresponding conventional OFDM modem. The slightly more complex switched or time-variant target bit rate AOFDM modems can provide a balanced video quality performance,</abstract>
+	</publication>
+	<publication>
+		<title>A Digital Real-Time Simulator for Rail-Vehicle Control System Testing</title>
+		<year>1997</year>
+		<authors>peter terwiesch,erich scheiben,anders jenry petersen</authors>
+		<jconf>Hybrid Systems</jconf>
+		<label>1009</label>
+		<keyword>Control System;Hybrid System;Integration Testing;Power Converter;Real Time Simulation;Vehicle Control;Discrete Event;Hardware In The Loop;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Modern electrical locomotives are powered by controlled power converters. Integration testing of the vehicle control system is performed using real-time simulation. The present contribution presents an evaluation of a digital real-time simulator for this purpose, with particular emphasis on switching and events, which is one of the more demanding tasks in the real-time simulation of hybrid systems. A pragmatic solution</abstract>
+	</publication>
+</person>

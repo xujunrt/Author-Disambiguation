@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Philip Cheng</FullName>
+	<publication>
+		<title>Predicting the impact of anticipatory action on US stock market - an event study using ANFIS (a neural fuzzy model)</title>
+		<year>2005</year>
+		<authors>m. i. mah,chai quek</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>823</label>
+		<keyword>Event Study;Fuzzy Model;Stock Market;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicting impact of news on stock price: An evaluation of neuro fuzzy systems</title>
+		<year>2007</year>
+		<authors>chai quek,a. jain</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>823</label>
+		<keyword>neuro-fuzzy system;Stock Price;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicting the Impact of Anticipatory Action on U.S. Stock Market - An Event Study Using ANFIS (a neural fuzzy model)</title>
+		<year>2007</year>
+		<authors>chai quek,m. l. mah</authors>
+		<jconf>Computational Intelligence</jconf>
+		<label>823</label>
+		<keyword>Event Study;Fuzzy Model;Stock Market;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GenSo-EWS: a novel neural-fuzzy based early warning system for predicting bank failures</title>
+		<year>2004</year>
+		<authors>w. l. tung,hiok chai quek</authors>
+		<jconf>Neural Networks</jconf>
+		<label>823</label>
+		<keyword>Bank Failure;Bank Regulation;Banking Industry;Compositional Rule of Inference;Early Warning System;Financial Distress;Fuzzy Neural Network;Fuzzy Rules;Fuzzy System;Knowledge Base;neuro-fuzzy system;Proportional Hazard Model;Statistical Model;Cerebellar Model Articulation Controller;High Risk;Multi Layer Perceptron;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Bank failure prediction is an important issue for the regulators of the banking industries. The collapse and failure of a bank could trigger an adverse financial repercussion and generate negative impacts such as a massive bail out cost for the failing bank and loss of confidence from the investors and depositors. Very often, bank failures are due to financial distress.</abstract>
+	</publication>
+</person>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Srinivasan Parthasarathy</FullName>
+	<publication>
+		<title>Scheduling on Unrelated Machines Under Tree-Like Precedence Constraints</title>
+		<year>2005</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Approximation Algorithms for Combinatorial Optimization</jconf>
+		<label>962</label>
+		<keyword>Job Shop;Job Shop Scheduling;Objective Function;Precedence Constraint;Job Shop Scheduling Problem;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We present polylogarithmic approximations for the RjprecjCmax and Rjprecj P j wjCj problems, when the precedence constraints are \treelike&quot; - i.e., when the undirected graph underlying the prece- dences is a forest. These are the rst non-trivial generalizations of the job shop scheduling problem to scheduling with precedence constraints that are not just chains. These are also the rst non-trivial</abstract>
+	</publication>
+	<publication>
+		<title>Scalable event matching for overlapping subscriptions in pub/sub systems</title>
+		<year>2007</year>
+		<authors>zhen liu,anand ranganathan,hao yang</authors>
+		<jconf>Distributed Event-Based Systems</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Data Type;Heuristic Algorithm;Limit Set;Multimedia Data;Publish Subscribe;publish/subscribe system;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>Content-based publish/subscribe systems allow matching the content of events with predicates in the subscriptions. How- ever, most existing systems only allow a limited set of op- erators, such as comparison on primitive data types (string, integer, etc). In this paper, we consider a publish/subscribe system that supports more ∞exible events/subscriptions with the use of advanced, yet potentially expensive, matching op-</abstract>
+	</publication>
+	<publication>
+		<title>Dependent Rounding in Bipartite Graphs</title>
+		<year>2002</year>
+		<authors>rajiv gandhi,samir khuller,aravind srinivasan</authors>
+		<jconf>IEEE Symposium on Foundations of Computer Science</jconf>
+		<label>962</label>
+		<keyword>Bipartite Graph;Degree Sequence;Random Graph Model;Randomized Rounding;</keyword>
+		<organization>null</organization>
+		<abstract>We combine the pipage rounding technique of Ageev &amp;amp; Sviridenko with a recent rounding method developed by Srinivasan, to develop a new randomized rounding approach for fractional vectors defined on the edge-sets of bipartite graphs. We show various ways of combining this technique with other ideas, leading to the following applications: richer random-graph models for graphs with a given degree-sequence;</abstract>
+	</publication>
+	<publication>
+		<title>Approximation Algorithms for Scheduling on Multiple Machines</title>
+		<year>2005</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>IEEE Symposium on Foundations of Computer Science</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Convex Programming;Lp Norm;Objective Function;Parallel Machines;Quadratic Program;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a single rounding algorithm for schedul- ing on unrelated parallel machines; this algorithm works well with the known linear programming-, quadratic programming-, and convex programming-relaxations for scheduling to minimize completion time, makespan, and other well-studied objective functions. We obtain the fol- lowing applicationsfor the general setting of unrelated par- allel machines: (i) a bicriteria algorithm for a schedule</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Algorithms for Coloring and Domination in Wireless Ad Hoc Networks</title>
+		<year>2004</year>
+		<authors>rajiv gandhi</authors>
+		<jconf>Foundations of Software Technology and Theoretical Computer Science</jconf>
+		<label>962</label>
+		<keyword>Ad Hoc Network;Connected Dominating Set;Distributed Algorithm;Dominating Set;Low Latency;Optimal Algorithm;Structural Properties;Wireless Ad Hoc Network;Wireless Network;High Throughput;Unit Disk Graph;</keyword>
+		<organization>null</organization>
+		<abstract>We present fast distributed algorithms for coloring and (connected) dominating set construction in wireless ad hoc networks. We present our algorithms in the context of Unit Disk Graphs which are known to realistically model wireless networks. Our distributed algorithms take into account the loss of messages due to contention from simultaneous interfering transmissions in the wireless medium. We present randomized</abstract>
+	</publication>
+	<publication>
+		<title>Power Efficient Throughput Maximization in Multi-Hop Wireless Networks</title>
+		<year>2008</year>
+		<authors>deepti chafekar,v. s. anil kumar,madhav v. marathe</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>962</label>
+		<keyword>cross-layer optimization;multi-hop wireless network;Objective Function;Power Efficiency;Software Defined Radio;Theoretical Analysis;Throughput Maximization;Linear Program;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— We,study the problem,of total throughput,max- imization in arbitrary multi-hop wireless networks, with con- straints on the total power usage (denoted by PETM), when nodes have the capability to adaptively choose their power levels, which is the case with software,defined radio devices. The underlying interference graph changes when power levels change, making PETM a complex,cross-layer optimization,problem. We develop a linear</abstract>
+	</publication>
+	<publication>
+		<title>Approximation Algorithms for Computing Capacity of Wireless Networks with SINR Constraints</title>
+		<year>2008</year>
+		<authors>deepti chafekar,v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Polynomial Time Algorithm;Wireless Network;Signal To Interference Plus Noise Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>A fundamental problem in wireless networks is to estimate its throughput capacity - given a set of wireless nodes, and a set of connections, what is the maximum rate at which data can be sent on these connections. Most of the research in this direction has focused on either random distributions of points, or has assumed simple graph-based models for</abstract>
+	</publication>
+	<publication>
+		<title>Capacity of Asynchronous Random-Access Scheduling in Wireless Networks</title>
+		<year>2008</year>
+		<authors>deepti chafekar,dave levin,v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>962</label>
+		<keyword>Asynchronous Communication;Distribution Channel;Optimal Scheduling;Random Access;Wireless Network;Channel Access;</keyword>
+		<organization>null</organization>
+		<abstract>We study the throughput capacity of wireless net- works which employ (asynchronous) random-access scheduling as opposed to deterministic scheduling. The central question we answer is: how should we set the channel-access probability for each link in the network so that the network operates close to its optimal throughput capacity? We design simple and distributed channel-access strategies for random-access networks which</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Strategies for Channel Allocation and Scheduling in Software-Defined Radio Networks</title>
+		<year>2009</year>
+		<authors>bo han,v. s. anil kumar,madhav v. marathe,anand srinivasan</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>962</label>
+		<keyword>Channel Allocation;Channel Assignment;Distributed Algorithm;Hash Function;Packet Scheduling;Random Oracle;Scheduling Algorithm;Software Defined Radio;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>Equipping wireless nodes with multiple radios can significantly increase the capacity of wireless networks, b y making these radios simultaneously transmit over multiple non- overlapping channels. However, due to the limited number of radios and available orthogonal channels, designing effici ent channel assignment and scheduling algorithms in such networks is a major challenge. In this paper, we present provably- good</abstract>
+	</publication>
+	<publication>
+		<title>Association Control in Mobile Wireless Networks</title>
+		<year>2008</year>
+		<authors>minkyong kim,zhen liu,dimitrios e. pendarakis,hao yang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>962</label>
+		<keyword>Competitive Ratio;Control Algorithm;Interactive Application;Mobile Wireless Network;Online Algorithm;Statistical Approach;trace-driven simulation;Wireless Network;Access Point;Mobile Node;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>As mobile nodes roam in a wireless network, they continuously associate with different access points and perform handoff operations. However, these handoffs can potentially incur interruptions for interactive applications and increase the energy usage. To alleviate such negative impacts, we present novel association control algorithms that can minimize the frequency of handoffs occurred to mobile users. Specifically, we show that</abstract>
+	</publication>
+	<publication>
+		<title>Provable Algorithms for Parallel Sweep Scheduling on Unstructured Meshes</title>
+		<year>2005</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan,sibylle zust</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>962</label>
+		<keyword>Communication Cost;Distributed Computing System;Empirical Analysis;Linear Time;Optimal Scheduling;Parallel Algorithm;Performance Guarantee;Radiation Transport;Unstructured Mesh;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>We present provably ecient parallel algorithms for sweep scheduling on unstructured meshes. Sweep schedul- ing is a commonly used technique in Radiation Transport problems, and involves inverting an operator by iteratively sweeping across a mesh. Each sweep involves solving the operator locally at each cell. However, each direction in- duces a partial order in which this computation can pro- ceed.</abstract>
+	</publication>
+	<publication>
+		<title>Cross-layer latency minimization in wireless networks with SINR constraints</title>
+		<year>2007</year>
+		<authors>deepti chafekar,v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Mobile Ad Hoc Networking and Computing</jconf>
+		<label>962</label>
+		<keyword>Algorithm Design;Cross Layer;Geometric Graph;Layered Structure;multi-hop wireless network;Performance Guarantee;Performance Metric;Polynomial Time;Polynomial Time Algorithm;Satisfiability;Theoretical Model;Wireless Network;Cross Layer Design;Signal To Interference Plus Noise Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, there has been substantial interest in the design of cross- layer protocols for wireless networks. These protocols optimize certain performance metric(s) of interest (e.g. latency, e nergy, rate) by jointly optimizing the performance of multiple layers of the protocol stack. Algorithm designers often use geometric-graph- theoretic models for radio interference to design such cross-layer protocols. In this paper we</abstract>
+	</publication>
+	<publication>
+		<title>Minimizing broadcast latency and redundancy in ad hoc networks</title>
+		<year>2008</year>
+		<authors>rajiv gandhi,arunesh mishra</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>962</label>
+		<keyword>Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A generic flow algorithm for shared filter ordering problems</title>
+		<year>2008</year>
+		<authors>zhen liu,anand ranganathan,hao yang</authors>
+		<jconf>Symposium on Principles of Database Systems</jconf>
+		<label>962</label>
+		<keyword>Data Stream;Query Optimization;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT We consider a fundamental flow maximization problem that arises during the evaluation of multiple overlapping queries defined on a data stream, in a heterogenous parallel envi- ronment. Each query is a conjunction of boolean filters, and each filter could be shared across multiple queries. We are required to design an evaluation plan that evaluates fil- ters against stream items</abstract>
+	</publication>
+	<publication>
+		<title>Algorithmic aspects of capacity in wireless networks</title>
+		<year>2005</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Sigmetrics Performance Evaluation Review</jconf>
+		<label>962</label>
+		<keyword>Routing Protocol;Theoretical Analysis;Wireless Ad Hoc Network;Wireless Network;Linear Program Ming;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>This paper considers two inter-related questions: (i) Given a wireless ad-hoc network and a collection of source-destination pairs {( several existing routing protocols such as AODV, DSR, etc. We complement the theoretical analysis with extensive simulations. The results indicate that routes obtained using our congestion aware link metrics consistently yield higher throughput than hop-count based shortest path metrics.</abstract>
+	</publication>
+	<publication>
+		<title>Near-optimal algorithms for shared filter evaluation in data stream systems</title>
+		<year>2008</year>
+		<authors>zhen liu,anand ranganathan,hao yang</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>962</label>
+		<keyword>Computational Complexity;Data Stream;Greedy Algorithm;Multimedia Streaming;Optimal Algorithm;Query Optimization;Randomized Algorithm;Set Cover;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of evaluating multiple overlapping queries defined on data streams, where each query is a con- junction of multiple filters and each filter may be shared across multiple queries. Efficient support for overlapping queries is a critical issue in the emerging data stream sys- tems, and this is particularly the case when filters are expen- sive in</abstract>
+	</publication>
+	<publication>
+		<title>End-to-end packet-scheduling in wireless ad-hoc networks</title>
+		<year>2004</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Distributed Algorithm;Packet Routing;Packet Scheduling;Wireless Ad Hoc Network;Wireless Network;Unit Disk Graph;</keyword>
+		<organization>null</organization>
+		<abstract>Packet-scheduling is a particular challenge in wireless networks due to interference from nearby transmissions. A distance-2 interference model serves as a useful abstraction here, and we study packet routing and scheduling under this model. The main focus of our work is the development of fully-distributed (decentralized) protocols. We present polylogarithmic/constant factor approximation algorithms for various families of disk graphs (which</abstract>
+	</publication>
+	<publication>
+		<title>Scheduling on Unrelated Machines under Tree-Like Precedence Constraints</title>
+		<year>2009</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Algorithmica</jconf>
+		<label>962</label>
+		<keyword>Precedence Constraint;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dependent rounding and its applications to approximation algorithms</title>
+		<year>2006</year>
+		<authors>rajiv gandhi,samir khuller,aravind srinivasan</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Bipartite Graph;Randomized Rounding;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a new randomized rounding approach for fractional vectors dened on the edge-sets of bipartite graphs. We show various ways of combining this technique with other ideas, leading to improved (approximation) algorithms for various problems.</abstract>
+	</publication>
+	<publication>
+		<title>A unified approach to scheduling on unrelated parallel machines</title>
+		<year>2009</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>962</label>
+		<keyword>Approximate Algorithm;Convex Programming;Linear Algebra;Lp Norm;Multiple Criteria;Objective Function;Parallel Machines;Probabilistic Approach;Quadratic Program;Randomized Rounding;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a single rounding algorithm for scheduling on unrelated parallel machines; this algorithm works well with the known linear programming-, quadratic programming-, and convex programming- relaxations for scheduling to minimize completion time, makespan, and other well-studied objective functions. This algorithm leads to the following applications for the general setting of unrelated parallel machines: (i) a bicriteria algorithm for a</abstract>
+	</publication>
+	<publication>
+		<title>Distributed algorithms for connected domination in wireless networks</title>
+		<year>2007</year>
+		<authors>rajiv gandhi</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>962</label>
+		<keyword>Connected Dominating Set;Distributed Algorithm;Maximum Degree;Wireless Ad Hoc Network;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We present fast distributed local control Connected Dominating Set (CDS) algo- rithms for wireless ad hoc networks. We present two randomized distributed algo- rithms, CDSColor and CDSTop which take into account the eect of wireless interfer- ence and the consequent loss of messages during the execution of the algorithm. These algorithms produce a CDS of constant size and constant</abstract>
+	</publication>
+	<publication>
+		<title>Provable algorithms for parallel generalized sweep scheduling</title>
+		<year>2006</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan,sibylle zust</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>962</label>
+		<keyword>Distributed Computing System;Linear Time;Optimal Scheduling;Parallel Algorithm;Performance Guarantee;Radiation Transport;Randomized Algorithm;Scheduling Problem;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>We present provably efficient parallel algorithms for sweep scheduling ,w hich is a commonly used technique in Radiation Transport problems, and involves inverting an operator by iteratively sweeping across a mesh from multiple directions. Each sweep involves solving the operator locally at each cell. However, each direction induces a partial order in which this computation can proceed. On a distributed</abstract>
+	</publication>
+	<publication>
+		<title>Minimizing broadcast latency and redundancy in ad hoc networks</title>
+		<year>2008</year>
+		<authors>rajiv gandhi,arunesh mishra</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>962</label>
+		<keyword>Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum Weighted Completion Time</title>
+		<year>2008</year>
+		<authors>v. s. anil kumar,madhav v. marathe,aravind srinivasan</authors>
+		<jconf></jconf>
+		<label>962</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

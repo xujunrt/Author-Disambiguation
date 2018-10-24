@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hiroaki Sugiura</FullName>
+	<publication>
+		<title>Dose reduction of contrast material in the diagnisis of aortic diseases with CT angiography</title>
+		<year>2003</year>
+		<authors>masahiro jinzaki,kozo sato,kazuhiro matsumoto,sachio kuribayashi</authors>
+		<jconf>Computer Assisted Radiology and Surgery</jconf>
+		<label>283</label>
+		<keyword>Ct Angiography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel method for displaying multidetector CT urography - Top Ten Projection</title>
+		<year>2003</year>
+		<authors>masahiro jinzaki,koichi oshil,stuart g. silverman,kozo sato,sachio kuribayashi</authors>
+		<jconf>Computer Assisted Radiology and Surgery</jconf>
+		<label>283</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

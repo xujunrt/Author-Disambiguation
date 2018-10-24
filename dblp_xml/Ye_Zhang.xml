@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ye Zhang</FullName>
+	<publication>
+		<title>Analyzing Security Protocols in Hierarchical Networks</title>
+		<year>2006</year>
+		<authors>hanne riis nielson</authors>
+		<jconf>Automated Technology for Verification and Analysis</jconf>
+		<label>1166</label>
+		<keyword>Hierarchical Networks;Security Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From generic to specific: off-line optimization for a general constraint solver</title>
+		<year>2008</year>
+		<authors>torben amtoft,flemming nielson</authors>
+		<jconf>Generative Programming and Component Engineering</jconf>
+		<label>1166</label>
+		<keyword>Automatic Detection;Constraint Solving;Pointer Analysis;Program Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>A general constraint solver simplifies the implementation of program analyses because constraint generation can then be separated from constraint solving. In return, a general solver often needs to sacrifice performance for generality. We describe a strategy that given a set of constraints first performs off-line optimizations (performed before the execution of the solver) which enable a solver to find (potential)</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Inclusion Constraint Solver Using Unification</title>
+		<year>2007</year>
+		<authors>flemming nielson</authors>
+		<jconf>Logic Program Synthesis and Transformation</jconf>
+		<label>1166</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

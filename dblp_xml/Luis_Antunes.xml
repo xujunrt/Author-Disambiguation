@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Luis Antunes</FullName>
+	<publication>
+		<title>Who Should Access Electronic Patient Records</title>
+		<year>2008</year>
+		<authors>ana ferreira,catarina pinho,sá catarina,edite mendes,emanuel santos,fátima silva,filipa sousa,filipe gomes,fernando abreu,fernando mota,francisca aguiar,francisco faria,francisco macedo,simão martins,ricardo joão cruz correia</authors>
+		<jconf>International Joint Conference on Biomedical Engineering Systems and Technologies</jconf>
+		<label>593</label>
+		<keyword>Electronic Patient Record;Medical Records;Random Sampling;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Access control to Electronic Patient Records (EPR) may greatly depend on users' objectives and needs. The purpose of this study is to assess the opinions of medical doctors within a university hospital towards access control to an EPR. We selected a randomized sample of 58 doctors from a university hospital and 45 structured interviews were applied. 42 respondents (93%) agree</abstract>
+	</publication>
+	<publication>
+		<title>A First Approach for a Regional Wide VEPR</title>
+		<year>2008</year>
+		<authors>pedro manuel vieira marques,arthur cunha,ricardo joão cruz correia,altamiro da costa pereira</authors>
+		<jconf>International Joint Conference on Biomedical Engineering Systems and Technologies</jconf>
+		<label>593</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Patients  visit  multiple  health  institutions  and  leave  a  trail  of  information  scattered  around  hospitals,</abstract>
+	</publication>
+	<publication>
+		<title>How to Break Access Control in a Controlled Manner</title>
+		<year>2006</year>
+		<authors>ana ferreira,ricardo joão cruz correia,p. farinha,e. oliveira-palhares,david w. chadwick,altamiro da costa pereira</authors>
+		<jconf>IEEE Symposium on Computer-Based Medical Systems</jconf>
+		<label>593</label>
+		<keyword>Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrity for Electronic Patient Record Reports</title>
+		<year>2004</year>
+		<authors>ana ferreira,ricardo joão cruz correia,ernesto palhares,pedro manuel vieira marques,pedro costa,altamiro da costa pereira</authors>
+		<jconf>IEEE Symposium on Computer-Based Medical Systems</jconf>
+		<label>593</label>
+		<keyword>Electronic Patient Record;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering Fetal Heart Rate Tracings by Compression</title>
+		<year>2006</year>
+		<authors>c. costa santos,j. bernardes,paul m. b. vitányi</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>593</label>
+		<keyword>Algorithmic Information Theory;Background Knowledge;Domain Specificity;Individual Object;Information Content;Requirement Specification;Fetal Heart Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Fetal heart rate (FHR) monitoring, before and during labor, is a very important medical practice in the detection of fetuses in danger. We clustered FHR tracings by compression in order to identify abnormal ones. We use a recently introduced approach based on algorithmic information theory, a theoretical, rigorous and well-studied notion of information content in individual objects. The new method</abstract>
+	</publication>
+	<publication>
+		<title>Computational Depth</title>
+		<year>2001</year>
+		<authors>lance fortnow,dieter van melkebeek</authors>
+		<jconf>Structure in Complexity Theory Conference</jconf>
+		<label>593</label>
+		<keyword>kolmogorov complexity;Random Set;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce Computational Depth, a measure for the amount of &quot;nonrandom&quot; or &quot;useful&quot; information in a string by considering the difference of various Kolmogorov complexity measures. We investigate three instantiationsof Computational Depth: Basic Computational Depth, a clean notion capturing the spirit of Bennett's Logical Depth. Time- Computational Depth and the resulting concept of Shallow Sets, a generalization of sparse and</abstract>
+	</publication>
+	<publication>
+		<title>Low-Depth Witnesses are Easy to Find</title>
+		<year>2006</year>
+		<authors>lance fortnow,alexandre pinto,andre souto</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>593</label>
+		<keyword>Computational and Structural Complexity;kolmogorov complexity;Polynomial Time;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Antunes, Fortnow, van Melkebeek and Vinodchandran captured the notion of non-random information by computational depth, the difference between the polynomial-time-bounded Kol- mogorov,complexity,and,traditional Kolmogorov,complexity,We show,how,to find satisfying assignments,for formulas that have at least one assignment,of logarithmic,depth. The converse holds under,a standard,hardness,assumptions,though,fails if BPP = UP = EXP. We also show that under standard,hardness,assumptions,one cannot increase the depth of a string</abstract>
+	</publication>
+	<publication>
+		<title>Using Depth to Capture Average-Case Complexity</title>
+		<year>2003</year>
+		<authors>lance fortnow,n. v. vinodchandran</authors>
+		<jconf>Fundamentals of Computation Theory</jconf>
+		<label>593</label>
+		<keyword>Polynomial Time;turing machine;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We give therst characterization of Turing machines thatrun in polynomial-time on average. We show that a Turing machine Mruns in average polynomial-time if for all inputs x the Turing machineuses time exponential in the computational depth of x, where the computationaldepth is a measure of the amount of \useful&amp;amp;quot; information inx.</abstract>
+	</publication>
+	<publication>
+		<title>Sophistication Revisited</title>
+		<year>2003</year>
+		<authors>lance fortnow</authors>
+		<jconf>International Congress of Mathematicans</jconf>
+		<label>593</label>
+		<keyword>Information Presentation;kolmogorov complexity;Structure Function;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Kolmogorov complexity measures the ammount,of information in a string as the size of the shortest program,that computes the string. The Kolmogorov structure function divides the smallest program producing a string in two parts: the useful information present in the string, called sophistication if based on total functions, and the remaining accidental information. We formalize a connection between sophistication (due</abstract>
+	</publication>
+	<publication>
+		<title>Depth as Randomness Deficiency</title>
+		<year>2008</year>
+		<authors>armando matos,andre souto,paul m. b. vitányi</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>593</label>
+		<keyword>Auxiliary Information;kolmogorov complexity;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Depth of an object concerns a tradeoff between computation time and excess of pro- gram length over the shortest program length required to obtain the object. It gives an unconditional lower bound on the computation time from a given program in absence of auxiliary information. Variants known as logical depth and computational depth are expressed in Kolmogorov complexity theory. We</abstract>
+	</publication>
+	<publication>
+		<title>Entropy Measures vs. Algorithmic Information</title>
+		<year>2009</year>
+		<authors>andreia teixeira,andre souto,armando matos</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>593</label>
+		<keyword>Individual Object;Probability Distribution;Public Key;Shannon Entropy;</keyword>
+		<organization>null</organization>
+		<abstract>enyi Entropy, proving that all other values of the parameter (�), the same difference can be big. We also prove that for a particular type of distributions Shannon Entropy is able to capture the notion of computationally accessible information by relating it to time-bounded algorithmic entropy. In order to better study this unexpected relation it is investigated the behavior of</abstract>
+	</publication>
+	<publication>
+		<title>Low-Depth Witnesses are Easy to Find</title>
+		<year>2006</year>
+		<authors>lance fortnow,alexandre pinto,andre souto</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>593</label>
+		<keyword>Computational and Structural Complexity;kolmogorov complexity;Polynomial Time;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Antunes, Fortnow, van Melkebeek and Vinodchandran captured the notion of non-random information by computational depth, the difference between the polynomial-time-bounded Kol- mogorov,complexity,and,traditional Kolmogorov,complexity,We show,how,to find satisfying assignments,for formulas that have at least one assignment,of logarithmic,depth. The converse holds under,a standard,hardness,assumptions,though,fails if BPP = UP = EXP. We also show that under standard,hardness,assumptions,one cannot increase the depth of a string</abstract>
+	</publication>
+	<publication>
+		<title>Time-Bounded Universal Distributions</title>
+		<year>2005</year>
+		<authors>lance fortnow</authors>
+		<jconf>Electronic Colloquium on Computational Complexity</jconf>
+		<label>593</label>
+		<keyword>Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We show that under a reasonable hardness assumptions, the time-bounded Kolmogorov distribution is a universal samplable distribution. Under the same assumption we exactly characterize the worst-case running time of languages that are in average polynomial-time over all P-samplable distributions.</abstract>
+	</publication>
+	<publication>
+		<title>Computational depth: Concept and applications</title>
+		<year>2006</year>
+		<authors>lance fortnow,dieter van melkebeek,n. v. vinodchandran</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>593</label>
+		<keyword>kolmogorov complexity;Random Set;Satisfiability;turing machine;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce Computational Depth, a measure for the amount of &quot;nonrandom&quot; or &quot;useful&quot; information in a string by considering the dierence of various Kolmogorov complexity measures. We investigate three instantiations of Computational Depth: - Basic Computational Depth, a clean notion capturing the spirit of Bennett's Logical Depth. We show that a Turing machine M runs in time polynomial on average</abstract>
+	</publication>
+</person>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manish Mehta</FullName>
+	<publication>
+		<title>SLIQ: A Fast Scalable Classifier for Data Mining</title>
+		<year>1996</year>
+		<authors>rakesh agrawal,jorma rissanen</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>609</label>
+		<keyword>Classification Algorithm;Data Mining;Large Data Sets;Tree Growth;Decision Tree Classifier;</keyword>
+		<organization>null</organization>
+		<abstract>Classification is an important problem in the emerging field of data mining. Although classification has been studied extensively in the past, most of the classification algorithms are designed only for memory-resident data, thus limiting their suitability for data mining large data sets. This paper discusses issues in building a scalable classi- fier and presents the design of SLIQ' , a</abstract>
+	</publication>
+	<publication>
+		<title>Batch Scheduling in Parallel Database Systems</title>
+		<year>1993</year>
+		<authors>valery soloviev,david j. dewitt</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>609</label>
+		<keyword>Parallel Database System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Quest Data Mining System</title>
+		<year>1996</year>
+		<authors>rakesh agrawal,john c. shafer,ramakrishnan srikant,andreas arning,toni bollinger</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>609</label>
+		<keyword>Association Rule;Case Study;Data Mining;Health Insurance;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>of items. The intuitive meaning of such a rule is that transactions of the database which contain X tend to contain Y. An example of an association rule is: \30% of transactions that contain beer also contain diapers; 2% of all transactions contain both of these items&quot;. Here 30% is called the condence of the rule, and 2% the support</abstract>
+	</publication>
+	<publication>
+		<title>MDL-Based Decision Tree Pruning</title>
+		<year>1995</year>
+		<authors>jorma rissanen,rakesh agrawal</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>609</label>
+		<keyword>Decision Tree;min imum description length;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores the application of the Min- imum Description Length principle for pruning decision trees. We present a new algorithm that intuitively captures the primary goal of reduc- ing the misclassification error. An experimental comparison is presented with three other prun- ing algorithms. The results show that the MDL pruning algorithm achieves good accuracy, small trees, and fast execution</abstract>
+	</publication>
+	<publication>
+		<title>Data Placement in Shared-Nothing Parallel Database Systems</title>
+		<year>1997</year>
+		<authors>david j. dewitt</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>609</label>
+		<keyword>Data Placement;Parallel Database System;Resource Scheduling;Simulation Study;Database System;</keyword>
+		<organization>null</organization>
+		<abstract>Data placement in shared-nothing database systems has been studied extensively in the past and various placement algorithms have been proposed. However, there is no consensus on the most efficient data placement algorithm and placement is still performed manually by a database administrator with periodic reorganization to correct mistakes. This paper presents the first comprehensive simulation study of data placement issues</abstract>
+	</publication>
+	<publication>
+		<title>RINK-RKP: a scheme for key predistribution and shared-key discovery in sensor networks</title>
+		<year>2005</year>
+		<authors>dijiang huang,lein harn</authors>
+		<jconf>International Performance, Computing, and Communications Conference</jconf>
+		<label>610</label>
+		<keyword>Hash Chain;Key Establishment;key predistribution;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Eficient schemes for key predistribution and shared-key discovery play a vital role in security and eficiency of pairwise key establishment an sensor networks. In this paper, we propose a scheme for key predistribution using hash-chain and subsequent shared-key discove y. We show potential active attacks on sensor networks due to key predistribution which can have severer consequences as compared to</abstract>
+	</publication>
+	<publication>
+		<title>Location-aware key management scheme for wireless sensor networks</title>
+		<year>2004</year>
+		<authors>dijiang huang,deep medhi,lein harn</authors>
+		<jconf>workshop on security of ad hoc and sensor networks</jconf>
+		<label>610</label>
+		<keyword>Distributed Sensor Network;Information Gain;Key Management;Location Awareness;Low Power;Performance Analysis;Probabilistic Key Sharing;Secure Communication;Sensor Network;Sensor System;Tamper Resistance;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Sensor networks are composed of a large number of low power sensor devices. For secure communication among sensors, secret keys must be established between them. Recently, several pairwise key schemes have been proposed for large distributed sensor networks. These schemes randomly select a set of keys from a key pool and install the keys in the memory of each sensor.</abstract>
+	</publication>
+	<publication>
+		<title>Modeling pairwise key establishment for random key predistribution in large-scale sensor networks</title>
+		<year>2007</year>
+		<authors>dijiang huang,appie van de liefvoort,deep medhi</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>610</label>
+		<keyword>Binomial Distribution;Key Establishment;key predistribution;Large Scale;Low Power;Probability Model;Secure Communication;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Sensor networks are composed of a large number of low power sensor devices. For secure communication among sensors, secret keys are required to be established between them. Considering the storage limitations and the lack of post- deployment configuration information of sensors, Random Ke y Predistribution schemes have been proposed. Due to limited number of keys, sensors can only share keys</abstract>
+	</publication>
+</person>

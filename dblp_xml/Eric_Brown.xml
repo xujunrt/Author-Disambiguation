@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Eric Brown</FullName>
+	<publication>
+		<title>On the Phase Reduction and Response Dynamics of Neural Oscillator Populations</title>
+		<year>2004</year>
+		<authors>jeff moehlis,philip holmes</authors>
+		<jconf>Neural Computation</jconf>
+		<label>217</label>
+		<keyword>Neural Oscillator;Phase Response Curve;Signal Processing;fitzhugh nagumo;Hodgkin Huxley;</keyword>
+		<organization>null</organization>
+		<abstract>Weundertakeaprobabilisticanalysisoftheresponseofrepetitivelyé ring neural populations to simple pulselike stimuli. Recalling and extending results from the literature, we compute phase response curves (PRCs) valid near bifurcations to periodic é ring for Hindmarsh-Rose, Hodgkin- Huxley, FitzHugh-Nagumo, and Morris-Lecar models, encompassing the four generic (codimension one) bifurcations. Phase density equations are then used to analyze the role of the bifurcation, and the resulting PRC,</abstract>
+	</publication>
+</person>

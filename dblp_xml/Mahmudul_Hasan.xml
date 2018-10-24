@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mahmudul Hasan</FullName>
+	<publication>
+		<title>Multi-modal Registration of SAR and Optical Satellite Images</title>
+		<year>2009</year>
+		<authors>mark r. pickering,xiuping jia</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>596</label>
+		<keyword>Satellite Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

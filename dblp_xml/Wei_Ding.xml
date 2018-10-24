@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wei Ding</FullName>
+	<publication>
+		<title>Multi-Granularities Counting Bloom Filter</title>
+		<year>2006</year>
+		<authors>mingzhong zhou,jian gong,guang cheng</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>1041</label>
+		<keyword>Bloom Filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Double-Sampling and Hold Based Approach for Accurate and Efficient Network Flow Monitoring</title>
+		<year>2007</year>
+		<authors>guang cheng,yongning tang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1041</label>
+		<keyword>Double Sampling;Network Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Estimation of Flow Length Distributions Using Heavy-Tailed Feature</title>
+		<year>2006</year>
+		<authors>weijiang liu,jian gong,guang cheng</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1041</label>
+		<keyword>Heavy Tail;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Estimating Original Flow Length from Sampled Flow Statistics</title>
+		<year>2006</year>
+		<authors>weijiang liu,jian gong,yanbing peng</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1041</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Algorithm for Long Flows Statistics-MGCBF</title>
+		<year>2006</year>
+		<authors>mingzhong zhou,jian gong</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1041</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network Traffic Sampling Model on Packet Identification</title>
+		<year>2005</year>
+		<authors>guang cheng,jian gong</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>1041</label>
+		<keyword>Network Traffic;Packet Sampling;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Spatially coordinated  packet  sampling ,can  be  implemented ,by  using a deterministic function of packet content to determine the selection decision for a given packet. In this way, a given packet may be  selected  at  either  all  points  that  it  passes,  or  none.  Selection amongst the set of packets should appear as random,as possible.  Inthis paper  we  calculate ,the  empirical</abstract>
+	</publication>
+	<publication>
+		<title>A Time-Series Decomposed Model of Network Traffic</title>
+		<year>2005</year>
+		<authors>guang cheng,jian gong</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1041</label>
+		<keyword>Arima Model;Autocorrelation Function;Large Scale;Network Traffic;Non Linear System;Prediction Error;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Traffic behavior  in  a ,large-scale  network ,can  be  viewed ,as  a  complicated non-linear  system,  so  it  is  very  difficult  to  describe  the long-term network traffic behavior in a large-scale network. In this paper, according to the non-linear character of network traffic, the time  series  of  network ,traffic  is  decomposed ,into  trend  component, period  component,  mutation  component  and  random  component,by</abstract>
+	</publication>
+	<publication>
+		<title>Study of Dynamic Timeout Strategy based on flow rate metrics in high-speed networks</title>
+		<year>2006</year>
+		<authors>mingzhong zhou,jian gong</authors>
+		<jconf>Scalable Information Systems</jconf>
+		<label>1041</label>
+		<keyword>Flow Measurement;Flow Rate;High Speed Networks;Measurement System;Network Flow;Network Measurement;</keyword>
+		<organization>null</organization>
+		<abstract>The measurements based on flow characteristics are playing more and more important roles in the analysis of Network Behavior. As one of main methods for flow recognition, the timeout strategies have a significant impact on the correctness and performance of flow measurements. This paper discusses the state-of-art of flow timeout strategies, and explains where they are applicable and their shortcomings.</abstract>
+	</publication>
+	<publication>
+		<title>Identifying BT-like P2P Traffic by the Discreteness of Remote Hosts</title>
+		<year>2007</year>
+		<authors>w. q. cheng,jian gong</authors>
+		<jconf>IEEE Conference on Local Computer Networks</jconf>
+		<label>1041</label>
+		<keyword>bittorrent;P2P;Peer To Peer;Traffic Classification;Working Hours;</keyword>
+		<organization>null</organization>
+		<abstract>By analyzing application protocols and traffic, we find that the most striking distinguish between BitTorrent (BT)-like peer-to-peer (P2P) applications' traffic and traditional as well as other P2P (such as Skype) applications' traffic of a single user may be the dissimilarity in the distribution of remote hosts involved. Therefore, we propose a method based on Discreteness of Remote Hosts (RHD) to</abstract>
+	</publication>
+	<publication>
+		<title>A Trace Measurement and Analysis System for the Multi-Links CERNET Backbone</title>
+		<year>2009</year>
+		<authors>guang cheng,yongning tang,jiexin jiang</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>1041</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive sampling algorithm for detection of superpoints</title>
+		<year>2008</year>
+		<authors>guang cheng,jian gong,hua wu,shiqiang qiang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<label>1041</label>
+		<keyword>Adaptive Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Customer Future Profitability Assessment: A Data-Driven Segmentation Function Approach</title>
+		<year>2006</year>
+		<authors>chunhua tian,rongzeng cao,michelle wang</authors>
+		<jconf>Data Engineering Issues in E-Commerce</jconf>
+		<label>1042</label>
+		<keyword>Profitability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Integer Linear Programming for Container Stowage Problem</title>
+		<year>2008</year>
+		<authors>feng li,chunhua tian,rongzeng cao</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1042</label>
+		<keyword>Integer Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extensive Epidemic Spreading Model Based on Multi-agent System Framework</title>
+		<year>2007</year>
+		<authors>chunhua tian,rongzeng cao,shun jiang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1042</label>
+		<keyword>Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Epidemic Alert &amp; Response Framework and Technology Based on Spreading Dynamics Simulation</title>
+		<year>2007</year>
+		<authors>chunhua tian,xun zhang,rongzeng cao</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1042</label>
+		<keyword>Dynamic Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Resource and Portfolio Management Solution to Align IT Investment with Business</title>
+		<year>2005</year>
+		<authors>rongzeng cao,chunhua tian</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>1042</label>
+		<keyword>It Investment;Portfolio Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Concept Interpretation Approach for OWL Extension</title>
+		<year>2007</year>
+		<authors>shun jiang,chunhua tian,feng li,hao zhang</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1042</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Asynchronously Rendering Interoperable Remote Portlets</title>
+		<year>2007</year>
+		<authors>hao zhang,shun jiang,chunhua tian,rongzeng cao</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1042</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Business Transformation Workbench: A Practitioner's Tool for Business Transformation</title>
+		<year>2008</year>
+		<authors>juhnyoung lee,rama akkiraju,chunhua tian,shun jiang,sivaprashanth danturthy,ponn sundhararajan,carl nordman,rakesh mohan,hitansh singala</authors>
+		<jconf>Business Process Management</jconf>
+		<label>1042</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Business Value Analysis of IT Services</title>
+		<year>2007</year>
+		<authors>chunhua tian,rongzeng cao,hao zhang,juhnyoung lee</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1042</label>
+		<keyword>Business Value;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Service capacity allocation and pricing</title>
+		<year>2008</year>
+		<authors>chunhua tian,feng li,rongzeng cao</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>1042</label>
+		<keyword>Capacity Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Business Value Assessment of Packaged Applications</title>
+		<year>2008</year>
+		<authors>chunhua tian,shun jiang,rongzeng cao,juhnyoung lee</authors>
+		<jconf>IEEE Congress on Services</jconf>
+		<label>1042</label>
+		<keyword>Business Value;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mathematical models and simulation for project portfolios optimization</title>
+		<year>2007</year>
+		<authors>rongzeng cao,bonnie ray</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>1042</label>
+		<keyword>Mathematical Model;Portfolio Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Epidemics alert &amp; response framework and technology based on spreading dynamics simulation</title>
+		<year>2006</year>
+		<authors>chunhua tian,xun zhang,rongzeng cao</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>1042</label>
+		<keyword>Critical Point;Data Collection;Dynamic Simulation;Model Analysis;Model Verification;Network Topology;Policy Analysis;Policy Making;Sensitivity Analysis;Severe Acute Respiratory Syndrome;Simulation Methods;Decision Support Tool;</keyword>
+		<organization>null</organization>
+		<abstract>There have been many research works on epidemic spreading using mathematical or simulation methods. However, to make it practical as a decision support tool for the policy maker, it needs to be combined with business operation of epidemic control. Thus, an alert and response framework covering outbreak detection, policy analysis, and policy execution is proposed in this work. Key technologies</abstract>
+	</publication>
+	<publication>
+		<title>Model-driven business process integration and management: A case study with the Bank SinoPac regional service platform</title>
+		<year>2004</year>
+		<authors>jun zhu,zhong tian,thomas li,wei sun,sheng ye,c. c. wang,gerland wu,leo weng,simon huan,bill liu,daniel chou</authors>
+		<jconf>Ibm Journal of Research and Development</jconf>
+		<label>1042</label>
+		<keyword>Business Process Integration;Business Process Model;Case Study;Data Model;Life Span;Satisfiability;Severe Acute Respiratory Syndrome;Software Engineering;Tool Support;Work Environment;</keyword>
+		<organization>null</organization>
+		<abstract>Business process integration and management (BPIM) is a critical element in enterprise business transformation. Small and medium-sized businesses have their own requirements for BPIM solutions: The engagement methodology should be fast and efficient; a reusable and robust framework is required to reduce cost; and the whole platform should be lightweight so that one can easily revise, develop, and execute solutions.</abstract>
+	</publication>
+	<publication>
+		<title>Using resource and portfolio management solution to align IT investment with business</title>
+		<year>2006</year>
+		<authors>rongzeng cao,chunhua tian</authors>
+		<jconf>International Journal of Electronic Business</jconf>
+		<label>1042</label>
+		<keyword>It Investment;Portfolio Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discovering spatio-social motifs of electoral support using discriminative pattern mining</title>
+		<year>2010</year>
+		<authors>tomasz f. stepinski,josue salazar</authors>
+		<jconf></jconf>
+		<label>1043</label>
+		<keyword>Association Analysis;Geographic Distribution;Pattern Mining;Presidential Election;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>Association analysis provides a natural, data-centric framework for the discovery of patterns of explanatory variables that are linked to a certain outcome. In this paper we demonstrate how such a framework can be applied for political analysis, using an expository example of discovering different spatio-social motifs of support for Barack Obama in the 2008 presidential election. Election results and thirteen</abstract>
+	</publication>
+	<publication>
+		<title>Finding regional colocation patterns for sets of continuous variables in spatial datasets</title>
+		<year>2008</year>
+		<authors>christoph f. eick,rachana parmar,tomasz f. stepinski,jean-philippe nicot</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>1043</label>
+		<keyword>Arsenic;Arsenic Contamination;Case Study;Continuous Variable;Difference Set;Fitness Function;Hill Climbing;Knowledge Discovery;Number of Clusters;Spatial Data Mining;Statistical Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a novel framework for mining regional co-location patterns with respect to sets of continuous variables in spatial datasets. The goal is to identify regions in which multiple continuous variables with values from the wings of their statistical distribution are co-located. A co-location mining framework is introduced that operates in the continuous domain and which views regional co-location</abstract>
+	</publication>
+	<publication>
+		<title>Discovering controlling factors of geospatial variables</title>
+		<year>2008</year>
+		<authors>tomasz f. stepinski,christoph f. eick</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>1043</label>
+		<keyword>Real World Application;Spatial Data Mining;Spatial Distribution;Vegetation Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Efficient means of determining factors controlling spatial distribution of an environmental class variable are of significant interest in Earth science. In this paper, we present a method for automated discovery of controlling factors by mining for emerging patterns in a database constructed from the fusion of several explanatory datasets. We introduce a new definition of pattern support to account for</abstract>
+	</publication>
+	<publication>
+		<title>Icon-based Visualization of Large High-Dimensional Datasets</title>
+		<year>2003</year>
+		<authors>ping chen,chenyi hu,heloise lynn,yves simon</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1043</label>
+		<keyword>Case Study;High Dimensional Data;high dimensional dataset;Large Data Sets;</keyword>
+		<organization>null</organization>
+		<abstract>High dimensional data visualization is critical to data analysts since it gives a direct view of original data. We present a method to visualize large amount of high dimensional data. We divide dimensions of data into several groups. Then, we use one icon to repre- sent each group, and associate visual properties of each icon with dimensions in each group.</abstract>
+	</publication>
+	<publication>
+		<title>A Framework for Regional Association Rule Mining in Spatial Datasets</title>
+		<year>2006</year>
+		<authors>christoph f. eick,jing wang,xiaojing yuan</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1043</label>
+		<keyword>Arsenic;Association Rule;Association Rule Mining;Case Study;Cluster Algorithm;Spatial Data;Spatial Data Mining;Water Supply;</keyword>
+		<organization>null</organization>
+		<abstract>The immense explosion of geographically referenced data calls for efficient discovery of spatial knowledge. One of the special challenges for spatial data mining is that in- formation is usually not uniformly distributed in spatial datasets. Consequently, the discovery of regional knowl- edge is of fundamental importance for spatial data min- ing. This paper centers on discovering regional associa- tion rules</abstract>
+	</publication>
+	<publication>
+		<title>On Regional Association Rule Scoping</title>
+		<year>2007</year>
+		<authors>christoph f. eick,xiaojing yuan,jing wang,jean-philippe nicot</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1043</label>
+		<keyword>Arsenic;Arsenic Contamination;Association Rule;Association Rule Mining;Case Study;Regional Scale;Spatial Data;Spatial Data Mining;Water Supply;</keyword>
+		<organization>null</organization>
+		<abstract>A special challenge for spatial data mining is that information is not distributed uniformly in spatial data sets. Consequently, the discovery of regional knowledge is of fundamental importance. Unfortunately, regional patterns frequently fail to be discovered due to insuf- flcient global confldence and/or support in traditional association rule mining. Regional association rules, by deflnition, only hold in a subspace but</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Three Specification-Based Testing Criteria</title>
+		<year>2000</year>
+		<authors>aynur abdurazik,paul ammann,a. jefferson offutt</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>1043</label>
+		<keyword>specification-based testing;</keyword>
+		<organization>null</organization>
+		<abstract>This paper compares three specification-based testing criteria using Mathur and Wong's PROBSUBSUMES mea- sure. The three criteria are specification-mutation cover- age, full predicate coverage, and transition-pair coverage. A novel aspect of the work is that each criterion is encoded in a model checker, and the model checker is used first to generate test sets for each criterion and then to</abstract>
+	</publication>
+	<publication>
+		<title>Using a Model Checker to Test Safety Properties</title>
+		<year>2001</year>
+		<authors>paul ammann,daling xu</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>1043</label>
+		<keyword>Formal Method;Model Checking;Mutation Analysis;Safety Properties;Software Testing;specification-based testing;Temporal Logic;Computation Tree Logic;</keyword>
+		<organization>null</organization>
+		<abstract>In addition to providing a sound basis for analysis, formal methods can support other development activities; in our case the target is specification-based testing at the system level. We use the formal method of model checking to either generate new test sets or analyze existing test sets with re- spect to safety properties expressed in a temporal logic. We consider</abstract>
+	</publication>
+	<publication>
+		<title>Large-Scale Dependency Knowledge Acquisition and its Extrinsic Evaluation Through Word Sense Disambiguation</title>
+		<year>2009</year>
+		<authors>ping chen,chris bowes,david brown</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>1043</label>
+		<keyword>Evaluation Measure;Knowledge Acquisition;Knowledge Base;Large Scale;Perforation;word sense disambiguation;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge plays a central role in intelligent sys- tems. Manual knowledge acquisition is very ine-cient and expensive. In this paper, we present (1) an au- tomatic method to acquire a large amount of lexical- dependency knowledge, and (2) an innovative knowl- edge representation model to efiectively minimize the impact of noise and improve knowledge quality. We also propose a new</abstract>
+	</publication>
+	<publication>
+		<title>SenseNet: A Knowledge Representation Model for Computational Semantics</title>
+		<year>2006</year>
+		<authors>ping chen,chengmin ding</authors>
+		<jconf>International Conference on Cognitive Informatics</jconf>
+		<label>1043</label>
+		<keyword>Case Study;Commonsense Reasoning;Computational Semantics;Information Processing;Information Retrieval;Knowledge Base;Knowledge Representation;Large Scale;Natural Language Processing;Semantic Information;Semantic Model;Text Analysis;Hidden Markov Model;Natural Language Process Ing;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge representation is essential for semantics modeling and intelligent information processing. For decades researchers have proposed many knowledge rep- resentation techniques. However, it is a daunting problem how to capture deep semantic information effectively and support the construction of a large-scale knowledge base efficiently. This paper describes a new knowledge represen- tation model, SenseNet, which provides semantic support for commonsense</abstract>
+	</publication>
+	<publication>
+		<title>Design and evolution of an undergraduate course on web application development</title>
+		<year>2004</year>
+		<authors>kwok-bun yue</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1043</label>
+		<keyword>Body of Knowledge;Computer Science Education;Conceptual Framework;Course Design;Internet Technology;Spectrum;Web Application Development;Web Development;Web Programming;Web Technology;</keyword>
+		<organization>null</organization>
+		<abstract>Web technologies have become essential in the computing curricula. However, teaching a Web development course to computing students is challenging because of large bodies of knowledge, rapidly changing technologies, demanding support infrastructures and diverse background of audiences. This paper presents the evolution and the experiences we have gained in teaching a Web development course for the past seven years. We</abstract>
+	</publication>
+	<publication>
+		<title>Web-Based Interactive Visualization of Data Cubes</title>
+		<year>2005</year>
+		<authors>xusheng wang,ping chen</authors>
+		<jconf>Int. Conf. on Modeling, Simulation &amp; Visualization Methods</jconf>
+		<label>1043</label>
+		<keyword>Computer Graphic;Data Cube;Data Mining;Information Visualization;Interactive Visualization;Visual System;</keyword>
+		<organization>null</organization>
+		<abstract>Data Cube is an effective technique for data mining. Because of the complex relationships among aggregation values of a data cube, designing an efficient method or tool to visualize the complex relationships becomes a challenging work in the data cube technique. Information visualization with computer graphics can help improving this process. Recently, we developed a Web-based interactive data cube visualization</abstract>
+	</publication>
+	<publication>
+		<title>A Fully Unsupervised Word Sense Disambiguation Method Using Dependency Knowledge</title>
+		<year>2009</year>
+		<authors>ping chen,chris bowes,david brown</authors>
+		<jconf>North American Chapter of the Association for Computational Linguistics</jconf>
+		<label>1043</label>
+		<keyword>Coarse Grained;Computational Linguistic;Natural Language;word sense disambiguation;word sense dis ambiguation;</keyword>
+		<organization>null</organization>
+		<abstract>Word sense disambiguation is the process of determining which sense of a word is used in a given context. Due to its importance in understanding semantics of natural languages, word sense disambiguation has been exten- sively studied in Computational Linguistics. However, existing methods either are brit- tle and narrowly focus on specific topics or words, or provide only mediocre performance</abstract>
+	</publication>
+	<publication>
+		<title>Towards Region Discovery in Spatial Datasets</title>
+		<year>2008</year>
+		<authors>rachsuda jiamthapthaksin,rachana parmar,dan jiang,tomasz f. stepinski,christoph f. eick</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>1043</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discovery of Geospatial Discriminating Patterns from Remote Sensing Datasets</title>
+		<year>2009</year>
+		<authors>tomasz f. stepinski,josue salazar</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1043</label>
+		<keyword>Association Analysis;Empirical Model;Frequent Pattern;Information Content;Real World Application;Remote Sensing;Remote Sensing Data;Similarity Measure;Spatial Data Mining;Spatial Distribution;Spatial Pattern;United States;Value Iteration;Vegetation Cover;Vegetative Growth;</keyword>
+		<organization>null</organization>
+		<abstract>Large amounts of remotely sensed data calls for data min- ing techniques to fully utilize their rich information content. In this paper, we study new means of discovery and sum- marization of knowledge contained in the spatial patterns of remote sensing datasets. Several geospatial feature vari- ables are fused together, and the vector of their values at each spatial cell</abstract>
+	</publication>
+	<publication>
+		<title>Using a pre-assessment exam to construct an effective concept-based genetic program for predicting course success</title>
+		<year>2005</year>
+		<authors>gary d. boetticher,charles moen,kwok-bun yue</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>1043</label>
+		<keyword>Classroom Management;Data Structure;Genetic Program;</keyword>
+		<organization>null</organization>
+		<abstract>There is a limit on the amount of time a faculty member may devote to each student. As a consequence, a faculty member must quickly determine which student needs more attention than others throughout a semester. One of the most demanding courses in the CS curriculum is a data structures course. This course has a tendency for high drop rates</abstract>
+	</publication>
+	<publication>
+		<title>Tomographic image sequence reconstruction by edge-preserving interslice MAP methods</title>
+		<year>1996</year>
+		<authors>bede liu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>1044</label>
+		<keyword>Image Sequence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

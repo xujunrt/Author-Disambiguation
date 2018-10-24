@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Haiyong Xie</FullName>
+	<publication>
+		<title>Interdomain Routing as Social Choice</title>
+		<year>2006</year>
+		<authors>ronny ramzi dakdouk,semih salihoglu,hao wang,yang richard yang</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>276</label>
+		<keyword>Autonomic System;interdomain routing;Oscillations;Social Choice;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Interdomain routing is an essential component of the Internet, which deals with connecting two machines in the Internet through a set of links. Today this is done through BGP, the de facto protocol of the Internet. Previous studies focus on the stability of BGP type protocols. The current thesis focuses on interdomain routing from a social choice perspective and</abstract>
+	</publication>
+	<publication>
+		<title>On Self Adaptive Routing in Dynamic Environments - An Evaluation and Design Using a Simple, Probabilistic Scheme</title>
+		<year>2004</year>
+		<authors>lili qiu,yang richard yang,yin zhang</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>276</label>
+		<keyword>Adaptive Routing;Analytical Model;Dynamic Environment;Network Optimization;Optimal Routing;Wireless Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract>Recently we have seen an emergent trend of self adaptive routing in both Internet and wireless ad hoc networks. Al- though there are previous methods for computing the trafc equilibria of self adaptive routing (e.g., selsh routing), these methods use computationally demanding algorithms and re- quire that a precise analytical model of the network be given. Also, it remains an</abstract>
+	</publication>
+	<publication>
+		<title>Stable Egress Route Selection for Interdomain Traffic Engineering: Model and Analysis</title>
+		<year>2005</year>
+		<authors>hao wang,yang richard yang,avi silberschatz,erran l. li,yanbin liu</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>276</label>
+		<keyword>Generic Model;interdomain routing;Internet Topology;Load Balance;Modeling and Analysis;Route Selection;Traffic Engineered;</keyword>
+		<organization>null</organization>
+		<abstract>We present a general model of interdomain route se-lection to study interdomain traffic engineering. In this model, the routing of multiple destinations can be coordi-nated. Thus the model can capture general traffic engineer-ing behaviors such as load balancing and link capacity con-straints. We first identify potential routing instability and inefficiency of interdomain traffic engineering. We then de-rive a sufficient condition</abstract>
+	</publication>
+	<publication>
+		<title>On the Stability of Rational, Heterogeneous Interdomain Route Selection</title>
+		<year>2005</year>
+		<authors>hao wang,yang richard yang,avi silberschatz,erran l. li,yanbin liu</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>276</label>
+		<keyword>Distribution of Income;Heterogeneous Network;interdomain routing;Oscillations;Route Selection;Routing Policies;</keyword>
+		<organization>null</organization>
+		<abstract>The recent discovery of instability caused by the inter- action of local routing policies of multiple ASes has led to extensive research on the subject. However, previous studies analyze stability under a specific route selection algorithm. In this paper, instead of studying a specific route selection algorithm, we study a general class of route selection algo- rithms which we call</abstract>
+	</publication>
+	<publication>
+		<title>Network Routing Topology Inference from End-to-End Measurements</title>
+		<year>2008</year>
+		<authors>jian ni,sekhar tatikonda,yang richard yang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>276</label>
+		<keyword>End-to-end Measurement;Network Monitoring;Network Routing;Perforation;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>Inference of the routing topology and link perfor- mance from a node to a set of other nodes is an important component of network monitoring and application design. In this paper we propose a general framework for designing topology inference algorithms based on additive metrics. Our framework allows the integration of both end-to-end packet probing mea- surements and traceroute type</abstract>
+	</publication>
+	<publication>
+		<title>Optimal ISP subscription for Internet multihoming: algorithm design and implication analysis</title>
+		<year>2005</year>
+		<authors>hao wang,lili qiu,abraham silberschatz,yang richard yang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>276</label>
+		<keyword>Algorithm Design;Dynamic Programming Algorithm;Efficient Algorithm;Large Classes;non-cooperative game;</keyword>
+		<organization>null</organization>
+		<abstract>Multihoming is a popular method used by large enterprises and stub ISPs to connect to the Internet to reduce cost and improve performance. Recently researchers have studied the potential benefits of multihoming and proposed protocols and algorithms to realize these benefits. They focus on how to dynamically select which ISPs to use for forwarding and receiving packets, and assume that</abstract>
+	</publication>
+	<publication>
+		<title>Towards an ISP-Compliant, Peer-Friendly Design for Peer-to-Peer Networks</title>
+		<year>2008</year>
+		<authors>yang richard yang,avi silberschatz</authors>
+		<jconf>Networking</jconf>
+		<label>276</label>
+		<keyword>Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimizing cost and performance for multihoming</title>
+		<year>2004</year>
+		<authors>david kiyoshi goldenberg,lili qiuy,yang richard yang,yin zhang</authors>
+		<jconf>Computer Communication Review</jconf>
+		<label>276</label>
+		<keyword>Network Topology;Route Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>Multihoming is often used by large enterprises and stub ISPs to connect to the Internet. In this paper, we design a series of novel  algorithms to optimize cost and performance for multihomed users. We evaluate our algorithms through both analysis and extensive simulations based on realistic charging models, traffic demands, performance data, and network topologies. Our results suggest that these</abstract>
+	</publication>
+	<publication>
+		<title>COPE: traffic engineering in dynamic networks</title>
+		<year>2006</year>
+		<authors>hao wang,lili qiu,yang richard yang,yin zhang,albert g. greenberg</authors>
+		<jconf>ACM SIGCOMM Conference</jconf>
+		<label>276</label>
+		<keyword>Algorithm Design;Dynamic Networks;Network Congestion;Network Management;Network Protocol;Oblivious Routing;Perforation;Traffic Engineered;</keyword>
+		<organization>null</organization>
+		<abstract>Traffic engineering plays a critical role in determining the perfor- mance and reliability of a network. A major challenge in traffic en- gineering is how to cope with dynamic and unpredictable changes in traffic demand. In this paper, we propose COPE, a class of traf- fic engineering algorithms that optimize for the expected scenarios while providing a worst-case guarantee for</abstract>
+	</publication>
+	<publication>
+		<title>P4p: provider portal for applications</title>
+		<year>2008</year>
+		<authors>yang richard yang,arvind krishnamurthy,yanbin grace liu,abraham silberschatz</authors>
+		<jconf>ACM SIGCOMM Conference</jconf>
+		<label>276</label>
+		<keyword>Computer Communication Networks;Network Architecture;Network Architecture and Design;P2P;Peer To Peer;Traffic Control;</keyword>
+		<organization>null</organization>
+		<abstract>As peer-to-peer (P2P) emerges as a major paradigm for scalable network application design, it also exposes significant new chal- lenges in achieving efficient and fair utilization of Internet network resources. Being largely network-oblivious, many P2P applications may lead to inefficient network resource usage and/or low applica- tion performance. In this paper, we propose a simple architecture called P4P to allow</abstract>
+	</publication>
+	<publication>
+		<title>On route selection for interdomain traffic engineering</title>
+		<year>2005</year>
+		<authors>yang richard yang,hao wang,abraham silberschatz,arvind krishnamurthy,yanbin liu,erran l. li</authors>
+		<jconf>IEEE Network</jconf>
+		<label>276</label>
+		<keyword>interdomain routing;Oscillations;Practice Guideline;Route Selection;Traffic Engineered;</keyword>
+		<organization>null</organization>
+		<abstract>In this article we investigate a model of route selection for interdomain traffic engineering where routing to multiple destinations can be coordinated. We identify potential routing instability and inefficiency problems, and derive a set of practical guidelines to guarantee stability without global coordination. Using a realistic Inter- net topology, we show that route oscillations can happen even when a small</abstract>
+	</publication>
+	<publication>
+		<title>Efficient and dynamic routing topology inference from end-to-end measurements</title>
+		<year>2010</year>
+		<authors>jian ni,sekhar tatikonda,yang richard yang</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>276</label>
+		<keyword>Dynamic Routing;End-to-end Measurement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

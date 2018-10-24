@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nan Zhang</FullName>
+	<publication>
+		<title>Tree-Based Methods for Fuzzy Rule Extraction</title>
+		<year>2005</year>
+		<authors>shuqing zeng,juyang weng</authors>
+		<jconf>The Florida AI Research Society Conference</jconf>
+		<label>767</label>
+		<keyword>fuzzy if-then rules;Fuzzy Rules;Generalization Capability;Hierarchical Clustering;High Dimensional Data;High Dimensionality;Least Square Method;Linear Model;Product Space;Regression Model;Robot Navigation;Synthetic Data;takagi sugeno;</keyword>
+		<organization>null</organization>
+		<abstract>This paper is concerned with the application of a tree- based regression model to extract fuzzy rules from high- dimensional data. We introduce a locally weighted scheme to the identification of Takagi-Sugeno type rules. It is pro- posed to apply the sequential least-squares method to esti- mate the linear model. A hierarchical clustering takes place in the product space of</abstract>
+	</publication>
+	<publication>
+		<title>Optimal In-Place Learning and the Lobe Component Analysis</title>
+		<year>2006</year>
+		<authors>juyang weng</authors>
+		<jconf>IJCNN</jconf>
+		<label>767</label>
+		<keyword>Biological Network;Component Analysis;Higher Order Statistics;Lateral Inhibition;Learning Algorithm;Learning Networks;Natural Images;Orientation Selectivity;Place Learning;Signal Processing;High Concentrate;</keyword>
+		<organization>null</organization>
+		<abstract>ó It is difcult to map many existing learning algorithms onto biological networks because the former re- quire a separate learning network. The computational basis of biological cortical learning is still poorly understood. This paper rigorously introduces a concept called in-place learning. With in-place learning, every networked neuron in-place is responsible for the learning of its signal processing character- istics</abstract>
+	</publication>
+	<publication>
+		<title>Nonlinear Manifold Learning for Data Stream</title>
+		<year>2004</year>
+		<authors>martin h. c. law,anil k. jain</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>767</label>
+		<keyword>Data Stream;High Dimensional Data;Manifold Learning;</keyword>
+		<organization>null</organization>
+		<abstract>There has been a renewed interest in understanding the structure of high dimensional data set based on manifold learning. Examples include ISOMAP (25), LLE (20) and Laplacian Eigenmap (2) algorithms. Most of these algorithms operate in a \batch&quot; mode and cannot be applied e-ciently for a data stream. We propose an incremental version of ISOMAP. Our experiments not only demonstrate</abstract>
+	</publication>
+	<publication>
+		<title>Synthesising verified access control systems in XACML</title>
+		<year>2004</year>
+		<authors>mark ryan,dimitar p. guelev</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>768</label>
+		<keyword>Access Control Models;Access Control Policy;Markup Language;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>The eXtensible Access Control Markup Language (XACML) was proposed by the OASIS committee to be used as a standard language in e-business [6]. However, policy files written in XACML are hard to read and analyse directly. In this paper, we present a tool which generates verified XACML scripts from access control system descriptions in simple but expressive language proposed in</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating Access Control Policies Through Model Checking</title>
+		<year>2005</year>
+		<authors>mark ryan,dimitar p. guelev</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>768</label>
+		<keyword>Access Control Models;Access Control Policy;Intrusion Detection;Model Checking;Reading and Writing;Specification Language;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We present a model - checking algorithm which can be used to evaluate access control policies, and a tool which implements it The evaluation includes not only assessing whether the policies give legitimate users enough permissions to reach their goals, but also checking whether the policies prevent intruders from reaching their malicious goals Policies of the access control system</abstract>
+	</publication>
+	<publication>
+		<title>Synthesising verified access control systems through model checking</title>
+		<year>2008</year>
+		<authors>mark ryan,dimitar p. guelev</authors>
+		<jconf>Journal of Computer Security</jconf>
+		<label>768</label>
+		<keyword>Access Control Policy;Model Checking;Model Complexity;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>We present a framework for evaluating and generating access control policies. The framework contains a modelling formalism called RW, which is supported by a model checking tool. RW is designed for modelling access control policies, and verifying their properties. The RW language is very expressive, allowing us to model complex access conditions which can depend on data values, other permissions,</abstract>
+	</publication>
+	<publication>
+		<title>Cardinality-based inference control in OLAP systems: an information theoretic approach</title>
+		<year>2004</year>
+		<authors>wei zhao,jianer chen</authors>
+		<jconf>International Workshop on Data Warehousing and OLAP</jconf>
+		<label>769</label>
+		<keyword>Data Cube;Data Mining;Inference Control;Information Theory;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>We address the inference control problem in data cubes with some data known to users through external knowledge. The goal of inference controls is to prevent exact values of sensitive data from being inferred through answers to online analytical processing (OLAP) queries. We present an information theoretic approach for cardinality-based inference control, which simply counts the number of cells that</abstract>
+	</publication>
+	<publication>
+		<title>On localization attacks to Internet Threat Monitors: An information-theoretic framework</title>
+		<year>2008</year>
+		<authors>wei yu,xinwen fu,riccardo bettati,wei zhao</authors>
+		<jconf>Dependable Systems and Networks</jconf>
+		<label>769</label>
+		<keyword>Communication Channels;ddos attack;Distributed Denial of Service;Indexing Terms;Information Theory;Monitoring System;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>Internet Threat Monitoring (ITM) systems are a widely deployed facility to detect, analyze, and characterize dan - gerous Internet threats such as worms and distributed denial-of-service (DDoS) attacks. Nonetheless, an ITM system can also become the target of attack. In this paper, we address localization attacks against ITM systems in which an attacker impairs the effectiveness of ITM systems by</abstract>
+	</publication>
+	<publication>
+		<title>Turbo-charging hidden database samplers with overflowing queries and skew reduction</title>
+		<year>2010</year>
+		<authors>arjun dasgupta,gautam das</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>769</label>
+		<keyword>Random Sampling;Sampling Technique;Satisfiability;Score Function;Web Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, there has been growing interest in random sampling from online hidden databases. These databases reside behind form-like web interfaces which allow users to execute search queries by specifying the desired values for certain attributes, and the system responds by returning a few (e.g., top-k) tuples that satisfy the selection conditions, sorted by a suitable scoring function. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Algorithm-safe privacy-preserving data publishing</title>
+		<year>2010</year>
+		<authors>xin jin,gautam das</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>769</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>This paper develops toolsets for eliminating algorithm-based disclosure from existing privacy-preserving data publishing algorithms. We first show that the space of algorithm-based disclosure is larger than previously believed and thus more prevalent and dangerous. Then, we formally define Algorithm-Safe Publishing (ASP) to model the threats from algorithm-based disclosure. To eliminate algorithm-based disclosure from existing data publishing algorithms, we propose two</abstract>
+	</publication>
+	<publication>
+		<title>The Digital Marauder's Map: A New Threat to Location Privacy</title>
+		<year>2009</year>
+		<authors>xinwen fu,aniket pingley,wei yu,jie wang,wei zhao</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>769</label>
+		<keyword>Location Privacy;Mobile Device;Moving Object;Theoretical Analysis;Wireless Network;Off The Shelf;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract “The Marauder’s Map” is a magical,map,in J. K. Rowling’s fantasy series, “Harry Potter and the Prisoner of Azkaban”. It shows all moving objects within the “Hogwarts School of Witchcraft and Wizardry”. This paper introduces a similar attack to location privacy in wireless networks. Our system, namely the digital Marauder’s map, can reveal the locations of WiFi-enabled mobile devices within</abstract>
+	</publication>
+	<publication>
+		<title>CAP: A Context-Aware Privacy Protection System for Location-Based Services</title>
+		<year>2009</year>
+		<authors>aniket pingley,wei yu,xinwen fu,wei zhao</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>769</label>
+		<keyword>Context Aware;Data Privacy;Google Map;Location Based Service;Location Privacy;Privacy Preservation;Privacy Protection;Space Complexity;Theoretical Analysis;Trusted Third Party;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—We,address,issues related to privacy protection,in location-based services (LBS). Most existing research,in this field either requires,a trusted third-party (anonymizer) or uses oblivious protocols which,are computationally,and,communica- tionally expensive. Our design of privacy-preserving techniques is principled on not requiring,a trusted third-party while being highly,efficient in terms,of time,and,space,complexities. The problem,has,two,interesting,and,challenging,characteristics: First, the degree of privacy protection and LBS accuracy depends on the context, such</abstract>
+	</publication>
+	<publication>
+		<title>3DLoc: Three Dimensional Wireless Localization Toolkit</title>
+		<year>2010</year>
+		<authors>jizhi wang,yinjie chen,xinwen fu,jie wang,wei yu</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>769</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Leveraging COUNT Information in Sampling Hidden Databases</title>
+		<year>2009</year>
+		<authors>arjun dasgupta,gautam das</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>769</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>A large number of online databases are hidden behind form-like interfaces which allow users to execute search queries by specifying selection conditions in the interface. Most of these interfaces return restricted answers (e.g., only top-k of the selected tuples), while many of them also accompany each answer with the COUNT of the selected tuples. In this paper, we propose techniques</abstract>
+	</publication>
+	<publication>
+		<title>Towards Effective Defense Against Insider Attacks: The Establishment of Defender's Reputation</title>
+		<year>2008</year>
+		<authors>wei yu,xinwen fu,sajal k. das</authors>
+		<jconf>International Conference on Parallel and Distributed Systems</jconf>
+		<label>769</label>
+		<keyword>Insider Attack;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Versatile publishing for privacy preservation</title>
+		<year>2010</year>
+		<authors>xin jin,mingyang zhang,gautam das</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>769</label>
+		<keyword>Normal Form;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the insufficiency of the existing quasi-identifier/sensitive-attribute (QI-SA) framework on modeling real-world privacy requirements for data publishing, we propose a novel versatile publishing scheme with which privacy requirements can be specified as an arbitrary set of privacy rules over attributes in the microdata table. To enable versatile publishing, we introduce the Guardian Normal Form (GNF), a novel method of</abstract>
+	</publication>
+	<publication>
+		<title>A new scheme on privacy-preserving data classification</title>
+		<year>2005</year>
+		<authors>shengquan wang,wei zhao</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>769</label>
+		<keyword>Data Classification;Distributed System;Middleware;Privacy Preservation;Privacy Preserving Data Mining;Private Information;</keyword>
+		<organization>null</organization>
+		<abstract>We address privacy-preserving classification problem in a distributed system. Randomization has been the approach proposed to preserve privacy in such scenario. However, this approach is now proven to be insecure as it has been discovered that some privacy intrusion techniques can be used to reconstruct private information from the randomized data tuples. We introduce an algebraic-technique-based scheme. Compared to the</abstract>
+	</publication>
+	<publication>
+		<title>Time-Bounded Essential Localization for Wireless Sensor Networks</title>
+		<year>2010</year>
+		<authors>wei cheng,min song,dechang chen,xicheng lu,zexin lu</authors>
+		<jconf></jconf>
+		<label>769</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Measurements for Privacy Preserving Data Mining</title>
+		<year>2005</year>
+		<authors>wei zhao,jianer chen</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>769</label>
+		<keyword>Data Mining;Performance Measure;Privacy Preserving Data Mining;Privacy Protection;Sample Size;Theoretical Framework;</keyword>
+		<organization>null</organization>
+		<abstract>This paper establishes the foundation for the performance measure- ments of privacy preserving data mining techniques. The performance is mea- sured in terms of the accuracy of data mining results and the privacy protection of sensitive data. On the accuracy side, we address the problem of previous mea- sures and propose a new measure, named &quot;effective sample size&quot;, to solve</abstract>
+	</publication>
+	<publication>
+		<title>Privacy risks in health databases from aggregate disclosure</title>
+		<year>2009</year>
+		<authors>gautam das</authors>
+		<jconf>International Conference on Pervasive Technologies Related to Assistive Environments</jconf>
+		<label>769</label>
+		<keyword>Data Stream;Design Principle;Hidden Web;Human Interaction;Privacy Preservation;Service Quality;Web Interface;Wireless Devices;Front End;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on privacy risks in health databases that arise in assistive environments, where humans interact with the environment and this information is captured, assimilated and events of interest are extracted. The stakeholders of such an environment can range from caregivers to doctors and supporting family. The environment also includes objects the person interacts with, such as, wireless devices</abstract>
+	</publication>
+	<publication>
+		<title>A New Scheme on Privacy Preserving Association Rule Mining</title>
+		<year>2004</year>
+		<authors>shengquan wang,wei zhao</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>769</label>
+		<keyword>Association Rule;Association Rule Mining;Middleware;Privacy Preservation;Private Information;</keyword>
+		<organization>null</organization>
+		<abstract>We address the privacy preserving association rule mining problem in a system with one data miner and multiple data providers, each holds one trans- action. The literature has tacitly assumed that randomization is the only effective approach to preserve privacy in such circumstances. We challenge this assump- tion by introducing an algebraic techniques based scheme. Compared to previous approaches, our</abstract>
+	</publication>
+	<publication>
+		<title>Unbiased estimation of size and other aggregates over hidden web databases</title>
+		<year>2010</year>
+		<authors>arjun dasgupta,xin jin,bradley jewell,gautam das</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>769</label>
+		<keyword>Approximate Query Processing;Hidden Web;Query Processing;Theoretical Analysis;Unbiased Estimator;Web Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Many websites provide restrictive form-like interfaces which allow users to execute search queries on the underlying hidden databases. In this paper, we consider the problem of estimating the size of a hidden database through its web interface. We propose novel techniques which use a small number of queries to produce unbiased estimates with small variance. These techniques can also be</abstract>
+	</publication>
+	<publication>
+		<title>Privacy preservation of aggregates in hidden databases: why and how?</title>
+		<year>2009</year>
+		<authors>arjun dasgupta,gautam das,surajit chaudhuri</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>769</label>
+		<keyword>Privacy Preservation;Theoretical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Many websites provide form-like interfaces which allow users to execute search queries on the underlying hidden databases. In this paper, we explain the importance of protecting sensitive aggregate information of hidden databases from being disclosed through individual tuples returned by the search queries. This stands in contrast to the traditional privacy problem where individual tuples must be protected while ensuring</abstract>
+	</publication>
+	<publication>
+		<title>HDSampler: revealing data behind web form interfaces</title>
+		<year>2009</year>
+		<authors>anirban maiti,arjun dasgupta,gautam das</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>769</label>
+		<keyword>Hidden Web;meta search engine;Small Samples;</keyword>
+		<organization>null</organization>
+		<abstract>A large number of online databases are hidden behind the web. Users to these systems can form queries through web forms to retrieve a small sample of the database. Sampling such hidden databases is widely desired for understanding the nature and qual- ity of data stored in them. We have developed HDSampler, which to the best of our knowledge is</abstract>
+	</publication>
+	<publication>
+		<title>Self-adaptive Worms and Countermeasures</title>
+		<year>2006</year>
+		<authors>wei yu,wei zhao</authors>
+		<jconf>Self-Stabilizing Systems</jconf>
+		<label>769</label>
+		<keyword>Dynamic Adaptation;Game Theory;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we address issues related to defending against wide- spreading worms on the Internet. We study a new class of worms called the self- adaptive worms. These worms dynamically adapt their propagation patterns to defensive countermeasures, in order to avoid or postpone detection, and to even- tually infect more computers. We show that existing worm detection schemes cannot</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Privacy Preserving Information Sharing</title>
+		<year>2005</year>
+		<authors>wei zhao</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>769</label>
+		<keyword>Distributed System;Information Sharing;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we address issues related to sharing information in a distributed system consisting of autonomous entities, each of which holds a private database. Semi-honest behavior has been widely adopted as the model for adversarial threats. However, it substantially underestimates the capability of adversaries in reality. In this paper, we consider a threat space containing more powerful adversaries that</abstract>
+	</publication>
+	<publication>
+		<title>Discovery and Protection of Sensitive Linkage Information for Online Social Networks Services</title>
+		<year>2009</year>
+		<authors>min song,xinwen fu,wei yu</authors>
+		<jconf>Wireless Algorithms, Systems, and Applications</jconf>
+		<label>769</label>
+		<keyword>Online Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy preservation in wireless sensor networks: A state-of-the-art survey</title>
+		<year>2009</year>
+		<authors>na li,sajal k. das,bhavani m. thuraisingham</authors>
+		<jconf>Ad Hoc Networks</jconf>
+		<label>769</label>
+		<keyword>Privacy Preservation;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy-Preserving Data Mining Systems</title>
+		<year>2007</year>
+		<authors>wei zhao</authors>
+		<jconf>IEEE Computer</jconf>
+		<label>769</label>
+		<keyword>Privacy Preserving Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy Protection Against Malicious Adversaries in Distributed Information Sharing Systems</title>
+		<year>2008</year>
+		<authors>wei zhao</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>769</label>
+		<keyword>Information Sharing;Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Self-Disciplinary Worms and Countermeasures: Modeling and Analysis</title>
+		<year>2010</year>
+		<authors>wei yu,xinwen fu,wei zhao</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>769</label>
+		<keyword>Modeling and Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pattern Matching in BWT-Transformed Text</title>
+		<year>2002</year>
+		<authors>donald a. adjeroh,tim bell,matt powell,amar mukherjee</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>770</label>
+		<keyword>Pattern Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LIPT: A Reversible Lossless Text Transform to Improve Compression Performance</title>
+		<year>2001</year>
+		<authors>fauzia s. awan,nitin motgi,raja tanveer iqbal,amar mukherjee</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>770</label>
+		<keyword>Compression Algorithm;Lossless Compression;Burrows Wheeler Transform;lempel ziv;Prediction By Partial Match;</keyword>
+		<organization>null</organization>
+		<abstract>Lossless compression researchers have developed highly sophisticated approaches, such as Huffman encoding, arithmetic encoding, the Lempel-Ziv family, Dynamic Markov Compression (DMC), Prediction by Partial Matching (PPM), and Burrows-Wheeler Transform (BWT) based algorithms. We propose an alternative approach in this paper to develop a reversible transformation that can be applied to a source text that improves existing algorithm's ability to compress.</abstract>
+	</publication>
+	<publication>
+		<title>A Dictionary-Based Multi-Corpora Text Compression System</title>
+		<year>2003</year>
+		<authors>weifeng sun,amar mukherjee</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>770</label>
+		<keyword>Compression Ratio;Domain Specificity;Search Trees;Text Compression;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we introduce StarZip, a multi-corpora lossless text compression utility which incorporates StarNT, our newly proposed transform algorithm. StarNT is a dictionary-based fast lossless text transform algorithm which utilizes ternary search tree to expedite transform encoding. For large files, viz. 400 Kbytes or more, our experiments show that the compression time is no worse than those obtained by</abstract>
+	</publication>
+	<publication>
+		<title>Approximate Pattern Matching Using the Burrows-Wheeler Transform</title>
+		<year>2003</year>
+		<authors>amar mukherjee,donald a. adjeroh,tim bell</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>770</label>
+		<keyword>Approximate Pattern Matching;lexicographic order;Pattern Matching;Burrows Wheeler Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. The compressed pattern matching problem is to locate the occurrence(s) of a pat- tern P in a text string T using a compressed representation of T, with minimal (or no) decompression. In this paper, we consider approximate pattern matching directly on BWT compressed text. The BWT provides a lexicographic ordering of the input text as part of its inverse</abstract>
+	</publication>
+	<publication>
+		<title>A Flexible Compressed Text Retrieval System Using a Modified LZW Algorithm</title>
+		<year>2005</year>
+		<authors>tao tao,ravi vijaya satya,amar mukherjee</authors>
+		<jconf>Data Compression Conference</jconf>
+		<label>770</label>
+		<keyword>Compression Ratio;Digital Library;Indexation;Information Retrieval;Information Retrieval System;Parallel Processing;Random Access;Text Retrieval;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>With an increasing amount of text data being stored in a compressed format, efficient information retrieval in the compressed domain has become a major challenge. Being able to randomly access and partially decode4 the compressed data is highly desirable for efficient retrieval and is required in many applications. For example, in a digital library information retrieval system, only the records</abstract>
+	</publication>
+	<publication>
+		<title>Dictionary-Based Fast Transform for Text Compression</title>
+		<year>2003</year>
+		<authors>weifeng sun,amar mukherjee</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>770</label>
+		<keyword>Compression Ratio;Domain Specificity;Search Trees;Text Compression;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present StarNT, a dictionary-based fast lossless text transform algorithm. With a static generic dic- tionary, StarNT achieves a superior compression ratio than almost all the other recent efforts based on BWT and PPM. This algorithm utilizes ternary search tree to expedite trans- form encoding. Experimental results show that the aver- age compression time has improved by</abstract>
+	</publication>
+	<publication>
+		<title>Modified LZW Algorithm for Efficient Compressed Text Retrieval</title>
+		<year>2004</year>
+		<authors>tao tao,ravi vijaya satya,amar mukherjee</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>770</label>
+		<keyword>Compression Ratio;Information Retrieval;Information Retrieval System;Random Access;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>With increasing amount of text data being stored in the compressed format, efficient information retrieval in the compressed domain has become a major concern. Being able to randomly access the compressed data is highly desirable for efficient retrieval and is required in many applications. For example, in a library information retrieval system, only the records that are relevant to the</abstract>
+	</publication>
+	<publication>
+		<title>BWT-based efficient shape matching</title>
+		<year>2007</year>
+		<authors>donald a. adjeroh,u. kandaswamy,amar mukherjee,m. t. brown,tim bell</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>770</label>
+		<keyword>Content Based Retrieval;Large Scale;Shape Matching;Shape Retrieval;shape-based image retrieval;Burrows Wheeler Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Effective shape-based image retrieval requires an appropriate representation of object shape contours. Such a representation should be invariant under certain transformations, such as those due to rotation, scaling, partial occlusion, noise in the image, or changes in the viewing geometry. Given a shape boundary, we decompose it into primitive shape segments that capture the saliency of object parts, and perform</abstract>
+	</publication>
+	<publication>
+		<title>Search and Retrieval of Compressed Text</title>
+		<year>2005</year>
+		<authors>amar mukherjee,tao tao,ravi vijaya satya,weifeng sun</authors>
+		<jconf>Advances in Computers</jconf>
+		<label>770</label>
+		<keyword>Search and Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatial prediction based intra-coding</title>
+		<year>2004</year>
+		<authors>baocai yin,dehui kong,wenying yue</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>771</label>
+		<keyword>Spatial Prediction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Block-Matching Based Intra Frame Prediction for H.264/AVC</title>
+		<year>2006</year>
+		<authors>jiheng yang,baocai yin,yanfeng sun</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>771</label>
+		<keyword>Block Matching;Intra Prediction;Prediction Method;Spatial Correlation;Video Coding;Block Matching Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>In the latest video coding standard H.264, intra frame prediction is employed to reduce the blocks' spatial correlation. In this paper, a new algorithm is proposed to improve the performance of intra prediction of H.264/AVC. It changes mode 2 of H.264's standard prediction methods into a BMA (block-matching algorithm)-DC hydrid mode. Experiment results show that with the proposed algorithm, significant</abstract>
+	</publication>
+	<publication>
+		<title>Directional Lifting-Based Wavelet Transform for Multiple Description Image Coding with Quincunx Segmentation</title>
+		<year>2005</year>
+		<authors>yan lu,feng wu,baocai yin</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>771</label>
+		<keyword>Image Coding;Visual Quality;Data Fusion;Full Resolution;Multiple Description;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new multiple description image coding scheme using directional lifting transform is proposed. The basic idea is to divide an image into two descriptions with quincunx segmentation. The traditional spatial do- main multiple description image coding techniques usually result in the very low coding efficiency. To tackle this problem, we propose a directional lifting technique to extensively</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Multiple-Description Image Coding Using Directional Lifting-Based Transform</title>
+		<year>2008</year>
+		<authors>yan lu,feng wu,xiaolin wu,baocai yin</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>771</label>
+		<keyword>Image Coding;Image Compression;Indexing Terms;Multiple Description Coding;Multiple Description;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an efficient two-description image coding technique. The two side descriptions of an image are generated by quincunx subsampling. The decoding from any side description is done by an interpolation process that exploits sample correlation. Although the quincunx subsampling is a natural choice for the best use of sample correlations in image multiple-description coding (MDC), each side description</abstract>
+	</publication>
+	<publication>
+		<title>An automatic semantic relationships discovery approach</title>
+		<year>2004</year>
+		<authors>hai zhuge,liping zheng,xiang li</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>772</label>
+		<keyword>Analogical Reasoning;Data Mining;Data Mining Algorithm;Semantic Link Network;Semantic Web;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>An important obstacle to the success of the Semantic Web is that the establishment of the semantic relationship is labor-intensive. This paper proposes an automatic semantic relationship discovering approach for constructing the semantic link network. The basic premise of this work is that the semantics of a web page can be reflected by a set of keywords, and the semantic</abstract>
+	</publication>
+	<publication>
+		<title>On Modeling Power of Object-Relational Data Models in Technical Applications</title>
+		<year>1997</year>
+		<authors>theo härder</authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>773</label>
+		<keyword>Complex Objects;Data Management;Data Model;Database Management;Integrated Information System;Interaction Design;Management System;object-relational databases;Process Model;Process Support;Type System;Abstract Data Type;Client Server;Object Relational;</keyword>
+		<organization>null</organization>
+		<abstract>Technical applications, that is, all kinds of engineering applications (CA *), are distinguished from usual business applications in that they require enhanced data modeling facilities and operations to cope with complex objects and their behavior. Emerging object-relational database management systems (ORDBMSs) which are conforming to the SQL3 standard promise to support technical applications more adequately as compared to conventional relational</abstract>
+	</publication>
+	<publication>
+		<title>Unterstützung dynamischer Typkonstruktion in Technischen Informationssystemen</title>
+		<year>1998</year>
+		<authors>henrik loeser,jürgen zimmermann</authors>
+		<jconf>Rechnerunterst��tztes Entwerfen und Konstruieren</jconf>
+		<label>773</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enriched Relationship Processing in Object-Relational Database Management Systems</title>
+		<year>2001</year>
+		<authors>norbert ritter,theo härder</authors>
+		<jconf>International Symposium on Cooperative Database Systems for Advanced Applications</jconf>
+		<label>773</label>
+		<keyword>Data Model;Management System;object-relational databases;Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we bring together two important topics of current database research: enhancing the data model by refined rela- tionship semantics and exploiting ORDBMS extensibility to equip the system with new functionality. Regarding the first top- ic, we introduce a framework to capture diverse semantic char- acteristics of application-specific relationships. Then, in order to integrate the conceptual extensions with</abstract>
+	</publication>
+	<publication>
+		<title>Supporting Adaptable Technical Information Systems in Heterogeneous Environments - Using WWW and ORDBMS</title>
+		<year>1997</year>
+		<authors>theo härder,henrik loeser</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>773</label>
+		<keyword>Heterogeneous Environment;Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On a Buzzword ``Extensibility'' - What We Have Learned from the ORIENT Project?</title>
+		<year>1999</year>
+		<authors>theo härder</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>773</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enriching Object-Relational Databases with Relationship Semantics</title>
+		<year>1997</year>
+		<authors>theo härder,joachim thomas</authors>
+		<jconf>Next Generation Information Technologies and Systems</jconf>
+		<label>773</label>
+		<keyword>object-relational databases;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Perceptually Consistent Segmentation of Texture Using Multiple Channel Filter</title>
+		<year>1998</year>
+		<authors>wee kheng leow</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>774</label>
+		<keyword>Multiple Channels;Natural Scenes;Texture Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract>. Texture segmentation aims at dividing an image into perceptuallyuniform regions each containing a distinct texture. In imagesof natural scene, texture in a region can change gradually in scale andorientation due to perspective distortion. A naive segmentation methodmay erroneously group image patches with the same texture but slowlyvarying scales and orientations into distinct regions. This paper describesa novel segmentation method</abstract>
+	</publication>
+	<publication>
+		<title>Ray Tracing Height Fields</title>
+		<year>2003</year>
+		<authors>huamin qu,feng qiu,arie e. kaufman,ming wan</authors>
+		<jconf>Computer Graphics International</jconf>
+		<label>775</label>
+		<keyword>Hybrid Method;Layered Depth Image;Ray Tracing;Surface Reconstruction;Terrain Rendering;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel surface reconstruction algorithm which can directly reconstruct surfaces with different levels of smoothness in one framework from height fields using 3D discrete grid ray tracing. Our algorithm exploits the 2.5D nature of the elevation data and the regularity of the rect- angular grid from which the height field surface is sampled. Based on this reconstruction method,</abstract>
+	</publication>
+	<publication>
+		<title>Stippling and Silhouettes Rendering in Geometry-Image Space</title>
+		<year>2005</year>
+		<authors>xiaoru yuan,minh x. nguyen,baoquan chen</authors>
+		<jconf>Eurographics Symposium on Rendering/Eurographics Workshop on Rendering Techniques</jconf>
+		<label>775</label>
+		<keyword>Image Processing;non photorealistic rendering;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel non-photorealistic rendering method that performs all operations in a geometry-image domain. We first apply global conformal parameterization to the input geometry mo del and generate corresponding geom- etry images. Strokes and silhouettes are then computed in the geometry-ima ge domain. The geometry-image space provides combined benefits of the existing image space and object spaceapproaches. It allows</abstract>
+	</publication>
+	<publication>
+		<title>Multiresolution volume simplification and polygonization</title>
+		<year>2003</year>
+		<authors>arie e. kaufman</authors>
+		<jconf>Volume Graphics</jconf>
+		<label>775</label>
+		<keyword>Error Threshold;Quadric Error Metric;Shape Optimization;Bottom Up;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a multiresolution volume simplification and polygonization algorithm. Traditionally, voxel-based algorithms lack the adaptive resolution support and consequently simplified volumes quickly lose sharp features after several levels of downsampling, while tetrahedral-based simplification algorithms usually generate poorly shaped triangles. In our method, each boundary cell is represented by a carefully selected representative vertex. The quadric error metrics are applied as</abstract>
+	</publication>
+	<publication>
+		<title>Dual Contouring with Topology-Preserving Simplification Using Enhanced Cell Representation</title>
+		<year>2004</year>
+		<authors>wei hong,arie e. kaufman</authors>
+		<jconf>IEEE Visualization</jconf>
+		<label>775</label>
+		<keyword>Cluster Algorithm;Error Bound;Isosurface Extraction;Topology Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>We present a fast, topology-preserving approach for isosurface simplification. The underlying concept behind our approach is to preserve the disconnected surface components in cells during isosurface simplification. We represent isosurface components in a novel representation, called enhanced cell, where each surface component in a cell is represented by a vertex and its connectivity information. A topology-preserving vertex clustering algorithm is</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Stereoscopic Rendering of Voxel-based Terrain</title>
+		<year>2000</year>
+		<authors>ming wan,arie e. kaufman,huamin qu</authors>
+		<jconf>Virtual Reality</jconf>
+		<label>775</label>
+		<keyword>Ray Casting;Terrain Visualization;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We present an interactive stereoscopic rendering algo- rithm of voxel-based terrain. It provides unambiguous depth information of a terrain scene by generating perspec- tive images,for a pair of eyes with a horizontal parallax. The left-eye image is generated using a fast ray casting al- gorithm accelerated by exploiting a specific ray coherence method,in the voxel-based terrain scene. The right-eye</abstract>
+	</publication>
+	<publication>
+		<title>Feature Preserving Distance Fields</title>
+		<year>2004</year>
+		<authors>huamin qu,ran shao,arie e. kaufman,klaus mueller</authors>
+		<jconf>Volume Visualization</jconf>
+		<label>775</label>
+		<keyword>Data Structure;Distance Field;Energy Minimization;Feature Preservation;Geometric Model;Irregular Grid;Surface Representation;</keyword>
+		<organization>null</organization>
+		<abstract>We present two distance eld representations which can preserve sharp features in original geometric models: the offset distance eld (ODF) and the unied distance eld (UDF). The ODF is sam- pled on a special curvilinear grid named an offset grid. The sample points of the ODF are not on a regular grid and they can oat in the cells of</abstract>
+	</publication>
+	<publication>
+		<title>SHIC: A View-Dependent Rendering Framework for Isosurfaces</title>
+		<year>2004</year>
+		<authors>huamin qu,wei hong,arie e. kaufman</authors>
+		<jconf>Volume Visualization</jconf>
+		<label>775</label>
+		<keyword>Cluster Algorithm;Isosurface Extraction;Topology Preservation;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>We present Selective and Hierarchical Isopoint Clustering (SHIC) as a framework for interactive isosurface visualization. SHIC is an octree-based vertex hierarchy where each surface component in a cell is represented by a vertex (isopoint) with encoded connectivity. We describe a novel connectivity encoding scheme, called Con- nectivity Encoding Bitmap, and two topology-preserving isopoint clustering algorithms to build the vertex hierarchy.</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Stereoscopic Rendering of Volumetric Environments</title>
+		<year>2004</year>
+		<authors>ming wan,huamin qu,arie e. kaufman</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>775</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Volume cutout</title>
+		<year>2005</year>
+		<authors>xiaoru yuan,minh x. nguyen,baoquan chen</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>775</label>
+		<keyword>3d segmentation;Automatic Segmentation;Graph Cut;Volume Rendering;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel method for cutting out 3D volumetric structures based on simple strokes that are drawn directly on volume rendered images. The free- hand strokes roughly mark out objects of interest and background. Our system then automatically segments the regions of interest and reflnes their boundaries in the rendered image. These 2D segmentation results provide constraints for 3D</abstract>
+	</publication>
+</person>

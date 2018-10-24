@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Vineet Srivastava</FullName>
+	<publication>
+		<title>Software Defect Content Estimation: A Bayesian Approach</title>
+		<year>2006</year>
+		<authors>achin jain,alok r. patnaik,pulak dhar</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>1037</label>
+		<keyword>bayesian approach;bayesian model;Software Inspection;Capture Recapture;Relative Error;</keyword>
+		<organization>null</organization>
+		<abstract>Software inspection is a method to detect errors in software artefacts early in the development cycle. At the end of the inspection process the inspectors need to make a decision whether the inspected artefact is of sufficient quality or not. Several methods have been proposed to assist in making this decision like capture recapture methods and Bayesian approach. In this</abstract>
+	</publication>
+	<publication>
+		<title>Detecting Distributed Denial of Service Attack Traffic at the Agent Machines</title>
+		<year>2006</year>
+		<authors>vicky laurens,abdulmotaleb el-saddik,pulak dhar</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>1037</label>
+		<keyword>ddos attack;Distributed Denial of Service;False Positive;</keyword>
+		<organization>null</organization>
+		<abstract>Due to financial losses caused by Distributed Denial of Service (DDoS) attacks, most defence mechanisms have been deployed at the network where the target server is located. We believe this paradigm should change in order to tackle the DDoS threat in its basis: thwart agent machines participation in DDoS attacks. Our proposal consists of developing an agent to monitor the</abstract>
+	</publication>
+</person>

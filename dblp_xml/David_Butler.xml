@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Butler</FullName>
+	<publication>
+		<title>Integrating simulation models with a view to optimal control of urban wastewater systems</title>
+		<year>2005</year>
+		<authors>manfred schütze</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>188</label>
+		<keyword>Optimal Control;Simulation Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

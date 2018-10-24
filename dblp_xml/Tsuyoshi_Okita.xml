@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Tsuyoshi Okita</FullName>
+	<publication>
+		<title>Modeling of Clouds from Satellite Images using Metaballs</title>
+		<year>1998</year>
+		<authors>yoshinori dobashi,tomoyuki nishita,hideo yamashita</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>1028</label>
+		<keyword>image-based modeling;Satellite Image;Space Flight;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an image-based modeling of clouds where realistic clouds are created from satellite images using metaballs. The intention of the paper is for applications to space flight simulators, the visualization of the weather information, and the simulation of surveys of the earth. In the proposed method, the density distribution inside the clouds is defined by a set of</abstract>
+	</publication>
+	<publication>
+		<title>A simple, efficient method for realistic animation of clouds</title>
+		<year>2000</year>
+		<authors>yoshinori dobashi,kazufumi kaneda,hideo yamashita,tomoyuki nishita</authors>
+		<jconf>Annual Conference on Computer Graphics</jconf>
+		<label>1028</label>
+		<keyword>Atmospheric Effects;Fast Imaging;Graphics Hardware;Volume Rendering;Cellular Automaton;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a simple and computationally inexpensive method for animation of clouds. The cloud evolution is simulated using cellular automaton that simplifies the dynamics of cloud formation. The dynamics are expressed by several simple transition rules and their complex motion can be simulated with a small amount of computation. Realistic images are then created using one of the standard</abstract>
+	</publication>
+	<publication>
+		<title>Using metaballs to modeling and animate clouds from satellite images</title>
+		<year>1999</year>
+		<authors>yoshinori dobashi,tomoyuki nishita,hideo yamashita</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>1028</label>
+		<keyword>image-based modeling;Satellite Image;Informing Science;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Load Balance Protocol of Cluster on Grid: Pervasive Maximum Algorithmic Parallelism</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>International Conference On Principles Of DIstributed Systems</jconf>
+		<label>1029</label>
+		<keyword>Load Balance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

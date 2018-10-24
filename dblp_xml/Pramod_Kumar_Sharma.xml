@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Pramod Kumar Sharma</FullName>
+	<publication>
+		<title>Optical Character Recognition for Degraded Text Documents</title>
+		<year>2007</year>
+		<authors>sudip sanyal,kapil dev dhingra</authors>
+		<jconf>International MultiConference of Engineers and Computer Scientists</jconf>
+		<label>832</label>
+		<keyword>Optical Character Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

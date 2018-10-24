@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas M&amp;uuml;ller</FullName>
+	<publication>
+		<title>SQL-basierte Datenbankzugriffe und XML: Eine 4-Schichten-Architektur</title>
+		<year>2006</year>
+		<authors>christoph kiewitt</authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>1014</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SQL-basierte Datenbankzugriffe und XML: Klassifizierung von Anwendungsprogrammen</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>1014</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SQL-basierte Datenbankzugriffe und XML: Verarbeitung von Anfrageergebnissen in Anwendungsprogrammen</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>1014</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andrea Lodi</FullName>
+	<publication>
+		<title>A dynamically adaptive DSP for heterogeneous reconfigurable platforms</title>
+		<year>2007</year>
+		<authors>fabio campi,antonio deledda,matteo pizzotti,luca ciccarelli,pier luigi rolandi,claudio mucci,arseni vitkovski,luca vanzolini</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>45</label>
+		<keyword>Algorithm Analysis;Application Development;Design Space Exploration;Digital Signal Processor;Dynamic Adaptation;Dynamic Reconfiguration;Software Tool;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a digital signal processor based on a multi-context, dynamically reconfigurable datapath, suitable for inclusion as an IP-block in complex SoC design projects. The IP was realized in CMOS 090 nm technology. The most relevant features offered by the proposed architecture with respect to state of the art are zero over head for switching between successive configurations, relevant</abstract>
+	</publication>
+	<publication>
+		<title>A Dataflow Control Unit for C-to-Configurable Pipelines Compilation Flow</title>
+		<year>2004</year>
+		<authors>andrea cappelli,claudio mucci,mario toma,fabio campi</authors>
+		<jconf>Field-Programmable Custom Computing Machines</jconf>
+		<label>45</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Embedded Reconfigurable Datapath for SoC</title>
+		<year>2005</year>
+		<authors>luca ciccarelli,claudio mucci,roberto giansante,andrea cappelli,mario toma</authors>
+		<jconf>Field-Programmable Custom Computing Machines</jconf>
+		<label>45</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining low-leakage techniques for FPGA routing design</title>
+		<year>2005</year>
+		<authors>luca ciccarelli,roberto giansante</authors>
+		<jconf>Symposium on Field Programmable Gate Arrays</jconf>
+		<label>45</label>
+		<keyword>Communication Protocol;Energy Consumption;High Performance Computer;High Speed;Leakage Current;Leakage Power;Power Dissipation;reconfigurable architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Reconfigurable architectures are well suited for wireless applications since they provide high performance computation together with the capability to adapt to changing communication protocols. Moving to 90nm technology and below, FPGAs could suffer from leakage energy consumption due to the large number of inactive transistors. We propose to combine super cut-off, body biasing and multi-threshold techniques to reduce the leakage</abstract>
+	</publication>
+	<publication>
+		<title>Routing architecture for multi-context FPGAs</title>
+		<year>2004</year>
+		<authors>roberto giansante,carlo chiesa,luca ciccarelli,mario toma,fabio campi</authors>
+		<jconf>Symposium on Field Programmable Gate Arrays</jconf>
+		<label>45</label>
+		<keyword>Critical Path;run time reconfigurable;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-context FPGAs are a convenient solution for run-time reconfiguration, but they suffer from large area occupation. This is mainly due to programmable interconnect configuration memories which need to be replicated as many times as the number of contexts. This limitation can be overcome with a DBM (Decoder Based Multicontext) routing architecture which introduces a decoding stage between configuration memories and</abstract>
+	</publication>
+	<publication>
+		<title>A pipelined configurable gate array for embedded processors</title>
+		<year>2003</year>
+		<authors>mario toma,fabio campi</authors>
+		<jconf>Symposium on Field Programmable Gate Arrays</jconf>
+		<label>45</label>
+		<keyword>Embedded Processor;Embedded System;Energy Consumption;High Performance;Low Power;reconfigurable processor;Signal Processing;Unit Testing;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years the challenge of high performance, low power retargettable embedded system has been faced with different technological and architectural solutions. In this paper we present a new configurable unit explicitly designed to implement additional reconfigurable pipelined datapaths, suitable for the design of reconfigurable processors. A VLIW reconfigurable processor has been implemented on silicon in a standard 0.18 μ</abstract>
+	</publication>
+	<publication>
+		<title>Compact Buffered Routing Architecture</title>
+		<year>2004</year>
+		<authors>roberto giansante,carlo chiesa,luca ciccarelli,fabio campi,mario toma</authors>
+		<jconf>Field-Programmable Logic and Applications</jconf>
+		<label>45</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Multi-Context Pipelined Array for Embedded Systems</title>
+		<year>2006</year>
+		<authors>claudio mucci,massimo bocchi,andrea cappelli,mario de dominicis,luca ciccarelli</authors>
+		<jconf>Field-Programmable Logic and Applications</jconf>
+		<label>45</label>
+		<keyword>Embedded System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Reconfigurable Processor Architecture and Software Development Environment for Embedded Systems</title>
+		<year>2003</year>
+		<authors>fabio campi,andrea cappelli,roberto guerrieri,mario toma,alberto la rosa,luciano lavagno,claudio passerone,roberto canegallo</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>45</label>
+		<keyword>Embedded System;reconfigurable processor;Software Development Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A flexible LUT-based carry chain for FPGAs</title>
+		<year>2003</year>
+		<authors>carlo chiesa,fabio campi,mario toma</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>45</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Decoder-Based Multi-Context Interconnect Architecture</title>
+		<year>2003</year>
+		<authors>luca ciccarelli,andrea cappelli,fabio campi,mario toma</authors>
+		<jconf>Annual Symposium on VLSI</jconf>
+		<label>45</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

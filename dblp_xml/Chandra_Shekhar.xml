@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chandra Shekhar</FullName>
+	<publication>
+		<title>Semi-Automatic Video-to-Site Registration for Aerial Monitoring</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>118</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Use of Knowledge-Based Control for Vision Systems</title>
+		<year>1998</year>
+		<authors>sabine moisan,régis vincent,philippe burlina,rama chellappa</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>118</label>
+		<keyword>Knowledge Base;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Experimental Evaluation of Linear and Kernel-Based Methods for Face Recognition</title>
+		<year>2002</year>
+		<authors>himaanshu gupta,amit k. agrawal,tarun pruthi,rama chellappa</authors>
+		<jconf>Workshop on Applications of Computer Vision</jconf>
+		<label>118</label>
+		<keyword>Dimensional Reduction;Experimental Evaluation;Face Recognition;Kernel Discriminant Analysis;Kernel Principal Component Analysis;Linear Discriminate Analysis;Principal Component Analysis;Support Vector Machine;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present the results of a comparative study of linear and kernel-based methods for face recognition. The methods used for dimensionality reduction are Principal Component Analysis (PCA), Kernel Principal Component Analysis (KPCA), Linear Discriminant Analysis (LDA) and Kernel Discriminant Analysis (KDA). The methods used for classification are Nearest Neighbor (NN) and Support Vector Machine (SVM). In addition,</abstract>
+	</publication>
+	<publication>
+		<title>Knowledge-based control of vision systems</title>
+		<year>1999</year>
+		<authors>sabine moisan,régis vincent,philippe burlina,rama chellappa</authors>
+		<jconf>Image and Vision Computing</jconf>
+		<label>118</label>
+		<keyword>Knowledge Base;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Alignment Using Distributions of Local Geometric Properties</title>
+		<year>1999</year>
+		<authors>venu govindu</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>118</label>
+		<keyword>Statistical Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a framework for aligning images without needing to establish explicit feature correspondences.We assume that the geometry between the two images can be adequately described by anaffine transformation and develop a framework that uses the statistical distribution of geometricproperties of image contours to estimate the relevant transformation parameters. The estimatesobtained using the proposed method are robust to illumination conditions,</abstract>
+	</publication>
+	<publication>
+		<title>A new approach to image feature detection with applications</title>
+		<year>1996</year>
+		<authors>b. s. manjunath,rama chellappa</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>118</label>
+		<keyword>Feature Detection;Image Analysis;Image Features;Image Registration;Interaction Model;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>Image feature detection is a fundamental issue in many intermediate level vision problems such as stereo, motion correspondence, image registration, and object recognition. In this paper we present an approach to feature detection based on a scale-interaction model. This feature detector is responsive to short lines, line endings, corners and other such sharp changes in curvature. We provide extensive experimental</abstract>
+	</publication>
+	<publication>
+		<title>Multisensor image registration by feature consensus</title>
+		<year>1999</year>
+		<authors>venu govindu,rama chellappa</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>118</label>
+		<keyword>Image Registration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

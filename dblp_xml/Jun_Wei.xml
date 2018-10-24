@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jun Wei</FullName>
+	<publication>
+		<title>Detection of Rounded Opacities on Chest Radiographs Using Convergence Index Filter</title>
+		<year>1999</year>
+		<authors>yoshihiro hagihara,hidefumi kobatake</authors>
+		<jconf>International Conference on Image Analysis and Processing</jconf>
+		<label>453</label>
+		<keyword>Chest Radiograph;Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection of Cancerous Tumors on Chest X-Ray Images Candidate Detection Filter and Its Evaluation</title>
+		<year>1999</year>
+		<authors>yoshihiro hagihara,hidefumi kobatake</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>453</label>
+		<keyword>Chest X Ray;It Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonlinear Adaptive Convergence Index Filters and Their Characteristics</title>
+		<year>2000</year>
+		<authors>hidefumi kobatake,yoshihiro hagihara,akinobu shimizu,yukiyasu yoshinaga</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>453</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection of Masses in Digital Breast Tomosynthesis Mammography: Effects of the Number of Projection Views and Dose</title>
+		<year>2008</year>
+		<authors>heang-ping chan,yiheng zhang,berkman sahiner,lubomir m. hadjiiski,mark a. helvie</authors>
+		<jconf>Digital Mammography</jconf>
+		<label>454</label>
+		<keyword>digital breast tomosynthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Breast Mass Classification on Full-Field Digital Mammography and Screen-Film Mammography</title>
+		<year>2008</year>
+		<authors>jiazheng shi,berkman sahiner,heang-ping chan,lubomir m. hadjiiski,jun ge</authors>
+		<jconf>Digital Mammography</jconf>
+		<label>454</label>
+		<keyword>Full Field Digital Mammography;Screen Film Mammography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improvement of performance to discriminate malignant tumors from normal tissue on mammograms by feature selection and evaluation of feature selection criteria</title>
+		<year>2004</year>
+		<authors>sachiko furuya,yoshihiro hagihara,akinobu shimizu,hidefumi kobatake,shigeru nawano</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<label>453</label>
+		<keyword>Feature Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancement of CAD system for breast cancers by improvement of classifiers</title>
+		<year>2005</year>
+		<authors>yoshihiro hagihara,yukari hagihara</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<label>453</label>
+		<keyword>Breast Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low Temperature Silicon Wafer Bonding By Sol-Gel Processing</title>
+		<year>2003</year>
+		<authors>jun wei,m. l. nai,w. b. yu,h. xie</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<label>455</label>
+		<keyword>Low Temperature;Silicon Wafer;sol-gel process;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hermetic Packaging Of Mems With Thick Electrodes By Silicon-Glass Anodic Bonding</title>
+		<year>2003</year>
+		<authors>yufeng jin,peck cheng lim,zhenfeng wang</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<label>455</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Wafer-Level Packaging Solution For Mems</title>
+		<year>2003</year>
+		<authors>zhenfeng wang,g. j. qi,peck cheng lim,yufeng jin,c. k. wong</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<label>455</label>
+		<keyword>Wafer Level Packaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wafer Bonding Process Based On The Taguchi Analysis</title>
+		<year>2003</year>
+		<authors>f. l. ng,m. l. nai,h. xie,peck cheng lim,c. k. wong</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<label>455</label>
+		<keyword>Wafer Bonding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Influence Of Applied Load On Wafer Bonding In Vacuum</title>
+		<year>2003</year>
+		<authors>jun wei,s. s. deng,m. l. nai</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<label>455</label>
+		<keyword>Wafer Bonding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Share Control in Intelligent Arm/Hand Teleoperated System</title>
+		<year>1999</year>
+		<authors>song you,tianmiao wang,fenglei yang,qixian zhang</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>456</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fluoroscopic-based navigation system for ACL reconstruction assisted by robot</title>
+		<year>2009</year>
+		<authors>yan hu,lei hu,tianmiao wang,sun lei,wenyong liu,li wen</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>456</label>
+		<keyword>Navigation System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Internet Robot Assistant Tele-neurosurgery System Case</title>
+		<year>2006</year>
+		<authors>tianmiao wang,da liu,lei hu,wenyong liu</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>456</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

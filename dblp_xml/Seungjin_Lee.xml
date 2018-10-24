@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Seungjin Lee</FullName>
+	<publication>
+		<title>A Metal Model Approach using UML for Task Assignment Policy in Software Process</title>
+		<year>2002</year>
+		<authors>junho shim,chisu wu</authors>
+		<jconf>Asia-Pacific Software Engineering Conference</jconf>
+		<label>930</label>
+		<keyword>Software Process;Task Assignment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PROMOD: A Modeling Tool for Product Ontology</title>
+		<year>2006</year>
+		<authors>kyunghwa kim,moonhee tark,hyunja lee,junho shim,junsoo lee</authors>
+		<jconf>Data Engineering Issues in E-Commerce</jconf>
+		<label>930</label>
+		<keyword>Modeling Tool;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Unified Approach for Software Policy Modeling: Incorporating Implementation into a Modeling Methodology</title>
+		<year>2003</year>
+		<authors>junho shim,chisu wu</authors>
+		<jconf>Object-Oriented and Entity-Relationship Modelling/International Conference on Conceptual Modeling / the Entity Relationship Approach</jconf>
+		<label>930</label>
+		<keyword>Modeling Methodology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Wavelet-Based Digital Watermarking Using Human Visual System and Subband Adaptive Threshold</title>
+		<year>2001</year>
+		<authors>in-sung ha,seong geun kwon,ki-ryong kwon,kuhn-il lee</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>931</label>
+		<keyword>adaptive thresholding;Digital Watermark;Human Visual System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selective Multi-Resolution Motion Estimation Using Half-pixel Accuracy and Characteristics of Motion Vectors</title>
+		<year>2001</year>
+		<authors>seong geun kwon,suk hwan lee,jong-won lee,in-sung ha,kuhn-il lee</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>931</label>
+		<keyword>Motion Estimation;Multi Resolution;Motion Vector;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Postprocessing Algorithm for Quantization Noise Reduction Using Block Classification and Adaptive Filtering</title>
+		<year>2001</year>
+		<authors>suk hwan lee,seong geun kwon,jong-won lee,kuhn-il lee</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>931</label>
+		<keyword>Adaptive Filter;Quantization Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Bocking Artifact Reduction Algorithm Using Adaptive Filter Based on the Classification of Block Boundary Area</title>
+		<year>2001</year>
+		<authors>jong-won lee,gun woo lee,suk hwan lee,seong geun kwon,kuhn-il lee</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>931</label>
+		<keyword>Adaptive Filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Motion Duplication Control for Distributed Dynamic Systems by Natural Damping</title>
+		<year>2006</year>
+		<authors>joono cheong,jung kim</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>932</label>
+		<keyword>Characteristic Equation;Distribution Dynamics;Dynamic System;Robust Stability;Smith Predictor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— This paper,proposes,a motion,duplication,control scheme, which not only synchronizes motions between two distributed separate dynamic,systems but also perfectly preserves prescribed,dynamics. The proposed,scheme,sophisticatedly uti- lizes two-way Smith predictor to meet the simultaneous,purposes. Closed loop behavior is mathematically investigated, and stability via natural damping and robustness are analyzed over the system, by examining,the characteristic equation,with delay components. Ways,to compute,robust stability margins,are presented,under</abstract>
+	</publication>
+	<publication>
+		<title>Development of Requirement Driven Design Concept Selection Process in Aerospace System</title>
+		<year>2006</year>
+		<authors>hyeong-uk park,mee-young park,jae-woo lee,yung-hwan byun</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>933</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

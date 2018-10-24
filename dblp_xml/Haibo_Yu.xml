@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Haibo Yu</FullName>
+	<publication>
+		<title>Research on Description Logic Based Conflict Detection Methods for RB-RBAC Model</title>
+		<year>2006</year>
+		<authors>qi xie,haiyan che</authors>
+		<jconf>Active Media Technology</jconf>
+		<label>273</label>
+		<keyword>Conflict Detection;Description Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Description Logic for PKI Trust Domain Modeling</title>
+		<year>2005</year>
+		<authors>chunzhao jin,haiyan che</authors>
+		<jconf>International Conference in IT &amp; Application</jconf>
+		<label>273</label>
+		<keyword>Description Logic;Domain Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Description Logic to Determine Seniority Among RB-RBAC Authorization Rules</title>
+		<year>2006</year>
+		<authors>qi xie,dayou liu</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>273</label>
+		<keyword>Description Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Accounting for polarization in molecular simulation</title>
+		<year>2005</year>
+		<authors>wilfred f. van gunsteren</authors>
+		<jconf>Computer Physics Communications</jconf>
+		<label>274</label>
+		<keyword>Molecular Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of new selective inhibitors of cyclooxygenase2 by dynamic assembly of molecular building blocks</title>
+		<year>2001</year>
+		<authors>jiang zhu,hao fan,haiyan liu,yunyu shi</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>274</label>
+		<keyword>Building Block;Cyclooxygenase;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Molecular dynamics simulations of liquid methanol and methanol-water mixtures with polarizable models</title>
+		<year>2006</year>
+		<authors>daan p. geerke,haiyan liu,wilfred f. van gunsteren</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>274</label>
+		<keyword>Molecular Dynamic Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

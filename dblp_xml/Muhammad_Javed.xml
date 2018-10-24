@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Muhammad Javed</FullName>
+	<publication>
+		<title>A Pattern-Based Framework of Change Operators for Ontology Evolution</title>
+		<year>2009</year>
+		<authors>yalemisew m. abgaz,claus pahl</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>760</label>
+		<keyword>Ontology Evolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Neural Network Based Mobile Location Estimation in a Metropolitan Area</title>
+		<year>2005</year>
+		<authors>amir hussain,alexander neskovic,evan h. magill</authors>
+		<jconf>Int. Conference on Artificial Neural Networks</jconf>
+		<label>761</label>
+		<keyword>Location Estimation;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

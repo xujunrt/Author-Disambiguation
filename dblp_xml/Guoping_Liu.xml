@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Guoping Liu</FullName>
+	<publication>
+		<title>Oscillation monitoring from ambient PMU measurements by Frequency Domain Decomposition</title>
+		<year>2008</year>
+		<authors>vaithianathan mani venkatasubramanian</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>269</label>
+		<keyword>Oscillations;Frequency Domain Decomposition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structure Design and Application of Embedded Ethernet Based Control Systems</title>
+		<year>2007</year>
+		<authors>haibo bian,zhe dong</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>270</label>
+		<keyword>Control System;Structural Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time Performance Analysis of Industrial Embedded Control Systems Using Switched Ethernet</title>
+		<year>2007</year>
+		<authors>j. h. wu,geng zheng,ju-guang li</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>270</label>
+		<keyword>Embedded Control System;Performance Analysis;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of Supervisory Software for Ethernet-Based Control Systems</title>
+		<year>2007</year>
+		<authors>youzhi zhu,geng zheng,zhe dong</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>270</label>
+		<keyword>Control System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vision-based Fuzzy Coordination Control for Multiple Robots</title>
+		<year>2008</year>
+		<authors>li yang,zhiqiang cao,min tan</authors>
+		<jconf>Robotics, Automation and Mechatronics</jconf>
+		<label>270</label>
+		<keyword>Coordinated Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a Service-Oriented Web-based Control Laboratory</title>
+		<year>2009</year>
+		<authors>yuliang qiao,geng zheng</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>270</label>
+		<keyword>Design and Implementation;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonlinear system identification using wavelet networks</title>
+		<year>2000</year>
+		<authors>stephen a. billings,visakan kadirkamanathan</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>271</label>
+		<keyword>Nonlinear System Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mixed time and frequency-domain robust eigenstructure assignment</title>
+		<year>2000</year>
+		<authors>g. r. duan,r. j. patton</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>271</label>
+		<keyword>Frequency Domain;Mixing Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Neural network-based variable structure control for nonlinear discrete systems</title>
+		<year>1999</year>
+		<authors>visakan kadirkamanathan,stephen a. billings</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>271</label>
+		<keyword>Discrete System;Variable Structure Control;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust control design based on parametric eigenvalue assignment</title>
+		<year>1998</year>
+		<authors>r. j. patton</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>271</label>
+		<keyword>Eigenvalues;Robust Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust eigenstructure assignment for descriptor systems</title>
+		<year>1998</year>
+		<authors>r. j. patton</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>271</label>
+		<keyword>Descriptor System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-line identification of nonlinear systems using Volterra polynomial basis function neural networks</title>
+		<year>1998</year>
+		<authors>visakan kadirkamanathan,stephen a. billings</authors>
+		<jconf>Neural Networks</jconf>
+		<label>271</label>
+		<keyword>Nonlinear System;Polynomial Basis;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variable neural networks for adaptive control of nonlinear systems</title>
+		<year>1999</year>
+		<authors>visakan kadirkamanathan,stephen a. billings</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>271</label>
+		<keyword>Adaptive Control;Nonlinear System;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

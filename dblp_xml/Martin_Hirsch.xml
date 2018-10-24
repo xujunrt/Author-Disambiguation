@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Hirsch</FullName>
+	<publication>
+		<title>Systematic Design and Implementation of Distributed Controllers in Industrial Automation</title>
+		<year>2006</year>
+		<authors>valeriy vyatkin,hans-michael hanisch</authors>
+		<jconf>Emerging Technologies and Factory Automation</jconf>
+		<label>637</label>
+		<keyword>Decentralized Control;Design and Implementation;Distributed Control;Industrial Automation;Layered Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses systematic approaches to the design of distributed controllers in industrial automation systems. Several design approaches are compared that lead to the distributed control of manufacturing machines and their parts. In particular, a decentralized control method is introduced that does not require a master controller. The implementation frameworks of IEC 61131-3 and IEC 61499 are checked on their</abstract>
+	</publication>
+	<publication>
+		<title>Reconfiguration of Embedded Systems</title>
+		<year>2008</year>
+		<authors>mohamed khalgui,dirk missal,hans-michael hanisch</authors>
+		<jconf>International Conference on Informatics in Control, Automation and Robotics</jconf>
+		<label>637</label>
+		<keyword>Embedded System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

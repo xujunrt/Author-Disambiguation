@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander B&amp;ouml;hm</FullName>
+	<publication>
+		<title>Demaq: A Foundation for Declarative XML Message Processing</title>
+		<year>2006</year>
+		<authors>carl-christian kanne,guido moerkotte</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>22</label>
+		<keyword>Case Study;Programming Paradigm;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT This paper gives an overview of Demaq, an XML message processing system operating on the foundation of transactional XML message queues. We focus on the syntax and semantics of its fully declarative, rule-based application language and demonstrate our message-based programming,paradigm in the context of a case study. Further, we discuss optimization opportunities for executing Demaq programs.</abstract>
+	</publication>
+	<publication>
+		<title>Natix Visual Interfaces</title>
+		<year>2006</year>
+		<authors>matthias brantner,carl-christian kanne,norman may,guido moerkotte</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>22</label>
+		<keyword>Visual Interfaces;</keyword>
+		<organization>null</organization>
+		<abstract>We present the architecture of Natix V2. Among the features of this native XML Data Store are an optimizing XPath query compiler and a powerful API. In our demonstration we explain this API and present XPath evaluation in Natix using its visual explain facilities.</abstract>
+	</publication>
+	<publication>
+		<title>TransScale: Scalability transformations for declarative applications</title>
+		<year>2010</year>
+		<authors>erich marth,carl-christian kanne</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>22</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Declarative Control Language for Dependable XML Message Queues</title>
+		<year>2006</year>
+		<authors>carl-christian kanne,guido moerkotte</authors>
+		<jconf>Availability, Reliability and Security</jconf>
+		<label>22</label>
+		<keyword>Business Process;Declarative Languages;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel approach for the implementation of efficient and dependable web service engines (WSEs). A WSE instance represents a single node in a distributed net- work of participants that communicate using XML mes- sages. We introduce a fully declarative language custom- tailored to XML message processing that allows to specify business processes in a concise manner. To support</abstract>
+	</publication>
+	<publication>
+		<title>The Demaq system: declarative development of distributed applications</title>
+		<year>2008</year>
+		<authors>erich marth,carl-christian kanne</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>22</label>
+		<keyword>Application Server;Declarative Languages;Distributed Application;Programming Language;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>The goal of the Demaq project is to investigate a novel way of thinking about distributed applications that are based on the asynchronous exchange of XML messages. Unlike today's solutions that rely on imperative programming languages and multi-tiered application servers, Demaq uses a declarative language for implementing the application logic as a set of rules. A rule compiler transforms the</abstract>
+	</publication>
+	<publication>
+		<title>Processes Are Data: A Programming Model for Distributed Applications</title>
+		<year>2009</year>
+		<authors>carl-christian kanne</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>22</label>
+		<keyword>Application Server;Data Management;Data Model;Declarative Languages;Distributed Application;Distributed Environment;Programming Model;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>Applications in distributed environments must scale to an increasing number of concurrently active application instances. Today's application servers spend a significant amount of re- sources on reliably managing state for these instances, turn- ing them into data management servers instead of process servers. The goal of the Demaq project is to overcome the limita- tions of these systems using a</abstract>
+	</publication>
+	<publication>
+		<title>Index vs. Navigation in XPath Evaluation</title>
+		<year>2006</year>
+		<authors>norman may,matthias brantner,carl-christian kanne,guido moerkotte</authors>
+		<jconf>International XML Database Symposium</jconf>
+		<label>22</label>
+		<keyword>Heuristic Optimization;Indexation;Query Optimization;Relational Database;Rule of Thumb;</keyword>
+		<organization>null</organization>
+		<abstract>A well-known rule of thumb claims, it is better to scan than to use an index when more than 10% of the data are accessed. This rule was formulated for relational databases. But is it still valid for XML queries? In this paper we develop similar rules of thumb for XML queries by experimentally comparing different execution strategies, e.g. using</abstract>
+	</publication>
+	<publication>
+		<title>Demaq: A Foundation for Declarative XML Message Processing</title>
+		<year>2006</year>
+		<authors>carl-christian kanne,guido moerkotte</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>22</label>
+		<keyword>Case Study;Programming Paradigm;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT This paper gives an overview of Demaq, an XML message processing system operating on the foundation of transactional XML message queues. We focus on the syntax and semantics of its fully declarative, rule-based application language and demonstrate our message-based programming,paradigm in the context of a case study. Further, we discuss optimization opportunities for executing Demaq programs.</abstract>
+	</publication>
+</person>

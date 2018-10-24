@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jiang Liu</FullName>
+	<publication>
+		<title>Joining to High Degrees</title>
+		<year>2008</year>
+		<authors>guohua wu</authors>
+		<jconf>Conference on Computability in Europe</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Degrees with Almost Universal Cupping Property</title>
+		<year>2010</year>
+		<authors>guohua wu</authors>
+		<jconf>Conference on Computability in Europe</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Infima of d.r.e. Degrees</title>
+		<year>2009</year>
+		<authors>shengling wang,guohua wu</authors>
+		<jconf>Conference on Computability in Europe</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Embedding the Diamond Lattice in the c.e. tt-Degrees with Superhigh Atoms</title>
+		<year>2009</year>
+		<authors>douglas cenzer,johanna n. y. franklin,guohua wu</authors>
+		<jconf>Theory and Applications of Models of Computation</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joining to high degrees via noncuppables</title>
+		<year>2010</year>
+		<authors>guohua wu</authors>
+		<jconf>Archive for Mathematical Logic</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Infima of d.r.e. degrees</title>
+		<year>2010</year>
+		<authors>shengling wang,guohua wu</authors>
+		<jconf>Archive for Mathematical Logic</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Isolation, Infima and Diamond Embeddings</title>
+		<year>2007</year>
+		<authors>guohua wu</authors>
+		<jconf>Journal of Logic and Computation</jconf>
+		<label>376</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stereo Reconstruction Using an Image Noise Model</title>
+		<year>2005</year>
+		<authors>patrice delmas,georgy l. gimel'farb,john morris</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>377</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Concurrent Stereo Matching: An Image Noise-Driven Model</title>
+		<year>2005</year>
+		<authors>john morris,georgy l. gimel'farb,patrice delmas</authors>
+		<jconf>Energy Minimization Methods in Computer Vision and Pattern Recognition</jconf>
+		<label>377</label>
+		<keyword>Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ESI-Based WEB Caching for Efficient Dynamic Content Delivery</title>
+		<year>2003</year>
+		<authors>s. manoharan</authors>
+		<jconf>International Association for Development of the Information Society</jconf>
+		<label>378</label>
+		<keyword>Dynamic Content;Web Caching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Which Stereo Matching Algorithm for Accurate 3D Face Creation?</title>
+		<year>2004</year>
+		<authors>philippe leclercq,alexander woodward,patrice delmas</authors>
+		<jconf>International Workshop on Combinatorial Image Analysis</jconf>
+		<label>377</label>
+		<keyword>Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Noise-Driven Paradigm for Solving the Stereo Correspondence Problem</title>
+		<year>2005</year>
+		<authors>patrice delmas,georgy l. gimel'farb,john morris</authors>
+		<jconf>Mexican International Conference on Artificial Intelligence</jconf>
+		<label>377</label>
+		<keyword>Correspondence Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Accounting System Building on Network Processor</title>
+		<year>2004</year>
+		<authors>tao he,xing li</authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>378</label>
+		<keyword>Network Processor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Long Distance Optical Wireless Network Employing Multiple Access Scheme</title>
+		<year>2007</year>
+		<authors>jin sando,wei li,hiroshi takano,shigeru shimamoto</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>379</label>
+		<keyword>Multiple Access;Optical Wireless;Long Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An optical IM/DD based spatial transmission diversity achievable relay scheme</title>
+		<year>2009</year>
+		<authors>hiroshi takano,shigeru shimamoto</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>379</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LCM Exploration and Practice in OOP Teaching</title>
+		<year>2009</year>
+		<authors>li liu,hong zhuang,zhaoqing wang</authors>
+		<jconf>Scalable Computing and Communications</jconf>
+		<label>380</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

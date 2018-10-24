@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dan He</FullName>
+	<publication>
+		<title>Internet QoS and traffic modelling</title>
+		<year>2004</year>
+		<authors>zhili sun,lei liang,haitham s. cruickshank</authors>
+		<jconf>Iet Software/iee Proceedings - Software</jconf>
+		<label>164</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scalable architecture and evaluation for multiparty conferencing over satellite links</title>
+		<year>2004</year>
+		<authors>zhili sun,haitham s. cruickshank,lei liang,a. sanchez,carlos miguel,vincenzo schena,clementina tocci,belén carro</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>164</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

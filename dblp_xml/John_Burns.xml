@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>John Burns</FullName>
+	<publication>
+		<title>Document digitization lifecycle for complex magazine collection</title>
+		<year>2005</year>
+		<authors>sherif m. yacoub,paolo faraboschi,daniel ortega,josé l. abad peiro,vinay saxena</authors>
+		<jconf>ACM Symposium on Document Engineering</jconf>
+		<label>431</label>
+		<keyword>Digital Documents;Document Analysis;Technology Development;Web Accessibility;</keyword>
+		<organization>null</organization>
+		<abstract>The conversion of large collections of documents from paper to digital formats that are suitable for electronic archival is a complex multi-phase process. The creation of good quality images from paper documents is just one phase. To extract relevant information that they contain, with an accuracy that fits the purpose of target applications, an automated document analysis system and a</abstract>
+	</publication>
+	<publication>
+		<title>Automating the Analysis of Voting Systems</title>
+		<year>2003</year>
+		<authors>sherif m. yacoub,xiaofan lin,steven j. simske</authors>
+		<jconf>International Symposium on Software Reliability Engineering</jconf>
+		<label>431</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A security scheme for resource sharing over a network</title>
+		<year>1990</year>
+		<authors>chris j. mitchell</authors>
+		<jconf>Computers &amp; Security</jconf>
+		<label>431</label>
+		<keyword>Resource Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance analysis of pattern classifier combination by plurality voting</title>
+		<year>2003</year>
+		<authors>xiaofan lin,sherif m. yacoub,steven j. simske</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>431</label>
+		<keyword>Classifier Combination;Majority Voting;Monte Carlo Method;Pattern Recognition;Performance Analysis;Real World Application;Stochastic Simulation;Theoretical Analysis;Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>plurality voting, majority voting, classifier combination, stochastic simulation, classifier evaluation Plurality voting is widely used in pattern recognition. However, there is little theoretical analysis of plurality voting. In this paper, we attempt to explore the rationale behind plurality voting. The recognition/error/rejection rates of plurality voting are compared with those of majority voting under different conditions. It is demonstrated that plurality</abstract>
+	</publication>
+	<publication>
+		<title>Parameter Selection for Server-Aided RSA Computation Schemes</title>
+		<year>1994</year>
+		<authors>chris j. mitchell</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>431</label>
+		<keyword>Parameter Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

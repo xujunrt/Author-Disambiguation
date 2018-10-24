@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Min Feng</FullName>
+	<publication>
+		<title>An efficient key scheme for layered access control of MPEG4 FGS video</title>
+		<year>2004</year>
+		<authors>bin b. zhu,shipeng li</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>718</label>
+		<keyword>Discrete Logarithm;Hash Function;Key Agreement;Satisfiability;Access Control;diffie hellman;</keyword>
+		<organization>null</organization>
+		<abstract>The recently proposed Scalable Multi-Layer FGS Encryption (SMLFE) (4)(5) encrypts an MPEG-4 FGS stream into multiply PSNR and bitrate quality layers for layered access control. Both layer types are supported simultaneously. A simple key scheme was used in SMLFE. In this paper, we propose a novel key scheme for SMLFE that reduces the number of keys maintained and managed by</abstract>
+	</publication>
+	<publication>
+		<title>A framework of scalable layered access control for multimedia</title>
+		<year>2005</year>
+		<authors>bin b. zhu,shipeng li</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>718</label>
+		<keyword>Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Signed MSB-Set Comb Method for Elliptic Curve Point Multiplication</title>
+		<year>2006</year>
+		<authors>bin b. zhu,cunlai zhao,shipeng li</authors>
+		<jconf>Information Security Practice and Experience</jconf>
+		<label>718</label>
+		<keyword>Elliptic Curve;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compoweb: a component-oriented web architecture</title>
+		<year>2008</year>
+		<authors>rui guo,bin b. zhu,aimin pan,bosheng zhou</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>718</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper, client-site Web mashups are studied from component-oriented perspective, and CompoWeb, a component- oriented Web architecture, is proposed. In CompoWeb, a Web application is decomposed into Web components called gadgets. A gadget is an abstraction of functional or logical Web component. It is isolated from other gadgets for security and reliability. Contract-based channels are the only way to</abstract>
+	</publication>
+</person>

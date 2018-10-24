@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Fink</FullName>
+	<publication>
+		<title>Uncovering shared structures in multiclass classification</title>
+		<year>2007</year>
+		<authors>yonatan amit,nathan srebro,shimon ullman</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>680</label>
+		<keyword>multiclass classification;</keyword>
+		<organization>null</organization>
+		<abstract>This paper suggests a method for multiclass learning with many classes by simultaneously learning shared characteristics common to the classes, and predictors for the classes in terms of these characteristics. We cast this as a convex op- timization problem, using trace-norm regulariza- tion and study gradient-based optimization both for the linear case and the kernelized setting.</abstract>
+	</publication>
+	<publication>
+		<title>Online multiclass learning by interclass hypothesis sharing</title>
+		<year>2006</year>
+		<authors>shai shalev-shwartz,yoram singer,shimon ullman</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>680</label>
+		<keyword>Online Learning;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a general framework for online mul- ticlass learning based on the notion of hypoth- esis sharing. In our framework sets of classes are associated with hypotheses. Thus, all classes within a given set share the same hypothesis. This framework includes as special cases com- monly used constructions for multiclass catego- rization such as allocating a unique hypothesis for</abstract>
+	</publication>
+	<publication>
+		<title>Object Classification from a Single Example Utilizing Class Relevance Metrics</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>680</label>
+		<keyword>Learning Algorithm;Nearest Neigh Bor;Nearest Neighbor Classifier;Object Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mutual Boosting for Contextual Inference</title>
+		<year>2003</year>
+		<authors>pietro perona</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>680</label>
+		<keyword>Contextual Information;Object Detection;</keyword>
+		<organization>null</organization>
+		<abstract>Mutual Boosting is a method aimed at incorporating contextual information to augment object detection. When multiple detectors of objects and parts are trained in parallel using AdaBoost (1), object detectors might use the remaining intermediate detectors to enrich the weak learner set. This method generalizes the efficient features suggested by Viola and Jones (2) thus enabling information inference between parts</abstract>
+	</publication>
+	<publication>
+		<title>From Aardvark to Zorro: A Benchmark for Mammal Image Classification</title>
+		<year>2008</year>
+		<authors>shimon ullman</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>680</label>
+		<keyword>Image Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianying Zhou</FullName>
+	<publication>
+		<title>Design of an Hinfinity controller with internal model principle for disturbance rejection in optical disk drives</title>
+		<year>2002</year>
+		<authors>fengdan dong,youyi wang</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>394</label>
+		<keyword>Disturbance Rejection;Internal Model Principle;Optic Disk;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Nonlinear Reduced-Order Dynamic Controller Design and its Application to a Single-link Manipulator</title>
+		<year>2001</year>
+		<authors>rujing zhou,youyi wang</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>394</label>
+		<keyword>Controller Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Amit Kumar</FullName>
+	<publication>
+		<title>HybDTM: a coordinated hardware-software approach for dynamic thermal management</title>
+		<year>2006</year>
+		<authors>li shang,li-shiuan peh,niraj k. jha</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>39</label>
+		<keyword>Clock Gating;Dynamic Thermal Management;Hardware Performance Counters;High Performance;Power Density;Process Scheduling;Software Management;System Dynamics;Thermal Management;Thermal Model;Simultaneous Multi Threaded;</keyword>
+		<organization>null</organization>
+		<abstract>With ever-increasing power density and cooling costs in modern high-performance systems, dynamic thermal management (DTM) has emerged as an effective technique for guaranteeing thermal safety at run-time. While past works on DTM have focused on different techniques in isolation, they fail to consider a synergistic mechanism using both hardware and software support and hence lead to a significant execution time</abstract>
+	</publication>
+	<publication>
+		<title>NoC with Near-Ideal Express Virtual Channels Using Global-Line Communication</title>
+		<year>2008</year>
+		<authors>tushar krishna,patrick chiang,mattan erez,li-shiuan peh</authors>
+		<jconf>IEEE Hot Interconnects</jconf>
+		<label>39</label>
+		<keyword>Low Latency;Power Envelope;Virtual Channel;Long Range;Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>As processor core counts increase, networks-on-chip (NoCs) are becoming an increasingly popular interconnec- tion fabric due to their ability to supply high bandwidth. However, NoCs need to deliver this high bandwidth at low latencies, while keeping within a tight power envelope. In this paper, we present a novel NoC with hybrid interconnect that leverages multiple types of interconnectsñspecically , conventional</abstract>
+	</publication>
+	<publication>
+		<title>A 4.6Tbits/s 3.6GHz single-cycle NoC router with a novel switch allocator in 65nm CMOS</title>
+		<year>2007</year>
+		<authors>partha kundu,arvind p. singh,li-shiuan peh,niraj k. jha</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>39</label>
+		<keyword>Chip Multiprocessor;Critical Path;Low Complexity;Low Latency;Scaling Up;Shared Memory;Virtual Channel;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract As chip multiprocessors (CMPs) become,the only viable way to scale up and utilize the abundant transistors made available in current microprocessors, the design of on-chip networks is becoming,critically important. These networks face unique design constraints and are required to provide extremely fast and high bandwidth communication, yet meet tight power and area budgets. In this paper, we present a</abstract>
+	</publication>
+	<publication>
+		<title>A system-level perspective for efficient NoC design</title>
+		<year>2008</year>
+		<authors>niket agarwal,li-shiuan peh,niraj k. jha</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>39</label>
+		<keyword>Chip Multiprocessor;Design Evaluation;Flow Control;Interconnection Network;Memory Hierarchy;Network Model;Network Simulator;Power Modeling;System Simulation;Virtual Channel;</keyword>
+		<organization>null</organization>
+		<abstract>With the advent of chip multiprocessors (CMPs) in main- stream systems, the on-chip network that connects different processing cores becomes a critical part of the design. There has been significant work in the recent past on designing these networks for efficiency and scalability. However, most net- work design evaluations use a stand-alone network simulator which fails to capture the system-level</abstract>
+	</publication>
+	<publication>
+		<title>Express virtual channels: towards the ideal interconnection fabric</title>
+		<year>2007</year>
+		<authors>li-shiuan peh,partha kundu,niraj k. jha</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>39</label>
+		<keyword>Energy Consumption;Interconnection Network;Packet Switched;Virtual Channel;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Due to wire delay scalability and bandwidth,limitations inherent in shared buses and dedicated links, packet-switched on-chip interconnection networks are fast emerging as the pervasive communication fabric to connect dieren t processing elements in many-core chips. However, current state-ofthe-art packet-switched networks rely on complex routers which increases the communication overhead and energy consumption as compared,to the ideal interconnection fabric. In</abstract>
+	</publication>
+	<publication>
+		<title>Token flow control</title>
+		<year>2008</year>
+		<authors>li-shiuan peh,niraj k. jha</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>39</label>
+		<keyword>Flow Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Thermal Modeling, Characterization and Management of On-Chip Networks</title>
+		<year>2004</year>
+		<authors>li shang,li-shiuan peh,niraj k. jha</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>39</label>
+		<keyword>Distributed Collaboration;Finite Element;Power Density;Power Measurement;Thermal Management;Thermal Model;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the wire delay constraints in deep submicron technology and increasing demand for on-chip bandwidth, networks are becoming the pervasive interconnect fabric to connect processing elements on chip. With ever-increasing power density and cooling costs, the thermal impact of on-chip networks needs to be urgently addressed. In this work, we first characterize the thermal profile of the MIT Raw</abstract>
+	</publication>
+	<publication>
+		<title>Active Crosstalk Cancel for High-Density Inductive Inter-chip Wireless Communication</title>
+		<year>2006</year>
+		<authors>noriyuki miura,muhammad muqsith,tadahiro kuroda</authors>
+		<jconf>VLSI Design</jconf>
+		<label>40</label>
+		<keyword>Wireless Communication;High Density;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Express Virtual Channels with Capacitively Driven Global Links</title>
+		<year>2009</year>
+		<authors>tushar krishna,li-shiuan peh,jacob postman,patrick chiang,mattan erez</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>39</label>
+		<keyword>Virtual Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Toward Ideal On-Chip Communication Using Express Virtual Channels</title>
+		<year>2008</year>
+		<authors>li-shiuan peh,partha kundu,niraj k. jha</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>39</label>
+		<keyword>Virtual Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Temperature-Aware On-Chip Networks</title>
+		<year>2006</year>
+		<authors>li shang,li-shiuan peh,niraj k. jha</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>39</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System-Level Dynamic Thermal Management for High-Performance Microprocessors</title>
+		<year>2008</year>
+		<authors>li shang,li-shiuan peh,niraj k. jha</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>39</label>
+		<keyword>Dynamic Thermal Management;High Performance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J&amp;ouml;rg Diederich</FullName>
+	<publication>
+		<title>Utilizing a Fault-Tolerance Protocol for Colocating Interfering Cells in a Wireless Network</title>
+		<year>2006</year>
+		<authors>spiro trikaliotis</authors>
+		<jconf>Architektur von Rechensystemen</jconf>
+		<label>322</label>
+		<keyword>Fault Tolerant;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

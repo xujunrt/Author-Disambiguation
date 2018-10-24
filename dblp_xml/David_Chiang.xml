@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Chiang</FullName>
+	<publication>
+		<title>Fuzzy Constraint Propagation with Continuous Labels</title>
+		<year>2002</year>
+		<authors>k. robert lai</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>189</label>
+		<keyword>Fuzzy Constraints;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of Constraint-based Fuzzy Logic Controller for PH Control of a Flue Gas Desulfurization System</title>
+		<year>2001</year>
+		<authors>k. robert lai,trank li</authors>
+		<jconf>IEEE International Conference on Fuzzy Systems</jconf>
+		<label>189</label>
+		<keyword>Fuzzy Logic Controller;Ph Control;Flue Gas Desulfurization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

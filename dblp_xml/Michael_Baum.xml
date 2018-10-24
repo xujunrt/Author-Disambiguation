@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Baum</FullName>
+	<publication>
+		<title>Virtualization: The Good, the Bad, the Ugly</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>USENIX Systems Administration Conference</jconf>
+		<label>679</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

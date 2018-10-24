@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Markus Berg</FullName>
+	<publication>
+		<title>3D Ultraschall-Entfernungsmessung mit PseudoRandom Sequenzen</title>
+		<year>1999</year>
+		<authors>klaus-werner jörg,jan-peter paulick</authors>
+		<jconf>Autonome Mobile Systeme</jconf>
+		<label>627</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mobile Robot Sonar Sensing with PseudoRandom Codes</title>
+		<year>1998</year>
+		<authors>klaus-werner jörg</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>627</label>
+		<keyword>Mobile Robot;Random Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sophisticated mobile robot sonar sensing with pseudorandom codes</title>
+		<year>1998</year>
+		<authors>klaus-werner jörg</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>627</label>
+		<keyword>Mobile Robot;Random Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

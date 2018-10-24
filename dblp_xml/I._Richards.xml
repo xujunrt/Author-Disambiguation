@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>I. Richards</FullName>
+	<publication>
+		<title>Differentiability properties of computable functions - a summary</title>
+		<year>1980</year>
+		<authors>marian boykan pour-el</authors>
+		<jconf>Acta Cybernetica</jconf>
+		<label>318</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

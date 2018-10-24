@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christophe Collet</FullName>
+	<publication>
+		<title>Anthropomorphic model for hand gesture interface</title>
+		<year>1994</year>
+		<authors>annelies braffort,daniel teil</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>155</label>
+		<keyword>Computer Model;gestural interface;Gesture Recognition;Hand Gesture Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an anthropomorphic computer model of the human hand, with the aim of improving the results of hand gesture recognition algorithms. Cinematic knowledge altows us to filter the data provided by gesture transducers and to reconstruct the hand, even when att the respective position values of its different components are not known. Moreover, such a model provides a</abstract>
+	</publication>
+	<publication>
+		<title>Tracking of Real Time Acrobatic Movements by Image Processing</title>
+		<year>2003</year>
+		<authors>ryan cassel</authors>
+		<jconf>Gesture Workshop</jconf>
+		<label>155</label>
+		<keyword>Image Processing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Acrobatic Gesture Analysis</title>
+		<year>2005</year>
+		<authors>ryan cassel,rachid gherbi</authors>
+		<jconf>Gesture Workshop</jconf>
+		<label>155</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gesture in Human-Machine Communication: capture, analysis-synthesis, recognition, semantics</title>
+		<year>1996</year>
+		<authors>sylvie gibet,annelies braffort,f. forest,rachid gherbi,thierry lebourque</authors>
+		<jconf>Gesture Workshop</jconf>
+		<label>155</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sign Language Recognition, Generation, and Modelling: A Research Effort with Applications in Deaf Communication</title>
+		<year>2009</year>
+		<authors>eleni efthimiou,stavroula-evita fotinea,christian vogler,thomas hanke,john r. w. glauert,richard bowden,annelies braffort,petros maragos,jérémie segouat</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>155</label>
+		<keyword>Sign Language Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CapRe: a Gaze Tracking System in Man-machine Interaction</title>
+		<year>1998</year>
+		<authors>alain finkel,rachid gherbi</authors>
+		<jconf>Journal of Advanced Computational Intelligence and Intelligent Informatics</jconf>
+		<label>155</label>
+		<keyword>Ccd Camera;Gaze Tracking;Man-machine Interaction;Satisfiability;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a real-time camerabasedsystem designed for gaze tracking focusedon human-computer communication.We aim to equip computer systems with a toolwhich can provide visual information aboutthe user. This tool must satisfy interactionconstraints and be not intrusive. Thereforewe use a CCD camera, placed between thekeyboard and the screen. The system detectsthe user presence, locates and then tracks hisface, nose and both eyes.</abstract>
+	</publication>
+</person>

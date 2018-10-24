@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qing Xu</FullName>
+	<publication>
+		<title>Fuzziness Driven Adaptive Sampling for Monte Carlo Global Illuminated Rendering</title>
+		<year>2006</year>
+		<authors>mateu sbert,zhigeng pan,wei wang,lianping xing</authors>
+		<jconf>Computer Graphics International</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Global Illumination;Monte Carlo;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Sampling for Monte Carlo Global Illumination Using Tsallis Entropy</title>
+		<year>2005</year>
+		<authors>shiqiang bao,rui zhang,ruijuan hu,mateu sbert</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Global Illumination;Monte Carlo;tsallis entropy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Object Space Adaptive Sampling for Global Illumination</title>
+		<year>2009</year>
+		<authors>zhongyuan geng,jizhou sun</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Global Illumination;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive sampling based on fuzzy inference</title>
+		<year>2006</year>
+		<authors>lianping xing,wei wang,mateu sbert</authors>
+		<jconf>Computer graphics and interactive techniques in Austalasia and South East Asia</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Fuzzy Inference;Fuzzy Rule Base;Fuzzy Rules;Global Illumination;Monte Carlo;</keyword>
+		<organization>null</organization>
+		<abstract>Monte Carlo is the only choice for a physically correct method to do global illumination in the field of realistic image rendering. Adaptive sampling is an appealing means to reduce noise, which is resulted from the general Monte Carlo global illumination algorithms. In this paper, we take advantage of fuzzy rule-based reasoning to achieve different refinement thresholds for different pixels</abstract>
+	</publication>
+	<publication>
+		<title>Image Coherence Based Adaptive Sampling for Image Synthesis</title>
+		<year>2004</year>
+		<authors>roberto brunelli,stefano messelodi,jiawan zhang,mingchu li</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Image Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Fuzzy Weighted Average Filter for Synthesized Image</title>
+		<year>2005</year>
+		<authors>liang ma,weifang nie,peng li,jiawan zhang,jizhou sun</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>842</label>
+		<keyword>Weighted Averaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Way to Re-using Paths</title>
+		<year>2007</year>
+		<authors>mateu sbert</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>842</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>AM-GM Difference Based Adaptive Sampling for Monte Carlo Global Illumination</title>
+		<year>2007</year>
+		<authors>mateu sbert,miquel feixas,jianfeng zhang</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;Global Illumination;Monte Carlo;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Olympus: an ambient intelligence architecture on the verge of reality</title>
+		<year>2003</year>
+		<authors>f. bertamini,roberto brunelli,oswald lanz,a. roat,a. santuari,francesco tobia</authors>
+		<jconf>International Conference on Image Analysis and Processing</jconf>
+		<label>842</label>
+		<keyword>Ambient Intelligence;Automatic Generation;Distributed Processing;Force Field;Indoor Environment;Modular Architecture;Performance Evaluation;Ground Truth;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents Olympus, a modular processing ar- chitecture for a distributed ambient intelligence. The system is aimed at detailed reporting of people wandering and ges- turing in complex indoor environments. The design of the architecture has been driven by two main principles: reli- able algorithm testing and system scalability. The first goal has been achieved through the development of</abstract>
+	</publication>
+	<publication>
+		<title>A New Approach to Impulse Noise Removal for Color Image</title>
+		<year>2007</year>
+		<authors>rui zhang,mateu sbert</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>842</label>
+		<keyword>Color Image;Impulse Noise;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new two-stage approach to impulse noise removal for color image. The first step is the impulse detec- tion, in which the so-called Rank-Ordered Absolute Differ- ences (ROAD) is used to determine whether a pixel is im- pulsive to be removed. The second step does noise suppres- sion based on maximizing the proposed pixel similarity mea- sure</abstract>
+	</publication>
+	<publication>
+		<title>Photon Mapping Parallel Based on Shared Memory System</title>
+		<year>2009</year>
+		<authors>huaiqing he,tianbao wang,yaoyu xing</authors>
+		<jconf>Computer Graphics, Imaging and Vision</jconf>
+		<label>842</label>
+		<keyword>Photon Mapping;Shared Memory System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Adaptive Sampling by Tsallis Entropy</title>
+		<year>2007</year>
+		<authors>mateu sbert,lianping xing,jianfeng zhang</authors>
+		<jconf>Computer Graphics, Imaging and Vision</jconf>
+		<label>842</label>
+		<keyword>Adaptive Sampling;tsallis entropy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Approach to Salt-and-Pepper Noise Removal for Color Image</title>
+		<year>2009</year>
+		<authors>rui zhang,mateu sbert</authors>
+		<jconf>Networked Computing and Advanced Information Management</jconf>
+		<label>842</label>
+		<keyword>Color Image;Noise Removal;Pepper;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Zero Variance Importance Sampling Driven Potential Tracing Algorithm for Global Illumination</title>
+		<year>2001</year>
+		<authors>jizhou sun,wei zunce,yantai shu,stefano messelodi,jing cai</authors>
+		<jconf>International Conference in Central Europe on Computer Graphics and Visualization</jconf>
+		<label>842</label>
+		<keyword>Global Illumination;Importance Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Computational Way to Monte Carlo Global Illumination</title>
+		<year>2006</year>
+		<authors>wei wang,shiqiang bao</authors>
+		<jconf>International Journal of Image and Graphics</jconf>
+		<label>842</label>
+		<keyword>Global Illumination;Monte Carlo;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color Texture Analysis Using Wavelet-Based Hidden Markov Model</title>
+		<year>2004</year>
+		<authors>siyi ding,jie yang</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>843</label>
+		<keyword>Texture Analysis;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Modeling and Recognition Method for Underwater Sound Based on HMT in Wavelet Domain</title>
+		<year>2004</year>
+		<authors>yue zhou,wei kong</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>843</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extended Locally Linear Embedding with Gabor Wavelets for Face Recognition</title>
+		<year>2004</year>
+		<authors>zhonglong zheng,jie yang</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>843</label>
+		<keyword>Face Recognition;gabor wavelets;Local Linear Embedding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Image Analysis System for Tongue Diagnosis in Traditional Chinese Medicine</title>
+		<year>2004</year>
+		<authors>yonggang wang,yue zhou,jie yang</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>843</label>
+		<keyword>Image Analysis;Traditional Chinese Medicine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Diffusion Tensor Image Smoothing Using Efficient and Effective Anisotropic Filtering</title>
+		<year>2007</year>
+		<authors>adam w. anderson,john c. gore,zhaohua ding</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>843</label>
+		<keyword>Anisotropic Diffusion;Diffusion Tensor Images;Numerical Scheme;semi-implicit scheme;Second Order;</keyword>
+		<organization>null</organization>
+		<abstract>To improve the accuracy of tissue structural and architectural characterization with diffusion tensor imaging, an anisotropic smoothing algorithm is presented for reducing noise in diffusion tensor images efficiently and effectively. The presented algorithm is based on previous anisotropic diffusion filtering, which is implemented with a straightforward but inefficient explicit numerical scheme. The main contribution of this paper is to improve</abstract>
+	</publication>
+	<publication>
+		<title>Unsupervised Multiscale Image Segmentation Using Wavelet Domain Hidden Markov Tree</title>
+		<year>2004</year>
+		<authors>jie yang,siyi ding</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>843</label>
+		<keyword>Image Segmentation;Hidden Markov Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color texture analysis using the wavelet-based hidden Markov model</title>
+		<year>2005</year>
+		<authors>jie yang,siyi ding</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>843</label>
+		<keyword>Color Space;Gaussian Mixture Model;Mixture Model;Texture Analysis;Texture Classification;Transition Matrix;Hidden Markov Model;Hidden Markov Tree;</keyword>
+		<organization>null</organization>
+		<abstract>The wavelet-domain hidden Markov model (WD HMM), in particular the hidden Markov tree (HMT), has recently been proposed and applied to gray texture analysis with encouraging results. For color texture analysis, the previous WD HMM can only be used to model the different color planes individually, assuming they are independent of each other. However, this assumption in general is unrealistic.</abstract>
+	</publication>
+	<publication>
+		<title>Unified Bundling and Registration of Brain White Matter Fibers</title>
+		<year>2009</year>
+		<authors>adam w. anderson,john c. gore,zhaohua ding</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>843</label>
+		<keyword>White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>XTW, a parallel and distributed logic simulator</title>
+		<year>2005</year>
+		<authors>carl tropper</authors>
+		<jconf>Workshop on Principles of Advanced and Distributed Simulation</jconf>
+		<label>844</label>
+		<keyword>Time Complexity;Time Warp;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new event scheduling mechanism XEQ and a new rollback procedure rb-messages are proposed for use in optimistic logic simulation. We incorporate both of these techniques in a simulator XTW. XTW groups LPs into clusters, and makes use of a multi-level queue, XEQ, to schedule events in the cluster. XEQ has an O(1) event scheduling time complexity.</abstract>
+	</publication>
+	<publication>
+		<title>XTW, a parallel and distributed logic simulator</title>
+		<year>2005</year>
+		<authors>carl tropper</authors>
+		<jconf>Workshop on Principles of Advanced and Distributed Simulation</jconf>
+		<label>844</label>
+		<keyword>Time Complexity;Time Warp;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new event scheduling mechanism XEQ and a new rollback procedure rb-messages are proposed for use in optimistic logic simulation. We incorporate both of these techniques in a simulator XTW. XTW groups LPs into clusters, and makes use of a multi-level queue, XEQ, to schedule events in the cluster. XEQ has an O(1) event scheduling time complexity.</abstract>
+	</publication>
+	<publication>
+		<title>On Determining How Many Computers to Use in Parallel VLSI Simulation</title>
+		<year>2009</year>
+		<authors>carl tropper</authors>
+		<jconf>Workshop on Principles of Advanced and Distributed Simulation</jconf>
+		<label>844</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards large scale optimistic VLSI simulation</title>
+		<year>2006</year>
+		<authors>carl tropper</authors>
+		<jconf>Simulation Practice and Theory</jconf>
+		<label>844</label>
+		<keyword>Large Scale;Time Complexity;Time Warp;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, an optimistic parallel and distributed logic simulator, XTW, is proposed. In XTW, a new event scheduling mechanism XEQ and a new rollback procedure rb-messages are proposed for use in optimistic logic simulation. XTW groups LPs into clusters, and makes use of a multi-level queue,XEQ, to schedule events in the cluster. XEQ has an O(1) event scheduling time</abstract>
+	</publication>
+	<publication>
+		<title>Space Object Geometry and Behavior Modeling Method</title>
+		<year>2006</year>
+		<authors>yang zhou,caozheng lan,zhihui gong</authors>
+		<jconf>Edutainment - International Conference on E-learning and Games</jconf>
+		<label>845</label>
+		<keyword>Behavior Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Virtual Space Environment Simulation System</title>
+		<year>2007</year>
+		<authors>chaozhen lan,jiansheng li,yang zhou</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>845</label>
+		<keyword>Virtual Space;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Limited Recurrent Neural Network for Superresolution Image Reconstruction</title>
+		<year>2006</year>
+		<authors>yan zhang,tao wang,lei sun</authors>
+		<jconf>International Conference on Neural Information Processing</jconf>
+		<label>845</label>
+		<keyword>Image Reconstruction;Recurrent Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Quantum Key Distribution System using Homodyne Detection with Differential Time-Multiplexed Reference</title>
+		<year>2007</year>
+		<authors>m. b. c. silva,jean-luc danger,sylvain guilley,patrick bellot,philippe gallion,francisco mendieta</authors>
+		<jconf>Conference Internationale Associant Chercheurs Vietnamiens et Francophones en Informatique</jconf>
+		<label>846</label>
+		<keyword>Quantum Key Distribution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantum key distribution system using dual-threshold homodyne detection</title>
+		<year>2008</year>
+		<authors>manuel sabban,philippe gallion,francisco mendieta</authors>
+		<jconf>Conference Internationale Associant Chercheurs Vietnamiens et Francophones en Informatique</jconf>
+		<label>846</label>
+		<keyword>Quantum Key Distribution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vehicle-to-vehicle safety messaging in DSRC</title>
+		<year>2004</year>
+		<authors>tony k. mak,jeff ko,raja sengupta</authors>
+		<jconf>Mobile Computing and Networking</jconf>
+		<label>847</label>
+		<keyword>Ad Hoc Wireless Network;Random Access;Traffic Flow;Vehicular Communication;Dedicated Short Range Communication;layer 2;Medium Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>This paper studies the design of layer-2 protocols for a vehicle to send safety messages to other vehicles. The target is to send vehicle safety messages with high reliability and low delay. The communication is one-to-many, local, and geo-significant. The vehicular communication network is ad-hoc, highly mobile, and with large numbers of contending nodes. The messages are very short, have</abstract>
+	</publication>
+	<publication>
+		<title>Prediction of Transit Vehicle Arrival Time for Signal Priority Control: Algorithm and Performance</title>
+		<year>2008</year>
+		<authors>chin-woo tan,hongchao liu,qing xu</authors>
+		<jconf>IEEE Transactions on Intelligent Transportation Systems</jconf>
+		<label>847</label>
+		<keyword>Control Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jian Li</FullName>
+	<publication>
+		<title>Simple Dynamic Key Management in SQL Randomization</title>
+		<year>2009</year>
+		<authors>serguei a. mokhov,lingyu wang</authors>
+		<jconf></jconf>
+		<label>359</label>
+		<keyword>Data Security;Database Security;Key Management;</keyword>
+		<organization>null</organization>
+		<abstract>This work presents a simple key management scheme for dynamic SQL randomization based on the approach of the SNMPv3 key generation. The original SQL randomization technique based on keyed randomization proxies lacks a mechanism for managing and updating cryptographic keys, which renders the technique vulnerable to the exposure or theft of the keys. Our scheme provides a practical solution to</abstract>
+	</publication>
+	<publication>
+		<title>Managing Distributed MARF's Nodes with SNMP</title>
+		<year>2008</year>
+		<authors>serguei a. mokhov,lee wei huynh</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>359</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Managing Distributed MARF with SNMP</title>
+		<year>2009</year>
+		<authors>serguei a. mokhov,lee wei huynh</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>359</label>
+		<keyword>Application Server;Management Tool;Network Services;</keyword>
+		<organization>null</organization>
+		<abstract>The scope of this project's work focuses on the research and prototyping of the extension of the Distributed MARF such that its services can be managed through the most popular management protocol familiarly, SNMP. The rationale behind SNMP vs. MARF's proprietary management protocols, is that can be integrated with the use of common network service and device management, so the</abstract>
+	</publication>
+</person>

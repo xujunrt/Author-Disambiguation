@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jean Yang</FullName>
+	<publication>
+		<title>Regularised shortest-path extraction</title>
+		<year>1997</year>
+		<authors>michael buckley</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>350</label>
+		<keyword>Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

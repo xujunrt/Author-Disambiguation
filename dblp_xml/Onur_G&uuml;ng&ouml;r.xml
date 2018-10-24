@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Onur G&amp;uuml;ng&amp;ouml;r</FullName>
+	<publication>
+		<title>Joint Power and Secret Key Queue Management for Delay Limited Secure Communication</title>
+		<year>2010</year>
+		<authors>jian tan,can emre koksal,hesham el gamal,ness b. shroff</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>792</label>
+		<keyword>Data Transmission;Fading Channel;Heavy Traffic;High Performance;Information Theoretic Security;Information Theory;Outage Probability;Queue Management;Queueing Analysis;Secure Communication;Wireless Communication Systems;Constant Bit Rate;Information Theoretic;Power Control;Time Sharing;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, the famous wiretap channel has been revisited by many researchers and information theoretic secrecy has become an active area of research in this setting. In this paper, we design a wireless communication system that achieves constant bit rate data transmission over a block fading channel, securely from an eavesdropper that listens to the transmitter over another independent</abstract>
+	</publication>
+</person>

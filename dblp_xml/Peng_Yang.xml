@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peng Yang</FullName>
+	<publication>
+		<title>Applying Fujisaki-Okamoto to Identity-Based Encryption</title>
+		<year>2006</year>
+		<authors>takashi kitagawa,goichiro hanaoka,rui zhang,kanta matsuura,hideki imai</authors>
+		<jconf>Applied Algebra, Algebraic Algorithms and Error-Correcting Codes</jconf>
+		<label>807</label>
+		<keyword>Chosen Ciphertext Attack;Identity Based Encryption;Public Key Encryption;identity based en cryption;</keyword>
+		<organization>null</organization>
+		<abstract>The Fujisaki-Okamoto (FO) conversion is widely known to be able to generically convert a weak public key encryption scheme, say one-way against chosen plaintext attacks (OW-CPA), to a strong one, namely, indistinguishable against adaptive chosen ciphertext attacks (IND-CCA). It is not known that if the same holds for identity-based en- cryption (IBE) schemes, though many IBE and variant schemes are</abstract>
+	</publication>
+	<publication>
+		<title>Generic Transforms to Acquire CCA-Security for Identity Based Encryption: The Cases of FOpkc and REACT</title>
+		<year>2006</year>
+		<authors>takashi kitagawa,goichiro hanaoka,rui zhang,hajime watanabe,kanta matsuura,hideki imai</authors>
+		<jconf>Australasian Conference on Information Security and Privacy</jconf>
+		<label>807</label>
+		<keyword>Chosen Ciphertext Attack;Identity Based Encryption;Public Key Encryption;</keyword>
+		<organization>null</organization>
+		<abstract>Fujisaki-Okamoto (FOpkc) conversion (14) and REACT conversion (18) are widely known to be able to generically convert a weak public key encryption scheme to a strong encryption scheme, i.e., indistinguishable against adaptive chosen ciphertext attacks (IND-CCA). In this paper, we discuss applications of Fujisaki-Okamoto (FOpkc) conversion and REACT conversion to Identity Based Encryptions (IBE). It has not been formally verified</abstract>
+	</publication>
+	<publication>
+		<title>Generic Construction of Stateful Identity Based Encryption</title>
+		<year>2009</year>
+		<authors>rui zhang,kanta matsuura,hideki imai</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>807</label>
+		<keyword>Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relations Among Notions of Security for Identity Based Encryption Schemes</title>
+		<year>2006</year>
+		<authors>nuttapong attrapadung,yang cui,david galindo,goichiro hanaoka,ichiro hasuo,hideki imai,kanta matsuura,rui zhang</authors>
+		<jconf>Latin American Theoretical INformatics</jconf>
+		<label>807</label>
+		<keyword>Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract>This paper shows that the standard security notion for iden- tity based encryption schemes (IBE), that is IND-ID-CCA2, captures the essence of security for allIBE schemes. To achieve this intention, we rst describe formal denitions of the notions of security forIBE, and then present the relations among OW, IND, SS and NM inIBE, along with rigorous proofs. With the aim</abstract>
+	</publication>
+</person>

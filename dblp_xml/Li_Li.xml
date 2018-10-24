@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Li Li</FullName>
+	<publication>
+		<title>A measurement study of Internet bottlenecks</title>
+		<year>2005</year>
+		<authors>ningning hu,zhuoqing morley mao,peter steenkiste,jia wang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>531</label>
+		<keyword>Available Bandwidth;Internet Measurement;Packet Loss;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, Recent advances in Internet measurement tools have made it possible to locate bottleneck links that constrain the available bandwidth of Internet paths. In this paper, we provide a detailed study of Internet path bottlenecks. We focus on the following four aspects: the persistence of bottleneck location, the sharing of bottlenecks among destination clusters, the packet loss and queueing delay</abstract>
+	</publication>
+	<publication>
+		<title>Space-Code Bloom Filter for Efficient Per-Flow Traffic Measurement</title>
+		<year>2004</year>
+		<authors>abhishek kumar,jun xu,jia wang,oliver spatscheck</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>531</label>
+		<keyword>Anomaly Detection;Bloom Filter;Computational Complexity;Data Stream;Data Structure;Elephants;High Speed;Mathematical Analysis;Maximum Likelihood Estimate;Parameter Tuning;Random Sampling;Traffic Engineered;Traffic Flow;Traffic Measurement;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract - Per - flow  traffic  measurement  is  critical  for  usage accounting,  traffic  engineering,  and  anomaly  detection Previ - ous   methodologies   are   either   based   on   random   sampling   (e g Cisco's  NetFlow),  which  is  inaccurate,  or  only  account  for  the &quot;elephants&quot; We introduce a novel  technique for  measuring per - flow traffic approximately, for all flows regardless of their sizes, at</abstract>
+	</publication>
+	<publication>
+		<title>UCAN: a unified cellular and ad-hoc network architecture</title>
+		<year>2003</year>
+		<authors>haiyun luo,ramachandran ramjee,prasun sinha</authors>
+		<jconf>Mobile Computing and Networking</jconf>
+		<label>531</label>
+		<keyword>Ad Hoc Network;Ad Hoc Routing;Mobile Ad Hoc Network;Network Mobility;Peer To Peer;Scheduling Algorithm;Wireless Data;Wireless Links;Wireless Network;Base Station;Low Data Rate;</keyword>
+		<organization>null</organization>
+		<abstract>In third-generation (3G) wireless data networks, mobile users experiencing poor channel quality usually have low data-rate connections with the base-station. Providing service to low data-rate users is required for maintaining fairness, but at the cost of reducing the cell's aggregate throughput. In this paper, we propose the Unified Cellular and Ad-Hoc Network (UCAN) architecture for enhancing cell throughput, while maintaining</abstract>
+	</publication>
+	<publication>
+		<title>IP paging service for mobile hosts</title>
+		<year>2001</year>
+		<authors>ramachandran ramjee,thomas f. la porta,sneha kumar kasera</authors>
+		<jconf>Mobile Computing and Networking</jconf>
+		<label>531</label>
+		<keyword>Mobile Host;Power Management;Quantitative Evaluation;Wireless Lan;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>In wireless networks, mobile hosts must update the network with their current location in order to get packets delivered. Paging facilitates efficient power management at the mobile host by allowing the host to update the networkless frequently at the cost of providing the network with only approximate location information. The network determines the exact location of a mobile host through</abstract>
+	</publication>
+	<publication>
+		<title>Large-Scale IP Traceback in High-Speed Internet: Practical Techniques and Theoretical Foundation</title>
+		<year>2004</year>
+		<authors>jun li,minho sung,jun xu</authors>
+		<jconf>IEEE Symposium on Security and Privacy</jconf>
+		<label>531</label>
+		<keyword>ddos attack;High Speed;ip traceback;Large Scale;Theoretical Foundation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Tracing attack packets to their sources, known as IPtraceback, is an important step to counter distributeddenial-of-service (DDoS) attacks. In this paper, we proposea novel packet logging based (i.e., hash-based) tracebackscheme that requires an order of magnitude smallerprocessing and storage cost than the hash-based schemeproposed by Snoeren et al. [29], thereby being able to scalableto much higher link speed (e.g.,</abstract>
+	</publication>
+</person>

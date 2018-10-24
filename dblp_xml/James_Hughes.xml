@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>James Hughes</FullName>
+	<publication>
+		<title>Integrating AGV Schedules in a Scheduling System for a Flexible Manufacturing Environment</title>
+		<year>1994</year>
+		<authors>pearl pu</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>341</label>
+		<keyword>Flexible Manufacturing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

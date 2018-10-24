@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ashok K. Goel</FullName>
+	<publication>
+		<title>Simulation of ram-based asynchronous sequential circuits</title>
+		<year>1990</year>
+		<authors>apurva kalia</authors>
+		<jconf>ACM Sigsim Simulation Digest</jconf>
+		<label>66</label>
+		<keyword>Sequential Circuits;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Designing a GaAs-based floating-point multiplier</title>
+		<year>2001</year>
+		<authors>jeffrey espenschied,eugene lee</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>67</label>
+		<keyword>Floating Point;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gallium arsenide based floating point adder/subtractor</title>
+		<year>1998</year>
+		<authors>frederick damastra,brent k. jesiek</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>67</label>
+		<keyword>Floating Point;Gallium Arsenide;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A GaAs DCFL implementation of a BCD calculator: An REU project</title>
+		<year>1999</year>
+		<authors>darrin lemmer,szu-wen lin</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>66</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Zero-Temperature-Coefficient Biasing Point of a Fully-Depleted SOI MOSFET</title>
+		<year>2002</year>
+		<authors>terrence h. tan</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>66</label>
+		<keyword>Fully Depleted;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simulation of GaAs MESFET devices using TCAD tools</title>
+		<year>2001</year>
+		<authors>hua ma</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<label>67</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

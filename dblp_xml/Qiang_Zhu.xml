@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qiang Zhu</FullName>
+	<publication>
+		<title>Using CAPTCHAs to Index Cultural Artifacts</title>
+		<year>2010</year>
+		<authors>eamonn j. keogh</authors>
+		<jconf>Intelligent Data Analysis</jconf>
+		<label>836</label>
+		<keyword>Discrete Data;Distance Measure;Image Processing;Indexation;Large Scale;Rock Art;</keyword>
+		<organization>null</organization>
+		<abstract>Rock art, human-made markings on stone, is an important cultural artifact and the earliest expression of abstract thinking. While there are tens of millions of photographs of rock art in existence, there have been no large-scale attempts to organize, classify or cluster them. This omission is not due to a lack of interest, but reflects the extraordinary difficultly of extracting</abstract>
+	</publication>
+	<publication>
+		<title>Augmenting the generalized hough transform to enable the mining of petroglyphs</title>
+		<year>2009</year>
+		<authors>xiaoyue wang,eamonn j. keogh,sang-hee lee</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>836</label>
+		<keyword>Data Mining;Distance Measure;Generalized Hough Transform;Image Processing;Information Retrieval;Rock Art;Similarity Search;North America;</keyword>
+		<organization>null</organization>
+		<abstract>Rock art is an archaeological term for human-made markings on stone. It is believed that there are millions of petroglyphs in North America alone, and the study of this valued cultural resource has implications even beyond anthropology and history. Surprisingly, although image processing, information retrieval and data mining have had large impacts on many human endeavors, they have had essentially</abstract>
+	</publication>
+	<publication>
+		<title>Exact Discovery of Time Series Motifs</title>
+		<year>2009</year>
+		<authors>abdullah mueen,eamonn j. keogh,sydney cash,m. brandon westover</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>836</label>
+		<keyword>Approximate Algorithm;Case Study;Computational Biology;Data Mining;Data Mining Algorithm;Duplicate Detection;Exact Algorithm;large dataset;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>Time series motifs are pairs of individual time series, or subsequences of a longer time series, which are very similar to each other. As with their discrete analogues in computational biology, this similarity hints at structure which has been conserved for some reason and may therefore be of interest. Since the formalism of time series motifs in 2002, dozens of</abstract>
+	</publication>
+	<publication>
+		<title>Edge-bipancyclicity of star graphs under edge-fault tolerant</title>
+		<year>2006</year>
+		<authors>min xu,xiao-dong hu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>837</label>
+		<keyword>Fault Tolerant;Interconnection Network;Star Graph;</keyword>
+		<organization>null</organization>
+		<abstract>The star graph Sn is one of the most famous interconnection networks. It has been shown by Li (T.-K. Li, Cycle embed- ding in star graphs with edge faults, Appl. Math. Comput. 167 (2005) 891-900) that Sn contains a cycle of length from 6 to n! when the number of fault edges in the graph does not exceed n� 3.</abstract>
+	</publication>
+	<publication>
+		<title>Edge fault tolerance analysis of a class of interconnection networks</title>
+		<year>2006</year>
+		<authors>jun-ming xu,lv min</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>837</label>
+		<keyword>Fault Tolerant;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract>Fault tolerant measures have played an important role in the reliability of an inter- connection network. Edge connectivity, restricted-edge-connectivity, extra-edge-connec- tivity and super-edge-connectivity of many well-known interconnection networks have been explored. In this paper, we study the 2-extra-edge connectivity of a special class of graphs G(G0, G1; M) proposed by Chen et al. (Appl. Math. Comput. 140 (2003) 245- 254).</abstract>
+	</publication>
+	<publication>
+		<title>The super connectivity of shuffle-cubes</title>
+		<year>2005</year>
+		<authors>jun-ming xu,min xu</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>837</label>
+		<keyword>Combinatorial Problems;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract</abstract>
+	</publication>
+	<publication>
+		<title>Fault-tolerant analysis of a class of networks</title>
+		<year>2007</year>
+		<authors>jun-ming xu,min xu</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>837</label>
+		<keyword>Combinatorial Problems;Fault Tolerant;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we explore the 2-extraconnectivity of a special class of graphs G(G0 ,G 1; M)proposed by Chen et al. (Y.-C. Chen, J.J.M. Tan, L.-H. Hsu, S.-S. Kao, Super-connectivity and super edge-connectivity for some interconnection networks, Applied Mathematics and Computation 140 (2003) 245-254). As applications of the results, we obtain that the 2-extraconnectivities of several well-known interconnection networks, such</abstract>
+	</publication>
+	<publication>
+		<title>Local diagnosability of generic star-pyramid graph</title>
+		<year>2009</year>
+		<authors>qi-yan zhou,san-yang liu</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>837</label>
+		<keyword>General Star;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On conditional diagnosability of the folded hypercubes</title>
+		<year>2008</year>
+		<authors>san-yang liu,min xu</authors>
+		<jconf>Information Sciences</jconf>
+		<label>837</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Abstract</abstract>
+	</publication>
+	<publication>
+		<title>On reliability of the folded hypercubes</title>
+		<year>2007</year>
+		<authors>jun-ming xu,xinmin hou,min xu</authors>
+		<jconf>Information Sciences</jconf>
+		<label>837</label>
+		<keyword>Fault Tolerant;Large Scale;Parallel Processing;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we explore the 2-extra connectivity and 2-extra-edge-connectivity of the folded hypercube FQn. We show that j2(FQn )=3 n � 2 for n P 8; and k2(FQn )=3 n � 1 for n P 5. That is, for n P 8 (resp. n P 5), at least 3n � 2 vertices (resp. 3n � 1 edges) of FQn</abstract>
+	</publication>
+</person>

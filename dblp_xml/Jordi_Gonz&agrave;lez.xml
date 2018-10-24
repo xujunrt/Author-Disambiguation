@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jordi Gonz&amp;agrave;lez</FullName>
+	<publication>
+		<title>IndexTV: a MPEG7 based personalized recommendation system for digital TV</title>
+		<year>2004</year>
+		<authors>marc rovira,alejandro lópez,jordi mas,albert puig,jordi fabregat,gabriel fernandez</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>439</label>
+		<keyword>Content Delivery;Digital Television;Digital Tv;recommender system;</keyword>
+		<organization>null</organization>
+		<abstract>Digital television is a reality providing new facilities for multimedia content delivery. Due to the large amount of available content from multiple broadcasters, the use of personalized recommendation techniques can help the user in the process of consuming A/V content. The viewer, who is actually a passive subject, will be changed into an active one, who will be able to</abstract>
+	</publication>
+</person>

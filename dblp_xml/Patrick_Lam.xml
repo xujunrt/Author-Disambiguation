@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Patrick Lam</FullName>
+	<publication>
+		<title>Design of Walking Gaits for Tao-Pie-Pie, a Small Humanoid Robot</title>
+		<year>2003</year>
+		<authors>jacky baltes</authors>
+		<jconf>RoboCup</jconf>
+		<label>797</label>
+		<keyword>Autonomous Robot;Humanoid Robot;International Competitiveness;and Forward;Left Right;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. This paper describes the methodology,that we used to design and im- plement balancing and walking gaits for TAO-PIE-PIE, a small 30cm tall hu- manoid robot. TAO-PIE-PIE is a fully autonomous robot with all power, sensing, and processing done on-board. It is also a minimalistic design with only six de- grees of freedom. Nevertheless, its performance is comparable to that</abstract>
+	</publication>
+	<publication>
+		<title>Design of walking gaits for Tao-Pie-Pie, a small humanoid robot</title>
+		<year>2004</year>
+		<authors>jacky baltes</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>797</label>
+		<keyword>Humanoid Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

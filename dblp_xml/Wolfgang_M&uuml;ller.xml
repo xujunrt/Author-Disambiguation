@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wolfgang M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Image Data Source Selection Using Gaussian Mixture Models</title>
+		<year>2007</year>
+		<authors>soufyane el allali,daniel blank,andreas henrich</authors>
+		<jconf>Adaptive Multimedia Retrieval</jconf>
+		<label>1094</label>
+		<keyword>Gaussian Mixture Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Aspects of Adaptivity in P2P Information Retrieval</title>
+		<year>2006</year>
+		<authors>andreas henrich,martin eisenhardt</authors>
+		<jconf>Adaptive Multimedia Retrieval</jconf>
+		<label>1094</label>
+		<keyword>Information Retrieval;Multimedia Retrieval;P2P;P2p Networks;Peer To Peer;Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract>Peer-to-Peer networks are comprised of multiple indepen- dently administered computers (peers) that cooperate via a common protocol in order to achieve a goal common to the peers. Helping the user find relevant information in a P2P network is the subject of the field of Peer-to-Peer IR. In order to be successful, a P2P-IR system needs to be adaptive in several</abstract>
+	</publication>
+	<publication>
+		<title>Scalable summary based retrieval in P2P networks</title>
+		<year>2005</year>
+		<authors>martin eisenhardt,andreas henrich</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1094</label>
+		<keyword>Index Structure;P2P;P2p Networks;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract>Much of the present P2P-IR literature is focused on distributed indexing structures. Within this paper, we present an approach based on the replication of peer data summaries via rumor spreading and multicast in a structured overlay.We will describe Rumorama, a P2P framework for similar-ity queries inspired by GlOSS and CORI and their P2P-adaptation, PlanetP. Rumorama achieves a hierarchization of PlanetP-like</abstract>
+	</publication>
+	<publication>
+		<title>Faster Exact Histogram Intersection on Large Data Collections Using Inverted VA-Files</title>
+		<year>2004</year>
+		<authors>andreas henrich</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>1094</label>
+		<keyword>Large Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reducing I/O Cost of Similarity Queries by Processing Several at a Time</title>
+		<year>2004</year>
+		<authors>andreas henrich</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1094</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Classifying Documents by Distributed P2P Clustering</title>
+		<year>2003</year>
+		<authors>martin eisenhardt,andreas henrich</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>1094</label>
+		<keyword>Information Retrieval;Large Scale System;P2P;P2p Networks;Peer To Peer;Short Form;</keyword>
+		<organization>null</organization>
+		<abstract>Clustering documents into classes is an important task in many Information Retrieval (IR) systems. This achieved grouping enables a description of the contents of the document collection in terms of the classes the documents fall into. The com- pactness of such a description is even more desirable in cases where the document collection is spread across different computers and locations;</abstract>
+	</publication>
+	<publication>
+		<title>Parameters in P2P-IR</title>
+		<year>2006</year>
+		<authors>andreas henrich</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>1094</label>
+		<keyword>P2P;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Benchmarking In Content-Based Image Retrieval</title>
+		<year>2001</year>
+		<authors>henning müller,david mcg. squire</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>1094</label>
+		<keyword>Access Method;Content Based Image Retrieval;Multimedia Retrieval;Performance Comparison;Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract>Benchmarking has always been a crucial problem in content-based image retrieval (CBIR). A key issue is the lack of a common access method to retrieval systems, such as SQL for relational databases. The Multimedia Retrieval Mark-up Language (MRML) solves this problem by standardizing access to CBIR systems (CBIRSs). Other difficult problems are also shortly addressed, such as obtaining relevance judgments</abstract>
+	</publication>
+	<publication>
+		<title>Strategies for Positive and Negative Relevance Feedback in Image Retrieval</title>
+		<year>2000</year>
+		<authors>henning müller,stéphane marchand-maillet,thierry pun,david mcg. squire</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>1094</label>
+		<keyword>Content Based Image Retrieval;Image Retrieval;Negative Feedback;Relevance Feedback;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Relevance feedback has been shown to be a very effec- tive tool for enhancing retrieval results in text retrieval. In content-based image retrieval it is more and more fre- quently used and very good results have been obtained. However, too much negative feedback may destroy a query as good features get negative weightings. This paper compares a variety of strategies</abstract>
+	</publication>
+	<publication>
+		<title>Clustering-Based Source Selection for Efficient Image Retrieval in Peer-to-Peer Networks</title>
+		<year>2006</year>
+		<authors>martin eisenhardt,andreas henrich,daniel blank,soufyane el allali</authors>
+		<jconf>International Symposium on Multimedia</jconf>
+		<label>1094</label>
+		<keyword>Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning Feature Weights from User Behavior in Content-Based Image Retrieval</title>
+		<year>2000</year>
+		<authors>henning müller,david mcg. squire</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1094</label>
+		<keyword>Content Based Image Retrieval;Feature Weighting;User Behavior;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Designing Benchmarks for the Evaluation of Peer-to-Peer Informational Retrieval Systems</title>
+		<year>2008</year>
+		<authors>daniel blank,andreas henrich</authors>
+		<jconf>Lernen, Wissensentdeckung und Adaptivit?t</jconf>
+		<label>1094</label>
+		<keyword>Information Retrieval System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sample-based creation of peer summaries for efficient similarity search in scalable peer-to-peer networks</title>
+		<year>2007</year>
+		<authors>daniel blank,soufyane el allali,andreas henrich</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>1094</label>
+		<keyword>Feature Vector;Image Features;Indexation;P2P;P2p Networks;P2p System;Peer-to-peer Network;Similarity Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we introduce a simple yet experimentally convincing approach in the research field of source selection for content-based similarity search in P2P networks or, more concretely, in summary-based P2P systems. In these systems, summaries are used for data source selection when performing k-NN queries on distributed collections of documents represented by feature vectors. We introduce a new type</abstract>
+	</publication>
+	<publication>
+		<title>Fast retrieval of high-dimensional feature vectors in P2P networks using compact peer data summaries</title>
+		<year>2005</year>
+		<authors>martin eisenhardt,andreas henrich</authors>
+		<jconf>Multimedia Systems</jconf>
+		<label>1094</label>
+		<keyword>Feature Vector;High Dimensionality;P2p Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Image Similarity Queries in P2P Systems</title>
+		<year>2006</year>
+		<authors>p. oscar boykin,nima sarshar,vwani p. roychowdhury</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1094</label>
+		<keyword>Color Histogram;Distributed Hash Table;High Speed;Image Search;Image Similarity;Large Scale;P2p System;Peer To Peer;High End Computing;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Given some of the recent advances in Distributed Hash Table (DHT) based Peer-To-Peer (P2P) systems we ask the following questions: Are there applications where unstructured queries are still necessary (i.e., the underlying queries do not efficiently map onto any structured framework), and are there unstructured P2P systems that can deliver the high bandwidth and com- puting performance necessary to support</abstract>
+	</publication>
+	<publication>
+		<title>An open framework for distributed multimedia retrieval</title>
+		<year>2000</year>
+		<authors>henning müller,david mcg. squire,zoran pecenovic,stéphane marchand-maillet</authors>
+		<jconf>Recherche d'Information Assistee par Ordinateur</jconf>
+		<label>1094</label>
+		<keyword>Communication Protocol;Distributed Multimedia;Markup Language;Multimedia Retrieval;Query By Example;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>This article describes a framework for distributed multimedia retrieval which permits theconnection of compliant user interfaces with a variety of multimedia retrieval engines via anopen communication protocol, MRML (Multi Media Retrieval Markup Language). It allowsthe choice of image collection, feature set and query algorithm during run{time, permittingmultiple users to query a system adapted to their needs, using the query paradigm</abstract>
+	</publication>
+	<publication>
+		<title>MRML: A Communication Protocol for Content-Based Image Retrieval</title>
+		<year>2000</year>
+		<authors>henning müller,stéphane marchand-maillet,thierry pun,david mcg. squire,zoran pecenovic,christoph giess,arjen p. de vries</authors>
+		<jconf>Visual Information and Information Systems</jconf>
+		<label>1094</label>
+		<keyword>Communication Protocol;Content Based Image Retrieval;Performance Evaluation;Standardisation;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>. In this paper we introduce and describe the Multimedia RetrievalMarkup Language (MRML). This XML-based markup languageis the basis for an open communication protocol for content-based imageretrieval systems (CBIRSs). MRML was initially designed as a means ofseparating CBIR engines from their user interfaces. It is, however, alsoextensible as the basis for standardised performance evaluation procedures.Such a tool is essential for</abstract>
+	</publication>
+	<publication>
+		<title>Relevance Feedback and Term Weighting Schemes for Content-Based Image Retrieval</title>
+		<year>1999</year>
+		<authors>david mcg. squire,henning müller</authors>
+		<jconf>Visual Information and Information Systems</jconf>
+		<label>1094</label>
+		<keyword>Content Based Image Retrieval;Image Database;Relevance Feedback;Term Weighting;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of image similarity queries in P2P systems</title>
+		<year>2008</year>
+		<authors>p. oscar boykin,vwani p. roychowdhury,nima sarshar</authors>
+		<jconf>Computer Communications</jconf>
+		<label>1094</label>
+		<keyword>Image Similarity;P2p System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Image Similarity Queries in P2P Systems</title>
+		<year>2006</year>
+		<authors>p. oscar boykin,nima sarshar,vwani p. roychowdhury</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1094</label>
+		<keyword>Color Histogram;Distributed Hash Table;High Speed;Image Search;Image Similarity;Large Scale;P2p System;Peer To Peer;High End Computing;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Given some of the recent advances in Distributed Hash Table (DHT) based Peer-To-Peer (P2P) systems we ask the following questions: Are there applications where unstructured queries are still necessary (i.e., the underlying queries do not efficiently map onto any structured framework), and are there unstructured P2P systems that can deliver the high bandwidth and com- puting performance necessary to support</abstract>
+	</publication>
+	<publication>
+		<title>Inhaltsbasierte Suche in P2P-Systemen</title>
+		<year>2005</year>
+		<authors>martin eisenhardt,andreas henrich</authors>
+		<jconf>Datenbank-spektrum</jconf>
+		<label>1094</label>
+		<keyword>P2P;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering-Based, Load Balanced Source Selection for CBIR in P2P Networks</title>
+		<year>2008</year>
+		<authors>martin eisenhardt,daniel blank,soufyane el allali,andreas henrich</authors>
+		<jconf>International Journal of Semantic Computing</jconf>
+		<label>1094</label>
+		<keyword>Load Balance;P2p Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating image browsers using structured annotation</title>
+		<year>2001</year>
+		<authors>stéphane marchand-maillet,henning müller,david mc g. squire,thierry pun</authors>
+		<jconf>Journal of The American Society for Information Science and Technology</jconf>
+		<label>1094</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast retrieval of high-dimensional feature vectors in P2P networks using compact peer data summaries</title>
+		<year>2005</year>
+		<authors>martin eisenhardt,andreas henrich</authors>
+		<jconf>Multimedia Systems</jconf>
+		<label>1094</label>
+		<keyword>Feature Vector;High Dimensionality;P2p Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework for Benchmarking in CBIR</title>
+		<year>2003</year>
+		<authors>henning müller,stéphane marchand-maillet,thierry pun,david mcg. squire</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>1094</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance evaluation in content-based image retrieval: overview and proposals</title>
+		<year>2001</year>
+		<authors>henning müller,david mcg. squire,stéphane marchand-maillet,thierry pun</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>1094</label>
+		<keyword>Content Based Image Retrieval;Image Database;Performance Comparison;Performance Evaluation;Performance Measure;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Content-based query of image databases: inspirations from text retrieval</title>
+		<year>2000</year>
+		<authors>david mcg. squire,henning müller,thierry pun</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>1094</label>
+		<keyword>Content Based Image Retrieval;Data Structure;Feature Space;High Dimensionality;Image Database;Relevance Feedback;System Performance;Text Retrieval;Texture Features;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper reports the application of techniques inspired by text retrieval research to content-based image,retrieval. In particular, we show how the use of an inverted file data structure permits the use of an extremely high-dimensional feature-space, by restricting search to the subspace spanned by the features present in the query. A suitably sparse set of colour and texture features</abstract>
+	</publication>
+	<publication>
+		<title>Peer-To-Peer Technology for Interconnecting Web Services in Heterogeneous Networks</title>
+		<year>2004</year>
+		<authors>tim schattkowsky,christoph loeser</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>1095</label>
+		<keyword>Collaborative Work;Heterogeneous Network;Peer To Peer;Peer-to-peer Technology;Software Component;Transport Protocol;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>The interconnection of software components is a key to enabling collaborative work. However, technology differences and security barriers like firewalls often hinder establishing collaborative infrastructures between enterprises or even within a single enterprise. We introduce a peer-to-peer based network infrastructure that transparently overcomes these problems using relay and routing mechanisms as well as different underlying transport protocols. We discuss the</abstract>
+	</publication>
+	<publication>
+		<title>Introduction to hardware-dependent software design hardware-dependent software for multi and many-core embedded systems</title>
+		<year>2009</year>
+		<authors>rainer dömer,andreas gerstlauer</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>1095</label>
+		<keyword>Embedded System;Research and Development;Software Design;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the rapidly increasing software content in embedded systems, Hardware-dependent Software (HdS) has become a critical topic in system design. In this paper, we provide a brief overview on the topic of HdS, discuss the issues and complexities involved in the design of HdS, and motivate the need for special attention to HdS in research and development.</abstract>
+	</publication>
+	<publication>
+		<title>TestML - A Test Exchange Language for Model-Based Testing of Embedded Software</title>
+		<year>2006</year>
+		<authors>juergen grossmann,ines fey,alexander krupp,mirko conrad,christian wewetzer</authors>
+		<jconf>Automotive Software Workshop</jconf>
+		<label>1095</label>
+		<keyword>Analytical Method;Automotive Industry;Code Generation;Development Process;Embedded Software;Levels of Abstraction;Model Specification;model-based development;Model Based Testing;Xml Schema;Electronic Control Unit;Hardware In The Loop;Interchange Format;</keyword>
+		<organization>null</organization>
+		<abstract>Test processes in the automotive industry are tool-intensive and af- fected by technologically heterogeneous test infrastructures. In the industrial practice a product has to pass several test levels such as Model-in-the-Loop- (MIL), Software-in-the-Loop- (SIL) and Hardware-in-the-Loop- (HIL) tests. Normally, different test systems are applied for this purpose and almost each test system has its individual requirements on the test description</abstract>
+	</publication>
+	<publication>
+		<title>RTOS-aware refinement for TLM2.0based HW/SW designs</title>
+		<year>2010</year>
+		<authors>markus becker,giuseppe di guglielmo,franco fummi,graziano pravadelli,tao xie</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Design Process;Device Driver;Timing Analysis;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Refinement of untimed TLM models into a timed HW/SW platform is a step by step design process which is a trade-off between timing accuracy of the used models and correct estimation of the final timing performance. The use of an RTOS on the target platform is mandatory in the case real-time properties must be guaranteed. Thus, the question is when</abstract>
+	</publication>
+	<publication>
+		<title>Timing modeling and analysis for AUTOSAR-based software development - a case study</title>
+		<year>2010</year>
+		<authors>kay klobedanz,christoph kuznik,andreas thuy</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Case Study;Development Process;Modeling and Analysis;Software Development;Hard Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Safety-critical automotive systems must fulfill hard real-time constraints for reliability and safety. This paper presents a case study for the application of an AUTOSAR-based language for timing modeling and analysis. We present and apply the Timing Augmented Description Language (TADL) and demonstrate a methodology for the development of a speed-adaptive steer-by-wire system. We examine the impact of TADL and the</abstract>
+	</publication>
+	<publication>
+		<title>A systematic approach to the test of combined HW/SW systems</title>
+		<year>2010</year>
+		<authors>alexander krupp</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Control System;Embedded System;Requirement Specification;Classification Tree Method;</keyword>
+		<organization>null</organization>
+		<abstract>Today we can identify a big gap between requirement specification and the generation of test environments. This article extends the Classification Tree Method for Embedded Systems (CTM/ES) to fill this gap by new concepts for the precise specification of stimuli for operational ranges of continuous control systems. It introduces novel means for continuous acceptance criteria definition and for functional coverage</abstract>
+	</publication>
+	<publication>
+		<title>Classification trees for random tests and functional coverage</title>
+		<year>2006</year>
+		<authors>alexander krupp</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Classification Tree;Embedded System;Functional Verification;Random Testing;Before Present;Classification Tree Method;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents the classification tree method for functional verification to close the gap from the specifica-tion of a test plan to SystemVerilog [1] testbench genera-tion. Our method supports the systematic development of test configurations and is based on the classification tree method for embedded systems (CTM/ES) [2] extending CTM/ES for random test generation as well as for func-tional coverage</abstract>
+	</publication>
+	<publication>
+		<title>Formal Refinement and Model Checking of an Echo Cancellation Unit</title>
+		<year>2004</year>
+		<authors>alexander krupp,ian oliver</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Echo Cancellation;Model Checking;State Diagram;Theorem Prover;Theorem Proving;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents an approach, which combines theorem proving-based refinement with model checking for state based real-time systems. Our verification flow starts from UML state diagrams, which are translated to the formal B language and are model checked for real-time properties. By means of the B language and a B theorem prover, refined state diagrams are verified against their abstract</abstract>
+	</publication>
+	<publication>
+		<title>Closing the gap between UML-based modeling, simulation and synthesis of combined HW/SW systems</title>
+		<year>2010</year>
+		<authors>fabian mischkalla,da he</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Case Study;Code Generation;Model Simulation;uml profile;system on a chip;</keyword>
+		<organization>null</organization>
+		<abstract>UML is widely applied for the specification and modeling of software and some studies have demonstrated that it is applicable for HW/SW codesign. However, in this area there is still a big gap from UML modeling to SystemC-based verification and synthesis environments. This paper presents an efficient approach to bridge this gap in the context of Systems-on-a-Chip (SoC) design. We</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Tool Integration in Heterogeneous Computer Networks</title>
+		<year>2003</year>
+		<authors>tim schattkowsky,heinz-josef eikerling,jan wegner</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Design Tool;Dynamic Networks;Heterogeneous Computing;Printed Circuit Board;Tool Integration;</keyword>
+		<organization>null</organization>
+		<abstract>Tool installation and automation of administrative tasks in heterogeneous computer networks becomes of increasing importance with the availability of complex heterogeneous computer networks. This article introduces a new approach for dynamic network tool management, i.e., TRMS. A variant of TRMS using SNMP - a well established standard for network administration � is outlined and illustrated by the application of the</abstract>
+	</publication>
+	<publication>
+		<title>Assertion-based verification of RTOS properties</title>
+		<year>2010</year>
+		<authors>marcio f. s. oliveira,henning zabel</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Embedded Real-time Systems;Real Time Operating System;Timing Analysis;Assertion Based Verification;Instruction Set Simulator;</keyword>
+		<organization>null</organization>
+		<abstract>Today, mobile and embedded real time systems have to cope with the migration and allocation of multiple software tasks running on top of a real time operating system (RTOS) residing on one or several processors. For scaling of each task set and processor configuration, instruction set simulation and worst case timing analysis are typically applied. This paper presents a complementary</abstract>
+	</publication>
+	<publication>
+		<title>The simulation semantics of systemC</title>
+		<year>2001</year>
+		<authors>jürgen ruf,dirk w. hoffmann,joachim gerlach,thomas kropf,w. rosenstiehl</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Abstract State Machine;Formal Semantics;</keyword>
+		<organization>null</organization>
+		<abstract>We present a rigorous but transparent semantics defini- tion of SystemC that covers method, thread, and clocked thread behavior as well as their interaction with the sim- ulation kernel process. The semantics includes watching statements, signal assignment, and wait statements as they are introduced in SystemC V1.0. We present our definition in form of distributed Abstract State Machines (ASMs) rules</abstract>
+	</publication>
+	<publication>
+		<title>Model-Based Specification and Execution of Embedded Real-Time Systems</title>
+		<year>2004</year>
+		<authors>tim schattkowsky</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Code Generation;Embedded Real-time Systems;Embedded System Design;Real Time Operating System;</keyword>
+		<organization>null</organization>
+		<abstract>Embedded systems design comes in different variations and is most often due to the specific application or project [1]. Sometimes, graphical means like StateCharts or Matlab/Simulink are applied for graphical specification. Code generators target for different micro controllers such as C166 and different Real-Time Operating Systems (RTOSs) like OSEK. There have been efforts to investigate retargetable compilers to easily adopt</abstract>
+	</publication>
+	<publication>
+		<title>A Model-Based Approach for Executable Specifications on Reconfigurable Hardware</title>
+		<year>2005</year>
+		<authors>tim schattkowsky,achim rettberg</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Electronic Design Automation;Embedded Software;Executable Specification;Hardware Design;hardware-software co-design;model-based approach;reconfigurable hardware;Sequence Diagram;Software Systems;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>UML 2.0 provides a rich set of diagrams for systems documentation and specification. Many efforts have been undertaken to employ different aspects of UML for multiple domains, mainly in the area of software systems. Considering the area of electronic design automation, however, we currently see only very few approaches, which investigate UML for hardware design and hardware/software co-design. In this</abstract>
+	</publication>
+	<publication>
+		<title>A UML frontend for IP-XACT-based IP management</title>
+		<year>2009</year>
+		<authors>tim schattkowsky,tao xie</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>uml profile;Register Transfer Level;</keyword>
+		<organization>null</organization>
+		<abstract>IP-XACT is a well accepted standard for the exchange of IP components at Electronic System and Register Transfer Level. Still, the creation and manipulation of these descriptions at the XML level can be time-consuming and error-prone. In this paper, we show that the UML can be consistently applied as an efficient and comprehensible frontend for IP-XACT-based IP description and integration.</abstract>
+	</publication>
+	<publication>
+		<title>Increased accuracy through noise injection in abstract RTOS simulation</title>
+		<year>2009</year>
+		<authors>henning zabel</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1095</label>
+		<keyword>Embedded Real-time Systems;Random Times;Real Time Operating System;Timing Analysis;Instruction Set Simulator;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Today, mobile and embedded real-time systems have to cope with the migration and allocation of multiple software tasks running on top of a real-time operating system (RTOS) residing on one or multiple system processors. Abstract RTOS simulations and timing analysis applies for fast and early estimation to configure it towards the individual needs of the application and environment. In this</abstract>
+	</publication>
+	<publication>
+		<title>Secure Profile Management in Smart Home Networks</title>
+		<year>2005</year>
+		<authors>max ziegler,robbie schaefer,chris loeser</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>1095</label>
+		<keyword>Middleware;Mobile Device;Smart Home;User Profile;</keyword>
+		<organization>null</organization>
+		<abstract>Currently, middleware for smart home networks with em- bedded and mobile devices are in the focus of several inves- tigations. In this paper, we propose a middleware for se- cure management of device and user profiles by integrating a profile database with a generic authentication scheme for an X.509 enabled ticket management in the context of the OSGi framework. After</abstract>
+	</publication>
+	<publication>
+		<title>Specification and Formal Verification of Temporal Properties of Production Automation Systems</title>
+		<year>2004</year>
+		<authors>stephan flake,ulrich pape,jürgen ruf</authors>
+		<jconf>DFG Projects</jconf>
+		<label>1095</label>
+		<keyword>Automated Guided Vehicle;Case Study;Formal Semantics;Formal Verification;Manufacturing System;Object Constraint Language;Specification and Verification;State Diagram;Temporal Properties;Unified Modeling Language;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This article describes our approach for the specification and verification of pro- duction automation systems with real-time properties. We focus on the graphical MFERT notation and RT-OCL (Real-Time Object Constraint Language) for the specification of state-oriented real-time properties. RT-OCL is an extension of the Object Constraint Language (OCL) that is part of the Unified Modeling Language (UML). We introduce the</abstract>
+	</publication>
+	<publication>
+		<title>A generic system for interactive real-time animation</title>
+		<year>1997</year>
+		<authors>marita dücker,georg lehrenfeld,christoph tahedl</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>1095</label>
+		<keyword>Interaction Design;Interactive Animation;Real-time Animation;Visual Language;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new approach to an interactive design andanalysis environment for visual languages. The main components,i.e., editor, animator, and interpreter, are introduced.Their interactions are being investigated emphasizingthe interpreter--animator interaction and defining an interfacesupporting different levels of automation. The interpreterperforms the executions on a logical level and triggersthe animator. The interactive animation provides avery high degree in liveness since it...</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Dialog Model for the Design of Multimodal User Interfaces</title>
+		<year>2004</year>
+		<authors>robbie schaefer,steffen bleul</authors>
+		<jconf>Engineering for Human-Computer Interaction</jconf>
+		<label>1095</label>
+		<keyword>Interaction Model;Interface Design;model-based approach;multimodal interaction;multimodal user interface;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>The wide range of different devices with varying capabilities and interaction modalities as well as changing user context in nomadic applications, poses critical challenges to the design of user interfaces. In order to avoid multiple designs for each device or modality, it is al- most a must to employ a model-based approach. In this short paper we present a new</abstract>
+	</publication>
+	<publication>
+		<title>The semantics of behavioral VHDL '93 descriptions</title>
+		<year>1994</year>
+		<authors>egon börger,uwe glässer</authors>
+		<jconf>European Design and Test Conference</jconf>
+		<label>1095</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparing Transcoding Tools for Use with a Generic User Interface Format</title>
+		<year>2002</year>
+		<authors>johan plomp,robbie schaefer</authors>
+		<jconf>Extreme Markup Languages?</jconf>
+		<label>1095</label>
+		<keyword>Extensible Markup Language;Markup Language;User Interface;User Interface Markup Language;</keyword>
+		<organization>null</organization>
+		<abstract>This paper compares the use of three different approaches to transcoding of XML (Extensible Markup Language)-based user interface descriptions to other target formats. The source is the interface section of the XML-based markup language for user interfaces, UIML (User Interface Markup Language), which has been extended with a vocabulary for the description of generic user interfaces. Target formats used as</abstract>
+	</publication>
+	<publication>
+		<title>Combining Formal Refinement and Model Checking for Real-Time Systems Verification</title>
+		<year>2003</year>
+		<authors>alexander krupp</authors>
+		<jconf>Forum on specification &amp; Design Languages</jconf>
+		<label>1095</label>
+		<keyword>Finite State Machine;Model Checking;Theorem Prover;User Interaction;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>We present a framework, which combines model checking and theorem prover based refinement for real-time systems design focusing on the refinement of non deterministic state orineted to timed state oriented models. Our verification flow starts from a cycle accurate finite state machine for the RAVEN model checker. We present a translation, which transforms the model into efficient B language code.</abstract>
+	</publication>
+	<publication>
+		<title>Innovative Concepts for Configuring Shared Workspaces through Visual Programming</title>
+		<year>1999</year>
+		<authors>marita dücker,jessica rubart</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Distributed Work;Shared Workspace;Software Systems;Visual Programming;</keyword>
+		<organization>null</organization>
+		<abstract>CSCW systems like BSCW (Basic Support for CooperativeWork), HyperNews, and Lotus Notes have been successfullyintroduced to support the cooperation ofgeographically distributed work groups. Unfortunately,some of these software systems are not flexible enough tobe customized easily to the requirements of an individualuser. Most of the environments can only be configured byexperts through complex programming.In this article we introduce VIPspace, a shared</abstract>
+	</publication>
+	<publication>
+		<title>Specification of Real-Time Properties for UML Models</title>
+		<year>2002</year>
+		<authors>stephan flake</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Object Constraint Language;Unified Modeling Language;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The Unified Modeling Language (UML) has receivedwide acceptance as a standard language in the field of softwarespecification by means of different diagram types. In arecent version of UML, the textual Object Constraint Language(OCL) was introduced to support specification ofconstraints for UML models. But OCL currently does notprovide sufficient means to specify constraints over the dynamicbehavior of a model.This article presents</abstract>
+	</publication>
+	<publication>
+		<title>Visual Specification, Modelling, and Illustration of Complex Systems</title>
+		<year>1999</year>
+		<authors>christian geiger,georg lehrenfeld</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Complex System;Concurrent Systems;Customer Orientation;Programming Language;</keyword>
+		<organization>null</organization>
+		<abstract>This article introduces and discusses different innovativemeans for visual specification and animation ofcomplex concurrent systems. We introduce the completelyvisual programming language Pictorial Janus(PJ) and its application in the customer-oriented designprocess. PJ implements a completely visual programminglanguage with inherent animation facilities.We outline the transformation of purely visual PJ programsinto textual imperative programming languages.The second part of this...</abstract>
+	</publication>
+	<publication>
+		<title>Peer-to-Peer Networks for Virtual Home Environments</title>
+		<year>2003</year>
+		<authors>chris loeser,frank berger,heinz-josef eikerling</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Home Network;P2P;Peer To Peer;Peer-to-peer Network;Virtual Environment;Virtual Home Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an approach to extend OSGiserver based home networks with JXTA's peer-to-peer (P2P) technology to a multi-server home envi-ronment connecting multiple private home networksto one true virtual environment for communication,media sharing/exchange, and distributed device con-trol. We elaborate on the basic integration methodologyand extend it to a general, security preserving,architectural concept based on a two level integrationconcept for inhome</abstract>
+	</publication>
+	<publication>
+		<title>A Language for the Rapid Prototyping of Mobile Evolving Agents</title>
+		<year>2001</year>
+		<authors>arne meyer,henning zabel</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Rapid Prototyping;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents SAL, a general purpose scriptinglanguage for the rapid development of distributedsoftware agents seamlessly embedded a visual environment.Integrated facilities for dynamic visualizationprovide simple but powerful means for debugging anddomain-oriented animation. SAL agents are arrangedon a set of 2D worksheets which can be distributed overdierent machines. An agent's program is dened bythe means of a table specifying a set</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Multimodal User Interfaces for Mobile Devices</title>
+		<year>2004</year>
+		<authors>robbie schaefer,steffen bleul</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Crossed Product;Mobile Device;multimodal interaction;multimodal user interface;Specification Language;Speech Recognition;Speech Synthesis;User Interaction;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Portable devices come with different individual limitations in user interaction like limited display size, small keyboard and different sorts of input and output channels. With the advancementof speech recognition and speech synthesis technologies, their optionals or alternatives become feasible and attractive for mobile devices in order to implement real multimodal user interaction. However, current systems and formats do not sufficiently</abstract>
+	</publication>
+	<publication>
+		<title>Fuzzy Rules for HTML Transcoding</title>
+		<year>2002</year>
+		<authors>robbie schaefer,andreas dangberg</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1095</label>
+		<keyword>Document Object Model;Fuzzy Rule Base;Fuzzy Rules;Mobile Device;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>With the increasing availability of Web-enabled mobile devices, we are facing the problem to effectively adapt Web content for those devices. For adaptation, Web page struc- tures require rearrangement, i.e., transcoding, to better fit on small displays when layout-specific HTML structures like tables and frames are used. In this article, we present a Fuzzy rule-based language, i.e., Fuzzy-RDL/TT. Fuzzy- RDL/TT</abstract>
+	</publication>
+	<publication>
+		<title>Development of Automotive Communication Based Real-Time Systems - A Steer-by-Wire Case Study</title>
+		<year>2009</year>
+		<authors>kay klobedanz,christoph kuznik,ahmed elfeky</authors>
+		<jconf>International Embedded Systems Symposium</jconf>
+		<label>1095</label>
+		<keyword>Case Study;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Systematic Model-in-the-Loop Test of Embedded Control Systems</title>
+		<year>2009</year>
+		<authors>alexander krupp</authors>
+		<jconf>International Embedded Systems Symposium</jconf>
+		<label>1095</label>
+		<keyword>Embedded Control System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient Time Annotation Technique in Abstract RTOS Simulations for Multiprocessor Task Migration</title>
+		<year>2008</year>
+		<authors>henning zabel</authors>
+		<jconf>IFIP WG10.3 Publications</jconf>
+		<label>1095</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Formal Behavioral Semantics for TestML</title>
+		<year>2006</year>
+		<authors>jürgen großmann</authors>
+		<jconf>Leveraging Applications of Formal Methods</jconf>
+		<label>1095</label>
+		<keyword>Abstract State Machine;System Design;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—TestML is an XML-based language,for the exchange of test descriptions,in automotive,systems,design,and,mainly introduced,through,the structural definition of an XML schema as an independent,exchange,format for existing tools and methods covering a wide range of different test technologies. In this paper, we present a rigorous,formal,behavioral,semantics,for TestML by means,of Abstract State Machines,(ASMs). Our semantics,is a concise, unambiguous, high-level specification for TestML-based implementations,and serves as a</abstract>
+	</publication>
+	<publication>
+		<title>Model-Based Design of Embedded Systems</title>
+		<year>2004</year>
+		<authors>tim schattkowsky</authors>
+		<jconf>Object-Oriented Real-Time Distributed Computing</jconf>
+		<label>1095</label>
+		<keyword>Embedded System;Model Based Design;model-based development;Object Oriented;uml sequence diagram;Virtual Machine;Real Time;State Transition Diagram;</keyword>
+		<organization>null</organization>
+		<abstract>The design of embedded systems is often based on the development of a detailed formal system specification. Considerable effort is spent to ensure the correctness of this specification. However, the actual implementation of the specification and later maintenance is usually done using traditional programming and tends to diverge from the specification. To avoid this, it is desirable to derive the</abstract>
+	</publication>
+	<publication>
+		<title>An advanced infrastructure for collaborative engineering in electronic design automation</title>
+		<year>2003</year>
+		<authors>tomasz kostienko,adam pawlak,tim schattkowsky</authors>
+		<jconf>ISPE Conference on Concurrent Engineering</jconf>
+		<label>1095</label>
+		<keyword>Collaborative Engineering;Collaborative Research;Data Exchange;Data Quality;Data Transfer;Electronic Design Automation;Middleware;Peer To Peer;Plug and Play;Tool Integration;</keyword>
+		<organization>null</organization>
+		<abstract>Engineering collaboration gets its new global dimension with the omnipotent access to Internet. Engineers have severe requirements concerning: security of design data, quality of net connections, easiness of collaboration, etc. This article presents visions and middleware architecture to establish pan-European col- laborative engineering infrastructure and its application in the field of Electronic Design Automation (EDA). We present a transparent infrastructure</abstract>
+	</publication>
+	<publication>
+		<title>The formal execution semantics of SpecC</title>
+		<year>2002</year>
+		<authors>wolfgang mueller,rainer dömer</authors>
+		<jconf>International Symposium on Systems Synthesis</jconf>
+		<label>1095</label>
+		<keyword>Abstract State Machine;Formal Semantics;Formal Specification;</keyword>
+		<organization>null</organization>
+		<abstract>We present a rigorous but transparent semantics definition of the SpecC language that covers the execution of SpecC behaviors and their interaction with the kernel process. The semantics include wait, waitfor, par, and try statements as they are introduced in SpecC. We present our definition in form of distributed Abstract State Machine (ASM) rules strictly following the lines of the</abstract>
+	</publication>
+	<publication>
+		<title>Using smart cards for secure and device independent user interfaces</title>
+		<year>2007</year>
+		<authors>robbie schaefer,andrés marín lópez,daniel díaz sánchez</authors>
+		<jconf>Mobility Conference</jconf>
+		<label>1095</label>
+		<keyword>Abstract User Interface;Device Independence;Interactive Application;Smart Card;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Smart Cards are becoming a ubiquitous means for securing a wide range of interactive applications. However in many cases its use is limited for authentication purposes only. In this paper we extend the use of smart cards for carrying abstract user interface descriptions which can be rendered on dierent and potentially remote clients that in addition can support varying interaction</abstract>
+	</publication>
+	<publication>
+		<title>An OCL Extension for Real-Time Constraints</title>
+		<year>2002</year>
+		<authors>stephan flake</authors>
+		<jconf>Object Modeling with the OCL</jconf>
+		<label>1095</label>
+		<keyword>Automated Guided Vehicle;Dynamic Behavior;Object Constraint Language;State Transition;Computation Tree Logic;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The Object Constraint Language (OCL) was introduced to support the specification of constraints for UML diagrams and is mainly used to formulate invariants and operation pre- and postconditions. Though OCL is also applied in behavioral diagrams, e.g., as guards for state transitions, it is currently not possi- ble to specify constraints concerning the dynamic behavior and timing properties of such</abstract>
+	</publication>
+	<publication>
+		<title>Middleware for Secure Home Access and Control</title>
+		<year>2007</year>
+		<authors>andrés marín lópez,robbie schaefer,florina almenárez mendoza,daniel diaz,max ziegler</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>1095</label>
+		<keyword>Home Automation;Middleware;Security Management;Service Management;Smart Home;User Adaptation;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>User adaptive systems in the context of pervasive com- puting can only unveil their power if based on a generic middleware managing private data and context informa- tion in combination with flexible device access and control. However, managing those data poses severe privacy prob- lems both legally and from a trust perspective. Therefore we propose a home automation middleware for</abstract>
+	</publication>
+	<publication>
+		<title>Past and Future-Oriented Time-Bounded Temporal Properties with OCL</title>
+		<year>2004</year>
+		<authors>stephan flake</authors>
+		<jconf>Conference on Software Engineering and Formal Methods</jconf>
+		<label>1095</label>
+		<keyword>Linear Temporal Logic;Model Checking;Object Constraint Language;Production System;Temporal Properties;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We  present  the  syntax  and  semantics  of  a  past - and future - oriented temporal extension of the Object Constraint Language (OCL) Our extension supports designers to ex - press  time - bounded  properties  over  a  state - oriented  UML model of a system under development The semantics is for - mally defined over the system states of a</abstract>
+	</publication>
+	<publication>
+		<title>Semantics of State-Oriented Expressions in the Object Constraint Language</title>
+		<year>2003</year>
+		<authors>stephan flake</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>1095</label>
+		<keyword>Formal Semantics;Object Constraint Language;Unified Modeling Language;</keyword>
+		<organization>null</organization>
+		<abstract>The textual Object Constraint Language (OCL) is an of- ficial part of the Unified Modeling Language (UML). It is primarily used to formulate restrictions for UML class di- agrams. Additionally, it is possible to refer to UML State- chart states in OCL expressions to reason about currently activated states. However, neither the current OCL standard nor the pro- posal for</abstract>
+	</publication>
+	<publication>
+		<title>Expressing Property Specification Patterns with OCL</title>
+		<year>2003</year>
+		<authors>stephan flake</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>1095</label>
+		<keyword>Class Diagram;Dynamic Behavior;Formal Specification;Object Constraint Language;Temporal Logic;Unified Modeling Language;</keyword>
+		<organization>null</organization>
+		<abstract>The textual Object Constraint Language (OCL) is an of- ficial part of the Unified Modeling Language (UML). OCL is primarily used to formulate restrictions over UML mod- els, in particular, invariants and operation pre- and post- conditions in the context of class diagrams. However, OCL is missing means to specify constraints over the dynamic behavior of a UML model. We</abstract>
+	</publication>
+	<publication>
+		<title>Prototyping einer Fahrzeugsteuerung in virtueller 3D-Umgebung</title>
+		<year>2000</year>
+		<authors>arnulf braatz,stephan flake,engelbert westkämper</authors>
+		<jconf>Simulation und Visualisierung</jconf>
+		<label>1096</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visuelle Spezifikation, Modellierung und Animation im Systementwurf</title>
+		<year>1998</year>
+		<authors>christian geiger</authors>
+		<jconf>Simulation und Visualisierung</jconf>
+		<label>1095</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtuelles Prototyping einer Robotersteuerung durch interaktive 3D-Simulation</title>
+		<year>1999</year>
+		<authors>christian geiger,georg lehrenfeld</authors>
+		<jconf>Simulation und Visualisierung</jconf>
+		<label>1095</label>
+		<keyword>3d modelling;3d simulation;</keyword>
+		<organization>null</organization>
+		<abstract>In jüngster Zeit findet das Prototyping mit virtuellen 3D-Modellen immer mehr Anwen-dung wie im Bereich von Geb?udeinnenansichten, Landschaftsarchitekturen, St?dtepla-nung und teilweise bei der CAD-Konstruktion. Das Prototyping umfa?t meist Formgebung und die Einpassung von Gegenst?nden und Pflanzen in existierende Umgebungen. Anwen-dungen zum Prototyping von funktionalem Verhalten findet man hier zur Zeit eher weni-ger. Der vorliegende Artikel beschreibt den Entwurf einer Steuerung</abstract>
+	</publication>
+	<publication>
+		<title>A Formal Model of a Framework for Simulation-Based Animation</title>
+		<year>2004</year>
+		<authors>volker paelke</authors>
+		<jconf>Simulation und Visualisierung</jconf>
+		<label>1095</label>
+		<keyword>3d animation;Abstract State Machine;Formal Semantics;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>We present a rigorous formal-but transparent-specification of the semantics of a generic simulation-based 3D animation framework. Our system combines a SystemC simulation kernel with a virtual visualization machine for 3D animation. The semantics of the simulator and the virtual visualization machine are formally defined by means of distributed Abstract State Machine (ASMs) rules. The ASM rules truly reflect the specification</abstract>
+	</publication>
+	<publication>
+		<title>Dialog Modeling for Multiple Devices and Multiple Interaction Modalities</title>
+		<year>2006</year>
+		<authors>robbie schaefer,steffen bleul</authors>
+		<jconf>Task Models and Diagrams for User Interface Design</jconf>
+		<label>1095</label>
+		<keyword>Mobile Interaction;Mobile Phone;Specification Language;User Interface;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>Today a large variety of mobile interaction devices such as PDAs and mobile phones enforce the development of a wide range of user interfaces for each platform. The complexity even grows, when multiple interaction devices are used to perform the same task and when dierent modalities have to be supported. We introduce a new dialog model for the abstraction of</abstract>
+	</publication>
+	<publication>
+		<title>Profile Processing and Evolution for Smart Environments</title>
+		<year>2006</year>
+		<authors>robbie schaefer,jinghua groppe</authors>
+		<jconf>Ubiquitous Intelligence and Computing</jconf>
+		<label>1095</label>
+		<keyword>Context Information;Domain Knowledge;multimodal user interface;Smart Environment;</keyword>
+		<organization>null</organization>
+		<abstract>Ubiquitous systems use context information to select and adapt multimodal user interfaces and appliances for individual users in certain situations. However, in order to enable true reactive environ- ments, context information has to be adequately collected, flltered, and processed and combined with user, device and other proflles. In this ar- ticle, we present how an XML-based transcoding system can be</abstract>
+	</publication>
+	<publication>
+		<title>A UML Profile for Real-Time Constraints with the OCL</title>
+		<year>2002</year>
+		<authors>stephan flake</authors>
+		<jconf>The Unified Modeling Language</jconf>
+		<label>1095</label>
+		<keyword>uml profile;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents a UML profile for an OCL extension that enablesmodelers to specify behavioral, state-oriented real-time constraints in OCL. Inorder to perform a seamless integration into the upcoming UML2.0 standard, wetake the latest OCL2.0 metamodel proposal by Warmer et al. [22] as a basis. Aformal semantics of our temporal OCL extension is given by a mapping to timeannotatedtemporal logics</abstract>
+	</publication>
+	<publication>
+		<title>An ASM Definition of the Dynamic OCL 2.0 Semantics</title>
+		<year>2004</year>
+		<authors>stephan flake</authors>
+		<jconf>The Unified Modeling Language</jconf>
+		<label>1095</label>
+		<keyword>Formal Semantics;Object Model;Set Theory;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: The recently adopted OCL 2.0 specification comes with a formal semanticsthat is based on set theory with a notion of an object model and systemstates. System states keep the runtime information relevant for the evaluation ofOCL expressions. However, not all new language concepts of OCL 2.0 are alreadyaddressed in that formal semantics. We show how to overcome this byintroducing</abstract>
+	</publication>
+	<publication>
+		<title>VIPspace - A Visual Programmable Shared Workspace</title>
+		<year>1998</year>
+		<authors>marita dücker,jessica rubart</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>Shared Workspace;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual-Textual Prototyping of 4D Scenes</title>
+		<year>1997</year>
+		<authors>marita dücker,christian geiger,ralf hunstock,georg lehrenfeld</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>3d graphics;Scientific Visualization;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract>3D-graphics become popular in a steadily increasingnumber of areas like entertainment, scientific visualization,simulation, and virtual reality. Despite thisrapid growth the generation of animated 3D scenes isstill by no means trivial. Since animated 3D objectsevolve over time we denote these objects as 4D. Thisarticle presents a novel approach to the rapid prototypingof 4D models. We introduce the AAL (AnimatedAgent Layer) system.</abstract>
+	</publication>
+	<publication>
+		<title>A Visual Language for Qualitative Data</title>
+		<year>1997</year>
+		<authors>marita dücker,christian geiger,georg lehrenfeld,christoph tahedl</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>Qualitative Data;Visual Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual Modeling and 3D-Representation with a Complete Visual Programming Language - A Case Study in Manufacturing</title>
+		<year>1996</year>
+		<authors>christian geiger,ralf hunstock,georg lehrenfeld,j. quintanilla,christoph tahedl,andreas weber</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>3d representation;Case Study;Complex System;Dynamic Behavior;Model System;Visual Programming Language;Visualization Technique;</keyword>
+		<organization>null</organization>
+		<abstract>epresentation.Both are essential requirements since end users needother visualization techniques than experienced designersdue to their different knowledge and interests.Considering complex systems in general and our examplein particular we can identify the following requirementsfor modeling system prototypes:Complex systems require structuring concepts like modularity and hierarchy. System elements are usually characterizedby dynamic behavior requiring adequate controlstructures for...</abstract>
+	</publication>
+	<publication>
+		<title>SAM - An Animated 3D Programming Language</title>
+		<year>1998</year>
+		<authors>christian geiger,waldemar rosenbach</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>Parallel Systems;Programming Environment;Programming Language;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents the animated visual 3D program-ming language SAM (Solid Agents in Motion) for parallel systems specification and animation. A SAM program is a set of interacting agents synchronously exchanging mes-sages. The agent's behavior is specified by means of pro-duction rules with a condition and a sequence of actions each. Actions are linearly ordered and execute when matching a</abstract>
+	</publication>
+	<publication>
+		<title>Integrating a Constraint Solver into a Real-Time Animation Environment</title>
+		<year>1996</year>
+		<authors>peer griebel,georg lehrenfeld,christoph tahedl,holger uhr</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1096</label>
+		<keyword>Real-time Animation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This article investigates the integration of an interactiveconstraint solver into an existing 2--D real--time animationenvironment in order to achieve a better observability,traceability, and stability of the individual graphical objects.We present two approaches for assigning constraintsto the objects. The first approach assigns constraints to theobjects when they are created keeping them stable duringtheir entire life--time. The second approach dynamicallychanges constraints before...</abstract>
+	</publication>
+	<publication>
+		<title>Transforming SDL Diagrams into a Complete Visual Representation</title>
+		<year>1995</year>
+		<authors>georg lehrenfeld,christoph tahedl</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>Protocol Specification;Visual Representation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We investigate a translation of SDL diagrams into the complete visual representation of Pictorial Janus (PJ) programs in order to analyze the specification by visual debugging and animation. We additionally introduce timing concepts to PJ (Timed PJ) for a mapping of the SDL timing statements. The concepts transforming SDL interaction and process diagrams into Timed PJ are outlined by</abstract>
+	</publication>
+	<publication>
+		<title>A Visual Framework for the Scripting of Parallel Agents</title>
+		<year>2000</year>
+		<authors>arne meyer,henning zabel</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>Parallel Systems;State Transition;</keyword>
+		<organization>null</organization>
+		<abstract>This article presents SAL (Synchronous AgentLanguage), a general-purpose grid{based 2D programminglanguage for parallel system specication, implementation,and visualization. SAL agents have a depictionand a behavior. The behavior is dened bythe means of state transition rules. The depiction isgiven by the drawing area on its surface. Actions inrules can execute drawing operations for dynamicallychanging the depiction during runtime. For a broaderrange of</abstract>
+	</publication>
+	<publication>
+		<title>Transformation of UML State Machines for Direct Execution</title>
+		<year>2005</year>
+		<authors>tim schattkowsky</authors>
+		<jconf>Visual Languages/Human-Centric Computing Languages and Environments</jconf>
+		<label>1095</label>
+		<keyword>State Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Customer-Oriented Systems Design through Virtual Prototypes</title>
+		<year>2001</year>
+		<authors>stephan flake,christian geiger,volker paelke,waldemar rosenbach,jürgen ruf</authors>
+		<jconf>Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises</jconf>
+		<label>1095</label>
+		<keyword>3d model;Customer Orientation;Rapid Prototyping;System Design;Virtual Prototyping;</keyword>
+		<organization>null</organization>
+		<abstract>Rapid prototyping based on 3D models is well acceptedfor several applications. This article addresses the applicationof animated virtual 3D prototypes for the developmentof computer-based systems supporting early collaborationof the system designer with the external customer. Ourmethodology seamlessly integrates illustration through 3Danimation with the main tasks of computer-based real-timesystems development, i.e., implementation and verification.The approach is outlined by the...</abstract>
+	</publication>
+	<publication>
+		<title>Formal Semantics of OCL Messages</title>
+		<year>2004</year>
+		<authors>stephan flake</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>1095</label>
+		<keyword>Formal Semantics;Object Model;Semantic Description;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The latest OCL 2.0 proposal provides two semantic descriptions, i.e., a metamodelbased semantics that uses UML itself to associate the semantic domain with the language concepts and a formal semantics based on a set-theoretic approach called object model. Unfortunately, these two semantics are currently neither consistent nor complete, as (a) the formal semantics does not consider the newly introduced</abstract>
+	</publication>
+	<publication>
+		<title>Werkzeugintegration und verwaltung in heterogenen Computernetzwerken (Tool Integration and Management in Heterogeneous Computer Networks)</title>
+		<year>2002</year>
+		<authors>heinz-josef eikerling,jan wegner</authors>
+		<jconf>Information Technology</jconf>
+		<label>1095</label>
+		<keyword>Heterogeneous Computing;Tool Integration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Formal semantics of static and temporal state-oriented OCL constraints</title>
+		<year>2003</year>
+		<authors>stephan flake</authors>
+		<jconf>Software and System Modeling</jconf>
+		<label>1095</label>
+		<keyword>Formal Semantics;Mathematical Model;Object Constraint Language;Semantic Description;Temporal Logic;uml class diagram;uml profile;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The textual Object Constraint Language (OCL) is primarily intended to specify restrictions over UML class diagrams, in particular class invariants, oper- ation pre-, and postconditions. Based on several improve- ments in the definition of the language concepts in last years, a proposal for a new version of OCL has recently been published (43). That document provides an exten- sive OCL</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing the visualization process with principal component analysis to support the exploration of trends</title>
+		<year>2006</year>
+		<authors>thomas nocke,heidrun schumann</authors>
+		<jconf>Asia Pacific Symposium on Information Visualisation</jconf>
+		<label>1097</label>
+		<keyword>Dimension Reduction;high dimensional dataset;Information Visualization;Principal Component Analysis;Visual Processing;Visual Representation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the integration of the Principal Component Analysis into the Visualization Process. Although, the combination of Principal Component Analysis (PCA) and visual methods is a common approach to the analysis of high-dimensional datasets, it is mostly limited to a pure preprocessing step for dimension reduction. In this paper we will discuss, how PCA results can be used to</abstract>
+	</publication>
+	<publication>
+		<title>A Virtual Reality Medical Training System</title>
+		<year>1995</year>
+		<authors>rolf ziegler,georg fischer,martin göbel</authors>
+		<jconf>Computer Vision, Virtual Reality and Robotics in Medicine</jconf>
+		<label>1097</label>
+		<keyword>Medical Training;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design Issues for Conversational User Interfaces: Animating and Controlling 3D Faces</title>
+		<year>2000</year>
+		<authors>ulrike spierling,marc alexa,ido iurgel</authors>
+		<jconf>Deformable Avatars</jconf>
+		<label>1097</label>
+		<keyword>User Interface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CharanisML: A Flexible Virtual Actor Control Interface</title>
+		<year>2009</year>
+		<authors>sebastian a. weiß,florian berger,alexander marbach</authors>
+		<jconf>Edutainment - International Conference on E-learning and Games</jconf>
+		<label>1097</label>
+		<keyword>Virtual Actor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Potential of Interactive Digital Storytelling for the Creation of Educational Computer Games</title>
+		<year>2008</year>
+		<authors>sebastian a. weiß</authors>
+		<jconf>Edutainment - International Conference on E-learning and Games</jconf>
+		<label>1097</label>
+		<keyword>Digital Storytelling;Educational Computer Game;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptivity in Game-Based Learning: A New Perspective on Story</title>
+		<year>2009</year>
+		<authors>florian berger</authors>
+		<jconf>Interactive Digital Storytelling</jconf>
+		<label>1097</label>
+		<keyword>Game Based Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Steps towards a Generic Interface between Interactive Storytelling Applications and Character Animation Engines</title>
+		<year>2008</year>
+		<authors>sebastian a. weiß,florian berger,alexander marbach</authors>
+		<jconf>Interactive Digital Storytelling</jconf>
+		<label>1097</label>
+		<keyword>Character Animation;Interactive Storytelling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning with Interactive Stories</title>
+		<year>2008</year>
+		<authors>sebastian a. weiß</authors>
+		<jconf>IFIP TC3 Publications</jconf>
+		<label>1097</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualizing Time-Series on Spirals</title>
+		<year>2001</year>
+		<authors>marc weber,marc alexa</authors>
+		<jconf>IEEE Symposium on Information Visualization</jconf>
+		<label>1097</label>
+		<keyword>Data Mining;Graph Drawing;Information Visualization;Large Data Sets;Line Graph;Periodic Structure;Time Series;Time Series Data;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a new approach for the visualiza- tion of time-series data based on spirals. Different to classi- cal bar charts and line graphs, the spiral is suited to visualize large data sets and supports much better the iden- tification of periodic structures in the data. Moreover, it sup- ports both the visualization of nominal and quantitative</abstract>
+	</publication>
+	<publication>
+		<title>LAHYSTOTRAIN - Integration of Virtual Environments and ITS to Surgery Training</title>
+		<year>2000</year>
+		<authors>josé luis los arcos,oscar fuente,leire orúe,eder arroyo,igor leaznibarrutia,judit santander</authors>
+		<jconf>Intelligent Tutoring Systems</jconf>
+		<label>1097</label>
+		<keyword>Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>European Research Forum Panel Session Envisioning Research Challenges in Visual Analytics</title>
+		<year>2006</year>
+		<authors>mikael jern,ebad banissi,gennady l. andrienko,daniel a. keim</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>1097</label>
+		<keyword>Visual Analytics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scenejo - An Interactive Storytelling Platform</title>
+		<year>2005</year>
+		<authors>sebastian a. weiß,ulrike spierling,florian steimle</authors>
+		<jconf>International Conference on Virtual Storytelling</jconf>
+		<label>1097</label>
+		<keyword>Interactive Storytelling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Accessible Authoring Tools for Interactive Storytelling</title>
+		<year>2006</year>
+		<authors>ulrike spierling,sebastian a. weiß</authors>
+		<jconf>Technologies for Interactive Digital Storytelling and Entertainment</jconf>
+		<label>1097</label>
+		<keyword>Authoring Tool;Interactive Storytelling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual Component Analysis</title>
+		<year>2004</year>
+		<authors>marc alexa</authors>
+		<jconf>Joint Eurographics - IEEE TCVG Symposium on Visualization</jconf>
+		<label>1097</label>
+		<keyword>Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The morph node</title>
+		<year>2000</year>
+		<authors>marc alexa,johannes behr</authors>
+		<jconf>Web3D / VRML Symposium</jconf>
+		<label>1097</label>
+		<keyword>3d animation;Virtual Human;</keyword>
+		<organization>null</organization>
+		<abstract>We discuss potential and limitations of a Morph Node, inspired by the corresponding construct in Java3D. A Morph Node in Java3D interpolates vertex attributes among several homeomorphic geometries. This node is a promising candidate for the delivery of 3D animation in a very compact form. We review the state-of-the-art in Web 3D techniques with respect to the possibility of interpolating</abstract>
+	</publication>
+	<publication>
+		<title>Visualization for modeling and simulation: visualization methods for time-dependent data - an overview</title>
+		<year>2003</year>
+		<authors>heidrun schumann</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>1097</label>
+		<keyword>large dataset;Modeling and Simulation;Multivariate Data;Time Series Data;Time Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>Visualization has been successfully applied to analyse time-dependent data for a long time now. Lately, a number of new approaches have been introduced, promising more effective graphs especially for large datasets and multiparameter data. In this paper, we give an overview on the visualization of time-series data and the available techniques. We provide a taxonomy and discuss general aspects of</abstract>
+	</publication>
+	<publication>
+		<title>Visualizing time-oriented data - A systematic view</title>
+		<year>2007</year>
+		<authors>wolfgang aigner,silvia miksch,heidrun schumann,christian tominski</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>1097</label>
+		<keyword>Visual Analytics;</keyword>
+		<organization>null</organization>
+		<abstract>The analysis of time-oriented data is an important task in many application sce- narios. In recent years, a variety of techniques for visualizing such data have been published. This variety makes it dicult for prospective users to select methods or tools that are useful for their particular task at hand. In this article, we develop and discuss a systematic view</abstract>
+	</publication>
+	<publication>
+		<title>Computer aided surgery--vision and feasibility of an advanced operation theatre</title>
+		<year>1996</year>
+		<authors>stefan großkopf,axel hildebrand,rainer malkewitz,rolf ziegler,georgi graschew</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>1097</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face-to-face with your assistant. Realization issues of animated user interface agents for home appliances</title>
+		<year>2001</year>
+		<authors>ulrike spierling,marc alexa,thomas rieger</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>1097</label>
+		<keyword>User Interface;Face To Face;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Representing Animations by Principal Components</title>
+		<year>2000</year>
+		<authors>marc alexa</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>1097</label>
+		<keyword>Compression Ratio;Principal Component;Three Dimensional;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a representation for three-dimensional geometric animation sequences. Different from standard key-frame techniques, this approach is based on the determination of principal animation components and decouples the animation from the underlying geometry. The new representation supports progressive ani- mation compression with spatial, as well as temporal, level-of-detail and high compression ratios. The distinc- tion of animation</abstract>
+	</publication>
+	<publication>
+		<title>Informationsvisualisierung: Methoden und Perspektiven</title>
+		<year>2004</year>
+		<authors>heidrun schumann</authors>
+		<jconf>Information Technology</jconf>
+		<label>1097</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual Methods for Analyzing Time-Oriented Data</title>
+		<year>2008</year>
+		<authors>wolfgang aigner,silvia miksch,heidrun schumann,christian tominski</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>1097</label>
+		<keyword>Analytical Method;Data Analysis;Data Visualization;Indexing Terms;Principal Component Analysis;Temporal Data;Visual Analysis;Visual Representation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Providing appropriate,methods,to facilitate the anal- ysis of time-oriented data,is a key,issue in many,application domains. In this paper, we focus on the unique role of the parameter,time in the context of visually driven,data analysis. We will discuss three major aspects ‐ visualization, analysis, and the user. It will be illustrated that it is necessary,to consider the characteristics of time when,generating,visual representations.</abstract>
+	</publication>
+</person>

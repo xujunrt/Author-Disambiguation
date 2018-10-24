@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Gerke</FullName>
+	<publication>
+		<title>Model Checking the FlexRay Physical Layer Protocol</title>
+		<year>2010</year>
+		<authors>rüdiger ehlers,bernd finkbeiner,hans-jörg peter</authors>
+		<jconf>Formal Methods for Industrial Critical Systems</jconf>
+		<label>681</label>
+		<keyword>Model Checking;Physical Layer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards the Formal Verification of Lower System Layers in Automotive Systems</title>
+		<year>2005</year>
+		<authors>sven beyer,peter böhm,mark a. hillebrand,thomas in der rieden,steffen knapp,dirk leinenbach,wolfgang j. paul</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>681</label>
+		<keyword>Formal Verification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

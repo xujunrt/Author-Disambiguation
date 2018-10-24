@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexey Pospelov</FullName>
+	<publication>
+		<title>Comparison of Scheduling Heuristics for Grid Resource Broker</title>
+		<year>2004</year>
+		<authors>sergey zhuk,andrey chernykh,arutyun avetisyan,sergey s. gaissaryan,dmitry grushin,nikolai kuzjurin,alexander shokurov</authors>
+		<jconf>Mexican International Conference on Computer Science</jconf>
+		<label>29</label>
+		<keyword>Decentralized System;Management Strategy;Resource Broker;Resource Scheduling;Scheduling Algorithm;Task Assignment;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>producers and consumers according to some adequate re-source management strategy. In this paper, we consider parallel tasks scheduling prob-lems for hierarchical decentralized systems that consist of homogeneous computational resources such as clusters, PCs and supercomputers, and geographically dispersed. We concentrate on two-level hierarchy scheduling: at the first level, broker allocates computational tasks to the re-source. At the second level, each</abstract>
+	</publication>
+</person>

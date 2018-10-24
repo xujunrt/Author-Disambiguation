@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Markus Winter</FullName>
+	<publication>
+		<title>A Network-on-Chip Channel Allocator for Run-Time Task Scheduling in Multi-Processor System-on-Chips</title>
+		<year>2008</year>
+		<authors>gerhard fettweis</authors>
+		<jconf>Euromicro Symposium on Digital Systems Design</jconf>
+		<label>633</label>
+		<keyword>Channel Allocation;Indexation;Interconnected System;Resource Allocation;Signal Processing;Task Scheduling;Virtual Channel;Multi Processor System On Chip;Network On Chip;System On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>óMulti-Processor System-on-Chips (MPSoC) with Network-on-Chip based interconnection systems have emerged as the promising solution to computation intensive signal processing applications. But the mapping of applications onto the MPSoC and the allocation of computation and communication resources for applications, jobs and tasks is still a challenge. In this paper we describe the concept of a global communication resource allocator working on</abstract>
+	</publication>
+</person>

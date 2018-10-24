@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Min Soo Kim</FullName>
+	<publication>
+		<title>Scaling-invariant boundary image matching using time-series matching techniques</title>
+		<year>2010</year>
+		<authors>yang-sae moon,bum-soo kim,kyu-young whang</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>719</label>
+		<keyword>Image Matching;Scale Invariance;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Delay-Centric Link Quality Aware OLSR</title>
+		<year>2005</year>
+		<authors>keun jae lee,song yean cho,byung in mun</authors>
+		<jconf>IEEE Conference on Local Computer Networks</jconf>
+		<label>720</label>
+		<keyword>Link Quality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

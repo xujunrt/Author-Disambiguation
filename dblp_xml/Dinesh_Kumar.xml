@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dinesh Kumar</FullName>
+	<publication>
+		<title>Route Lifetime Based Optimal Hop Selection in VANETs on Highway: An Analytical Viewpoint</title>
+		<year>2006</year>
+		<authors>arzad alam kherani,eitan altman</authors>
+		<jconf>Networking</jconf>
+		<label>207</label>
+		<keyword>Optimal Policy;Optimal Routing;Routing Protocol;Vehicular Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of optimal next-hop selection in a route between two vehicles, for a simple scenario of Vehicular ad hoc networks (VANETs) on a highway. For a given approximation of the optimal number of hops, we seek the optimal choice of next-hop based on its speed and inter-node distances, so as to maximize the expected route lifetime. Under</abstract>
+	</publication>
+	<publication>
+		<title>Globally Optimal User-Network Association in an 802.11 WLAN &amp; 3G UMTS Hybrid Cell</title>
+		<year>2007</year>
+		<authors>eitan altman,jean marc kelif</authors>
+		<jconf>International Teletraffic Congress</jconf>
+		<label>207</label>
+		<keyword>Decision Problem;Global Optimization;Network Model;poisson process;State Dependence;Value Iteration;Dynamic Programming Equation;Markov Decision Process;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. With more and more users subscribing to wireless broadband services, it is desirable for them to have access to both WLAN and UMTS networks. We study glob- ally optimal user-network association in an integrated WLAN and UMTS hybrid cell. The association problem is formulated as a generic MDP (Markov Decision Process) connection routing decision problem. In the formulation, mobile</abstract>
+	</publication>
+	<publication>
+		<title>A structural property of solutions to path optimization problems in random access networks</title>
+		<year>2006</year>
+		<authors>arzad alam kherani,eitan altman</authors>
+		<jconf>Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks</jconf>
+		<label>207</label>
+		<keyword>Dynamic Program;Network Topology;Optimal Path;Optimal Policy;Optimization Problem;Random Access;Routing Algorithm;Satisfiability;Structural Properties;Time Complexity;Wireless Ad Hoc Network;Wireless Network;Channel Access;</keyword>
+		<organization>null</organization>
+		<abstract>The inherent nature of the physical setup and trans- mission mechanism in wireless ad hoc networks with random channel access, results in correlation between the link metrics of adjacent links, when considering path optimization problems. We identify a special structure inherent to the solution of Dynamic Programming (DP) problem arising in such an optimization over paths. According to this structure,</abstract>
+	</publication>
+	<publication>
+		<title>Capacity optimizing hop distance in a mobile ad hoc network with power control</title>
+		<year>2006</year>
+		<authors>venkatesh ramaiyan,anurag kumar,eitan altman</authors>
+		<jconf>Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks</jconf>
+		<label>207</label>
+		<keyword>Mobile Ad Hoc Network;multi-hop network;Numerical Analysis;Path Loss;Probability Density Function;Mobile Node;Power Control;</keyword>
+		<organization>null</organization>
+		<abstract>In a dense multi-hop network of mobile nodes capa- ble of applying adaptive power control, we consider the problem of finding the optimal hop distance that maximizes a certain throughput measure in bit-metres/sec, subject to average network power constraints. The mobility of nodes is restricted to a circular periphery area centered at the nominal location of nodes. We incorporate only</abstract>
+	</publication>
+	<publication>
+		<title>User-Network Association in a WLAN-UMTS Hybrid Cell: Global &amp; Individual Optimality</title>
+		<year>2006</year>
+		<authors>eitan altman,jean-marc kelif</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>207</label>
+		<keyword>Decision Problem;Dynamic Game;Global Optimization;Optimal Policy;Resource Allocation;Semi Markov Decision Process;Value Iteration;Dynamic Programming Equation;</keyword>
+		<organization>null</organization>
+		<abstract>We study optimal user-network association in an integrated 802.11 WLAN and 3G-UMTS hybrid cell. Assuming saturated resource allocation on the downlink of WLAN and UMTS networks and a single QoS class of mobiles arriving at an average location in the hybrid cell, we formulate the problem with two different approaches: Global and Individual optimality. The Globally optimal association is formulated</abstract>
+	</publication>
+	<publication>
+		<title>New Cross-Layer Channel Switching Policy for TCP Transmission on 3G UMTS Downlink</title>
+		<year>2006</year>
+		<authors>dhiman barman,eitan altman,jean-marc kelif</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>207</label>
+		<keyword>Buffer Management;Cross Layer;</keyword>
+		<organization>null</organization>
+		<abstract>In 3G UMTS, two main transport channels have been provided for downlink data trans- mission: a common FACH channel and a dedicated DCH channel. The performance of TCP in UMTS depends much on the channel switching policy used. In this paper, we propose and analyze three new basic threshold-based channel switching policies for UMTS that we name as QS (Queue</abstract>
+	</publication>
+</person>

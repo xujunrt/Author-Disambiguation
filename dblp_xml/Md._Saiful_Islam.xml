@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Md. Saiful Islam</FullName>
+	<publication>
+		<title>Performance of Lincoded Optical Heterodyne CPFSK Transmission System Affected by Polarization Mode Dispersion in a Single Mode Fiber</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>673</label>
+		<keyword>Frequency Shift Keying;Group Velocity Dispersion;Polarization Mode Dispersion;Probability Distribution;Theoretical Analysis;Bit Error Rate;Differential Group Delay;Single Mode Fiber;</keyword>
+		<organization>null</organization>
+		<abstract>A theoretical analysis for evaluating the performance of a lincoded continuous phase optical frequency shift keying (CPFSK) optical transmission system with delay line demodulation receiver is presented. It accounts for the combined effects of signal phase distortion due to polarization mode dispersion (PMD) and group velocity dispersion (GVD) in a single mode fiber. The analysis is carried out for three</abstract>
+	</publication>
+	<publication>
+		<title>Combinatorial Color Space Models for Skin Detection in Subcontinental Human Images</title>
+		<year>2009</year>
+		<authors>shah mostafa khaled,alim ul gias,hossain muhammad muctadir,asif khan shakir,asif imran,saiful islam</authors>
+		<jconf>International Visual Informatics Conference</jconf>
+		<label>674</label>
+		<keyword>Color Space;Skin Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling Spammer Behavior: Naïve Bayes vs. Artificial Neural Networks</title>
+		<year>2010</year>
+		<authors>khalid farhan,joy rahman</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Artificial Neural Network;Comparative Study;Detection Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Addressing the problem of spam emails in the Internet, this paper presents a comparative study on Na\&quot;ive Bayes and Artificial Neural Networks (ANN) based modeling of spammer behavior. Keyword-based spam email filtering techniques fall short to model spammer behavior as the spammer constantly changes tactics to circumvent these filters. The evasive tactics that the spammer uses are themselves patterns that</abstract>
+	</publication>
+	<publication>
+		<title>Reversible Logic Synthesis of Fault Tolerant Carry Skip BCD Adder</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Boolean Function;Building Block;Digital Signal Processing;Fault Tolerant;Low Power;Optical Information Processing;Quantum Computer;Reversible Logic;</keyword>
+		<organization>null</organization>
+		<abstract>Reversible logic is emerging as an important research area having its application in diverse fields such as low power CMOS design, digital signal processing, cryptography, quantum computing and optical information processing. This paper presents a new 4*4 parity preserving reversible logic gate, IG. The proposed parity preserving reversible gate can be used to synthesize any arbitrary Boolean function. It allows</abstract>
+	</publication>
+	<publication>
+		<title>Fault tolerant reversible logic synthesis: Carry look-ahead and carry-skip adders</title>
+		<year>2010</year>
+		<authors>zerina begum,mohd. zulfiquar hafiz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Boolean Function;Building Block;Circuit Design;Digital Signal Processing;Fault Tolerant;High Speed;Low Power;Reversible Logic;Carry Look Ahead;</keyword>
+		<organization>null</organization>
+		<abstract>Irreversible logic circuits dissipate heat for every bit of information that is lost. Information is lost when the input vector cannot be recovered from its corresponding output vector. Reversible logic circuit naturally takes care of heating because it implements only the functions that have one-to-one mapping between its input and output vectors. Therefore reversible logic design becomes one of the</abstract>
+	</publication>
+	<publication>
+		<title>Synthesis of Fault Tolerant Reversible Logic Circuits</title>
+		<year>2010</year>
+		<authors>zerina begum,mohd. zulfiquar hafiz,abdullah al mahmud</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Boolean Function;Digital Signal Processing;Fault Tolerant;Low Power;Optical Information Processing;Quantum Computer;Reversible Logic;</keyword>
+		<organization>null</organization>
+		<abstract>Reversible logic is emerging as an important research area having its application in diverse fields such as low power CMOS design, digital signal processing, cryptography, quantum computing and optical information processing. This paper presents a new 4*4 universal reversible logic gate, IG. It is a parity preserving reversible logic gate, that is, the parity of the inputs matches the parity</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Approaches for Designing Fault Tolerant Reversible Carry Look-Ahead and Carry-Skip Adders</title>
+		<year>2010</year>
+		<authors>zerina begum,mohd. zulfiquar hafiz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Building Block;Circuit Design;Classical Logic;Digital Signal Processing;Fault Tolerant;High Speed;Low Power;Reversible Logic;Carry Look Ahead;</keyword>
+		<organization>null</organization>
+		<abstract>Combinational or Classical logic circuits dissipate heat for every bit of information that is lost. Information is lost when the input vector cannot be recovered from its corresponding output vector. Reversible logic circuit implements only the functions having one-to-one mapping between its input and output vectors and therefore naturally takes care of heating. Reversible logic design becomes one of the</abstract>
+	</publication>
+	<publication>
+		<title>Variable Block Carry Skip Logic using Reversible Gates</title>
+		<year>2010</year>
+		<authors>muhammad rezaul karim</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Computer Graphic;Digital Signal Processing;Quantum Computer;</keyword>
+		<organization>null</organization>
+		<abstract>Reversible circuits have applications in digital signal processing, computer graphics, quantum computation and cryptography. In this paper, a generalized k*k reversible gate family is proposed and a 3*3 gate of the family is discussed. Inverter, AND, OR, NAND, NOR, and EXOR gates can be realized by this gate. Implementation of a full-adder circuit using two such 3*3 gates is given.</abstract>
+	</publication>
+	<publication>
+		<title>Building Toffoli Network for Reversible Logic Synthesis Based on Swapping Bit Strings</title>
+		<year>2010</year>
+		<authors>lafifa jamal,muhammad rezaul karim,abdullah al mahmud</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Circuit Synthesis;Reversible Logic;Sorting Network;Template Matching;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we have implemented and designed a sorting network for reversible logic circuits synthesis in terms of n*n Toffoli gates. The algorithm presented in this paper constructs a Toffoli Network based on swapping bit strings. Reduction rules are then applied by simple template matching and removing useless gates from the network. Random selection of bit strings and reduction</abstract>
+	</publication>
+	<publication>
+		<title>Sorting Network for Reversible Logic Synthesis</title>
+		<year>2010</year>
+		<authors>muhammad rezaul karim</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Left To Right;Reversible Logic;Sorting Network;Template Matching;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we have introduced an algorithm to implement a sorting network for reversible logic synthesis based on swapping bit strings. The algorithm first constructs a network in terms of n*n Toffoli gates read from left to right. The number of gates in the circuit produced by our algorithm is then reduced by template matching and removing useless gates</abstract>
+	</publication>
+	<publication>
+		<title>Machine Learning Approaches for Modeling Spammer Behavior</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>bayesian classifier;Behavior Modeling;Classification Algorithm;Decision Tree Induction;Internet Security;Machine Learning;Support Vector Machine;Detection Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Spam is commonly known as unsolicited or unwanted email messages in the Internet causing potential threat to Internet Security. Users spend a valuable amount of time deleting spam emails. More importantly, ever increasing spam emails occupy server storage space and consume network bandwidth. Keyword-based spam email filtering strategies will eventually be less successful to model spammer behavior as the spammer</abstract>
+	</publication>
+	<publication>
+		<title>Fault Tolerant Variable Block Carry Skip Logic (VBCSL) using Parity Preserving Reversible Gates</title>
+		<year>2010</year>
+		<authors>zerina begum,mohd. zulfiquar hafiz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>674</label>
+		<keyword>Circuit Design;Digital Signal Processing;Fault Tolerant;Low Power;Reversible Logic;</keyword>
+		<organization>null</organization>
+		<abstract>Reversible logic design has become one of the promising research directions in low power dissipating circuit design in the past few years and has found its application in low power CMOS design, digital signal processing and nanotechnology. This paper presents the efficient design approaches of fault tolerant carry skip adders (FTCSAs) and compares those designs with the existing ones. Variable</abstract>
+	</publication>
+	<publication>
+		<title>Realization of a Novel Fault Tolerant Reversible Full Adder Circuit in Nanotechnology</title>
+		<year>2010</year>
+		<authors>muhammad mahbubur rahman,zerina begum,mohd. zulfiquar hafiz</authors>
+		<jconf>The International Arab Journal of Information Technology</jconf>
+		<label>674</label>
+		<keyword>Fault Tolerant;Fault Tolerant System;Reversible Logic;</keyword>
+		<organization>null</organization>
+		<abstract>In parity preserving reversible circuit, the parity of the input vector must match the parity of the output vector. It renders a wide class of circuit faults readily detectable at the circuit's outputs. Thus reversible logic circuits that are parity preserving will be beneficial to the development of fault tolerant systems in nanotechnology. This paper presents an efficient realization of</abstract>
+	</publication>
+</person>

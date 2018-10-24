@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hyunchul Park</FullName>
+	<publication>
+		<title>An OWL-Based Knowledge Model for Combined-Process-and-Location Aware Service</title>
+		<year>2009</year>
+		<authors>gunhee kim,manchul han,hyunchul park,laehyun kim,sungdo ha</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>316</label>
+		<keyword>Knowledge Modeling;Location Awareness;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Harmonics Table: Audiovisual Expression of Group Interaction on a Sensing Table</title>
+		<year>2004</year>
+		<authors>sangwoong hwang,chansuk yang,manjai lee</authors>
+		<jconf>International Workshop on Entertainment Computing</jconf>
+		<label>317</label>
+		<keyword>Group Interaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

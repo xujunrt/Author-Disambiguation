@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>John Hershberger</FullName>
+	<publication>
+		<title>Multi-attribute Exchange Market: Theory and Experiments</title>
+		<year>2003</year>
+		<authors>eugene fink,josh johnson</authors>
+		<jconf>Canadian Conference on Artificial Intelligence</jconf>
+		<label>432</label>
+		<keyword>Corporate Bonds;Formal Model;</keyword>
+		<organization>null</organization>
+		<abstract>The Internet has opened opportunities for ecient on-line trading, and researchers have developed algorithms for various auctions, as well as exchanges for standardized commodities; however, they have done little work on exchanges for complex nonstandard goods. We pro- pose a formal model for trading complex goods, present an exchange system that allows traders to describe purchases and sales by multiple</abstract>
+	</publication>
+	<publication>
+		<title>Multi-attribute exchange market: representation and indexing of orders</title>
+		<year>2003</year>
+		<authors>eugene fink,josh johnson</authors>
+		<jconf>ACM Conference on Electronic Commerce</jconf>
+		<label>432</label>
+		<keyword>E Commerce;</keyword>
+		<organization>null</organization>
+		<abstract>We present an automated exchange for trading complex goods, such as used cars, which allows traders to describe desirable purchases and sales by multiple attributes. The developed exchange system supports markets with up to 300,000 orders.</abstract>
+	</publication>
+	<publication>
+		<title>Multi-attribute exchange market: search for optimal matches</title>
+		<year>2004</year>
+		<authors>eugene fink,jianli gong</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>432</label>
+		<keyword>E Commerce;Indexing and Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>We describe an exchange system for trad- ing complex goods, such as used cars or nonstandard nancial securities. The system allows traders to repre- sent their buy and sell orders by multiple attributes, pro- vide complex price constraints, and specify preferences among acceptable trades. We describe a technique for fast identication of most preferable matches between buy and sell orders,</abstract>
+	</publication>
+</person>

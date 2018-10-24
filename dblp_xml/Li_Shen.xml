@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Li Shen</FullName>
+	<publication>
+		<title>VFSim: Concurrent Fault Simulation at Register Transfer Level</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>532</label>
+		<keyword>Fault Simulation;Register Transfer Level;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

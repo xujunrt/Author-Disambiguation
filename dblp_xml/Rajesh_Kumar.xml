@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rajesh Kumar</FullName>
+	<publication>
+		<title>Analysis of Crohn's disease lesions in capsule endoscopy images</title>
+		<year>2009</year>
+		<authors>srdan bejakovic,themistocles dassopoulos,gerard mullin,gregory d. hager</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>855</label>
+		<keyword>Capsule Endoscopy;crohn's disease;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Preliminary Experiments in Cooperative Human/Robert Force Control for Robot Assisted Microsurgical Manipulation</title>
+		<year>2000</year>
+		<authors>peter j. berkelman,puneet k. gupta,aaron c. barnes,patrick s. jensen,louis l. whitcomb,russell h. taylor</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>855</label>
+		<keyword>Force Control;Sensory Integration;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>This paper reports preliminary experiments with a new robot system designed to cooperatively extend a human's ability to perform fine manipulation tasks requiring human judgement, sensory integration and hand-eye coordination. A recently completed steady-hand robot is reported. A sta- ble force control law is reviewed. Preliminary experiments validate theoretical predictions of stable one-dimensional control of tool-tip forces in contact with</abstract>
+	</publication>
+	<publication>
+		<title>Learning Disease Severity for Capsule Endoscopy Images</title>
+		<year>2009</year>
+		<authors>purnima rajan,srdan bejakovic,sharmishtaa seshamani,gerard mullin,themistocles dassopoulos,gregory d. hager</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>855</label>
+		<keyword>Capsule Endoscopy;Disease Severity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detecting Registration Failure</title>
+		<year>2009</year>
+		<authors>sharmishtaa seshamani,purnima rajan,srdan bejakovic,gerard mullin,themos dassopoulos,gregory d. hager</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>855</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Testbed System for Robotically Assisted Percutaneous Pattern Therapy</title>
+		<year>1999</year>
+		<authors>andrew bzostek,aaron c. barnes,james h. anderson,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Modular Computer-Integrated Surgical Robotic Systems: Implementation Using Modular Software and Networked Systems</title>
+		<year>2000</year>
+		<authors>andrew bzostek,nobuhiko hata,oliver schorr,ron kikinis,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Distributed Networks;Modular System;Network Architecture;Networked Systems;Open Architecture;Software Component;System Design;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>We seek to build CIS research systems within a flexible, open architecture. In this paper, we outline our solutions to the problems of system design, construction, and integration in this environment: building distributed, modular systems for sensing, control, and processing. Based on our experience building these systems, we utilize distributed network architectures, modular software components, and intelligent object distribution to</abstract>
+	</publication>
+	<publication>
+		<title>Simple Biomanipulation Tasks with 'Steady Hand' Cooperative Manipulator</title>
+		<year>2003</year>
+		<authors>ankur kapoor,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Mouse Embryo;Single Cell;</keyword>
+		<organization>null</organization>
+		<abstract>This paper reports preliminary experiments in the development of our Augmented Micromanipulation System using the JHU &quot;Steady Hand&quot; coopera- tive robot system to augment single cell manipulation tasks. The need for ro- botic augmentation of biomanipulatuon tasks is discussed. The JHU &quot;Steady- Hand&quot; robot configuration for cell manipulation is reported. Augmentation strategies for stable cooperative insertion of a micropipette in</abstract>
+	</publication>
+	<publication>
+		<title>Applications of Task-Level Augmentation for Cooperative Fine Manipulation Tasks in Surgery</title>
+		<year>2001</year>
+		<authors>aaron c. barnes,gregory d. hager,patrick s. jensen,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Blood Vessel;Retinal Imaging;</keyword>
+		<organization>null</organization>
+		<abstract>We report on applications of an augmentation system for cooperative fine manipulation using the steady hand manipulation paradigm. Using the &quot;steady hand&quot; robot as the experimental platform we investigate using such a system for creating composite retinal images using a GRIN lens endoscope and for puncturing small blood vessels in the retina.</abstract>
+	</publication>
+	<publication>
+		<title>Performance of Robotic Augmentation in Microsurgery-Scale Motions</title>
+		<year>1999</year>
+		<authors>tushar m. goradia,aaron c. barnes,patrick s. jensen,louis l. whitcomb,dan stoianovici,ludwig m. auer,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Development Process;Human Performance;Robot Design;Success Rate;Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>This paper is part of the development process of a microsurgical &quot;cooperating&quot; assistant. To evaluate its applicability to augment fine surgical motions, we test precision and operator perception in simple microsurgical scale pick and place motions. Such motions are common in microsurgical pro- cedures(e.g. micro-vascular anastomosis). The experiments test the users' ability to position a common surgical tool to 250,</abstract>
+	</publication>
+	<publication>
+		<title>An Augmentation System for Fine Manipulation</title>
+		<year>2000</year>
+		<authors>gregory d. hager,aaron c. barnes,patrick s. jensen,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Basic Research;</keyword>
+		<organization>null</organization>
+		<abstract>Augmented surgical manipulation tasks can be viewed as a sequence of smaller, simpler steps driven primarily by the surgeon's input. These steps can be abstracted as controlled interaction of the tool/end-effector with the environment. The basic research problem here is performing a sequence of control primitives. In computing terms, each of the primitives is a predefined computational routine(e.g. compliant motion</abstract>
+	</publication>
+	<publication>
+		<title>DaVinci Canvas: A Telerobotic Surgical System with Integrated, Robot-Assisted, Laparoscopic Ultrasound Capability</title>
+		<year>2005</year>
+		<authors>joshua leven,darius burschka,gary zhang,steve blumenkranz,michael awad,gregory d. hager,mike marohn,michael a. choti,christopher j. hasser,russell h. taylor</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Ultrasound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Modular Computer-Integrated Surgical Robotic Systems: Architecture for Intelligent Object Distribution</title>
+		<year>2000</year>
+		<authors>oliver schorr,nobuhiko hata,andrew bzostek,catherina burghart,russell h. taylor,ron kikinis</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Distributed Architecture;Distributed Control;High Performance;Image Processing;Legacy Software;Operating System;Programming Language;Robot Control;System Architecture;Common Object Request Broker Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents intelligent object distribution architecture to maximize the performance and intelligence of a distributed surgical robotics system and its preliminary implementation in an MR-guided surgical robot system in an open-configuration MRI scanner. The method enables networked integration of a robot control server and multiple clients with minimum engineering overhead but maximum flexibility and performance. The clients in this</abstract>
+	</publication>
+	<publication>
+		<title>Augmenting Capsule Endoscopy Diagnosis: A Similarity Learning Approach</title>
+		<year>2010</year>
+		<authors>sharmishtaa seshamani,themos dassopoulos,gerard mullin,gregory d. hager</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Capsule Endoscopy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Meta Registration Framework for Lesion Matching</title>
+		<year>2009</year>
+		<authors>sharmishtaa seshamani,purnima rajan,hani girgis,themos dassopoulos,gerard mullin,gregory d. hager</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Steady-hand robotic system for microsurgical augmentation</title>
+		<year>1999</year>
+		<authors>russell h. taylor,patrick s. jensen,louis l. whitcomb,aaron c. barnes,dan stoianovici,puneet k. gupta,zhengxian wang</authors>
+		<jconf></jconf>
+		<label>855</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Progressive Cut Refinement Scheme for Revision Total Hip Replacement Surgery Using C-arm Fluoroscopy</title>
+		<year>1999</year>
+		<authors>jianhua yao,russell h. taylor,randal p. goldberg,andrew bzostek,robert van vorhis,peter kazanzides,andré guéziec,janez funda</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>855</label>
+		<keyword>Image Registration;Pose Estimation;Simulation Experiment;Total Hip Replacement;Field of View;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a new method to cut a precise, high quality cavity in Revision Total Hip Replacement surgery (RTHR) using a set of intra-operative C-arm fluoro- scopic images. With respect to previous approaches, our method provides the fol- lowing new features: (1) a novel checkerboard plate was designed to correct the geo- metric distortion within fluoroscopic images. Unlike previous distortion</abstract>
+	</publication>
+	<publication>
+		<title>Steady-hand robotic system for microsurgical augmentation</title>
+		<year>1999</year>
+		<authors>russell h. taylor,patrick s. jensen,louis l. whitcomb,aaron c. barnes,dan stoianovici,puneet k. gupta,zhengxian wang</authors>
+		<jconf></jconf>
+		<label>855</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Target Counting under Minimal Sensing: Complexity and Approximations</title>
+		<year>2008</year>
+		<authors>sorabh gandhi,subhash surii</authors>
+		<jconf>Algorithmic Aspects of Wireless Sensor Networks</jconf>
+		<label>856</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tracking multiple targets using binary proximity sensors</title>
+		<year>2007</year>
+		<authors>jaspreet singh,upamanyu madhow,subhash surii,richard e. cagley</authors>
+		<jconf>Information Processing in Sensor Networks</jconf>
+		<label>856</label>
+		<keyword>Cost Function;Generic Model;Greedy Algorithm;Infrared;Particle Filter;Probabilistic Approach;Sensor Network;Target Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>Recent work has shown that, despite the minimal informa- tion provided by a binary proximity sensor, a network of such sensors can provide remarkably good target tracking performance. In this paper, we examine the performance of such a sensor network for tracking multiple targets. We begin with geometric arguments that address the problem of counting the number of distinct targets,</abstract>
+	</publication>
+	<publication>
+		<title>Industrial service innovation growth and barriers</title>
+		<year>2008</year>
+		<authors>sukhvir singh panesar,tore markeset</authors>
+		<jconf>International Journal of Services Technology and Management</jconf>
+		<label>857</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Ontology-Based Approach to Heterogeneous Verification of Embedded Control Systems</title>
+		<year>2005</year>
+		<authors>bruce h. krogh,peter h. feiler</authors>
+		<jconf>Hybrid Systems</jconf>
+		<label>858</label>
+		<keyword>Embedded Control System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interconnect and noise immunity design for the Pentium 4 processor</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>859</label>
+		<keyword>High Frequency;High Performance;High Speed;Aspect Ratio;High Density;Design Method;Noise Robustness;Power Grid;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the key challenges, design methods, CAD and learnings in the area of interconnect and noise immunity design for the Intel Pentium 4 processor.This high frequency (currently at 3 Ghz with 6 Ghz execution core) design required aggressive domino, pulsed and other novel high speed circuit families that are very noise sensitive. Controlling interconnect delay, capacitive and inductive</abstract>
+	</publication>
+	<publication>
+		<title>Fuzzy ideals and fuzzy semiprime ideals: Some ring theoretic analogues</title>
+		<year>1992</year>
+		<authors></authors>
+		<jconf>Information Sciences</jconf>
+		<label>860</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Approach for Detection of Alteration in Ball Pen Writings</title>
+		<year>2009</year>
+		<authors>nikhil r. pal,j. d. sharma,bhabatosh chanda</authors>
+		<jconf>Pattern Recognition and Machine Intelligence</jconf>
+		<label>861</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

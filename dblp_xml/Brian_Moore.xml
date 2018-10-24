@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Brian Moore</FullName>
+	<publication>
+		<title>Renaissance computing: an initiative for promoting student participation in computing</title>
+		<year>2009</year>
+		<authors>leen-kiat soh,ashok samal,stephen d. scott,stephen ramsay,etsuko moriyama,george meyer,william g. thomas,duane f. shell</authors>
+		<jconf>Technical Symposium on Computer Science Education</jconf>
+		<label>108</label>
+		<keyword>Capstone Course;Collaborative Learning;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we report on a recently funded project called Re- naissance Computing, an initiative for promoting student partici- pation in computing. We propose what we consider a radical re- thinking not only of our core curriculum in computer science, but of the role of computer science at the university level. In our conception, ―computational thinking‖ is neither easily</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic balancing of planar mechanisms using toric geometry</title>
+		<year>2009</year>
+		<authors>clément m. gosselin,josef schicho</authors>
+		<jconf>Journal of Symbolic Computation</jconf>
+		<label>109</label>
+		<keyword>Laurent Polynomial;Minkowski Sum;Necessary and Sufficient Condition;Newton Polygon;Toric Geometry;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new method to determine the complete set of dynam- ically balanced planar four-bar mechanims is presented. Using complex variables to model the kinematics of the mechanism, the dynamic balanc- ing constraints are written as algebraic equations over complex variables and joint angular velocities. After elimination of the joint angular ve- locity variables, the problem is formulated</abstract>
+	</publication>
+	<publication>
+		<title>Supporting systolic and memory communication in iWarp</title>
+		<year>1990</year>
+		<authors>shekhar borkar,robert cohn,george w. cox,thomas r. gross,h. t. kung,monica s. lam,margie levine,wire moore,craig peterson,jim susman,jim sutton,john urbanski,jon a. webb</authors>
+		<jconf>ACM Sigarch Computer Architecture News</jconf>
+		<label>110</label>
+		<keyword>Communication System;Message Passing;Parallel Architecture;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>iWarp is a parallel architecture developed jointly by Carnegie Mellon University and Intel Corporation. The iWarp communication system supports two widely used interprocessor communication styles: memory communication and systolic communication. This paper describes the rationale, architecture, and implementation for the iWarp communication system.The sending or receiving processor of a message can perform either memory or systolic communication. In memory communication,</abstract>
+	</publication>
+</person>

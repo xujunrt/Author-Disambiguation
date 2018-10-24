@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hassan Hassan</FullName>
+	<publication>
+		<title>Aggregate modeling for TCP sessions</title>
+		<year>2006</year>
+		<authors>jean-marie garcia</authors>
+		<jconf>International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems</jconf>
+		<label>281</label>
+		<keyword>Dynamic Behavior;Traffic Model;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we characterize the superposition of TCP sessions and we study the influence of transmission parameters on traffic burstiness. Particularly, we show the relation between TCP traffic characteristics and the loss rate observed on transmission links. Then we propose aggregate traffic model for TCP sessions allowing faster execution while preserving TCP sessions dynamic behavior. The results show that</abstract>
+	</publication>
+	<publication>
+		<title>Integration of streaming and elastic traffic: a fixed point approach</title>
+		<year>2008</year>
+		<authors>olivier brun,j. m. garcia,david gauchard</authors>
+		<jconf></jconf>
+		<label>281</label>
+		<keyword>Elastic Traffic;Fixed Point;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bandwidth Allocation and Session Scheduling using SIP</title>
+		<year>2006</year>
+		<authors>jean-marie garcia,olivier brun</authors>
+		<jconf>Journal of Communications</jconf>
+		<label>281</label>
+		<keyword>Bandwidth Allocation;Bandwidth Estimation;Indexing Terms;Ip Networks;Protocol Design;Proxy Server;qos management;Session Initiation Protocol;Telecommunication Networks;</keyword>
+		<organization>null</organization>
+		<abstract>Session Initiation Protocol (SIP) is a new signaling protocol designed to establish multimedia sessions in telecommunication networks. In this paper, we suggest the extension of SIP functionalities to coordinate QoS mechanisms deployed in IP networks, and especially in DiffServ domain. Indeed, the interaction between small and big TCP sessions may have dramatic consequences on small TCP sessions. Hence, we use</abstract>
+	</publication>
+</person>

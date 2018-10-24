@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Lutz</FullName>
+	<publication>
+		<title>Realisation und Test von ausgewählten Algorithmen zu linearen Optimierungsproblemen auf Mikrocomputern</title>
+		<year>1985</year>
+		<authors>thomas dutschke,stephan fischer</authors>
+		<jconf>Wirtschaftsinformatik / Angewandte Informatik</jconf>
+		<label>699</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

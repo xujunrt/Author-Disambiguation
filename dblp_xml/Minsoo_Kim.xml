@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Minsoo Kim</FullName>
+	<publication>
+		<title>Access Control for Cooperation Systems Based on Group Situation</title>
+		<year>2008</year>
+		<authors>james b. d. joshi,minkoo kim</authors>
+		<jconf>Collaborative Computing</jconf>
+		<label>745</label>
+		<keyword>Cooperative Systems;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Group organization algorithm based on trust and reputation in agent society</title>
+		<year>2008</year>
+		<authors>minkoo kim</authors>
+		<jconf>Advances in Mobile Multimedia</jconf>
+		<label>745</label>
+		<keyword>Cooperative Systems;Self Organization;Trust and Reputation;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>In cooperation systems such as Multi-Agent Systems, it is an important problem how group of agents is organized as well as how agents cooperate with each other. Moreover, dynamic computing environments require the dynamic organization to the cooperation systems. To this end, in this paper, we propose two organization algorithms based on trust and reputation of agents; one is a</abstract>
+	</publication>
+	<publication>
+		<title>Member Failure Recovery Mechanism Using Context Ontology for Community Computing</title>
+		<year>2007</year>
+		<authors>minkoo kim</authors>
+		<jconf>Multimedia and Ubiquitous Engineering</jconf>
+		<label>745</label>
+		<keyword>Community Computing;Failure Recovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Service Selection Using rete Network in Dynamic Environment</title>
+		<year>2009</year>
+		<authors>minkoo kim</authors>
+		<jconf>IEEE Congress on Services</jconf>
+		<label>745</label>
+		<keyword>Dynamic Environment;Service Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An architecture for specification and enforcement of temporal access control constraints using OWL</title>
+		<year>2009</year>
+		<authors>hassan takabi,james b. d. joshi,michael b. spring</authors>
+		<jconf>Secure Web Services</jconf>
+		<label>745</label>
+		<keyword>Model Combination;Role Based Access Control;Security Management;Semantic Web;Temporal Constraints;Web Ontology Language;Web Security;Access Control;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The Semantic Web is an extension of the World Wide Web that has been growing in recent years. One important issue in the Semantic Web environment is access control. Integrating Role-Based Access Control (RBAC) models, which have been accepted as a powerful approach to security management, with the Semantic Web helps to reduce the complexity of Web security management. The</abstract>
+	</publication>
+	<publication>
+		<title>Context-Based Cooperation Architecture for Ubiquitous Environment</title>
+		<year>2006</year>
+		<authors>youna jung,jungtae lee,minkoo kim</authors>
+		<jconf>Ubiquitous Computing Systems</jconf>
+		<label>745</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Formal Definition of Situation towards Situation-Aware Computing</title>
+		<year>2009</year>
+		<authors>minkoo kim</authors>
+		<jconf>World Summit on the Knowledge Society</jconf>
+		<label>745</label>
+		<keyword>Situation Awareness;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Developing Protégé Plug-in: OWL Ontology Visualization using Social Network</title>
+		<year>2008</year>
+		<authors>minkoo kim</authors>
+		<jconf>Journal of Information Processing Systems</jconf>
+		<label>745</label>
+		<keyword>Context Aware;Social Network;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, numerous studies have been attempted to exploit ontology in the area of ubiquitous computing. Especially, some kinds of ontologies written in OWL are proposed for major issues in ubiquitous computing such like context-awareness. OWL is recommended by W3C as a descriptive language for representing ontology with rich vocabularies. However, developers struggle to design ontology using OWL, because</abstract>
+	</publication>
+	<publication>
+		<title>Spatial Data Server for Mobile Environment</title>
+		<year>2004</year>
+		<authors>oh byoung-woo,mi-jeong kim,eun-kyu lee</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>746</label>
+		<keyword>Mobile Environment;Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fire Service in Korea: Advanced Emergency 119 System Based on GIS Technology</title>
+		<year>2004</year>
+		<authors>in-hak joo,kwang-soo kim</authors>
+		<jconf>Electronic Government</jconf>
+		<label>746</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ISP (Information Strategy Planning) for 4S-Based Integration of Spatial Information Systems as Korean Nationwide Project</title>
+		<year>2003</year>
+		<authors>in-hak joo,ki won lee,jong-hun lee</authors>
+		<jconf>Electronic Government</jconf>
+		<label>746</label>
+		<keyword>Spatial Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Web Services Framework for Integrated Geospatial Coverage Data</title>
+		<year>2005</year>
+		<authors>eun-kyu lee,mi-jeong kim,in-hak joo</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>746</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Services Framework for Geo-spatial Services</title>
+		<year>2004</year>
+		<authors>mi-jeong kim,eun-kyu lee,in-hak joo</authors>
+		<jconf>Web and Wireless Geographical Information Systems</jconf>
+		<label>746</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Design of Telematics Application Framework on Ubiquitous Sensor Networks</title>
+		<year>2005</year>
+		<authors>eun-kyu lee,byung-tae jang,myoung-ho kim</authors>
+		<jconf>Web and Wireless Geographical Information Systems</jconf>
+		<label>746</label>
+		<keyword>Application Framework;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A framework for dynamic updates of map data in mobile devices</title>
+		<year>2007</year>
+		<authors>hae-kyong kang,ki-joune li</authors>
+		<jconf>International Journal of Web Engineering and Technology</jconf>
+		<label>746</label>
+		<keyword>Communication Cost;Consistency Checking;Mobile Data Service;Mobile Device;Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract>Stored map services in mobile devices, such as cellular phones, are being commercialised for the mobile and wireless environment. In order to ensure the quality and accuracy of the map, an update of the source map must be transferred automatically to mobile devices. While transferring the source map, at least two facts need to be considered, which are reduction of</abstract>
+	</publication>
+	<publication>
+		<title>Auto-generation of Detection Rules with Tree Induction Algorithm</title>
+		<year>2005</year>
+		<authors>jae-hyun seo,il-ahn cheong,bongnam noh</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>747</label>
+		<keyword>Automatic Generation;Intrusion Detection System;Network Measurement;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>A generation of rule for detecting an attack from enormous network data is very difficult, and this is commonly required an expert's experiences. An auto-generation of detection rules cut down on maintenance or management ex- penses of intrusion detection systems, but the problem is accuracy for the time being. In this paper, we propose an automatic generation method of detection</abstract>
+	</publication>
+	<publication>
+		<title>A Fuzzy Expert System for Network Forensics</title>
+		<year>2004</year>
+		<authors>jung-sun kim,bongnam noh</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>747</label>
+		<keyword>Fuzzy Expert System;Network Forensics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Network Anomaly Behavior Detection Using an Adaptive Multiplex Detector</title>
+		<year>2006</year>
+		<authors>misun kim,jae-hyun seo</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>747</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Security Architecture for Adapting Multiple Access Control Models to Operating Systems</title>
+		<year>2006</year>
+		<authors>jung-sun kim,seungyong lee,jae-hyun seo,bongnam noh</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>747</label>
+		<keyword>Operating System;Security Architecture;Multiple Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Effective Method for Analyzing Intrusion Situation Through IP-Based Classification</title>
+		<year>2005</year>
+		<authors>jae-hyun seo,seungyong lee,bongnam noh,jung-taek seo,eung ki park</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>747</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection Techniques for ELF Executable File Using Assembly Instruction Searching</title>
+		<year>2004</year>
+		<authors>jun-hyung park,bongnam noh</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>747</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Expert System Using Fuzzy Petri Nets in Computer Forensics</title>
+		<year>2006</year>
+		<authors>hyun-uk hwang,bongnam noh</authors>
+		<jconf>International Conference on Hybrid Information Technology</jconf>
+		<label>747</label>
+		<keyword>Computer Forensics;Expert System;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Causality Analysis of Protocol Measures for Detection of Attacks Based on Network</title>
+		<year>2004</year>
+		<authors>il-ahn cheong,yong-min kim,bongnam noh</authors>
+		<jconf>International Conference on Information Networking</jconf>
+		<label>747</label>
+		<keyword>Causal Analysis;Computer Network;Dos Attack;Network Measurement;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>New intrusions have being tried continuously due to vulner- ability of TCP/IP on the computer networks. Many studies have been progressed about the method that is based on the signature and anomaly behavior in order to detect the attacks using vulnerability of networks. However the detection of intrusion from an enormous network data is very difficult and required much load</abstract>
+	</publication>
+	<publication>
+		<title>A similarity based technique for detecting malicious executable files for computer forensics</title>
+		<year>2006</year>
+		<authors>jun-hyung park,bongnam noh,james b. d. joshi</authors>
+		<jconf>Information Reuse and Integration</jconf>
+		<label>747</label>
+		<keyword>Computer Forensics;False Positive;Tools and Techniques;</keyword>
+		<organization>null</organization>
+		<abstract>With the rapidly increasing complexity of computer systems and the sophistication of hacking tools and techniques, there is a crucial need for computer forensic analysis techniques. Very few techniques exist to support forensic analysis of unknown executable files. The existing techniques primarily inspect executable files to detect known signatures or are based on metadata information. A key goal of such</abstract>
+	</publication>
+	<publication>
+		<title>An Automatic Identification of a Damaged Malicious File Using HMM against Anti-Forensics</title>
+		<year>2008</year>
+		<authors>dongju ryu,yong-min kim</authors>
+		<jconf>Networked Computing and Advanced Information Management</jconf>
+		<label>747</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Visualization Technique for Installation Evidences Containing Malicious Executable Files Using Machine Language Sequence</title>
+		<year>2008</year>
+		<authors>jun-hyung park,bongnam noh</authors>
+		<jconf>Workshop on Information Security Applications</jconf>
+		<label>747</label>
+		<keyword>Visualization Technique;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CHRONICLE: A Two-Stage Density-Based Clustering Algorithm for Dynamic Networks</title>
+		<year>2009</year>
+		<authors>jiawei han</authors>
+		<jconf>Discovery Science</jconf>
+		<label>748</label>
+		<keyword>Cluster Algorithm;Dynamic Networks;Information Network;Large Scale;Number of Clusters;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Information networks, such as social networks and that ex- tracted from bibliographic data, are changing dynamically over time. It is crucial to discover time-evolving communities in dynamic networks. In this paper, we study the problem of flnding time-evolving communities such that each community freely forms, evolves, and dissolves for any time period. Although the previous t-partite graph based methods are</abstract>
+	</publication>
+	<publication>
+		<title>Odysseus: a High-Performance ORDBMS Tightly-Coupled with Spatial Database Features</title>
+		<year>2007</year>
+		<authors>kyu-young whang,jae-gil lee,min-jae lee,ki-hoon lee</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>748</label>
+		<keyword>Data Type;Geographic Information System;High Performance;Information Retrieval;Spatial Database;Tight Coupling;Object Relational;</keyword>
+		<organization>null</organization>
+		<abstract>We have earlier proposed the tight-coupling architecture for adding new data types into the DBMS engine. In this paper, we introduce the Odysseus ORDBMS and present its tightly-coupled spatial database features. We demonstrate a geographical information system (GIS) implemented using Odysseus.</abstract>
+	</publication>
+	<publication>
+		<title>Odysseus: A High-Performance ORDBMS Tightly-Coupled with IR Features</title>
+		<year>2005</year>
+		<authors>kyu-young whang,min-jae lee,jae-gil lee,wook-shin han</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>748</label>
+		<keyword>Data Type;High Performance;Tight Coupling;Web Pages;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>We propose the notion of tight-coupling (8) to add new data types into the DBMS engine. In this paper, we intro- ducethe Odysseus ORDBMS andpresent its tightly-coupled IR features (U.S. patented). We demonstrate a web search engine capable of managing 20 million web pages in a non- parallel configuration using Odysseus.</abstract>
+	</publication>
+	<publication>
+		<title>n-Gram/2L: A Space and Time Efficient Two-Level n-Gram Inverted Index Structure</title>
+		<year>2005</year>
+		<authors>kyu-young whang,jae-gil lee,min-jae lee</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>748</label>
+		<keyword>Indexation;Information Retrieval;Inverted Index;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>The n-gram inverted index has two major advantages: language-neutral and error-tolerant. Due to these advantages, it has been widely used in information retrieval or in similar sequence matching for DNA and protein databases. Nevertheless, the n-gram inverted index also has drawbacks: the size tends to be very large, and the performance of queries tends to be bad. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>A Logical Model and Data Placement Strategies for MEMS Storage Devices</title>
+		<year>2008</year>
+		<authors>yi-reun kim,kyu-young whang,il-yeol song</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>748</label>
+		<keyword>Data Placement;Data Retrieval;Reading and Writing;Relational Data;Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract>MEMS storage devices are new non-volatile secondary storages that have outstanding advantages over magnetic disks. MEMS storage devices, however, are much different from magnetic disks in the structure and access characteristics. They have thousands of heads called probe tips and provide the following two major access facilities: (1) flexibility: freely selecting a set of probe tips for accessing data, (2)</abstract>
+	</publication>
+	<publication>
+		<title>Structural Consistency: Enabling XML Keyword Search to Eliminate Spurious Results Consistently</title>
+		<year>2009</year>
+		<authors>ki-hoon lee,kyu-young whang,wook-shin han</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>748</label>
+		<keyword>Keyword Search;</keyword>
+		<organization>null</organization>
+		<abstract>XML keyword search is a user-friendly way to query XML data using only keywords. In XML keyword search, to achieve high precision without sacrificing recall, it is important to remove spurious results not intended by the user. Efforts to eliminate spurious results have enjoyed some success by using the concepts of LCA or its variants, SLCA and MLCA. However, existing</abstract>
+	</publication>
+	<publication>
+		<title>Tightly-coupled spatial database features in the Odysseus/OpenGIS DBMS for high-performance</title>
+		<year>2010</year>
+		<authors>kyu-young whang,jae-gil lee,min-jae lee,ki-hoon lee,wook-shin han,jun-sung kim</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>748</label>
+		<keyword>Data Type;High Performance;Management System;object-relational databases;Satisfiability;Spatial Database;Tight Coupling;</keyword>
+		<organization>null</organization>
+		<abstract>Conventional object-relational database management system (ORDBMS) vendors provide extension mechanisms for adding user-defined types and functions to their own DBMSs. Here, the extension mechanisms are implemented using a high- level (typically, SQL-level) interface. We call this mechanism loose-coupling .T he advantage of loose-coupling is that it is easy to implement. However, it is not prefer- able for implementing new data</abstract>
+	</publication>
+	<publication>
+		<title>The partitioned-layer index: Answering monotone top-k queries using the convex skyline and partitioning-merging technique</title>
+		<year>2009</year>
+		<authors>jun-seok heo,kyu-young whang,yi-reun kim,il-yeol song</authors>
+		<jconf>Information Sciences</jconf>
+		<label>748</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Particle-and-Density Based Evolutionary Clustering Method for Dynamic Networks</title>
+		<year>2009</year>
+		<authors>jiawei han</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>748</label>
+		<keyword>Clustering Method;Concept Drift;Dynamic Networks;Experimental Study;Information Theory;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, dynamic networks are attracting increasing inter- est due to their high potential in capturing natural and so- cial phenomena over time. Discovery of evolutionary com- munities in dynamic networks has become a critical task. The previous evolutionary clustering methods usually adopt the temporal smoothness framework, which has a desirable feature of controlling the balance between temporal noise and true</abstract>
+	</publication>
+	<publication>
+		<title>Structural optimization of a full-text n gram index using relational normalization</title>
+		<year>2008</year>
+		<authors>kyu-young whang,jae-gil lee,min-jae lee</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>748</label>
+		<keyword>Indexation;Structure Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Modeling Framework of Business Transactions for Enterprise Integration</title>
+		<year>2005</year>
+		<authors>dongsoo kim,yong gu ji,hoontae kim</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>749</label>
+		<keyword>Enterprise Integration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Process-Oriented Development of Job Manual System</title>
+		<year>2005</year>
+		<authors>seung-hyun rhee,hoseong song,hyung jun won,jaeyoung ju,hyerim bae</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>749</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Process based storing and reconstructing of XML form documents</title>
+		<year>2007</year>
+		<authors>hyerim bae</authors>
+		<jconf>Computers in Industry</jconf>
+		<label>749</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Robust Flight Control of an UAV Using MIMO QFT: GA-Based Automatic Loop-Shaping Method</title>
+		<year>2004</year>
+		<authors>chan-soo chung</authors>
+		<jconf>Asian Simulation Conference</jconf>
+		<label>750</label>
+		<keyword>Flight Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Loop-Shaping of QFT Controllers Using GAs and Evolutionary Computation</title>
+		<year>2005</year>
+		<authors>chan-soo chung</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>750</label>
+		<keyword>Evolutionary Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sunspot Time Series Prediction Using Parallel-Structure Fuzzy System</title>
+		<year>2005</year>
+		<authors>chan-soo chung</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>750</label>
+		<keyword>Fuzzy System;Time Series Prediction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A customizable view for Web-based STEP data</title>
+		<year>2002</year>
+		<authors>seung j. noh,yeongho kim,suk-ho kang</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>751</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel-Structure Fuzzy System for Sunspot Cycle Prediction in the Railway Systems</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>752</label>
+		<keyword>Fuzzy System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Electromagnetic Levitation System with Clustering Based Fuzzy Controller</title>
+		<year>2007</year>
+		<authors>yeun-sub byun</authors>
+		<jconf>International Conference on Adaptive and Natural Computing Algorithms</jconf>
+		<label>752</label>
+		<keyword>Fuzzy Controller;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Improvement of the Attitude Estimation System Using Fuzzy Inference and Genetic Algorithms</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>752</label>
+		<keyword>Fuzzy Inference;Genetic Algorithm;Performance Improvement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relevant pattern selection for subspace learning</title>
+		<year>2008</year>
+		<authors>jin hee na,seok min yun,jin young choi</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>753</label>
+		<keyword>Subspace Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robot Visual Servo through Trajectory Estimation of a Moving Object Using Kalman Filter</title>
+		<year>2009</year>
+		<authors>ji-hoon koh,ho quoc phuong nguyen,hee-jun kang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>754</label>
+		<keyword>Moving Object;visual servoing;kalman filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>EDCA-TM: IEEE 802.11e MAC enhancement for wireless multi-hop networks</title>
+		<year>2009</year>
+		<authors>deepesh man shrestha,young-bae ko</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>755</label>
+		<keyword>wireless multi-hop network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recognition-Based Digitalization of Korean Historical Archives</title>
+		<year>2004</year>
+		<authors>sungho ryu,kyu tae cho,taik-heon rhee,hyun-il choi,jin hyung kim</authors>
+		<jconf>Asia Information Retrieval Symposium</jconf>
+		<label>756</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Segmentation of Handwritten Characters for Digitalizing Korean Historical Documents</title>
+		<year>2004</year>
+		<authors>kyu tae cho,hee kue kwag,jin hyung kim</authors>
+		<jconf>Document Analysis Systems</jconf>
+		<label>756</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Digitalizing Scheme of Handwritten Hanja Historical Documents</title>
+		<year>2004</year>
+		<authors>man-dae jang,hyun-il choi,taik-heon rhee,jin hyung kim</authors>
+		<jconf>Document Image Analysis for Libraries</jconf>
+		<label>756</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Summarization Based on Principal Component Analysis</title>
+		<year>2003</year>
+		<authors>chang beom lee,hyuk ro park</authors>
+		<jconf>Portuguese Conference on Artificial Intelligence</jconf>
+		<label>756</label>
+		<keyword>Automatic Summarization;Principal Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face recognition using partial least squares components</title>
+		<year>2004</year>
+		<authors>jangsun baek</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>756</label>
+		<keyword>Face Recognition;Partial Least Square;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

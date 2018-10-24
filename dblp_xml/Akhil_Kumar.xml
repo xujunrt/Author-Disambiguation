@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Akhil Kumar</FullName>
+	<publication>
+		<title>Iterative Error Diffusion Halftoning Using a Zero Phase Error Filter</title>
+		<year>1997</year>
+		<authors>anamitra makur</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>15</label>
+		<keyword>Low Pass;</keyword>
+		<organization>null</organization>
+		<abstract>The halftone quality of an error diffusion halftone depends on the error filter response. Apart form the magnitude response being a low pass, it is desirable to have a zero phase response. In this paper we propose the iterative error diffusion halftoning algorithm that allows use of non-causal error filter (such as zero phase error filter). We present simulation results</abstract>
+	</publication>
+	<publication>
+		<title>On the phase response of the error diffusion filter for image halftoning</title>
+		<year>1999</year>
+		<authors>anamitra makur</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>15</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

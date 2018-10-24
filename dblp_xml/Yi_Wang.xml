@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Wang</FullName>
+	<publication>
+		<title>Integration of Data Mining with Game Theory</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>PROgraming LAnguages for MAnufacTuring</jconf>
+		<label>1179</label>
+		<keyword>Data Mining;Game Theory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

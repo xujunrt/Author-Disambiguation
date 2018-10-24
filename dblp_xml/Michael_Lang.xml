@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Lang</FullName>
+	<publication>
+		<title>The Hugin Tool for Learning Bayesian Networks</title>
+		<year>2003</year>
+		<authors>anders l. madsen,uffe kjærulff,frank jensen</authors>
+		<jconf>Symbolic and Quantitative Approaches to Reasoning and Uncertainty</jconf>
+		<label>695</label>
+		<keyword>Expert Knowledge;Knowledge Discovery;Parameter Estimation;Structure Learning;Tool Support;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe the Hugin Tool as an efficient tool for knowledge discovery through construction of Bayesian networks by fusion of data and domain expert knowledge. The Hugin Tool supports structural learning, parameter estimation, and adaptation of parameters in Bayesian networks. The performance of the Hugin Tool is illustrated using real-world Bayesian networks, commonly used examples from the</abstract>
+	</publication>
+	<publication>
+		<title>Hugin - The Tool for Bayesian Networks and Influence Diagrams</title>
+		<year>2002</year>
+		<authors>frank jensen,uffe kjærulff,anders l. madsen</authors>
+		<jconf>Probabilistic Graphical Models</jconf>
+		<label>695</label>
+		<keyword>Influence Diagram;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Hugin Tool for Probabilistic Graphical Models</title>
+		<year>2005</year>
+		<authors>anders l. madsen,frank jensen,uffe kjærulff</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<label>695</label>
+		<keyword>Probabilistic Graphical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An empirical performance analysis of commodity memories in commodity servers</title>
+		<year>2004</year>
+		<authors>darren j. kerbyson,gene patino,hossein amidi</authors>
+		<jconf>Memory System Performance</jconf>
+		<label>696</label>
+		<keyword>Memory Systems;Operating System;Performance Analysis;Performance Measure;Physical Properties;</keyword>
+		<organization>null</organization>
+		<abstract>This work details a performance study of six different types of commodity memories in two commodity server nodes. A number of micro-benchmarks are used that measure low-level performance characteristics, as well as two applications representative of the ASC workload. The memories vary both in terms of performance, including latency and bandwidths, and in terms of their physical properties and manufacturer.</abstract>
+	</publication>
+	<publication>
+		<title>Characterizing the Impact of Using Spare-Cores on Application Performance</title>
+		<year>2010</year>
+		<authors>josé carlos sancho,darren j. kerbyson</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>696</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experiences in scaling scientific applications on current-generation quad-core processors</title>
+		<year>2008</year>
+		<authors>k. barker,kei davis,adolfy hoisie,darren j. kerbyson,scott pakin,josé carlos sancho</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>696</label>
+		<keyword>Scientific Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimization of infiniband for scientific applications</title>
+		<year>2008</year>
+		<authors>greg johnson,darren j. kerbyson</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>696</label>
+		<keyword>Scientific Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Entering the petaflop era: the architecture and performance of Roadrunner</title>
+		<year>2008</year>
+		<authors>kevin j. barker,kei davis,adolfy hoisie,darren j. kerbyson,scott pakin,josé carlos sancho</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>696</label>
+		<keyword>Case Study;Cell Broadband Engine;Delivery System;Hybrid Architecture;multi-core processor;Performance Analysis;Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract>Roadrunner is a 1.38 Pflop/s-peak (double precision) hybrid-architecture supercomputer developed by LANL and IBM. It contains 12,240 IBM PowerXCell 8i processors and 12,240 AMD Opteron cores in 3,060 compute nodes. Roadrunner is the first supercomputer to run Linpack at a sustained speed in excess of 1 Pflop/s. In this paper we present a detailed architectural description of Roadrunner and a</abstract>
+	</publication>
+	<publication>
+		<title>A Performance and Scalability Analysis of the BlueGene/L Architecture</title>
+		<year>2004</year>
+		<authors>kei davis,adolfy hoisie,greg johnson,darren j. kerbyson,scott pakin,fabrizio petrini</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>696</label>
+		<keyword>Large Scale;Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract>Based on a set of measurements done on the 512-node 500MHz prototype and early results on a 2048 node 700MHz BlueGene/L machine at IBM Watson, we present a performance and scalability analysis of the architecture from low-level characteristics to large-scale applications. In addition, we present predictions using our models for the performance of two representative applications from the ASC² workload</abstract>
+	</publication>
+	<publication>
+		<title>Architecture - A performance comparison through benchmarking and modeling of three leading supercomputers: blue Gene/L, Red Storm, and Purple</title>
+		<year>2006</year>
+		<authors>adolfy hoisie,greg johnson,darren j. kerbyson,scott pakin</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>696</label>
+		<keyword>Operating System;Performance Analysis;Performance Comparison;</keyword>
+		<organization>null</organization>
+		<abstract>This work provides a performance analysis of three leading supercomputers that have recently been deployed: Purple, Red Storm and Blue Gene/L. Each of these machines are architecturally diverse, with very different performance characteristics. Each contains over 10,000 processors and has a system peak of over 40 Teraflops. We analyze each system using a range of micro-benchmarks which include communication performance</abstract>
+	</publication>
+	<publication>
+		<title>Using Performance Modeling to Design Large-Scale Systems</title>
+		<year>2009</year>
+		<authors>kevin j. barker,kei davis,adolfy hoisie,darren j. kerbyson,scott pakin,josé carlos sancho</authors>
+		<jconf>IEEE Computer</jconf>
+		<label>696</label>
+		<keyword>Large Scale System;Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimized InfiniBandTM fat-tree routing for shift all-to-all communication patterns</title>
+		<year>2010</year>
+		<authors>eitan zahavi,gregory johnson,darren j. kerbyson</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>696</label>
+		<keyword>Communication Pattern;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Performance Evaluation of the Nehalem Quad-Core Processor for Scientific Computing</title>
+		<year>2008</year>
+		<authors>kevin j. barker,kei davis,adolfy hoisie,darren j. kerbyson,scott pakin,josé carlos sancho</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<label>696</label>
+		<keyword>Building Block;Large Scale;Performance Analysis;Performance Evaluation;Scientific Application;Scientific Computing;simultaneous multithreading;</keyword>
+		<organization>null</organization>
+		<abstract>In this work we present an initial performance evaluation of Intel's latest, second- generation quad-core processor, Nehalem, and provide a comparison to first-generat ion AMD and Intel quad-core processors Barcelona and Tigerton. Nehalem is the first In­ tel processor to implement a NUMA architecture incorporating QuickPath Interconnect for interconnecting processors within a node, and the first to incorporate an integrated</abstract>
+	</publication>
+	<publication>
+		<title>Infiniband Routing Table Optimizations for Scientific Applications</title>
+		<year>2008</year>
+		<authors>darren j. kerbyson,gregory johnson</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<label>696</label>
+		<keyword>Scientific Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation and performance modeling of deterministic particle transport (Sweep3D) on the IBM Cell/B.E</title>
+		<year>2009</year>
+		<authors>olaf m. lubeck,ram srinivasan,greg johnson</authors>
+		<jconf>Scientific Programming</jconf>
+		<label>696</label>
+		<keyword>Cell Broadband Engine;Floating Point;Message Passing;Monte Carlo;Performance Model;Programming Model;Broadband Engine;Cycles Per Instruction;</keyword>
+		<organization>null</organization>
+		<abstract>The IBM Cell Broadband Engine (BE) is a novel multi-core chip with the potential for the demanding floating point performance that is required for high-fidelity scientific simulations. However, data movement within the chip can be a ma- jor challenge to realizing the benefits of the peak floating point rates. In this paper, we present the results of implementing Sweep3D on</abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jean-Yves Girard</FullName>
+	<publication>
+		<title>Monte Carlo Valuation of Multidimensional American Options Through Grid Computing</title>
+		<year>2005</year>
+		<authors>ioane muni toke</authors>
+		<jconf>Large-Scale Scientific Computing</jconf>
+		<label>352</label>
+		<keyword>American Option;Grid Computing;Monte Carlo;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and implementation of an enterprise grid</title>
+		<year>2004</year>
+		<authors>dikran s. meliksetian,jean-pierre prost,amarjit s. bahl,irwin boutboul,david p. currier,sebastien fibra,kevin m. kassab,jean-luc lepesant,colm malone,paul manesco</authors>
+		<jconf>Ibm Systems Journal</jconf>
+		<label>352</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

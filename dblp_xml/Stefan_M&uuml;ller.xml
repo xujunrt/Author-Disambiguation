@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan M&amp;uuml;ller</FullName>
+	<publication>
+		<title>An augmented reality weather system</title>
+		<year>2008</year>
+		<authors>marko heinrich,bruce h. thomas,christian sandor</authors>
+		<jconf>Advances in Computer Entertainment Technology</jconf>
+		<label>969</label>
+		<keyword>Augmented Reality;Mobile Augmented Reality;User Study;Wearable Computer;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents ARWeather, a simulation application, which can simulate three types of precipitation: rain, snow, and hail. We examined a range of weather phenomenon and how they may be simulated in a mobile augmented reality system. ARWeather was developed and deployed on the Tinmith wearable computer system to enable autonomous and free movement for the user. The user can</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating the Performance of Processing Medical Volume Data on Graphics Hardware</title>
+		<year>2008</year>
+		<authors>matthias raspe,guido lorenz</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>969</label>
+		<keyword>Data Processing;Data Transfer;Graphics Hardware;Graphics Processors;Hardware Implementation;Interactive Application;Limiting Factor;Volume Data;</keyword>
+		<organization>null</organization>
+		<abstract>With the broad availability and increasing performance of commodity graphics processors (GPU), non-graphical applications have become an active field of research. However, leveraging the performance for advanced applications combining hardware and software implemen- tations is more than just efficient shader programming: the data transfer is often the main limiting factor. Therefore, we will investigate in the applicability of commodity graphics</abstract>
+	</publication>
+	<publication>
+		<title>Cybernarium Days 2002 - A Public Experience of Virtual and Augmented Worlds</title>
+		<year>2002</year>
+		<authors>johannes behr,peter eschler,torsten fröhlich,christian knöpfle,bernd lutz,marcus roth</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>969</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Collaborative Mixed Reality Exposure Therapy</title>
+		<year>2006</year>
+		<authors>holger regenbrecht,daniel wickeroth,brian dixon</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>969</label>
+		<keyword>Exposure Therapy;Mental Disorder;Mixed Reality;Remote Collaboration;Virtual Reality;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>In addition to established methods, the treatment of mental disorders using Virtual Reality Exposure Therapy is becoming commonplace. We present an approach, which extends this concept in three ways: (1) the provision of maximum control for the therapist over the exposure environment, (2) the inclusion of different media and mediation elements in the virtuality continuum in Mixed Reality, and (3)</abstract>
+	</publication>
+	<publication>
+		<title>Complex Cable Bundle Simulation and Validation in VR</title>
+		<year>2008</year>
+		<authors>christian wienss,julia scharping,igor n. nikitin,gernot goebbels,martin göbel,nils hornung</authors>
+		<jconf>European Symposium on Computer Modeling and Simulation</jconf>
+		<label>969</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graphics and Visualization: The Essential Features for the Classification of Systems</title>
+		<year>1993</year>
+		<authors>josé l. encarnação,peter astheimer,wolfgang felger,thomas frühauf,martin göbel</authors>
+		<jconf>International Conference on Computer Graphics</jconf>
+		<label>969</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ARWeather - An Augmented Reality Weather system</title>
+		<year>2008</year>
+		<authors>marko heinrich,bruce h. thomas</authors>
+		<jconf>International Symposium on Mixed and Augmented Reality</jconf>
+		<label>969</label>
+		<keyword>Augmented Reality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hand Gesture Recognition with a Novel IR Time-of-Flight Range Camera-A Pilot Study</title>
+		<year>2007</year>
+		<authors>pia breuer,christian eckes</authors>
+		<jconf>MIRAGE</jconf>
+		<label>969</label>
+		<keyword>Computer Graphic;Degree of Freedom;Gesture Recognition;Hand Gesture Recognition;Man Machine Interface;Median Filter;Pilot Study;Principle Component Analysis;Infra Red;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>We present a gesture recognition system for recogniz- ing hand movements in near realtime. The system uses a infra-red time-of-flight range camera with up to 30 Hz framerate to measure 3d-surface points captured from the hand of the user. The mea- sured data is transformed into a cloud of 3d-points after depth key- ing and suppression of camera noise by</abstract>
+	</publication>
+	<publication>
+		<title>A Radiosity Approach for the Simulation of Daylight</title>
+		<year>1995</year>
+		<authors>wolfram kresse,neil gatenby,frank schöffel</authors>
+		<jconf>Eurographics Symposium on Rendering/Eurographics Workshop on Rendering Techniques</jconf>
+		<label>969</label>
+		<keyword>Form Factor;Time of Day;Weather Condition;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, an extension to the radiosity method, for the simulation of daylight, is presented. The sky hemisphere around the scene is subdivided into a set of sky patches. By defining a location on the earth, a time of day and the weather conditions (e.g., clear sky, overcast, partly cloudy) a sky model (e.g., CIE or Perez) is applied</abstract>
+	</publication>
+	<publication>
+		<title>Consistent interactive augmentation of live camera images with correct near-field illumination</title>
+		<year>2007</year>
+		<authors>thorsten grosch,tobias eble</authors>
+		<jconf>Virtual Reality Software and Technology</jconf>
+		<label>969</label>
+		<keyword>Global Illumination;High Dynamic Range;Image Synthesis;Importance Sampling;Near Field;Shadow Mapping;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Inserting virtual objects in real camera images with correct lighting is an active area of research. Current methods use a high dynamic range camera with a fish-eye lens to capture the incoming illumination. The main problem with this approach is the limitation to distant illumination. Therefore, the focus of our work is a real-time description of both near - and</abstract>
+	</publication>
+	<publication>
+		<title>Sceptre: an infrared laser tracking system for virtual environments</title>
+		<year>2006</year>
+		<authors>christian wienss,igor n. nikitin,gernot goebbels,klaus troche,martin göbel,lialia nikitina</authors>
+		<jconf>Virtual Reality Software and Technology</jconf>
+		<label>969</label>
+		<keyword>3d reconstruction;Infrared;Input Device;Tracking System;Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper a 3D tracking system for Virtual Environments is presented which utilizes infrared (IR) laser technology. Invisible laser patterns are projected from the user(s) to the screen via the input device Sceptre or the appending headtracking device. IR-sensible cameras which are placed near the projectors in a backprojection setup recognize the pattern. That way position and orientation of</abstract>
+	</publication>
+	<publication>
+		<title>PROSECO - A Framework Architecture to Provide Services for Economic Data</title>
+		<year>2000</year>
+		<authors>miriam lux,ralf stuckert</authors>
+		<jconf>International Conference in Central Europe on Computer Graphics and Visualization</jconf>
+		<label>969</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual design: A generic VR system for industrial applications</title>
+		<year>1993</year>
+		<authors>peter astheimer,wolfgang felger</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>969</label>
+		<keyword>Industrial Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Ray/Axis-Aligned Bounding Box Overlap Tests using Ray Slopes</title>
+		<year>2007</year>
+		<authors>martin eisemann,marcus a. magnor,thorsten grosch</authors>
+		<jconf></jconf>
+		<label>969</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel LDPC decoder for DVB-S2 IP</title>
+		<year>2009</year>
+		<authors>manuel schreger,marten kabutz,matthias alles,frank kienle,norbert wehn</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>970</label>
+		<keyword>Forward Error Correction;Low Density Parity Check;Power Consumption;Soft Decision Decoding;Gauss Seidel;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper a programmable Forward Error Correction (FEC) IP for a DVB-S2 receiver is presented. It is composed of a Low-Density Parity Check (LDPC), a Bose-Chaudhuri-Hoquenghem (BCH) decoder, and pre- and postprocessing units. Special emphasis is put on LDPC decoding, since it accounts for the most complexity of the IP core by far. We propose a highly efficient LDPC</abstract>
+	</publication>
+	<publication>
+		<title>Soziale Kompetenzen in der Online-Programmierausbildung</title>
+		<year>2003</year>
+		<authors>gudrun görlitz,oliver grimm</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>971</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Yet Another Paper about Partial Verb Phrase Fronting in German</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>972</label>
+		<keyword>Word Order;Verb Phrase;</keyword>
+		<organization>null</organization>
+		<abstract>I describe a very simple HPSG analysis for partial verb phrase fronting. I will argue that the presented account is more adequate than others made during the past years because it allows the description of constituents in fronted positions with their modifier remaining in the nonzfronted part of the sentence.A problem with ill-formed signs that are admitted by all HPSG</abstract>
+	</publication>
+	<publication>
+		<title>Object to Subject Raising or Lexical Rule - An HPSG Analysis of the German Passive</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>KONVENS - Verarbeitung nat��rlicher Sprache</jconf>
+		<label>972</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Complement Extraction Lexical Rules and Argument Attraction</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>KONVENS - Verarbeitung nat��rlicher Sprache</jconf>
+		<label>972</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Yet Another Paper about Partial Verb Phrase Fronting in German</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>972</label>
+		<keyword>Word Order;Verb Phrase;</keyword>
+		<organization>null</organization>
+		<abstract>I describe a very simple HPSG analysis for partial verb phrase fronting. I will argue that the presented account is more adequate than others made during the past years because it allows the description of constituents in fronted positions with their modifier remaining in the nonzfronted part of the sentence.A problem with ill-formed signs that are admitted by all HPSG</abstract>
+	</publication>
+	<publication>
+		<title>An HPSG Analysis of German Depictive Secondary Predicates</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>972</label>
+		<keyword>Argument Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An HPSG-Analysis for Free Relative Clauses in German</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Grammars</jconf>
+		<label>972</label>
+		<keyword>Formal Grammar;Relative Clause;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

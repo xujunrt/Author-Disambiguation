@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chris Lewis</FullName>
+	<publication>
+		<title>Runtime repair of software faults using event-driven monitoring</title>
+		<year>2010</year>
+		<authors>jim whitehead</authors>
+		<jconf></jconf>
+		<label>140</label>
+		<keyword>Emergent Properties;Video Game;Best Effort;</keyword>
+		<organization>null</organization>
+		<abstract>In software with emergent properties, despite the best efforts to remove faults before execution, there is a high likelihood that faults will occur during runtime. These faults can lead to unacceptable program behavior during execution, even leading to the program terminating unexpectedly. Using a distributed event-driven runtime software-fault monitor to repair faulty states creates an enforceable runtime specification. Using such</abstract>
+	</publication>
+</person>

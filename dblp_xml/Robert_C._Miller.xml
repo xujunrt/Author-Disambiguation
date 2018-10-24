@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Robert C. Miller</FullName>
+	<publication>
+		<title>Synchronizing clipboards of multiple computers</title>
+		<year>1999</year>
+		<authors>brad a. myers</authors>
+		<jconf>User Interface Software and Technology</jconf>
+		<label>874</label>
+		<keyword>Data Transfer;Distributed System;Drag and Drop;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a new technique for transferring data between computers, the synchronized clipboard. Multiple computers can share a synchronized clipboard for all clipboard operations, so that data copied to the clipboard from one computer, using the standard Copy command, can be pasted directly on another computer using the standard Paste command. Synchronized clipboards are well-suited for a single user</abstract>
+	</publication>
+</person>

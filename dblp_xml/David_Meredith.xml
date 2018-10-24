@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Meredith</FullName>
+	<publication>
+		<title>Principal Type-Schemes and Condensed Detachment</title>
+		<year>1990</year>
+		<authors>j. roger hindley</authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>198</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

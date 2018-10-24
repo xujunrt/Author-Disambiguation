@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qiang Yang</FullName>
+	<publication>
+		<title>Axiomatic Definition of Knowledge Granularity and Its Constructive Method</title>
+		<year>2008</year>
+		<authors>ming-qing zhao,de-zhi gao</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>835</label>
+		<keyword>Granular Computing;Information System;Knowledge Discovery and Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Granular computing has impact on development methods in such areas as knowledge discovery and data mining. This paper flrstly presents a new axiomatic deflnition of knowledge granularity, then gives a series of methods of measuring knowledge granularity including concrete measurements lacking parameters and general measurements with para- meters. Furthermore, several combinatorial forms of difierent granularity formulas are described. The principal</abstract>
+	</publication>
+</person>

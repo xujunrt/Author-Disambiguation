@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Schmidt</FullName>
+	<publication>
+		<title>Integrating Techniques from Statistical Ranking into Evolutionary Algorithms</title>
+		<year>2006</year>
+		<authors>jürgen branke,stephen e. chick</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>146</label>
+		<keyword>Evolutionary Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selection in the Presence of Noise</title>
+		<year>2003</year>
+		<authors>jürgen branke</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>146</label>
+		<keyword>Evolutionary Optimization;Optimal Algorithm;Optimization Problem;Stochastic Search;</keyword>
+		<organization>null</organization>
+		<abstract>For noisy optimization problems, there is generally a trade-off between the effort spent to reduce the noise (in order to allow the optimization algorithm to run properly), and the number of solutions evaluated during optimization. However, for stochastic search algorithms like evolutionary optimization, noise is not always a bad thing. On the contrary, in many cases, noise has a very</abstract>
+	</publication>
+	<publication>
+		<title>Transport Channel Selection</title>
+		<year>2006</year>
+		<authors>jürgen branke,denis häußler</authors>
+		<jconf>Operations Research</jconf>
+		<label>146</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequential Sampling in Noisy Environments</title>
+		<year>2004</year>
+		<authors>jürgen branke</authors>
+		<jconf>Parallel Problem Solving from Nature</jconf>
+		<label>146</label>
+		<keyword>Sequential Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fast Look-ahead Heuristic for the Multi-depot Vehicle Routing Problem</title>
+		<year>2007</year>
+		<authors>jürgen branke,markus withopf</authors>
+		<jconf>Wirtschaftsinformatik</jconf>
+		<label>146</label>
+		<keyword>Benchmark Problem;Supply Chain;Look Ahead;Multi Depot Vehicle Routing Problem;</keyword>
+		<organization>null</organization>
+		<abstract>The multi-depot vehicle routing problem (MDVRP) is a very challenging part of supply chain optimization. We propose here a simple yet powerful heuristic for the MDVRP with an integrated look-ahead. Compared to other state-of-the-art approaches, our heuristic is significantly faster, but yields competitive results and even found several new best solutions on a set of standard benchmark problems.</abstract>
+	</publication>
+	<publication>
+		<title>New developments in ranking and selection: an empirical comparison of the three main approaches</title>
+		<year>2005</year>
+		<authors>jürgen branke,stephen e. chick</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>146</label>
+		<keyword>bayesian model;Opportunity Cost;Ranking and Selection;Stopping Rule;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>Selection procedures are used in many applications to select the best of a finite set of alternatives, as in discrete optimi za- tion with simulation. There are a wide variety of procedures, which begs the question of which selection procedure to select. This paper (a) summarizes the main structural ap- proaches to deriving selection procedures, (b) describes a n innovative</abstract>
+	</publication>
+	<publication>
+		<title>New greedy myopic and existing asymptotic sequential selection procedures: preliminary empirical results</title>
+		<year>2007</year>
+		<authors>stephen e. chick,jürgen branke</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>146</label>
+		<keyword>bayesian approach;Stopping Rule;Expected Value of Information;</keyword>
+		<organization>null</organization>
+		<abstract>Statistical selection procedures can identify the best of a finite set of alternatives, where &quot;best&quot; is defined in terms of the unknown expected value of each alternative's sim- ulation output. One effective Bayesian approach allocates samples sequentially to maximize an approximation to the expected value of information (EVI) from those samples. That existing approach uses both asymptotic and probabilis- tic</abstract>
+	</publication>
+	<publication>
+		<title>Simulated annealing in the presence of noise</title>
+		<year>2008</year>
+		<authors>jürgen branke,stephan meisel</authors>
+		<jconf>Journal of Heuristics</jconf>
+		<label>146</label>
+		<keyword>Simulated Annealing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sequential Sampling to Myopically Maximize the Expected Value of Information</title>
+		<year>2010</year>
+		<authors>stephen e. chick,jürgen branke</authors>
+		<jconf>Informs Journal on Computing</jconf>
+		<label>146</label>
+		<keyword>Decision Analysis;Probability Model;Sequential Sampling;Statistical Analysis;Expected Value of Information;</keyword>
+		<organization>null</organization>
+		<abstract>approach, which is based on a Bayesian probability model for the unknown mean performance of each alternative, allocates samples based on maximizing an approximation to the expected value of information (EVI) from those samples. The approximations include asymptotic and probabilistic approximations. This paper derives sampling allocations that avoid most of those approximations to the EVI, but entails sequential myopic sampling</abstract>
+	</publication>
+	<publication>
+		<title>Selecting a Selection Procedure</title>
+		<year>2007</year>
+		<authors>jürgen branke,stephen e. chick</authors>
+		<jconf>Management Science</jconf>
+		<label>146</label>
+		<keyword>bayesian model;Normal Distribution;Simulation Optimization;Stopping Rule;Test Bed;</keyword>
+		<organization>null</organization>
+		<abstract>Selection procedures are used in a variety of applications to select the best of a finite set of alternatives. 'Best' is defined with respect to the largest mean, but the mean is inferred with statistical sampling, as in simulation optimization. There are a wide variety of procedures, which begs the question of which selection procedure to select. The main contribution</abstract>
+	</publication>
+	<publication>
+		<title>Faster convergence by means of fitness estimation</title>
+		<year>2005</year>
+		<authors>jürgen branke</authors>
+		<jconf>Soft Computing</jconf>
+		<label>146</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

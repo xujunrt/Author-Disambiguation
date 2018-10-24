@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Mandl</FullName>
+	<publication>
+		<title>Scalable Semantic Annotation Using Lattice-Based Ontologies</title>
+		<year>2009</year>
+		<authors>man-kit leung,edward a. lee,elizabeth latronico,charles p. shelton,stavros tripakis,ben lickly</authors>
+		<jconf>Model Driven Engineering Languages and Systems</jconf>
+		<label>1015</label>
+		<keyword>Semantic Annotation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Parallel Production System Architecture</title>
+		<year>1991</year>
+		<authors>e. bahr,franz barachini,j. doppelbauer,h. gräbner,f. kasparec,hans mistelberger</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>1015</label>
+		<keyword>Production System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Network Time Interface M-Module for Distributing GPS-Time over LANs</title>
+		<year>2000</year>
+		<authors>ulrich schmid,johann klasek,herbert nachtnebel,gerhard cadek,nikolaus kerö</authors>
+		<jconf>Real-time Systems</jconf>
+		<label>1015</label>
+		<keyword>Clock Synchronization;Distributed Real-time System;High Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: This paper provides a comprehensive overview of our Network Time Interface (NTI) M-Module, which facilitates high-accuracy time distribution in LAN-based distributed real-time systems. Built around our custom UTCSU VLSI chip, it hosts all the hardware support required for interval-based external clock synchronization: A high-resolution state- and rate-adjustable clock, local accuracy intervals, interfaces to GPS receivers, and various timestamping features.</abstract>
+	</publication>
+</person>

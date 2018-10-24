@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J&amp;uuml;rgen Zimmermann</FullName>
+	<publication>
+		<title>JPMQ - An Advanced Persistent Message Queuing Service</title>
+		<year>1998</year>
+		<authors>hans-peter steiert</authors>
+		<jconf>British National Conference on Databases</jconf>
+		<label>329</label>
+		<keyword>Message Oriented Middleware;</keyword>
+		<organization>null</organization>
+		<abstract>. Message oriented middleware (MOM) services, based on theconcept of persistent queues, are widely used for reliable asynchronouscommunication to deal with the disadvantages of the closely coupledcommunication model. This paper introduces some new functionality forqueuing services (QS) in order to make them more powerful for the needof modern application programs and presents JPMQ, a sample implementationof these concepts. As such,</abstract>
+	</publication>
+	<publication>
+		<title>Bericht zur BTW 2001</title>
+		<year>2001</year>
+		<authors>markus bon,marcus flehmig,theo härder,jernej kovse,wolfgang mahnke,ulrich marder,norbert ritter,hans-peter steiert</authors>
+		<jconf>Datenbank Rundbrief</jconf>
+		<label>329</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>9. Workshop Transaktionen und ihre Anwendung: Protokolle der Diskussionen</title>
+		<year>1998</year>
+		<authors>petra heinl,udo reffke,guntram flach,karsten wendt,torsten ripke,heiko schuldt,angelo brayner,andreas heuer,uta störl,klaudia hergula,kerstin schneider,aiko frank,stephan zimmermann</authors>
+		<jconf>Datenbank Rundbrief</jconf>
+		<label>329</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

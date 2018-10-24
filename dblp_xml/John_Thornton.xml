@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>John Thornton</FullName>
+	<publication>
+		<title>Converting from a DEC system10 to VAX</title>
+		<year>1987</year>
+		<authors></authors>
+		<jconf>SIGUCCS Conference on User Services</jconf>
+		<label>435</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>May 15th 1986, we unplugged our DECsystem-10 after 17 years of service, and replaced it with new VAXes. We had to not only learn a new system, but prepare our users for the changeover, and help them learn the VAX.We looked for ways to make sure DEC-10 users would know their computer was leaving. We surveyed users looking for potential</abstract>
+	</publication>
+</person>

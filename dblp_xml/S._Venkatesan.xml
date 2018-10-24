@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>S. Venkatesan</FullName>
+	<publication>
+		<title>Three Degree of Freedom Tracking in Realtime Using a Wrist-Mounted Laser Range Finder</title>
+		<year>1989</year>
+		<authors>c. archibald</authors>
+		<jconf>Intelligent Autonomous Systems</jconf>
+		<label>907</label>
+		<keyword>Degree of Freedom;Laser Range Finder;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hardware/software cosynthesis: multiple constraint satisfaction and component retrieval</title>
+		<year>1996</year>
+		<authors>r. miller,h. carter,k. davis</authors>
+		<jconf>International Conference on Engineering of Complex Computer Systems</jconf>
+		<label>908</label>
+		<keyword>Multiple Constraints;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recovery model for free-roaming mobile agent against multiple attacks</title>
+		<year>2007</year>
+		<authors>c. chellappan</authors>
+		<jconf>International Conference on Mobile Multimedia Communications</jconf>
+		<label>909</label>
+		<keyword>Distributed Database;Malicious Host;Mobile Agent;Mobile Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>In the free-roaming mobile agent system, the recovery model is complicated then the itinerary mobile agent systems and the distributed Database environment. This paper proposes the recovery model for free-roaming mobile agent and its collected offers by the k-response methods to improve the tolerance of the agent failure or occupied by the malicious host. In the k-response model it is</abstract>
+	</publication>
+	<publication>
+		<title>Protecting free-roaming mobile agent against multiple colluded truncation attacks</title>
+		<year>2007</year>
+		<authors>c. chellappan</authors>
+		<jconf>International Conference on Mobile Multimedia Communications</jconf>
+		<label>909</label>
+		<keyword>Emerging Technology;Mobile Agent;Network Traffic;</keyword>
+		<organization>null</organization>
+		<abstract>Mobile agent environment is one of the emerging technology to reduce the network traffic. Various security issues are identified and protected. Now the new security issue in this environment is the multiple colluded truncation attacks in the Free-roaming mobile agents. This paper proposes the identity verification mechanism to protect the multiple colluded truncation attacks The identification is verified from the</abstract>
+	</publication>
+	<publication>
+		<title>Generating routing table for free roaming mobile agent in distributed environment</title>
+		<year>2009</year>
+		<authors>c. chellappan</authors>
+		<jconf>Computer Standards &amp; Interfaces</jconf>
+		<label>909</label>
+		<keyword>Distributed Environment;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance analysis of mobile agent failure recovery in e-service applications</title>
+		<year>2010</year>
+		<authors>c. chellappan,p. dhavachelvan</authors>
+		<jconf>Computer Standards &amp; Interfaces</jconf>
+		<label>909</label>
+		<keyword>Failure Recovery;Mobile Agent;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

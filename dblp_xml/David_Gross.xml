@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Gross</FullName>
+	<publication>
+		<title>Switch-Level Concurrent Fault Simulation Based on a General Purpose List Traversal Mechanism</title>
+		<year>1988</year>
+		<authors>deborah machlin,sudhir kadkade,ernst ulrich</authors>
+		<jconf>International Test Conference</jconf>
+		<label>193</label>
+		<keyword>Fault Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

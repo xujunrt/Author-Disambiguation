@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Do Van Thanh</FullName>
+	<publication>
+		<title>A Relationship Between the Probabilistic and the Possibilistic Logic</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Computing and Informatics / Computers and Artificial Intelligence</jconf>
+		<label>211</label>
+		<keyword>possibilistic logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Possibilistic Information Measures and Selection Approach</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Computing and Informatics / Computers and Artificial Intelligence</jconf>
+		<label>211</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

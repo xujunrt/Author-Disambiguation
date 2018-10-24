@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Gao</FullName>
+	<publication>
+		<title>Finding Extrema with Unary Predicates</title>
+		<year>1993</year>
+		<authors>leonidas j. guibas,david g. kirkpatrick,william t. laaser,james b. saxe</authors>
+		<jconf>Algorithmica</jconf>
+		<label>231</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding Extrema with Unary Predicates</title>
+		<year>1993</year>
+		<authors>leonidas j. guibas,david g. kirkpatrick,william t. laaser,james b. saxe</authors>
+		<jconf>Algorithmica</jconf>
+		<label>231</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic analysis of numerical integration algorithms</title>
+		<year>1991</year>
+		<authors></authors>
+		<jconf>Journal of Complexity</jconf>
+		<label>231</label>
+		<keyword>Numerical Integration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Detecting Regularity of Functions: A Probabilistic Analysis</title>
+		<year>1993</year>
+		<authors>grzegorz w. wasilkowski</authors>
+		<jconf>Journal of Complexity</jconf>
+		<label>231</label>
+		<keyword>Probabilistic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Structured Parallel Computing on Architecture-Independent Parallel Algorithm Design for Distributed-Memory Architectures</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Journal of Computer and System Sciences</jconf>
+		<label>231</label>
+		<keyword>Distributed Memory Architecture;Parallel Algorithm;Parallel Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A note on communication analysis of parallel sparse Cholesky factorization on a hypercube</title>
+		<year>1990</year>
+		<authors>beresford n. parlett</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>231</label>
+		<keyword>cholesky factorization;Community Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

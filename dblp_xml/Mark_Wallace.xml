@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mark Wallace</FullName>
+	<publication>
+		<title>Leveraging OWL-DL, SPARQL, and XSLT to Automate Cybercraft Configuration</title>
+		<year>2008</year>
+		<authors>aaron wheeler,michael winburn,james dike,william maxey</authors>
+		<jconf>International Conference on Artificial Intelligence</jconf>
+		<label>625</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Cybercraft System Ontology: An Ontology for Reasoning about Distributed Agent Capabilities</title>
+		<year>2008</year>
+		<authors>aaron wheeler,michael winburn,james dike,john maxey</authors>
+		<jconf>International Conference on Artificial Intelligence</jconf>
+		<label>625</label>
+		<keyword>Distributed Agents;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Agile Development of Workflow Applications with Interpreted Task Models</title>
+		<year>2007</year>
+		<authors>markus stolze,philippe riand,terry heath</authors>
+		<jconf>Task Models and Diagrams for User Interface Design</jconf>
+		<label>626</label>
+		<keyword>Agile Development;Task Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

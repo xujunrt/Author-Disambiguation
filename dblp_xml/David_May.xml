@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David May</FullName>
+	<publication>
+		<title>A knowledge-based system to improve the quality and efficiency of titanium melting</title>
+		<year>2003</year>
+		<authors>eric stein,mark c. pauster</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>197</label>
+		<keyword>Continuous Improvement;Costs and Benefits;Decision Making;Document Management;Information Technology;Knowledge Acquisition;Knowledge Base;Knowledge Based System;Process Development;System Architecture;Titanium;Decision Support;Electron Beam;Expert System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper outlines the application of a knowledge-based expert system to assist the furnace production staff in diagnosing and correcting Electron Beam (EB) guns, which are used to melt titanium. The characteristics of a titanium melting facility, its business objectives, and the responsibilities of its furnace operators are reviewed. Alternative solutions to the problem of accurately troubleshooting EB gun failures</abstract>
+	</publication>
+</person>

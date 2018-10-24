@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manish Gupta</FullName>
+	<publication>
+		<title>Detecting image spam using visual features and near duplicate detection</title>
+		<year>2008</year>
+		<authors>bhaskar mehta,saurabh nangia,wolfgang nejdl</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>603</label>
+		<keyword>Distance Measure;Duplicate Detection;Gaussian Mixture Model;Image Analysis;Machine Learning;Spam Detection;Support Vector Machine;Visual Features;Information Bottleneck;Jensen Shannon Divergence;</keyword>
+		<organization>null</organization>
+		<abstract>Email spam is a much studied topic, but even though current email spam detecting software has been gaining a competitive edge against text based email spam, new advances in spam generation have posed a new challenge: image-based spam. Image based spam is email which includes embedded images containing the spam messages, but in binary format. In this paper, we study</abstract>
+	</publication>
+	<publication>
+		<title>Intrusion Countermeasures Security Model Based on Prioritization Scheme for Intranet Access Security</title>
+		<year>2003</year>
+		<authors>shamik banerjee,h. raghav rao,shambhu j. upadhyaya</authors>
+		<jconf>IEEE Information Assurance Workshop</jconf>
+		<label>604</label>
+		<keyword>Security Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information assurance metric development framework for electronic bill presentment and payment systems using transaction and workflow analysis</title>
+		<year>2005</year>
+		<authors>g. b. tanna,h. raghav rao,shambhu j. upadhyaya</authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>604</label>
+		<keyword>Information Assurance;It Security;Secure System;Security Metric;Service Delivery;Electronic Bill Presentment and Payment;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract One of the fastest growing applications in the banking arena is Electronic Bill Presentation and Payment (EBPP), driven primarily by a desire to reduce costs associated with issuing and settling physical bills. EBPP is a secure system for companies to electronically present bills and other related information to their customers, and host the secure payment of these bills. This</abstract>
+	</publication>
+	<publication>
+		<title>Security analysis of Internet technology components enabling globally distributed workplaces&amp;mdash;a framework</title>
+		<year>2008</year>
+		<authors>shamik banerjee,manish agrawal,h. raghav rao</authors>
+		<jconf>ACM Transactions on Internet Technology</jconf>
+		<label>604</label>
+		<keyword>Business Process;Development Tool;Financial Institutions;Information Flow;Information Security;Information System;Internet Application;Internet Technology;Legislation;Risk Management;Security Analysis;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>As organizations increasingly operate, compete, and cooperate in a global context, business processes are also becoming global to propagate the benefits from coordination and standardization across geographical boundaries. In this context, security has gained significance due to increased threats, as well as legislation and compliance issues. This article presents a framework for assessing the security of Internet technology components that</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Query Interface for Mining Crime Data</title>
+		<year>2007</year>
+		<authors>b. chandra</authors>
+		<jconf>Databases in Networked Information Systems</jconf>
+		<label>605</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Approach for Estimating Probabilities in Naive-Bayes Classifier</title>
+		<year>2007</year>
+		<authors>b. chandra</authors>
+		<jconf>Pattern Recognition and Machine Intelligence</jconf>
+		<label>605</label>
+		<keyword>Naive Bayes Classifier;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Problem Determination Using Dependency Graphs and Run-Time Behavior Models</title>
+		<year>2004</year>
+		<authors>manoj k. agarwal,karen appleby,gautam kar,anindya neogi,anca sailer</authors>
+		<jconf>Distributed Systems, Operations and Management</jconf>
+		<label>606</label>
+		<keyword>Behavior Modeling;Dependence Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Extraction of Adaptive Change Point Based Patterns for Problem Resolution in Enterprise Systems</title>
+		<year>2006</year>
+		<authors>manoj k. agarwal,narendran sachindran,vijay mann</authors>
+		<jconf>Distributed Systems, Operations and Management</jconf>
+		<label>606</label>
+		<keyword>Adaptive Learning;Automatic Generation;Change Point;Change Point Detection;Data Mining;Enterprise System;Fault Localization;Health Monitoring;Middleware;Performance Metric;Learning Problems;</keyword>
+		<organization>null</organization>
+		<abstract>Enterprise middleware systems typically consist of a large cluster of machines with stringent performance requirements. Hence, when a performance problem occurs in such environments, it is critical that the health monitoring software identifies the root cause of the problem with minimal delay. A technique commonly used for isolating performance problem root causes is rule definition, which involves specifying combinations or</abstract>
+	</publication>
+	<publication>
+		<title>Discovering Dynamic Dependencies in Enterprise Environments for Problem Determination</title>
+		<year>2003</year>
+		<authors>anindya neogi,manoj k. agarwal,gautam kar</authors>
+		<jconf>Distributed Systems, Operations and Management</jconf>
+		<label>606</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Determining configuration parameter dependencies via analysis of configuration data from multi-tiered enterprise applications</title>
+		<year>2009</year>
+		<authors>vinod ramachandran,manish sethi,soudip roy chowdhury</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>606</label>
+		<keyword>Crossed Product;Dependent Data;Production System;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-tiered enterprise applications, which comprise of many (heterogeneous and possibly loosely coupled) components at various layers of the IT stack, typically have configuration dependencies between these different components. A change in the value of a configuration parameter of a component may require changing one or more parameters of other components to the same value. Keeping track of these dependencies is</abstract>
+	</publication>
+	<publication>
+		<title>Rapid Deployment of SOA Solutions via Automated Image Replication and Reconfiguration</title>
+		<year>2008</year>
+		<authors>manish sethi,kalapriya kannan,narendran sachindran</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>606</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Problem Determination in Enterprise Middleware Systems using Change Point Correlation of Time Series Data</title>
+		<year>2006</year>
+		<authors>manoj k. agarwal,vijay mann,narendran sachindran,nikos anerousis,lily b. mummert</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>606</label>
+		<keyword>Change Point;Change Point Detection;Cluster System;False Positive;Health Monitoring;Indexing Terms;Log Files;Middleware;Time Series Data;</keyword>
+		<organization>null</organization>
+		<abstract>Clustered enterprise middleware systems employing dynamic workload scheduling are susceptible to a variety of application malfunctions that can manifest themselves in a counterintuitive fashion and cause debilitating damage. Until now, diagnosing problems in that domain involves investigating log files and configuration settings and requires in-depth knowledge of the middleware architecture and application design. This paper presents a method for problem</abstract>
+	</publication>
+	<publication>
+		<title>Real-time problem localization for synchronous transactions in HTTP-based composite enterprise applications</title>
+		<year>2008</year>
+		<authors>narendran sachindran</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>606</label>
+		<keyword>Base Composition;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An open framework for federating integrated management model of distributed it environment</title>
+		<year>2008</year>
+		<authors>manish sethi,ashok anand,dipayan gangopadhyay,venkateswara reddy madduri</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>606</label>
+		<keyword>Integrated Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Nonblocking Algorithm for the Distributed Simulation of FCFS Queueing Networks with Irreducible Markovian Routing</title>
+		<year>1998</year>
+		<authors>anurag kumar</authors>
+		<jconf>ACM Sigsim Simulation Digest</jconf>
+		<label>607</label>
+		<keyword>Distributed Simulation;Flow Control;Generic Algorithm;Queueing Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we consider the distributed simulation of queueing networks of FCFS servers with infinite buffers, and irreducible Markovian routing. We first show that for either the conservative or optimistic syn- chronization protocols the simulation of such networks can prematurely block owing to event buffer exhaus- tion. Buffer exhaustion can occur in the simulator whether or not the simulator</abstract>
+	</publication>
+	<publication>
+		<title>Queueing Models and Stability of Message Flows in Distributed Simulators of Open Queueing Networks</title>
+		<year>1996</year>
+		<authors>anurag kumar,rajeev shorey</authors>
+		<jconf>ACM Sigsim Simulation Digest</jconf>
+		<label>607</label>
+		<keyword>Distributed Simulation;Open Queueing Network;Queueing Model;Queueing Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we study message flow processes in distributed simulators of open queueing networks. We develop and study queueing models for distributed simulators with maximum lookahead sequencing. We characterize the &quot;external'' arrival process, and the message feedback process in the simulator of a simple queueing network with feedback. We show that a certain &quot;natural'' modelling construct for the arrival</abstract>
+	</publication>
+	<publication>
+		<title>Effective Management of Location Dependent Continuous Queries in Mobile Environment</title>
+		<year>2002</year>
+		<authors>latifur khan</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>608</label>
+		<keyword>Continuous Query;Mobile Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Test Data Generation Using MEA-Graph Planning</title>
+		<year>2004</year>
+		<authors>farokh b. bastani,latifur khan,i-ling yen</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>608</label>
+		<keyword>Automated Test Data Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A study of the model and algorithms for handling location-dependent continuous queries</title>
+		<year>2005</year>
+		<authors>manghui tu,latifur khan,farokh b. bastani,i-ling yen</authors>
+		<jconf>Knowledge and Information Systems</jconf>
+		<label>608</label>
+		<keyword>Continuous Query;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rapid goal-oriented automated software testing using MEA-graph planning</title>
+		<year>2007</year>
+		<authors>jicheng fu,farokh b. bastani,latifur khan,i-ling yen</authors>
+		<jconf>Software Quality Journal</jconf>
+		<label>608</label>
+		<keyword>Ai Planning;Automated Planning;Automatic Generation;Development Process;Distributed System;Goal Orientation;Software Development Process;Software Systems;Software Testing;Test Automation;</keyword>
+		<organization>null</organization>
+		<abstract>With the rapid growth in the development of sophisticated modern software applications, such as multimodal distributed systems, the complexity of the software development process has increased enormously, posing an urgent need for the automation of some of the more time-consuming aspects of the development process. One of the key stages in the software development process is system testing. In this</abstract>
+	</publication>
+</person>

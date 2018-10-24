@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Yang</FullName>
+	<publication>
+		<title>Query processing of massive trajectory data based on mapreduce</title>
+		<year>2009</year>
+		<authors>qiang ma,weining qian,aoying zhou</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>84</label>
+		<keyword>Data Partitioning;Data Processing;Indexation;Large Scale;Location Awareness;Location Based Service;Moving Object;Parallel Processing;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>With the development of positioning technologies and the boosting deployment of inexpensive location-aware sensors, large volumes of trajectory data have emerged. However, efficient and scalable query processing over trajectory data remains a big challenge. We explore a new approach to this target in this paper, presenting a new framework for query processing over trajectory data based on MapReduce. Traditional trajectory</abstract>
+	</publication>
+	<publication>
+		<title>Scalable continuous range monitoring of moving objects in symbolic indoor space</title>
+		<year>2009</year>
+		<authors>hua lu,christian s. jensen</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>84</label>
+		<keyword>Experimental Study;Moving Object;Range Query;Spatial Networks;</keyword>
+		<organization>null</organization>
+		<abstract>Indoor spaces accommodate large populations of individuals. The continuous range monitoring of such objects can be used as a foun- dation for a wide variety of applications, e.g., space planning, way finding, and security. Indoor space differs from outdoor space in that symbolic locations, e.g., rooms, rather than Euclidean posi- tions or spatial network locations are important. In addition, posi-</abstract>
+	</publication>
+	<publication>
+		<title>TRUSTER: TRajectory Data Processing on ClUSTERs</title>
+		<year>2009</year>
+		<authors>qiang ma,weining qian,aoying zhou</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>84</label>
+		<keyword>Data Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic threshold k nearest neighbor queries over moving objects in symbolic indoor space</title>
+		<year>2010</year>
+		<authors>hua lu,christian s. jensen</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>84</label>
+		<keyword>Algorithms and Data Structure;Empirical Study;Index Structure;Indoor Positioning;K Nearest Neighbor;Location Based Service;Moving Object;Nearest Neighbor Queries;Spatial Networks;</keyword>
+		<organization>null</organization>
+		<abstract>The availability of indoor positioning renders it possible to deploy location-based services in indoor spaces. Many such services will benefit from the efficient support for k nearest neighbor (kNN) queries over large populations of indoor moving objects. However, existing kNN techniques fall short in indoor spaces because these differ from Euclidean and spatial network spaces and because of the limited</abstract>
+	</publication>
+	<publication>
+		<title>Graph Model Based Indoor Tracking</title>
+		<year>2009</year>
+		<authors>christian s. jensen,hua lu</authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>84</label>
+		<keyword>Graph Model;Indoor Positioning;Moving Object;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The tracking of the locations of moving objects in large indoor spaces is important, as it enables a range of appli- cations related to, e.g., security and indoor navigation and guidance. This paper presents a graph model based ap- proach to indoor tracking that offers a uniform data man- agement,infrastructure for different symbolic positioning technologies, e.g., Bluetooth and RFID.</abstract>
+	</publication>
+	<publication>
+		<title>Indexing the Trajectories of Moving Objects in Symbolic Indoor Space</title>
+		<year>2009</year>
+		<authors>christian s. jensen,hua lu</authors>
+		<jconf>Symposium on Large Spatial Databases</jconf>
+		<label>84</label>
+		<keyword>Data Transformation;Indexation;Indoor Positioning;Moving Object;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>Indoor spaces accommodate large populations of individuals. With appropriate indoor positioning, e.g., Bluetooth and RFID, in place, large amounts of trajectory data result that may serve as a foundation for a wide variety of appli- cations, e.g., space planning, way finding, and security. This scenario calls for the indexing of indoor trajectories. Based on an appropriate notion of indoor trajec-</abstract>
+	</publication>
+	<publication>
+		<title>XML Structural Similarity Search Using MapReduce</title>
+		<year>2010</year>
+		<authors>peisen yuan,chaofeng sha,xiaoling wang,aoying zhou,su yang</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>84</label>
+		<keyword>Structural Similarity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Indoor - A New Data Management Frontier</title>
+		<year>2010</year>
+		<authors>christian s. jensen,hua lu</authors>
+		<jconf>IEEE Data(base) Engineering Bulletin</jconf>
+		<label>84</label>
+		<keyword>Data Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Wide Table to manage web data: a survey</title>
+		<year>2008</year>
+		<authors>weining qian,aoying zhou</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<label>84</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Georgios Papadopoulos</FullName>
+	<publication>
+		<title>Engineering Incentive Schemes for Ad Hoc Networks</title>
+		<year>2004</year>
+		<authors>philipp obreiter,birgitta könig-ries</authors>
+		<jconf>International Conference on Extending Database Technology</jconf>
+		<label>256</label>
+		<keyword>Ad Hoc Network;Incentive Scheme;Service Discovery;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In ad hoc networks, devices have to cooperate in order to compensate for the absence of infrastructure Yet, autonomous devices tend to abstain from cooperation in order to save their own resources Incentive schemes have been proposed as a means of fostering cooper - ation under these circumstances In order to work e?ectively, incentive schemes need to be carefully</abstract>
+	</publication>
+</person>

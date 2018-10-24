@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiang Wang</FullName>
+	<publication>
+		<title>Understanding and Enhancing the Folding-In Method in Latent Semantic Indexing</title>
+		<year>2006</year>
+		<authors>xiaoming jin</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>1102</label>
+		<keyword>Latent Semantic Indexing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining common topics from multiple asynchronous text streams</title>
+		<year>2009</year>
+		<authors>kai zhang,xiaoming jin,dou shen</authors>
+		<jconf>Web Search and Data Mining</jconf>
+		<label>1102</label>
+		<keyword>Empirical Study;Knowledge Discovery;Objective Function;Research Paper;Temporal Information;Text Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Text streams are becoming more and more ubiquitous, in the forms of news feeds, weblog archives and so on, which result in a large volume of data. An effective way to explore the semantic as well as temporal information in text streams is topic mining, which can further facilitate other knowledge discovery procedures. In many applications, we are facing multiple</abstract>
+	</publication>
+</person>

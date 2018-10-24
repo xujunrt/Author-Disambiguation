@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jie Wang</FullName>
+	<publication>
+		<title>Augmented Attack Tree Modeling of Distributed Denial of Services and Tree Based Attack Detection Method</title>
+		<year>2010</year>
+		<authors>raphael c.-w. phan,john n. whitley,david j. parish</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>405</label>
+		<keyword>Distributed Denial of Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

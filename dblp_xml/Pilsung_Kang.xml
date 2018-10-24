@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Pilsung Kang</FullName>
+	<publication>
+		<title>Modular, Fine-Grained Adaptation of Parallel Programs</title>
+		<year>2009</year>
+		<authors>naresh k. c. selvarasu,naren ramakrishnan,calvin j. ribbens,danesh k. tafti,srinidhi varadarajan</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>825</label>
+		<keyword>Computation Fluid Dynamics;Dynamic Change;Parallel Programs;</keyword>
+		<organization>null</organization>
+		<abstract>We present a modular approach to realizing fine-grained adaptation of program behavior in a parallel environment. Using a com- positional framework based on function call interception and manipula- tion, the adaptive logic to monitor internal program states and control the behavior of program modules is written and managed as a separate code, thus supporting centralized design of complex adaptation strategies</abstract>
+	</publication>
+	<publication>
+		<title>The Adaptive Code Kitchen: Flexible Tools for Dynamic Application Composition</title>
+		<year>2007</year>
+		<authors>mike heffner,joy mukherjee,naren ramakrishnan,srinidhi varadarajan,calvin j. ribbens,danesh k. tafti</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>825</label>
+		<keyword>Adaptive Coding;Control System;Problem Solving;recommender system;Run-time System;</keyword>
+		<organization>null</organization>
+		<abstract>Driven by the increasing componentization of scientific codes, the deployment of high-end system infrastructures such as the Grid, and the desire to support high level problem solving primitives, application composition sys- tems have become prevalent in computational science prac- tice. We present the adaptive code kitchen which, as the name connotes, is a loose collection of capabilities to help realize</abstract>
+	</publication>
+	<publication>
+		<title>Modular implementation of adaptive decisions in stochastic simulations</title>
+		<year>2009</year>
+		<authors>yang cao,naren ramakrishnan,calvin j. ribbens,srinidhi varadarajan</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>825</label>
+		<keyword>Coded Modulation;Dynamic Change;Random Number Generator;Software Tool;Stochastic Simulation;Use Case;</keyword>
+		<organization>null</organization>
+		<abstract>We present a modular approach to implement adaptive de- cisions with existing scientific codes. Using a sophisticated system software tool based on the function call intercep- tion technique, an external code module is transparently combined with the given program without altering the orig- inal code structure, resulting in a newly composed applica- tion with extended behavior. This is useful for</abstract>
+	</publication>
+</person>

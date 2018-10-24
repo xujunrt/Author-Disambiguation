@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Kuhn</FullName>
+	<publication>
+		<title>The Layered World of Scientific Conferences</title>
+		<year>2008</year>
+		<authors>roger wattenhofer</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>692</label>
+		<keyword>Layered Structure;Small World;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Recent models have introduced the notion of dimensions and hierarchies in social networks. These models motivate the mining of small world graphs under a new perspective. We exemplary base our work on a conference graph, which is constructed from the DBLP publication records. We show that this graph indeed exhibits a layered structure as the models suggest. We then introduce</abstract>
+	</publication>
+	<publication>
+		<title>Visually and Acoustically Exploring the High-Dimensional Space of Music</title>
+		<year>2009</year>
+		<authors>lukas bossard,roger wattenhofer</authors>
+		<jconf>IEEE International Conference on Computational Science and Engineering</jconf>
+		<label>692</label>
+		<keyword>Data Exploration;High Dimensionality;Information Visualization;Mobile Application;Mobile Device;Music Similarity;User Experience;User Interface;Visual Navigation;</keyword>
+		<organization>null</organization>
+		<abstract>The permanent growth of personal music collec- tions caused by the ongoing digital revolution asks for novel ways of organization. Traditional list based approaches are— particularly for use in mobile devices—no longer appropriate. In this paper we discuss two alternative exploration schemes, both taking advantage of a recently proposed high-dimensional music similarity space. First, we present an interface that facilitates</abstract>
+	</publication>
+	<publication>
+		<title>Cluestr: mobile social networking for enhanced group communication</title>
+		<year>2009</year>
+		<authors>reto grob,roger wattenhofer,martin wirz</authors>
+		<jconf>International Conference on Supporting Group Work</jconf>
+		<label>692</label>
+		<keyword>Group Communication;Group Interaction;Mobile Device;Social Network;Social Software;Mobile Terminal;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>Recent technological advances foster the spreading of social software in the mobile domain. Hence, future usage patterns of mobile devices will involve more group interaction. While collaboration using mobile devices is an active area of re- search, only limited attention has been paid to the efficient initiation of group communication from mobile terminals. In this paper we present a community-aware</abstract>
+	</publication>
+	<publication>
+		<title>Distributed asymmetric verification in computational grids</title>
+		<year>2008</year>
+		<authors>stefan schmid,roger wattenhofer</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>692</label>
+		<keyword>Computational Grid;Discrete Logarithm Problem;Grid Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Lucrative incentives in grid computing do not only at- tract honest participants, but also cheaters. To prevent self- ish behavior, verification mechanisms are required. Today's solutions mostly base on redundancy and inherently exhibit a considerable overhead. Often, however, the verification of a result takes much less time than its computation. In this paper we propose a distributed checking scheme that</abstract>
+	</publication>
+	<publication>
+		<title>Exploring music collections on mobile devices</title>
+		<year>2008</year>
+		<authors>olga goussevskaia,roger wattenhofer</authors>
+		<jconf>Mobile HCI</jconf>
+		<label>692</label>
+		<keyword>Data Structure;Mobile Application;Mobile Device;Mobile Music;Search Method;</keyword>
+		<organization>null</organization>
+		<abstract>Ever larger collections of music are stored on mobile de- vices. The process of managing these repositories therefore becomes increasingly challenging. In this work we propose to use a map of the \world of music&quot; as a data structure for music exploration and retrieval on mobile devices. We present Mobile Music Explorer|a mobile application, which allows users to create playlists</abstract>
+	</publication>
+	<publication>
+		<title>Community-Aware Mobile Networking</title>
+		<year>2006</year>
+		<authors>roger wattenhofer</authors>
+		<jconf></jconf>
+		<label>692</label>
+		<keyword>File Sharing;Instant Messenger;Mobile Application;Mobile Environment;Mobile Network;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>Community related applications such as dating platforms, instant messengers, or file-sharing tools enjo yag reat popularity in the Internet. Motivated by this success, community-awareness also has become ah ot topic in the mobile world. Despite con- siderable efforts, however, mobile solutions still cannot compete with their Internet counterparts. Ak ey feature of community-aware applications is profile matching. To al arge</abstract>
+	</publication>
+	<publication>
+		<title>From Web to Map: Exploring the World of Music</title>
+		<year>2008</year>
+		<authors>olga goussevskaia,michael lorenzi,roger wattenhofer</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>692</label>
+		<keyword>Data Structure;File Sharing;High Dimensionality;Mobile Device;Music Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Ever growing music collections ask for novel ways of or- ganization. The traditional browsing of folder hierarchies or search by title and album tends to be insufficient to main- tain an overview of a collection of orders of thousands of tracks. Methods based on song similarity offer an alterna- tive to keyword-based search. In this work we propose to use</abstract>
+	</publication>
+	<publication>
+		<title>Layers and Hierarchies in Real Virtual Networks</title>
+		<year>2007</year>
+		<authors>olga goussevskaia,roger wattenhofer</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>692</label>
+		<keyword>Location Estimation;Social Network;Virtual Networks;Object Relational;Virtual Worlds;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The virtual world is comprised of data items related to each other in a variety of contexts. Often such relations can be represented as graphs that evolve over time. Ex- amples include social networks, co-authorship graphs, and the world-wide-web. Attempts to model these graphs have introduced the notions of hierarchies and layers, which cor- respond to taxonomies of the underlying</abstract>
+	</publication>
+	<publication>
+		<title>VENETA: Serverless Friend-of-Friend Detection in Mobile Social Networking</title>
+		<year>2008</year>
+		<authors>marco von arb,matthias bader,roger wattenhofer</authors>
+		<jconf>Wireless and Moble Computing</jconf>
+		<label>692</label>
+		<keyword>Detection Algorithm;Indexing Terms;Location Awareness;Mobile Social Software;Social Network;of Research and Development;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, mobile social software has become an active area of research and development. A multitude of systems have been proposed over the past years that try to follow the success of their Internet bound equivalents. Many mobile solutions try to augment the functionality of existing platforms with location awareness. The price for mobility, however, is typically either the lack of</abstract>
+	</publication>
+	<publication>
+		<title>The theoretic center of computer science</title>
+		<year>2007</year>
+		<authors>roger wattenhofer</authors>
+		<jconf>Sigact News</jconf>
+		<label>692</label>
+		<keyword>Distributed Computing;</keyword>
+		<organization>null</organization>
+		<abstract>In this article we examine computer science in general, and theory and distributed computing in particular. We present a map of the computer science conferences, speculating about the center of computer science. In addition we present some trends and developments. Finally we revisit centrality, wondering about the central actors in computer science. This article is a printed version of a</abstract>
+	</publication>
+	<publication>
+		<title>Directory-Based Metadata Optimizations for Small Files in PVFS</title>
+		<year>2008</year>
+		<authors>julian m. kunkel,thomas ludwig</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>693</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic file system semantics to enable metadata optimizations in PVFS</title>
+		<year>2009</year>
+		<authors>julian m. kunkel,thomas ludwig</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>693</label>
+		<keyword>File System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OnTheFly: a tool for automated document-based text annotation, data linking and network generation</title>
+		<year>2009</year>
+		<authors>georgios a. pavlopoulos,evangelos pafilis,sean d. hooper,reinhard schneider</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>694</label>
+		<keyword>3d structure;Graphical Representation;Named Entity Recognition;web-based applications;</keyword>
+		<organization>null</organization>
+		<abstract>OnTheFly is a web-based application that applies biological named entity recognition to enrich Microsoft Office, PDF and plain text documents. The input files are converted into the HTML format and then sent to the Reflect tagging server, which highlights biological entity names like genes, proteins and chemicals, and attaches to them JavaScript code to invoke a summary popup window. The</abstract>
+	</publication>
+	<publication>
+		<title>SuperTarget and Matador: resources for exploring drug-target relationships</title>
+		<year>2008</year>
+		<authors>stefan günther,mathias dunkel,monica campillos,christian senger,evangelia petsalaki,jessica ahmed,eduardo garcia urdiales,andreas gewiess,lars juhl jensen,reinhard schneider,roman skoblo,robert b. russell,philip e. bourne,peer bork,robert preissner</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>694</label>
+		<keyword>Data Warehouse;Drug Effects;Drug Screening;Drug Targeting;Enzyme;Gene Ontology;Indirect Interaction;Sequence Comparison;</keyword>
+		<organization>null</organization>
+		<abstract>The molecular basis of drug action is often not well understood. This is partly because the very abundant and diverse information generated in the past decades on drugs is hidden in millions of medical articles or textbooks. Therefore, we develo- ped a one-stop data warehouse, SuperTarget that integrates drug-related information about medical indication areas, adverse drug effects, drug meta- bolization,</abstract>
+	</publication>
+	<publication>
+		<title>eggNOG: automated construction and annotation of orthologous groups of genes</title>
+		<year>2008</year>
+		<authors>lars juhl jensen,philippe julien,christian von mering,jean muller,tobias doerks,peer bork</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>694</label>
+		<keyword>Automatic Annotation;Comparative Genomics;Protein Domains;Web Interface;</keyword>
+		<organization>null</organization>
+		<abstract>The identification of orthologous genes forms the basis for most comparative genomics studies. Existing approaches either lack functional annota- tion of the identified orthologous groups, hampering the interpretation of subsequent results, or are manually annotated and thus lag behind the rapid sequencing of new genomes. Here we present the eggNOG database ('evolutionary genealogy of genes: Non-supervised Orthologous Groups'), which contains</abstract>
+	</publication>
+	<publication>
+		<title>STRING 8 - a global view on proteins and their functional interactions in 630 organisms</title>
+		<year>2009</year>
+		<authors>lars juhl jensen,manuel stark,samuel chaffron,chris creevey,jean muller,tobias doerks,philippe julien,alexander roth,milan simonovic,peer bork,christian von mering</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>694</label>
+		<keyword>Data Reduction;Prediction Method;Protein Structure;Protein Protein Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Functional partnerships between proteins are at the core of complex cellular phenotypes, and the networks formed by interacting proteins provide researchers with crucial scaffolds for modeling, data reduction and annotation. STRING is a data- base and web resource dedicated to protein-protein interactions, including both physical and functional interactions. It weights and integrates information from numerous sources, including experimental repositories, computational</abstract>
+	</publication>
+	<publication>
+		<title>STITCH: interaction networks of chemicals and proteins</title>
+		<year>2008</year>
+		<authors>christian von mering,monica campillos,lars juhl jensen,peer bork</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>694</label>
+		<keyword>Binding Protein;Chemical Structure;Crystal Structure;Drug Targeting;Interaction Network;Metabolic Pathway;Text Mining;</keyword>
+		<organization>null</organization>
+		<abstract>The knowledge about interactions between proteins and small molecules is essential for the understanding of molecular and cellular functions. However, information on such interactions is widely dispersed across numerous databases and the literature. To facilitate access to this data, STITCH ('search tool for interactions of chemicals') integrates information about interactions from metabolic pathways, crystal structures, binding experiments and drug-target relationships.</abstract>
+	</publication>
+	<publication>
+		<title>STRING 7 - recent developments in the integration and prediction of protein interactions</title>
+		<year>2007</year>
+		<authors>christian von mering,lars juhl jensen,samuel chaffron,tobias doerks,beate krüger,berend snel,peer bork</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>694</label>
+		<keyword>Comparative Genomics;Computational Techniques;Protein Domains;Protein Interaction;Protein Protein Interaction;Web Navigation;</keyword>
+		<organization>null</organization>
+		<abstract>Information on protein-protein interactions is still mostly limited to a small number of model organisms, and originates from a wide variety of experimental and computational techniques. The database and online resource STRING generalizes access to protein interaction data, by integrating known and predicted interactions from a variety of sources. The underlying infrastructure includes a consistent body of completely sequenced genomes</abstract>
+	</publication>
+</person>

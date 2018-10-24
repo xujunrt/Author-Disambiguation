@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ligang Wang</FullName>
+	<publication>
+		<title>Validation of SIP/H.323 Interworking Using SDL/MSC</title>
+		<year>2003</year>
+		<authors>j. william atwood,anjali agarwal</authors>
+		<jconf>International Conference on System Design Languages</jconf>
+		<label>545</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modelling and verification of interworking between SIP and H.323</title>
+		<year>2004</year>
+		<authors>anjali agarwal,j. william atwood</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>545</label>
+		<keyword>Internal Structure;Message Sequence Chart;Session Initiation Protocol;Similarity Function;System Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>There are currently two standards for signaling and control of Internet telephone calls, namely ITU-T Recommendation H.323 and the IETF session initiation protocol (SIP). Both protocols provide similar functionality using different mechanisms. Both H.323 and SIP provide interoperability, flexibility and scalability in different aspects and environments. Interworking between SIP and H.323 is essential to ensure full end-to-end connectivity through the</abstract>
+	</publication>
+</person>

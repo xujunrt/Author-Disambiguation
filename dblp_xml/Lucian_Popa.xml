@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lucian Popa</FullName>
+	<publication>
+		<title>Macroscope: end-point approach to networked application dependency discovery</title>
+		<year>2009</year>
+		<authors>byung-gon chun,ion stoica,jaideep chandrashekar,nina taft</authors>
+		<jconf>Conference on Emerging Network Experiment and Technology</jconf>
+		<label>592</label>
+		<keyword>Complex Network;Data Center;</keyword>
+		<organization>null</organization>
+		<abstract>Enterprise and data center networks consist of a large number of complex networked applications and services that depend upon each other. For this reason, they are difficult to manage and diagn ose. In this paper we propose Macroscope, a new approach to extracting the dependencies of networked applications automatically by com- bining application process information with network level packet traces.</abstract>
+	</publication>
+	<publication>
+		<title>Reducing Congestion Effects in Wireless Networks by Multipath Routing</title>
+		<year>2006</year>
+		<authors>costin raiciu,ion stoica,david s. rosenblum</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>592</label>
+		<keyword>Computational Complexity;Congestion Control;Energy Efficient;Geographic Routing;Multipath Routing;Rate Control;Wireless Network;Long Range;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a solution to improve fairness and in- crease throughput in wireless networks with location informa- tion. Our approach consists of a multipath routing protocol, Bi- ased Geographical Routing (BGR), and two congestion control algorithms, In-Network Packet Scatter (IPS) and End-to-End Packet Scatter (EPS), which leverage BGR to avoid the con- gested areas of the network. BGR achieves good</abstract>
+	</publication>
+	<publication>
+		<title>Using code collection to support large applications on mobile devices</title>
+		<year>2004</year>
+		<authors>costin raiciu,radu teodorescu,irina athanasiu,raju pandey</authors>
+		<jconf>Mobile Computing and Networking</jconf>
+		<label>592</label>
+		<keyword>Active Network;Adaptive Coding;Application Management;Code Mobility;context-aware application;Data Management;Garbage Collection;Memory Management;Mobile Agent;Mobile Application;Mobile Device;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>The progress of mobile device technology unfolds a new spectrum of applications that challenges conventional infrastructure models. Most of these devices are perceived by their users as &quot;appliances&quot; rather than computers and accordingly the application management should be done transparently by the underlying system unlike classic applications managed explicitly by the user. Memory management on such devices should consider new</abstract>
+	</publication>
+	<publication>
+		<title>Balancing traffic load in wireless networks with curveball routing</title>
+		<year>2007</year>
+		<authors>afshin rostamizadeh,richard m. karp,christos h. papadimitriou,ion stoica</authors>
+		<jconf>Mobile Ad Hoc Networking and Computing</jconf>
+		<label>592</label>
+		<keyword>Community Networks;Energy Consumption;Geographic Routing;Geometric Optics;Load Balance;multi-hop wireless network;Sensor Network;Uniform Distribution;Wireless Network;Linear Program;Point To Point;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>We address the problem of balancing the traffic load in multi-hop wireless networks. We consider a point-to-point communicating network with a uniform distribution of source-sink pairs. When routing along shortest paths, the nodes that are centrally located forward a disproportionate amount of traffic. This translates into increased congestion and energy consumption. However, the maximum load can be decreased if the</abstract>
+	</publication>
+	<publication>
+		<title>The design and implementation of a declarative sensor network system</title>
+		<year>2007</year>
+		<authors>david chu,arsalan tavakoli,joseph m. hellerstein,philip levis,scott shenker,ion stoica</authors>
+		<jconf>Conference On Embedded Networked Sensor Systems</jconf>
+		<label>592</label>
+		<keyword>Data Collection;Declarative Languages;Declarative Programming;Design and Implementation;Embedded System;Geographic Routing;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Sensor networks are notoriously difficult to program, given that they encompass the complexities of both dis- tributed and embedded systems. To address this problem, we present the design and implementation of a declarative sensor network platform, DSN: a declarative language, com- piler and runtime suitable for programming a broad range of sensornet applications. We demonstrate that our approach is a</abstract>
+	</publication>
+	<publication>
+		<title>Entirely Declarative Sensor Network Systems</title>
+		<year>2006</year>
+		<authors>david chu,arsalan tavakoli,joseph m. hellerstein</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>592</label>
+		<keyword>Database System;Distributed Sensor Network;Distributed System;Sensor Network;Internet Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>The database and sensor network community have both rec- ognized the utility of SQL for interfacing with sensor net- work systems. Recently there have been proposals to con- struct Internet protocols declaratively in variants of Datalog. We take these ideas to their logical extreme, and demon- strate entire distributed sensor network systems built declar- atively. Our demo exposes the rapidity,</abstract>
+	</publication>
+</person>

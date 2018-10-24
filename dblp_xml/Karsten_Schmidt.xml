@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Karsten Schmidt</FullName>
+	<publication>
+		<title>Tailor-Made Native XML Storage Structures</title>
+		<year>2007</year>
+		<authors>theo härder</authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>481</label>
+		<keyword>Adaptive Behavior;Age Structure;Critical Parameter;Data Model;Storage Management;Tree Structure;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Automatically choosing suitable native storage structures for XML doc- uments arriving at the XML DBMS is a challenging task for its storage manager. While some of the critical parameters require pre-specification, others can be deter- mined by pre-analysis or sampling of the incoming document or by just making ex- perience-driven &quot;educated guesses&quot;. In this paper, we discuss approaches to achieve</abstract>
+	</publication>
+	<publication>
+		<title>Towards Flash Disk Use in Databases - Keeping Performance While Saving Energy?</title>
+		<year>2009</year>
+		<authors>theo härder,yi ou,sebastian bächle</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>481</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomes Index Tuning - DBMS-integrierte Verwaltung von Soft Indexen</title>
+		<year>2007</year>
+		<authors>martin lühring,kai-uwe sattler,eike schallehn</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>481</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract>Das Self Management in DBMS, und das Self Tuning als wichtiger Teil davon, gewinnt auf Grund der wachsenden Komplexität von Systemen und Anwen- dungen und den daraus resultierenden steigenden Betriebskosten zunehmend an Be- achtung. Der Stand der Technik bezüglich des Index Tunings sind Administrations- Tools, die aus einem gegebenen Workload eine empfohlene Indexkonfiguration ab- leiten. Diese muss jedoch bei Änderungen</abstract>
+	</publication>
+	<publication>
+		<title>An Adaptive Storage Manager for XML Documents</title>
+		<year>2007</year>
+		<authors>theo härder</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>481</label>
+		<keyword>Adaptive Behavior;Age Structure;Critical Parameter;Indexation;Storage Management;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Effective and efficient management and manipulation of XML docu- ments requires stable decisions at the time a document enters the XML DBMS to provide for storage structures which are adjusted to the document characteristics and which reflect the future processing needs. While some of the critical parameters re- quire a kind of pre-specification, others can be determined by pre-analysis or</abstract>
+	</publication>
+	<publication>
+		<title>The promise of solid state disks: increasing efficiency and reducing cost of DBMS processing</title>
+		<year>2009</year>
+		<authors>yi ou,theo härder</authors>
+		<jconf>Canadian Conference on Computer Science &amp; Software Engineering</jconf>
+		<label>481</label>
+		<keyword>Cost Model;Data Center;Database System;Energy Consumption;Energy Efficient;Energy Use;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Most database systems (DBMSs) today are operating on servers equipped with magnetic disks. In our contribution, we want to motivate the use of two emerging and striking technologies, namely native XML DBMSs (XDBMSs for short) and solid state disks. In this context, the traditional read/write model optimized by a sophisticated cache hierarchy and the IO cost model for databases needs</abstract>
+	</publication>
+	<publication>
+		<title>Benchmarking Performance-Critical Components in a Native XML Database System</title>
+		<year>2009</year>
+		<authors>sebastian bächle,theo härder</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>481</label>
+		<keyword>Native Xml Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Resource Management in a Native XDBMS</title>
+		<year>2008</year>
+		<authors>yi ou</authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>481</label>
+		<keyword>Adaptive Resource Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomous Management of Soft Indexes</title>
+		<year>2007</year>
+		<authors>martin lühring,kai-uwe sattler,eike schallehn</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>481</label>
+		<keyword>Indexation;Physical Database Design;Product Development;Profitability;Query Optimization;Query Processing;Index Selection Problem;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years the support for index tuning as part of physical database design has gained focus in research and product development, which resulted in index and design advisors. Nevertheless, these tools provide a one-off so- lution for a continuous task and are not deeply integrated with the DBMS functionality by only applying the query optimizer for index recommendation and</abstract>
+	</publication>
+	<publication>
+		<title>Green Computing - A Case for Data Caching and Flash Disks?</title>
+		<year>2008</year>
+		<authors>theo härder,joachim klein,steffen reithermann</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>481</label>
+		<keyword>Cache Management;Data Cache;Energy Efficient;Energy Saving;Flash Memory;Holistic Approach;Nand Flash Memory;Power Consumption;</keyword>
+		<organization>null</organization>
+		<abstract>Green computing or energy saving when processing information is primarily considered a task of processor development. However, this position paper advocates that a holistic approach is necessary to reduce power consumption to a minimum. We discuss the potential of integrating NAND flash memory into DB-based ar- chitectures and its support by adjusted DBMS algorithms governing IO processing. The goal is</abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Complete and Elementless Native Storage of XML Documents</title>
+		<year>2007</year>
+		<authors>theo härder,christian mathis</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>481</label>
+		<keyword>Empirical Study;Indexation;Language Model;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Because XML documents tend to be very large, are accessed by declarative and navigational languages, and often are processed in a collaborative way using read/write transactions, their fine-grained storage and management in XML DBMSs is a must for which, in turn, a flexible and space-economic tree representation is mandatory. In this paper, we explore a variety of options to natively</abstract>
+	</publication>
+	<publication>
+		<title>Usage-driven storage structures for native XML databases</title>
+		<year>2008</year>
+		<authors>theo härder</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>481</label>
+		<keyword>Document Processing;Native Xml Database;Storage Management;Text Compression;Xml Database;Xml Document;Encoding Decoding;</keyword>
+		<organization>null</organization>
+		<abstract>There are numerous and influential parameters associated with the selection of suitable native storage structures for XML documents within an XML DBMS. The most important parameters are related to node labeling, path synopsis, document container layout, indexing, and text compression. While node labeling and the presence of a path synopsis greatly determine flexibility and efficiency of the entire DBMS-internal XML</abstract>
+	</publication>
+	<publication>
+		<title>Fallstudie zur Modellierung von Software-Entwicklungsprozessen auf Basis von SPEM 2.0</title>
+		<year>2008</year>
+		<authors>max brunner,martin jung,detlef kips</authors>
+		<jconf>Software Engineering</jconf>
+		<label>481</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Essential Performance Drivers in Native XML DBMSs</title>
+		<year>2010</year>
+		<authors>theo härder,christian mathis,sebastian bächle,andreas m. weiner</authors>
+		<jconf>Conference on Current Trends in Theory and Practice of Informatics</jconf>
+		<label>481</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Storing and indexing XML documents upside down</title>
+		<year>2009</year>
+		<authors>christian mathis,theo härder</authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>481</label>
+		<keyword>Indexation;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Step Explosion Problem</title>
+		<year>2006</year>
+		<authors>stephan roch</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LoLA: A Low Level Analyser</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parameterized Reachability Trees for Algebraic Petri Nets</title>
+		<year>1995</year>
+		<authors></authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword>petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Siphons, Traps and High-Level Nets with Infinite Color Domains</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Verification of Siphons and Traps for Algebraic Petri Nets</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword>petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stubborn Sets for Standard Properties</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LoLA wird Pfadfinder</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Algorithmen und Werkzeuge f��r Petrinetze</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Transforming BPEL to Petri Nets</title>
+		<year>2005</year>
+		<authors>sebastian hinz,christian stahl</authors>
+		<jconf>Business Process Management</jconf>
+		<label>482</label>
+		<keyword>Business Process Model;Formal Model;Model Checking;Process Management;Web Service;Business Process Execution Language;petri net;</keyword>
+		<organization>null</organization>
+		<abstract>We present a Petri net semantics for the Business Process Execution Language for Web Services (BPEL). Our semantics covers the standard behaviour of BPEL as well as the exceptional behaviour (e.g. faults, events, compensation). The semantics is implemented as a parser that translates BPEL specications into the input language of the Petri net model checking tool LoLA. We demonstrate that</abstract>
+	</publication>
+	<publication>
+		<title>Distributed verification with LoLA</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Entwicklungsmethoden f��r Informationssysteme und deren Anwendung</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Controllability of Open Workflow Nets</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Entwicklungsmethoden f��r Informationssysteme und deren Anwendung</jconf>
+		<label>482</label>
+		<keyword>Business Process;Message Passing Interface;</keyword>
+		<organization>null</organization>
+		<abstract>An open workflow net is basically a workflow net extended with a message passing interface. Open workflow nets are adequate mod- els for services or parts of inter-organizational business processes. We in- vestigate the problem of controllability, a natural counterpart of sound- ness in classical workflow nets (as studied by van der Aalst). We dis- tinguish centralized, distributed, and local</abstract>
+	</publication>
+	<publication>
+		<title>Symmetric Symbolic Safety-Analysis of Concurrent Software with Pointer Data Structures</title>
+		<year>2002</year>
+		<authors>farn wang</authors>
+		<jconf>Formal Techniques for Networked and Distributed Systems</jconf>
+		<label>482</label>
+		<keyword>Data Structure;Safety Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Transformation and Enlargement of Similarity Models for Case-Based Reasoning</title>
+		<year>2006</year>
+		<authors>mirjam minor</authors>
+		<jconf>Modellierung</jconf>
+		<label>482</label>
+		<keyword>Case Base Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Operating Guidelines - an Automata-Theoretic Foundation for the Service-Oriented Architecture</title>
+		<year>2005</year>
+		<authors>peter massuthe</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>482</label>
+		<keyword>Service Oriented Architecture;Theoretical Foundation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Low Level Symmetries into Reachability Analysis</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Tools and Algorithms for Construction and Analysis of Systems</jconf>
+		<label>482</label>
+		<keyword>reachability analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Petri Net Invariants in State Space Construction</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Tools and Algorithms for Construction and Analysis of Systems</jconf>
+		<label>482</label>
+		<keyword>State Space;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Generation of a Progress Measure for the Sweep-Line Method</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Tools and Algorithms for Construction and Analysis of Systems</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>How to Calculate Symmetries of Petri Nets</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Acta Informatica</jconf>
+		<label>482</label>
+		<keyword>Symmetry Group;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling and Model Checking Web Services</title>
+		<year>2005</year>
+		<authors>bernd-holger schlingloff,axel martens</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>482</label>
+		<keyword>Automated Verification;Model Checking;Service Model;Service Oriented Architecture;Specification Language;Temporal Logic;Web Service;petri net;</keyword>
+		<organization>null</organization>
+		<abstract>We give an overview on web services and the web service technology stack. We then show how to build Petri net models of web services formulated in the specification language BPEL4WS. We define an abstract correctness criterion for these models and study the automated verification according to this criterion. Finally, we relate correctness of web service models to the model</abstract>
+	</publication>
+	<publication>
+		<title>Model-Checking with Coverability Graphs</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Formal Methods in System Design</jconf>
+		<label>482</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stubborn Sets for Model Checking the EF/AG Fragment of CTL</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Fundamenta Informaticae</jconf>
+		<label>482</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Narrowing Petri Net State Spaces Using the State Equation</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Fundamenta Informaticae</jconf>
+		<label>482</label>
+		<keyword>State Space;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Verification with LoLA</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Fundamenta Informaticae</jconf>
+		<label>482</label>
+		<keyword>Data Structure;Load Balance;State Space;petri net;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>We report work in progress on a distributed version of explicit state space generation in the Petri net verification tool LoLA. We propose a data structure where all available memory of all involved workstations can be fully exploited, and load balancing actions are possible at any time while the verification is running. It is even possible to extend the set</abstract>
+	</publication>
+	<publication>
+		<title>Kommunizierende Workflow-Services modellieren und analysieren</title>
+		<year>2005</year>
+		<authors>wolfgang reisig,christian stahl</authors>
+		<jconf>Informatik - Forschung Und Entwicklung</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated generation of a progress measure for the sweep-line method</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>International Journal on Software Tools for Technology Transfer</jconf>
+		<label>482</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>BDD-Based Safety-Analysis of Concurrent Software with Pointer Data Structures Using Graph Automorphism Symmetry Reduction</title>
+		<year>2004</year>
+		<authors>farn wang,fang yu,geng-dian huang,bow-yaw wang</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>482</label>
+		<keyword>Data Structure;Graph Automorphism;Safety Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

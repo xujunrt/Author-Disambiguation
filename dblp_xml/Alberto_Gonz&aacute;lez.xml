@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alberto Gonz&amp;aacute;lez</FullName>
+	<publication>
+		<title>Architecture support for runtime integration and verification of component-based Systems of Systems</title>
+		<year>2008</year>
+		<authors>éric piel,hans-gerhard groß</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>18</label>
+		<keyword>Case Study;Component Model;Component Based Systems;Development Time;Dynamic Environment;Dynamic Reconfiguration;Integration Testing;System of Systems;Time Integration;Built In Test;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Systems-of-Systems (SoS) represent a novel kind of sys- tem, for which runtime evolution is a key requirement, as components,join and leave during runtime. Current compo- nent integration and verification techniques are not enough in such a dynamic,environment. In this paper we present ATLAS, an architectural framework that enables the run- time integration and verification of a system, based on</abstract>
+	</publication>
+	<publication>
+		<title>Automatic software fault localization using generic program invariants</title>
+		<year>2008</year>
+		<authors>rui abreu,peter zoeteweij,arjan j. c. van gemund</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>18</label>
+		<keyword>Development Time;Fault Localization;Generic Programming;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>Despite extensive testing in the development phase, resid- ual defects can be a great threat to dependability in the operational phase. This paper studies the utility of low- cost, generic invariants (&quot;screeners&quot;) in their capacity of error detectors within a spectrum-based fault localization (SFL) approach aimed to diagnose program defects in the operational phase. The screeners considered are simple bit-</abstract>
+	</publication>
+</person>

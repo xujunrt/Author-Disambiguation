@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shichao Zhang</FullName>
+	<publication>
+		<title>Efficient Attribute Reduction Based on Discernibility Matrix</title>
+		<year>2007</year>
+		<authors>zhangyan xu,chengqi zhang,wei song,bingru yang</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>945</label>
+		<keyword>Attribute Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sang-Won Lee</FullName>
+	<publication>
+		<title>OutlierD: an R package for outlier detection using quantile regression on mass spectrometry data</title>
+		<year>2008</year>
+		<authors>hyungjun cho,yang-jin kim,hee jung jung,jae won lee</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>917</label>
+		<keyword>Mass Spectrometry;Outlier Detection;Proteome Analysis;Quantile Regression;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Summary: It is important to preprocess high-throughput data generated from mass spectrometry experiments in order to obtain a successful proteomics analysis. Outlier detection is an important preprocessing step. A naive outlier detection approach may miss many true outliers and instead select many non-outliers because of the heterogeneity of the variability observed commonly in high- throughput data. Because of this issue,</abstract>
+	</publication>
+</person>

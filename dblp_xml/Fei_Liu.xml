@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fei Liu</FullName>
+	<publication>
+		<title>Bridging Context Management Systems in the ad hoc and mobile environments</title>
+		<year>2009</year>
+		<authors>pravin pawar,hanga boros,geert j. heijenk,bert-jan van beijnum</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>225</label>
+		<keyword>Context Management;Mobile Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bridging context management systems for different types of pervasive computing environments</title>
+		<year>2008</year>
+		<authors>cristian hesselman,hartmut benz,pravin pawar,maarten wegdam,martin wibbels,tom broens,jacco brok</authors>
+		<jconf>MOBILe Wireless MiddleWARE</jconf>
+		<label>225</label>
+		<keyword>Context Information;Context Management;context-aware application;Data Model;Distributed System;Pervasive Computing;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>A context management system is a distributed system that enables applications to obtain context information about (mobile) users and forms a key component of any pervasive computing environment. Context management systems are however very environment-specific (e.g., specific for home environments) and therefore do not interoperate very well. This limits the operation of context-aware applications because they cannot get context information</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Connectivity Analysis of ABF-based Ad-hoc Networks</title>
+		<year>2008</year>
+		<authors>geert j. heijenk</authors>
+		<jconf>Mobile and Wireless Communication Networks</jconf>
+		<label>225</label>
+		<keyword>Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling service discovery in ad-hoc networks</title>
+		<year>2007</year>
+		<authors>patrick goering,geert j. heijenk</authors>
+		<jconf>Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks</jconf>
+		<label>225</label>
+		<keyword>Ad Hoc Network;Analytical Model;Bloom Filter;Service Discovery;Simulation Model;</keyword>
+		<organization>null</organization>
+		<abstract>A protocol for service discovery using attenuated Bloom filters has been proposed for ad-hoc networks. Based on our study, it can well save network bandwidth compared to conventional approaches. We have built both an analytical model and a simulation model to evaluate the performance of our novel discovery mechanism. A comparison of these two models shows that the analytical model</abstract>
+	</publication>
+	<publication>
+		<title>Interference-Based Routing in Multi-hop Wireless Infrastructures</title>
+		<year>2005</year>
+		<authors>geert j. heijenk</authors>
+		<jconf>Wired/Wireless Internet Communications</jconf>
+		<label>225</label>
+		<keyword>Community Networks;Fixed Cost;Routing Algorithm;Shortest Path Algorithm;Wireless Network;Base Station;High Density;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  The purpose of this report is to propose a new routing algorithm, Balanced Interference  Routing Algorithm (BIRA), for the next generation cellular communication networks The  new network has high density base stations distribution to increase the capacity The whole  network  is  based  on  CDMA  type  of  technology One  of  the  main  features  of  the  new  routing algorithm BIRA is</abstract>
+	</publication>
+	<publication>
+		<title>Context Discovery Using Attenuated Bloom Filters in Ad-Hoc Networks</title>
+		<year>2006</year>
+		<authors>geert j. heijenk</authors>
+		<jconf>Wired/Wireless Internet Communications</jconf>
+		<label>225</label>
+		<keyword>Ad Hoc Network;Bloom Filter;</keyword>
+		<organization>null</organization>
+		<abstract>A novel approach to performing context discovery in ad-hoc net- works based on the use of attenuated Bloom filters is proposed in this paper. In order to investigate the performance of this approach, a model has been devel- oped. This document describes the model and its validation. The model has been implemented in Matlab, and some results are also shown</abstract>
+	</publication>
+	<publication>
+		<title>Interference-based routing in multi-hop wireless infrastructures</title>
+		<year>2006</year>
+		<authors>geert j. heijenk</authors>
+		<jconf>Computer Communications</jconf>
+		<label>225</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

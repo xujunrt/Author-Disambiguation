@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lu Zhang</FullName>
+	<publication>
+		<title>The evaluation and application of manufacturing green product based on fuzzy comprehensive assessment method</title>
+		<year>2010</year>
+		<authors>qingshan zhang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>577</label>
+		<keyword>Assessment Methods;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Research on compensation for pressure sensor thermal zero drift based on back propagation neural network implemented by hardware circuits</title>
+		<year>2010</year>
+		<authors>ye liu,shiyang shan,peipei sun,xinwei yang,bin wang,dan shi,peizhi hui,xiaojiao lin</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>577</label>
+		<keyword>Back Propagation Neural Network;Pressure Sensor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards a relational model for exclusively disjunctive information</title>
+		<year>1993</year>
+		<authors>ken-chih liu</authors>
+		<jconf>ACM Annual Computer Science Conference</jconf>
+		<label>578</label>
+		<keyword>Cartesian Product;Information Content;Relation Algebra;Relational Model;Closed World Assumption;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, the results obtained thus far in an ongoing research effort devoted to the modeling of indefinite information is presented. Specifically, an extended relational model coined E-tables for representing exclusive indefinite type model coined information is described. The semantic, or information content, of E-tables is precisely defined. Both syntactic and semantic definitions of the extended relational algebra operators</abstract>
+	</publication>
+	<publication>
+		<title>Natural Joins in Relational Databases with Indefinite and Maybe Information</title>
+		<year>1991</year>
+		<authors>ken-chih liu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>578</label>
+		<keyword>Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wireless Fading Vector Channel Model for Multi-antenna System at Mobile Terminals</title>
+		<year>2003</year>
+		<authors>yun yuan</authors>
+		<jconf>Annual Simulation Symposium</jconf>
+		<label>579</label>
+		<keyword>Channel Model;Doppler Effect;Impulse Response;Smart Antenna;Base Station;Full Length;Mobile Terminal;Spatial Channel Model;Space Time;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract>To investigate the performance of Smart Antennatechnology applied in mobile terminals, the simulation ofmulti-antenna system requires spatial channel model,which should reasonably characterize the effects ofwireless channel, such as time-varying, multipath-fadingand Doppler effects, between base station and mobilehandsets. This paper presents space-time vector channelmodel fit for these demands. Based on the Lowpass-Equivalent Impulse Response, the diverse stochasticparameters of the channel, such</abstract>
+	</publication>
+	<publication>
+		<title>Focus, Lexical Stress and Boundary Tone: Interaction of Three Prosodic Features</title>
+		<year>2006</year>
+		<authors>yi-qing zu,run-qiang yan</authors>
+		<jconf>Chinese Spoken Language Processing</jconf>
+		<label>580</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperative network coding in selective decode-and-forward networks with multiple source-destination pairs</title>
+		<year>2008</year>
+		<authors>leonard j. cimini jr.</authors>
+		<jconf>Conference on Information Sciences and Systems</jconf>
+		<label>581</label>
+		<keyword>Network Coding;Selection Decode and Forward;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Power-Efficient Relay Selection for Decentralized Distributed Space-Time Block Coding</title>
+		<year>2007</year>
+		<authors>lin dai,leonard j. cimini jr.</authors>
+		<jconf>Conference on Information Sciences and Systems</jconf>
+		<label>581</label>
+		<keyword>Power Efficiency;Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance of STBC with Unequal-Power Co-Channel MIMO Interferers Under Path Loss and Rayleigh Fading</title>
+		<year>2009</year>
+		<authors>yongzhao li,leonard j. cimini jr.,nageen himayat</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>581</label>
+		<keyword>Path Loss;Rayleigh Fading;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hop-by-Hop Routing Strategy for Multihop Decode-and-Forward Cooperative Networks</title>
+		<year>2008</year>
+		<authors>leonard j. cimini jr.</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>581</label>
+		<keyword>Decode and Forward;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient power allocation for decentralized distributed space-time block coding</title>
+		<year>2009</year>
+		<authors>leonard j. cimini jr.</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>581</label>
+		<keyword>Cooperative Transmission;Power Allocation;Power Efficiency;Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed space-time block coding (Dis-STBC) achieves diversity through cooperative transmission among geographically dispersed nodes. Several decen- tralized Dis-STBC schemes have been proposed to imple- ment code-assignment at the relays without control sig- naling. Among the proposed power allocation strategies for decentralized Dis-STBC, the constant-power strategy is decentralized but inefficient; the near-optimal strategy requires some type of control signaling. In this</abstract>
+	</publication>
+	<publication>
+		<title>An extension of three-parameter Burr III distribution for low-flow frequency analysis</title>
+		<year>2008</year>
+		<authors>quanxi shao,yongqin d. chen</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>582</label>
+		<keyword>Frequency Analysis;Low Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of interpolation methods for depth to groundwater and its temporal and spatial variations in the Minqin oasis of northwest China</title>
+		<year>2009</year>
+		<authors>yue sun,shaozhong kang,fusheng li</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>582</label>
+		<keyword>Interpolation Method;Spatial Variation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A sparse gaussian processes classification framework for fast tag suggestions</title>
+		<year>2008</year>
+		<authors>yang song,c. lee giles</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>583</label>
+		<keyword>Classification Algorithm;Learning Algorithm;Linear Time;Prototype Selection;Gaussian Process;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>Tagged data is rapidly becoming more available on the World Wide Web. Web sites which populate tagging services offer a good way for Internet users to share their knowledge. An interesting problem is how to make tag suggestions when a new resource becomes available. In this paper, we ad- dress the issue of efficienttag suggestion. We first propose a multi-class</abstract>
+	</publication>
+	<publication>
+		<title>A Non-parametric Approach to PairWise Dynamic Topic Correlation Detection</title>
+		<year>2008</year>
+		<authors>yang song,c. lee giles</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>583</label>
+		<keyword>Convergence Rate;Latent Variable;Model Fitting;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce dynamic correlated topic models (DCTM) for analyzingdiscrete dataover time. This modelis inspired by the hierarchical Gaussian process latent variable mod- els (GP-LVM). DCTM is essentially a non-linear dimen- sion reduction technique which is capable of (1) detecting topic evolution within a document corpus, (2) discovering topic correlations between document corpora, (3) monitor- ing topic and correlation trends dynamically.</abstract>
+	</publication>
+	<publication>
+		<title>Partition-Based Parallel Constructing-Density-Tree Clustering</title>
+		<year>2008</year>
+		<authors>yunpeng zhang,zhengjun zhai,yifei bao,weidi dai,fei zuo</authors>
+		<jconf>International Symposium on Information Processing</jconf>
+		<label>584</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Octree-Path-Chain Data Structure in a Knowledge-Based ICAS for Nose-Nasal Surgery in Otolaryngology</title>
+		<year>2007</year>
+		<authors>ying chen,jiadong wang,jun ni</authors>
+		<jconf>International Multi-Symposium of Computer and Computational Sciences</jconf>
+		<label>585</label>
+		<keyword>Data Structure;Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reviews on Well-Known Evaluation Norms of Web-Based Courses</title>
+		<year>2008</year>
+		<authors>yan dong,baoping li</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>586</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and implementation of a fully reconfigurable chipless RFID tag using Inkjet printing technology</title>
+		<year>2008</year>
+		<authors>linlin zheng,saul rodriguez,botao shao,li-rong zheng</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>587</label>
+		<keyword>Design and Implementation;Rfid Tag;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Algorithm for Mining Sequential Patterns</title>
+		<year>2008</year>
+		<authors>zhuo zhang,shaochun zhong,jiwen guan</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>588</label>
+		<keyword>Sequential Pattern;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gene Expression Profiles Distinguish the Carcinogenic Effects of Aristolochic Acid in Target (Kidney) and Nontarget (Liver) Tissues in Rats</title>
+		<year>2006</year>
+		<authors>tao chen,lei guo,leming m. shi,hong fang,yongming sun,james c. fuscoe,nan mei</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>589</label>
+		<keyword>Biological Process;Data Analysis;Expression Profile;Functional Analysis;Gene Expression Profile;Gene Ontology;Hierarchical Cluster Analysis;Immune Response;Microarray Analysis;Pathway Analysis;Principal Component Analysis;Tissue Specificity;Urinary Tract;aristolochic acid;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Aristolochic acid (AA) is the active component of herbal drugs derived from Aristolochia species that have been used for medicinal purposes since antiquity. AA, however, induced nephropathy and urothelial cancer in people and malignant tumors in the kidney and urinary tract of rodents. Although AA is bioactivated in both kidney and liver, it only induces tumors in kidney. To</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of gene expression changes in relation to toxicity and tumorigenesis in the livers of Big Blue transgenic rats fed comfrey (Symphytum officinale)</title>
+		<year>2006</year>
+		<authors>nan mei,lei guo,leming m. shi,yongming andrew sun,chris fung,carrie l. moland,stacey l. dial,james c. fuscoe,tao chen</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>589</label>
+		<keyword>Body Weight;Differential Expression;Differentially Expressed Gene;Endothelial Cell;Gene Expression;Gene Expression Profile;Herbal Medicine;Liver Fibrosis;Liver Injury;Liver Tumor;Pathway Analysis;pyrrolizidine alkaloid;Rat Liver;Basal Diet;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Comfrey is consumed by humans as a vegetable and a tea, and has been used as an herbal medicine for more than 2000 years. Comfrey, however, is hepatotoxic in livestock and humans and carcinogenic in experimental animals. Our previous study suggested that comfrey induces liver tumors by a genotoxic mechanism and that the pyrrolizidine alkaloids in the plant are</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Image Annotations by Mining Web Image Data</title>
+		<year>2009</year>
+		<authors>guiguang ding,jianmin wang,na xu</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>590</label>
+		<keyword>Automatic Image Annotation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low-Complexity Time Domain PAPR Mitigation by Amplitude Modification for OFDM Systems</title>
+		<year>2010</year>
+		<authors>lin yang,jin liu</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>591</label>
+		<keyword>Low Complexity;Time Domain;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cognitive Interference Management for LTE-A Femtocells with Distributed Carrier Selection</title>
+		<year>2010</year>
+		<authors>lin yang,tao yang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>591</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Interference-Aware Precoding Scheme with Other-Cell Interference for Downlink Multi-User MIMO Channel</title>
+		<year>2010</year>
+		<authors>shengjie zhao,yan zhao,huan sun,jin liu,luoning gui</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>591</label>
+		<keyword>mimo channel;Multi User;Other Cell Interference;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

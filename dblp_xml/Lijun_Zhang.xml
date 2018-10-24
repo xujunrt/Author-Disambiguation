@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lijun Zhang</FullName>
+	<publication>
+		<title>A Parallel Multi-layered Pipeline with Feedback Mechanism for Mass Pattern Matching</title>
+		<year>2000</year>
+		<authors>jie li,yannan zhao,wuying xia</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>551</label>
+		<keyword>Feedback Mechanism;Pattern Matching;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of soft-decision trellis decoding of block codes in narrow-banded image transmission system over Rayleigh fading channels</title>
+		<year>2000</year>
+		<authors>dong-feng yuan,chun-yan gao</authors>
+		<jconf>Visual Communications and Image Processing</jconf>
+		<label>551</label>
+		<keyword>Block Codes;Rayleigh Fading Channel;Narrow Band Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-binary type-II HARQ and its application to an adaptive system</title>
+		<year>2005</year>
+		<authors>victor o. k. li,zhigang cao</authors>
+		<jconf>International Journal of Communication Systems</jconf>
+		<label>551</label>
+		<keyword>Adaptive System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving the Performance of Text Classifiers by Using Association Features</title>
+		<year>2003</year>
+		<authors>yang zhang,zhanhuai li,yan jianfeng</authors>
+		<jconf>International Syposium on Methodologies for Intelligent Systems</jconf>
+		<label>552</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive control of linear Markov jump systems</title>
+		<year>2006</year>
+		<authors>daizhan cheng</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>553</label>
+		<keyword>Adaptive Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>G-Optimal Design with Laplacian Regularization</title>
+		<year>2010</year>
+		<authors>chun chen,zhengguang chen,jiajun bu,can wang,cheng zhang</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>554</label>
+		<keyword>Optimal Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling Dynamic Multi-Topic Discussions in Online Forums</title>
+		<year>2010</year>
+		<authors>hao wu,jiajun bu,chun chen,can wang,guang qiu,jianfeng shen</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>554</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Metric for Measuring Members' Contribution to Information Propagation in Social Network Sites</title>
+		<year>2010</year>
+		<authors>jiajia zheng,wei chen,jiajun bu,chun chen</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>554</label>
+		<keyword>Social Networking Sites;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pervasive Web News Recommendation for Visually Impaired People</title>
+		<year>2008</year>
+		<authors>wei chen,can wang,chun chen,jiajun bu</authors>
+		<jconf>International Agent Technology Conference</jconf>
+		<label>554</label>
+		<keyword>Visual Impairment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>User Modeling for Recommendation in Blogspace</title>
+		<year>2007</year>
+		<authors>kangmiao liu,wei chen,jiajun bu,chun chen</authors>
+		<jconf>International Agent Technology Conference</jconf>
+		<label>554</label>
+		<keyword>User Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Convex experimental design using manifold structure for image retrieval</title>
+		<year>2009</year>
+		<authors>chun chen,wei chen,jiajun bu,deng cai,xiaofei he</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>554</label>
+		<keyword>Active Learning;Content Based Image Retrieval;Convex Optimization;Experimental Design;Geometric Structure;Image Retrieval;Optimization Problem;Ranking Function;Regression Model;Relevance Feedback;Semantic Gap;semidefinite program;Interior Point Method;Least Square Error;</keyword>
+		<organization>null</organization>
+		<abstract>Content Based Image Retrieval (CBIR) has become one of the most active research areas in computer science. Relevance feedback is often used in CBIR systems to bridge the semantic gap. Typically, users are asked to make relevance judgements on some query results, and the feedback information is then used to re-rank the images in the database. An effective relevance feedback</abstract>
+	</publication>
+	<publication>
+		<title>Topic Decomposition and Summarization</title>
+		<year>2010</year>
+		<authors>wei chen,can wang,chun chen,jiajun bu</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>554</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constrained Laplacian Eigenmap for dimensionality reduction</title>
+		<year>2010</year>
+		<authors>chun chen,jiajun bu,can wang,wei chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>554</label>
+		<keyword>Dimensional Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online detection of bursty events and their evolution in news streams</title>
+		<year>2010</year>
+		<authors>wei chen,chun chen,can wang,jiajun bu</authors>
+		<jconf>Journal of Zhejiang University Science C</jconf>
+		<label>554</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

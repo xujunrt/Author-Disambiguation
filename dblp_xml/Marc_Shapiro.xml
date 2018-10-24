@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marc Shapiro</FullName>
+	<publication>
+		<title>Fast and accurate flow-insensitive points-to analysis</title>
+		<year>1997</year>
+		<authors>susan horwitz</authors>
+		<jconf>Symposium on Principles of Programming Languages</jconf>
+		<label>613</label>
+		<keyword>points-to analysis;</keyword>
+		<organization>null</organization>
+		<abstract>In order to analyze a program that involves pointers, itis necessary to have (safe) information about what eachpointer points to. There are many different approachesto computing points-to information. This paper addressestechniques for flow- and context-insensitive interproceduralanalysis of stack-based storage.The paper makes two contributions to work in thisarea:ffl The first contribution is a set of experiments thatexplore the trade-offs between techniques</abstract>
+	</publication>
+	<publication>
+		<title>The Effects of the Presision of Pointer Analysis</title>
+		<year>1997</year>
+		<authors>susan horwitz</authors>
+		<jconf>Static Analysis Symposium/Workshop on Static Analysis</jconf>
+		<label>613</label>
+		<keyword>Pointer Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>. In order to analyze programs that manipulate pointers, it is necessary to have safe information about what each pointer might point to. There are many algorithms that can be used to determine this information, with varying degrees of accuracy. However, there has been very little previous work that addresses how much the relative accuracies of different pointer-analysis algorithms affect</abstract>
+	</publication>
+</person>

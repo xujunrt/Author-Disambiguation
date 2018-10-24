@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rui Zhou</FullName>
+	<publication>
+		<title>Location-Based Botany Guide: A Prototype of Web-Based Tracking and Guiding</title>
+		<year>2009</year>
+		<authors>gerhard schneider</authors>
+		<jconf>MOBILe Wireless MiddleWARE</jconf>
+		<label>897</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>UCAV path planning based on Ant Colony Optimization and satisficing decision algorithm</title>
+		<year>2008</year>
+		<authors>haibin duan,yaxiang yu</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>898</label>
+		<keyword>Ant Colony Optimization;Path Planning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Foldable subunits of helix protein</title>
+		<year>2009</year>
+		<authors>yi he,yanzhao huang,yi xiao</authors>
+		<jconf>Computational Biology and Chemistry / Computers &amp; Chemistry</jconf>
+		<label>899</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MICE: An Efficient Grid Scheme for Mathematical Computing</title>
+		<year>2006</year>
+		<authors>yang yi,li liu,lian li,zhenfang li</authors>
+		<jconf>Asia-Pacific Services Computing Conference</jconf>
+		<label>900</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Kind of New Strengthening Buffer Operator and Its Characteristics</title>
+		<year>2009</year>
+		<authors>jun-jie li,yong wei</authors>
+		<jconf>Database Technology and Applications</jconf>
+		<label>901</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

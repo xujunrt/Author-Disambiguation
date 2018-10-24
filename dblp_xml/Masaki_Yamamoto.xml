@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Masaki Yamamoto</FullName>
+	<publication>
+		<title>Advanced multimedia telecommunications using a high speed broadband backbone network beyond all aspects of the current internet (revised)</title>
+		<year>2001</year>
+		<authors>takao ichiko,yousuke kawamura,motochika hanano</authors>
+		<jconf>Computers &amp; Education</jconf>
+		<label>663</label>
+		<keyword>High Speed;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

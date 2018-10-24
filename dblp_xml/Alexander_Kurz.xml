@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander Kurz</FullName>
+	<publication>
+		<title>Interpreting PET Scans by Structured Patient Data: A Data Mining Case Study in Dementia Research</title>
+		<year>2008</year>
+		<authors>andreas hapfelmeier,jana schmidt,marianne mueller,stefan kramer,robert perneczky,alexander drzezga</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>27</label>
+		<keyword>Case Study;Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

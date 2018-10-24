@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Xu</FullName>
+	<publication>
+		<title>VegRisk: A Decision Support System for Risk Management of Vegetable Supply Chain</title>
+		<year>2008</year>
+		<authors>xiaoshuan zhang,xiaomei guo,zetian fu</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>238</label>
+		<keyword>Risk Management;Supply Chain;Support System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A hybrid reasoning mechanism integrated evidence theory and set pair analysis in Swine-Vet</title>
+		<year>2010</year>
+		<authors>xiaoping zheng,jian zhang,zetian fu,xiaoshuan zhang</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>238</label>
+		<keyword>Evidence Theory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pig-vet: a web-based expert system for pig disease diagnosis</title>
+		<year>2005</year>
+		<authors>zetian fu,zhou yun,xiaoshuan zhang</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>238</label>
+		<keyword>Expert System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

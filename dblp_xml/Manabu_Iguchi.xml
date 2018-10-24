@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manabu Iguchi</FullName>
+	<publication>
+		<title>A method for recognizing particles in overlapped particle images</title>
+		<year>2000</year>
+		<authors>liping shen,xiangqun song,fujio yamamoto</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>599</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

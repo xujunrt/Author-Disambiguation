@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wei Tan</FullName>
+	<publication>
+		<title>THUIR at TREC 2003: HARD Experiments</title>
+		<year>2003</year>
+		<authors>liang ma,qunxiu chen,shaoping ma,shuicai shi,shibin xiao,hongwei wang,hongjun wang</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1059</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe ideas and related experiments of Tsinghua University IR group in TREC-12 HARD Track. In this track, we focus on an automatic delivering mechanism, which combine the existing IR methods and can provide a quick retrieval solution for the practical environment. The final official evaluation show the old ways perform not well, but we think the</abstract>
+	</publication>
+	<publication>
+		<title>THUIR at TREC 2004: QA</title>
+		<year>2004</year>
+		<authors>qunxiu chen,shaoping ma</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1059</label>
+		<keyword>Answer Extraction;Indexation;Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe ideas and related experiments of Tsinghua University IR group in TREC 2004 QA track. In this track, our system consists three components: Question analysis, Information retrieval, and Answer extraction. Question analysis component extracts Query Term and answer type. Information retrieval component retrieves candidate documents from index set based on paragraph level and re-ranks them to</abstract>
+	</publication>
+	<publication>
+		<title>Optimized Research of Resource Constrained Project Scheduling Problem Based on Genetic Algorithms</title>
+		<year>2007</year>
+		<authors>xiang li,lishan kang</authors>
+		<jconf>International Symposium on Intelligence Computation and Applications</jconf>
+		<label>1060</label>
+		<keyword>Genetic Algorithm;Resource Constrained Project Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatial Fuzzy Clustering Using Varying Coefficients</title>
+		<year>2007</year>
+		<authors>huaqiang yuan,yaxun wang,jie zhang,chao qu,wenbin he</authors>
+		<jconf>Advanced Data Mining and Applications</jconf>
+		<label>1061</label>
+		<keyword>Fuzzy Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

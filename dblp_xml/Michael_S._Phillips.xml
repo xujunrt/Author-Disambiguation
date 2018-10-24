@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael S. Phillips</FullName>
+	<publication>
+		<title>Primer Design and Marker Clustering for Multiplex SNP-IT Primer Extension Genotyping Assay using Statistical Modeling</title>
+		<year>2004</year>
+		<authors>anton yuryev,jianping huang,kathryn e. scott,jennifer kuebler,miriam donaldson,mark pohl,michael t. boyce-jacino</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>704</label>
+		<keyword>Cluster Algorithm;Failure Probability;Failure Rate;Primer Design;Statistical Model;Success Rate;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: The optimization of the primer design is critical for the development of high-throughput SNP genotyping methods. Recently developed statistical models of the SNP-IT primer extension genotyping reaction allow further improvement of primer quality for the assay. Results: Here we describe how the statistical models can be used to improve primer design for the assay. We also show how to</abstract>
+	</publication>
+</person>

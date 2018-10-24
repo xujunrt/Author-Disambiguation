@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Richard Hull</FullName>
+	<publication>
+		<title>Augmenting digital audio broadcast with rich data</title>
+		<year>2005</year>
+		<authors>annelies de bruine,huw jeffries,erik geelhoed,nick piggott</authors>
+		<jconf>Advances in Computer Entertainment Technology</jconf>
+		<label>866</label>
+		<keyword>Digital Audio Broadcast;Weather Forecasting;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>HP Laboratories, GWR, Bristol University, ASL and Panasonic Semiconductor are collaborating to explore the potential of Digital Audio Broadcasting through a series of user trials. Our first iPAQ-based prototype allows listeners to GWR-Bristol to interact with a set of web pages broadcast alongside the digital audio stream and displayed on a small color display. In a hands- on study, typical</abstract>
+	</publication>
+	<publication>
+		<title>Magic moments in situated mediascapes</title>
+		<year>2005</year>
+		<authors>josephine reid,kirsten cater,constance fleuriot</authors>
+		<jconf>Advances in Computer Entertainment Technology</jconf>
+		<label>866</label>
+		<keyword>Experience Design;Interactive Drama;Location Awareness;Locative Media;Physical Environment;User Experience;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe the situation and factors that lead to &quot;Magic Moments&quot; in mediascape experiences and discuss the implications for how to design these magic moments without them appearing contrived. The distinctive feature of mediascapes is their link to the physical environment and we introduce a framework for Experience Design and describe a set of design heuristics which</abstract>
+	</publication>
+	<publication>
+		<title>Life on the edge: supporting collaboration in location-based experiences</title>
+		<year>2005</year>
+		<authors>steve benford,duncan rowland,martin flintham,adam drozd,josephine reid,jo morrison,keri facer</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>866</label>
+		<keyword>Educational Game;Group Formation;Spatial Locality;Video Recording;</keyword>
+		<organization>null</organization>
+		<abstract>We study a collaborative location-based game in which groups of 'lions' hunt together on a virtual savannah that is overlaid on an open playing field. The game implements a straight-forward approach to location-based triggering in which players must be in the same spatial locale in order to share information and act together. Comparison of video recordings of physical play with</abstract>
+	</publication>
+	<publication>
+		<title>An investigation into the use of spatialised sound in locative games</title>
+		<year>2007</year>
+		<authors>kirsten cater,tom melamed,robin hutchings</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>866</label>
+		<keyword>Personal Digital Assistant;Spatial Audio;</keyword>
+		<organization>null</organization>
+		<abstract>This paper shows how spatialised sound can be used to guide users around a located gaming environment. Thus far, despite growing interest in delivering location-relevant media information to users, accurate delivery of virtual spatialised sound using limited-processing portable devices, such as Personal Digital Assistants (PDAs), has not yet been explored. The use of spatialised sound allows users to judge accurately</abstract>
+	</publication>
+	<publication>
+		<title>Recognition accuracy and user acceptance of pen interfaces</title>
+		<year>1995</year>
+		<authors>clive frankish,pam morgan</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>866</label>
+		<keyword>User Acceptance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The usability of scribble matching</title>
+		<year>1996</year>
+		<authors>david frohlich</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>866</label>
+		<keyword>Pen Computing;User Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>Scribble matching is a facility developed for pen-computers which aliows users to search electronic ink. Here we report our fwst user evaluation of scribble matching in a scribble phonebook application. 12 users each retrieved 40 phone numbers using combinations of scribble look-up, text look-up and manual browsing. Scribble look-up was prefen-ed to the other two methods despite problems in remembering</abstract>
+	</publication>
+	<publication>
+		<title>Parallel worlds: immersion in location-based experiences</title>
+		<year>2005</year>
+		<authors>josephine reid,erik geelhoed,kirsten cater,ben clayton</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>866</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>This paper analyses the stages and circumstances for immersion based on quantitative and qualitative feedback from 700 people who took part in a three week long public trial of a location-based audio drama. Ratings of enjoyment, immersion and how much history came alive all scored highly and people often spent up to an hour in the experience. A model of</abstract>
+	</publication>
+	<publication>
+		<title>Rapid Authoring of Mediascapes</title>
+		<year>2004</year>
+		<authors>ben clayton,tom melamed</authors>
+		<jconf>Ubiquitous Computing/Handheld and Ubiquitous Computing</jconf>
+		<label>866</label>
+		<keyword>Case Study;Mobile Application;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Ubiquitous computing promises to enable new classes of application. In this paper, we present research intended to accelerate the exploration of the space of possible application values by enabling domain specialists to develop, deploy and evaluate experimental applications, even if they do not have pro- gramming skills. We present a framework for the rapid authoring of me- diascapes, a commercially</abstract>
+	</publication>
+	<publication>
+		<title>Towards Situated Computing</title>
+		<year>1997</year>
+		<authors>philip neaves,james bedford-roberts</authors>
+		<jconf>International Symposium on Wearable Computers</jconf>
+		<label>866</label>
+		<keyword>Context Aware;Situation Awareness;Wearable Computer;</keyword>
+		<organization>null</organization>
+		<abstract>Situated computing concerns the ability of computing devices to detect, interpret and respond to aspects of the user's local environment. In this paper, we use our recent prototyping experience to identify a number of challenging issues that must be resolved in building wearable computers that support situated applications. The paper is organized into three areas: Sensing the local environment, interpreting</abstract>
+	</publication>
+	<publication>
+		<title>'Ere be dragons: an interactive artwork</title>
+		<year>2005</year>
+		<authors>stephen boyd davis,magnus moar,john cox,chris riddoch,karl cooke,rachel jacobs,matt watkins,tom melamed</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>866</label>
+		<keyword>Pocket Pc;Heart Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The paper introduces a pervasive digital artwork which harnesses live heart-rate and GPS data to create a novel experience on a Pocket PC. The aims of the project, the technologies employed and the results of a preliminary trial are briefly described.</abstract>
+	</publication>
+	<publication>
+		<title>Mediascapes: Context-Aware Multimedia Experiences</title>
+		<year>2007</year>
+		<authors>stuart p. stenton,patrick m. goddi,josephine reid,ben clayton,tom melamed,susie wee</authors>
+		<jconf>IEEE Multimedia</jconf>
+		<label>866</label>
+		<keyword>Context Aware;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

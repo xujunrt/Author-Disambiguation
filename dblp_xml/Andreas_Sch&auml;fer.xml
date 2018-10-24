@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Sch&amp;auml;fer</FullName>
+	<publication>
+		<title>Discourse Knowledge Management in Communities of Practice</title>
+		<year>2003</year>
+		<authors>angi voß</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>62</label>
+		<keyword>Community of Practice;Knowledge Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>eDiskurse mit Dito</title>
+		<year>2003</year>
+		<authors>angi voß,josef börding,andreas klotz</authors>
+		<jconf>DFN Arbeitstagung ��ber Kommunikationsnetze</jconf>
+		<label>62</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Anforderungen an E-Diskurs-Plattformen illustriert am Beispiel DITO</title>
+		<year>2003</year>
+		<authors>stefan rené salz,oliver märker,angi voß,andreas klotz</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>62</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

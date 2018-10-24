@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Zeng</FullName>
+	<publication>
+		<title>An approach to constructing evolutionary agent structure for workflow management system based on simulation</title>
+		<year>2008</year>
+		<authors>tao hu,jun wei</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>86</label>
+		<keyword>Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Grid-Based Resource Management of Naval Weapon Systems</title>
+		<year>2003</year>
+		<authors>tao hu,zitang li</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>86</label>
+		<keyword>Grid Computing;Resource Manager;Resource Management System;Open Grid Service Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>The continuous transformation of the Chinese navy into an integrated and network-centric capability requires a cooperative and distributed weapon resource management system. As one of the steps into naval information grid our objective is to develop generalized principles for grid computing that can be applied to this specific domain. To address this problem, we adopt the OGSA (Open Grid Service</abstract>
+	</publication>
+	<publication>
+		<title>Cooperative Grid Jobs Scheduling with Multi-objective Genetic Algorithm</title>
+		<year>2007</year>
+		<authors>jun wei,wei wang,pu wang</authors>
+		<jconf>International Symposium on Parallel and Distributed Processing and Applications</jconf>
+		<label>86</label>
+		<keyword>Job Scheduling;Multi Objective Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Model of Scalable Distributed Network Performance Management</title>
+		<year>2004</year>
+		<authors>hu tao,wei wang,li zitan</authors>
+		<jconf>International Symposium on Parallel Architectures, Algorithms and Networks</jconf>
+		<label>86</label>
+		<keyword>Distributed Networks;Performance Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Distributed Network Management Framework Based on Mobile Agents</title>
+		<year>2009</year>
+		<authors>fuliang guo,liangzhong cui</authors>
+		<jconf>Multimedia and Ubiquitous Engineering</jconf>
+		<label>86</label>
+		<keyword>Distributed Network Management;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Integration Model of Multiple Information Security Methods</title>
+		<year>2009</year>
+		<authors>fuliang guo,lu yao</authors>
+		<jconf>Multimedia and Ubiquitous Engineering</jconf>
+		<label>86</label>
+		<keyword>Information Security;Integrable Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Grid Resource Scheduling Model Using Learning Agent</title>
+		<year>2009</year>
+		<authors>jun wei,haiqin liu</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>86</label>
+		<keyword>Resource Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Energy-efficient Broadcast Control Protocol for Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>lu yao,yongqian he</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>86</label>
+		<keyword>Energy Efficient;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Grid Scheduling Optimization Under Conditions of Uncertainty</title>
+		<year>2007</year>
+		<authors>luo zhaohui,wei jun</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>86</label>
+		<keyword>Grid Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Cluster-Cluster Design for Sensor Network with Guaranteed Capacity and Fault Tolerance</title>
+		<year>2007</year>
+		<authors>jun wei,tao hu</authors>
+		<jconf>Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing</jconf>
+		<label>86</label>
+		<keyword>Fault Tolerant;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jun Yang</FullName>
+	<publication>
+		<title>Data-Driven Processing in Sensor Networks</title>
+		<year>2007</year>
+		<authors>adam silberstein,gregory filpus,kamesh munagala</authors>
+		<jconf>Conference on Innovative Data Systems Research</jconf>
+		<label>457</label>
+		<keyword>Active Network;Data Collection;Ecological Model;Forest Growth;Network Monitoring;Sensor Network;Spatial Model;Base Station;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Wireless sensor networks are poised to enable continuous data col- lection on unprecedented scales, in terms of area location and size, and frequency. This is a great boon to elds,such as ecological modeling. We are collaborating with researchers to build sophisti- cated temporal and spatial models of forest growth, utilizing a va- riety of measurements. There exists a crucial</abstract>
+	</publication>
+	<publication>
+		<title>Compact reachability labeling for graph-structured data</title>
+		<year>2005</year>
+		<authors>hao he,haixun wang,philip s. yu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>457</label>
+		<keyword>Knowledge Representation;Labeling Scheme;Program Analysis;Strongly Connected Component;Structured Data;Transitive Closure;Xml Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>Testing reachability between nodes in a graph is a well-known problem with many important applications, including knowledge representation, program analysis, and more recently, biological and ontology databases inferencing as well as XML query processing. Various approaches have been proposed to encode graph reachability information using node labeling schemes, but most existing schemes only work well for specific types of graphs.</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Network Querying with Bounded Approximate Caching</title>
+		<year>2006</year>
+		<authors>badrish chandramouli,amin vahdat</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>457</label>
+		<keyword>Distributed Hash Table;Distributed Networks;Large Scale;Network Monitoring;Network Traffic;Recursive Partitioning;</keyword>
+		<organization>null</organization>
+		<abstract>As networks continue to grow in size and complexity, dis- tributed network monitoring and resource querying are becoming in- creasingly difficult. Our aim is to design, build, and evaluate a scalable infrastructure for answering queries over distributed measurements, at reduced costs (in terms of both network traffic and query latency) while maintaining required precision. In this infrastructure, each network node</abstract>
+	</publication>
+	<publication>
+		<title>I/O-Efficient Structures for Orthogonal Range-Max and Stabbing-Max Queries</title>
+		<year>2003</year>
+		<authors>pankaj k. agarwal,lars arge,ke yi</authors>
+		<jconf>European Symposium on Algorithms</jconf>
+		<label>457</label>
+		<keyword>Dynamic Data Structure;Linear Space;</keyword>
+		<organization>null</organization>
+		<abstract>We develop several linear or near-linear space and I/O- ecient dynamic data structures for orthogonal range-max queries and stabbing-max queries. Given a set of N weighted points in d, the range- max problem asks for the maximum-weight point in a query hyper- rectangle. In the dual stabbing-max problem, we are given N weighted hyper-rectangles, and we wish to nd the</abstract>
+	</publication>
+	<publication>
+		<title>Online View Maintenance Under a Response-Time Constraint</title>
+		<year>2005</year>
+		<authors>kamesh munagala,hai yu</authors>
+		<jconf>European Symposium on Algorithms</jconf>
+		<label>457</label>
+		<keyword>Competitive Ratio;Cost Function;Maintenance Cost;Materialized Views;Online Algorithm;Time Constraint;</keyword>
+		<organization>null</organization>
+		<abstract>A materialized view is a certain synopsis structure precomputed from one or more data sets (called base tables) in order to facilitate various queries on the data. When the underlying base tables change, the materialized view also needs to be updated accordingly to reect those changes. We consider the prob- lem of batch-incrementally maintaining a materialized view under a response-</abstract>
+	</publication>
+	<publication>
+		<title>Model-Driven Dynamic Control of Embedded Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>paul g. flikkema,pankaj k. agarwal,james s. clark,carla schlatter ellis,alan gelfand,kamesh munagala</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>457</label>
+		<keyword>Data Collection;Distributed System;Dynamic Control;Environmental Change;Sensor Network;Wireless Network;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Next-generation wireless sensor networks may revolution- ize understanding of environmental change by assimilating heteroge- neous data, assessing the relative value and costs of data collection, and scheduling activities accordingly. Thus, they are dynamic, data-driven distributed systems that integrate sensing with modeling and prediction in an adaptive framework. Integration of a range of technologies will al- low estimation of the value</abstract>
+	</publication>
+	<publication>
+		<title>From Data Reverence to Data Relevance: Model-Mediated Wireless Sensing of the Physical Environment</title>
+		<year>2007</year>
+		<authors>paul g. flikkema,pankaj k. agarwal,james s. clark,carla schlatter ellis,alan gelfand,kamesh munagala</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>457</label>
+		<keyword>Data Acquisition;Ecosystem Processes;Network Computing;Physical Environment;Process Model;Relevance Model;Soil Moisture;Wireless Sensing;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless sensor networks can be viewed as the integration of three subsystems: a low-impact in situ data acquisition and collection system, a system for inference of process models from observed data and ap rioriinformation, and a system that controls the observation and collection. Each of these systems is connected by feedforward and feed- back signals from the others; moreover, each</abstract>
+	</publication>
+	<publication>
+		<title>On Suspending and Resuming Dataflows</title>
+		<year>2007</year>
+		<authors>badrish chandramouli,christopher n. bond,shivnath babu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Asymmetric Batch Incremental View Maintenance</title>
+		<year>2005</year>
+		<authors>hao he,junyi xie,hai yu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Batch Process;Continuous Query;Data Warehousing;Incremental View Maintenance;Indexation;Maintenance Cost;Publish Subscribe;Time Constraint;</keyword>
+		<organization>null</organization>
+		<abstract>Incremental view maintenance has found a growing number of applications recently, including data warehous- ing, continuous query processing, publish/subscribe sys- tems, etc. Batch processing of base table modifications, when applicable, can be much more efficient than process- ing individual modifications one at a time. In this paper, we tackle the problem of finding the most efficient batch incre- mental maintenance</abstract>
+	</publication>
+	<publication>
+		<title>Multiresolution Indexing of XML for Frequent Queries</title>
+		<year>2004</year>
+		<authors>hao he</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Directed Graph;Indexation;Path Expressions;Perforation;Query Answering;semi-structured data;</keyword>
+		<organization>null</organization>
+		<abstract>XML and other types of semi-structured data are typ- ically represented by a labeled directed graph. To speed up path expression queries over the graph, a variety of structural indexes have been proposed. They usually work by partitioning nodes in the data graph into equivalence classes and storing equivalence classes as index nodes. A(k)-index introduces the concept of local bisimilarity</abstract>
+	</publication>
+	<publication>
+		<title>A Sampling-Based Approach to Optimizing Top-k Queries in Sensor Networks</title>
+		<year>2006</year>
+		<authors>adam silberstein,rebecca braynard,carla schlatter ellis,kamesh munagala</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Perforation;Query Processing;Sensor Network;Linear Program;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless sensor networks generate a vast amount of data. This data, however, must be sparingly extracted to conserve energy, usually the most precious resource in battery-powered sensors. When approximation is acceptable, a model-driven approach to query processing is effective in saving energy by avoiding contacting nodes whose values can be predicted or are unlikely to be in the result set.</abstract>
+	</publication>
+	<publication>
+		<title>Energy-Efficient Continuous Isoline Queries in Sensor Networks</title>
+		<year>2006</year>
+		<authors>adam silberstein,rebecca braynard</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Energy Efficient;Environmental Monitoring;It Value;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Environmental monitoring is a promising application for sensor networks. Many scenarios produce geographically correlated readings, making them visually interesting and good targets for the isoline query. This query depicts bound- aries showing how values change in the network. Temporal and spatial suppression provide opportunities for reducing the cost of maintaining the query result. We combine both techniques for maximal benet</abstract>
+	</publication>
+	<publication>
+		<title>BOXes: Efficient Maintenance of Order-Based Labeling for Dynamic XML Data</title>
+		<year>2005</year>
+		<authors>adam silberstein,hao he,ke yi</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Data Structure;Tree Structure;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Order-based element labeling for tree-structured XML data is an important technique in XML processing. It lies at the core of many fundamental XML operations such as containment join and twig matching. While labeling for static XML documents is well understood, less is known about how to maintain accurate labeling for dynamic XML documents, when elements and subtrees are inserted and</abstract>
+	</publication>
+	<publication>
+		<title>NEXSORT: Sorting XML in External Memory</title>
+		<year>2004</year>
+		<authors>adam silberstein</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Degeneration;External Memory;Hierarchical Structure;Xml Document;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>XML plays an important role in delivering data over the Internet, and the need to store and manipulate XML in its native format has become increasingly relevant. This grow- ing need necessitates work on developing native XML oper- ators, especially for one as fundamental as sort. In this pa- per we present NEXSORT, an algorithm that leverages the hierarchical nature</abstract>
+	</publication>
+	<publication>
+		<title>Many-to-Many Aggregation for Sensor Networks</title>
+		<year>2007</year>
+		<authors>adam silberstein</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Data Collection;Optimization Technique;Sensor Network;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless sensor networks have enormous potential to aid data collection in a number of areas, such as environmental and wildlife research. In this paper, we address the challenges of supporting many-to-many aggregation in a sensor network. An application of many-to-many aggregation is in-network con- trol of sensors. For expensive sensing tasks such as sap ux measurements and camera repositioning, we</abstract>
+	</publication>
+	<publication>
+		<title>Weighted Proximity Best-Joins for Information Retrieval</title>
+		<year>2009</year>
+		<authors>risi thonangi,hao he,anhai doan,haixun wang</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Crossed Product;Information Extraction;Information Retrieval;Score Function;Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of efficiently computing weighted proximity best-joins over multiple lists, with applica- tions in information retrieval and extraction. We are given a multi-term query, and for each query term, a list of all its matches with scores, sorted by locations. The problem is to find the overall best matchset, consisting of one match from each list, such</abstract>
+	</publication>
+	<publication>
+		<title>Dual Labeling: Answering Graph Reachability Queries in Constant Time</title>
+		<year>2006</year>
+		<authors>haixun wang,hao he,philip s. yu,jeffrey xu yu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Indexation;Internet Routing;Labeling Scheme;massive datasets;</keyword>
+		<organization>null</organization>
+		<abstract>Graph reachability is fundamental to a wide range of ap- plications, including XML indexing, geographic navigation, Internet routing, ontology queries based on RDF/OWL, etc. Many applications involve huge graphs and require fast an- swering of reachability queries. Several reachability label- ing methods have been proposed for this purpose. They assign labels to the vertices, such that the reachability be- tween</abstract>
+	</publication>
+	<publication>
+		<title>A Sampling-Based Approach to Information Recovery</title>
+		<year>2008</year>
+		<authors>junyi xie,yuguo chen,haixun wang,philip s. yu</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Closed Form Solution;Incomplete Data;Prior Knowledge;Sequential Importance Sampling;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—There has been a recent resurgence of interest in research on noisy and incomplete data. Many applications require information to be recovered from such data. Ideally, an approach for information recovery should have the following features. First, it should be able to incorporate prior knowledge about the data, even if such knowledge is in the form of complex distributions and</abstract>
+	</publication>
+	<publication>
+		<title>Incremental Computation and Maintenance of Temporal Aggregates</title>
+		<year>2001</year>
+		<authors>jennifer widom</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>458</label>
+		<keyword>Access Method;cumulant;Incremental Computation;Index Structure;Indexation;Temporal Aggregation;Temporal Database;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problems of computing aggrega- tion queries in temporal databases and of maintaining mate- rialized temporal aggregate views efficiently. The latter prob- lem is particularly challenging since a single data update can cause aggregate results to change over the entire time line. We introduce a new index structure called the SB-tree, which incorporates features from both segment-trees and</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Maintenance of Materialized Top-k Views</title>
+		<year>2003</year>
+		<authors>ke yi,hai yu,gangqiang xia,yuguo chen</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>457</label>
+		<keyword>Data Warehouse;Indexing Terms;Prior Knowledge;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>We tackle the problem of maintaining materialized top- views in this paper. Top- queries, includingMIN and MAX as important special cases, occur frequently in com- mon database workloads. A top- view can be materialized to improve query performance, but in general it is not self- maintainable unless it contains all tuples in the base table . Deletions and updates on</abstract>
+	</publication>
+	<publication>
+		<title>AUTOBIB: Automatic Extraction of Bibliographic Information on the Web</title>
+		<year>2004</year>
+		<authors>junfei geng</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>457</label>
+		<keyword>Access To Information;Heuristic Method;Information Presentation;Success Rate;Hidden Markov Model;Lines of Code;</keyword>
+		<organization>null</organization>
+		<abstract>The Web has greatly facilitated access to information. However, information presented in HTML is mainly intended to be browsed by humans, and the problem of automatically extracting such information remains an important and chal- lenging task. In this work, we focus on building a system called AUTOBIB to automate extraction of bibliographic in- formation on the Web. We use a</abstract>
+	</publication>
+	<publication>
+		<title>Performance Modeling and Composition: A Case Study in Cell Simulation</title>
+		<year>1996</year>
+		<authors>steve g. steinberg,katherine a. yelick</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>459</label>
+		<keyword>Case Study;Data Layout;Parallel Applications;Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract>We present a case study in the use of performance model- ing for parallel application development, with a biological cell simulation as our target application. We show that a simple performance model is adequate for determining data layout for arrays and linked structures, and validate our model against experimental results for some application kernels. We quantify the importance of optimizing</abstract>
+	</publication>
+	<publication>
+		<title>Monitoring Continuous Band-Join Queries over Dynamic Data</title>
+		<year>2005</year>
+		<authors>pankaj k. agarwal,junyi xie,hai yu</authors>
+		<jconf>International Symposium on Algorithms and Computation</jconf>
+		<label>457</label>
+		<keyword>Continuous Query;Data Structure;Dynamic Data;Indexation;</keyword>
+		<organization>null</organization>
+		<abstract>A continuous query is a standing query over a dynamic data set whose query result needs to be constantly updated as new data arrive. We consider the problem of constructing a data structure on a set of continuous band-join queries over two data sets R and S, where each band-join query asks for reporting the set f(r; s) 2 R</abstract>
+	</publication>
+	<publication>
+		<title>Query suspend and resume</title>
+		<year>2007</year>
+		<authors>badrish chandramouli,christopher n. bond,shivnath babu</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Database System;Process Optimization;High Priority;</keyword>
+		<organization>null</organization>
+		<abstract>Suppose a long-running analytical query is executing on a database server and has been allocated a large amount of physical mem- ory. A high-priority task comes in and we need to run it imme- diately with all available resources. We have several choices. We could swap out the old query to disk, but writing out a large execu- tion state</abstract>
+	</publication>
+	<publication>
+		<title>On the database/network interface in large-scale publish/subscribe systems</title>
+		<year>2006</year>
+		<authors>badrish chandramouli,junyi xie</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Design Space;Large Scale;Network Interface;publish/subscribe system;Query Processing;and Forward;Experience Base;</keyword>
+		<organization>null</organization>
+		<abstract>The work performed by a publish/subscribe system can conceptu- ally be divided into subscription processing and notication dis- semination. Traditionally, research in the database and networking communities has focused on these aspects in isolation. The inter- face between the database server and the network is often over- looked by previous research. At one extreme, database servers are directly responsible for</abstract>
+	</publication>
+	<publication>
+		<title>ProSem: scalable wide-area publish/subscribe</title>
+		<year>2008</year>
+		<authors>badrish chandramouli,pankaj k. agarwal,albert yu,ying zheng</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Publish Subscribe;publish/subscribe system;</keyword>
+		<organization>null</organization>
+		<abstract>We demonstrate ProSem, a scalable wide-area publish/subscribe system that supports complex, stateful subscriptions as well as simple ones. One unique feature of ProSem is its cost-based joint optimization of both subscription processing and notification dissemination. ProSem uses novel reformulation techniques to expose new alternatives for processing and disseminating data using standard stateless content-driven network components.</abstract>
+	</publication>
+	<publication>
+		<title>BLINKS: ranked keyword searches on graphs</title>
+		<year>2007</year>
+		<authors>hao he,haixun wang,philip s. yu</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Indexation;Keyword Search;Performance Bounds;Performance Improvement;Query Processing;Search Strategy;Structured Data;</keyword>
+		<organization>null</organization>
+		<abstract>Query processing over graph-structured data is enjoying a growing number of applications. A top-k keyword search query on a graph finds the top k answers according to some ranking criteria, where each answer is a substructure of the graph containing all query keywords. Current techniques for supporting such queries on general graphs suffer from several drawbacks, e.g., poor worst-case performance,</abstract>
+	</publication>
+	<publication>
+		<title>Constraint chaining: on energy-efficient continuous monitoring insensor networks</title>
+		<year>2006</year>
+		<authors>adam silberstein,rebecca braynard</authors>
+		<jconf></jconf>
+		<label>457</label>
+		<keyword>Continuous Query;Data Collection;Energy Cost;Energy Efficient;Experimental Evaluation;It Value;Sensor Network;Base Station;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless sensor networks have created new opportunities for data collection in a variety of scenarios, such as environmental and in- dustrial, where we expect data to be temporally and spatially cor- related. Researchers may want to continuously collect all sensor data from the network for later analysis. Suppression, both tempo- ral and spatial, provides opportunities for reducing the energy cost</abstract>
+	</publication>
+	<publication>
+		<title>Energy-efficient monitoring of extreme values in sensor networks</title>
+		<year>2006</year>
+		<authors>adam silberstein,kamesh munagala</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Complex Dynamical Systems;Continuous Query;Energy Efficient;Extreme Value;Message Passing;Network Topology;Query Processing;Sensor Network;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Monitoring extreme values (MAX or MIN) is a fundamental prob- lem in wireless sensor networks (and in general, complex dynamic systems). This problem presents very different algorithmic chal- lenges from aggregate and selection queries, in the sense that an individual node cannot by itself determine its inclusion in the query result. We present novel query processing algorithms for this prob-</abstract>
+	</publication>
+	<publication>
+		<title>On joining and caching stochastic streams</title>
+		<year>2005</year>
+		<authors>junyi xie,yuguo chen</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Cache Memory;Cache Replacement;Data Stream;Optimal Algorithm;Satisfiability;Stationary Distribution;Statistical Properties;Random Walk;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of joining data streams using limited cache memory, with the goal of producing as many result tuples as possible from the cache. Many cache replacement heuristics have been proposed in the past. Their performance often relies on implicit assumptions about the input streams, e.g., that the join attribute values follow a relatively stationary distribution. However, in</abstract>
+	</publication>
+	<publication>
+		<title>Incremental maintenance of XML structural indexes</title>
+		<year>2004</year>
+		<authors>ke yi,hao he,ioana stanoi</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>457</label>
+		<keyword>Experimental Evaluation;Indexation;Path Expressions;Query Answering;Query Processing;Structured Data;</keyword>
+		<organization>null</organization>
+		<abstract>Increasing popularity of XML in recent years has generated much interest in query processing over graph-structured data. To support efficient evaluation of path expressions, many structural indexes have been proposed. The most popular ones are the 1-index, based on the notion of graph bisimilarity, and the recently proposed A(k)-index, based on the notion of local similarity to provide a trade-off</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Continuous Query Processing by Tracking Hotspots</title>
+		<year>2006</year>
+		<authors>pankaj k. agarwal,junyi xie,hai yu</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>457</label>
+		<keyword>Continuous Query;Data Structure;Efficient Algorithm;Group Process;Indexation;Linear Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper considers the problem of scalably processing a large number of continuous queries. We propose a flexible framework with novel data structures and a lgorithms for group-processing and index- ing continuous queries by exploiting potential overlaps in query predicates. Our approach partitions the collection of continuous queries into groups based on the clustering patterns of the query ranges, and</abstract>
+	</publication>
+	<publication>
+		<title>Value-Based Notification Conditions in Large-Scale Publish/Subscribe Systems</title>
+		<year>2007</year>
+		<authors>badrish chandramouli,jeff phillips</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>457</label>
+		<keyword>Experimental Evaluation;Large Scale;publish/subscribe system;</keyword>
+		<organization>null</organization>
+		<abstract>We address the problem of providing scalable support for subscrip- tions with personalized value-based notication conditions in wide- area publish/subscribe systems. Notication conditions can be ne- tuned by subscribers, allowing precise and e xible control of when events are delivered to the subscribers. For example, a user may specify that she should be notied if and only if the price</abstract>
+	</publication>
+	<publication>
+		<title>Making Sense of Suppressions and Failures in Sensor Data: A Bayesian Approach</title>
+		<year>2007</year>
+		<authors>adam silberstein,alan gelfand,kamesh munagala,gavino puggioni</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>457</label>
+		<keyword>bayesian approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>TupleRank and Implicit Relationship Discovery in Relational Databases</title>
+		<year>2003</year>
+		<authors>xiao huang,qiang xue</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>457</label>
+		<keyword>Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities</title>
+		<year>1996</year>
+		<authors>laura m. haas,donald kossmann,edward l. wimmers</authors>
+		<jconf>IEEE Data(base) Engineering Bulletin</jconf>
+		<label>457</label>
+		<keyword>Heterogeneous Systems;Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>Much of the world's nonstandard data resides in specialized data sources. This data mustoften be queried together with data from other sources to give users the information they desire.Queries that can span several specialized sources with diverse search capabilities pose newchallenges for query optimization. This paper describes the design and illustrates the use of ageneral purpose optimizer that can be</abstract>
+	</publication>
+	<publication>
+		<title>End-to-end support for joins in large-scale publish/subscribe systems</title>
+		<year>2008</year>
+		<authors>badrish chandramouli</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>457</label>
+		<keyword>Large Scale;publish/subscribe system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tree Indexing on Solid State Drives</title>
+		<year>2010</year>
+		<authors>yinan li,bingsheng he,qiong luo,ke yi</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>457</label>
+		<keyword>Indexation;Low Energy;Similarity Search;Solid State Drive;</keyword>
+		<organization>null</organization>
+		<abstract>Large flash disks, or solid state drives (SSDs), have become an at- tractive alternative to magnetic hard disks, due to their high ran- dom read performance, low energy consumption and other features. However, writes, especially small random writes, on the flash disk are inherently much slower than reads because of the erase-before- write mechanism. To address this asymmetry of read-write</abstract>
+	</publication>
+	<publication>
+		<title>Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007)</title>
+		<year>2007</year>
+		<authors>magdalena balazinska,amol deshpande,alexandros labrinidis,qiong luo,samuel r. madden</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>457</label>
+		<keyword>Data Management;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Sensor networks enable an unprecedented level of access to the physical world, and hold tremendous potential to revolutionize many application domains. Research on sensor networks spans many areas of computer science, and there are now major conferences, e.g., IPSN and SenSys, devoted to sensor networks. However, there is no focused forum for discussion of early and innovative work on data</abstract>
+	</publication>
+	<publication>
+		<title>Input-sensitive scalable continuous join query processing</title>
+		<year>2009</year>
+		<authors>pankaj k. agarwal,junyi xie,hai yu</authors>
+		<jconf>ACM Transactions on Database Systems</jconf>
+		<label>457</label>
+		<keyword>Continuous Query;Continuous Selection;Data Stream;Data Structure;Group Process;Publish Subscribe;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>This article considers the problem of scalably processing a large number of continuous queries. Our approach, consisting of novel data structures and algorithms and a flexible processing framework, advances the state-of-the-art in several ways. First, our approach is query sensitive in the sense that it exploits potential overlaps in query predicates for efficient group processing. We partition the collection of</abstract>
+	</publication>
+	<publication>
+		<title>Incremental computation and maintenance of temporal aggregates</title>
+		<year>2003</year>
+		<authors>jennifer widom</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>458</label>
+		<keyword>Incremental Computation;Temporal Aggregation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Data Aggregation in Sensor Networks</title>
+		<year>2009</year>
+		<authors>kamesh munagala,adam silberstein</authors>
+		<jconf></jconf>
+		<label>457</label>
+		<keyword>Data Aggregation;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Group KeyManagement with Tamper-resistant ISA Extensions</title>
+		<year>2006</year>
+		<authors>youtao zhang,lan gao</authors>
+		<jconf>Application-Specific Systems, Architectures, and Processors</jconf>
+		<label>460</label>
+		<keyword>Tamper Resistance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Frequent value compression in packet-based NoC architectures</title>
+		<year>2009</year>
+		<authors>ping zhou,bo zhao,yu du,yi xu,youtao zhang,li zhao</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>460</label>
+		<keyword>Chip Multiprocessor;Hardware Design;Power Consumption;Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>The proliferation of Chip Multiprocessors (CMPs) has led to the integration of large on-chip caches. For scalability reasons, a large on-chip cache is often divided into smaller banks that are interconnected through packet-based Network-on-Chip (NoC). With increasing number of cores and cache banks integrated on a single die, the on-chip network introduces significant communication latency and power consumption. In this</abstract>
+	</publication>
+	<publication>
+		<title>Frequent value locality and value-centric data cache design</title>
+		<year>2000</year>
+		<authors>youtao zhang,rajiv gupta</authors>
+		<jconf>ACM Sigarch Computer Architecture News</jconf>
+		<label>460</label>
+		<keyword>Data Cache;Memory Access;Random Access;</keyword>
+		<organization>null</organization>
+		<abstract>By studying the behavior of programs in the SPECint95 suite we observed that six out of eight programs exhibit a new kind of value locality, the frequent value locality, according to which a few values appear very frequently in memory locations and are therefore involved in a large fraction of memory accesses. In these six programs ten distinct values occupy</abstract>
+	</publication>
+	<publication>
+		<title>Power efficient encoding techniques for off-chip data buses</title>
+		<year>2003</year>
+		<authors>dinesh c. suresh,banit agrawal,walid a. najjar,laxmi n. bhuyan</authors>
+		<jconf>Compilers, Architecture, and Synthesis for Embedded Systems</jconf>
+		<label>460</label>
+		<keyword>Low Power;Numerical Technique;Power Consumption;Power Efficiency;Power Reduction;Spatial Locality;Switching Activity;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Reducing the power consumption of computing devices has gained a lot of attention recently. Many research works have focused on reducing power consumption in the off-chip buses as they consume a significant amount of total power. Since the bus power consumption is proportional to the switching activity, reducing the bus switching is an effective way to reduce bus power. While</abstract>
+	</publication>
+	<publication>
+		<title>Low power network processor design using clock gating</title>
+		<year>2005</year>
+		<authors>yan luo,jia yu,laxmi n. bhuyan</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>460</label>
+		<keyword>Clock Gating;High Performance;Low Income;Low Power;Network Traffic;Packet Loss;Parallel Processing;Power Consumption;Time Window;Network Processor;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>Network processors (NPs) have emerged as successful platforms to providing both high performance and flexibility in building powerful routers. Typical NPs incorporate multiprocessing and multi-threading to achieve maximum parallel processing capabilities. We observed that under low incoming traffic rates, most processing elements (PEs) in NPs are nearly idle and yet still consume dynamic power. This paper develops a low power</abstract>
+	</publication>
+	<publication>
+		<title>A systematic method for functional unit power estimation in microprocessors</title>
+		<year>2006</year>
+		<authors>wei wu,lingling jin,pu liu,sheldon x.-d. tan</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>460</label>
+		<keyword>Linear System of Equations;Performance of Systems;Power Consumption;Power Estimation;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new method for mathematically estimating the active unit power of functional units in modern microprocessors such as the Pen- tium 4 family. Our method leverages the phasic behavior in power consumption of programs, and captures as many power phases as pos- sible to form a linear system of equations such that the functional unit power can be</abstract>
+	</publication>
+	<publication>
+		<title>Program Mapping onto Network Processors by Recursive Bipartitioning and Refining</title>
+		<year>2007</year>
+		<authors>jia yu,jingnan yao,laxmi n. bhuyan</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>460</label>
+		<keyword>Divide and Conquer;Iterative Refinement;Task Graphs;Task Scheduling;Network Processor;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>Mapping packet processing applications onto embedded net- work processors (NP) is a challenging task due to the unique constraints of NP systems and the characteristics of network application domains. A remarkable difference with general multiprocessor task scheduling is that NPs are often pro- grammed into a hybrid parallel and pipeline topology. In this paper, we introduce a multilevel balancing and</abstract>
+	</publication>
+	<publication>
+		<title>Proactive NBTI mitigation for busy functional units in out-of-order microprocessors</title>
+		<year>2010</year>
+		<authors>lin li,youtao zhang,jianhua zhao</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>460</label>
+		<keyword>Integrated Circuit;Mean Time To Failure;Technology Scaling;Functional Unit;Negative Bias Temperature Instability;Out of Order;</keyword>
+		<organization>null</organization>
+		<abstract>Due to fast technology scaling, negative bias temperature instability (NBTI) has become a major reliability concern in designing modern integrated circuits. In this paper, we present a simple and proactive NBTI recovery scheme targeting at critical and busy functional units with storage cells in modern microprocessors. Existing schemes have limitations when recovering these functional units. By exploiting the idle time</abstract>
+	</publication>
+	<publication>
+		<title>Assertion-Based Design Exploration of DVS in Network Processor Architectures</title>
+		<year>2007</year>
+		<authors>jia yu,wei wu,xi chen,harry hsieh,felice balarin</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>460</label>
+		<keyword>Network Processor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low Static-Power Frequent-Value Data Caches</title>
+		<year>2004</year>
+		<authors>chuanjun zhang,frank vahid</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>460</label>
+		<keyword>Cache Memory;Circuit Design;Data Cache;Energy Dissipation;Energy Saving;Low Power;Power Saving;</keyword>
+		<organization>null</organization>
+		<abstract>Static energy dissipation in cache memories will constitute an increasingly larger portion of total microprocessor energy dissipation due to nanoscale technology characteristics and the large size of on-chip caches. We propose to reduce the static energy dissipation of an on-chip data cache by taking advantage of the frequent values (FV) that widely exist in a data cache memory. The original</abstract>
+	</publication>
+	<publication>
+		<title>Locating Compromised Sensor Nodes Through Incremental Hashing Authentication</title>
+		<year>2006</year>
+		<authors>youtao zhang,lingling jin,weijia li</authors>
+		<jconf>Distributed Computing in Sensor Systems</jconf>
+		<label>460</label>
+		<keyword>Sensor Network;Sensor Nodes;</keyword>
+		<organization>null</organization>
+		<abstract>While sensor networks have recently emerged as a promising com- puting model, they are vulnerable to various node compromising attacks. In this paper, we propose COOL, a COmpromised nOde Locating protocol for detect- ing and locating compromised nodes once they misbehave in the sensor network. We exploit a proven collision-resilient incremental hashing algorithm and design secure steps to confidently locate</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Buffer Management for Efficient Code Dissemination in Multi-Application Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>weijia li,yu du,youtao zhang,bruce childers,ping zhou</authors>
+		<jconf>Embedded and Ubiquitous Computing</jconf>
+		<label>460</label>
+		<keyword>Buffer Management;Energy Efficient;Wireless Sensor;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Future wireless sensor networks (WSNs) are projected to run multiple applicationsin the same network infrastruc- ture. While such multi-application WSNs (MA-WSNs) are economically more efficient and adapt better to the chang- ing environments than traditional single-applicationWSNs, theyusuallyrequirefrequentcoderedistribution on wireless sensors, making it critical to design energy efficient post- deployment code dissemination protocols in MA-WSNs. Different applications in MA-WSNs often share</abstract>
+	</publication>
+	<publication>
+		<title>FV-MSB: A Scheme for Reducing Transition Activity on Data Buses</title>
+		<year>2003</year>
+		<authors>dinesh c. suresh,chuanjun zhang,banit agrawal,walid a. najjar</authors>
+		<jconf>High Performance Computing</jconf>
+		<label>460</label>
+		<keyword>Energy Saving;Power Consumption;Switching Activity;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Power consumption becomes an important issue for modern processors. The off-chip buses consume considerable amount of total power (9,7). One effective way to reduce power is to reduce the overall bus switching activities since they are proportional to the power. Up till now, the most effective technique in reducing the switching activities on the data buses is Frequent Value Encoding</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Network Processor Simulation Speed with Statistical Input Sampling</title>
+		<year>2005</year>
+		<authors>jia yu,shaojie chen,yan luo,laxmi n. bhuyan</authors>
+		<jconf>High Performance Embedded Architectures and Compilers</jconf>
+		<label>460</label>
+		<keyword>Code Size;Error Bound;High Performance;Network Traffic;Simulation Tool;Chip Multi Processor;Network Processor;</keyword>
+		<organization>null</organization>
+		<abstract>While cycle-accurate simulation tools have been widely used in mod- eling high-performance processors, such an approach can be hindered by the in- creasing complexity of the simulation, especially in modeling chip multi-processors with multi-threading such as the network processors (NP). We have observed that for NP cycle level simulation, several days of simulation time covers only about one second of</abstract>
+	</publication>
+	<publication>
+		<title>InfoShield: a security architecture for protecting information usage in memory</title>
+		<year>2006</year>
+		<authors>weidong shi,joshua b. fryman,guofei gu,hsien-hsin s. lee,youtao zhang</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>460</label>
+		<keyword>E Commerce;Internet Security;Memory Access;Non Volatile Memory;Security Architecture;Client Server;Network Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>Cyber theft is a serious threat to Internet security. It is one of the ma- jor security concerns by both network service providers and Internet users. Though sensitive information can be encrypted when stored in non-volatile memory such as hard disks, for many e-commerce and network applications, sensitive information is often stored as plain- text in main memory. Documented and</abstract>
+	</publication>
+	<publication>
+		<title>A low-radix and low-diameter 3D interconnection network design</title>
+		<year>2009</year>
+		<authors>yi xu,yu du,bo zhao,xiuyi zhou,youtao zhang</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>460</label>
+		<keyword>Communication Delay;Interconnection Network;Mesh Network;Deep Sub Micron;Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>Interconnection plays an important role in performance and power of CMP designs using deep sub-micron technol- ogy. The network-on-chip (NoCs) has been proposed as a scalable and high-bandwidth fabric for interconnect design. The advent of the 3D technology has provided further op- portunity to reduce on-chip communication delay. However, the design of the 3D NoC topologies has important distinc- tions</abstract>
+	</publication>
+	<publication>
+		<title>SENSS: Security Enhancement to Symmetric Shared Memory Multiprocessors</title>
+		<year>2005</year>
+		<authors>youtao zhang,lan gao,xiangyu zhang,rajiv gupta</authors>
+		<jconf>International Symposium on High-Performance Computer Architecture</jconf>
+		<label>460</label>
+		<keyword>Advanced Encryption Standard;Cache Coherence Protocol;High Performance;Integrity Checking;Low Latency;Shared Memory;Shared Memory Multiprocessor;System Simulation;Cipher Block Chaining;</keyword>
+		<organization>null</organization>
+		<abstract>With the increasing concern of the security on high performance multiprocessor enterprise servers, more and more effort is being in- vested into defending against various kinds of attacks. This paper proposes a security enhancement model called SENSS, that allows programs to run securely on a symmetric shared memory multipro- cessor (SMP) environment. In SENSS, a program, including both code and</abstract>
+	</publication>
+	<publication>
+		<title>Fast thermal simulation for architecture level dynamic thermal management</title>
+		<year>2005</year>
+		<authors>pu liu,zhenyu qi,hang li,lingling jin,wei wu,sheldon x.-d. tan</authors>
+		<jconf>International Conference on Computer Aided Design</jconf>
+		<label>460</label>
+		<keyword>Dynamic Thermal Management;Frequency Domain;Initial Condition;Moment Matching;Power Consumption;Power Density;Spectrum Analysis;Steady State;Thermal Analysis;Transient Analysis;Transient Response;</keyword>
+		<organization>null</organization>
+		<abstract>As power density increases exponentially, runtime regulation of operating temperature by dynamic thermal managements becomes necessary. This paper proposes a novel approach to the thermal analysis at chip architecture level for efficient dynamic thermal management. Our new approach is based on the observation that the power consumption of architecture level modules in micropro- cessors running typical workloads presents strong nature</abstract>
+	</publication>
+	<publication>
+		<title>Energy reduction for STT-RAM using early write termination</title>
+		<year>2009</year>
+		<authors>ping zhou,bo zhao,youtao zhang</authors>
+		<jconf>International Conference on Computer Aided Design</jconf>
+		<label>460</label>
+		<keyword>Energy Consumption;Energy Efficient;Low Complexity;Low Energy;Power Generation;High Density;</keyword>
+		<organization>null</organization>
+		<abstract>The emerging Spin Torque Transfer memory (STT-RAM) is a promis- ing candidate for future on-chip caches due to STT-RAM's high density, low leakage, long endurance and high access speed. How- ever, one of the major challenges of STT-RAM is its high write current, which is disadvantageous when used as an on-chip cache since the dynamic power generated is too high.</abstract>
+	</publication>
+	<publication>
+		<title>Reduce Register Files Leakage Through Discharging Cells</title>
+		<year>2006</year>
+		<authors>lingling jin,wei wu,chuanjun zhang,youtao zhang</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>460</label>
+		<keyword>Energy Saving;Leakage Current;Leakage Power;Life Cycle;Register File;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a low-leakage register file cell design based on the observation that the physical registers in a super- scalar processor have very short life cycles. When a register is dead, we discharge its cells to '0' to greatly reduce the leakage current from the read bitlines to the ground. Our design has no impact to critical register read access</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Thermal Simulation for Run-Time Temperature Tracking and Management</title>
+		<year>2005</year>
+		<authors>hang li,pu liu,zhenyu qi,lingling jin,wei wu,sheldon x.-d. tan</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>460</label>
+		<keyword>Dynamic Thermal Management;Frequency Domain;Initial Condition;Linear Time;Moment Matching;Power Consumption;Power Density;Simulation Tool;Thermal Analysis;Transient Analysis;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT As power density increases exponentially, run-time regulation of op- erating temperature by dynamic,thermal management,becomes,im- perative. This paper proposes a novel approach,to real-time ther- mal estimation at chip level for efficient dynamic,thermal manage- ment in lieu of the thermal sensors, which are erroneous and hav- ing longer delays. Our new,approach,is based on the observation that the average power,consumption,of architecture level</abstract>
+	</publication>
+	<publication>
+		<title>VALVE: Variable Length Value Encoder for Off-Chip Data Buses</title>
+		<year>2005</year>
+		<authors>dinesh c. suresh,banit agrawal,walid a. najjar</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>460</label>
+		<keyword>Power Consumption;Prior Knowledge;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>We propose VAriable Length Value Encoding (VALVE) technique to reduce the power consumption in the off-chip data buses. While past research has focused on encoding fixed length data values to reduce the transition activity in the data buses, our proposed scheme is capable of detecting and encoding variable length bit patterns in the data values. VALVE also does not require</abstract>
+	</publication>
+	<publication>
+		<title>Improving the reliability of on-chip data caches under process variations</title>
+		<year>2007</year>
+		<authors>wei wu,sheldon x.-d. tan,shih-lien lu</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>460</label>
+		<keyword>Data Cache;Data Intensive Application;Distribution Dynamics;Leakage Current;Process Variation;Thermal Stress;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>On-chip caches take a large portion of the chip area. They are much more vulnerable to parameter variation than smaller units. As leakage current becomes a significant com- ponent of the total power consumption, the leakage current variations induced thermal and reliability problem to the o n- chip caches become an important design concern. This paper studies the impact of</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Co-allocation of Level One Caches</title>
+		<year>2005</year>
+		<authors>lingling jin,wei wu,chuanjun zhang,youtao zhang</authors>
+		<jconf>International Conference on Embedded Software and Systems</jconf>
+		<label>460</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Load Redundancy Removal through Instruction Reuse</title>
+		<year>2000</year>
+		<authors>rajiv gupta</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>460</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Instruction reuse techniques have been developed to detect and remove redundancy at runtime. By maintaining the execution history of an instruction, reuse techniques detect if a subsequent execution of an instruction will yield the same result as its previous execution, and if this is the case, the result is made available to dependent instructions without executing the instruction. This approach</abstract>
+	</publication>
+	<publication>
+		<title>Procedural Level Address Offset Assignment of DSP Applications with Loops</title>
+		<year>2003</year>
+		<authors>youtao zhang</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>460</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Automatic optimization of address offset assignment for DSP applications, which reduces the number of address arithmeticinstructionstomeet thetightmemory size restric- tions and performance requirements, received a lot of at- tention in recent years. However, most of current research focuses at the basic block level and does not distinguish dif- ferent program structures, especially loops. Moreover, the effectiveness of modify register (MR)</abstract>
+	</publication>
+	<publication>
+		<title>Thermal Management for 3D Processors via Task Scheduling</title>
+		<year>2008</year>
+		<authors>xiuyi zhou,yi xu,yu du,youtao zhang</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>460</label>
+		<keyword>3d integration;High Speed;High Temperature;Performance Improvement;Power Density;Scheduling Algorithm;Task Scheduling;Thermal Management;</keyword>
+		<organization>null</organization>
+		<abstract>A rising horizon in chip fabrication is the 3D integration technology. It stacks two or more dies vertically with a dense, high-speed interface to increase the device density and re- duce the delay of interconnects across the dies. However, a major challenge in 3D technology is the increased power density which brings the concern of heat dissipation within the processor.</abstract>
+	</publication>
+	<publication>
+		<title>A low-cost memory remapping scheme for address bus protection</title>
+		<year>2006</year>
+		<authors>jun yang,marek chrobak,youtao zhang,san nguyen,hsien-hsin s. lee</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>460</label>
+		<keyword>Distributed Computing Environment;High Performance;Information Leakage;Passive Monitoring;Side Channel Attacks;</keyword>
+		<organization>null</organization>
+		<abstract>The address sequence on the processor-memory bus can reveal abun- dant information about the control o w of a program. This can lead to critical information leakage such as encryption keys or propri- etary algorithms. Addresses can be observed by attaching a hard- ware device on the bus that passively monitors the bus transac- tion. Such side-channel attacks should be</abstract>
+	</publication>
+	<publication>
+		<title>Towards energy-efficient code dissemination in wireless sensor networks</title>
+		<year>2008</year>
+		<authors>youtao zhang,weijia li</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>460</label>
+		<keyword>Energy Efficient;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A durable and energy efficient main memory using phase change memory technology</title>
+		<year>2009</year>
+		<authors>ping zhou,bo zhao,youtao zhang</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>460</label>
+		<keyword>Energy Consumption;energy eciency;Energy Efficient;Leakage Power;Low Power;Memory Hierarchy;Non Volatile Memory;Nonvolatile Memory;Phase Change Memory;</keyword>
+		<organization>null</organization>
+		<abstract>Using nonvolatile memories in memory hierarchy has been investigated to reduce its energy consumption because non- volatile memories consume zero leakage power in memory cells. One of the diculties is, however, that the endurance of most nonvolatile memory technologies is much shorter than the conventional SRAM and DRAM technology. This has limited its usage to only the low levels of</abstract>
+	</publication>
+	<publication>
+		<title>A tunable bus encoder for off-chip data buses</title>
+		<year>2005</year>
+		<authors>dinesh c. suresh,banit agrawal,walid a. najjar</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>460</label>
+		<keyword>Embedded System;Energy Consumption;Energy Saving;Hardware Design;Power Consumption;</keyword>
+		<organization>null</organization>
+		<abstract>Off-Chip buses constitute a significant portion of the total system power in embedded systems. Past research has focused on encoding contiguous bit positions in data values to reduce the transition activity in the off-chip data buses. In this paper, we propose TUnable Bus Encoding (TUBE) scheme to reduce the power consumption in the data buses, which exploits repetition in contiguous</abstract>
+	</publication>
+	<publication>
+		<title>Energy-efficient load and store reuse</title>
+		<year>2001</year>
+		<authors>rajiv gupta</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>460</label>
+		<keyword>Energy Efficient;</keyword>
+		<organization>null</organization>
+		<abstract>Our experience has shown that even programs compiled usingoptimizing compilers contain very high levels of loadand store redundancy. With the increasing importance ofenergy-ecient processor design, this load-store redundancycan be viewed as an opportunity for reducing on-chip cacheactivity and hence the energy consumed by the cache. However,taking advantage of this opportunity is a non-trivialtask because a load-store reuse mechanism for removing</abstract>
+	</publication>
+	<publication>
+		<title>FV encoding for low-power data I/O</title>
+		<year>2001</year>
+		<authors>rajiv gupta</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>460</label>
+		<keyword>Energy Consumption;Low Power;Switching Activity;</keyword>
+		<organization>null</organization>
+		<abstract>Since the energy consumed by I/O pins of a CPU is a significantsource of energy consumption, work has been done ondeveloping encoding schemes for reducing switching activityon external buses. Modest reductions in switching canbe achieved for data and address busses using a number ofgeneral encoding schemes. However, by exploiting the characteristicof memory reference locality, switching activity ataddress bus can be</abstract>
+	</publication>
+	<publication>
+		<title>Lightweight set buffer: low power data cache for multimedia application</title>
+		<year>2003</year>
+		<authors>youtao zhang</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>460</label>
+		<keyword>Data Cache;Difference Set;Low Power;Multimedia Application;Power Dissipation;Power Reduction;Power Saving;</keyword>
+		<organization>null</organization>
+		<abstract>A new architectural technique to reduce power dissipation in data caches is proposed. In multimedia applications, a major portion of data cache accesses hit in the same cache set continuously before going to a different set. This feature allows us to remove unnecessary driving power in data arrays as long as the same cache set is accessed incessantly. Power saving</abstract>
+	</publication>
+	<publication>
+		<title>A way-halting cache for low-energy high-performance systems</title>
+		<year>2005</year>
+		<authors>chuanjun zhang,frank vahid,walid a. najjar</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>460</label>
+		<keyword>Associative Memory;Dynamic Logic;Dynamic Optimization;Embedded System;Energy Consumption;High Performance;Indexation;Low Energy;Low Power;Memory Access;</keyword>
+		<organization>null</organization>
+		<abstract>Caches contribute to much of a microprocessor system's power and energy consumption. Numerous new cache architectures, such as phased, pseudo-set-associative, way predicting, reactive-associative, way-shutdown, way-concatenating, and highly-associative, are intended to reduce power and/or energy, but they all impose some performance overhead. We have developed a new cache architecture, called a way-halting cache, that reduces energy further than previously mentioned architectures,</abstract>
+	</publication>
+	<publication>
+		<title>Low cost instruction cache designs for tag comparison elimination</title>
+		<year>2003</year>
+		<authors>youtao zhang</authors>
+		<jconf>International Symposium on Low Power Electronics and Design</jconf>
+		<label>460</label>
+		<keyword>Instruction Cache;Low Power;</keyword>
+		<organization>null</organization>
+		<abstract>Tag comparison elimination (TCE) is an effective approach to reduce I-cache energy. Current research focuses on finding good tradeoffs between hardware cost and percentage of comparisons that can be removed. For this purpose, two low cost innovations are proposed in this paper. We design a small dedicated TCE table whose size is flexible both horizontally (entry size) and vertically (number</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Thermal Management through Task Scheduling</title>
+		<year>2008</year>
+		<authors>xiuyi zhou,marek chrobak,youtao zhang,lingling jin</authors>
+		<jconf>International Symposium on Performance Analysis of Systems and Software</jconf>
+		<label>460</label>
+		<keyword>Dynamic Thermal Management;Heuristic Algorithm;High Temperature;Job Scheduling;Perforation;Power Consumption;Scheduling Algorithm;Task Scheduling;Thermal Environment;</keyword>
+		<organization>null</organization>
+		<abstract>The evolution of microprocessors has been hindered by their increasing power consumption and the heat generation speed on-die. High temperature impairs the processor's reliability and reduces its lifetime. While hardware level dynamic thermal man- agement (DTM) techniques, such as voltage and frequency scal- ing, can effectively lower the chip temperature when it surpasses the thermal threshold, they inevitably come at</abstract>
+	</publication>
+	<publication>
+		<title>Energy efficient frequent value data cache design</title>
+		<year>2002</year>
+		<authors>rajiv gupta</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>460</label>
+		<keyword>Data Cache;Energy Efficient;Memory Access;Time Delay;</keyword>
+		<organization>null</organization>
+		<abstract>Recent work has shown that a small number of distinct frequently occurring values often account for a large portion of memory accesses. In this paper we demonstrate how this frequent value phenomenon can be exploited in designing a cache that trades off performance with energy efficiency. We propose the design of the Frequent Value Cache (FVC) in which storing a</abstract>
+	</publication>
+	<publication>
+		<title>Frequent value compression in data caches</title>
+		<year>2000</year>
+		<authors>youtao zhang,rajiv gupta</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>460</label>
+		<keyword>Cache Memory;Data Cache;</keyword>
+		<organization>null</organization>
+		<abstract>Since the area occupied by cache memories on processorchips continues to grow, an increasing percentageof power is consumed by memory. We present thedesign and evaluation of the compression cache (CC)which is a rst level cache that has been designed sothat each cache line can either hold one uncompressedline or two cache lines which have been compressed toat least half their</abstract>
+	</publication>
+	<publication>
+		<title>Fast Secure Processor for Inhibiting Software Piracy and Tampering</title>
+		<year>2003</year>
+		<authors>youtao zhang,lan gao</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>460</label>
+		<keyword>Critical Path;Memory Access;Software Piracy;Tamper Resistance;One Time Pad;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the widespread software piracy and virus attacks,significant efforts have been made to improve security forcomputer systems. For stand-alone computers, a key observationis that other than the processor, any component isvulnerable to security attacks. Recently, an execution onlymemory (XOM) architecture has been proposed to supportcopy and tamper resistant software [18, 17, 13]. In this design,the program and data are</abstract>
+	</publication>
+	<publication>
+		<title>Variation-tolerant non-uniform 3D cache management in die stacked multicore processor</title>
+		<year>2009</year>
+		<authors>bo zhao,yu du,youtao zhang</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>460</label>
+		<keyword>Cache Management;Integrated Circuit;Low Power;Multicore Processors;Process Variation;Last Level Cache;</keyword>
+		<organization>null</organization>
+		<abstract>Process variations in integrated circuits have significant impact on their performance, leakage and stability. This is particularly evident in large, regular and dense structures such as DRAMs. DRAMs are built using minimized transistors with presumably uniform speed in an organized array structure. Process variation can introduce latency disparity among different memory arrays. With the proliferation of 3D stacking technology, DRAMs</abstract>
+	</publication>
+	<publication>
+		<title>UCC: update-conscious compilation for energy efficiency in wireless sensor networks</title>
+		<year>2007</year>
+		<authors>weijia li,youtao zhang,jiang zheng</authors>
+		<jconf>SIGPLAN Conference on Programming Language Design and Implementation</jconf>
+		<label>460</label>
+		<keyword>Data Layout;Energy Efficient;Register Allocation;Sensor Network;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless sensor networks (WSN), composed of a large number of low-cost, battery-powered sensors, have recently emerged as promising computing platforms for many non-traditional applica- tions. The preloaded code on remote sensors often needs to be up- dated after deployment in order for the WSN to adapt to the chang- ing demands from the users. Post-deployment code dissemination is challenging as</abstract>
+	</publication>
+	<publication>
+		<title>Supporting efficient query processing on compressed XML files</title>
+		<year>2005</year>
+		<authors>yongjing lin,youtao zhang,quanzhong li</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>460</label>
+		<keyword>Compression Algorithm;Compression Ratio;Data Compression;Data Representation;Efficient Query Processing;Query Processing;Context Free Grammar;</keyword>
+		<organization>null</organization>
+		<abstract>XML has been widely accepted as the de facto format for data representation and exchange. However, it is also known for the excessive information redundancy in its representation. While various compression schemes have been proposed and some of them can support query processing over compressed files, it is usually inevitable to perform partial (or full) data decompression which is expensive</abstract>
+	</publication>
+	<publication>
+		<title>Power Efficient Instruction Caches for Embedded Systems</title>
+		<year>2005</year>
+		<authors>dinesh c. suresh,walid a. najjar</authors>
+		<jconf>Systems, Architectures, Modeling, and Simulation</jconf>
+		<label>460</label>
+		<keyword>Embedded System;Energy Consumption;Instruction Cache;Power Efficiency;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Instruction caches typically consume 27% of the total power in mod- ern high-end embedded systems. We propose a compiler-managed instruction store architecture (K-store) that places the computation intensive loops in a scratch- pad like SRAM memory and allocates the remaining instructions to a regular instruction cache. At runtime, execution is switched dynamically between the instructions in the traditional instruction cache</abstract>
+	</publication>
+	<publication>
+		<title>A Way-Halting Cache for Low-Energy High-Performance Systems</title>
+		<year>2003</year>
+		<authors>chuanjun zhang,frank vahid,walid a. najjar</authors>
+		<jconf>IEEE Computer Architecture Letters</jconf>
+		<label>460</label>
+		<keyword>Associative Memory;Dynamic Logic;Energy Consumption;Energy Saving;High Performance;Indexation;Memory Access;</keyword>
+		<organization>null</organization>
+		<abstract>Caches contribute to much of a microprocessor system's power and energy consumption. We have developed a new cache architecture, called a way-halting cache, that reduces energy while imposing no performance overhead. Our way-halting cache is a four-way set-associative cache that stores the four lowest-order bits of all ways'tags into a fully associative memory, which we call the halt tag array.</abstract>
+	</publication>
+	<publication>
+		<title>Supporting flexible streaming media protection through privacy-aware secure processors</title>
+		<year>2009</year>
+		<authors>youtao zhang,lan gao</authors>
+		<jconf>Computers &amp; Electrical Engineering</jconf>
+		<label>460</label>
+		<keyword>Data Transfer;Digital Content;Group Key Management;Instruction Set Extension;Internet Technology;Streaming Media;Support Group;Point To Point;Video On Demand;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the explosion of Internet technology in the last decade, there is an increasing demand for secure and eectiv e streaming media protection (SMP) in the new com- puting environment. Since end users usually have the full control of their machines, pure software based approaches such as user/password validation and group key based content encryption, are not sucien t</abstract>
+	</publication>
+	<publication>
+		<title>Assertion-Based Design Exploration of DVS in Network Processor Architectures</title>
+		<year>2007</year>
+		<authors>jia yu,wei wu,xi chen,harry hsieh,felice balarin</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>460</label>
+		<keyword>Network Processor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reducing I-cache energy of multimedia applications through low cost tag comparison elimination</title>
+		<year>2005</year>
+		<authors>youtao zhang</authors>
+		<jconf>Journal of Embedded Computing</jconf>
+		<label>460</label>
+		<keyword>Multimedia Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An authentication scheme for locating compromised sensor nodes in WSNs</title>
+		<year>2010</year>
+		<authors>youtao zhang,weijia li,linzhang wang,lingling jin</authors>
+		<jconf>Journal of Network and Computer Applications</jconf>
+		<label>460</label>
+		<keyword>Sensor Nodes;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A low-cost memory remapping scheme for address bus protection</title>
+		<year>2006</year>
+		<authors>jun yang,marek chrobak,youtao zhang,san nguyen,hsien-hsin s. lee</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>460</label>
+		<keyword>Distributed Computing Environment;High Performance;Information Leakage;Passive Monitoring;Side Channel Attacks;</keyword>
+		<organization>null</organization>
+		<abstract>The address sequence on the processor-memory bus can reveal abun- dant information about the control o w of a program. This can lead to critical information leakage such as encryption keys or propri- etary algorithms. Addresses can be observed by attaching a hard- ware device on the bus that passively monitors the bus transac- tion. Such side-channel attacks should be</abstract>
+	</publication>
+	<publication>
+		<title>A low energy cache design for multimedia applications exploiting set access locality</title>
+		<year>2005</year>
+		<authors>jia yu,youtao zhang</authors>
+		<jconf>Journal of Systems Architecture</jconf>
+		<label>460</label>
+		<keyword>Instruction Cache;Low Energy;Low Power Design;Multimedia Application;Power Dissipation;Power Saving;</keyword>
+		<organization>null</organization>
+		<abstract>An architectural technique is proposed to reduce power dissipation in conventional caches. Our technique is based on the observation of cache access locality: current access is likely to touch the same cache set including the tags as the last access. We show that considerable amount of power driving the cache tag and data banks can be saved if this cache</abstract>
+	</publication>
+	<publication>
+		<title>PhaseChange Technology and the Future of Main Memory</title>
+		<year>2010</year>
+		<authors>benjamin c. lee,ping zhou,youtao zhang,bo zhao,engin ipek,onur mutlu,doug burger</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>460</label>
+		<keyword>Perforation;Phase Change;Phase Change Memory;</keyword>
+		<organization>null</organization>
+		<abstract>As DRAM and other charge memories reach scaling lim- its, resistive memories, such as phase change memory (PCM), may permit continued scaling of main memo- ries. However, while PCM may scale further than DRAM, PCM presently wears out more quickly, has higher read latency, has much higher write latency, and has much higher write power than DRAM. This article mitigates</abstract>
+	</publication>
+	<publication>
+		<title>NePSim: A Network Processor Simulator with a Power Evaluation Framework</title>
+		<year>2004</year>
+		<authors>yan luo,laxmi n. bhuyan,li zhao</authors>
+		<jconf>IEEE Micro</jconf>
+		<label>460</label>
+		<keyword>Architectural Design;Evaluation Framework;Open Source;Power Dissipation;Network Processor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: There is an increasing interest in the NP architecture design as well as its power dissipation characteristics. Up to now, there has not been an open-source simulation infrastructure that makes the performance/power tradeoffs in NPs clearly visible to computer architects. This paper presents NePSim...</abstract>
+	</publication>
+	<publication>
+		<title>Architectural support for protecting user privacy on trusted processors</title>
+		<year>2005</year>
+		<authors>youtao zhang,yongjing lin,lan gao</authors>
+		<jconf>ACM Sigarch Computer Architecture News</jconf>
+		<label>460</label>
+		<keyword>Data Confidentiality;Data Integrity;Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract>Recently proposed trusted processor model is a promising model for building secure applications. While effective designs have been proposed for protecting data confidentiality and data integrity in such environments, an important security criterion -- user privacy is usually neglected in current designs. Due to the increasing concern of privacy protection in the Internet era, such deficiency can hinder the adoption</abstract>
+	</publication>
+	<publication>
+		<title>Towards update-conscious compilation for energy-efficient code dissemination in WSNs</title>
+		<year>2009</year>
+		<authors>weijia li,youtao zhang,jiang zheng</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>460</label>
+		<keyword>Data Layout;Energy Efficient;Register Allocation;Sensor Network;Wireless Communication;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Post-deployment code dissemination in wireless sensor networks (WSN) is challenging as the code has to be transmitted via energy-expensive wireless communication. In this paper, we propose novel update-conscious compilation (UCC) techniques to achieve energy efficiency. By integrat- ing the compilation decisions in generating the old binary, an update-conscious compiler strives to match the old decisions, which improves the binary code</abstract>
+	</publication>
+	<publication>
+		<title>Conserving network processor power consumption by exploiting traffic variability</title>
+		<year>2007</year>
+		<authors>yan luo,jia yu,laxmi n. bhuyan</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>460</label>
+		<keyword>Clock Gating;High Performance;Low Income;Low Power;Network Traffic;Packet Loss;Parallel Processing;Power Consumption;Time Window;Network Processor;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>Network processors (NPs) have emerged as successful platforms for providing both high performance and flexibility in building powerful routers. Typical NPs incorporate multiprocessing and multithreading to achieve maximum parallel processing capabilities. We observed that under low incoming traffic rates, processing elements (PEs) in an NP are idle for most of the time but still consume dynamic power. This paper develops</abstract>
+	</publication>
+	<publication>
+		<title>A way-halting cache for low-energy high-performance systems</title>
+		<year>2005</year>
+		<authors>chuanjun zhang,frank vahid,walid a. najjar</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>460</label>
+		<keyword>Associative Memory;Dynamic Logic;Dynamic Optimization;Embedded System;Energy Consumption;High Performance;Indexation;Low Energy;Low Power;Memory Access;</keyword>
+		<organization>null</organization>
+		<abstract>Caches contribute to much of a microprocessor system's power and energy consumption. Numerous new cache architectures, such as phased, pseudo-set-associative, way predicting, reactive-associative, way-shutdown, way-concatenating, and highly-associative, are intended to reduce power and/or energy, but they all impose some performance overhead. We have developed a new cache architecture, called a way-halting cache, that reduces energy further than previously mentioned architectures,</abstract>
+	</publication>
+	<publication>
+		<title>Performance-aware thermal management via task scheduling</title>
+		<year>2010</year>
+		<authors>xiuyi zhou,marek chrobak,youtao zhang</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>460</label>
+		<keyword>Task Scheduling;Thermal Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tunable and Energy Efficient Bus Encoding Techniques</title>
+		<year>2009</year>
+		<authors>dinesh c. suresh,banit agrawal,walid a. najjar</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>460</label>
+		<keyword>Energy Efficient;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving Memory Encryption Performance in Secure Processors</title>
+		<year>2005</year>
+		<authors>lan gao,youtao zhang</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>460</label>
+		<keyword>Critical Path;Memory Access;Software Piracy;Tamper Resistance;One Time Pad;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the widespread software piracy and virus attacks, significant efforts have been made to improve security for computer systems. For stand-alone computers, a key observation is that, other than the processor, any component is vulnerable to security attacks. Recently, an execution only memory (XOM) architecture has been proposed to support copy and tamper resistant software. In this design, the</abstract>
+	</publication>
+	<publication>
+		<title>Fast Thermal Simulation for Runtime Temperature Tracking and Management</title>
+		<year>2006</year>
+		<authors>pu liu,hang li,lingling jin,wei wu,sheldon x.-d. tan</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>460</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-efficient encoding techniques for off-chip data buses</title>
+		<year>2009</year>
+		<authors>dinesh c. suresh,banit agrawal,walid a. najjar</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>460</label>
+		<keyword>Energy Efficient;Low Power;Numerical Technique;Power Consumption;Power Reduction;Spatial Locality;Switching Activity;Total Power;</keyword>
+		<organization>null</organization>
+		<abstract>Reducing the power consumption of computing devices has gained a lot of attention recently. Many research works have focused on reducing power consumption in the off-chip buses as they consume a significant amount of total power. Since the bus power consumption is proportional to the switching activity, reducing the bus switching is an effective way to reduce bus power. While</abstract>
+	</publication>
+	<publication>
+		<title>Frequent value locality and its applications</title>
+		<year>2002</year>
+		<authors>rajiv gupta</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>460</label>
+		<keyword>Data Cache;Data Stream;Low Power;Low Power Design;Memory Hierarchy;</keyword>
+		<organization>null</organization>
+		<abstract>By analyzing the behavior of a set of benchmarks, we demonstrate that a small number of distinct values tend to occur very frequently in memory. On an average, only eight of these frequent values were found to occupy 48&amp;amp;percnt; of memory locations for the benchmarks studied. In addition, we demonstrate that the identity of frequent values remains stable over the</abstract>
+	</publication>
+	<publication>
+		<title>Efficient power modeling and software thermal sensing for runtime temperature monitoring</title>
+		<year>2007</year>
+		<authors>wei wu,lingling jin,pu liu,sheldon x.-d. tan</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>460</label>
+		<keyword>Efficient Algorithm;Numerical Method;Power Consumption;Power Modeling;Thermal Imaging;Thermal Model;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>The evolution of microprocessors has been hindered by increasing power consumption and heat dissipation on die. An excessive amount of heat creates reliability problems, reduces the lifetime of a processor, and elevates the cost of cooling and packaging considerably. It is therefore imper- ative to be able to monitor the temperature variations across the die in a timely and accurate</abstract>
+	</publication>
+	<publication>
+		<title>Frequent value encoding for low power data buses</title>
+		<year>2004</year>
+		<authors>rajiv gupta,chuanjun zhang</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>460</label>
+		<keyword>Adaptive Method;Data Cache;Energy Consumption;Energy Saving;Low Power;Switching Activity;</keyword>
+		<organization>null</organization>
+		<abstract>Since the I/O pins of a CPU are a significant source of energy consumption, work has been done on developing encoding schemes for reducing switching activity on external buses. Modest reductions in switching can be achieved for data and address buses using a number of general purpose encoding schemes. However, by exploiting the characteristic of memory reference locality, switching activity</abstract>
+	</publication>
+	<publication>
+		<title>Thermal-Aware Task Scheduling for 3D Multicore Processors</title>
+		<year>2010</year>
+		<authors>xiuyi zhou,yi xu,youtao zhang,jianhua zhao</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>460</label>
+		<keyword>Multicore Processors;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The design and evaluation of interleaved authentication for filtering false reports in multipath routing WSNs</title>
+		<year>2010</year>
+		<authors>youtao zhang,hai t. vu,yizhi wu</authors>
+		<jconf>Wireless Networks</jconf>
+		<label>460</label>
+		<keyword>Multipath Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-Modal Information Retrieval with a Semantic View Mechanism</title>
+		<year>2005</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>461</label>
+		<keyword>Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>What Can Expressive Semantics Tell: Retrieval Model for a Flash-Movie Search Engine</title>
+		<year>2005</year>
+		<authors>dawei ding,qing li,wenyin liu,liping wang</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Retrieval Model;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Exploring the Synergy of Humans and Machines in Extreme Video Retrieval</title>
+		<year>2006</year>
+		<authors>alexander g. hauptmann,wei-hao lin,rong yan,robert v. baron,mingyu chen,sean gilroy,michael d. gordon</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Video Retrieval;Video Search;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce an interface for efficient video search that exploits the human ability to quickly scan visual content, after automatic retrieval has ar- range the images in expected order of relevance. While extreme video retrieval is taxing to the human, it is also extremely effective. Two variants of extreme retrieval are demonstrated, 1) RSVP which automatically pages through images with</abstract>
+	</publication>
+	<publication>
+		<title>Efficient search: the informedia video retrieval system</title>
+		<year>2008</year>
+		<authors>alexander g. hauptmann,jonathan j. wang,wei-hao lin,michael g. christel</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Relevance Feedback;Video Retrieval;Video Search;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce an interface for efficient video search that exploits the human ability to quickly scan visual content, after an automatic system has done its best to arrange the images in order of relevance. While extreme video retrieval is taxing to the human, it has also been shown to be very effective. The system will demonstrate several ways to rapidly</abstract>
+	</publication>
+	<publication>
+		<title>Towards optimal bag-of-features for object categorization and semantic video retrieval</title>
+		<year>2007</year>
+		<authors>yu-gang jiang,chong-wah ngo</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Object Categorization;Texture Features;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Bag-of-features (BoF) deriving from local keypoints has re- cently appeared promising for object and scene classiflca- tion. Whether BoF can naturally survive the challenges such as reliability and scalability of visual classiflcation, nev- ertheless, remains uncertain due to various implementation choices. In this paper, we evaluate various factors which govern the performance of BoF. The factors include the choices of</abstract>
+	</publication>
+	<publication>
+		<title>Finding Person X: Correlating Names with Visual Appearances</title>
+		<year>2004</year>
+		<authors>mingyu chen,alexander g. hauptmann</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>High Performance;Video Retrieval;Visual Features;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>People as news subjects carry rich semantics in broadcast news video and therefore finding a named person in the video is a major challenge for video retrieval. This task can be achieved by exploiting the multi-modal information in videos, including transcript, video structure, and visual features. We propose a comprehensive approach for finding specific persons in broadcast news videos by</abstract>
+	</publication>
+	<publication>
+		<title>Annotating News Video with Locations</title>
+		<year>2006</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Machine Learning;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>The location of video scenes is an important semantic de- scriptor especially for broadcast news video. In this paper, we propose a learning-based approach to annotate shots of news video with locations extracted from video transcript, based on features from multiple video modalities including syntactic structure of transcript sentences, speaker identity, temporal video structure, and so on. Machine learning algorithms</abstract>
+	</publication>
+	<publication>
+		<title>(Un)Reliability of video concept detection</title>
+		<year>2008</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>461</label>
+		<keyword>Evaluation Method;</keyword>
+		<organization>null</organization>
+		<abstract>Great effort has been made to improve video concept detec- tion and continuous progress has been reported. With the current evaluation method being confined to carefully an- notated domains and thus quite forgiving, the reliability of the state-of-the-art concept classifiers remains in question. Adopting a more rigorous evaluation approach, we find that most concept classifiers built using the mainstream approach</abstract>
+	</publication>
+	<publication>
+		<title>Multimedia Data Integration and Navigation through MediaView: Implementation, Evolution and Utilization</title>
+		<year>2004</year>
+		<authors>dawei ding,qing li</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>461</label>
+		<keyword>Multimedia Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adapting SVM Classifiers to Data with Shifted Distributions</title>
+		<year>2007</year>
+		<authors>rong yan,alexander g. hauptmann</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>461</label>
+		<keyword>Classification Error;Data Mining Application;Objective Function;Selective Sampling;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Many data mining applications can benefit from adapt- ing existing classifiers to new data with shifted distribu- tions. In this paper, we present Adaptive Support Vector Machine (Adapt-SVM) as an efficient model for adapting a SVM classifier trained from one dataset to a new dataset where only limited labeled examples are available. By in- troducing a new regularizer into SVM's</abstract>
+	</publication>
+	<publication>
+		<title>Multi-concept learning with large-scale multimedia lexicons</title>
+		<year>2008</year>
+		<authors>lexing xie,rong yan</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>461</label>
+		<keyword>Concept Learning;Discriminative Model;Indexing Terms;Large Scale;Logistic Regression;Model Choice;Multimedia Database;Naive Bayes;Pattern Recognition;Semantic Concept Detection;Statistical Significance;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-concept learning is an important problem in multimedia con- tent analysis and retrieval. It connects two key components in the multimedia semantic ecosystem: multimedia lexicon and semantic concept detection. This paper aims to answer two questions related to multi-concept learning: does a large-scale lexicon help concept detection? how many concepts are enough? Our study on a large- scale lexicon shows</abstract>
+	</publication>
+	<publication>
+		<title>A graphic-theoretic model for incremental relevance feedback in image retrieval</title>
+		<year>2002</year>
+		<authors>yueting zhuang,qing li,yunhe pan</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>461</label>
+		<keyword>Graph Model;Image Retrieval;Learning Strategies;Link Analysis;Performance Improvement;Relevance Feedback;Theoretical Model;User Feedback;</keyword>
+		<organization>null</organization>
+		<abstract>Many traditional relevance feedback approaches for CBIR can only achieve limited short-term performance improvement without benefiting long-term performance. To remedy this limitation, we propose a graphic-theoretic model for incremental relevance feedback in image retrieval. Firstly, a two-layered graph model is introduced that describes the correlations between images. A learning strategy is then suggested to enrich the graph model with semantic</abstract>
+	</publication>
+	<publication>
+		<title>Automatic detection of Flash movie genre using Bayesian approach</title>
+		<year>2004</year>
+		<authors>dawei ding,qing li,liping wang,wenyin liu</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>461</label>
+		<keyword>Automatic Detection;bayesian approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Thesaurus-Aided Approach For Image Browsing And Retrieval</title>
+		<year>2001</year>
+		<authors>wenyin liu,hongjiang zhang,yueting zhuang</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>461</label>
+		<keyword>Image Browsing;Image Retrieval;Semantic Matching;Semantic Similarity;Visual Features;</keyword>
+		<organization>null</organization>
+		<abstract>The current trend of image retrieval is to incorporate image semantics with visual features to enhance retrieval performance. Although many approaches annotate images with keywords and process query at the semantic level, they fail to explore the full potentials of semantics. This paper proposes thesaurus-aided approaches to facilitate semantics-based access to images. The contribution of our work are two-fold: constructing</abstract>
+	</publication>
+	<publication>
+		<title>Video grammar for locating named people</title>
+		<year>2004</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>461</label>
+		<keyword>Video Retrieval;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>Finding a named person in broadcast news video is important to video retrieval. Relying on the text information such as video tran-script and OCR text, this task suffers from the temporal mismatch between a person's visual appearance and his/her name occurred in text. By exploring video grammar on the concurrence pattern between faces and names, we propose an extended text-based</abstract>
+	</publication>
+	<publication>
+		<title>Exploring temporal consistency for video analysis and retrieval</title>
+		<year>2006</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>461</label>
+		<keyword>Active Learning;Interactive Search;Interactive Video;Sampling Strategy;Semantic Concept Detection;Video Analysis;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Temporal consistency is ubiquitous in video data, where temporally adjacent video shots usually share similar vi- sual and semantic content. This paper presents a thorough study of temporal consistency deflned with respect to se- mantic concepts and query topics using quantitative mea- sures, and discusses its implications to video analysis and retrieval tasks. We further show that, in interactive set-</abstract>
+	</publication>
+	<publication>
+		<title>A framework for classifier adaptation and its applications in concept detection</title>
+		<year>2008</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>461</label>
+		<keyword>Adaptive Algorithm;Multiple Classifiers;</keyword>
+		<organization>null</organization>
+		<abstract>There is often a need to adapt supervised classifiers such as semantic concept detectors across different domains of data. This paper describes a generic framework for function-level classifier adaptation based on regularized loss minimization. It directly modifies the decision function of an existing clas- sifier of any type into a classifier for a new domain, based on limited labeled data</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating bag-of-visual-words representations in scene classification</title>
+		<year>2007</year>
+		<authors>yu-gang jiang,alexander g. hauptmann,chong-wah ngo</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<label>461</label>
+		<keyword>Image Representation;Interest Points;Scene Classification;Term Weighting;Text Categorization;Bag of Words;Bag of Visual Words;</keyword>
+		<organization>null</organization>
+		<abstract>Based on keypoints extracted as salient image patches, an image can be described as a &quot;bag of visual words&quot; and this representation has been frequently used in scene clas- sification. The representation choices regarding the dimen- sion, selection, and weighting of visual words are crucial to the classification performance but have not been thoroughly studied in previous work. Given the</abstract>
+	</publication>
+	<publication>
+		<title>Multi-Modal Retrieval for Multimedia Digital Libraries: Issues, Architecture, and Mechanisms</title>
+		<year>2001</year>
+		<authors>yueting zhuang,qing li</authors>
+		<jconf>Workshop on Multimedia Information Systems</jconf>
+		<label>461</label>
+		<keyword>Digital Library;Multimedia Data;</keyword>
+		<organization>null</organization>
+		<abstract>Supporting effective and efficient retrieval of multimedia data is a challenging problem in building a digital library. In this paper, we examine the issues related to accommodating multi-modal retrieval of multimedia data (text, image, video and audio), and propose 2M2Net as a generic framework for such versatile retrieval in multimedia digital libraries. The retrieval is conducted based on the integration</abstract>
+	</publication>
+	<publication>
+		<title>Exploring the utility of fast-forward surrogates for bbc rushes</title>
+		<year>2008</year>
+		<authors>michael g. christel,alexander g. hauptmann,wei-hao lin,mingyu chen,bryan maher,robert v. baron</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>User Satisfaction;Video Summarization;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses in detail our approaches for p roducing the video summaries submitted to the TRECVID 2008 BBC rushes summarization task, including the baseline method. Empirical work produced during and after the TRECVID 2007 rushes summarization task gave strong evidence that a simp le 50x method (sampling every 50 th frame) provides excellent coverage (text inclusion performance). Our submissions</abstract>
+	</publication>
+	<publication>
+		<title>Clever clustering vs. simple speedup for summarizing rushes</title>
+		<year>2007</year>
+		<authors>alexander g. hauptmann,michael g. christel,wei-hao lin,bryan maher,robert v. baron,guang xiang</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Clustering Method;User Satisfaction;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses in detail our approaches for producing the submitted summaries to TRECVID, including the two baseline methods. The cluster method performed well in terms of coverage, and adequately in terms of user satisfaction, but did take longer to review. We conducted additional evaluations using the same TRECVID assessment interface to judge 2 additional methods for summary generation: 25x</abstract>
+	</publication>
+	<publication>
+		<title>Extreme video retrieval: joint maximization of human and computer performance</title>
+		<year>2006</year>
+		<authors>alexander g. hauptmann,wei-hao lin,rong yan,mingyu chen</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Active Learning;Human Interface;Human Performance;Image Similarity;Relevance Feedback;Video Retrieval;Video Search;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present an efficient system for video search that maximizes the use of human bandwidth, while at the same time exploiting the machine's ability to learn in real-time from user selected relevant video clips. The system exploits the human capability for rapidly scanning imagery augmenting it with an active learning loop, which attempts to always present the most relevant material</abstract>
+	</publication>
+	<publication>
+		<title>Naming every individual in news video monologues</title>
+		<year>2004</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Information Extraction;Machine Learning;Statistical Learning;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>Naming every individual person appearing in broadcast news videos with names detected from the video transcript leads to better access of the news video content. In this paper, we approach this challenging problem with a statistical learning method. Two categories of information extracted from multiple video modalities have been explored, namely features, which help distinguish the true name of every</abstract>
+	</publication>
+	<publication>
+		<title>3WNews: who, where, and when in news video</title>
+		<year>2006</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Indexation;Video Browsing;</keyword>
+		<organization>null</organization>
+		<abstract>We describe 3WNews as a novel system for browsing news video by the people (who) and locations (where) appearing in the footage as well as the time (when) of news events. The people names, locations, and time expressions are recognized from video transcript and their ambiguous references are resolved. As a key advantage, 3WNews distinguishes the people and locations that</abstract>
+	</publication>
+	<publication>
+		<title>Multiple instance learning for labeling faces in broadcasting news video</title>
+		<year>2005</year>
+		<authors>rong yan,alexander g. hauptmann</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Learning Methods;Machine Learning;Multiple Instance Learning;Broadcast News;Multi Instance;</keyword>
+		<organization>null</organization>
+		<abstract>Labeling faces in news video with their names is an interesting research problem which was previously solved using supervised methods that demand significant user efforts on labeling training data. In this paper, we investigate a more challenging setting of the problem where there is no complete information on data labels. Specifically, by exploiting the uniqueness of a face's name, we</abstract>
+	</publication>
+	<publication>
+		<title>Cross-domain video concept detection using adaptive svms</title>
+		<year>2007</year>
+		<authors>rong yan,alexander g. hauptmann</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Classification Accuracy;General Methods;Multimedia Application;Objective Function;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Many multimedia applications can benefit from techniques for adapting existing classifiers to data with different distri- butions. One example is cross-domain video concept detec- tion which aims to adapt concept classifiers across various video domains. In this paper, we explore two key problems for classifier adaptation: (1) how to transform existing clas- sifier(s) into an effective classifier for a new</abstract>
+	</publication>
+	<publication>
+		<title>Learning query-class dependent weights in automatic video retrieval</title>
+		<year>2004</year>
+		<authors>rong yan,alexander g. hauptmann</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>461</label>
+		<keyword>Mixture of Experts;Query Expansion;User Feedback;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Combining retrieval results from multiple modalities plays a crucial role for video retrieval systems, especially for automatic video retrieval systems without any user feedback and query expansion. However, most of current systems only utilize query independent combination or rely on explicit user weighting. In this work, we propose using query-class dependent weights within a hierarchial mixture-of-expert framework to combine multiple</abstract>
+	</publication>
+	<publication>
+		<title>Modeling Data and User Characteristics by Peer Indexing in Content-based Image Retrieval</title>
+		<year>2003</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>461</label>
+		<keyword>Content Based Image Retrieval;Data Model;Image Retrieval;Indexation;Similarity Metric;User Adaptation;Visual Features;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>Modeling the characteristics of specific images and individual users is a critical issue in content-based image retrieval but insufficiently addressed by the current retrieval approaches. In this paper, we propose a novel approach to data- adaptive and user-adaptive image retrieval based on the idea of peer indexing—describing an image through semantically relevant peer images. Specifically, we associate each image with</abstract>
+	</publication>
+	<publication>
+		<title>MediaView: A Semantic View Mechanism for Multimedia Modeling</title>
+		<year>2002</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>461</label>
+		<keyword>Heterogeneous Media;Information Retrieval System;Multimedia Application;Multimedia Data;Object Oriented;Semantic Gap;Similarity Relation;Context Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>The semantics of multimedia data, which features context-dependency and media-independency, is of vital importance to multimedia applications but inadequately supported by the state-of-the-art database technology. In this paper, we address this problem by proposing MediaView as an extended object-oriented view mechanism to bridge the &quot;semantic gap&quot; between conventional databases and semantics-intensive multimedia applications. This mechanism captures the dynamic semantics of</abstract>
+	</publication>
+	<publication>
+		<title>Search for Multimodality Data in Digital Libraries</title>
+		<year>2001</year>
+		<authors>yueting zhuang,qing li</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>461</label>
+		<keyword>Digital Library;Multimedia Data;Relevance Feedback;Semantic Description;</keyword>
+		<organization>null</organization>
+		<abstract>Developing effective and efficient retrieval techniques for multimedia data is a challenging issue in building a digital library. Unlike most previously proposed retrieval approaches that focus on a specific media type, this paper presents 2M2Net as a seamless integration framework for retrieval of multi-modality data in digital libraries. As its specific approaches, a learning- from-elements strategy is devised for propagation</abstract>
+	</publication>
+	<publication>
+		<title>Harmonium Models for Semantic Video Representation and Classification</title>
+		<year>2007</year>
+		<authors>yan liu,eric p. xing,alexander g. hauptmann</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>461</label>
+		<keyword>Color Histogram;Probabilistic Approach;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate and e-cient video classiflcation demands the fusion of multimodal information and the use of in- termediate representations. Combining the two ideas into the same framework, we propose a probabilistic approach for video classiflcation using intermediate se- mantic representations derived from the multi-modal features. Based on a class of bipartite undirected graph- ical models named harmonium, our approach represents video</abstract>
+	</publication>
+	<publication>
+		<title>A Hybrid Approach to Improving Semantic Extraction of News Video</title>
+		<year>2007</year>
+		<authors>alexander g. hauptmann,mingyu chen,michael g. christel,wei-hao lin</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>461</label>
+		<keyword>Graphical Model;Hybrid Approach;Image Features;Parameter Tuning;Text Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a hybrid approach to improving semantic extraction from news video. Experiments show the value of careful parameter tuning, exploiting multiple feature sets and multilingual linguistic resources, applying text retrieval approaches for image features, and establishing synergy between multiple concepts through undirected graphical models. No single approach provides a consistently better result for every concept detection,</abstract>
+	</publication>
+	<publication>
+		<title>Multi-modal analysis for person type classification in news video</title>
+		<year>2005</year>
+		<authors>alexander g. hauptmann</authors>
+		<jconf>Storage and Retrieval for Image and Video Databases</jconf>
+		<label>461</label>
+		<keyword>Modal Analysis;Named Entity;Personality Type;Statistical Learning;Video Analysis;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>Classifying the identities of people appearing in broadcast news video into anchor, reporter, or news subject is an im- portant topic in high-level video analysis. Given the visual resemblance of different types of people, this work explores multi-modal features derived from a variety of evidences, such as the speech identity, transcript clues, temporal video structure, named entities, and uses a</abstract>
+	</publication>
+	<publication>
+		<title>IBM Research TRECVID-2007 Video Retrieval System</title>
+		<year>2007</year>
+		<authors>murray campbell,alexander haubold,ming liu,apostol natsev,john r. smith,jelena tesic,lexing xie,rong yan</authors>
+		<jconf>TREC Video Retrieval Evaluation</jconf>
+		<label>461</label>
+		<keyword>Indexation;Interactive Search;Multimedia Indexing;Support Vector Machine;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe the IBM Research system for indexing, analysis, and retrieval of video as applied to the TREC-2007 video retrieval benchmark. This year, focus of the system improvement was on cross-domain learning, automation, scalability, and interactive search. Keywords—Multimedia indexing, content-based re- trieval, Support Vector Machines, Model Vectors, Model- based reranking.</abstract>
+	</publication>
+	<publication>
+		<title>Informedia @ TRECVID2008: Exploring New Frontiers</title>
+		<year>2008</year>
+		<authors>alexander g. hauptmann,robert v. baron,mingyu chen,michael g. christel,wei-hao lin,xinghua sun,víctor valdés,lily b. mummert,steven w. schlosser</authors>
+		<jconf>TREC Video Retrieval Evaluation</jconf>
+		<label>461</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Summarizing BBC Rushes the Informedia Way</title>
+		<year>2007</year>
+		<authors>alexander g. hauptmann,michael g. christel,wei-hao lin,bryan maher,robert v. baron,guang xiang</authors>
+		<jconf></jconf>
+		<label>461</label>
+		<keyword>Clustering Method;User Satisfaction;Video Summarization;</keyword>
+		<organization>null</organization>
+		<abstract>For the first time in 2007, TRECVID considered structured evaluation of automated video summarization, utilizing BBC rushes video. This paper discusses in detail our approaches for producing the submitted summaries to TRECVID, including the two baseline methods. The cluster method performed well in terms of coverage, and adequately in terms of user satisfaction, but did take longer to review. We</abstract>
+	</publication>
+	<publication>
+		<title>Web-Based Multimedia Retrieval: Balancing Out between Common Knowledge and Personalized Views</title>
+		<year>2001</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>461</label>
+		<keyword>Common Knowledge;Information Filtering;Information Retrieval;Multimedia Data;Multimedia Retrieval;Relevance Feedback;Semantic Indexing;User Feedback;User Profile;</keyword>
+		<organization>null</organization>
+		<abstract>The major challenges of multimedia retrieval are the difficulty of generating semantic indexes, as well as the incapability of identifying personalized user interests. This paper attempts to address both problems by suggesting a collaborative yet personalized approach for web-based multimedia retrieval, which employs a synergy between relevance feedback technique from the Information Retrieval community, and user profiling technique from the</abstract>
+	</publication>
+	<publication>
+		<title>Search for FlashTM Movies on the Web</title>
+		<year>2002</year>
+		<authors>qing li,wenyin liu,yueting zhuang</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>461</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards a flash search engine based on expressive semantics</title>
+		<year>2004</year>
+		<authors>dawei ding,qing li,liping wang,wenyin liu</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>461</label>
+		<keyword>Eigenvectors;Link Analysis;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Flash, as a multimedia format, becomes more and more popular on the Web. However, previous works on Flash are totally based on low-level features, which make it unpractical to build a content-based Flash search engine. To address this problem, our paper proposes expressive semantics for bridging the gap between low-level features and user queries. To smoothly incorporate expressive semantics into</abstract>
+	</publication>
+	<publication>
+		<title>OCTOPUS: aggressive search of multimodality data using multifaceted knowledge base</title>
+		<year>2002</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>461</label>
+		<keyword>Content Based Retrieval;Graph Model;Information Need;Information Processing;Knowledge Base;Link Analysis;Multimedia Retrieval;Relevance Feedback;Satisfiability;User Behavior;</keyword>
+		<organization>null</organization>
+		<abstract>An important trend in Web information processing is the support of multimedia retrieval. However, the most prevailing paradigm for multimedia retrieval, content-based retrieval (CBR), is a rather conservative one whose performance depends on a set of specifically defined low-level features and a carefully chosen sample object. In this paper, an aggressive search mechanism called Octopus is proposed which addresses the</abstract>
+	</publication>
+	<publication>
+		<title>Rich Media Retrieval on the Web - a Multilevel Indexing Approach</title>
+		<year>2003</year>
+		<authors>jian zhai,qing li,wenyin liu,bo feng</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>461</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Data-Adaptive and User-Adaptive Image Retrieval by Peer Indexing</title>
+		<year>2004</year>
+		<authors>qing li,yueting zhuang</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>461</label>
+		<keyword>Content Based Image Retrieval;Image Retrieval;Indexation;Similarity Metric;User Adaptation;Visual Features;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Adaptation to the characteristics of specific images and individual users isa critical issue in image retrieval but insufficiently addressed by the current retrieval approaches. In this paper, we propose a novel approach to data-adaptive and user-adaptive image retrieval based on the idea of peer indexing—describing an image,through semantically relevant peer images. Specifically, we associate eachimage with two-level peer index</abstract>
+	</publication>
+	<publication>
+		<title>Content-based retrieval of FlashTM movies: research issues, generic framework, and future directions</title>
+		<year>2007</year>
+		<authors>qing li,wenyin liu,yueting zhuang</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>461</label>
+		<keyword>Content Based Retrieval;Heterogeneous Media;Indexing and Retrieval;Layered Structure;Multimedia Information Retrieval;User Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>As a prevailing web media format, nowadays Flash™ movies are created, delivered, and viewed by over millions of users in their daily experiences with the Internet. However, issues regarding the indexing and retrieval of Flash movies are unfortunately overlooked by the research community, which severely restrict the utilization of the extremely valuable Flash resource. A close examination reveals that the</abstract>
+	</publication>
+	<publication>
+		<title>Harmonium Models for Video Classification</title>
+		<year>2008</year>
+		<authors>rong yan,yan liu,eric p. xing</authors>
+		<jconf>Statistical Analysis and Data Mining</jconf>
+		<label>461</label>
+		<keyword>Color Histogram;Data Mining;Data Representation;Graphical Model;Intermediate Representation;Probabilistic Model;Semantic Interpretation;Semantic Representation;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate and efficient video classification demands the fusion of multimodal information and the use of intermediate representations. Combining the two ideas into one framework, we propose a series of probabilistic models for video representation and classification using intermediate semantic representations derived from multimodal features of video. On the basis of a class of bipartite undirected graphical models named harmonium, we</abstract>
+	</publication>
+	<publication>
+		<title>Searching for Flash Movies on the Web: A Content and Context Based Framework</title>
+		<year>2005</year>
+		<authors>qing li,wenyin liu,yueting zhuang</authors>
+		<jconf>World Wide Web</jconf>
+		<label>461</label>
+		<keyword>Content Based Retrieval;Contextual Information;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>The phenomenal growth of online Flash movies in recent years has made Flash one of the most prevalent media formats on the Web. The retrieval and management issues of Flash, vital to the utilization of the enormous Flash resource, are unfortunately overlooked by the research community. This paper presents the first piece of work (to the best of our knowledge)</abstract>
+	</publication>
+	<publication>
+		<title>Performance analysis on recursive single-sideband amplitude modulation for parametric loudspeakers</title>
+		<year>2010</year>
+		<authors>peifeng ji,woon-seng gan,ee-leng tan</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>462</label>
+		<keyword>Amplitude Modulated;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of radiation mode in desired sound field generation using loudspeaker array</title>
+		<year>2005</year>
+		<authors>yuan wen,woon-seng gan</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>462</label>
+		<keyword>Cost Function;Least Square Method;Least Squares Solution;Sound Pressure Level;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This  paper  presents  two  preprocessing  methods  for  the task  of  generating  a  desired  response  in  a  target  region  while simultaneously depressingthe sound pressure level (SPL) ina stop region using a loudspeaker array. The first is a least square method  applying  a  commonly  used  cost  function.  The  complex source  strengths/weights  are  obtained  by  optimizing  the cost  function.  The  least  square  solution</abstract>
+	</publication>
+	<publication>
+		<title>A Fast Algorithm for the Sound Projection Using Multiple Sources</title>
+		<year>2005</year>
+		<authors>yuan wen,woon-seng gan</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>462</label>
+		<keyword>Eigenvalue Decomposition;Eigenvalues;Fast Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY An algorithm for the sound projection using multiple sources is presented. The source strength vector is obtained by using a fast estimation approach instead of the conventional eigenvalue decompo- sition (EVD) method. The computation load is therefore greatly reduced,</abstract>
+	</publication>
+	<publication>
+		<title>Strategies for an Acoustical-Hotspot Generation</title>
+		<year>2005</year>
+		<authors>yuan wen,woon-seng gan</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>462</label>
+		<keyword>Near Field;Optimal Control;Theoretical Analysis;Time Delay;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY Two methods for hotspot generation using multiple sources, known as time-delay (TD) method and maximum-control-gain (MCG) method are investigated in the two typical acoustical fields, namely, the free field and a rectangular room. Based on the theoretical analysis and simulations, strategies are developed according to the sound field where the target region is defined. In the free field, the</abstract>
+	</publication>
+	<publication>
+		<title>Target-Oriented Acoustic Radiation Generation Technique for Sound Field Control</title>
+		<year>2006</year>
+		<authors>yuan wen,woon-seng gan</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>462</label>
+		<keyword>General Techniques;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonlinear least-square solution to flattop pattern synthesis using arbitrary linear array</title>
+		<year>2005</year>
+		<authors>yuan wen,woon s. gan</authors>
+		<jconf>Signal Processing</jconf>
+		<label>462</label>
+		<keyword>Nonlinear Least Squares;Linear Array;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A digital beamsteerer for difference frequency in a parametric array</title>
+		<year>2006</year>
+		<authors>woon-seng gan,k.-s. tan,er meng-hwa</authors>
+		<jconf>IEEE Transactions on Audio, Speech &amp; Language Processing</jconf>
+		<label>462</label>
+		<keyword>Plane Waves;Difference Frequency Generation;</keyword>
+		<organization>null</organization>
+		<abstract>products based on the parametric array are also available. However, most of the parametric array makes use of perfectly collimated plane waves, and the difference frequency com- ponents due to acoustic nonlinearity has not been utilized for beamforming/steering. In this paper, a steerable audio system using weighted parametric array will be discussed. This paper is organized in the following sections.</abstract>
+	</publication>
+	<publication>
+		<title>An Efficient Visualization of Implicit Surfaces</title>
+		<year>2008</year>
+		<authors>qi xing,changqian zhu</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>463</label>
+		<keyword>Implicit Surface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Surface Reconstruction with Least Square Reproducing Kernel and Partition of Unity</title>
+		<year>2006</year>
+		<authors>changqian zhu,hua zhang</authors>
+		<jconf>International Conference on Artificial Reality and Telexistence</jconf>
+		<label>463</label>
+		<keyword>Least Square;Partition of Unity;Reproducing Kernel;Surface Reconstruction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implicit Surface Reconstruction from Scattered Point Data with Noise</title>
+		<year>2007</year>
+		<authors>zhengning wang,changqian zhu,qiang peng</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>463</label>
+		<keyword>Implicit Surface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fast Transform Domain Based Algorithm for H.264/AVC Intra Prediction</title>
+		<year>2007</year>
+		<authors>zhengning wang,qiang peng,zheng ma,changqian zhu</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>463</label>
+		<keyword>Intra Prediction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Area-efficient line-based two-dimensional discrete wavelet transform architecture without data buffer</title>
+		<year>2009</year>
+		<authors>peng cao,chao wang,longxing shi</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>464</label>
+		<keyword>Discrete Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Domain fault model and coverage metric for SoC verification</title>
+		<year>2005</year>
+		<authors>luo chun,gao gugang,shi longxing</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>464</label>
+		<keyword>Fault Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Domain Strategy and Coverage Metric for Validation</title>
+		<year>2005</year>
+		<authors>luo chun,shi longxing,wu xufan,zhang yu</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>464</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Fast-Lock-in Digitally Controlled Phase-Locked Loop</title>
+		<year>2008</year>
+		<authors>xin chen,longxing shi</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>464</label>
+		<keyword>Digital Controller;Phase Lock Loop;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extended Control Flow Graph Based Performance and Energy Consumption Optimization Using Scratch-Pad Memory</title>
+		<year>2009</year>
+		<authors>xuexiang wang,hanlai pu,longxing shi</authors>
+		<jconf>Journal of Circuits, Systems, and Computers</jconf>
+		<label>464</label>
+		<keyword>Energy Consumption;Control Flow Graph;Scratch Pad Memory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficacy of Interferon Treatment for Chronic Hepatitis C Predicted by Feature Subset Selection and Support Vector Machine</title>
+		<year>2007</year>
+		<authors>anto satriyo nugroho,kazunobu yamauchi,kentaro yoshioka,jiang zheng,kai wang,ken kato,susumu kuroyanagi,akira iwata</authors>
+		<jconf>Journal of Medical Systems</jconf>
+		<label>465</label>
+		<keyword>Chronic Hepatitis C;Feature Subset Selection;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Delay-Dependent Stability of a Class of Nonlinear Systems with Time Delays Based on Fuzzy Hyperbolic Model</title>
+		<year>2006</year>
+		<authors>huaguang zhang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>466</label>
+		<keyword>Nonlinear System;Time Delay;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>TS Fuzzy-Model-Based Robust H INFINITY Design for Networked Control Systems With Uncertainties</title>
+		<year>2007</year>
+		<authors>huaguang zhang,chun-yi su</authors>
+		<jconf>IEEE Transactions on Industrial Informatics</jconf>
+		<label>466</label>
+		<keyword>Networked Control System;t-s fuzzy model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Energy-Efficient Data Gathering Protocol for Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>deyun zhang,yunyi zhang</authors>
+		<jconf>ACIS International Conference on Computer and Information Science</jconf>
+		<label>467</label>
+		<keyword>Data Gathering;Energy Efficient;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cluster-Based Error Messages Detecting and Processing for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>yunyi zhang,deyun zhang,wei wei</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>467</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

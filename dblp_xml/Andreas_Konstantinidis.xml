@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Konstantinidis</FullName>
+	<publication>
+		<title>Multi-objective mobile agent-based Sensor Network Routing using MOEA/D</title>
+		<year>2010</year>
+		<authors>christoforos charalambous,aimin zhou,qingfu zhang</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>53</label>
+		<keyword>Mobile Agent;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Subproblem-dependent Heuristic in MOEA/D for the Deployment and Power Assignment Problem in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>qingfu zhang,kun yang</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>53</label>
+		<keyword>Assignment Problem;Sensor Nodes;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a Subproblem-dependent Heuristic (SH) for MOEA/D to deal with the Deployment and Power Assignment Problem (DPAP) in Wireless Sensor Networks (WSNs). The goal of the DPAP is to assign locations and transmit power levels to sensor nodes for maximizing the network coverage and lifetime objectives. In our method, the DPAP is decomposed into a number</abstract>
+	</publication>
+	<publication>
+		<title>An Evolutionary Algorithm to a Multi-Objective Deployment and Power Assignment Problem in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>kun yang,qingfu zhang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>53</label>
+		<keyword>Assignment Problem;Energy Efficient;Evolutionary Algorithm;Genetic Operator;Multi Objective Evolutionary Algorithm;multiobjective optimization;Prior Knowledge;Resource Constraint;Sensor Nodes;Local Search;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— Wireless Sensor Networks design requires high quality location assignment and energy efficient power assi gn- ment for maximizing the network coverage and lifetime. Classical deployment and power,assignment approaches optimize these two objectives individually or by combining them together in a single objective or by constraining one and optimizing the other. In this article a multi-objective Deployment and Power Assignment</abstract>
+	</publication>
+	<publication>
+		<title>Multiobjective K-Connected Deployment and Power Assignment in WSNs Using Constraint Handling</title>
+		<year>2009</year>
+		<authors>kun yang,qingfu zhang,fernando gordejuela-sanchez</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>53</label>
+		<keyword>Constraint Handling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-aware Topology Control in Sensor Networks Using Modern Heuristics</title>
+		<year>2006</year>
+		<authors>qingfu zhang,kun yang,ian henning</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>53</label>
+		<keyword>Sensor Network;Topology Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Problem-Specific Encoding and Genetic Operation for a Multi-Objective Deployment and Power Assignment Problem in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>kun yang,qingfu zhang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>53</label>
+		<keyword>Assignment Problem;Genetic Operator;Multi Objective Evolutionary Algorithm;Prior Knowledge;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Wireless Sensor Networks Deployment and Power Assignment Problems (DPAPs) for maximizing the network cov- erage and lifetime respectively, have received increasing attention recently. Classical approaches optimize these two objectives individually, or by combining them together in a single objective, or by constraining one and optimizing the other. In this paper, the two problems are formulated as a multi-objective DPAP and</abstract>
+	</publication>
+	<publication>
+		<title>Parameter Evolution for a Particle Swarm Optimization Algorithm</title>
+		<year>2010</year>
+		<authors>aimin zhou,guixu zhang</authors>
+		<jconf>International Symposium on Intelligence Computation and Applications</jconf>
+		<label>53</label>
+		<keyword>Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multi-objective evolutionary algorithm for the deployment and power assignment problem in wireless sensor networks</title>
+		<year>2010</year>
+		<authors>kun yang,qingfu zhang,demetrios zeinalipour-yazti</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>53</label>
+		<keyword>Assignment Problem;Multi Objective Evolutionary Algorithm;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-aware topology control for wireless sensor networks using memetic algorithms</title>
+		<year>2007</year>
+		<authors>kun yang,hsiao-hwa chen,qingfu zhang</authors>
+		<jconf>Computer Communications</jconf>
+		<label>53</label>
+		<keyword>Cost Effectiveness;Fault Tolerant;Genetic Algorithm;memetic algorithm;Minimum Spanning Tree;Network Connectivity;Network Optimization;np-hard problem;Topology Control;Local Search;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Cost-effective topology,control is critical in wireless sensor networks. While much,research has been carried out in this aspect using various methods, no attention has been made on utilizing modern heuristics for this purpose. This paper proposes a memetic algorithm- based solution for energy-aware topology control for wireless sensor networks. This algorithm (called ToCMA), using a combination of problem-specific light-weighted local</abstract>
+	</publication>
+</person>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shan He</FullName>
+	<publication>
+		<title>A particle swarm optimiser with passive congregation approach to thermal modelling for power transformers</title>
+		<year>2005</year>
+		<authors>w. h. tang,e. prempain,q. h. wu,j. fitch</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>939</label>
+		<keyword>Particle Swarm Optimisation;Power Transformer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of a group search optimization based Artificial Neural Network to machine condition monitoring</title>
+		<year>2008</year>
+		<authors>xiaoli li</authors>
+		<jconf>Emerging Technologies and Factory Automation</jconf>
+		<label>939</label>
+		<keyword>Artificial Neural Network;Condition Monitoring;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Profiling of Mass Spectrometry Data for Ovarian Cancer Detection Using Negative Correlation Learning</title>
+		<year>2009</year>
+		<authors>huanhuan chen,xiaoli li,xin yao</authors>
+		<jconf>Int. Conference on Artificial Neural Networks</jconf>
+		<label>939</label>
+		<keyword>Machine Learning;Mass Spectrometry;Negative Correlation Learning;Profiles Methods;Ovarian Cancer;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. This paper proposes a novel Mass Spectrometry data profiling method for ovarian cancer detection based on negative correlation learning (NCL). A modified Smoothed,Nonlinear Energy Operator (SNEO) and correlation-based peak selection were applied to detected informative peaks for NCL to build a pre- diction model. In order to evaluate the performance,of this novel method,without bias, we employed randomization techniques by</abstract>
+	</publication>
+	<publication>
+		<title>A Group Search Optimizer for Neural Network Training</title>
+		<year>2006</year>
+		<authors>q. h. wu,j. r. saunders</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>939</label>
+		<keyword>Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Profiling of High-Throughput Mass Spectrometry Data for Ovarian Cancer Detection</title>
+		<year>2007</year>
+		<authors>xiaoli li</authors>
+		<jconf>Intelligent Data Engineering and Automated Learning</jconf>
+		<label>939</label>
+		<keyword>Mass Spectrometry;High Throughput;Ovarian Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior</title>
+		<year>2009</year>
+		<authors>q. h. wu,j. r. saunders</authors>
+		<jconf>IEEE Transactions on Evolutionary Computation</jconf>
+		<label>939</label>
+		<keyword>Optimal Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling viral economies for digital media</title>
+		<year>2008</year>
+		<authors>renan g. cattelan,darko kirovski</authors>
+		<jconf>EuroSys</jconf>
+		<label>940</label>
+		<keyword>Digital Media;Distributed System;Dynamic Pricing;Economic Model;Financial Performance;Peer To Peer;Performance Measure;Scale Free Network;User Behavior;Viral Marketing;Client Server;Scale Free;</keyword>
+		<organization>null</organization>
+		<abstract>Financial efficiency is the premier performance measure for most systems. Existing economic ecosystems for distribu- tion of multimedia leave a lot to be desired: client-server platforms do not scale well resulting in substantial opera- tional costs, whereas peer-to-peer platforms cannot police copyright control and are thus notorious for not being able to capitalize on its vast delivery potential. In this</abstract>
+	</publication>
+	<publication>
+		<title>Collusion-Resistant video Fingerprinting for Large User Group</title>
+		<year>2006</year>
+		<authors>min wu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>940</label>
+		<keyword>Content Distribution;Digital Fingerprinting;High Efficiency;Large Scale;</keyword>
+		<organization>null</organization>
+		<abstract>Digital fingerprinting protects multimedia content from illegal re- distribution by uniquely marking copies of the content distributed to each user. Most existing multimedia fingerprinting schemes consider userset on the scale of thousands for evaluation. How- ever, in real applications such as cable TV and DVD distribution, the potential users can be as many as 10 ∼ 100 million. This large</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of Nonlinear Collusion Attacks on Fingerprinting Systems for Compressed Multimedia</title>
+		<year>2007</year>
+		<authors>avinash l. varna,ashwin swaminathan,min wu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>940</label>
+		<keyword>Digital Fingerprinting;Indexing Terms;Probability of Detection;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we analyze the effect of various collusion at- tacks on fingerprinting systems for compressed multimedia. We evaluate the effectivenessof the collusion attacks in terms of the probability of detection and accuracy in estimating the host signal. Our analysis shows that applying averaging col- lusion on copies of moderately compressed content gives a highly accurate estimation of the</abstract>
+	</publication>
+	<publication>
+		<title>Performance Study on Multimedia Fingerprinting Employing Traceability Codes</title>
+		<year>2005</year>
+		<authors>min wu</authors>
+		<jconf>International Workshop on Digital Watermarking</jconf>
+		<label>940</label>
+		<keyword>Code Generation;</keyword>
+		<organization>null</organization>
+		<abstract>Digital flngerprinting is a tool to protect multimedia content from illegal redistribution by uniquely marking copies of the content dis- tributed to each user. Collusion attack is a powerful attack whereby several difierently-flngerprinted copies of the same content are combined together to attenuate or even remove the flngerprint. Coded flngerprint- ing is one major category of flngerprinting techniques against collusion.</abstract>
+	</publication>
+	<publication>
+		<title>Binary forensic code for multimedia signals: resisting minority collusion attacks</title>
+		<year>2009</year>
+		<authors>w. sabrina lin,jeffrey bloom</authors>
+		<jconf></jconf>
+		<label>940</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building efficient and effective multimedia fingerprints via joint coding and embedding</title>
+		<year>2005</year>
+		<authors>min wu</authors>
+		<jconf>Multimedia &amp; Security</jconf>
+		<label>940</label>
+		<keyword>Computational Complexity;Content Distribution;Digital Fingerprinting;Error Correction Code;</keyword>
+		<organization>null</organization>
+		<abstract>Digital fingerprinting protects multimedia content from illegal redistribution by uniquely marking every copy of the content distributed to each user. One major category of collusion-resistant fingerprinting employs an explicit step of coding. Most existing works on coded fingerprinting mainly focus on the code-level issues and treat the embedding issues through abstract assumptions without examining the overall performance. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Group-based joint coding and embedding technique for multimedia fingerprinting</title>
+		<year>2005</year>
+		<authors>min wu</authors>
+		<jconf>Security, Steganography, and Watermarking of Multimedia Contents</jconf>
+		<label>940</label>
+		<keyword>Error Correction Code;Minimum Distance;Prior Knowledge;Spread Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a group-based flngerprinting scheme employing a joint coding and embedding strategy to trace multimedia distribution and proactively prevent the leak of multimedia information. Taking advantage of the prior knowledge on the collusion pattern, we construct compact flngerprints that consist of user sub-codeword and group sub-codeword and are embedded in host signal via spread spectrum technique. The detection</abstract>
+	</publication>
+	<publication>
+		<title>Confidentiality-preserving rank-ordered search</title>
+		<year>2007</year>
+		<authors>ashwin swaminathan,yinian mao,guan-ming su,hongmei gou,avinash l. varna,min wu</authors>
+		<jconf>Storage Security And Survivability</jconf>
+		<label>940</label>
+		<keyword>Algorithm Design;Data Center;Data Collection;Indexation;Information Search and Retrieval;Search and Retrieval;System Design;information re trieval;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces a new framework for confidentiality preserving rank-ordered search and retrieval over large docu- ment collections. The proposed framework not only protects document/query confidentiality against an outside intruder, but also prevents an untrusted data center from learning information about the query and the document collection. We present practical techniques for proper integration of rel- evance scoring methods and</abstract>
+	</publication>
+	<publication>
+		<title>Prototyping a novel platform for free-trade of digital content</title>
+		<year>2006</year>
+		<authors>renan g. cattelan,darko kirovski</authors>
+		<jconf>Brazilian Symposium on Multimedia and the Web</jconf>
+		<label>940</label>
+		<keyword>Client-server Architecture;Cryptographic Protocol;Digital Content;Digital Right Management;Electronic Markets;Free Trade;Mobile Commerce;Peer To Peer;Personal Computer;Tamper Resistance;Use Case;Viral Marketing;Wireless Communication;Word of Mouth;</keyword>
+		<organization>null</organization>
+		<abstract>The widespread use of mobile, personal computing devices, together with recent advances in wireless communication technologies, pose a myriad of new opportunities for lever- aging the commerce of digital goods. We envision a novel platform for the free-trade of digital content where ordi- nary users are allowed to market and resell copies of digital content to neighbors in their wireless</abstract>
+	</publication>
+	<publication>
+		<title>An Estimation Attack on Content-Based Video Fingerprinting</title>
+		<year>2007</year>
+		<authors>darko kirovski</authors>
+		<jconf>Transactions on Data Hiding and Multimedia Security</jconf>
+		<label>940</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint coding and embedding techniques for MultimediaFingerprinting</title>
+		<year>2006</year>
+		<authors>min wu</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<label>940</label>
+		<keyword>Computational Complexity;Content Distribution;Digital Fingerprinting;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, Digital fingerprinting protects multimedia content from illegal redistribution by uniquely marking every copy of the content distributed to each user. The collusion attack is a powerful attack where several different fingerprinted copies of the same content are combined together to attenuate or even remove the fingerprints. One major category of collusion-resistant fingerprinting employs an explicit step of coding. Most</abstract>
+	</publication>
+	<publication>
+		<title>Collusion-Resistant Video Fingerprinting for Large User Group</title>
+		<year>2007</year>
+		<authors>min wu</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<label>940</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fingerprinting compressed multimedia signals</title>
+		<year>2009</year>
+		<authors>avinash l. varna,ashwin swaminathan,min wu</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<label>940</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-Fidelity Data Embedding for Image Annotation</title>
+		<year>2009</year>
+		<authors>darko kirovski,min wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>940</label>
+		<keyword>Data Embedding;Image Annotation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

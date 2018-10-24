@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Scott F. Smith</FullName>
+	<publication>
+		<title>Acceleration of Covariance Models for Non-coding RNA Search</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Bioinformatics &amp; Computational Biology</jconf>
+		<label>923</label>
+		<keyword>Dynamic Program;non-coding rna;Search Space;Search Strategy;Stochastic Context Free Grammar;Base Pair;</keyword>
+		<organization>null</organization>
+		<abstract>Stochastic context-free grammar (SCFG) based models for non-coding RNA (ncRNA) gene searches are much more powerful than regular grammar based models due to the ability to model intermolecular base pairing. The SCFG models (also known as covariance models) can be scored exactly using dynamic programming techniques. However, the computational resources needed to compute optimal scores using dynamic programming is too</abstract>
+	</publication>
+	<publication>
+		<title>Searching for protein classification features</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>923</label>
+		<keyword>Protein Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Covariance Searches for ncRNA Gene Finding</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>923</label>
+		<keyword>Gene Finding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RNA Gene Finding with Biased Mutation Operators</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>923</label>
+		<keyword>Gene Finding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Truncated Profile Hidden Markov Models</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>923</label>
+		<keyword>Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Coprocessor for Bioinformatic Sequence Alignments</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Embedded Systems and Applications</jconf>
+		<label>923</label>
+		<keyword>Globally Asynchronous Locally Synchronous;Integrated Circuit;Memory Systems;Sequence Alignment;</keyword>
+		<organization>null</organization>
+		<abstract>A hardware coprocessor for the rapid calculation of bioinformatic sequence alignments is presented. The coprocessor uses a globally-asynchronous locally-synchronous (GALS) design style which makes the coprocessor much easier to scale as CMOS feature sizes decrease. The coprocessor is intended to be implemented on a single integrated circuit along with a simple 32-bit RISC processor and memory system. The specific sequence</abstract>
+	</publication>
+	<publication>
+		<title>Similarity Searches in Computer Security</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Security and Management</jconf>
+		<label>923</label>
+		<keyword>Biological Database;Computer Security;Integrated Circuit;Internet Traffic;Sequence Similarity;Similarity Search;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The reuse of algorithms and hardware developed for searches of large molecular biologic databases is examined for detecting new variants of computer attacks before they can inflict damage. New attacks are viewed as evolutions of previous attacks, with associated mutations, insertions, and deletions from either machine code or text script sequences. Similarity searches are done between previous attacks and internet</abstract>
+	</publication>
+	<publication>
+		<title>A Fast Approximate Covariance-Model-Based Database Search Method for Non-coding RNA</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Bioinformatics Research and Applications</jconf>
+		<label>923</label>
+		<keyword>Database Search;non-coding rna;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Hydrophobicity Correlation Measures for Protein Family Classification</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Mathematics and Engineering Techniques in Medicine and Biological Scienes</jconf>
+		<label>923</label>
+		<keyword>Protein Family;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance of a GALS Single-Chip Multiprocessor</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>923</label>
+		<keyword>Chip Multiprocessor;Globally Asynchronous Locally Synchronous;Shared Memory Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract>The performance of a single-chip shared-memory multiprocessor built with a globally-asynchronous locally-synchronous (GALS) design strategy is explored. The performance of the multiprocessor is found to be nearly as good as that of a globally-clocked equivalent multiprocessor. Since the GALS strategy results in a much more easily scaled design and a large reduction in design effort for the multiprocessor's clock tree,</abstract>
+	</publication>
+	<publication>
+		<title>Bioinformatics Application of a Scalable Supercomputer-On-Chip Architecture</title>
+		<year>2003</year>
+		<authors>james f. frenzel</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>923</label>
+		<keyword>Design Methodology;Integrated Circuit;Application Specific Integrated Circuit;</keyword>
+		<organization>null</organization>
+		<abstract>A high level overview of a supercomputer-on-chip (SCoC) architecture is given which is particularly well suited to common bioinformatic computing tasks. The architecture uses asynchronous bus interfaces to create an application specific integrated circuit design methodology allowing for scaling of SCoCs with very little design effort. Standard processors and standard system buses are employed along with the pre-designed bus interface</abstract>
+	</publication>
+	<publication>
+		<title>The Advanced Encryption Standard on an Asynchronous Shared-Memory Multiprocessor</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Very Large Scale Integration</jconf>
+		<label>923</label>
+		<keyword>Advanced Encryption Standard;Shared Memory Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract>The performance of a single-chip shared-memory multiprocessor system for encryption/decryption of large quantities of information is examined. The multiprocessor uses an asynchronous bus system to increase scalability and to reduce design effort. The target application is the Advanced Encryption Standard (AES) with 128 bit key. Chip area requirements and encryption/decryption throughput rates are examined.</abstract>
+	</publication>
+	<publication>
+		<title>Bioinformatic searches using a single-chip shared-memory multiprocessor</title>
+		<year>2006</year>
+		<authors>james f. frenzel</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>923</label>
+		<keyword>Design Methodology;Integrated Circuit Design;Shared Memory Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  A single-chip shared-memory,multiprocessor architecture is introduced which is particularly well suited to common bioinformatic computing,tasks. The architecture uses asynchronous,bus interfaces to create an integrated circuit design methodology,allowing for scaling of the multiprocessor with very little design effort. A key aspect of this design methodology,is that it is not necessary to expend significant design resources and chip area on the</abstract>
+	</publication>
+	<publication>
+		<title>Homology search with binary and trinary scoring matrices</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>International Journal of Bioinformatics Research and Applications</jconf>
+		<label>923</label>
+		<keyword>Homology Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Covariance-Model-Based RNA Gene Finding: Using Dynamic Programming versus Evolutionary Computing</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>923</label>
+		<keyword>Dynamic Program;Evolutionary Computing;Gene Finding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards mechanical solution of the Kahan Ellipse Problem 1</title>
+		<year>1983</year>
+		<authors>dennis s. arnon</authors>
+		<jconf>European Conference on Computer Algebra</jconf>
+		<label>924</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PULSAR: a personalized microcomputer-based system for keyword search and retrieval of literature information</title>
+		<year>1981</year>
+		<authors>william l. jorgensen,philip l. fuchs</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>924</label>
+		<keyword>Keyword Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

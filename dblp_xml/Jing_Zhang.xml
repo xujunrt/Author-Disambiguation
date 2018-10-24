@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jing Zhang</FullName>
+	<publication>
+		<title>Comparison between Voxel-based Morphometry and Volumetric Analysis in Schizophrenia</title>
+		<year>2008</year>
+		<authors>monte s. buchsbaum,kingwai chu,erin a. hazlett</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>423</label>
+		<keyword>Voxel Based Morphometry;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

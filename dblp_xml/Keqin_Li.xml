@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Keqin Li</FullName>
+	<publication>
+		<title>Test Generation from Security Policies Specified in Or-BAC</title>
+		<year>2007</year>
+		<authors>laurent mounier,roland groz</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>497</label>
+		<keyword>Security Policy;Test Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning Parameterized State Machine Model for Integration Testing</title>
+		<year>2007</year>
+		<authors>muzammil shahbaz,roland groz</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>497</label>
+		<keyword>Development Process;Finite State Machine;Integration Testing;Learning Algorithm;Software Component;Software Engineering;State Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Although many of the software engineering activities can now be model-supported, the model is often missing in soft- ware development. We are interested in retrieving state- machine models from black-box software components. We assume that the details of the development process of such components (third-party software or COTS) are not avail- able. To adequately support software engineering activi- ties, we</abstract>
+	</publication>
+	<publication>
+		<title>Achieving Socio-technical Confidentiality Using Security Pattern in Smart Homes</title>
+		<year>2008</year>
+		<authors>pierre busnel,paul el khoury,sylvain giroux</authors>
+		<jconf>Future Generation Communication and Networking</jconf>
+		<label>497</label>
+		<keyword>Smart Home;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integration Testing of Distributed Components Based on Learning Parameterized I/O Models</title>
+		<year>2006</year>
+		<authors>roland gro,muzammil shahbaz</authors>
+		<jconf>Formal Techniques for Networked and Distributed Systems</jconf>
+		<label>497</label>
+		<keyword>Complex System;Formal Model;Incremental Learning;Integration Testing;Internal Structure;</keyword>
+		<organization>null</organization>
+		<abstract>The design of complex systems, e.g., telecom services, is usu- ally based on the integration of components (COTS). When components come from third party sources, their internal structure is usually un- known and the documentation is scant or inadequate. Our work addresses the issue of providing a sound support to com- ponent integration in the absence of formal models. We</abstract>
+	</publication>
+	<publication>
+		<title>Modular System Verification by Inference, Testing and Reachability Analysis</title>
+		<year>2008</year>
+		<authors>roland groz,alexandre petrenko,muzammil shahbaz</authors>
+		<jconf>IFIP International Conference on Testing of Communicating Systems</jconf>
+		<label>497</label>
+		<keyword>Modular System;reachability analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Verification of a modular system composed of communicating components is a difficult problem, especially when the models of the components are not available. Conventional testing techniques are not efficient in detecting erroneous interactions of components because such interactions often occur as interleavings of events that are difficult to reproduce in a modular system. The problem of detecting intermittent errors in</abstract>
+	</publication>
+	<publication>
+		<title>Fault Detection of Hierarchical Networks with Probabilistic Testing Algorithms</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IFIP International Conference on Testing of Communicating Systems</jconf>
+		<label>497</label>
+		<keyword>Community Networks;Conformance Testing;Fault Coverage;Fault Detection;Formal Analysis;Hierarchical Networks;Information Infrastructure;Network Design;Network Reliability;Probabilistic Algorithm;Quality of Service;</keyword>
+		<organization>null</organization>
+		<abstract>As communications networks are expanding to larger areas the control and maintenance of routing information are becoming a formidable task. To cope with its size and complexity and to make the network reliable and scalable hierarchical network has been proposed with new features to support the information infrastructure. However, the network hierarchy adds more complications to the network design and</abstract>
+	</publication>
+	<publication>
+		<title>Learning and Integration of Parameterized Components Through Testing</title>
+		<year>2007</year>
+		<authors>muzammil shahbaz,roland gro</authors>
+		<jconf>IFIP International Conference on Testing of Communicating Systems</jconf>
+		<label>497</label>
+		<keyword>Data Collection;Integration Testing;Learning Process;State Machine;</keyword>
+		<organization>null</organization>
+		<abstract>We investigate the use of parameterized state machine mod- els to drive integration testing, in the case where the models of compo- nents are not available beforehand. Therefore, observations from tests are used to learn partial models of components, from which further tests can be derived for integration. We have extended previous algorithms to the case of finite state models</abstract>
+	</publication>
+	<publication>
+		<title>Integration Testing of Components Guided by Incremental State Machine Learning</title>
+		<year>2006</year>
+		<authors>roland groz,muzammil shahbaz</authors>
+		<jconf>Testing: Academic &amp; Industrial Conference - Practice And Research Techniques</jconf>
+		<label>497</label>
+		<keyword>Complex System;Distributed Architecture;Integration Testing;Internal Structure;Machine Learning;State Machine;System Integration;Test Generation;</keyword>
+		<organization>null</organization>
+		<abstract>The design of complex systems, e.g., telecom services, is nowadays usually based on the integration of components (COTS), loosely coupled in distributed architectures. When components come from third party sources, their internal structure is usually unknown and the documentation is insufficient. Therefore, the system integrator faces the problem of providing a required system assembling COTS whose behaviour is barely specified</abstract>
+	</publication>
+	<publication>
+		<title>An Overview of JB (Jade Bird) Component Library System JBCL</title>
+		<year>1997</year>
+		<authors>lifeng guo,hong mei,fuqing yang</authors>
+		<jconf>Technology of Object-Oriented Languages and Systems</jconf>
+		<label>498</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>S&amp;D Pattern Deployment at Organizational Level: A Prototype for Remote Healthcare System</title>
+		<year>2009</year>
+		<authors>pierre busnel,paul el khoury,ayda saïdane,nicola zannone</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>497</label>
+		<keyword>Case Study;Enterprise Architecture;Healthcare System;Human Resource;</keyword>
+		<organization>null</organization>
+		<abstract>The analysis of security incidents and frauds has shown that several vulnerabilities of IT systems are due to loopholes in the policies and procedures adopted by organizations as well as in their structure. Organizations have thus to address security and dependability issues by analyzing their organizational setting. In this paper, we present a methodology to support the deployment of Security</abstract>
+	</publication>
+</person>

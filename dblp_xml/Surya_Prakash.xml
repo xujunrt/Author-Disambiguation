@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Surya Prakash</FullName>
+	<publication>
+		<title>3D Mapping of Surface Temperature Using Thermal Stereo</title>
+		<year>2006</year>
+		<authors>pei yean lee,terry caelli</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>990</label>
+		<keyword>Surface Temperature;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A semisupervised approach to space carving</title>
+		<year>2008</year>
+		<authors>antonio robles-kelly</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>990</label>
+		<keyword>3d reconstruction;Multiple Views;Prior Distribution;Shape From Silhouette;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a semi-supervised approach to space carving by casting the recov- ery of volumetric data from multiple views into an evidence combining setting. The method presented here is statistical in nature and employs, as a sta rting point, a manually obtained contour. By making use of this user-provided information, we obtain probabilistic silhouettes of all successive</abstract>
+	</publication>
+	<publication>
+		<title>A semi-supervised approach to space carving</title>
+		<year>2010</year>
+		<authors>antonio robles-kelly</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>990</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

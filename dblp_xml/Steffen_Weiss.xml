@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Steffen Weiss</FullName>
+	<publication>
+		<title>Development of an Active Intravascular MR Device With an Optical Transmission System</title>
+		<year>2008</year>
+		<authors>stephan fandrey,jörg müller</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>981</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

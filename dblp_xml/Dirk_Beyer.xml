@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dirk Beyer</FullName>
+	<publication>
+		<title>Policy-Based Resource Assignment in Utility Computing Environments</title>
+		<year>2004</year>
+		<authors>cipriano a. santos,akhil sahai,xiaoyun zhu,vijay machiraju,sharad singhal</authors>
+		<jconf>Distributed Systems, Operations and Management</jconf>
+		<label>209</label>
+		<keyword>Assignment Problem;Service Level;Soft Constraints;Utility Computing;</keyword>
+		<organization>null</organization>
+		<abstract>In utility computing environments, multiple users and applications are served from the same r esource pool. To maintain service level objectives and maintain high levels of utilization in the resource pool, it is desirable that resources be assigne d in a manner consistent with operator policies, while ensuring that shared resources (e.g., networks) within the pool do not become bottlenecks.</abstract>
+	</publication>
+	<publication>
+		<title>On the road to recovery: restoring data after disasters</title>
+		<year>2006</year>
+		<authors>kimberly keeton,ernesto brau,arif merchant,cipriano a. santos,alex zhang</authors>
+		<jconf>EuroSys</jconf>
+		<label>209</label>
+		<keyword>Data Storage;Decision Process;Disaster Recovery;Genetic Algorithm;Optimal Solution;Optimization Problem;Quantitative Evaluation;Rule of Thumb;Scheduling Problem;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract>Restoring data operations after a disaster is a daunting task: how should recovery be performed to minimize data loss and application downtime? Administrators are under considerable pressure to recover quickly, so they lack time to make good scheduling decisions. They schedule recovery based on rules of thumb, or on pre-determined orders that might not be best for the failure occurrence.</abstract>
+	</publication>
+	<publication>
+		<title>Designing for Disasters</title>
+		<year>2004</year>
+		<authors>kimberly keeton,cipriano a. santos,jeffrey s. chase,john wilkes</authors>
+		<jconf>USENIX Conference on File and Storage Technologies</jconf>
+		<label>209</label>
+		<keyword>Data Reconstruction;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: this paper. Thestandard solutions include interarraymirroring (local andremote, synchronous andasynchronous), tertiary storage(e.g., tape) backup, remotevaulting, and snapshots,combined with recovery byfailover or data reconstruction</abstract>
+	</publication>
+	<publication>
+		<title>Don't Settle for Less Than the Best: Use Optimization to Make Decisions</title>
+		<year>2007</year>
+		<authors>kimberly keeton,terence kelly,arif merchant,cipriano a. santos,janet l. wiener,xiaoyun zhu</authors>
+		<jconf>Workshop on Workstation Operating Systems (now HotOS)/Workshop on Hot Topics in Operating Systems</jconf>
+		<label>209</label>
+		<keyword>Operations Research;Optimization Technique;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>Many systems design, configuration, runtime and man- agement decisions must be made from a large set of pos- sible alternatives. Ad hoc heuristics have traditionally been used to make these decisions, but they provide no guarantees of solution quality. We argue that operations research-style optimization techniques should be used to solve these problems. We provide an overview of these techniques</abstract>
+	</publication>
+	<publication>
+		<title>Quartermaster - a resource utility system</title>
+		<year>2005</year>
+		<authors>sharad singhal,martin f. arlitt,sven graupner,vijay machiraju,jim pruyne,jerry rolia,akhil sahai,cipriano a. santos,julie ward,xiaoyun zhu</authors>
+		<jconf>Integrated Network Management</jconf>
+		<label>209</label>
+		<keyword>Resource Utilization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Self-Adaptive SLA-Driven Capacity Management for Internet Services</title>
+		<year>2006</year>
+		<authors>bruno d. abrahao,virgilio almeida,jussara m. almeida,alex zhang,fereydoon safai</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>209</label>
+		<keyword>Capacity Management;Cost Effectiveness;Cost Model;Difference Operator;Internet Services;Optimization Model;Performance Model;Processor Sharing;Service Level;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This work considers the problem of hosting multiple third-party Internet services in a cost-effective manner so as to maximize a provider's business objective. For this purpose, we present a dynamic capacity management framework based on an optimization model, which links a cost model based on SLA contracts with an analytical queuing-based performance model, in an attempt to adapt the platform</abstract>
+	</publication>
+	<publication>
+		<title>Deadline scheduling for animation rendering</title>
+		<year>2005</year>
+		<authors>eric anderson,kamalika chaudhuri,terence kelly,norman salazar,cipriano a. santos,ram swaminathan,robert endre tarjan,janet l. wiener,yunhong zhou</authors>
+		<jconf>Sigmetrics Performance Evaluation Review</jconf>
+		<label>209</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Lessons and challenges in automating data dependability</title>
+		<year>2004</year>
+		<authors>kimberly keeton,jeffrey s. chase,arif merchant,cipriano a. santos,john wilkes</authors>
+		<jconf>SIGOPS European Workshop</jconf>
+		<label>209</label>
+		<keyword>Adaptive Management;Data Dependence;Design Space;</keyword>
+		<organization>null</organization>
+		<abstract>Designing and managing dependable sys- tems is a difficult endeavor. In this paper, we describe challenges in this vast problem space, including pro- visioning and allocating shared resources, adaptively managing system dependability, expressing dependabil- ity goals, interactively exploring the design space, and designing end-to-end service dependability. We outline the optimization-based approach we've used to tackle the data dependability portion of</abstract>
+	</publication>
+	<publication>
+		<title>Value-maximizing deadline scheduling and its application to animation rendering</title>
+		<year>2005</year>
+		<authors>eric anderson,kamalika chaudhuri,terence kelly,norman salazar,cipriano a. santos,ram swaminathan,robert endre tarjan,janet l. wiener,yunhong zhou</authors>
+		<jconf>ACM Symposium on Parallel Algorithms and Architectures</jconf>
+		<label>209</label>
+		<keyword>Job Scheduling;Performance Bounds;Precedence Constraint;Scheduling Algorithm;Scheduling Problem;Signal Processing;Utility Maximization;Full Length;Knapsack Problem;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a new class of utility-maximization scheduling problem with precedence constraints, the disconnected staged scheduling problem (DSSP). DSSP is a nonpreemptive multiprocessor deadline scheduling problem that arises in several commercially-important applications, including animation rendering, protein analysis, and seismic signal processing. DSSP differs from most previously-studied deadline scheduling problems because the graph of precedence constraints among tasks within jobs is</abstract>
+	</publication>
+	<publication>
+		<title>Automated application component placement in data centers using mathematical programming</title>
+		<year>2008</year>
+		<authors>xiaoyun zhu,cipriano a. santos,julie ward,sharad singhal</authors>
+		<jconf>International Journal of Network Management</jconf>
+		<label>209</label>
+		<keyword>Data Center;Mathematical Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Proof of the Eoq Formula Using Quasi-variational Inequalities</title>
+		<year>1998</year>
+		<authors>suresh p. sethi</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>209</label>
+		<keyword>Average Cost;Inventory Model;Management Science;Economic Order Quantity;Quasi Variational Inequalities;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we use quasi-variational inequalities to provide a rigorous proof ofthe familiar square root formula for the optimal economic order quantity (EOQ) inthe classical deterministic average cost inventory model.1 IntroductionThe familiar square root formula for the optimal economic order quantity (EOQ) in simpleinventory models is one of the most fundamental results in management science andoperations research. The formula</abstract>
+	</publication>
+	<publication>
+		<title>HP Transforms Product Portfolio Management with Operations Research</title>
+		<year>2010</year>
+		<authors>julie ward,bin zhang,shailendra jain,chris fry,thomas olavson,holger mishal,jason amaral,ann brecht,brian cargille,russ chadinha,kathy chou,gavin denyse,qi feng,cookie padovani,sesh raj,kurt sunderbruch,robert endre tarjan,krishna venkatraman,joseph woods,jing zhou</authors>
+		<jconf>Interfaces</jconf>
+		<label>209</label>
+		<keyword>Operations Research;Portfolio Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

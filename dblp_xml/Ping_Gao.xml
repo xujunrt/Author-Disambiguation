@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ping Gao</FullName>
+	<publication>
+		<title>Efficient SAT Techniques for Relative Encoding of Permutations with Constraints</title>
+		<year>2009</year>
+		<authors>miroslav n. velev</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>826</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Boolean Satisfiability Encodings on FPGA Detailed Routing Problems</title>
+		<year>2008</year>
+		<authors>miroslav n. velev</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>826</label>
+		<keyword>Boolean Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient SAT-based techniques for Design of Experiments by using static variable ordering</title>
+		<year>2009</year>
+		<authors>miroslav n. velev</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>826</label>
+		<keyword>Design of Experiment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient SAT Techniques for Absolute Encoding of Permutation Problems: Application to Hamiltonian Cycles</title>
+		<year>2009</year>
+		<authors>miroslav n. velev</authors>
+		<jconf>Symposium on Abstraction, Reformulation and Approximation</jconf>
+		<label>826</label>
+		<keyword>Boolean Satisfiability;Combinatorial Problems;Hamiltonian Cycle;</keyword>
+		<organization>null</organization>
+		<abstract>We study novel approaches for solving of hard combina- torial problems by translation to Boolean Satisfiability (SAT). Our focus is on combinatorial problems that can be represented as a permutation of n objects, subject to additional constraints. In the case of the Hamiltonian Cycle Problem (HCP), these constraints are that two adja- cent nodes in a permutation should also be</abstract>
+	</publication>
+</person>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Radu Marinescu</FullName>
+	<publication>
+		<title>Memory Intensive Branch-and-Bound Search for Graphical Models</title>
+		<year>2006</year>
+		<authors>rina dechter</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Genetic Linkage;Graph Search;Graphical Model;Search Algorithm;Search Space;Search Trees;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaces have recently been introduced as a unifying paradigm for advanced algorithmic schemes for graphical models. The main virtue of this representation is its sensitivity to the structure of the model, which can translate into exponential time savings for search algorithms. AND/OR Branch-and-Bound (AOBB) is a new algorithm that explores the AND/OR search tree for solving optimization tasks</abstract>
+	</publication>
+	<publication>
+		<title>Best-First AND/OR Search for Graphical Models</title>
+		<year>2007</year>
+		<authors>rina dechter</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Branch and Bound Algorithm;Control Strategy;Graphical Model;Search Algorithm;Search Space;Search Trees;</keyword>
+		<organization>null</organization>
+		<abstract>The paper presents and evaluates the power of best-first search over AND/OR search spaces in graphical models. The main virtue of the AND/OR representation is its sensitivity to the structure of the graphical model, which can translate into significant time savings. Indeed, in recent years depth-first AND/OR Branch-and-Bound algorithms were shown to be very effective when exploring such search spaces,</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Branch-and-Bound for Solving Mixed Integer Linear Programming Problems</title>
+		<year>2005</year>
+		<authors>rina dechter</authors>
+		<jconf>Principles and Practice of Constraint Programming</jconf>
+		<label>852</label>
+		<keyword>Branch and Bound Algorithm;Graphical Model;Mixed Integer Linear Program;Search Algorithm;Search Space;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaces have recently been introduced as a unify- ing paradigm for advanced algorithmic schemes for graphical models. The main virtue of this representation is its sensitivity to the stru cture of the model, which can translate into exponential time savings for search algorithms. In this paper we extend the recently introduced AND/OR Branch-and-Bound algorithm (1) for solving 0/1</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Multi-valued Decision Diagrams for Constraint Optimization</title>
+		<year>2007</year>
+		<authors>robert mateescu,rina dechter</authors>
+		<jconf>Principles and Practice of Constraint Programming</jconf>
+		<label>852</label>
+		<keyword>Constraint Optimization;Cost Function;Data Structure;Experimental Evaluation;Graphical Model;Search Space;Weighted Graph;Branch and Bound;Constraint Optimization Problem;Decision Diagram;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new top down search-based algorithm for compiling AND/OR Multi-Valued Decision Diagrams (AOMDDs), as representations ofthe optimal set of solutions for constraint optimization problems. The approach is based on AND/OR search spaces for graphical models, state-of-the-art AND/OR Branch-and-Bound search, and on decision diagrams reduction techniques. We extend earlier work on AOMDDs by considering general weighted graphs based on</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Branch-and-Bound Search for Pure 0/1 Integer Linear Programming Problems</title>
+		<year>2006</year>
+		<authors>rina dechter</authors>
+		<jconf>CPAIOR</jconf>
+		<label>852</label>
+		<keyword>Branch and Bound Algorithm;Combinatorial Auction;Graphical Model;Integer Linear Program;Integer Program;Location Problem;Search Algorithm;Search Space;Variable Selection;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaces have recently been introduced as a unify- ing paradigm for advanced algorithmic schemes for graphical models. The main virtue of this representation is its sensitivity to the structure of the model, which can translate into exponential time savings for search algorithms. In this pa per we extend the recently introduced AND/OR Branch-and-Bound algorithm (AOBB) (1) for solving</abstract>
+	</publication>
+	<publication>
+		<title>Best-First AND/OR Search for 0/1 Integer Programming</title>
+		<year>2007</year>
+		<authors>rina dechter</authors>
+		<jconf>CPAIOR</jconf>
+		<label>852</label>
+		<keyword>Combinatorial Auction;Graphical Model;Integer Linear Program;Integer Program;Search Algorithm;Search Space;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaces are a unifying paradigm for advanced algo- rithmic schemes for graphical models. The main virtue of this representation is its sensitivity to the structure of the model, which can translate into exponential time savings for search algorithms. In this paper we introduce an AND/OR search algorithm that explores a context-minimal AND/OR search graph in a best-first manner</abstract>
+	</publication>
+	<publication>
+		<title>On the Practical Significance of Hypertree vs. TreeWidth</title>
+		<year>2008</year>
+		<authors>rina dechter,lars otten</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Graphical Model;Perforation;Probabilistic Graphical Model;Search Algorithm;Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. In 2000, [4] presented a new graph parameter, the hy- pertree width, and showed that it provides a broader characterization of tractable constraint networks than the treewidth. In 2005, [5] ex- tended this result to general probabilistic graphical models, showing that the hypertree width yields bounds on inference algorithms when functions are expressed relationally. The main contribution of this</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Orderings for AND/OR Branch-and-Bound Search in Graphical Models</title>
+		<year>2006</year>
+		<authors>rina dechter</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Branch and Bound Algorithm;Graphical Model;Search Algorithm;Variable Selection;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaceshave recently been introduced as a unifying paradigm for advanced algorithmic schemes for graphi- cal models. The main virtue of this representation is its sensitivity to the structure of the model, which can translate into exponential time savings for search algorithms. Since the variable selection can have a dramatic impact on search performance when solving optimization tasks, we</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Branch-and-Bound for Graphical Models</title>
+		<year>2005</year>
+		<authors>rina dechter</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Branch and Bound Algorithm;Graphical Model;Optimization Problem;Problem Solving;Search Space;Branch and Bound;Lower Bound;Most Probable Explanation;</keyword>
+		<organization>null</organization>
+		<abstract>The paper presents and evaluates the power of a new framework for optimization in graphical models, based on AND/OR search spaces. The virtue of the AND/OR representation of the search space is that its size may be far smaller than that of a traditional OR representation. We develop our work on Con- straint Optimization Problems(COP) and introduce a new generation</abstract>
+	</publication>
+	<publication>
+		<title>Systematic vs. Non-systematic Algorithms for Solving the MPE Task</title>
+		<year>2003</year>
+		<authors>kalev kask,rina dechter</authors>
+		<jconf>Uncertainty in Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Approximation Scheme;Belief Propagation;Branch and Bound Algorithm;Local Search Algorithm;Search Algorithm;Search Space;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract>The paper explores the power of two system- atic Branch and Bound search algorithms that exploit partition-based heuristics, BBBT (a new algorithm for which the heuristic information is constructed during search and allows dy- namic variable/value ordering) and its predeces- sor BBMB (for which the heuristic information is pre-compiled) and compares them against a number of popular local search algorithms</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Branch-and-Bound search for combinatorial optimization in graphical models</title>
+		<year>2009</year>
+		<authors>rina dechter</authors>
+		<jconf>Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Combinatorial Optimization;Graphical Model;Branch and Bound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Memory intensive AND/OR search for combinatorial optimization in graphical models</title>
+		<year>2009</year>
+		<authors>rina dechter</authors>
+		<jconf>Artificial Intelligence</jconf>
+		<label>852</label>
+		<keyword>Combinatorial Optimization;Constraint Optimization;Empirical Evaluation;Graphical Model;Optimization Problem;Search Algorithm;Branch and Bound;Belief Network;bayesian network;Most Probable Explanation;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we explore the impact of caching during search in the context of the recent framework of AND/OR search in graphical models. Specifically, we extend the depth-first AND/OR Branch-and-Bound tree search algorithm to explore an AND/OR search graph by equipping it with an adaptive caching scheme similar to good and no-good recording. Furthermore, we present best-first search algorithms</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating the impact of AND/OR search on 0-1 integer linear programming</title>
+		<year>2010</year>
+		<authors>rina dechter</authors>
+		<jconf>Constraints - An International Journal</jconf>
+		<label>852</label>
+		<keyword>Combinatorial Auction;Graphical Model;Integer Linear Program;Location Problem;Search Algorithm;Search Space;Search Trees;</keyword>
+		<organization>null</organization>
+		<abstract>AND/OR search spaces accommodate advanced algorithmic schemes for graphical models which can exploit the structure of the model. We extend and evaluate the depth-first and best-first AND/OR search algorithms to solving 0-1 Integer Linear Programs (0-1 ILP) within this framework. We also include a class of dynamic variable ordering heuristics while exploring an AND/OR search tree for 0-1 ILPs. We</abstract>
+	</publication>
+	<publication>
+		<title>AND/OR Multi-Valued Decision Diagrams (AOMDDs) for Graphical Models</title>
+		<year>2008</year>
+		<authors>robert mateescu,rina dechter</authors>
+		<jconf>Journal of Artificial Intelligence Research</jconf>
+		<label>852</label>
+		<keyword>Canonical Form;Data Structure;Experimental Evaluation;Functional Decomposition;Graphical Model;Probabilistic Model;Search Algorithm;Search Space;Bucket Elimination;Decision Diagram;Ordered Binary Decision Diagram;</keyword>
+		<organization>null</organization>
+		<abstract>Inspired by the recently introduced framework of AND/OR search spaces for graphical mod- els, we propose to augment Multi-Valued Decision Diagrams (MDD) with AND nodes, in order to capture function decomposition structure and to extend these compiled data structures to gen- eral weighted graphical models (e.g., probabilistic models). We present the AND/OR Multi-Valued Decision Diagram(AOMDD) which compiles a graphical model</abstract>
+	</publication>
+</person>

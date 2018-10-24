@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daming Shi</FullName>
+	<publication>
+		<title>DUTIR at TREC 2007 Blog Track</title>
+		<year>2007</year>
+		<authors>rui song,tang qin,hongfei lin,zhihao yang</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>163</label>
+		<keyword>Attribute Selection;Data Preprocessing;English Language;Indexation;Information Extraction;Information Gain;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes DUTIR at TREC 2007 Blog Track. In data preprocessing, a non English language list created from the corpus was used to remove the non English blogs, blog templates were also used to extract the post and comment; in Opinion Retrieval task, information in the meta tags were also indexed; in the polarity subtask, a method based on</abstract>
+	</publication>
+</person>

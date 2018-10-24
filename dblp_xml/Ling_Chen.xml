@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ling Chen</FullName>
+	<publication>
+		<title>The Art of Tagging: Measuring the Quality of Tags</title>
+		<year>2008</year>
+		<authors>ralf krestel</authors>
+		<jconf>Asian Semantic Web Conference</jconf>
+		<label>567</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>In the Search of NECTARs from Evolutionary Trees</title>
+		<year>2009</year>
+		<authors>sourav s. bhowmick</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>567</label>
+		<keyword>Evolutionary Trees;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining Positive and Negative Association Rules from XML Query Patterns for Caching</title>
+		<year>2005</year>
+		<authors>sourav s. bhowmick,liang-tien chia</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Cache Performance;Cache Replacement;Negative Association;Pattern Mining;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, several approaches that mine frequent XML query patterns and cache their results have been proposed to improve query response time. However, frequent XML query patterns mined by these approaches ignore the temporal sequence between user queries. In this paper, we take into account the temporal features of user queries to dis- cover association rules, which indicate that when a</abstract>
+	</publication>
+	<publication>
+		<title>COWES: Clustering Web Users Based on Historical Web Sessions</title>
+		<year>2006</year>
+		<authors>sourav s. bhowmick,jinyan li</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>567</label>
+		<keyword>Web Caching;Web Usage Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Clustering web users is one of the most important research topics in web usage mining. Existing approaches cluster web users based on the snapshots of web user sessions. They do not take into account the dynamic nature of web usage data. In this paper, we focus on discov- ering novel knowledge by clustering web users based on the evolutions of</abstract>
+	</publication>
+	<publication>
+		<title>Mining Maximal Frequently Changing Subtree Patterns from XML Documents</title>
+		<year>2004</year>
+		<authors>sourav s. bhowmick,liang-tien chia</authors>
+		<jconf>Data Warehousing and Knowledge Discovery</jconf>
+		<label>567</label>
+		<keyword>Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the dynamic nature of online information, XML doc- uments typically evolve over time. The change of the data values or struc- tures of an XML document may exhibit some particular patterns. In this paper, we focus on the sequence of changes to the structures of an XML document to flnd out which subtrees in the XML structure frequently</abstract>
+	</publication>
+	<publication>
+		<title>DECK: Detecting Events from Web ClickThrough Data</title>
+		<year>2008</year>
+		<authors>yiqun hu,wolfgang nejdl</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>567</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>VRules: an effective association-based classifier for videos</title>
+		<year>2004</year>
+		<authors>sourav s. bhowmick,liang-tien chia</authors>
+		<jconf>ACM International Workshop on Multimedia Databases</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Association Rule Mining;Pattern Mining;State Transition;Temporal Information;</keyword>
+		<organization>null</organization>
+		<abstract>Video classification is an important step towards multimedia understanding. Most state-of-the-art approaches which apply HMM to capture the temporal information of videos have the limitation by assuming that the current state of a video depends only on the immediate previous state. Nevertheless, this assumption may not hold for videos of various categories. In this paper, we present an effective video</abstract>
+	</publication>
+	<publication>
+		<title>Mining Association Rules from Structural Deltas of Historical XML Documents</title>
+		<year>2004</year>
+		<authors>sourav s. bhowmick,liang-tien chia</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining Temporal Indirect Associations</title>
+		<year>2006</year>
+		<authors>sourav s. bhowmick,jinyan li</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>567</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel pattern called temporal indirect associ- ation. An indirect association pattern refers to a pair of items that rarely occur together but highly depend on the presence of a mediator itemset. The exist- ing model of indirect association does not consider the lifespan of items. Con- sequently, some discovered patterns may be invalid while some useful</abstract>
+	</publication>
+	<publication>
+		<title>PHAROS - Personalizing Users' Experience in Audio-Visual Online Spaces</title>
+		<year>2008</year>
+		<authors>raluca paiu,claudiu s. firan,wolfgang nejdl</authors>
+		<jconf></jconf>
+		<label>567</label>
+		<keyword>Building Technology;New Media;Online Interaction;Search and Retrieval;Social Media;User Generated Content;Audio Visual;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>The large volume of user generated content, although sometimes amateurish, represents a valuable source of information for audiovisual service providers. For example, companies and organizations can efficiently get feedback from consumers observing their online interaction with social media providers. Offering accurately personalized services is possible now, since users provide more personal information about themselves openly, which was previously much more</abstract>
+	</publication>
+	<publication>
+		<title>Improving music genre classification using collaborative tagging data</title>
+		<year>2009</year>
+		<authors>phillip wright,wolfgang nejdl</authors>
+		<jconf>Web Search and Data Mining</jconf>
+		<label>567</label>
+		<keyword>Collaborative Tagging;Data Collection;Feature Extraction;Music Genre Classification;Semantic Information;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>As a fundamental and critical component of music infor- mation retrieval (MIR) systems, music genre classiflcation has attracted considerable research attention. Automati- cally classifying music by genre is, however, a challenging problem due to the fact that music is an evolving art. While most of the existing work categorizes music using features extracted from music audio signals, in this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Mirror site maintenance based on evolution associations of web directories</title>
+		<year>2007</year>
+		<authors>sourav s. bhowmick,wolfgang nejdl</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Web Community;Web Evolution;</keyword>
+		<organization>null</organization>
+		<abstract>Mirroring Web sites is a well-known technique commonly used in the Web community. A mirror site should be up- dated frequently to ensure that it reflects the content of the original site. Existing mirroring tools apply page-level strategies to check each page of a site, which is inefficient and expensive. In this paper, we propose a novel site-level mirror maintenance</abstract>
+	</publication>
+	<publication>
+		<title>Using subspace analysis for event detection from web clickthrough data</title>
+		<year>2008</year>
+		<authors>yiqun hu,wolfgang nejdl</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>567</label>
+		<keyword>Event Detection;Web Documents;Web Search Engine;principal compo nent analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Although most of existing research usually detects events by ana- lyzing the content or structural information of Web documents, a recent direction is to study the usage data. In this paper, we focus on detecting events from Web click-through data generated by Web search engines. We propose a novel approach which effectively detects events from click-through data based on robust</abstract>
+	</publication>
+	<publication>
+		<title>FRACTURE mining: Mining frequently and concurrently mutating structures from historical XML documents</title>
+		<year>2006</year>
+		<authors>sourav s. bhowmick,liang-tien chia</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>567</label>
+		<keyword>Divide and Conquer;Frequent Pattern;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>In the past few years, the fast proliferation of available XML documents has stim- ulated a great deal of interest in discovering hidden and nontrivial knowledge from XML repositories. However, to the best of our knowledge, none of existing work on XML mining has taken into account the dynamic nature of XML documents as online information. The present article proposes</abstract>
+	</publication>
+	<publication>
+		<title>COWES: Web user clustering based on evolutionary web sessions</title>
+		<year>2009</year>
+		<authors>sourav s. bhowmick,wolfgang nejdl</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>567</label>
+		<keyword>Information Need;Pattern Mining;Web Caching;Web Community;Web Service;Web Usage Mining;</keyword>
+		<organization>null</organization>
+		<abstract>As one of the most important tasks of Web Usage Mining (WUM), web user clustering, which establishes groups of users exhibiting similar browsing patterns, provides useful knowledge to personalized web services and motivates long term research interests in the web community. Most of the existing approaches cluster web users based on the snap- shots of web usage data, although web</abstract>
+	</publication>
+	<publication>
+		<title>XML structural delta mining: Issues and challenges</title>
+		<year>2006</year>
+		<authors>qiankun zhao,sourav s. bhowmick,sanjay kumar madria</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Change Detection;Data Mining;Search Engine;Structural Change;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>NEAR-Miner: Mining Evolution Associations of Web Site Directories for Efficient Maintenance of Web Archives</title>
+		<year>2009</year>
+		<authors>sourav s. bhowmick,wolfgang nejdl</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>567</label>
+		<keyword>Association Rule;Data Mining;Gold Mining;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Web archives preserve the history of autonomous Web sites and are potential gold mines for all kinds of media and business analysts. The most common Web archiving tech- nique uses crawlers to automate the process of collecting Web pages. However, (re)downloading entire collection of pages periodically from a large Web site is unfeasible. In this paper, we take a step</abstract>
+	</publication>
+</person>

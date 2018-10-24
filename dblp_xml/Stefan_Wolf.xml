@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Wolf</FullName>
+	<publication>
+		<title>A flexible environment architecture as a basis for distributed software development</title>
+		<year>1990</year>
+		<authors>burkhard peuschel,wilhelm schäfer</authors>
+		<jconf>International Software Process Workshop</jconf>
+		<label>979</label>
+		<keyword>Distributed Software Development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A consistency model for team cooperation</title>
+		<year>1991</year>
+		<authors>burkhard peuschel,wilhelm schäfer</authors>
+		<jconf>International Software Process Workshop</jconf>
+		<label>979</label>
+		<keyword>Consistency Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Architectural Support for Distributed Process-Centered Software Development Environments</title>
+		<year>1993</year>
+		<authors>burkhard peuschel</authors>
+		<jconf>International Software Process Workshop</jconf>
+		<label>979</label>
+		<keyword>Distributed Processing;Software Development Environment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperation patterns in PSEEs</title>
+		<year>1994</year>
+		<authors>wilhelm schäfer</authors>
+		<jconf>International Software Process Workshop</jconf>
+		<label>979</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperation Patterns for process-centred Software Development Environments</title>
+		<year>1995</year>
+		<authors>wilhelm schäfer</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>979</label>
+		<keyword>Software Development;Software Development Environment;</keyword>
+		<organization>null</organization>
+		<abstract>: This paper focuses on cooperation support inprocess-centred software development environments. Atransaction-based approach is proposed, which supportsand forces the cooperation of software developers by synchronizingthe concurrent execution of development tasks.The proposed transaction concept uses the knowledge of asoftware process to avoid or resolve concurrency conflicts.Cooperation patterns (which correspond to transactiontypes) are provided whichcanbe applied for executing...</abstract>
+	</publication>
+	<publication>
+		<title>A Knowledge-Based Software Development Environment Supporting Cooperative Work</title>
+		<year>1992</year>
+		<authors>burkhard peuschel,wilhelm schäfer</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<label>979</label>
+		<keyword>Cooperative Work;Design Management;Distributed Software Development;Knowledge Base;Software Development;Software Development Environment;Software Process;Software Process Modelling;and Forward;Context Dependent;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>The subject of this paper is the description of a process-centered software development environment called MERLIN which monitors and guides teams of software developers and managers in producing software objects. Software objects (or objects for short) include all sorts of documents like the re- quirements analysis, design, code, user manuals, contracts etc. For each user, MERLIN automatically displays a specific</abstract>
+	</publication>
+	<publication>
+		<title>Software Process Improvement by Business Process Orientation</title>
+		<year>1995</year>
+		<authors>volker gruhn</authors>
+		<jconf>Software Process: Improvement and Practice</jconf>
+		<label>979</label>
+		<keyword>Business Process;Software Process Improvement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

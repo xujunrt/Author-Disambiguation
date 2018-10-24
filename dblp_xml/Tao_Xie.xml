@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Tao Xie</FullName>
+	<publication>
+		<title>ACGT - A Comparative Genomics Tool</title>
+		<year>2003</year>
+		<authors>leroy e. hood</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>1001</label>
+		<keyword>Comparative Genomics;Dna Sequence;Genomic Dna;Sequence Comparison;</keyword>
+		<organization>null</organization>
+		<abstract>Summary: ACGT (a comparative genomics tool) is a genomic DNA sequence comparison viewer and analyzer. It can read a pair of DNA sequences in GenBank, Embl or Fasta formats, with or without a comparison file, and provide users with many options to view and analyze the similarities between the input sequences. It is written in Java and can be run</abstract>
+	</publication>
+	<publication>
+		<title>Approximate Top-k Structural Similarity Search over XML Documents</title>
+		<year>2006</year>
+		<authors>chaofeng sha,xiaoling wang,aoying zhou</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>1002</label>
+		<keyword>Structural Similarity;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SAHA: A Scheduling Algorithm for Security-Sensitive Jobs on Data Grids</title>
+		<year>2006</year>
+		<authors>xiao qin</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>1003</label>
+		<keyword>Data Grid;Data Intensive Application;High Energy Physics;Large Data Sets;Scheduling Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Security-sensitive applications that access and generate large data sets are emerging in various areas such as bioinformatics and high energy physics. Data grids provide data-intensive applications with a large virtual storage framework with unlimited power. However, conventional scheduling algorithms for data grids are inadequate to meet the security needs of data- intensive applications. To remedy this deficiency, we address in</abstract>
+	</publication>
+	<publication>
+		<title>A New Allocation Scheme for Parallel Applications with Deadline and Security Constraints on Clusters</title>
+		<year>2005</year>
+		<authors>xiao qin</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1003</label>
+		<keyword>Information Technology;Job Scheduling;Mathematical Model;Parallel Applications;Security Requirements;Task Allocation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Parallel applications with deadline and security constraints are emerging in various areas like education, information technology, and business. However, conventional job schedulers for clusters generally do not take security requirements of real- time parallel applications into account when making allocation decisions. In this paper, we address the issue of allocating tasks of parallel applications on clusters subject to timing and</abstract>
+	</publication>
+	<publication>
+		<title>Stochastic Scheduling with Availability Constraints in Heterogeneous Clusters</title>
+		<year>2006</year>
+		<authors>xiao qin</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1003</label>
+		<keyword>Heterogeneous Cluster;High Availability;Scheduling Algorithm;Stochastic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>High availability plays an important role in heterogeneous clusters, where processors operate at different speeds and are not continuously available for processing. Existing scheduling algorithms designed for heterogeneous clusters do not factor in availability. We address in this paper the stochastic scheduling problem for heterogeneous clusters with availability constraints. Each node in a heterogeneous cluster is modeled by its speed</abstract>
+	</publication>
+	<publication>
+		<title>Integrating Security Requirements into Scheduling for Real-Time Applications in Grid Computing</title>
+		<year>2005</year>
+		<authors>andrew sung,xiao qin</authors>
+		<jconf>International Conference on Grid Computing and Applications</jconf>
+		<label>1003</label>
+		<keyword>Grid Computing;Real Time Application;Security Requirements;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Security-Oriented Task Scheduler for Heterogeneous Distributed Systems</title>
+		<year>2006</year>
+		<authors>xiao qin</authors>
+		<jconf>High Performance Computing</jconf>
+		<label>1003</label>
+		<keyword>Communication Channels;Distributed System;Free Probability;Heterogeneous Distributed System;Scheduling Algorithm;Security Requirements;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>High quality of security is increasingly critical for applications running on heterogeneous distributed systems, where processors operate at different speeds and communication channels have different bandwidths. Although there are a few scheduling algorithms in the literature for heterogeneous distributed systems, they generally do not take into account of security requirements of applications. In this paper, we propose a novel heuristic</abstract>
+	</publication>
+	<publication>
+		<title>No More Energy-Performance Trade-Off: A New Data Placement Strategy for RAID-Structured Storage Systems</title>
+		<year>2007</year>
+		<authors>yao sun</authors>
+		<jconf>High Performance Computing</jconf>
+		<label>1003</label>
+		<keyword>Data Placement;Energy Conservation;Energy Consumption;Energy Performance;Energy Saving;Real World Application;Storage System;Quick Response;Video On Demand;</keyword>
+		<organization>null</organization>
+		<abstract>Many real-world applications like Video-On-Demand (VOD) and Web servers require prompt responses to access requests. However, with an explosive increase of data volume and the emerging of faster disks with higher power requirements, energy consumption of disk based storage systems has become a salient issue. To achieve energy-conservation and prompt responses simultaneously, in this paper we propose a novel energy-saving</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Disk Layout Optimization for Networked Storage Systems</title>
+		<year>2007</year>
+		<authors>yao sun</authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>1003</label>
+		<keyword>Storage System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SOR: A Static File Assignment Strategy Immune to Workload Characteristic Assumptions in Parallel I/O Systems</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1003</label>
+		<keyword>parallel i/o;Web Proxy;Round Robin;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of statically assigning nonpartitioned files in a parallel I/O system has been extensively investigated. A basic workload characteristic assumption of existing solutions to the problem is that there exists a strong inverse correlation between file access frequency and file size. In other words, the most popular files are typically small in size, while the large files are relatively</abstract>
+	</publication>
+	<publication>
+		<title>Solving Energy-Latency Dilemma: Task Allocation for Parallel Applications in Heterogeneous Embedded Systems</title>
+		<year>2006</year>
+		<authors>xiao qin,mais nijim</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1003</label>
+		<keyword>Digital Signal Processing;Embedded System;Energy Consumption;Energy Saving;Low Latency;Parallel Applications;Task Allocation;Vehicle Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>Parallel applications with energy and low-latency constraints are emerging in various networked embedded systems like digital signal processing, vehicle tracking, and infrastructure monitoring. However, conventional energy-driven task allocation schemes for a cluster of embedded nodes only concentrate on energy-saving when making allocation decisions. Consequently, the length of the schedules could be very long, which is unfavorable or in some situations</abstract>
+	</publication>
+	<publication>
+		<title>SAREC: A Security-Aware Scheduling Strategy for Real-Time Applications on Clusters</title>
+		<year>2005</year>
+		<authors>xiao qin,andrew sung</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1003</label>
+		<keyword>Earliest Deadline First;Real Time Application;Real-time Scheduling;Satisfiability;Scheduling Algorithm;Security Requirements;Simulation Experiment;System Performance;Time Constraint;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Security requirements of security-critical real-time applications must be met in addition to satisfying timing constraints. However, conventional real-time scheduling algorithms ignore the applications' security requirements. In recognition that an increasing number of applications running on clusters demand both real-time performance and security, we investigate the problem of scheduling a set of independent real-time tasks with various security requirements. We propose</abstract>
+	</publication>
+	<publication>
+		<title>AWARDS: an adaptive write strategy for secure local disk systems</title>
+		<year>2006</year>
+		<authors>mais nijim,xiao qin,mohammed i. alghamdi</authors>
+		<jconf>International Performance, Computing, and Communications Conference</jconf>
+		<label>1003</label>
+		<keyword>Security Requirements;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract>Since security is of critical importance for modern storage systems, it is imperative to protect stored data from being tampered or disclosed. Although an increas-ing number of secure storage systems have been devel-oped, there is no way to dynamically choose security services to meet disk requests'掳exible security require-ments. Furthermore, existing security techniques for disk systems are not suitable to guarantee</abstract>
+	</publication>
+	<publication>
+		<title>SHARP: a new real-time scheduling algorithm to improve security of parallel applications on heterogeneous clusters</title>
+		<year>2006</year>
+		<authors>xiao qin,mais nijim</authors>
+		<jconf>International Performance, Computing, and Communications Conference</jconf>
+		<label>1003</label>
+		<keyword>Experimental Study;Free Probability;Heterogeneous Cluster;Parallel Applications;Performance Metric;Process Capability;Real-time Scheduling;Scheduling Algorithm;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of improving quality of security for real-time parallel applica-tions on heterogeneous clusters. We propose a new security-and heterogeneity-driven scheduling algo-rithm (SHARP for short), which strives to maximize the probability that parallel applications are executed in time without any risk of being attacked. Because of high security overhead in existing clusters, an im-portant step in scheduling</abstract>
+	</publication>
+	<publication>
+		<title>Benchmarking the CLI for I/O-Intensive Computing</title>
+		<year>2005</year>
+		<authors>xiao qin,ahalya nathan,vijaya k. tadepalli</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1003</label>
+		<keyword>Perforation;trace-driven simulation;Virtual Machine;Common Language Infrastructure;</keyword>
+		<organization>null</organization>
+		<abstract>Common Language Infrastructure, or CLI, is a stan- dardized virtual machine, which increasingly becomes popular on a wide range of platforms. In this paper we de- veloped three I/O-intensive benchmarks for the CLI us- ing various techniques. The first benchmark is designed in accordance with an application behavioural model that rebuilds the behavior of real world I/O-intensive applica- tions. The</abstract>
+	</publication>
+	<publication>
+		<title>Sacrificing Reliability for Energy Saving: Is it worthwhile for disk arrays?</title>
+		<year>2008</year>
+		<authors>yao sun</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1003</label>
+		<keyword>Disk Array;Energy Conservation;Energy Consumption;Energy Saving;Reliability Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>Mainstream energy conservation schemes for disk arrays inherently affect the reliability of disks. A thorough understanding of the relationship between energy saving techniques and disk reliability is still an open problem, which prevents effective design of new energy saving techniques and application of existing approaches in reliability-critical environments. As one step towards solving this problem, this paper presents an empirical</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Task Scheduling with Security Awareness in Real-Time Systems</title>
+		<year>2005</year>
+		<authors>andrew sung,xiao qin</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1003</label>
+		<keyword>Aircraft Control;Dynamic Scheduling;Heuristic Algorithm;Quantitative Evaluation;Real Time Application;Resource Utilization;Security Requirements;Simulation Experiment;System Performance;Task Scheduling;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>An increasing number of real-time applications, such as aircraft control and medical electronics systems, require high quality of security to assure confidentiality, authenticity and integrity of information. However, most existing algorithms for scheduling independent tasks in real-time systems do not adequately consider security requirements of real-time tasks. In recognition of this problem we propose a novel dynamic scheduling algorithm with</abstract>
+	</publication>
+	<publication>
+		<title>Integrating a performance model in self-managing computer systems under mixed workload conditions</title>
+		<year>2005</year>
+		<authors>mais nijim,xiao qin</authors>
+		<jconf>Information Reuse and Integration</jconf>
+		<label>1003</label>
+		<keyword>Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards a Security Service Integration Framework for Distributed Real-Time Systems</title>
+		<year>2005</year>
+		<authors>xiao qin</authors>
+		<jconf>ISCA International Conference on Parallel and Distributed Computing Systems</jconf>
+		<label>1003</label>
+		<keyword>Distributed Real-time System;Distributed System;Dynamic Change;Middleware;Parallel and Distributed System;Real Time Application;Security Requirements;Service Integration;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time applications with security requirements are increasingly emerging in parallel and distributed systems. However, the complexities and specialities of diverse security mechanisms dissuade users from employing existing security services for their applications. To effectively tackle this problem, in this paper we propose a security middleware (SMW) framework from which security-sensitive real-time applications are enabled to exploit a variety of security</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Security of Real-Time Applications on Grids Through Dynamic Scheduling</title>
+		<year>2005</year>
+		<authors>xiao qin</authors>
+		<jconf>Job Scheduling Strategies for Parallel Processing</jconf>
+		<label>1003</label>
+		<keyword>Dynamic Scheduling;Integrity Checking;Mathematical Model;Real Time Application;Real-time Scheduling;Scheduling Algorithm;Security Requirements;System Performance;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time applications with security requirements are emerging in various areas including government, education, and business. The security sensitive real-time applications can take full advantage of a grid environment that allows grid participants to exercise a fine-grained control and allocation of computational resources. However, conventional real-time scheduling algorithms failed to fulfil the security requirements of real-time applications. In this paper we</abstract>
+	</publication>
+	<publication>
+		<title>PEARL: Performance, Energy, and Reliability Balanced Dynamic Data Redistribution for Next Generation Disk Arrays</title>
+		<year>2008</year>
+		<authors>yao sun</authors>
+		<jconf>Modeling, Analysis, and Simulation On Computer and Telecommunication Systems</jconf>
+		<label>1003</label>
+		<keyword>Disk Array;Dynamic Data;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PARM: a power-aware message scheduling algorithm for real-time wireless networks</title>
+		<year>2005</year>
+		<authors>mohammed i. alghamdi,xiao qin</authors>
+		<jconf>International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems</jconf>
+		<label>1003</label>
+		<keyword>Energy Efficient;Energy Optimization;Optimal Scheduling;Power Consumption;Real Time Application;Scheduling Algorithm;Wireless Network;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time applications in wireless networks are emerging in multimedia product and design. However, conventional real-time message scheduling algorithms generally do not take energy efficiency into account when making scheduling decisions. In this paper, we address the issue of scheduling real-time messages in wireless networks subject to timing and power constraints. A novel message scheduling scheme, or PARM (Power-aware Real-time Message),</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Relocation of Hybrid Tasks: A Complete Design Flow</title>
+		<year>2007</year>
+		<authors>marcelo götz,florian dittmann</authors>
+		<jconf>Reconfigurable Communication-centric Systems-on-Chip</jconf>
+		<label>1003</label>
+		<keyword>Design Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security-driven scheduling for data-intensive applications on grids</title>
+		<year>2007</year>
+		<authors>xiao qin</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1003</label>
+		<keyword>Data Intensive Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stochastic scheduling for multiclass applications with availability requirements in heterogeneous clusters</title>
+		<year>2008</year>
+		<authors>xiao qin</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>1003</label>
+		<keyword>Heterogeneous Cluster;Stochastic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Security Middleware Model for Real-Time Applications on Grids</title>
+		<year>2006</year>
+		<authors>xiao qin</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>1003</label>
+		<keyword>Middleware;Real Time Application;Real-time Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time scheduling with quality of security constraints</title>
+		<year>2006</year>
+		<authors>xiao qin,andrew sung,man lin,laurence tianruo yang</authors>
+		<jconf>International Journal of High Performance Computing and Networking</jconf>
+		<label>1003</label>
+		<keyword>Real-time Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance evaluation of a new scheduling algorithm for distributed systems with security heterogeneity</title>
+		<year>2007</year>
+		<authors>xiao qin</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<label>1003</label>
+		<keyword>Distributed System;Experimental Study;Heterogeneous Distributed System;Performance Evaluation;Scheduling Algorithm;Security Requirements;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract High quality  of  security ,is  increasingly ,critical  for  applications  running ,on  heterogeneous, distributed systems.  However,  existing  scheduling  algorithms  for  heterogeneous  distributed  systems  disregard security  requirements  of  applications.  To  address  this  issue,  in  this  paper,  we  introduce  security heterogeneity concept for our scheduling model in the context of distributed systems. Based onthe concept,  we  propose  a  novel  heuristic  scheduling  algorithm,</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic relocation of hybrid tasks: Strategies and methodologies</title>
+		<year>2009</year>
+		<authors>marcelo götz,florian dittmann</authors>
+		<jconf>Microprocessors and Microsystems</jconf>
+		<label>1003</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance analysis of an admission controller for CPU and I/O-intensive applications in self-managing computer systems</title>
+		<year>2005</year>
+		<authors>mais nijim,xiao qin</authors>
+		<jconf>Operating Systems Review</jconf>
+		<label>1003</label>
+		<keyword>Analytical Model;High Performance;Markov Chain Model;Performance Analysis;Performance Model;Storage Capacity;</keyword>
+		<organization>null</organization>
+		<abstract>With rapid advances in processing power, network bandwidth, and storage capacity, computer systems are increasingly becoming extremely complex. Consequently, it becomes expensive and difficult for human beings to manually manage complex computer systems. This problem can be effectively tackled by self-managing computer systems, which are intended to meet high performance requirements in a dynamic computing environment. In this paper, we</abstract>
+	</publication>
+	<publication>
+		<title>An Availability-Aware Task Scheduling Strategy for Heterogeneous Systems</title>
+		<year>2008</year>
+		<authors>xiao qin</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>1003</label>
+		<keyword>Heterogeneous Systems;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SEA: A Striping-Based Energy-Aware Strategy for Data Placement in RAID-Structured Storage Systems</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>1003</label>
+		<keyword>Data Placement;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scheduling Security-Critical Real-Time Applications on Clusters</title>
+		<year>2006</year>
+		<authors>xiao qin</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>1003</label>
+		<keyword>Earliest Deadline First;Flight Control;Indexing Terms;Real Time Application;Real-time Scheduling;Scheduling Algorithm;Security Requirements;Time Constraint;First Come First Serve;Least Laxity First;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Security-critical real-time applications such as military aircraft flight control systems have mandatory security requirements in addition to stringent timing constraints. Conventional real-time scheduling algorithms, however, either disregard applications' security needs and thus expose the applications to security threats, or run applications at inferior security levels without optimizing security performance. In recognition that many applications running on clusters demand both real-time</abstract>
+	</publication>
+	<publication>
+		<title>An Energy-Delay Tunable Task Allocation Strategy for Collaborative Applications in Networked Embedded Systems</title>
+		<year>2008</year>
+		<authors>xiao qin</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>1003</label>
+		<keyword>Collaborative Application;Critical Parameter;Embedded System;Energy Consumption;Energy Saving;Heterogeneous Network;Mathematical Model;Task Allocation;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, Collaborative applications with energy and low-delay constraints are emerging in various networked embedded systems like wireless sensor networks and multimedia terminals. Conventional energy-aware task allocation schemes developed for collaborative applications only concentrated on energy savings when making allocation decisions. Consequently, the length of the schedules generated by such allocation schemes could be very long, which is unfavorable or, in</abstract>
+	</publication>
+	<publication>
+		<title>Improving security for periodic tasks in embedded systems through scheduling</title>
+		<year>2007</year>
+		<authors>xiao qin</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>1003</label>
+		<keyword>Embedded System;Flight Control;Periodic Tasks;Scheduling Algorithm;Security Requirements;Time Constraint;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>While many scheduling algorithms for periodic tasks ignore security requirements posed by sen- sitive applications and are, consequently, unable to perform properly in embedded systems with security constraints, in this paper, we present an approach to scheduling periodic tasks in em- bedded systems subject to security and timing constraints. We design a necessary and sufficient feasibility check for a set</abstract>
+	</publication>
+	<publication>
+		<title>Modeling and improving security of a local disk system for write-intensive workloads</title>
+		<year>2006</year>
+		<authors>mais nijim,xiao qin</authors>
+		<jconf>ACM Transactions on Storage</jconf>
+		<label>1003</label>
+		<keyword>Analytical Model;Security Requirements;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract>Since security is of critical importance for modern storage systems, it is imperative to protect stored data from being tampered with or disclosed. Although an increasing number of secure storage systems have been developed, there is no way to dynamically choose security services to meet disk requests' flexible security requirements. Furthermore, existing security techniques for disk systems are not suitable</abstract>
+	</publication>
+	<publication>
+		<title>A file assignment strategy independent of workload characteristic assumptions</title>
+		<year>2009</year>
+		<authors>yao sun</authors>
+		<jconf>ACM Transactions on Storage</jconf>
+		<label>1003</label>
+		<keyword>Load Balance;parallel i/o;Web Proxy;Round Robin;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of statically assigning nonpartitioned files in a parallel I/O system has been extensively investigated. A basic workload characteristic assumption of most existing solutions to the problem is that there exists a strong inverse correlation between file access frequency and file size. In other words, the most popular files are typically small in size, while the large files are</abstract>
+	</publication>
+	<publication>
+		<title>Security-Aware Resource Allocation for Real-Time Parallel Jobs on Homogeneous and Heterogeneous Clusters</title>
+		<year>2008</year>
+		<authors>xiao qin</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>1003</label>
+		<keyword>Heterogeneous Cluster;Resource Allocation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Data Reallocation in Hybrid Disk Arrays</title>
+		<year>2010</year>
+		<authors>yao sun</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>1003</label>
+		<keyword>Disk Array;Dynamic Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Reinforcement Learning Approach for Host-Based Intrusion Detection Using Sequences of System Calls</title>
+		<year>2005</year>
+		<authors>xin xu</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>1004</label>
+		<keyword>Intrusion Detection;Reinforcement Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

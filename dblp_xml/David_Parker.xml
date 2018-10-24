@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Parker</FullName>
+	<publication>
+		<title>Automating the Failure Modes and Effects Analysis of Safety Critical Systems</title>
+		<year>2004</year>
+		<authors>yiannis papadopoulos,christian grante</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>200</label>
+		<keyword>Safety Critical System;Failure Mode and Effect Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimisation of Networked Control Systems Using Model-based Safety Analysis Techniques</title>
+		<year>2007</year>
+		<authors>yiannis papadopoulos</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>200</label>
+		<keyword>Networked Control System;Safety Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Outline of an Architecture-Based Method for Optimizing Dependability Attributes of Software-Intensive Systems</title>
+		<year>2006</year>
+		<authors>lars grunske,peter a. lindsay,egor bondarev,yiannis papadopoulos</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>200</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Method and Tool Support for Model-based Semi-automated Failure Modes and Effects Analysis of Engineering Designs</title>
+		<year>2004</year>
+		<authors>yiannis papadopoulos,christian grante</authors>
+		<jconf>Australian Workshop on Safety Critical Systems and Software</jconf>
+		<label>200</label>
+		<keyword>Engineering Design;Interconnected System;Safety Analysis;System Modeling;Tool Support;Failure Mode and Effect Analysis;Fault Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Limitations in scope but also difficulties with the efficiency and scalability of present algorithms se em to have so far limited the industrial uptake of existi ng automated FMEA technology. In this paper, we describe a new tool for the automatic synthesis of FMEAs which builds upon our earlier work on fault tree synthesi s. The tool constructs FMEAs from</abstract>
+	</publication>
+	<publication>
+		<title>UTIS (Urban Transportation Information System) a geo-spatial transport database</title>
+		<year>2000</year>
+		<authors>adam etches,sean ince,philip james</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>201</label>
+		<keyword>Information System;Spatial Data Type;Transport System;Urban Transport;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes the design of an extended DBMS as required for integrated management of urban transportation systems. We introduce an extended `lowest common denominator' database model that supports a wide and varied range of urban transport tasks, which include management, simulation and planning. This paper is the result of research being carried out and is formulated by database expertise</abstract>
+	</publication>
+</person>

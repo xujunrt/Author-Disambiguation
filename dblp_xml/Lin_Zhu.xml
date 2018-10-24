@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lin Zhu</FullName>
+	<publication>
+		<title>Mining Investment Venture Rules from Insurance Data Based on Decision Tree</title>
+		<year>2003</year>
+		<authors>tian jinlan,suqin zhang,ben li</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>566</label>
+		<keyword>Decision Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallelism of Association Rules Mining and Its Application in Insurance Operations</title>
+		<year>2004</year>
+		<authors>tian jinlan,suqin zhang,gang huang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>566</label>
+		<keyword>Association Rule Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

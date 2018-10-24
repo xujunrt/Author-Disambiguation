@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gaurav Khanna</FullName>
+	<publication>
+		<title>A hypergraph partitioning based approach for scheduling of tasks with batch-shared I/O</title>
+		<year>2005</year>
+		<authors>nagavijayalakshmi vydyanathan,tahsin m. kurç,ümit v. çatalyürek,pete wyckoff,joel h. saltz,p. sadayappan</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>250</label>
+		<keyword>Biomedical Imaging;Data Analysis;Domain Analysis;Experimental Evaluation;Hypergraph Partitioning;Remote Sensing Data;Storage System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a novel, hypergraph partitioning based strategy to schedule multiple data analysis tasks with batch- shared I/O behavior. This strategy formulates the sharing of files among tasks as a hypergraph to minimize the I/O over- heads due to transferring of the same set of files multiple times and employs a dynamic scheme for file transfers to re- duce</abstract>
+	</publication>
+	<publication>
+		<title>Scheduling File Transfers for Data-Intensive Jobs on Heterogeneous Clusters</title>
+		<year>2007</year>
+		<authors>ümit v. çatalyürek,tahsin m. kurç,p. sadayappan,joel h. saltz</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>250</label>
+		<keyword>Heterogeneous Cluster;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Use of PVFS for Efficient Execution of Jobs with Pipeline-Shared I/O</title>
+		<year>2004</year>
+		<authors>nagavijayalakshmi vydyanathan,tahsin m. kurç,ümit v. çatalyürek,pete wyckoff,joel h. saltz,p. sadayappan</authors>
+		<jconf>Grid Computing</jconf>
+		<label>250</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-hop path splitting and multi-pathing optimizations for data transfers over shared wide-area networks using gridFTP</title>
+		<year>2008</year>
+		<authors>ümit v. çatalyürek,tahsin m. kurç,p. sadayappan,joel h. saltz,rajkumar kettimuthu,ian t. foster</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>250</label>
+		<keyword>Data Transfer;Scheduling Algorithm;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose to employ two optimizations - multi-hop path splitting and multi-pathing - to improve the performance of data transfers over shared public net- works. We present a path determination algorithm which integrates the aforesaid optimizations in order to improve the performance of single file transfers. Finally, we develop a file transfer scheduling algorithm based on this</abstract>
+	</publication>
+	<publication>
+		<title>Task Scheduling and File Replication for Data-Intensive Jobs with Batch-shared I/O</title>
+		<year>2006</year>
+		<authors>nagavijayalakshmi vydyanathan,ümit v. çatalyürek,tahsin m. kurç,sriram krishnamoorthy,p. sadayappan,joel h. saltz</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>250</label>
+		<keyword>Data Replication;Integer Program;Task Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of efficient execu- tion of a batch of data-intensive tasks with batch-shared I/O behavior, on coupled storage and compute clusters. Two scheduling schemes are proposed: 1) a 0-1 Integer Programming (IP) based approach, which couples task scheduling and data replication, and 2) a bi-level hy- pergraph partitioning based heuristic approach (BiPar- tition), which decouples task</abstract>
+	</publication>
+	<publication>
+		<title>A dynamic scheduling approach for coordinated wide-area data transfers using GridFTP</title>
+		<year>2008</year>
+		<authors>ümit v. çatalyürek,tahsin m. kurç,rajkumar kettimuthu,p. sadayappan,joel h. saltz</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>250</label>
+		<keyword>Data Transfer;Dynamic Change;Dynamic Scheduling;Resource Availability;Scientific Application;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Many scientific applications need to stage large vol- umes of files from one set of machines to another set of machines in a wide-area network. Efficient execu- tion of such data transfers needs to take into account the heterogeneous nature of the environment and dy- namic availability of shared resources. This paper pro- poses an algorithm that dynamically schedules a</abstract>
+	</publication>
+	<publication>
+		<title>A Data Locality Aware Online Scheduling Approach for I/O-Intensive Jobs with File Sharing</title>
+		<year>2006</year>
+		<authors>ümit v. çatalyürek,tahsin m. kurç,p. sadayappan,joel h. saltz</authors>
+		<jconf>Job Scheduling Strategies for Parallel Processing</jconf>
+		<label>250</label>
+		<keyword>Biomedical Image Analysis;Data Analysis;Data Locality;Dynamic Scheduling;File Sharing;Job Scheduling;Online Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>Many scientific investigations have to deal with large amounts of data from simulations and experiments. Data analysis in such inves- tigations typically involves extraction of subsets of data, followed by computations performed on extracted data. Scheduling in this context requires ecient utilization of the computational, storage and network resources to optimize response time. The data-intensive nature of such applications necessitates</abstract>
+	</publication>
+	<publication>
+		<title>Using overlays for efficient data transfer over shared wide-area networks</title>
+		<year>2008</year>
+		<authors>ümit v. çatalyürek,tahsin m. kurç,rajkumar kettimuthu,p. sadayappan,ian t. foster,joel h. saltz</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>250</label>
+		<keyword>Data Intensive Application;Data Transfer;Overlay Network;Performance Improvement;Resource Availability;Scheduling Algorithm;Service Oriented Architecture;File Transfer Protocol;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Data-intensive applications frequently transfer large am ounts of data over wide-area networks. The performance achieved in such settings can often be improved by routing data via intermediate nodes chosen to increase aggregate bandwidth. We explore the benefits of overlay network approa ches by designing and implementing a service-oriented architecture that incorporates two key optimizations - mul ti-hop path splitting and</abstract>
+	</publication>
+</person>

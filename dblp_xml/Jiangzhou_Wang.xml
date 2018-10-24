@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jiangzhou Wang</FullName>
+	<publication>
+		<title>Spectral Efficiency of Distributed MIMO Cellular Systems in a Composite Fading Channel</title>
+		<year>2008</year>
+		<authors>dongming wang,xiaohu you,yan wang,xiaoyun hou</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>389</label>
+		<keyword>Cellular System;Fading Channel;Spectral Efficiency;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive channel and power allocation of downlink multi-user MC-CDMA systems</title>
+		<year>2009</year>
+		<authors>jun-bo wang,ming chen</authors>
+		<jconf>Computers &amp; Electrical Engineering</jconf>
+		<label>389</label>
+		<keyword>Power Allocation;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cross-layer packet scheduling for downlink multiuser OFDM systems</title>
+		<year>2009</year>
+		<authors>jun-bo wang,huamin chen,ming chen</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<label>389</label>
+		<keyword>Cross Layer;Packet Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

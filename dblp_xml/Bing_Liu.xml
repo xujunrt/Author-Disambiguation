@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bing Liu</FullName>
+	<publication>
+		<title>Exploring complex miRNA-mRNA interactions with Bayesian networks by splitting-averaging strategy</title>
+		<year>2009</year>
+		<authors>jiuyong li,anna tsykin,lin liu,arti b. gaur,gregory j. goodall</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>88</label>
+		<keyword>Biological Process;Expression Profile;Gene Expression;Heterogeneous Data;microrna;Statistical Significance;Structure Learning;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: microRNAs (miRNAs) regulate target gene expression by controlling their mRNAs post-transcriptionally. Increasing evidence demonstrates that miRNAs play important roles in various biological processes. However, the functions and precise regulatory mechanisms of most miRNAs remain elusive. Current research suggests that miRNA regulatory modules are complicated, including up-, down-, and mix-regulation for different physiological conditions. Previous computational approaches for discovering miRNA-mRNA</abstract>
+	</publication>
+	<publication>
+		<title>Discovery of functional miRNA-mRNA regulatory modules with computational methods</title>
+		<year>2009</year>
+		<authors>jiuyong li,anna tsykin</authors>
+		<jconf>Journal of Biomedical Informatics</jconf>
+		<label>88</label>
+		<keyword>Computational Method;Gene Regulation;Prostate Cancer;Regulatory Network;</keyword>
+		<organization>null</organization>
+		<abstract>The identication of miRNAs and their target mRNAs and the con- struction of their regulatory networks may give new insights to biological procedures. This study proposes a computational method to discover the functional miRNA-mRNA regulatory modules (FMRMs), that is, groups of miRNAs and their target mRNAs that are believed to participate coop- eratively in post-transcriptional gene regulation under specic conditions.</abstract>
+	</publication>
+	<publication>
+		<title>Measuring the meaning in time series clustering of text search queries</title>
+		<year>2006</year>
+		<authors>rosie jones,kristina lisa klinkner</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>89</label>
+		<keyword>Machine Learning;Query Log Analysis;Query Logs;Semantic Similarity;Time Series;Time Series Analysis;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>We use a combination of proven methods from time series analysis and machine learning to explore the relationship between temporal and semantic similarity in web query logs; we discover that the combination of correlation and cycles is a good, but not perfect, sign of semantic relationship.</abstract>
+	</publication>
+	<publication>
+		<title>Accelerated Bundle Adjustment in Multiple-View Reconstruction</title>
+		<year>2003</year>
+		<authors>maoyuan yu,dennis maier,reinhard männer</authors>
+		<jconf>Knowledge-Based Intelligent Information &amp; Engineering Systems</jconf>
+		<label>90</label>
+		<keyword>Bundle Adjustment;Cost Function;Maximum Likelihood Estimate;Missing Data;Multiple Views;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Bundle adjustment is one of the main tools used for multi- ple view reconstruction. It seeks to refine the estimate of the 3D scene and the view parameter that minimize a certain cost function, e.g. the overall reprojection error. In this paper we propose a new algorithm to simplify the computation of the reprojection error for multiple views. With this</abstract>
+	</publication>
+	<publication>
+		<title>An Efficient and Accurate Method for 3D-Point Reconstruction from Multiple Views</title>
+		<year>2005</year>
+		<authors>maoyuan yu,dennis maier,reinhard männer</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>90</label>
+		<keyword>Bundle Adjustment;Iterative Algorithm;Maximum Likelihood Estimate;Measurement Error;Multiple Views;Structural Estimation;Synthetic Data;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we consider the problem of finding the position of a point in space given its projections in multiple images taken by cameras with known calibration and pose. Ideally the 3D-point can be obtained as the intersection of multiple known rays in space. However, with noise the rays will not meet at a single 3D-point generally. Therefore, it</abstract>
+	</publication>
+	<publication>
+		<title>A Grid-Based System for the Multi-reservoir Optimal Scheduling in Huaihe River Basin</title>
+		<year>2006</year>
+		<authors>huaping chen,guoyi zhang,shijin xu</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>91</label>
+		<keyword>Optimal Scheduling;River Basin;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Adaptive Schedule Medium Access Control for Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>lin zhang,huimin zhang</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>92</label>
+		<keyword>Medium Access Control;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MAC Performance and Improvement in Mobile Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>ke yu,lin zhang,huimin zhang</authors>
+		<jconf>Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing</jconf>
+		<label>92</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Software Requirements Specification of the IUfA's UUIS -- a Team 4 COMP5541-W10 Project Approach</title>
+		<year>2010</year>
+		<authors>ali alhazmi,abdulrahman al-sharawi,deyvisson oliveira,kanj sobh,max mayantz,robin de bled,yu ming zhang</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>93</label>
+		<keyword>Use Case;Software Requirements Specification;</keyword>
+		<organization>null</organization>
+		<abstract>This document presents the business requirement of Unified University Inventory System (UUIS) in Technology-independent manner. All attempts have describing the requirements in this document. Very minimal and commonly understood Technical terminology is used. Use case approach is used in modeling the business requirements in this document.</abstract>
+	</publication>
+	<publication>
+		<title>Software Design Document, Testing, Deployment and Configuration Management, and User Manual of the UUIS -- a Team 4 COMP5541-W10 Project Approach</title>
+		<year>2010</year>
+		<authors>kanj sobh,deyvisson oliveira,max mayantz,yu ming zhang,ali alhazmi,robin de bled,abdulrahman al-sharawi</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>93</label>
+		<keyword>Configuration Management;Reference Point;Software Design;Web Portal;</keyword>
+		<organization>null</organization>
+		<abstract>This document provides a description of the technical design for Unified University Inventory System - Web Portal. This document's primary purpose is to describe the technical vision for how business requirements will be realized. This document provides an architectural overview of the system to depict different aspects of the system. This document also functions as a foundational reference point for</abstract>
+	</publication>
+</person>

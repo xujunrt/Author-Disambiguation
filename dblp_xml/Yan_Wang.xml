@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yan Wang</FullName>
+	<publication>
+		<title>Optimal Social Trust Path Selection in Complex Social Networks</title>
+		<year>2010</year>
+		<authors>guanfeng liu,mehmet a. orgun</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1147</label>
+		<keyword>Path Selection;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Accountability Computing for E-society</title>
+		<year>2010</year>
+		<authors>kwei-jay lin,joe zou</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>1147</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quality of trust for social trust path selection in complex social networks</title>
+		<year>2010</year>
+		<authors>guanfeng liu,mehmet a. orgun</authors>
+		<jconf>Autonomous Agents &amp; Multiagent Systems/Agent Theories, Architectures, and Languages</jconf>
+		<label>1147</label>
+		<keyword>Path Selection;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fuzzy Regression Based Trust Prediction in Service-Oriented Applications</title>
+		<year>2009</year>
+		<authors>lei li,vijay varadharajan</authors>
+		<jconf>Autonomic and Trusted Computing</jconf>
+		<label>1147</label>
+		<keyword>Fuzzy Regression;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trust Inference in Complex Trust-Oriented Social Networks</title>
+		<year>2009</year>
+		<authors>guanfeng liu,mehmet a. orgun</authors>
+		<jconf>IEEE International Conference on Computational Science and Engineering</jconf>
+		<label>1147</label>
+		<keyword>Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Several Structures for Protecting the Routes of Mobile Agents Dispatched in Parallel</title>
+		<year>2002</year>
+		<authors>kian-lee tan,xiaolin pang</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>1147</label>
+		<keyword>Malicious Host;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract>For mobile agents to be effective in practice, they have to be securely and efficiently deployed. In this paper, we propose and discuss several route structures and methods for mobile agents that are dispatched in parallel. These schemes can protect the route information against malicious hosts and facilitate the dispatching of a large number of agents in parallel efficiently. Under</abstract>
+	</publication>
+	<publication>
+		<title>A Parallel Dispatch Model with Secure and Robust Routes for Mobile Agents</title>
+		<year>2002</year>
+		<authors>kian-lee tan,xiaolin pang</authors>
+		<jconf>Electronic Commerce and Web Technologies</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interaction Trust Evaluation in Decentralized Environments</title>
+		<year>2004</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>Electronic Commerce and Web Technologies</jconf>
+		<label>1147</label>
+		<keyword>P2P;</keyword>
+		<organization>null</organization>
+		<abstract>In decentralized environments, such as P2P, as lack of central management, the trust issue is prominently important for interactions between unfamiliar peers. This paper flrst presents a probabilistic ap- proach for evaluating the interaction trust of unfamiliar peers according to their interaction history. In addition, after an interaction, peers can evaluate each other and modify the trust status. Based on</abstract>
+	</publication>
+	<publication>
+		<title>Two-Phase Peer Evaluation in P2P E-Commerce Environments</title>
+		<year>2005</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>e-Technology, e-Commerce and e-Service</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;P2P;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mobile Autonomous Agent-based Secure Payment Protocol Supporting Multiple Payments</title>
+		<year>2005</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>International Agent Technology Conference</jconf>
+		<label>1147</label>
+		<keyword>Autonomous Agent;E Commerce;Malicious Host;Mobile Agent;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In agent based e-commerce applications, it is challenge- able to employ,one mobile agent to complete,all transac- tions including payments,due to the security consideration. In this paper, we propose a new agent-assisted secure pay- ment protocol, which is based on SET payment protocol and aims at enabling one dispatched consumer-agent,to au- tonomously,complete,the payment,on behalf of the card- holder with multiple</abstract>
+	</publication>
+	<publication>
+		<title>Trust and Risk Evaluation of Transactions with Different Amounts in Peer-to-Peer E-commerce Environments</title>
+		<year>2006</year>
+		<authors>fu-ren lin</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;P2P;Peer To Peer;Risk Evaluation;Impact Factor;</keyword>
+		<organization>null</organization>
+		<abstract>As Peer-to-Peer (P2P) e-commerce environments lack central management, prior to new transactions with an un- known peer, the trust evaluation becomes a very important concern, which relies on the transaction history data. Tra- ditionally the evaluation process is based on other peers' recommendations neglecting transaction amounts. This may lead to the bias to the transaction trust evaluation and risk the</abstract>
+	</publication>
+	<publication>
+		<title>The Design of A Rule-based and Event-driven Trust Management Framework</title>
+		<year>2007</year>
+		<authors>duncan s. wong,kwei-jay lin,vijay varadharajan</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;Evaluation Method;Service Orientation;Service Quality;Trust Management;Trusted Computing;Rule Based;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In both E-Commerce (EC) and Service-Oriented Com- puting (SOC) environments, sellers or service providers interact with customers,or service clients for services or transactions. From the point view of customers or service clients, the trust status of the seller or service provider is a critical issue to consider, particularly when the seller or service provider is unknown to them. Typically,</abstract>
+	</publication>
+	<publication>
+		<title>A Quantitative Service Accountability Model</title>
+		<year>2009</year>
+		<authors>joe zou,christopher j. pavlovski,christopher de vaney</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>1147</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Secure Agent-Mediated Payment Protocol</title>
+		<year>2002</year>
+		<authors>xiaolin pang,kian-lee tan,jian ren</authors>
+		<jconf>International Conference on Information and Communication Security</jconf>
+		<label>1147</label>
+		<keyword>Payment System;Software Agent;Threshold Scheme;Trusted Third Party;Secure Electronic Transaction;</keyword>
+		<organization>null</organization>
+		<abstract>While software agents have been employed in payment protocols, they are largely passive entities, i.e., they participate in the payment protocol but do not make decision. In this pape r, we propose an agent-assisted payment protocol called LITESET/A+ that empowers the payment agent (PA) to perform encryption operation for its owner. This is realized by introducing a Trusted Third Party</abstract>
+	</publication>
+	<publication>
+		<title>Secure Route Structures for the Fast Dispatch of Large-Scale Mobile Agents</title>
+		<year>2003</year>
+		<authors>chi-hung chi,tieyan li</authors>
+		<jconf>International Conference on Information and Communication Security</jconf>
+		<label>1147</label>
+		<keyword>Large Scale;Mobile Agent;Public Key Encryption;Secure Routing;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>For the application of large-scale mobile agents in a dis- tributed environment, where a large number of computers are connected together to enable the large-scale sharing of data and computing re- sources, security and e-ciency are of great concern. In this paper, we present secure route structures and corresponding protocols for mobile agents dispatched in binary to protect the dispatch</abstract>
+	</publication>
+	<publication>
+		<title>Dispatching Mobile Agents with Secure Routes in Parallel</title>
+		<year>2001</year>
+		<authors>kian-lee tan</authors>
+		<jconf>International Conference on Information and Communication Security</jconf>
+		<label>1147</label>
+		<keyword>Distributed Environment;Mobile Agent;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract>In a distributed environment like the Internet, mobile agents can be employed to perform autonomous tasks such as searching and negotiating. However, for mobile agents to be widely accepted, performance and security issues on their use have to be addressed. In this paper, we propose a parallel dispatch model with secure route structures for protecting the dispatch routes of agents.</abstract>
+	</publication>
+	<publication>
+		<title>A New Security Scheme for Integration of Mobile Agents and Web Services</title>
+		<year>2007</year>
+		<authors>junqi zhang,vijay varadharajan</authors>
+		<jconf>International Conference on Internet and Web Applications and Services</jconf>
+		<label>1147</label>
+		<keyword>Authentication Protocol;Certificate Authority;Key Management;Mobile Agent;Mobile Device;Open Standard;Public Key Infrastructure;Service Oriented Architecture;Web Service;Web Services Security;Agent Based;Mobile Agent Technology;</keyword>
+		<organization>null</organization>
+		<abstract>Web services specification provides an open standard for the distributed service oriented architecture. It is widely used in Internet and pervasive networks supporting wire- less mobile devices. A mobile agent is a composition of com- puter software and data which is able to migrate from one host to another autonomously and continue its execution on the destination host. Mobile agent</abstract>
+	</publication>
+	<publication>
+		<title>Trust-Oriented Composite Service Selection and Discovery</title>
+		<year>2009</year>
+		<authors>lei li,ee-peng lim</authors>
+		<jconf>International Conference on Service Oriented Computing</jconf>
+		<label>1147</label>
+		<keyword>Service Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Trust Vector Approach to Service-Oriented Applications</title>
+		<year>2008</year>
+		<authors>lei li</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1147</label>
+		<keyword>Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Representational State Transfer to Accountable State Transfer Architecture</title>
+		<year>2010</year>
+		<authors>joe zou,jing mei</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1147</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancing Grid Security with Trust Management</title>
+		<year>2004</year>
+		<authors>ching lin,vijay varadharajan,vineet pruthi</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1147</label>
+		<keyword>Grid Security;Trust Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Heuristic Algorithm for Trust-Oriented Service Provider Selection in Complex Social Networks</title>
+		<year>2010</year>
+		<authors>guanfeng liu,mehmet a. orgun,ee-peng lim</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1147</label>
+		<keyword>Heuristic Algorithm;Social Network;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trust Evaluation in Composite Services Selection and Discovery</title>
+		<year>2009</year>
+		<authors>lei li</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1147</label>
+		<keyword>Service Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trust2: Developing Trust in Peer-to-Peer Environments</title>
+		<year>2005</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>1147</label>
+		<keyword>Evaluation Model;P2P;Peer To Peer;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>In peer-to-peer (P2P) environments, a peer needs to in- teract with unknown peers for the services provided. This requires the trust evaluation prior to and posterior to in- teractions. This paper presentsTrust2: a novel and dy- namic peer trust evaluation model, which aims to measure the credibility of peers' recommendations, and thus to fil- ter noise in responses and obtain</abstract>
+	</publication>
+	<publication>
+		<title>A Metamodeling Framework to Support Accountability in Business Process Modeling</title>
+		<year>2009</year>
+		<authors>joe zou,christopher de vaney</authors>
+		<jconf>Information Systems Technology and its Applications</jconf>
+		<label>1147</label>
+		<keyword>Business Process Model;meta model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dispatching Multiple Mobile Agents in Parallel for Visiting E-Shops</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>1147</label>
+		<keyword>Large Scale;Mobile Agent;Parallel Processing;Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>The mobile agent approach is suitable for deploying large-scale parallel processing over distributed hosts. However, if the number of mobile agents is very large and the dispatch is processed in a serial way, it can become a bottleneck that impacts the efficiency as a whole. In this paper, we first briefly present a mobile agent based framework for Internet marketplaces</abstract>
+	</publication>
+	<publication>
+		<title>Building Internet Marketplaces on the Basis of Mobile Agents for Parallel Processing</title>
+		<year>2002</year>
+		<authors>jian ren</authors>
+		<jconf>World Wide Web</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;Parallel Processing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a framework of Internet marketplaces on the basis of mobile agent. It not only simulates real commercial activities by consumers, agents and merchants, but also provides an environment for parallel processing. The latter is particularly important as more shops (sites) can be searched in real time to provide consumers with better choices. The conducted experiments</abstract>
+	</publication>
+	<publication>
+		<title>Mobile Agent and Web Service Integration Security Architecture</title>
+		<year>2007</year>
+		<authors>junqi zhang,vijay varadharajan</authors>
+		<jconf>Service-Oriented Computing and Applications</jconf>
+		<label>1147</label>
+		<keyword>Certificate Authority;Integrable System;Key Management;Mobile Agent;Mobile Agent System;Public Key Infrastructure;Security Architecture;Web Service;Identity Based Signature;Mobile Agent Technology;</keyword>
+		<organization>null</organization>
+		<abstract>Mobile agent technology and Web Service technology compensate each other and play very important roles in e- service applications. The mechanism of Web Services tech- nology naturally provides a platform for deploying mobile agent technology. Therefore, the integration of the mobile agent technology and Web Service technology has been ac- tively investigated in recent years. On the other hand, the</abstract>
+	</publication>
+	<publication>
+		<title>Maximizing Utility of Mobile Agent Based E-Commerce Applications with Trust Enhanced Security</title>
+		<year>2005</year>
+		<authors>ching lin,vijay varadharajan</authors>
+		<jconf>Trust and Privacy in Digital Business</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Design of a New Trust Model for Mobile Agent Security</title>
+		<year>2004</year>
+		<authors>ching lin,vijay varadharajan,yi mu</authors>
+		<jconf>Trust and Privacy in Digital Business</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent Security;Trust Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trust Enhanced Security for Mobile Agents</title>
+		<year>2005</year>
+		<authors>ching lin,vijay varadharajan,vineet pruthi</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LITESET/A++: A New Agent-Assisted Secure Payment Protocol</title>
+		<year>2004</year>
+		<authors>tieyan li</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>1147</label>
+		<keyword>Trusted Third Party;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we proposed a new agent-assisted secure payment protocol LITESET/A++, which aims at enabling the dispatched consumer-agent to choose the &quot;best&quot; one after negotiating with merchants to close a deal, autonomously sign contracts and make the payment on behalf of the cardholder without the possibility of disclosing any secret to any participant. This is realized by adopting the</abstract>
+	</publication>
+	<publication>
+		<title>Price Trust Evaluation in E-service Oriented Applications</title>
+		<year>2008</year>
+		<authors>lei li,ee-peng lim</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>1147</label>
+		<keyword>Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Role-based Recommendation and Trust Evaluation</title>
+		<year>2007</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>1147</label>
+		<keyword>Evaluation Framework;</keyword>
+		<organization>null</organization>
+		<abstract>In general, in most trust evaluation systems, the evalua- tion of a target party under investigation relies on the trust ratings from responding peers/parties who have direct in- teractions with the target party. This involves recommen- dations and the trust evaluation on recommendations. The evaluation on the recommendations by the recommendation receiver depends on a few factors, which include the</abstract>
+	</publication>
+	<publication>
+		<title>A 2Phase Evaluation Model for Agent-Mediated Internet Marketplaces</title>
+		<year>2001</year>
+		<authors>jian ren,xiaolin pang,kian-lee tan</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>1147</label>
+		<keyword>Evaluation Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Time-Based Peer Trust Evaluation in P2P E-commerce Environments</title>
+		<year>2004</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;P2P;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Autonomous and Automatic Evaluation and Negotiation in Agent-Mediated Internet Marketplaces</title>
+		<year>2005</year>
+		<authors>kian-lee tan,jian ren</authors>
+		<jconf>Electronic Commerce Research</jconf>
+		<label>1147</label>
+		<keyword>Automatic Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PumaMart: a parallel and autonomous agents based internet marketplace</title>
+		<year>2004</year>
+		<authors>kian-lee tan,jian ren</authors>
+		<jconf>Electronic Commerce Research and Applications</jconf>
+		<label>1147</label>
+		<keyword>Autonomous Agent;E Commerce;Evaluation Model;Information Overload;Software Agent;Web Pages;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>Software agents are flexible, autonomous, and dynamic computational entities. For B2C e-commerce applications, the wide variety of choices to the consumers has also introduced the problem of information overloading. Meanwhile, there are so many e-shops and products for the consumers that it has become too time-consuming to find the best deal. In this paper, we present PumaMart, a Parallel and</abstract>
+	</publication>
+	<publication>
+		<title>A study of securing route structures for mobile agents dispatched in parallel</title>
+		<year>2004</year>
+		<authors>kian-lee tan,yue wang</authors>
+		<jconf>International Journal of Web Engineering and Technology</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reputation-Oriented Trustworthy Computing in E-Commerce Environments</title>
+		<year>2008</year>
+		<authors>kwei-jay lin</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating transaction trust and risk levels in peer-to-peer e-commerce environments</title>
+		<year>2008</year>
+		<authors>duncan s. wong,kwei-jay lin,vijay varadharajan</authors>
+		<jconf>Information Systems and E-business Management</jconf>
+		<label>1147</label>
+		<keyword>E Commerce;P2P;Peer To Peer;Impact Factor;</keyword>
+		<organization>null</organization>
+		<abstract>As it lacks central management in Peer-to-Peer (P2P) e-commerce environments, prior to new transactions with an unknown peer, the trust evaluation is critical, which relies on the transaction history data. Tradi- tionally the evaluation process is based on other peers' recommendations neglecting transaction amounts. This may lead to the bias in the transac- tion trust evaluation and risk the new</abstract>
+	</publication>
+	<publication>
+		<title>Secure route structures for parallel mobile agents based systems using fast binary dispatch</title>
+		<year>2005</year>
+		<authors>vijay varadharajan</authors>
+		<jconf>Mobile Information Systems</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Employ a mobile agent for making a payment</title>
+		<year>2008</year>
+		<authors>duncan s. wong,huaxiong wang</authors>
+		<jconf>Mobile Information Systems</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security and Robustness Enhanced Route Structures for Mobile Agents</title>
+		<year>2003</year>
+		<authors>xiaolin pang</authors>
+		<jconf>Mobile Networks and Applications</jconf>
+		<label>1147</label>
+		<keyword>Empirical Evaluation;First Integral;Generic Algorithm;Mobile Agent;Mobile Agent Security;Public Key;Public Key Encryption;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a parallel dispatch model with secure route structures for protecting the dispatch route information of mobile agents. This model facilitates efficient dispatching of agents in a hierarchical manner, and ensures route security by exposing minimal route information to hosts. It also provides the capability for detecting attacks. Based on the secure dispatch model, two extensions</abstract>
+	</publication>
+	<publication>
+		<title>A Structured Hypertext Data Model with Versioning for Engineering Documents</title>
+		<year>2003</year>
+		<authors>ken c. k. law,horace ho-shing ip</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>1147</label>
+		<keyword>Data Access;Data Management;Data Model;Flexible Structure;Management System;Network Structure;Version Control;Optic Disk;</keyword>
+		<organization>null</organization>
+		<abstract>Hypertext involves linking related information blocks together to form a network. It is suitable to access information in a nonlinear fashion with a flexible structure. However, when the hypertext technique is applied to manage mass data such as engineering documents, the large number of nodes and links involved can cause problems such as data access navigation and versioning control. This</abstract>
+	</publication>
+	<publication>
+		<title>Trust management towards service-oriented applications</title>
+		<year>2009</year>
+		<authors>kwei-jay lin,duncan s. wong,vijay varadharajan</authors>
+		<jconf>Service Oriented Computing and Applications</jconf>
+		<label>1147</label>
+		<keyword>Service Orientation;Trust Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building Internet Marketplaces on the Basis of Mobile Agents for Parallel Processing</title>
+		<year>2002</year>
+		<authors>jian ren</authors>
+		<jconf>World Wide Web</jconf>
+		<label>1147</label>
+		<keyword>Mobile Agent;Parallel Processing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a framework of Internet marketplaces on the basis of mobile agent. It not only simulates real commercial activities by consumers, agents and merchants, but also provides an environment for parallel processing. The latter is particularly important as more shops (sites) can be searched in real time to provide consumers with better choices. The conducted experiments</abstract>
+	</publication>
+</person>

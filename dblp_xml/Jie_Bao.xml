@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jie Bao</FullName>
+	<publication>
+		<title>A passivity-based analysis for decentralized integral controllability</title>
+		<year>2002</year>
+		<authors>p. james mclellan,j. fraser forbes</authors>
+		<jconf>Automatica</jconf>
+		<label>401</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new approach to control of MIMO processes with static nonlinearities using an extended IMC framework</title>
+		<year>2005</year>
+		<authors>kwong ho chan,william j. whiten</authors>
+		<jconf>Computers &amp; Chemical Engineering</jconf>
+		<label>401</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analysis of decentralized integral controllability for nonlinear systems</title>
+		<year>2004</year>
+		<authors>steven w. su,peter l. lee</authors>
+		<jconf>Computers &amp; Chemical Engineering</jconf>
+		<label>401</label>
+		<keyword>Nonlinear System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Conditions on input disturbance suppression for multivariable nonlinear systems on the basis of feedforward passivity</title>
+		<year>2006</year>
+		<authors>steven w. su,peter l. lee</authors>
+		<jconf>International Journal of Systems Science</jconf>
+		<label>401</label>
+		<keyword>Nonlinear System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PROS: a peer-to-peer system for location privacy protection on road networks</title>
+		<year>2009</year>
+		<authors>haiquan chen,wei-shinn ku</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>402</label>
+		<keyword>Euclidean Space;Location Based Service;Location Privacy;Peer To Peer;Peer To Peer System;Query Evaluation;Query Processing;Road Network;Mobile User;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>The k-anonymity technique is widely used to provide location privacy protection for accessing location-based services (LBS), i.e., the exact location of a query initiator is cloaked into a spatial region that contains at least k indistinguishable users. However, a centralized location anonymizer may pose serious privacy threats and could be the system bottleneck. Moreover, many cloaking methods are developed for</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Evaluation of k-Range Nearest Neighbor Queries in Road Networks</title>
+		<year>2010</year>
+		<authors>chi-yin chow,mohamed f. mokbel,wei-shinn ku</authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>402</label>
+		<keyword>K Nearest Neighbor;Nearest Neighbor Queries;Query Answering;Query Processing;Road Network;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>A k-Range Nearest Neighbor (or kRNN for short) query in road networks finds the k nearest neighbors of every point on the road segments within a given query region based on the network distance. The kRNN query is significantly important for location-based applications in many realistic scenarios. For example, (1) the user's location is uncertain, i.e., user's location is modeled</abstract>
+	</publication>
+	<publication>
+		<title>Semi-random subspace sampling for classification</title>
+		<year>2010</year>
+		<authors>ming yang,gen-lin ji</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>403</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

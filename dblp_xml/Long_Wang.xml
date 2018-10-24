@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Long Wang</FullName>
+	<publication>
+		<title>Building Content Clusters Based on Modelling Page Pairs</title>
+		<year>2006</year>
+		<authors>christoph meinel</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>574</label>
+		<keyword>Evaluation Method;Information Theory;Natural Language Processing;</keyword>
+		<organization>null</organization>
+		<abstract>We give a new view on building content clusters from page pair models. We measure the heuristic importance within every two pages by computing the distance of their accessed positions in usage sessions. We also compare our page pair models with the classical pair models used in information theories and natural language processing, and give different evaluation methods to build</abstract>
+	</publication>
+	<publication>
+		<title>Mining the Students' Learning Interest in Browsing Web-Streaming Lectures</title>
+		<year>2007</year>
+		<authors>christoph meinel</authors>
+		<jconf>IEEE Symposium on Computational Intelligence and Data Mining</jconf>
+		<label>574</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Post Recommendation in Social Web Site</title>
+		<year>2009</year>
+		<authors>justus bross,christoph meinel</authors>
+		<jconf>Electronic Government</jconf>
+		<label>574</label>
+		<keyword>Social Web;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Behaviour Recovery and Complicated Pattern Definition in Web Usage Mining</title>
+		<year>2004</year>
+		<authors>christoph meinel</authors>
+		<jconf>International Conference on Web Engineering</jconf>
+		<label>574</label>
+		<keyword>Data Mining;Pattern Mining;Sequential Pattern;Tree Structure;User Behaviour;Web Mining;Web Usage Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Data mining includes four steps: data preparation, pattern mining, and pattern analysis and pattern application. But in web environment, the user activities become much more complex because of the complex web structure. So user behaviours recovery and pattern definition play more important roles in web mining than other applications. In this paper, we gave a new view on behaviour recovery</abstract>
+	</publication>
+	<publication>
+		<title>X-Tracking the Changes of Web Navigation Patterns</title>
+		<year>2009</year>
+		<authors>christoph meinel</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>574</label>
+		<keyword>Web Navigation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discovering Characteristic Individual Accessing Behaviors in Web Environment</title>
+		<year>2005</year>
+		<authors>christoph meinel,chunnian liu</authors>
+		<jconf>Rough Sets, Fuzzy Sets, Data Mining, and Granular-Soft Computing</jconf>
+		<label>574</label>
+		<keyword>Experimental Study;Tree Structure;Web Usage Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Discovering diverse individual accessing behaviors in web en- vironment is required before mining the valuable patterns from behaviors of groups of visitors. In this paper, we investigate the data preparation in web usage mining, and especially focus on discovering characteristic in- dividual accessing behaviors and give a systematic and formalized study on this topic. Based on the target usage patterns,</abstract>
+	</publication>
+	<publication>
+		<title>Recovering Individual Accessing Behaviour from Web Logs</title>
+		<year>2005</year>
+		<authors>christoph meinel</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>574</label>
+		<keyword>Experimental Study;Tree Structure;Web Usage Mining;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we pre sent a new view on the data preparation in web usage mining. We concentrate on recovering individual usage behaviour from accessing records on web site. We defined five categories of individual behaviours such as granular accessing behaviour, linear sequential behaviour, tree structure behaviour, acyclic routing behaviour and cyclic routing behaviour. The algorithms for recovering different</abstract>
+	</publication>
+	<publication>
+		<title>Detecting the Changes ofWeb Students' Learning Interest</title>
+		<year>2007</year>
+		<authors>christoph meinel</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>574</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

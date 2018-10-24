@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sven Kr&amp;uuml;ger</FullName>
+	<publication>
+		<title>Sensing and Rating Different Environmental States: States: A basic Approach exemplified on Moving in Unknown Terrain</title>
+		<year>2005</year>
+		<authors>manfred deutscher,marcel katz</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>995</label>
+		<keyword>Acoustic Emission;Environmental Change;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>It is difficult to describe in an analytical way all dynamical relationships of the ground and a robot or a human. Unexpected environmental changes complicate a safe walking.Therefore it is obvious to develop a method what allows the evaluation of acoustic emissions depending on acting forces in the past and consecutive steps during walking. The analytical evaluation of the relationship</abstract>
+	</publication>
+</person>

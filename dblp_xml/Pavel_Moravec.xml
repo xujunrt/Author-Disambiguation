@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Pavel Moravec</FullName>
+	<publication>
+		<title>DiVinE - A Tool for Distributed Verification</title>
+		<year>2006</year>
+		<authors>jiri barnat,lubos brim,ivana cerná,petr rockai,pavel simecek</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>802</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Accepting Predecessors Are Better than Back Edges in Distributed LTL Model-Checking</title>
+		<year>2004</year>
+		<authors>lubos brim,ivana cerná,jirí simsa</authors>
+		<jconf>Formal Methods in Computer-Aided Design</jconf>
+		<label>802</label>
+		<keyword>Distributed Memory;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. We present a new distributed-memory algorithm for enumer-ative LTL model-checking that is designed to be run on a cluster of work-stations communicating via MPI. The detection of accepting cycles is based on computing maximal accepting predecessors and the subsequent decomposition of the graph into independent predecessor subgraphs in-duced by maximal accepting predecessors. Several optimizations of the basic algorithm are</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Algorithms for Finding SCCs in Implicitly Given Graphs</title>
+		<year>2006</year>
+		<authors>jiri barnat</authors>
+		<jconf>Formal Methods for Industrial Critical Systems</jconf>
+		<label>802</label>
+		<keyword>Parallel Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Combining Partial Order Reduction with Fairness Assumptions</title>
+		<year>2006</year>
+		<authors>lubos brim,ivana cerná,jirí simsa</authors>
+		<jconf>Formal Methods for Industrial Critical Systems</jconf>
+		<label>802</label>
+		<keyword>Partial Order Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effective verification of systems with a dynamic number of components</title>
+		<year>2007</year>
+		<authors>pavlína vareková,ivana cerná,barbora zimmerova</authors>
+		<jconf></jconf>
+		<label>802</label>
+		<keyword>Component Based Systems;Dynamic System;Formal Verification;Software Verification;</keyword>
+		<organization>null</organization>
+		<abstract>In the paper, we present a novel approach to verification of dynamic component-based systems, the systems that can have a changing number of components over their life-time. We focus our attention on systems with a stable part (called provider) and a number of dynamic components of one type (called clients) because dynamic systems can be often decomposed into segments like</abstract>
+	</publication>
+	<publication>
+		<title>Approximations of state spaces reduced by partial order reduction</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Conference on Current Trends in Theory and Practice of Informatics</jconf>
+		<label>802</label>
+		<keyword>Partial Order Reduction;State Space;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Partial Order Reduction of State Spaces</title>
+		<year>2005</year>
+		<authors>lubos brim,ivana cerná,jirí simsa</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>802</label>
+		<keyword>Partial Order Reduction;State Space;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>How to Order Vertices for Distributed LTL Model-Checking Based on Accepting Predecessors</title>
+		<year>2006</year>
+		<authors>lubos brim,ivana cerná,jirí simsa</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>802</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Formal verification of systems with an unlimited number of components</title>
+		<year>2008</year>
+		<authors>pavlína vareková,barbora zimmerova,ivana cerná</authors>
+		<jconf>Iet Software/iee Proceedings - Software</jconf>
+		<label>802</label>
+		<keyword>Formal Verification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

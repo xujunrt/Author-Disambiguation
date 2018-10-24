@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Neumann</FullName>
+	<publication>
+		<title>Scalable Vector Graphics (SVG)</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>61</label>
+		<keyword>Scalable Vector Graphics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Mapping and Web Cartography</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>61</label>
+		<keyword>Web Mapping;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Open-Source GIS Libraries</title>
+		<year>2008</year>
+		<authors>marco hugentobler</authors>
+		<jconf></jconf>
+		<label>61</label>
+		<keyword>Open Source;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

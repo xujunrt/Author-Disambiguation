@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mi Zhang</FullName>
+	<publication>
+		<title>A 0.1 ppm Successive Approximation Frequency-Temperature Compensation Method for Temperature Compensated Crystal Oscillators (TCXO)</title>
+		<year>2009</year>
+		<authors>wei-xun cao</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>675</label>
+		<keyword>Oscillations;Temperature Compensation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Electronic Design Automation concept, benefit and framework</title>
+		<year>2009</year>
+		<authors>guang hu,shi-liang tu,zhilei chai</authors>
+		<jconf>International Conference on Interaction Sciences</jconf>
+		<label>675</label>
+		<keyword>Design Methodology;Dynamic System;Electronic Design Automation;System Level Design Language;</keyword>
+		<organization>null</organization>
+		<abstract>In Electronic Design Automation, current system-level design languages (e.g. SystemC) are all built from static languages (C/C++), and the design methodology is static. (1)This could lead to much inefficiency in description, verification, and synthesis. We have created the world's first Dynamic System-level Design Language (PDSDL [1]) by using popular dynamic language python, and a refining framework (Trilobite [2]) based on</abstract>
+	</publication>
+</person>

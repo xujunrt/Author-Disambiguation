@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michele Lombardi</FullName>
+	<publication>
+		<title>Reason-based choice correspondences</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Mathematical Social Sciences</jconf>
+		<label>712</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>What kind of preference maximization does the weak axiom of revealed non-inferiority characterize?</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Mathematical Social Sciences</jconf>
+		<label>712</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jerry Sun</FullName>
+	<publication>
+		<title>Ontology-Based Structured Cosine Similarity in Speech Document Summarization</title>
+		<year>2004</year>
+		<authors>soe-tsyr yuan</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>357</label>
+		<keyword>Data Mining;Document Clustering;Document Summarization;High Performance;Knowledge Acquisition;Knowledge Discovery;Knowledge Management;Text Categorization;Text Clustering;</keyword>
+		<organization>null</organization>
+		<abstract>Development of algorithms for automated text categorization in massive text document sets is an important research area of data mining and knowledge discovery. Most of the text-clustering methods were grounded in the term-based measurement of distance or similarity, ignoring the structure of terms in documents. In this paper we present a novel method named Structured Cosine Similarity that furnishes document</abstract>
+	</publication>
+	<publication>
+		<title>Ontology-based structured cosine similarity in document summarization: with applications to mobile audio-based knowledge management</title>
+		<year>2005</year>
+		<authors>soe-tsyr yuan</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>357</label>
+		<keyword>Document Summarization;Knowledge Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

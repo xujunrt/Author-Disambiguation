@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander Brodsky</FullName>
+	<publication>
+		<title>Toward a Hybrid DataFlow/Control-Flow MIMD Architecture</title>
+		<year>1985</year>
+		<authors>david klappholz,yingsha liao,da-jin wang,amos omondi</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>23</label>
+		<keyword>Control Flow;Data Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

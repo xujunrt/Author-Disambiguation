@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Seitz</FullName>
+	<publication>
+		<title>i-LAND: an interactive landscape for creativity and innovation</title>
+		<year>1999</year>
+		<authors>norbert a. streitz,jörg geißler,torsten holmer,shin'ichi konomi,christian müller-tomfelde,wolfgang reischl,petra rexroth,ralf steinmetz</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>816</label>
+		<keyword>Augmented Reality;Computer Supported Cooperative Work;Cooperative Work;Information Space;Information Technology;Integrated Design;Team Work;Ubiquitous Computing;Work Practice;</keyword>
+		<organization>null</organization>
+		<abstract>We describe the i-LAND environment which constitutes an exampleof our vision of the workspaces of the future, in this casesupporting cooperative work of dynamic teams with changing needs.i-LAND requires and provides new forms of human-computerinteraction and new forms of computer-supported cooperative work.Its design is based on an integration of information andarchitectural spaces, implications of new work practices and anempirical requirements</abstract>
+	</publication>
+	<publication>
+		<title>Modeling collaboration using shared objects</title>
+		<year>1999</year>
+		<authors>christian schuckmann,jan schiimmer</authors>
+		<jconf>International Conference on Supporting Group Work</jconf>
+		<label>816</label>
+		<keyword>Collaborative Application;Distributed System;Group Awareness;Object Oriented;Object-oriented Model;Synchronous Groupware;</keyword>
+		<organization>null</organization>
+		<abstract>Many object-oriented toolkits and frameworks for groupware development provide shared objects as a basic service. This relieves developers of a lot of problems originating from the field of distributed systems. However, there is little support on how to use shared objects to actually build collaborative applications. In this paper we propose an object-oriented model for applications using shared objects. The</abstract>
+	</publication>
+</person>

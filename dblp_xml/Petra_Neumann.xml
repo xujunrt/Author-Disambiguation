@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Petra Neumann</FullName>
+	<publication>
+		<title>Interview with David Vernon</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>K��nstliche Intelligenz</jconf>
+		<label>822</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cognitive Computer Vision - Service</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>K��nstliche Intelligenz</jconf>
+		<label>822</label>
+		<keyword>Computer Vision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

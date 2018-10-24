@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Schall</FullName>
+	<publication>
+		<title>Enhancing energy efficiency of database applications using SSDs</title>
+		<year>2010</year>
+		<authors>volker hudlet,theo härder</authors>
+		<jconf>Canadian Conference on Computer Science &amp; Software Engineering</jconf>
+		<label>172</label>
+		<keyword>Energy Consumption;Energy Efficient;Energy Use;Rule of Thumb;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>Presently, solid state disks (SSDs) are emerging as a disruptive storage technology and promise breakthroughs for important application properties. They quickly enter the enterprise domain and (partially) replace magnetic disks (HDDs) for database servers. To identify performance and energy use of both types of storage devices, we have built an analysis tool and measured access times and energy needed for</abstract>
+	</publication>
+	<publication>
+		<title>Performance and Power Evaluation of Flash-Aware Buffer Algorithms</title>
+		<year>2010</year>
+		<authors>yi ou,theo härder</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>172</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>With ash disks being an important alternative to conven- tional magnetic disks, various design aspects of DBMSs, whose I/O behavior is performance-critical, and especially their I/O architecture should be reconsidered. Taking the distinguished characteristics of ash disks into account, several</abstract>
+	</publication>
+	<publication>
+		<title>Anforderungen an die Anwendungsprotokollierung mittels XML</title>
+		<year>2009</year>
+		<authors>henrik loeser</authors>
+		<jconf>Workshop Grundlagen von Datenbanken</jconf>
+		<label>172</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>1 Abstract Anwendungen setzen zunehmend auf Protokollierung ihrer Aktivit aten, sei es aus Gr unden der</abstract>
+	</publication>
+</person>

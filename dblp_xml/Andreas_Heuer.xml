@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Heuer</FullName>
+	<publication>
+		<title>What Do Hyperlink-Proposals and Request-Prediction Have in Common?</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>Advances in Information Systems</jconf>
+		<label>52</label>
+		<keyword>Mathematical Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on fundamental similarities between proposing links for hypertexts and predicting user-requests. It briefly outlines the theoreti- cal background of both categories of problems and, as an example, explores common implementation strategies for handling them. Even though there are some important differences between link-proposals and prediction of requests, we believe that in regarding these categories as special cases</abstract>
+	</publication>
+	<publication>
+		<title>Advanced Studies on Link Proposals and Knowledge Retrieval of Hypertexts with CBR</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>Electronic Commerce and Web Technologies</jconf>
+		<label>52</label>
+		<keyword>Case Base Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, several problems in associating hyperlinks to text and the diverse possibilities to overcome these problems are discussed. At the cur- rent stage, an important aspect is knowledge retrieval of hypertexts. Our ad- vanced studies on hyperlink management focus mainly on a concept similar to Case-Based Reasoning (CBR) systems as a possibility for the automatic genera- tion of</abstract>
+	</publication>
+	<publication>
+		<title>Advanced Techniques for Analyzing Web Server Logs</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>International Conference on Internet Computing</jconf>
+		<label>52</label>
+		<keyword>Authoring System;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>This paper gives an account of the practical experiences made in generating special statistical information of web server logs. It emphasizes the problem of combining different data sources to retrieve acceptable working results. Several critical aspects in analyzing logfiles are discussed and solutions are described. The structural capacities of multilingual online authoring systems, especially DAPHNE, have to be combined with</abstract>
+	</publication>
+	<publication>
+		<title>A Hyperlink Focused Browse Assistant for the World Wide Web</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,uwe roth,christoph meinel</authors>
+		<jconf>International Conference on Internet Computing</jconf>
+		<label>52</label>
+		<keyword>Tool Support;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This  paper ,describes  a  browse ,assistant focusing on  hyperlinks.  It  discusses  the  concept  and anaccompanying,prototype  implementation ,of  the assistant. The  aim  of  the  assistant  is  to  increase  the usability of  navigation ,through  the  World  Wide  Web (WWW) by  the ,provision  of  more ,detailed  hyperlink information,for  each ,browsed ,HTML-document. Extracted from  a  personal ,link  database ,it  offers helpful background ,information</abstract>
+	</publication>
+	<publication>
+		<title>Role-based Web Authoring and WebSite Management for Commercial Sites</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,zhongdong zhang,christoph meinel</authors>
+		<jconf>International Conference on Internet Computing</jconf>
+		<label>52</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Advanced Reliability for Internet Transactions by Signed Bills</title>
+		<year>2000</year>
+		<authors>frank losemann,christoph meinel</authors>
+		<jconf>International Conference on Internet Computing</jconf>
+		<label>52</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Database based History Browse Assistant</title>
+		<year>1999</year>
+		<authors>christoph meinel</authors>
+		<jconf>Internet, Multimedia Systems and Applications</jconf>
+		<label>52</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interface for Navigation and Database - Querying via WWW</title>
+		<year>1998</year>
+		<authors>k. siemonsen,thomas engel,christoph meinel</authors>
+		<jconf>Internationales Symposium f��r Informationswissenschaft</jconf>
+		<label>52</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Role-based access control in online authoring and publishing systems vs. document hierarchy</title>
+		<year>1999</year>
+		<authors>zhongdong zhang,ernst georg haffner,thomas engel,christoph meinel</authors>
+		<jconf>ACM Special Interest Group for Design of Communication</jconf>
+		<label>52</label>
+		<keyword>Authoring System;Collaborative Authoring;Information Sources;Role Based Access Control;Subject Areas;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>How to structure diverse (documentation) information sources of an enterprise and how to arrange a workflow with access control are two important issues for online authoring and publishing systems. Aim of this paper is to describe a solution for both problems, which is based on department structure, subject areas, and roles in an enterprise. Our approach will be introduced by</abstract>
+	</publication>
+	<publication>
+		<title>Link Proposals with Case-Based Reasoning Techniques</title>
+		<year>2000</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword>Case Base Reasoning;Management System;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we will discuss the problem of proposing links for hypertexts based on Case-Based Reasoning (CBR) techniques. These proposals can be used in addition to traditional textual based methods. At first, we will focus on the basic ideas of CBR. Next, its modeling for Hyperlink-Management Systems will be discussed, and finally the usefulness of CBR in the area</abstract>
+	</publication>
+	<publication>
+		<title>The Importance of Link-Transformation and Link-Proposals for Hyperlink-Management Systems</title>
+		<year>1999</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword>Management System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Managing Distributed Personal Firewalls with Smart Data Servers</title>
+		<year>2001</year>
+		<authors>ernst georg haffner,uwe roth,thomas engel,christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword>Classical Solution;Mobile Computer;Security Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Modern security architectures tend to become more and more complex. Not only the chances to improve Web applications using several data channels and diverse (TCP-)ports are very promising, but also the risks for criminal attacks and an intrusion into the corporate network are increasing. The classical solution to protect networks against criminal attacks with firewalls is problematic, though. On the</abstract>
+	</publication>
+	<publication>
+		<title>Signed Preservation Of Online References</title>
+		<year>2000</year>
+		<authors>frank losemann,christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword>Digital Library;</keyword>
+		<organization>null</organization>
+		<abstract>Since online-available documents are more and more outclassing p aper based documents, the use of online references is constantly growing. Online references suffer strongly from their often only temporarily character. With the slightest modification - not to mention a complete removal of its online references - the scientific value of the referencing document would decline. Therefore, mechanisms are needed that</abstract>
+	</publication>
+	<publication>
+		<title>Database based Navigation Assistant</title>
+		<year>1999</year>
+		<authors>christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Search-Engine-Topologie to Improve Document Retrieval on the Web</title>
+		<year>2000</year>
+		<authors>uwe roth,ernst georg haffner,christoph meinel</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>52</label>
+		<keyword>Document Retrieval;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Logging and Signing Document-Transfers on the WWW-A Trusted Third Party Gateway</title>
+		<year>2000</year>
+		<authors>frank losemann,christoph meinel</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>52</label>
+		<keyword>Data Transfer;Data Transmission;Public Key;Public Key Infrastructure;Trusted Third Party;</keyword>
+		<organization>null</organization>
+		<abstract>In this work we discuss a service that aims to make quoting of online documents, &quot;web contents&quot; easy and provable. For that reason we report the conception of a gateway that works as a Trusted Third Party (TTP) service which is based on a public key infrastructure (PKI). The developed service consists of the signing of any data-transmission that was</abstract>
+	</publication>
+</person>

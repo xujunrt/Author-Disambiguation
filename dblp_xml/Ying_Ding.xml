@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ying Ding</FullName>
+	<publication>
+		<title>An Exposed Approach to Reliable Multicast in Heterogeneous Logistical Networks</title>
+		<year>2003</year>
+		<authors>micah beck,erika fuentes,sharmila kancherl</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>1197</label>
+		<keyword>Reliable Multicast;Service Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>An exposed approach in computer service architecture is one that offers client software a primitive service whose semantics are closely based on the underlying physical infrastructure. The exposed approach relies on the client to build higher-level services, with more abstract semantics, out of such primitive tools using sophisticated compilation or run-time algorithms. Current approaches to reliable multicast focus on encapsulated</abstract>
+	</publication>
+	<publication>
+		<title>Logistical multicast for data distribution</title>
+		<year>2005</year>
+		<authors>jason zurawski,d. martin swany,micah beck</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>1197</label>
+		<keyword>Data Distribution;Distributed Networks;Distributed Scheduling;Middleware;Network Measurement;Perforation;Spanning Tree;Control Group;Experimental Group;Internet Backplane Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a simple scheduling procedure for use in multicast data distribution within a logistical networking infrastructure. The goal of our scheduler is to generate a distribution schedule that will exploit the best network paths by using historic network perfor- mance information. A &quot;spanning tree&quot; is constructed between available logistical depots to help reduce the overall time of data</abstract>
+	</publication>
+	<publication>
+		<title>Transnet Architecture and Logistical Networking for Distributed Storage</title>
+		<year>2004</year>
+		<authors>micah beck,terry moore,james s. plank</authors>
+		<jconf>ISCA International Conference on Parallel and Distributed Computing Systems</jconf>
+		<label>1197</label>
+		<keyword>Distributed Storage;Middleware;layer 2;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the possibility that IP, in the role of the common service, is not as general as is needed in order to directly address application requirements, including scalable storage services, that go beyond simple datagram delivery. We propose to generalize the view of layer 2 to include local storage and processing services, and to situate a new common</abstract>
+	</publication>
+	<publication>
+		<title>Algorithms for High Performance, Wide-Area Distributed File Downloads</title>
+		<year>2003</year>
+		<authors>scott atchley,ying ding</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<label>1197</label>
+		<keyword>High Performance;Peer To Peer;Replicated Data;</keyword>
+		<organization>null</organization>
+		<abstract>This paper explores three algorithms for high-performance downloads of wide-area, replicated data. The storage model is based on the Network Storage Stack, which allows for flexible sharing and utilization of writable storage as a network resource. The algorithms assume that data is replicated in various storage depots in the wide area, and the data must be delivered to the client</abstract>
+	</publication>
+	<publication>
+		<title>Note: Correction to the 1997 tutorial on Reed-Solomon coding</title>
+		<year>2005</year>
+		<authors>james s. plank</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>1197</label>
+		<keyword>Data Storage;reed-solomon code;</keyword>
+		<organization>null</organization>
+		<abstract>In 1997, SPE published a tutorial by Plank [19] on implementing Reed-Solomon codes for erasure correction in re-dundant data storage systems. The motivation of this tutorial was to present these codes, which are typically described mathematically by coding theorists, in a way accessible to the programmers who need to implement them. The tutorial as published presented an information dispersal matrix,</abstract>
+	</publication>
+</person>

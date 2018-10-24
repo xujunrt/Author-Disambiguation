@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Massimo Paolucci</FullName>
+	<publication>
+		<title>ISYDES: The Project of a Tool Aimed at Information System Development</title>
+		<year>2000</year>
+		<authors>antonio boccalatte,davide giglio</authors>
+		<jconf>Academia/Industry Working Conference on Research Challenges</jconf>
+		<label>664</label>
+		<keyword>Information System Development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Make-It Project: Manufacturing Agents in a Knowledge-Based Environment Driven by Internet Technologies</title>
+		<year>2000</year>
+		<authors>roberto sacile,antonio boccalatte</authors>
+		<jconf>Academia/Industry Working Conference on Research Challenges</jconf>
+		<label>664</label>
+		<keyword>Internet Technology;Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building Intelligent Interfaces to Relational Data Bases</title>
+		<year>1992</year>
+		<authors>antonio boccalatte</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>664</label>
+		<keyword>Intelligent Interfaces;Relational Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multi-agent approach to support dynamic scheduling decisions</title>
+		<year>2002</year>
+		<authors>andrea gozzi,antonio boccalatte</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>664</label>
+		<keyword>Dynamic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomous Agents Applied to Manufacturing Scheduling Problems: A Negotiation-Based Heuristic Approach</title>
+		<year>2001</year>
+		<authors>andrea gozzi,antonio boccalatte</authors>
+		<jconf>Multi-Agent-Systems and Applications</jconf>
+		<label>664</label>
+		<keyword>Autonomous Agent;Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of an Adaptive Ant Colony Optimization Applied to Single Machine Scheduling</title>
+		<year>2008</year>
+		<authors>davide anghinolfi,antonio boccalatte,christian vecchiola</authors>
+		<jconf>Simulated Evolution and Learning</jconf>
+		<label>664</label>
+		<keyword>Ant Colony Optimization;Performance Evaluation;Single Machine Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multi-agent system for dynamic just-in-time manufacturing production scheduling</title>
+		<year>2004</year>
+		<authors>antonio boccalatte,alberto grosso,valentina queirolo,mirko tamoglia</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>664</label>
+		<keyword>Production Scheduling;Just In Time;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A dynamic routing strategy for the real-time management of a fleet of tank trucks</title>
+		<year>2004</year>
+		<authors>davide giglio,roberto sacile</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>664</label>
+		<keyword>Dynamic Routing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Experimental Comparison of Different Heuristics for the Master Bay Plan Problem</title>
+		<year>2010</year>
+		<authors>daniela ambrosino,davide anghinolfi,anna sciomachen</authors>
+		<jconf>Workshop on Experimental and Efficient Algorithms</jconf>
+		<label>664</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Swarm Intelligence Method Applied to Manufacturing Scheduling</title>
+		<year>2007</year>
+		<authors>davide anghinolfi,antonio boccalatte,alberto grosso,andrea passadore,christian vecchiola</authors>
+		<jconf>Workshop From Objects to Agents</jconf>
+		<label>664</label>
+		<keyword>Swarm Intelligence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Design Tool to Develop Agent-Based Workflow Management Systems</title>
+		<year>2003</year>
+		<authors>marco repetto,antonio boccalatte</authors>
+		<jconf>Workshop From Objects to Agents</jconf>
+		<label>664</label>
+		<keyword>Agent Modeling;Autonomous Agent;Business Process;Decentralized System;Design Tool;Indexing Terms;Intelligent Software Agent;Reference Model;Workflow Management;Workflow Management System;Workflow System;Agent Based;Expert System;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a methodology to design a workflow management system where a set of intelligent software agents composes an interactive scenario. The Workflow Management Coalition explains how to formalize workflows, using business process definition, and a reference model for a high level abstraction design is asserted: the Workflow Reference Model, an architectural representation of such systems. In recent years,</abstract>
+	</publication>
+	<publication>
+		<title>Intelligent agents applied to manufacturing: the MAKE-IT approach</title>
+		<year>2000</year>
+		<authors>roberto sacile,ernesto montaldo,antonio boccalatte</authors>
+		<jconf>Workshop From Objects to Agents</jconf>
+		<label>664</label>
+		<keyword>Intelligent Agent;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Agent Based Solution for Dispatching Items in a Distributed Environment</title>
+		<year>2007</year>
+		<authors>christian vecchiola,alberto grosso,andrea passadore,davide anghinolfi,antonio boccalatte</authors>
+		<jconf>Workshop From Objects to Agents</jconf>
+		<label>664</label>
+		<keyword>Distributed Environment;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel machine total tardiness scheduling with a new hybrid metaheuristic approach</title>
+		<year>2007</year>
+		<authors>davide anghinolfi</authors>
+		<jconf>Computers &amp; Operations Research</jconf>
+		<label>664</label>
+		<keyword>Parallel Machines;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Allocating crude oil supply to port and refinery tanks: a simulation-based decision support system</title>
+		<year>2002</year>
+		<authors>roberto sacile,antonio boccalatte</authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>664</label>
+		<keyword>Crude Oil;Decision Support System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new discrete particle swarm optimization approach for the single-machine total weighted tardiness scheduling problem with sequence-dependent setup times</title>
+		<year>2009</year>
+		<authors>davide anghinolfi</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>664</label>
+		<keyword>Discrete Model;particle swarm optimizer;Scheduling Problem;Setup Time;Single Machine;Swarm Intelligence;Discrete Particle Swarm Optimization;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present a new Discrete Particle Swarm Optimization (DPSO) approach to face the NP-hard single machine total weighted tardiness scheduling problem in presence of sequence-dependent setup times. Differently from previous approaches the proposed DPSO uses a discrete model both for particle position and velocity and a coherent sequence metric. We tested the proposed DPSO mainly over a</abstract>
+	</publication>
+</person>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Schulte</FullName>
+	<publication>
+		<title>Classbased Detailed Routing in VLSI Design</title>
+		<year>2008</year>
+		<authors>tim nieberg</authors>
+		<jconf>Cologne Twente Workshop on Graphs and Combinatorical Optimization</jconf>
+		<label>147</label>
+		<keyword>Vlsi Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Yield Improvement by Local Wiring Redundancy</title>
+		<year>2006</year>
+		<authors>jeanne bickford,jason hibbeler,markus bühler,jürgen koehl,dirk muller,sven peyer</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>147</label>
+		<keyword>Design Methodology;Yield Loss;</keyword>
+		<organization>null</organization>
+		<abstract>Technology migration from 130 nm to 90 nm has resulted in increased yield loss caused by opens in wiring interconnects and vias. Sensitivity to these defects can be significantly reduced through the use of design methodologies that use arbitrary networks with high degrees of redundancy instead of trees for signal wires. In this paper we describe a technique that improves</abstract>
+	</publication>
+</person>

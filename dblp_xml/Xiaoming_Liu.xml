@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaoming Liu</FullName>
+	<publication>
+		<title>Face Mosaicing for Pose Robust Video-Based Recognition</title>
+		<year>2007</year>
+		<authors>tsuhan chen</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>1115</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The CMU Face In Action (FIA) Database</title>
+		<year>2005</year>
+		<authors>rodney goh,lihao liu,tsuhan chen</authors>
+		<jconf>Analysis and Modeling of Faces and Gestures</jconf>
+		<label>1115</label>
+		<keyword>Data Collection;Indoor Environment;Video Database;</keyword>
+		<organization>null</organization>
+		<abstract>Our team has collected a face video database named the CMU Face In Action (FIA) database. This database consists of 20-second videos of face data from 180 participants mimicking a passport checking scenario. The data is captured by six synchronized cameras from three dierent angles, with an 8-mm and 4-mm focal-length for each of these angles. We performed the collection</abstract>
+	</publication>
+	<publication>
+		<title>Detecting and counting people in surveillance applications</title>
+		<year>2005</year>
+		<authors>peter henry tu,jens rittscher,amitha perera,nils krahnstoever</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>1115</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>What are customers looking at?</title>
+		<year>2007</year>
+		<authors>nils krahnstoever,ting yu,peter henry tu</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>1115</label>
+		<keyword>Computer Vision;Data Mining;Decision Making;</keyword>
+		<organization>null</organization>
+		<abstract>Computer vision approaches for retail applications can pro- vide value far beyond the common domain of loss preven- tion. Gaining insight into the movement and behaviors of shoppers is of high interest for marketing, merchandizing, store operations and data mining. Of particular interest is the process of purchase decision making. What catches a customers attention? What products go unnoticed? What</abstract>
+	</publication>
+	<publication>
+		<title>Pose-Robust Face Recognition Using Geometry Assisted Probabilistic Modeling</title>
+		<year>2005</year>
+		<authors>tsuhan chen</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Face Recognition;Probabilistic Approach;Probabilistic Model;Texture Mapping;Pose Illumination and Expression;</keyword>
+		<organization>null</organization>
+		<abstract>Researchers have been working on human face recognition for decades. Face recognition is hard due to different types of variations in face images, such as pose, illumination and expression, among which pose variation is the hardest one to deal with. To improve face recognition under pose vari- ation, this paper presents a geometry assisted probabilistic approach. We approximate a human</abstract>
+	</publication>
+	<publication>
+		<title>Online Modeling and Tracking of Pose-Varying Faces in Video</title>
+		<year>2005</year>
+		<authors>tsuhan chen</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generic Face Alignment using Boosted Appearance Model</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Face Alignment;Generic Model;Image Alignment;Point Distribution Model;Shape Parameter;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a discriminative framework for effi- ciently aligning images. Although conventional Active Ap- pearance Models (AAM)-based approaches have achieved some success, they suffer from the generalization problem, i.e., how to align any image with a generic model. We treat the iterative image alignment problem as a process of max- imizing the score of a trained two-class classifier that</abstract>
+	</publication>
+	<publication>
+		<title>Video-Based Face Recognition Using Adaptive Hidden Markov Models</title>
+		<year>2003</year>
+		<authors>tsuhan chen</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Face Recognition;Majority Voting;Temporal Dynamics;Unsupervised Learning;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>While traditional face recognition is typically based on still images, face recognition from video sequences has become popular recently. In this paper, we propose to use adaptive Hidden Markov Models (HMM) to perform video- based face recognition. During the training process, the statistics of training video sequences of each subject, and the temporal dynamics, are learned by an HMM. During</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Pose for Face Recognition</title>
+		<year>2006</year>
+		<authors>jens rittscher,tsuhan chen</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>Researchers in psychology have well studied the impact of the pose of a face as perceived by humans, and concluded that the so-called 3/4 view, halfway between the front view and the profile view, is the easiest for face recognition by humans. For face recognition by machines, while much work has been done to create recognition algorithms that are robust</abstract>
+	</publication>
+	<publication>
+		<title>Boosted deformable model for human body alignment</title>
+		<year>2008</year>
+		<authors>ting yu,thomas sebastian,peter henry tu</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Deformable Model;Human Body;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic facial landmark labeling with minimal supervision</title>
+		<year>2009</year>
+		<authors>yan tong,frederick w. wheeler,peter henry tu</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Computer Vision;Least Square;Objective Function;Shape Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>Landmark labeling of training images is essential for many learning tasks in computer vision, such as object de- tection, tracking, and alignment. Image labeling is typ- ically conducted manually, which is both labor-intensive and error-prone. To improve this process, this paper pro- poses a new approach to estimate a set of landmarks for a large image ensemble with only a</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Face Recognition from Skeletal Remains</title>
+		<year>2007</year>
+		<authors>peter henry tu,xiaoming liu,carl adrian,phil williams</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face alignment via boosted ranking model</title>
+		<year>2008</year>
+		<authors>hao wu,gianfranco doretto</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Cost Function;Face Alignment;Face Modeling;Score Function;</keyword>
+		<organization>null</organization>
+		<abstract>Face alignment seeks to deform a face model to match it with the features of the image of a face by optimizing an ap- propriate cost function. We propose a new face model that is aligned by maximizing a score function, which we learn from training data, and that we impose to be concave. We show that this problem can</abstract>
+	</publication>
+	<publication>
+		<title>Facial Contour Labeling via Congealing</title>
+		<year>2010</year>
+		<authors>yan tong,frederick w. wheeler,peter henry tu</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>1115</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Modeling Variations for Face Authentication</title>
+		<year>2002</year>
+		<authors>tsuhan chen,b. v. k. vijaya kumar</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>1115</label>
+		<keyword>Facial Expression;Linear Discriminate Analysis;Principal Component Analysis;Optical Flow;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a scheme for face authentication by using applying principal component analysis (PCA) to model variations. To deal with variations, such as facial expressions and registration errors, with which traditional appearance- based methods do not perform well, we propose the eigenflow approach. In this approach, the optical flow and the optical flow residue between a test</abstract>
+	</publication>
+	<publication>
+		<title>Gradient Feature Selection for Online Boosting</title>
+		<year>2007</year>
+		<authors>ting yu</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>1115</label>
+		<keyword>Computer Vision;Feature Selection;Learning Process;Weighted Least Square;</keyword>
+		<organization>null</organization>
+		<abstract>Boosting has been widely applied in computer vision, especially after Viola and Jones's seminal work (23). The marriage of rectangular features and integral-image- enabled fast computation makes boosting attractive for many vision applications. However, this popular way of ap- plying boosting normally employs an exhaustive feature se- lection scheme from a very large hypothesis pool, which re- sults in a</abstract>
+	</publication>
+	<publication>
+		<title>Principle component analysis and its variants for biometrics</title>
+		<year>2002</year>
+		<authors>tsuhan chen,yufeng jessie hsu,wende zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1115</label>
+		<keyword>Biometric Authentication;Component Analysis;Face Recognition;Principle Component Analysis;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract>Principle component analysis (PCA) has been widely used for analyzing the statistics of data. While applied to biometrics as a classification scheme, PCA faces certain challenges. In this paper, we present a number of modifications to PCA in order to meet these challenges. Using face recognition as an example, we show how eigenflow, PCA applied to optimal flow, enables us</abstract>
+	</publication>
+	<publication>
+		<title>Video Motion Capture Using Feature Tracking and Skeleton Reconstruction</title>
+		<year>1999</year>
+		<authors>yueting zhuang,yunhe pan</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1116</label>
+		<keyword>Feature Tracking;Motion Capture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Video based human animation technique</title>
+		<year>1999</year>
+		<authors>yueting zhuang,yunhe pan</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1115</label>
+		<keyword>Camera Calibration;Computer Animation;Cost Efficiency;Human Animation;Human Motion;Image Sequence;Perspective Projection;Three Dimensions;kalman filter;</keyword>
+		<organization>null</organization>
+		<abstract>Human animation is a challenging domain in computer animation. To aim at many shortcomings in conventional techniques, this paper proposes a new video based human animation technique. Given a clip of video, firstly human joints are tracked with the support of Kalman filter and morph-block based match in the image sequence. Then corresponding sequence of three-dimension (3D) human motion skeleton</abstract>
+	</publication>
+	<publication>
+		<title>A new approach to retrieve video by example video clip</title>
+		<year>1999</year>
+		<authors>yueting zhuang,yunhe pan</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>1115</label>
+		<keyword>Similarity Measure;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>The similarity measure between video clips is a key issue in videoretrieval. In the developing of our video retrieval system, wepropose a new video similarity model. In contrast to existingalgorithms, it proposes many influencing factors, such as orderfactor, speed factor, disturbance factor, etc, based on thesubjective visual judgement of human. So this algorithmembodies the degree of similarity completely and systematically.On</abstract>
+	</publication>
+	<publication>
+		<title>Apply semantic template to support content-based image retrieval</title>
+		<year>2000</year>
+		<authors>yueting zhuang,yunhe pan</authors>
+		<jconf>Storage and Retrieval for Image and Video Databases</jconf>
+		<label>1115</label>
+		<keyword>Content Based Image Retrieval;Feature Vector;Image Retrieval;Multimedia Information Retrieval;Relevance Feedback;</keyword>
+		<organization>null</organization>
+		<abstract>Content-based multimedia information retrieval is the hot point of researchers in many domains. But traditional feature vector based retrieval method can not provide retrieval on the semantic level. Integrated with our image retrieval system, we propose a new approach to generate semantic template automatically in the process of relevance feedback, and construct a network of semantic template with the support</abstract>
+	</publication>
+	<publication>
+		<title>Discriminative Face Alignment</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>1115</label>
+		<keyword>Face Alignment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face authentication for multiple subjects using eigenflow</title>
+		<year>2003</year>
+		<authors>tsuhan chen,b. v. k. vijaya kumar</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Facial Expression;Principal Component Analysis;linear dis criminant analysis;Optical Flow;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel scheme for face authentication. To deal with variations, such as facial expressions and registration errors, with which traditional intensity-based methods do not perform well, we propose the eigenflow approach. In this approach, the optical flow and the optical flow residue between a test image and an image in the training set are first</abstract>
+	</publication>
+	<publication>
+		<title>Eigenspace updating for non-stationary process and its application to face recognition</title>
+		<year>2003</year>
+		<authors>tsuhan chen,susan m. thornton</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1115</label>
+		<keyword>Activity Recognition;Face Recognition;Principal Component Analysis;Random Process;Stationary Process;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce a novel approach to modeling non-stationary random processes. Given a set of training samples sequen- tially, we can iteratively update an eigenspace to manifest the current statistics provided by each new sample. The updated eigenspace is derived more from recent samples and less from older samples, controlled by a number of decay parameters. Extensive study</abstract>
+	</publication>
+	<publication>
+		<title>Protocol Switching: Exploiting Meta-Properties</title>
+		<year>2001</year>
+		<authors>robbert van renesse,mark bickford,christoph kreitz,robert l. constable</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>1117</label>
+		<keyword>Adaptive Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>As we see a growing variety of network and applica- tion behaviors, it becomes more important that protocols adapt to their surroundings. Building adaptive protocols is complicated, and therefore we have considered build- ing hybrid protocols that switch between specialized pro- tocols. In this paper, we show for which communication properties this is a correct solution, and classify these us-</abstract>
+	</publication>
+	<publication>
+		<title>Fast protocol transition in a distributed environment (brief announcement)</title>
+		<year>2000</year>
+		<authors>robbert van renesse</authors>
+		<jconf>Symposium on Principles of Distributed Computing</jconf>
+		<label>1117</label>
+		<keyword>Adaptive Protocol;Atomic Broadcast;Central Scheme;Distributed Environment;Distributed System;Generic Algorithm;Group Communication;Localized State;Network Topology;</keyword>
+		<organization>null</organization>
+		<abstract>Adaptivity is a desired feature of the distributed systems. Because many characteristics of the environment (network topology, active process distribution, etc.) may change from time to time, a good system should be able to adapt itself and perform sufficiently well under different conditions.Modern distributed systems are generally built from a set of components. Such a system has the freedom to</abstract>
+	</publication>
+	<publication>
+		<title>Building reliable, high-performance communication systems from components</title>
+		<year>1999</year>
+		<authors>christoph kreitz,robbert van renesse,jason hickey,mark hayden,kenneth p. birman,robert l. constable</authors>
+		<jconf>Operating Systems Review</jconf>
+		<label>1117</label>
+		<keyword>Communication System;High Performance;System Configuration;</keyword>
+		<organization>null</organization>
+		<abstract>Although building systems from components has attractions, this approach also has problems. Can we be sure that a certain configuration of components is correct? Can it perform as well as a monolithic system? Our paper answers these questions for the Ensemble communication architecture by showing how, with help of the Nuprl formal system, configurations may be checked against specifications, and</abstract>
+	</publication>
+	<publication>
+		<title>Proving Hybrid Protocols Correct</title>
+		<year>2001</year>
+		<authors>mark bickford,christoph kreitz,robbert van renesse</authors>
+		<jconf>Theorem Proving in Higher Order Logics</jconf>
+		<label>1117</label>
+		<keyword>Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a generic switching protocol for the construc- tion of hybrid protocols and prove it correct with the Nuprl proof de- velopment system. For this purpose we introduce the concept of meta- properties and use them to formally characterize communication prop- erties that can be preserved by switching. We also identify switching in- variants that an implementation of the</abstract>
+	</publication>
+	<publication>
+		<title>Semi-supervised Discriminant Analysis Based on Dependence Estimation</title>
+		<year>2009</year>
+		<authors>jinshan tang,jun liu,zhilin feng,zhaohui wang</authors>
+		<jconf>Advanced Data Mining and Applications</jconf>
+		<label>1118</label>
+		<keyword>Discriminant Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Incremental Manifold Learning Via Tangent Space Alignment</title>
+		<year>2006</year>
+		<authors>jianwei yin,zhilin feng,jinxiang dong</authors>
+		<jconf>Artificial Neural Networks in Pattern Recognition</jconf>
+		<label>1118</label>
+		<keyword>Manifold Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Local Tangent Space Alignment Based Transductive Classification Algorithm</title>
+		<year>2006</year>
+		<authors>jianwei yin,zhilin feng,jinxiang dong</authors>
+		<jconf>Artificial Neural Networks in Pattern Recognition</jconf>
+		<label>1118</label>
+		<keyword>Classification Algorithm;Local Tangent Space Alignment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Architecture for Realizing Grid Workflow Using Pi-Calculus Technology</title>
+		<year>2006</year>
+		<authors>zhilin feng,jianwei yin,zhaoyang he,jinxiang dong</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>1118</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Colorization Using Segmentation with Random Walk</title>
+		<year>2009</year>
+		<authors>jun liu,zhilin feng</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>1118</label>
+		<keyword>Random Walk;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive-weighted hidden Markov models based 3D model classification</title>
+		<year>2005</year>
+		<authors>jianwei yin,zhilin feng,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1118</label>
+		<keyword>3d model;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel approach for interorganizational workflow system design</title>
+		<year>2005</year>
+		<authors>jianwei yin,zhilin feng,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1118</label>
+		<keyword>Workflow System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Pairwise Covariance-Preserving Projection Method for Dimension Reduction</title>
+		<year>2007</year>
+		<authors>zhaohui wang,zhilin feng,jinshan tang</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1118</label>
+		<keyword>Dimension Reduction;Projection Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dimension Reduction with Semi-supervised Pairwise Covariance-Preserving Projection</title>
+		<year>2010</year>
+		<authors>zhaohui wang,jun liu,zhilin feng</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>1118</label>
+		<keyword>Dimension Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A DNA-Based Genetic Algorithm Implementation for Graph Coloring Problem</title>
+		<year>2005</year>
+		<authors>jianwei yin,jung-sing jwo,zhilin feng,jinxiang dong</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>1118</label>
+		<keyword>Genetic Algorithm;Graph Coloring Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multiscale image enhancement method for calcification detection in screening mammograms</title>
+		<year>2009</year>
+		<authors>jinshan tang,xiaolong zhang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1118</label>
+		<keyword>Image Enhancement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Orthogonal Neighborhood Preserving Embedding for Face Recognition</title>
+		<year>2007</year>
+		<authors>jianwei yin,zhilin feng,jinxiang dong,lu wang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1118</label>
+		<keyword>Face Recognition;K Nearest Neighbor;Neighborhood Preserving Embedding;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a new algorithm called Orthogonal Neighborhood Preserving Embedding (ONPE) for face recognition. ONPE can preserve local geometry information and is based on the local linearity assumption that each data point and its k nearest neighbors lie on a linear manifold locally embedded in the image space. ONPE is based on Neighborhood Preserving Embedding (NPE), but</abstract>
+	</publication>
+	<publication>
+		<title>Face recognition with Locality Sensitive Discriminant Analysis based on matrix representation</title>
+		<year>2008</year>
+		<authors>zhaohui wang,jun liu,zhilin feng</authors>
+		<jconf>IJCNN</jconf>
+		<label>1118</label>
+		<keyword>Discriminant Analysis;Face Recognition;Matrix Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Phase Field Based Texture Image Segmentation Using Shape Prior Technology</title>
+		<year>2009</year>
+		<authors>zhilin feng,shuwang du,yanming ye,wuheng zuo</authors>
+		<jconf></jconf>
+		<label>1118</label>
+		<keyword>Image Segmentation;Phase Field;Shape Priors;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Jacquard Image Segmentation Method Based on Fuzzy Optimization Technology</title>
+		<year>2005</year>
+		<authors>zhilin feng,jianwei yin,jiong qiu,jinxiang dong</authors>
+		<jconf>Rough Sets, Fuzzy Sets, Data Mining, and Granular-Soft Computing</jconf>
+		<label>1118</label>
+		<keyword>Fuzzy Optimization;Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>File-Based Storage of Digital Objects and Constituent Datastreams: XMLtapes and Internet Archive ARC Files</title>
+		<year>2005</year>
+		<authors>lyudmila balakireva,patrick hochstenbach,herbert van de sompel</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Complex Objects;Indexation;Write Once Read Many;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces the write-once/read-many XMLtape/ARC storage approach for Digital Objects and their constituent datastreams. The approach combines two interconnected file-based storage mecha- nisms that are made accessible in a protocol-based manner. First, XML- based representations of multiple Digital Objects are concatenated into a single file named an XMLtape. An XMLtape is a valid XML file; its format definition is</abstract>
+	</publication>
+	<publication>
+		<title>Technical Report Interchange through Synchronized OAI Caches</title>
+		<year>2002</year>
+		<authors>kurt maly,mohammad zubair,rong tang,mohammed imran padshah,george roncaglia,joanne rocker,michael l. nelson,william von ofenheim,richard luce,jacqueline stack,frances knudson,beth goldsmith,irma holtkamp,miriam blake,jack carter,mariella di giacomo,major jerome nutter,susan brown,ron montbrand,sally landenberger,kathy pierson,vince duran,beth moser</authors>
+		<jconf>European Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>mod_oai: An Apache Module for Metadata Harvesting</title>
+		<year>2005</year>
+		<authors>michael l. nelson,herbert van de sompel,terry l. harrison,nathan mcfarland</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Open Archive Initiative;Software Package;Web Crawling;</keyword>
+		<organization>null</organization>
+		<abstract>We describe mod_oai, an Apache 2.0 module that implements the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). OAI- PMH is the de facto standard for metadata exchange in digital libraries and allows repositories to expose their contents in a structured, application-neutral format with semantics optimized for accurate incremental harvesting. Current implementations of OAI-PMH are either separate applications that access</abstract>
+	</publication>
+	<publication>
+		<title>Enhanced Kepler Framework for Self-Archiving</title>
+		<year>2002</year>
+		<authors>kurt maly,mohammad zubair</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1119</label>
+		<keyword>Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce the Enhanced Kepler Framework,an evolution of the original Kepler framework whichimplements an OAI-PMH-compliant data provider for individualpublishers. The enhanced Kepler framework isheavily influenced by Fasttrack, a peer-to-peer network. Inparticular, we introduce the concept of buddy nodes andSuperNodes to improve scalability. We also propose enhancementsof OAI-PMH, the harvesting protocol used inthe existing framework, to support the</abstract>
+	</publication>
+	<publication>
+		<title>Preservation and transition of NCSTRL using an OAI-based architecture</title>
+		<year>2002</year>
+		<authors>hesham anan,kurt maly,michael l. nelson,mohammad zubair,james c. french,edward a. fox,p. shivakumar</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Open Archive Initiative;</keyword>
+		<organization>null</organization>
+		<abstract>NCSTRL (Networked Computer Science Technical Reference Library) is a federation of digital libraries providing computer science materials. The architecture of the original NCSTRL was based largely on the Dienst software. It was implemented and maintained by the digital library group at Cornell University until September 2001. At that time, we had an immediate goal of preserving the existing NCSTRL collection</abstract>
+	</publication>
+	<publication>
+		<title>aDORe: a modular and standards-based digital object repository at the los alamos national laboratory</title>
+		<year>2005</year>
+		<authors>jeroen bekaert,herbert van de sompel</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Architectural Design;Los Alamos National Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the aDORe repository architecture, designed and implemented for ingesting, storing, and accessing a vast collection of Digital Objects at the Research Library of the Los Alamos National Laboratory.</abstract>
+	</publication>
+	<publication>
+		<title>Using standards in digital library design &amp; development</title>
+		<year>2005</year>
+		<authors>jeroen bekaert,herbert van de sompel</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Design and Development;Digital Library;Los Alamos National Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract>This tutorial will cover a set of Standards and defacto Standards that can play a role in the design and development of Digital Library applications. The Standards that will be discussed are the ISO MPEG-21 Digital Item Declaration, the ISO MPEG-21 Digital Item Identification, the ISO MPEG-21 Digital Item Processing, the Open Archives Protocol for Metadata Harvesting, the Internet Archive</abstract>
+	</publication>
+	<publication>
+		<title>Pathways core: a data model for cross-repository services</title>
+		<year>2006</year>
+		<authors>jeroen bekaert,herbert van de sompel,carl lagoze,sandy payette,simeon warner</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Data Model;Scholarly Communication;Spectrum;Systems and Applications;</keyword>
+		<organization>null</organization>
+		<abstract>As part of the NSF-funded Pathways project, we have created an interoperable data model to facilitate object re-use and a broad spectrum of cross-repository services. The resulting Pathways Core data model is designed to be lightweight to implement, and to be widely applicable as a shared profile or as an overlay on data models currently used in repository systems and</abstract>
+	</publication>
+	<publication>
+		<title>The multifaceted use of the OAI-PMH in the lanl repository</title>
+		<year>2004</year>
+		<authors>henry n. jerez,patrick hochstenbach,herbert van de sompel</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Architectural Design;Declarative Languages;Digital Library;Indexation;Individual Object;Los Alamos National Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on the multifaceted use of the OAI-PMH in a repository architecture designed to store digital assets at the Research Library of the Los Alamos National Laboratory (LANL), and to make the stored assets available in a uniform way to various downstream applications. In the architecture, the MPEG-21 Digital Item Declaration Language is used as the XML-based format</abstract>
+	</publication>
+	<publication>
+		<title>Toolkits for visualizing co-authorship graph</title>
+		<year>2004</year>
+		<authors>johan bollen,michael l. nelson,herbert van de sompel,jeremy a. t. hussell,richard luce,linn marks</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Complex System;</keyword>
+		<organization>null</organization>
+		<abstract>Visualization eases insight into complex systems such as co-authorship networks. We present an initial deployment of an author navigator application for convenient visual examination of JCDL and LANL co--authorship networks.</abstract>
+	</publication>
+	<publication>
+		<title>Arc: an OAI service provider for cross-archive searching</title>
+		<year>2001</year>
+		<authors>kurt maly,mohammad zubair,michael l. nelson</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Lessons Learned;Open Archive Initiative;Relational Database;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>The usefulness of the many on-line journals and scientific digital lib raries that exist today is limited by the lack of a service that can federate them through a unified interface. The Open Archive Initiative (OAI) is one major effort to address technical interoperability among distributed archives. The objective of OAI is to develop a framework to facilitate the discovery</abstract>
+	</publication>
+	<publication>
+		<title>DP9: an OAI gateway service for web crawlers</title>
+		<year>2002</year>
+		<authors>kurt maly,mohammad zubair,michael l. nelson</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Deep Web;Indexation;Open Archive Initiative;Open Source;Search Engine;Web Crawler;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Many libraries and databases are closed to general-purpose Web crawlers, and they expose their content only through their own search engines. At the same time many researchers attempt to locate technical papers through general-purpose Web search engines. DP9 is an open source gateway service that allows general search engines, (e.g. Google, Inktomi) to index OAI-compliant archives. DP9 does this by</abstract>
+	</publication>
+	<publication>
+		<title>Repository synchronization in the OAI framework</title>
+		<year>2003</year>
+		<authors>kurt maly,mohammad zubair,michael l. nelson</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword>Distributed Search;Metadata Extraction;Open Archive Initiative;Service Provider;Value Added Services;</keyword>
+		<organization>null</organization>
+		<abstract>The Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) began as an alternative to distributed searching of scholarly eprint repositories. The model embraced by the OAI-PMH is that of metadata harvesting, where value-added services (by a &quot;service provider&quot;) are constructed on cached copies of the metadata extracted from the repositories of the harvester's choosing. While this model dispenses with the</abstract>
+	</publication>
+	<publication>
+		<title>aDORe: A Modular, Standards-Based Digital Object Repository</title>
+		<year>2005</year>
+		<authors>herbert van de sompel,jeroen bekaert,lyudmila balakireva,thorsten schwander</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>1119</label>
+		<keyword>Architectural Design;Declarative Languages;Indexation;Process Engineering;Front End;Los Alamos National Laboratory;Open Archival Information System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the aDORe repository architecture, designed and implemented for ingesting, storing, and accessing a vast collection of Digital Objects at the Research Library of the Los Alamos National Laboratory. The aDORe architecture is highly modular and standards-based. In the architecture, the MPEG-21 Digital Item Declaration Language is used as the XML-based format to represent Digital Objects that can</abstract>
+	</publication>
+	<publication>
+		<title>aDORe: A Modular, Standards-Based Digital Object Repository</title>
+		<year>2005</year>
+		<authors>herbert van de sompel,jeroen bekaert,lyudmila balakireva,thorsten schwander</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>1119</label>
+		<keyword>Architectural Design;Declarative Languages;Indexation;Process Engineering;Front End;Los Alamos National Laboratory;Open Archival Information System;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the aDORe repository architecture, designed and implemented for ingesting, storing, and accessing a vast collection of Digital Objects at the Research Library of the Los Alamos National Laboratory. The aDORe architecture is highly modular and standards-based. In the architecture, the MPEG-21 Digital Item Declaration Language is used as the XML-based format to represent Digital Objects that can</abstract>
+	</publication>
+	<publication>
+		<title>Co-Authorship Networks in the Digital Library Research Community</title>
+		<year>2005</year>
+		<authors>johan bollen,michael l. nelson,herbert van de sompel</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>1119</label>
+		<keyword>Betweenness Centrality;Digital Library;Network Measurement;Network Model;Social Network Analysis;National Science Foundation;Program Committee;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The field of digital libraries (DLs) coalesced in 1994: the first digital library con- ferences were held that year, awareness of the World Wide Web was accelerating, and the National Science Foundation awarded $24 Million (U.S.) for the Digital Library Initiative (DLI). In this paper we examine the state of the DL domain af- ter a decade of activity by</abstract>
+	</publication>
+	<publication>
+		<title>File-Based Storage of Digital Objects and Constituent Datastreams: XMLtapes and Internet Archive ARC Files</title>
+		<year>2005</year>
+		<authors>lyudmila balakireva,patrick hochstenbach,herbert van de sompel</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Complex Objects;Indexation;Write Once Read Many;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces the write-once/read-many XMLtape/ARC storage approach for Digital Objects and their constituent datastreams. The approach combines two interconnected file-based storage mecha- nisms that are made accessible in a protocol-based manner. First, XML- based representations of multiple Digital Objects are concatenated into a single file named an XMLtape. An XMLtape is a valid XML file; its format definition is</abstract>
+	</publication>
+	<publication>
+		<title>mod_oai: An Apache Module for Metadata Harvesting</title>
+		<year>2005</year>
+		<authors>michael l. nelson,herbert van de sompel,terry l. harrison,nathan mcfarland</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Open Archive Initiative;Software Package;Web Crawling;</keyword>
+		<organization>null</organization>
+		<abstract>We describe mod_oai, an Apache 2.0 module that implements the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). OAI- PMH is the de facto standard for metadata exchange in digital libraries and allows repositories to expose their contents in a structured, application-neutral format with semantics optimized for accurate incremental harvesting. Current implementations of OAI-PMH are either separate applications that access</abstract>
+	</publication>
+	<publication>
+		<title>Representing Digital Assets for Long-Term Preservation using MPEG21 DID</title>
+		<year>2005</year>
+		<authors>jeroen bekaert,herbert van de sompel</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Building Block;Digital Preservation;Information Model;</keyword>
+		<organization>null</organization>
+		<abstract>Various efforts aimed at representing digital assets have emerged from several communities over the last years, including the Metadata Encoding and Transmission Standard (METS), the IMS Content Packaging (IMS-CP) XML Binding and the XML Formatted Data Units (XFDU). The MPEG-21 Digital Item Declaration (MPEG-21 DID) is another approach that can be used for the representation of digital assets in XML.</abstract>
+	</publication>
+	<publication>
+		<title>Pathways: Augmenting interoperability across scholarly repositories</title>
+		<year>2006</year>
+		<authors>simeon warner,jeroen bekaert,carl lagoze,sandy payette,herbert van de sompel</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Data Model;Heterogeneous Systems;Scholarly Communication;Service Architecture;Value Chain;</keyword>
+		<organization>null</organization>
+		<abstract>In the emerging eScience environment, reposito- ries of papers, datasets, software, etc., should be the foun - dation of a global and natively-digital scholarly communica- tions system. The current infrastructure falls far short of this goal. Cross-repository interoperability must be augmented to support the many workflows and value-chains involved in scholarly communication. This will not be achieved through the promotion</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Architecture for Harvest-Based Digital Libraries - The ODU/Southampton Experiments</title>
+		<year>2002</year>
+		<authors>tim brody,stevan harnad,les carr,kurt maly,mohammad zubair,michael l. nelson</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Open Archive Initiative;Proxy Caching;Satisfiability;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the requirements of current and emerging applicationsbased on the Open Archives Initiative (OAI) and emphasizes the need for a common infrastructure to support them. Inspired by HTTP proxy, cache, gateway and web service concepts, a design for a scalable and reliable infrastructure that aims at satisfying these requirements is presented. Moreover it is shown how various</abstract>
+	</publication>
+	<publication>
+		<title>A Scalable Architecture for Harvest-Based Digital Libraries - The ODU/Southampton Experiments</title>
+		<year>2002</year>
+		<authors>tim brody,stevan harnad,les carr,kurt maly,mohammad zubair,michael l. nelson</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1119</label>
+		<keyword>Digital Library;Open Archive Initiative;Proxy Caching;Satisfiability;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the requirements of current and emerging applications based on the Open Archives Initiative (OAI) and emphasizes the need for a common infrastructure to support them. Inspired by HTTP proxy, cache, gateway and web service concepts, a design for a scalable and reliable infrastructure that aims at satisfying these requirements is presented. Moreover it is shown how various</abstract>
+	</publication>
+	<publication>
+		<title>Search Engine Coverage of the OAI-PMH Corpus</title>
+		<year>2006</year>
+		<authors>frank mccown,michael l. nelson,mohammad zubair</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>1119</label>
+		<keyword>Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Co-Authorship Networks in the Digital Library Research Community</title>
+		<year>2005</year>
+		<authors>johan bollen,michael l. nelson,herbert van de sompel</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>1119</label>
+		<keyword>Betweenness Centrality;Digital Library;Network Measurement;Network Model;Social Network Analysis;National Science Foundation;Program Committee;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The field of digital libraries (DLs) coalesced in 1994: the first digital library con- ferences were held that year, awareness of the World Wide Web was accelerating, and the National Science Foundation awarded $24 Million (U.S.) for the Digital Library Initiative (DLI). In this paper we examine the state of the DL domain af- ter a decade of activity by</abstract>
+	</publication>
+	<publication>
+		<title>Federated Searching Interface Techniques for Heterogeneous OAI Repositories</title>
+		<year>2002</year>
+		<authors>kurt maly,mohammad zubair,qiaoling hong,michael l. nelson,frances knudson,irma holtkamp</authors>
+		<jconf>Journal of Digital Information</jconf>
+		<label>1119</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pathways: augmenting interoperability across scholarly repositories</title>
+		<year>2007</year>
+		<authors>simeon warner,jeroen bekaert,carl lagoze,sandy payette,herbert van de sompel</authors>
+		<jconf>International Journal on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pathways: augmenting interoperability across scholarly repositories</title>
+		<year>2007</year>
+		<authors>simeon warner,jeroen bekaert,carl lagoze,sandy payette,herbert van de sompel</authors>
+		<jconf>International Journal on Digital Libraries</jconf>
+		<label>1119</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Estimating The Lower Bounds Of Recombination With Or Without Recurrent Mutations</title>
+		<year>2007</year>
+		<authors>yun-xin fu</authors>
+		<jconf>Bioinformatics &amp; Computational Biology</jconf>
+		<label>1120</label>
+		<keyword>Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

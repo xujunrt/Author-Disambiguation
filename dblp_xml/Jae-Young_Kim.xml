@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jae-Young Kim</FullName>
+	<publication>
+		<title>System Performance of Transmit Diversity Schemes for Interference-Limited Cellular Systems</title>
+		<year>2007</year>
+		<authors>nageen himayat,shilpa talwar,wan choi,j. koo,jane choi,yujin noh,josep kim</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>337</label>
+		<keyword>Cellular System;System Performance;Transmit Diversity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modified phase silence shift keying with phase offset for WBAN systems</title>
+		<year>2009</year>
+		<authors>jaehwan kim,jung-yeol oh,hyungsoo lee</authors>
+		<jconf>International Conference on Interaction Sciences</jconf>
+		<label>338</label>
+		<keyword>Phase Change;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents modified PSSK scheme with phase offset to eliminate 180° phase change between adjacent symbols. The proposed scheme uses different signal constellation for the different silence period of PSSK. Phase offset between the constellations is applied in proposed OPSSK. Simulation results of error performances and spectral re-growth are also provided.</abstract>
+	</publication>
+	<publication>
+		<title>A pi/4-shifted differential 8PSSK modulation for high data rate WBAN system</title>
+		<year>2009</year>
+		<authors>jung-yeol oh,jaehwan kim,hyungsoo lee</authors>
+		<jconf>International Conference on Interaction Sciences</jconf>
+		<label>338</label>
+		<keyword>Communication System;High Data Rate;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a new modulation scheme for high data rate WBAN in-body communication systems. We propose a π/4-shifted differential 8-PSSK scheme that includes its architectures for the transmitter and receiver. Simulation results are presented in terms of performance, modulation options and frequency tolerance.</abstract>
+	</publication>
+	<publication>
+		<title>Reliability and Capacity Enhancement Algorithms for Wireless Personal Area Network Using an Intelligent Coordination Scheme</title>
+		<year>2005</year>
+		<authors>oh chang-heon,chul-gyu kang</authors>
+		<jconf>Knowledge-Based Intelligent Information &amp; Engineering Systems</jconf>
+		<label>339</label>
+		<keyword>Wireless Personal Area Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ranging Implementation for IEEE 802.15.4a IR-UWB Systems</title>
+		<year>2008</year>
+		<authors>oh mi-kyung</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>338</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Carrier Frequency Recovery for in Non-Coherent Demodulation for IEEE802.15.4 System</title>
+		<year>2006</year>
+		<authors>oh jung-yeol,byung-jae kwak</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>338</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

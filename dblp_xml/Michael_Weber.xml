@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Weber</FullName>
+	<publication>
+		<title>LTSmin: Distributed and Symbolic Reachability</title>
+		<year>2010</year>
+		<authors>stefan blom,jaco van de pol</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>711</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Local Parallel Model Checking for the Alternation-Free µ-Calculus</title>
+		<year>2002</year>
+		<authors>benedikt bollig,martin leucker</authors>
+		<jconf>SPIN</jconf>
+		<label>711</label>
+		<keyword>Model Checking;Network of Workstation;Parallel Models;</keyword>
+		<organization>null</organization>
+		<abstract>We describe the design of (several variants of) a local par- allel model-checking algorithm for the alternation-free fragment of the µ-calculus. It exploits a characterisation of the problem for this fragment in terms of two-player games. For the corresponding winner, our algo- rithm determines in parallel a winning strategy, which may be employed for debugging the underlying system interactively, and</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Model Checking for the Alternation Free µ-Calculus</title>
+		<year>2001</year>
+		<authors>benedikt bollig,martin leucker</authors>
+		<jconf>Tools and Algorithms for Construction and Analysis of Systems</jconf>
+		<label>711</label>
+		<keyword>Design and Implementation;Model Checking;Network of Workstation;Parallel Models;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe the design and implementation of a parallel model checking algorithm for the alternation free fragment of the |ì-calculus. It exploits a characterisation of the model checking problem for this fragment in terms of two-person games. Our algorithm determines the corresponding winner in parallel. It is designed to run on a network of workstations. An implementation</abstract>
+	</publication>
+	<publication>
+		<title>Boosting Multi-Core Reachability Performance with Shared Hash Tables</title>
+		<year>2010</year>
+		<authors>alfons laarman,jaco van de pol</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>711</label>
+		<keyword>Data Layout;Data Structure;Hash Table;Load Balance;Model Checking;Search Algorithm;State Space;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on data structures for multi-core reachability, which is a key component in model checking algorithms and other verification methods. A cornerstone of an efficient solution is the storage of visited states. In related work, static partitioning of the state space was combined with thread-local storage and resulted in reasonable speedups, but left open whether improvements are possible.</abstract>
+	</publication>
+	<publication>
+		<title>A Database Approach to Distributed State Space Generation</title>
+		<year>2008</year>
+		<authors>stefan blom,bert lisser,jaco van de pol</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>711</label>
+		<keyword>Cluster of Workstations;Hash Function;State Space;Unbounded Domain;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>We study distributed state space generation on a cluster of workstations. It is ex- plained why state space partitioning by a global hash function is problematic when states contain variables from unbounded domains, such as lists or other recursive datatypes. Our solution is to introduce a database which maintains a global num- bering of state values. We also describe tree-compression,</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Model Checking for LTL, CTL*, and Lµ2</title>
+		<year>2003</year>
+		<authors>martin leucker,rafal somla</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>711</label>
+		<keyword>Parallel Algorithm;Parallel Models;Temporal Logic;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a parallel model-checking algorithm for the fragment of the -calculus that allows one alternation of minimal and maximal xed-p oint operators. This fragment is also known as L2 . Since LTL and CTL can be encoded in this fragment, we obtain parallel model checking algorithms for practically important temporal logics. Our solution is based on a characterization of</abstract>
+	</publication>
+	<publication>
+		<title>A Multi-Core Solver for Parity Games</title>
+		<year>2008</year>
+		<authors>jaco van de pol</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>711</label>
+		<keyword>Communication Protocol;Model Checking;Parallel Algorithm;System Modeling;Termination Detection;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a parallel algorithm for solving parity games, with applications in, e.g., modal µ-calculus model checking with arbitrary alternations, and (branching) bisimulation check- ing. The algorithm is based on Jurdzinski's Small Progress Measures. Actually, this is a class of algorithms, depending on a selection heuristics. Our algorithm operates lock-free, and mostly wait-free (except for infrequent termination detection), and thus</abstract>
+	</publication>
+	<publication>
+		<title>Functional programming languages for verification tools: a comparison of Standard ML and Haskell</title>
+		<year>2005</year>
+		<authors>martin leucker,thomas noll,perdita stevens</authors>
+		<jconf>International Journal on Software Tools for Technology Transfer</jconf>
+		<label>711</label>
+		<keyword>Functional Programming;Functional Programming Language;Programming Language;Standard Ml;</keyword>
+		<organization>null</organization>
+		<abstract>We compare Haskell with Standard ML as programming languages for verification tools based on our experience developing the verification platform Truth in Haskell and the Edinburgh Concurrency Workbench (CWB) in Standard ML .W e review not only technical language features but also the &quot;worlds&quot; of the languages, for example, the availability of compilers, tools, and libraries. We also discuss the</abstract>
+	</publication>
+</person>

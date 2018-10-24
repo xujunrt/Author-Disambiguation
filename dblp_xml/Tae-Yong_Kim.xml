@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Tae-Yong Kim</FullName>
+	<publication>
+		<title>A Thin Shell Volume for Modeling Human Hair</title>
+		<year>2000</year>
+		<authors>ulrich neumann</authors>
+		<jconf>Computer Animation Conference</jconf>
+		<label>997</label>
+		<keyword>Hair Modeling;Surface Model;Surface Representation;</keyword>
+		<organization>null</organization>
+		<abstract>Hair-to-hair interaction is often ignored in human hair modeling, due to its computational and algorithmic complexity. In this paper, we present our experimental approach to simulate the complex behavior of long human hair, taking into account hair- to-hair interactions. We describe a thin shell volume (TSV) model for enhancing hair realism by simulating complex hair-hair interaction. The TSV is a</abstract>
+	</publication>
+	<publication>
+		<title>Opacity Shadow Maps</title>
+		<year>2001</year>
+		<authors>ulrich neumann</authors>
+		<jconf>Eurographics Symposium on Rendering/Eurographics Workshop on Rendering Techniques</jconf>
+		<label>997</label>
+		<keyword>Graphics Hardware;Shadow Mapping;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  Opacity shadow maps approximate light transmittance inside a complex volume with a  set of planar opacity maps A volume made of standard primitives (points, lines, and  polygons) is sliced and rendered with graphics hardware to each opacity map that stores  alpha values instead of traditionally used depth values The alpha values are sampled in  the maps enclosing each primitive</abstract>
+	</publication>
+	<publication>
+		<title>Animation and simulation of octopus arms in 'The Night at the Museum 2</title>
+		<year>2009</year>
+		<authors>matt derksen</authors>
+		<jconf>Annual Conference on Computer Graphics</jconf>
+		<label>997</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>We present a set of techniques we used to animate flexible arms of the monstrous octopus character in 'The Night at the Museum 2'. For this production, we adopted layered approaches, where key motions of the arms were animated with conventional methods by animators, while details were cleaned up by multiple passes of simulations of skeleton, flesh and tentacles.</abstract>
+	</publication>
+	<publication>
+		<title>Interactive multiresolution hair modeling and editing</title>
+		<year>2002</year>
+		<authors>ulrich neumann</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>997</label>
+		<keyword>Hair Modeling;Multiple Scales;multiresolution modeling;Shadow Algorithm;Tool Support;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>Human hair modeling is a difficult task. This paper presents a constructive hair modeling system with which users can sculpt a wide variety of hairstyles. Our Multiresolution Hair Modeling (MHM) system is based on the observed tendency of adjacent hair strands to form clusters at multiple scales due to static attraction. In our system, initial hair designs are quickly created</abstract>
+	</publication>
+	<publication>
+		<title>Expressive Facial Animation Synthesis by Learning Speech Coarticulation and Expression Spaces</title>
+		<year>2006</year>
+		<authors>zhigang deng,ulrich neumann,john p. lewis,murtaza bulut,shrikanth narayanan</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>997</label>
+		<keyword>Facial Animation;Human Subjects;Indexing Terms;Motion Capture Data;Principal Component Analysis;Signal Processing;Texture Synthesis;</keyword>
+		<organization>null</organization>
+		<abstract>Synthesizing expressive facial animation is a very challenging topic within the graphics community. In this paper, we present an expressive facial animation synthesis system enabled by automated learning from facial motion capture data. Accurate 3D motions of the markers on the face of a human subject are captured while he/she recites a pre-designed corpus, with specific spoken and visual expressions.</abstract>
+	</publication>
+	<publication>
+		<title>A Survey on Hair Modeling: Styling, Simulation, and Rendering</title>
+		<year>2007</year>
+		<authors>kelly ward,florence bertails,stephen r. marschner,marie-paule cani,ming c. lin</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>997</label>
+		<keyword>Computer Graphic;Hair Modeling;Indexing Terms;physically-based simulation;Virtual Human;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— Realistic hair modeling is a fundamental part of creating virtual humans,in computer,graphics. This paper surveys the state of the art in the major topics of hair modeling: hairstyling, hair simulation, and hair rendering. Because of the difficult, often unsolved, problems that arise in all these areas, a broad diversity of approaches are used, each with strengths that make it</abstract>
+	</publication>
+</person>

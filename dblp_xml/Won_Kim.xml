@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Won Kim</FullName>
+	<publication>
+		<title>Transmission Rate Prediction of VBR Motion Image Using the Kalman Filter</title>
+		<year>2006</year>
+		<authors>hyojong jang,gye-young kim</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>1099</label>
+		<keyword>kalman filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Robust Watermarking Technique in Geometric Distortion of Digital Image</title>
+		<year>2003</year>
+		<authors>il-ju ko,na-young lee,gye-young kim,hyung-il choi</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>1099</label>
+		<keyword>Digital Image;Robust Watermarking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Recurrent Fuzzy Associative Memory for Recognizing Time-Series Patterns Contained Ambiguity</title>
+		<year>2004</year>
+		<authors>joong-jae lee,jeong-hee cha,gye-young kim,hyung-il choi</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>1099</label>
+		<keyword>Associative Memory;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inference of recommendation information on the internet using improved FAM</title>
+		<year>2004</year>
+		<authors>il-ju ko,jin-sung yoon,gye-young kim</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1099</label>
+		<keyword>Internet Use;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Incremental Watermarking Based on Dual-Tree Complex Wavelet Transform</title>
+		<year>2005</year>
+		<authors>joong-jae lee,na-young lee,gye-young kim</authors>
+		<jconf>The Journal of Supercomputing</jconf>
+		<label>1099</label>
+		<keyword>Complex Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

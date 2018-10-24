@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J&amp;ouml;rg Wagner</FullName>
+	<publication>
+		<title>A Development Platform for the Design and Optimization of Mobile Radio Networks</title>
+		<year>1999</year>
+		<authors>jürgen deissner,gerhard fettweis,jörg fischer,dietrich hunold,jens voigt,ralf lehnert,mathias schweigel</authors>
+		<jconf>Messung, Modellierung und Bewertung vonRechen- und Kommunikationssystemen</jconf>
+		<label>324</label>
+		<keyword>Dynamic System;Empirical Method;Radio Networks;System Simulation;Wireless Network;Mobile User;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>The rapidly increasing traffic demand from mobile users forces network operators and service providers to extend and optimize existing networks as well as to plan entirely new mobile radio networks. Current planning methods rely on static coverage prediction. The optimization is partly based on measurements and gathered experiences in connection with empirical methods. However, these methods do not adequately take</abstract>
+	</publication>
+	<publication>
+		<title>User-Land Work Stealing Schedulers: Towards a Standard</title>
+		<year>2008</year>
+		<authors>armin jahanpanah,jesper larsson träff</authors>
+		<jconf>International Conference on Complex, Intelligent and Software Intensive Systems</jconf>
+		<label>325</label>
+		<keyword>Work Stealing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

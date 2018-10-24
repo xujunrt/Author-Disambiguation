@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Li Ding</FullName>
+	<publication>
+		<title>A novel technique to improve noise immunity of CMOS dynamic logic circuits</title>
+		<year>2004</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>526</label>
+		<keyword>Design Technique;Digital Integrated Circuits;Dynamic Logic;High Performance;Logic Gate;Negative Differential Resistance;System Performance;Technology Scaling;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic CMOS logic circuits are widely employed in high performance VLSI chips in pursuing very high system performance. However, dynamic circuits are inherently less resistant to noises than static CMOS gates. With the increasing stringent noise requirement due to aggressive technology scaling, the noise tolerance of dynamic circuits has to be first improved for the overall reliable operation of VLSI</abstract>
+	</publication>
+	<publication>
+		<title>Worst-case aggressor-victim alignment with current-source driver models</title>
+		<year>2009</year>
+		<authors>ravikishore gandikota,peivand tehrani,david blaauw</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>526</label>
+		<keyword>cumulant;Noise Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Crosstalk delay-noise which occurs due to the simultaneous transitions of victim and aggressor drivers is very sensitive to their mutual alignment. Hence, during static noise analysis, it is crucial to identify the worst-case victim-aggressor alignment which results in the maximum delay-noise. Although several approaches have been proposed to obtain the worst-case aggressor alignment, most of them compute only the worst-case</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Transistor Tapering for High-Speed CMOS Circuits</title>
+		<year>2002</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>526</label>
+		<keyword>High Speed;Variational Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Transistor tapering is a widely used technique appliedto optimize the geometries of CMOS transistors in high-performancecircuit design with a view to minimizing thedelay of a FET network. Currently, in a long series-connectedFET chain, the dimensions of the transistors aredecreased from bottom transistor to the top transistor in amanner where the width of transistors is tapered linearlyor exponentially. However, it has</abstract>
+	</publication>
+	<publication>
+		<title>Accurate Estimating Simultaneous Switching Noises by Using Application Specific Device Modeling</title>
+		<year>2002</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>526</label>
+		<keyword>Device Modeling;Simultaneous Switching Noise;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the simultaneous switching noiseproblem by using an application-specific modeling method.A simple yet accurate MOSFET model is proposed in orderto derive closed-form formulas for simultaneous switchingnoise voltage waveforms. We first derive a simple formulaassuming that the inductances are the only parasitics. Andthrough HSPICE simulation, we show that the new formulais more accurate than previous results based</abstract>
+	</publication>
+	<publication>
+		<title>Modeling Noise Transfer Characteristic of Dynamic Logic Gates</title>
+		<year>2003</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>526</label>
+		<keyword>Dynamic Logic;Logic Gate;Noise Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic noise analysis is recently gaining more attention as a definitive method to overcome glaring deficiencies of static noise analysis. Exact dynamic noise analysis requires modeling of both injected noise and propagated noise. In this paper, we have developed a strategy to study the noise propagation problem. An efficient analytical formula has been derived to accurately model the noise waveform</abstract>
+	</publication>
+	<publication>
+		<title>Efficient crosstalk noise modeling using aggressor and tree reductions</title>
+		<year>2002</year>
+		<authors>david blaauw,pinaki mazumder</authors>
+		<jconf>International Conference on Computer Aided Design</jconf>
+		<label>526</label>
+		<keyword>Closed Form Solution;Crosstalk Noise;High Performance;Noise Estimation;Optimal Algorithm;Physical Design;Reduction Method;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a fast method to estimate crosstalk noise in the presence of multiple aggressor nets for use in physical design automation tools. Since noise estimation is often part of the innerloop of optimization algorithms, very efficient closed-form solutions are needed. Previous approaches have typically used simple lumped 3--4 node circuit templates. One aggressor net is modeled at a</abstract>
+	</publication>
+	<publication>
+		<title>A dual-rail static edge-triggered latch</title>
+		<year>2001</year>
+		<authors>pinaki mazumder,n. srinivas</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modified long channel model for analytical study of DSM circuits</title>
+		<year>2002</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword>Channel Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Crosstalk noise estimation using effective coupling capacitance</title>
+		<year>2002</year>
+		<authors>pinaki mazumder,david blaauw</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword>Crosstalk Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Novel macromodeling for on-chip RC/RLC interconnects</title>
+		<year>2002</year>
+		<authors>qinwei xu,pinaki mazumder</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword>Equivalent Circuit;Numerical Experiment;</keyword>
+		<organization>null</organization>
+		<abstract>The improved T and improved models are proposed for on-chip interconnect macromodeling. Using global approx- imations, simple approximation frames are derived and ap- plied to modeling of on-chip distributed RC/RLC intercon- nects. The applications lead to equivalent circuits, which are represented by the improved T and improved models. The new models for distributed RC/RLC interconnects are inde- pendent of CMOS</abstract>
+	</publication>
+	<publication>
+		<title>Performance modeling of resonant tunneling based RAMs</title>
+		<year>2003</year>
+		<authors>hui zhang,pinaki mazumder,kyounghoon yang</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword>Performance Model;Resonant Tunneling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Sequential Cell Noise Immunity Characterization Using Metastable Point of Feedback Loop</title>
+		<year>2006</year>
+		<authors>oh nahmsuk,alireza kasnavi</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>526</label>
+		<keyword>Feedback Loop;</keyword>
+		<organization>null</organization>
+		<abstract>Noise glitches can cause functional errors or failures if they are latched into sequential cells. Thus it is very important to determine or characterize noise failure criteria of sequential cells. However, characterizing noise failure criteria of sequential cells is very computationally expensive because it often requires multiple transient simulations with different clock waveform shapes and alignments, known as clock sweeping.</abstract>
+	</publication>
+	<publication>
+		<title>TBNM - Transistor-Level Boundary Model for Fast Gate-Level Noise Analysis of Macro Blocks</title>
+		<year>2006</year>
+		<authors>jindrich zejda</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>526</label>
+		<keyword>Noise Analysis;Macro Block;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>A voltage and current-accurate boundary model is presented for custom and hard macro blocks. For a given hierarchical transistor-level netlist of a digital macro block we identify a small but sufficient subset of transistors that form a boundary netlist for performing fast noise analysis. The model contains layers of the original transistors and parasitics around the block boundary. Therefore it</abstract>
+	</publication>
+	<publication>
+		<title>The Impact of Bit-Line Coupling and Ground Bounce on CMOS SRAM Performance</title>
+		<year>2003</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>VLSI Design</jconf>
+		<label>526</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Noise Margin: Definitions and Model</title>
+		<year>2004</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>VLSI Design</jconf>
+		<label>526</label>
+		<keyword>Figure of Merit;Marginal Models;Noise Analysis;Self Consistent;Static Noise Margin;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic noise analysis is greatly needed in place of tra- ditional static noise analysis due to the ever increasingly stringent design requirement for VLSI chips based on very deep submicron process technology. In this paper, we pro- pose complete and self-consistent dynamic noise margin definitions to reduce the pessimism of conventional static noise margin based noise analysis. A simple and</abstract>
+	</publication>
+	<publication>
+		<title>Accurate crosstalk noise modeling for early signal integrity analysis</title>
+		<year>2003</year>
+		<authors>david blaauw,pinaki mazumder</authors>
+		<jconf>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems</jconf>
+		<label>526</label>
+		<keyword>Closed Form Solution;Crosstalk Noise;High Performance;Indexing Terms;Noise Estimation;Optimal Algorithm;Physical Design;Reduction Method;Signal Integrity;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose an accurate and fast method to estimate the crosstalk noise in the presence of multiple aggressor nets for use in physical design automation tools. Since noise estimation is often part of the inner loop of optimization algorithms, very efficient closed-form solutions are needed. Previous approaches model aggressor nets one at a time, assuming that the</abstract>
+	</publication>
+	<publication>
+		<title>Simultaneous switching noise analysis using application specific device modeling</title>
+		<year>2003</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>526</label>
+		<keyword>Analytical Model;Device Modeling;Digital Systems;i-v characteristic;Indexing Terms;Simultaneous Switching Noise;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce an application-specific device modeling methodology to develop simple device model that accurately tracks the actual device I-V characteristics in relevant but bounded operating regions. We have specifically used a simple MOSFET model to precisely analyze the switching noises generated on a chip due to simultaneous driving of chip output pads by bulky buffer gates. Previous</abstract>
+	</publication>
+	<publication>
+		<title>On circuit techniques to improve noise immunity of CMOS dynamic logic</title>
+		<year>2004</year>
+		<authors>pinaki mazumder</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>526</label>
+		<keyword>Design Technique;Digital Integrated Circuits;Dynamic Logic;High Performance;Indexing Terms;Logic Gate;Negative Differential Resistance;System Performance;Technology Scaling;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic CMOS logic circuits are widely employed in high-performance VLSI chips in pursuing very high system performance. However, dynamic CMOS gates are inherently less resistant to noises than static CMOS gates. With the increasing stringent noise requirement due to aggressive technology scaling, the noise tolerance of dynamic circuits has to be first improved for the overall reliable operation of VLSI</abstract>
+	</publication>
+	<publication>
+		<title>Research on Cost-Sensitive Learning in One-Class Anomaly Detection Algorithms</title>
+		<year>2007</year>
+		<authors>jun luo,zhisong pan,guiqiang ni,guyu hu</authors>
+		<jconf>Autonomic and Trusted Computing</jconf>
+		<label>527</label>
+		<keyword>Anomaly Detection;cost-sensitive learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Study on the Appraisal Methods of Hand Fatigue</title>
+		<year>2007</year>
+		<authors>feng yang,chunxin yang,xiugan yuan,yang li</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>528</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Investigation on Ergonomics Characteristics of Protective Clothing Based on Capture of Three-Dimensional Body Movements</title>
+		<year>2007</year>
+		<authors>huimin hu,chunxin yang,xiugan yuan</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>528</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An algorithm for simulating human arm movement considering the comfort level</title>
+		<year>2005</year>
+		<authors>feng yang,chunxin yang,xiugan yuan</authors>
+		<jconf>Simulation Practice and Theory</jconf>
+		<label>528</label>
+		<keyword>Arm Movement;Indexation;Inverse Dynamics;Inverse Kinematics;Motor Control;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract>Seeking other joint trajectories of human arm in terms of given trajectoryof hand is a wide research problem. In this paper, the computational problem of inverse kinematics of arm movement was investigated. On the basis of an eight-DOF arm model, an inverse kinematics algorithm recreating arm motion was developed in accordance with the humans feedback con- trol mechanism of motor.</abstract>
+	</publication>
+	<publication>
+		<title>Digital Library Construction Information Technology Application and Practice in Campus Library</title>
+		<year>2000</year>
+		<authors>shao zhengrong</authors>
+		<jconf>Kyoto International Conference on Digital Libraries</jconf>
+		<label>529</label>
+		<keyword>Digital Library;Information Technology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information and Technology Application and Practice in Campus Library</title>
+		<year>2000</year>
+		<authors>shao zhergrong</authors>
+		<jconf>Kyoto International Conference on Digital Libraries</jconf>
+		<label>529</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach for Recording Multimedia Collaborative Sessions: Design and Implementation</title>
+		<year>2003</year>
+		<authors>shervin shirmohammadi,nicolas d. georganas</authors>
+		<jconf>Multimedia Tools and Applications</jconf>
+		<label>530</label>
+		<keyword>Design and Implementation;Multimedia Systems;Synchronized Multimedia Integration Language;</keyword>
+		<organization>null</organization>
+		<abstract>In this article we present the design and implementation of a videoconferencing session recorder multimedia system. Our system is a videoconferencing tool that has the capability of recording live multimedia collaborative/conferencing sessions. The main distinction between our architecture and other ones is that unlike other recording systems, which require the original application for the playback, our system generates Synchronized Multimedia</abstract>
+	</publication>
+</person>

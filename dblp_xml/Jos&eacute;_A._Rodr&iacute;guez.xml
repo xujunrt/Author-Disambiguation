@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jos&amp;eacute; A. Rodr&amp;iacute;guez</FullName>
+	<publication>
+		<title>Response Time of Streaming Chains: Analysis and Results</title>
+		<year>2002</year>
+		<authors>angel m. groba,alejandro alonso,marisol garcía-valls</authors>
+		<jconf>Euromicro Conference on Real-Time Systems</jconf>
+		<label>441</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

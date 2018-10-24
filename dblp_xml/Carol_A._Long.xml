@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Carol A. Long</FullName>
+	<publication>
+		<title>Developing technological and content knowledge through publishing web pages</title>
+		<year>1996</year>
+		<authors>sue p. reehm,mary ito dennison</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>117</label>
+		<keyword>Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

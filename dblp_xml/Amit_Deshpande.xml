@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Amit Deshpande</FullName>
+	<publication>
+		<title>Integrated Approach to Detect Inconspicuous Content</title>
+		<year>2005</year>
+		<authors>rosina weber,ilya waldstein,jason m. proctor</authors>
+		<jconf>Wissensmanagement</jconf>
+		<label>35</label>
+		<keyword>Clustered Data;Integrated Approach;Natural Language;Real Time Application;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes an integrated approach for detecting inconspicuous contents in text. Inconspicuous contents can be an opinion or goal that may be disguised in some way to mislead automated methods but keeps a clear message for humans (e.g., terrorist sites). Our methodology hypothesizes that patterns that convey inconspicuous contents can be extracted, represented, generalized, and matched in unknown text.</abstract>
+	</publication>
+	<publication>
+		<title>The Total Growth of Open Source</title>
+		<year>2008</year>
+		<authors>dirk riehle</authors>
+		<jconf>Open Source Software</jconf>
+		<label>36</label>
+		<keyword>Open Source;Open Source Software;Software Development;Software Process;Source Code;Growth Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Software development is undergoing a major change away from a fully closed software process towards a process that incorporates open source software in products and services. Just how significant is that change? To an- swer this question we need to look at the overall growth of open source as well as its growth rate. In this paper, we quantitatively analyze</abstract>
+	</publication>
+	<publication>
+		<title>Continuous Integration in Open Source Software Development</title>
+		<year>2008</year>
+		<authors>dirk riehle</authors>
+		<jconf>Open Source Software</jconf>
+		<label>36</label>
+		<keyword>Agile Software Development;Life Span;Open Source Software;Open Source Software Development;</keyword>
+		<organization>null</organization>
+		<abstract>Commercial software firms are increasingly using and contributing to open source software. Thus, they need to understand and work with open source software development processes. This paper investigates whether the practice of continuous integration of agile software development methods has had an impact on open source software projects. Using fine-granular data from more than 5000 active open source software projects</abstract>
+	</publication>
+</person>

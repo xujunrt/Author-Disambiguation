@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Masaki Nakamura</FullName>
+	<publication>
+		<title>INTERVISION: A New Hypermedia System Focusing on Dynamic Media</title>
+		<year>1991</year>
+		<authors>hideto ikeda,fumio kitagawa,kenzo uchiyama</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>661</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling Molecular Computing Systems by an Artificial Chemistry - Its Expressive Power and Application</title>
+		<year>2007</year>
+		<authors>kazuto tominaga,tooru watanabe,keiji kobayashi,koji kishi,mitsuyoshi kazuno</authors>
+		<jconf>Artificial Life</jconf>
+		<label>662</label>
+		<keyword>Expressive Power;Molecular Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bruce G. Lindsay</FullName>
+	<publication>
+		<title>EST clustering error evaluation and correction</title>
+		<year>2004</year>
+		<authors>ji-ping z. wang,james leebens-mack,liying cui,p. kerr wall,webb c. miller,claude w. depamphilis</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>111</label>
+		<keyword>Cdna Library;Error Correction;Expressed Sequence Tag;Expression Pattern;Gene Cluster;Gene Expression;Statistical Approach;Type I Error;Type Ii Error;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: The gene expression intensity information conveyed by (EST) Expressed Sequence Tag data can be used to infer important cDNA library properties, such as gene number and expression patterns. However, EST clus- tering errors, which often lead to greatly inflated estimates of obtained unique genes, have become a major obstacle in the analyses. The EST clustering error structure, the rela-</abstract>
+	</publication>
+	<publication>
+		<title>Gene capture prediction and overlap estimation in EST sequencing from one or multiple libraries</title>
+		<year>2005</year>
+		<authors>ji-ping z. wang,liying cui,p. kerr wall,josh marion,jiaxuan zhang,claude w. depamphilis</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>111</label>
+		<keyword>arabidopsis thaliana;Cdna Library;compound poisson process;Experimental Design;Expressed Sequence Tag;Prediction Method;Simulation Study;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: In expressed sequence tag (EST) sequencing, we are often interested in how many genes we can capture in an EST sample of a targeted size. This information provides insights to sequencing efficiency in experimental design, as well as clues to the diversity of expressed genes in the tissue from which the library was constructed. RESULTS: We propose a compound</abstract>
+	</publication>
+	<publication>
+		<title>The iteratively reweighted estimating equation in minimum distance problems</title>
+		<year>2004</year>
+		<authors>ayanendranath basu</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>111</label>
+		<keyword>Estimating Equation;Minimum Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some variants of minimum disparity estimation</title>
+		<year>2004</year>
+		<authors>ayanendranath basu,bruce g. lindsay</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>111</label>
+		<keyword>Disparity Estimation;Small Samples;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper proposes several variants of disparity based inference (Lindsay 1994). We introduce these modifications and explain the motivation behind them. Several of these estimators and tests have attractive efficiency and robustness properties. An extensive numerical and graphical investigation is presented to substantiate the theory developed and demonstrate the small sample properties of these methods. An empty cell penalty</abstract>
+	</publication>
+	<publication>
+		<title>Tests and diagnostics for heterogeneity in the species problem</title>
+		<year>2003</year>
+		<authors>chang xuan mao</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>111</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chih-Chun Chen</FullName>
+	<publication>
+		<title>Consistent parametrization by quinary subdivision for remeshing and mesh metamorphosis</title>
+		<year>2003</year>
+		<authors>jian-liang lin,jung-hong chuang,cheng-chung lin</authors>
+		<jconf>Computer graphics and interactive techniques in Austalasia and South East Asia</jconf>
+		<label>135</label>
+		<keyword>Computer Graphic;Geometry Processing;Multiple Objectives;multiresolution modeling;</keyword>
+		<organization>null</organization>
+		<abstract>The vertex correspondence establishment among multiple objects is a versatile operation in computer graphics and geometry processing. We propose a systematic method called recursive quinary subdivision to efficiently find a dissection for a meshed object of genus-zero with little user input. The process can be easily extended to multiple objects, taking into account the alignment of extra feature points for</abstract>
+	</publication>
+	<publication>
+		<title>Rendering complex scenes using spatial subdivision and textured LOD meshes</title>
+		<year>2003</year>
+		<authors>jung-hong chuang,bo-yin lee,wei-wen feng,ting chiou</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>135</label>
+		<keyword>Image Based Rendering;Image Quality;Texture Mapping;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>We present a hybrid rendering scheme that explores the locality of visibility at the cost of extra storage and prefetching, and makes a tradeoff between image quality and rendering efficiency by using textured level-of-detail (LOD) meshes. The space is first subdivided into cells. For each cell, inside objects are rendered as normal while outside objects are rendered as textured LOD</abstract>
+	</publication>
+	<publication>
+		<title>Texture Adaptation for Progressive Meshes</title>
+		<year>2006</year>
+		<authors>jung-hong chuang</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>135</label>
+		<keyword>Indexation;Linear Interpolation;Mesh Simplification;Progressive Mesh;Real Time Application;Texture Mapping;Level of Detail;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>Level-of-detail modeling is a vital representation for real-time applications. T o support texture mapping progres- sive meshes (PM), we usually allow the whole PM sequence to share a comm on texture map. Although such a common texture map can be derived by using appropriate mesh paramete rizations that consider the minimization of geometry stretch, texture stretch, or even the texture</abstract>
+	</publication>
+</person>

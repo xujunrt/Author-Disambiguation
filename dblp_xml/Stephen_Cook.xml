@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stephen Cook</FullName>
+	<publication>
+		<title>Dynamic and Static Views of Software Evolution</title>
+		<year>2001</year>
+		<authors>he ji,rachel harrison</authors>
+		<jconf>International Conference on Software Maintenance</jconf>
+		<label>982</label>
+		<keyword>Software Evolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>European Laboratory for Software Evolution (ELSE) : Vision statement</title>
+		<year>2008</year>
+		<authors>keiichi nakata,paul wernick</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>982</label>
+		<keyword>Software Evolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evolution in software systems: foundations of the SPE classification scheme</title>
+		<year>2006</year>
+		<authors>rachel harrison,meir m. lehman,paul wernick</authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<label>982</label>
+		<keyword>Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Latitudinal and longitudinal process diversity</title>
+		<year>2003</year>
+		<authors>nils t. siebel,manoranjan satpathy,daniel rodríguez</authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<label>982</label>
+		<keyword>Process Improvement;Software Evolution;Software Maintenance;Software Process;Time Management;Word Processing;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY Software processes vary across organizations and over time. Managing this process diversity is a delicate balancing act between creative, healthy diversity and chaos. In this paper, we examine a particular aspect of this issue, namely some relationships between diversity in software processes, software evolution and the qualityofsoftware productsandprocesses.Our maincontributionisto distinguishbetweentwo broadkinds of process diversity, which we call latitudinal and</abstract>
+	</publication>
+</person>

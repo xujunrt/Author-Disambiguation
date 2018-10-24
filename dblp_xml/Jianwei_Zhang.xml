@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianwei Zhang</FullName>
+	<publication>
+		<title>LocalRank: A Prototype for Ranking Web Pages with Database Considering Geographical Locality</title>
+		<year>2006</year>
+		<authors>yoshiharu ishikawa,sayumi kurokawa,hiroyuki kitagawa</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>393</label>
+		<keyword>Link Analysis;Method Integration;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>In this demo, we present a method called LocalRank to rank web pages. Our method integrates the web and a local user database with semantic links including geographical ones. We first construct a graph structure, consist- ing of database entries, their related web pages and relationships between them. Then a link analysis is performed to compute a LocalRank value for</abstract>
+	</publication>
+	<publication>
+		<title>Using a sentiment map for visualizing credibility of news sites on the web</title>
+		<year>2008</year>
+		<authors>yukiko kawai,yusuke fujita,tadahiko kumamoto,katsumi tanaka</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>393</label>
+		<keyword>Google Map;Sentiment Analysis;Level of Detail;</keyword>
+		<organization>null</organization>
+		<abstract>We have developed a visualizing news system that shows the trend of the news site on the Web for credibility. If users know the trend of the news site, users can evaluate the credibility of each news topic. This system detects and uses sentiments of each news article to resolve the trend of Web site. The trend of Web sites</abstract>
+	</publication>
+	<publication>
+		<title>LocalRank: Ranking Web Pages Considering Geographical Locality by Integrating Web and Databases</title>
+		<year>2005</year>
+		<authors>yoshiharu ishikawa,sayumi kurokawa,hiroyuki kitagawa</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>393</label>
+		<keyword>Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tour recommendation system based on web information and GIS</title>
+		<year>2009</year>
+		<authors>yukiko kawai,hiroshi kawasaki</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>393</label>
+		<keyword>recommender system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Tourist Route Search System Based on Web Information and the Visibility of Scenic Sights</title>
+		<year>2008</year>
+		<authors>hiroshi kawasaki,yukiko kawai</authors>
+		<jconf></jconf>
+		<label>393</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Record Extraction Based on User Feedback and Document Selection</title>
+		<year>2007</year>
+		<authors>yoshiharu ishikawa,hiroyuki kitagawa</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>393</label>
+		<keyword>User Feedback;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extended Link Analysis for Extracting Spatial Information Hubs</title>
+		<year>2005</year>
+		<authors>yoshiharu ishikawa,hiroyuki kitagawa</authors>
+		<jconf>Web Information Retrieval and Integration</jconf>
+		<label>393</label>
+		<keyword>Geographic Information;Link Analysis;Spatial Information;Web Mining;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, web mining that tries to find useful knowledge from the vast amount of web pages has attracted a lot of re- search interests. Besides, it is becoming an essential task to provide web pages related to a user-specified geographic area. In this paper, we propose an approach to extract spatial infor- mation hubs from the web. A spatial information</abstract>
+	</publication>
+	<publication>
+		<title>Blog Ranking Based on Bloggers' Knowledge Level for Providing Credible Information</title>
+		<year>2009</year>
+		<authors>shinsuke nakajima,yoichi inagaki,tomoaki kusano,reyn y. nakamoto</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>393</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Visualization Method for Distinction of Web News Sentiment</title>
+		<year>2009</year>
+		<authors>yukiko kawai,tadahiko kumamoto,katsumi tanaka</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>393</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

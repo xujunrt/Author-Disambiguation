@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Otto</FullName>
+	<publication>
+		<title>A new CRT-RSA algorithm secure against bellcore attacks</title>
+		<year>2003</year>
+		<authors>johannes blömer,jean-pierre seifert</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>652</label>
+		<keyword>Chinese Remainder Theorem;Fault Attack;Fault Model;smartcard;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a new algorithm to prevent fault attacks on RSA signature algorithms using the Chinese Remainder Theorem (CRT-RSA). This variant of the RSA signature algorithm is widely used on smartcards. Smartcards on the other hand are particularly susceptible to fault attacks like the one described in [7]. Recent results have shown that fault attacks are practical</abstract>
+	</publication>
+	<publication>
+		<title>Wagner's Attack on a Secure CRT-RSA Algorithm Reconsidered</title>
+		<year>2006</year>
+		<authors>johannes blömer</authors>
+		<jconf>Fault Diagnosis and Tolerance in Cryptography</jconf>
+		<label>652</label>
+		<keyword>Fault Attack;Fault Model;smartcard;</keyword>
+		<organization>null</organization>
+		<abstract>At CCS 2003, a new CRT-RSA algorithm was presented in (BOS03), which was claimed to be secure against fault attacks for various fault models. At CCS 2004, David Wagner presented an attack on the proposed scheme, claiming that the so-called BOS scheme was insecure for all presented fault models (Wag04). However, the attack itself contains a flaw which shows that</abstract>
+	</publication>
+	<publication>
+		<title>Sign Change Fault Attacks on Elliptic Curve Cryptosystems</title>
+		<year>2006</year>
+		<authors>johannes blömer,jean-pierre seifert</authors>
+		<jconf>Fault Diagnosis and Tolerance in Cryptography</jconf>
+		<label>652</label>
+		<keyword>Elliptic Curve;elliptic curve cryptosystem;Fault Attack;Scalar Multiplication;smartcard;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new type of fault attacks on elliptic curve scalar multiplications: Sign Change Attacks. These attacks exploit dieren t num- ber representations as they are often employed in modern cryptographic applications. Previously, fault attacks on elliptic curves aimed to force a device to output points which are on a cryptographically weak curve. Such attacks can easily be defended</abstract>
+	</publication>
+	<publication>
+		<title>Navigating in Webs of Trust: Finding Short Trust Chains in Unstructured Networks without Global Knowledge</title>
+		<year>2008</year>
+		<authors>jens-uwe bußer,steffen fries,peter hartmann</authors>
+		<jconf>Availability, Reliability and Security</jconf>
+		<label>652</label>
+		<keyword>Web of Trust;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

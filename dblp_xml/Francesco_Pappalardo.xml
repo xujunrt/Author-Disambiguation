@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Francesco Pappalardo</FullName>
+	<publication>
+		<title>Low Power Strategy for a TFT Controller</title>
+		<year>2002</year>
+		<authors>giuseppe notarangelo,marco gibilaro,agatino pennisi,gaetano palumbo</authors>
+		<jconf>Euromicro Symposium on Digital Systems Design</jconf>
+		<label>243</label>
+		<keyword>Low Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>statistical analysis, for reducing the energy dissipation in a bus-switch encoder</title>
+		<year>2005</year>
+		<authors>mauro olivieri,giuseppe visalli</authors>
+		<jconf>Circuits, Signals, and Systems</jconf>
+		<label>243</label>
+		<keyword>Energy Dissipation;Statistical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design issues for bus switch systems in deep sub-micro metric CMOS technologies</title>
+		<year>2005</year>
+		<authors>mauro olivieri,giuseppe visalli</authors>
+		<jconf>Circuits, Signals, and Systems</jconf>
+		<label>243</label>
+		<keyword>Communication Channels;Energy Consumption;Energy Saving;Low Power;Power Consumption;Power Dissipation;Switched System;Very Large Scale Integrated;High Data Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The high data-rate communication channels represent one of the most power-aware design problem, trying to decrease energy consumption maintain acceptable some other performance constraints. In this context, the bus-switch mechanism represents a novel and efficient bus encoding approach for low-power data off-chip buses. It is based on tentatively encoding, clustering, reordering and encoding a wide data buses according to a</abstract>
+	</publication>
+	<publication>
+		<title>An application-oriented analysis of power/precision trade-off in fixed and floating-point arithmetic units for VLSI processors</title>
+		<year>2004</year>
+		<authors>giuseppe visalli,mirko scarana</authors>
+		<jconf>Circuits, Signals, and Systems</jconf>
+		<label>243</label>
+		<keyword>Energy Dissipation;Energy Efficient;Fixed Point;Fixed-point Arithmetic;Floating Point;Floating Point Arithmetic;Low Power;Signal Processing;Very Large Scale Integrated;</keyword>
+		<organization>null</organization>
+		<abstract>Floating and fixed-point formats represent the most used representation in VLSI DSP systems. Fixed-point formats are often preferred for lower power and faster operation, when the algorithm permits the appropriate scaling fac- tors. Floating-point formats require additional hardware and power, but guarantee better precision performance. This work compares the energy dissipated by the key arith- metic units in DSP systems,</abstract>
+	</publication>
+	<publication>
+		<title>Encoding circuits for low power optical on-chip communications</title>
+		<year>2005</year>
+		<authors>mauro olivieri,giuseppe visalli</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>243</label>
+		<keyword>Energy Budget;Energy Dissipation;Low Power;Optical Communication;Satisfiability;Statistical Distribution;High Data Rate;</keyword>
+		<organization>null</organization>
+		<abstract>The increased demands of high data-rate communications could be satisfied by optical semiconductor elements. Actually, these devices represent an important role in the total energy budget available for the chip. This work presents a low- power encoding technique which optimizes the statistical distribution so to reduce the energy dissipated in optical communications. We evaluated the encoding cir- cuits referring to</abstract>
+	</publication>
+	<publication>
+		<title>A Low Power, Scalable and Runtime Customizable Microprocessor Architecture for Image Processing</title>
+		<year>2007</year>
+		<authors>giuseppe notarangelo,elena salurso,elio guidetti</authors>
+		<jconf>Journal of Low Power Electronics</jconf>
+		<label>243</label>
+		<keyword>Image Processing;Low Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bus-switch coding for reducing power dissipation in off-chip buses</title>
+		<year>2004</year>
+		<authors>mauro olivieri,giuseppe visalli</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>243</label>
+		<keyword>Power Dissipation;Very Large Scale Integrated;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel coding scheme for reducing bus power dissipation. The presented approach is well suited to driving off-chip buses, where the line capacitance is a dominant factor. A distinctive feature of the technique is the dynamic reodering of bus line positions,in order to minimize the toggling activity on physical bus wires. The effectiveness of the approach is demonstrated</abstract>
+	</publication>
+</person>

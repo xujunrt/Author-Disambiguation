@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dave Clarke</FullName>
+	<publication>
+		<title>BOSUN - An In-House Developed Software Monitor for ACP/TPF Systems</title>
+		<year>1988</year>
+		<authors></authors>
+		<jconf>Computer Measurement Group Conference</jconf>
+		<label>183</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interfaces for the Active Web</title>
+		<year>2001</year>
+		<authors>alan j. dix</authors>
+		<jconf>Interacting with Computers</jconf>
+		<label>184</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interfaces for the Active Web (Part 2)</title>
+		<year>2001</year>
+		<authors>alan j. dix</authors>
+		<jconf>Interacting with Computers</jconf>
+		<label>184</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ESD event simulation automation using automatic extraction of the relevant portion of a full chip</title>
+		<year>2009</year>
+		<authors>thorsten weyl,karl rinne,james a. power</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>185</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

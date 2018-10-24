@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Cong Yu</FullName>
+	<publication>
+		<title>XML-Based DICOM Data Format</title>
+		<year>2010</year>
+		<authors>zhihong yao</authors>
+		<jconf>Journal of Digital Imaging</jconf>
+		<label>162</label>
+		<keyword>Data Format;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Wagner</FullName>
+	<publication>
+		<title>On k-Versus (k+1)Leaf Powers</title>
+		<year>2008</year>
+		<authors>andreas brandstädt</authors>
+		<jconf>Conference on Combinatorial Optimization and Applications</jconf>
+		<label>817</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On ( k , l)Leaf Powers</title>
+		<year>2007</year>
+		<authors>andreas brandstädt</authors>
+		<jconf>Mathematical Foundations of Computer Science</jconf>
+		<label>817</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Characterising (k, l)leaf powers</title>
+		<year>2010</year>
+		<authors>andreas brandstädt</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<label>817</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rooted directed path graphs are leaf powers</title>
+		<year>2010</year>
+		<authors>andreas brandstädt,christian hundt,federico mancini</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>817</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounding the size of square-free subgraphs of the hypercube</title>
+		<year>2009</year>
+		<authors>andrew thomason</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>818</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Complete graphs with no rainbow path</title>
+		<year>2007</year>
+		<authors>andrew thomason</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<label>818</label>
+		<keyword>Complete Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The complete inclusion structure of leaf power classes</title>
+		<year>2009</year>
+		<authors>andreas brandstädt</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>817</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

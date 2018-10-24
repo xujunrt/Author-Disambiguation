@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mahesh Balakrishnan</FullName>
+	<publication>
+		<title>Rate and Buffer Regulation in a Video Encoder for Seamless Splicing</title>
+		<year>1998</year>
+		<authors>cedric caron</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>595</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extracting Coding Parameters from Pre-Coded MPEG2 Video</title>
+		<year>1998</year>
+		<authors>yingwei chen,kiran s. challapali</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>595</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compressed Video Seamless Switching using Variable Splicing Parameters</title>
+		<year>1998</year>
+		<authors>hayder radha</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>595</label>
+		<keyword>Compressed Video;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variable-rate tree-structured vector quantizers</title>
+		<year>1995</year>
+		<authors>william a. pearlman,ligang lu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<label>595</label>
+		<keyword>Tree Structure;Vector Quantizer;Variable Rate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

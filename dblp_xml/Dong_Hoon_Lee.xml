@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dong Hoon Lee</FullName>
+	<publication>
+		<title>Cryptanalysis of a Divisor Class Group Based Public-Key Cryptosystem</title>
+		<year>2004</year>
+		<authors>aaram yun,jaeheon kim</authors>
+		<jconf>Algorithmic Number Theory Symposium</jconf>
+		<label>212</label>
+		<keyword>Divisor Class Group;public key cryptosystem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cryptanalysis of Sosemanuk and SNOW 2.0 Using Linear Masks</title>
+		<year>2008</year>
+		<authors>jung-keun lee,sangwoo park</authors>
+		<jconf>ASIACRYPT</jconf>
+		<label>212</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resistance of S-Boxes against Algebraic Attacks</title>
+		<year>2004</year>
+		<authors>jung hee cheon</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>212</label>
+		<keyword>Algebraic Attack;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Class of Single Cycle T-Functions</title>
+		<year>2005</year>
+		<authors>jin hong,yongjin yeom,daewan han</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>212</label>
+		<keyword>Building Block;</keyword>
+		<organization>null</organization>
+		<abstract>T-function is a relatively new cryptographic building block suitable for streamciphers. It has the potential of becoming a substi- tute for LFSRs, and those that correspond to maximum length LFSRs are called single cycle T-functions. We present a family of single cycle T-functions, previously unknown. An attempt at building a hardware oriented streamcipher based on this new T-function is given.</abstract>
+	</publication>
+	<publication>
+		<title>Vulnerability of Nonlinear Filter Generators Based on Linear Finite State Machines</title>
+		<year>2004</year>
+		<authors>jin hong,seongtaek chee,palash sarkar</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>212</label>
+		<keyword>Finite State Machine;Nonlinear Filter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Algebraic Attacks on Summation Generators</title>
+		<year>2004</year>
+		<authors>jaeheon kim,jin hong,jae woo han,dukjae moon</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>212</label>
+		<keyword>Algebraic Attack;Stream Cipher;Upper Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We apply the algebraic attacks on stream ciphers with memories to the summation generator. For a summation generator that uses n LFSRs, an algebraic equation relating the key stream bits and LFSR output bits can be made to be of degree less than or equal to 2dlog2 ne, using dlog2 ne + 1 con- secutive key stream bits. This is</abstract>
+	</publication>
+	<publication>
+		<title>Vulnerability of a Mobile Payment System Proposed at WISA 2002</title>
+		<year>2004</year>
+		<authors>sang cheol hwang,daewan han,jae-cheol ryou</authors>
+		<jconf>Workshop on Information Security Applications</jconf>
+		<label>212</label>
+		<keyword>Mobile Payment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Three-Party Password Authenticated Key Agreement Resistant to Server Compromise</title>
+		<year>2006</year>
+		<authors>taekyoung kwon</authors>
+		<jconf>Workshop on Information Security Applications</jconf>
+		<label>212</label>
+		<keyword>Authenticated Key Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quadratic Equations from APN Power Functions</title>
+		<year>2006</year>
+		<authors>jung hee cheon</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>212</label>
+		<keyword>Power Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Security Analysis of a Variant of Self-Shrinking Generator</title>
+		<year>2008</year>
+		<authors>je hong park,jae woo han</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>212</label>
+		<keyword>Security Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Security of Status Certificate-Based Encryption Scheme</title>
+		<year>2007</year>
+		<authors>je hong park</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>212</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Use of Sparse and/or Complex Exponents in Batch Verification of Exponentiations</title>
+		<year>2006</year>
+		<authors>jung hee cheon</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>212</label>
+		<keyword>Abelian Group;Elliptic Curve;Finite Field;Modular Exponentiation;</keyword>
+		<organization>null</organization>
+		<abstract>Modular exponentiation in an abelian group is one of the most frequently used mathematical primitives in modern cryptography. Batch verification is to verify many exponentiations simultaneously. We propose two fast batch verification algorithms. The first one makes use of exponents with small weight, called sparse exponents, which is asymp- totically 10 times faster than the individual verification and twice faster</abstract>
+	</publication>
+</person>

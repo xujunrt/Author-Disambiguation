@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jan M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Non-equispaced Fourier Transform Vs. Polynomial-Based Metal Artifact Reduction in Computed Tomography</title>
+		<year>2008</year>
+		<authors>bärbel kratz,tobias knopp,may oehler,thorsten m. buzug</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>348</label>
+		<keyword>Computed Tomography;Polynomial Interpolation;Scattered Data;Fast Fourier Transform;Fourier Transform;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a method, which treats metal artifact reduction in CT by sinogram restoration as a problem of scattered data interpola- tion. Corrupted sinogram entries are discarded and replaced with artifi- cially generated values. The presented interpolation algorithm is based on the 2D non-equispaced fast Fourier transform (NFFT). Results are compared to two common polynomial interpolation schemes.</abstract>
+	</publication>
+	<publication>
+		<title>Intersection Line Length Normalization in CT Projection Data</title>
+		<year>2008</year>
+		<authors>thorsten m. buzug</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<label>348</label>
+		<keyword>X-ray Ct;</keyword>
+		<organization>null</organization>
+		<abstract>We present a method to improve the quality of common sino- gram restoration algorithms, which are used for metal-artifact reduction in X-ray CT. The presented approach is based on the idea that the in- tersection length of all beams through the object of interest can approx- imately be calculated from a preliminary reconstruction of the object. Incorporating this information to</abstract>
+	</publication>
+</person>

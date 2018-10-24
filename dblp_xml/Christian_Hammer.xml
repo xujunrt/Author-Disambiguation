@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Hammer</FullName>
+	<publication>
+		<title>Steganographic capacity of images, based on image equivalence classes</title>
+		<year>2001</year>
+		<authors>klaus hansen,lars r. randleff,jens damgaard andersen</authors>
+		<jconf>Multimedia &amp; Security</jconf>
+		<label>142</label>
+		<keyword>Digital Watermark;Image Similarity;Information Hiding;Upper Bound;Human Visual System;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of hiding information imperceptibly can be formulated as the problem of determining if a given image is a member of a sufficiently large equivalence class of images which to the Human Visual System appears to be the same image. This makes it possible to replace the given image with a modified image similar in appearance but carrying imperceptibly</abstract>
+	</publication>
+</person>

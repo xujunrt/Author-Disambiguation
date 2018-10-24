@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Hicks</FullName>
+	<publication>
+		<title>Reducing the Branch Power Cost in Embedded Processors Through Static Scheduling, Profiling and SuperBlock Formation</title>
+		<year>2006</year>
+		<authors>colin egan,bruce christianson,patrick quick</authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<label>685</label>
+		<keyword>Embedded Processor;Power Dissipation;Power Saving;Prediction Accuracy;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic branch predictor logic alone accounts for approx- imately 10% of total processor power dissipation. Recent research indi- cates that the power cost of a large dynamic branch predictor is oset by the power savings created by its increased accuracy. We describe a method of reducing dynamic predictor power dissipation without de- grading prediction accuracy by using a combination of</abstract>
+	</publication>
+</person>

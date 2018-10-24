@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Krause</FullName>
+	<publication>
+		<title>RoboKing - Bringing Robotics closer to Pupils</title>
+		<year>2005</year>
+		<authors>niko sünderhauf,peter protzel</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>1010</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bringing Robotics closer to Students - a Threefold Approach</title>
+		<year>2006</year>
+		<authors>niko sünderhauf,peter protzel</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>1010</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

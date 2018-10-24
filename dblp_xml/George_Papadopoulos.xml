@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>George Papadopoulos</FullName>
+	<publication>
+		<title>Dynamic basis pursuit regularization for complex biochemical pathway identification</title>
+		<year>2009</year>
+		<authors>martin brown,fei he</authors>
+		<jconf>Conference on Decision and Control</jconf>
+		<label>254</label>
+		<keyword>Basis Pursuit;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature Sensitivity on Biochemical Signaling Pathways</title>
+		<year>2007</year>
+		<authors>martin brown</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>254</label>
+		<keyword>Signaling Pathway;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum entropy parameter estimation: Application to the RKIP regulated ERK signaling pathway</title>
+		<year>2008</year>
+		<authors>martin brown</authors>
+		<jconf>IJCNN</jconf>
+		<label>254</label>
+		<keyword>Parameter Estimation;Signaling Pathway;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using ToolBook authoring tool to facilitate the teaching of algorithms</title>
+		<year>2003</year>
+		<authors>hariton m. polatoglou</authors>
+		<jconf>ACM Sigcse Bulletin</jconf>
+		<label>255</label>
+		<keyword>Authoring Tool;</keyword>
+		<organization>null</organization>
+		<abstract>An application is developed and used in teaching the subject of algorithms. It is used in classroom practice, at Lyceum and the University. The results show that the application increased students interest, helped the students to realize the importance of the algorithums and their workings, and grasp some abstract computer science concepts.</abstract>
+	</publication>
+</person>

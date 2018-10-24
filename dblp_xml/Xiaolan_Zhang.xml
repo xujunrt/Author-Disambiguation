@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaolan Zhang</FullName>
+	<publication>
+		<title>Corpus Linguistics for Establishing The Natural Language Content of Digital Library Documents</title>
+		<year>1994</year>
+		<authors>robert p. futrelle,yumiko sekiya</authors>
+		<jconf>Digital Libraries</jconf>
+		<label>1112</label>
+		<keyword>Authoring Tool;Corpus Linguistic;Digital Library;Indexation;kolmogorov complexity;Natural Language;Query Expansion;Syntactic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Digital Libraries will hold huge amounts of text and other forms of information. For the collections to be maximally useful, they must be highly organized with useful indexes and intra- and inter-document linkages. This brings with it a demand for ever-better methods for automated analysis of text to build the indexes and links. It requires turning implicit information, &quot;encrypted in</abstract>
+	</publication>
+	<publication>
+		<title>Modeling RFID Security</title>
+		<year>2005</year>
+		<authors>brian king</authors>
+		<jconf>Conference on Information Security and Cryptology</jconf>
+		<label>1113</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrity Improvements to an RFID Privacy Protection Protocol for Anti-counterfeiting</title>
+		<year>2005</year>
+		<authors>brian king</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>1113</label>
+		<keyword>Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Securing the Pharmaceutical Supply Chain using RFID</title>
+		<year>2007</year>
+		<authors>brian king</authors>
+		<jconf>Multimedia and Ubiquitous Engineering</jconf>
+		<label>1113</label>
+		<keyword>Privacy Protection;Security Model;Supply Chain;</keyword>
+		<organization>null</organization>
+		<abstract>RFID technology has been applied to a number of ap- plications. In (5), a protocol was described how to apply RFID to currency to provide integrity (e.g. reduce coun- terfeiting) while simultaneously supporting privacy. In this paper we discuss how RFID can be applied to increase integrity in the pharmaceutical supply chain. A secured pharmaceutical supply chain will increase integrity,</abstract>
+	</publication>
+	<publication>
+		<title>Security Requirements for RFID Computing Systems</title>
+		<year>2008</year>
+		<authors>brian king</authors>
+		<jconf>International Journal of Network Security</jconf>
+		<label>1113</label>
+		<keyword>Security Requirements;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Anti-Counterfeiting RFID Privacy Protection Protocol</title>
+		<year>2007</year>
+		<authors>brian king</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>1113</label>
+		<keyword>Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

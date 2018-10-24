@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander Konovalov</FullName>
+	<publication>
+		<title>Object-Oriented Data Model for Data Warehouse</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>25</label>
+		<keyword>Data Warehouse;Object-oriented Data Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Architecture of ArcIMS, a Distributed Internet Map Server</title>
+		<year>2001</year>
+		<authors>roop k. goyal,art haddad,alexander konovalov,mike tait,jay theodore</authors>
+		<jconf>Symposium on Large Spatial Databases</jconf>
+		<label>26</label>
+		<keyword>Distributed Architecture;Load Balance;Internet Map Server;</keyword>
+		<organization>null</organization>
+		<abstract>ESRI® ArcIMS® is an Internet Map Server software that facilitates authoring of maps, designing of Web sites using them, and their publication on the Internet. Its distributed architecture offers customization of server, plugability of components, scalability, load balancing, and fail over/recovery and facilitates 24x7 operations. This paper describes the architecture of ArcIMS 3, its components, and some of the live</abstract>
+	</publication>
+</person>

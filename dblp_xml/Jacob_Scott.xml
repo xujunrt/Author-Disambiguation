@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jacob Scott</FullName>
+	<publication>
+		<title>An Investigation of Online Expert System on Neurological Diseases</title>
+		<year>2003</year>
+		<authors>haichen dong,maung maung htay</authors>
+		<jconf>International Symposium on Information Technology</jconf>
+		<label>330</label>
+		<keyword>Expert System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

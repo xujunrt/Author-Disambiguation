@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Minh Ngoc Nguyen</FullName>
+	<publication>
+		<title>Extracting decision rules in prediction of protein secondary structure</title>
+		<year>2008</year>
+		<authors>j. m. zurada,jagath c. rajapakse</authors>
+		<jconf>IEEE International Conference on Bioinformatics and Bioengineering</jconf>
+		<label>744</label>
+		<keyword>Decision Rule;Protein Secondary Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Protein-Protein Interface Residue Prediction with SVM Using Evolutionary Profiles and Accessible Surface Areas</title>
+		<year>2006</year>
+		<authors>jagath c. rajapakse</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>744</label>
+		<keyword>Accessible Surface Area;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Determination of the Relative Importance of Gene Function or Taxonomic Grouping to Codon Usage Bias Using Cluster Analysis and SVMs</title>
+		<year>2006</year>
+		<authors>jianmin ma,gary b. fogel,jagath c. rajapakse</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>744</label>
+		<keyword>Cluster Analysis;Codon Usage Bias;Gene Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gene Classification Using Codon Usage Patterns and SVMs</title>
+		<year>2005</year>
+		<authors>jianmin ma,gavyn pang,jagath c. rajapakse</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>744</label>
+		<keyword>Codon Usage;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LVQ Approach Using AA Indices for Protein Subcellular Localisation Prediction</title>
+		<year>2005</year>
+		<authors>kok-sin toh,jagath c. rajapakse</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>744</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>One-Versus-One and One-Versus-All Multiclass SVM-RFE for Gene Selection in Cancer Classification</title>
+		<year>2007</year>
+		<authors>kaibo duan,jagath c. rajapakse</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>744</label>
+		<keyword>Cancer Classification;Gene Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Amino Acid Features for Prediction of Protein-Protein Interface Residues with Support Vector Machines</title>
+		<year>2007</year>
+		<authors>jagath c. rajapakse,kaibo duan</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>744</label>
+		<keyword>Support Vector Machine;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Augmenting HMM with neural network for finding gene structure</title>
+		<year>2002</year>
+		<authors>loi sy ho,jagath c. rajapakse</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>744</label>
+		<keyword>Gene Structure;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining GOR techniques with support vector machines for protein secondary structure prediction</title>
+		<year>2002</year>
+		<authors>jagath c. rajapakse,loi sy ho</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>744</label>
+		<keyword>Protein Secondary Structure Prediction;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Di-codon Usage for Gene Classification</title>
+		<year>2009</year>
+		<authors>jianmin ma,gary b. fogel,jagath c. rajapakse</authors>
+		<jconf>Pattern Recognition in Bioinformatics</jconf>
+		<label>744</label>
+		<keyword>Codon Usage;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Two-Stage Multi-Class Support Vector Machines to Protein Secondary Structure Prediction</title>
+		<year>2005</year>
+		<authors>jagath c. rajapakse</authors>
+		<jconf>Pacific Symposium on Biocomputing</jconf>
+		<label>744</label>
+		<keyword>Amino Acid Sequence;Contextual Information;Protein Secondary Structure;Protein Secondary Structure Prediction;Secondary Structure;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Bioinformatics techniques to protein secondary structure (PSS) prediction are mostly single-stage approaches in the sense that they predict secondary struc- tures of proteins by taking into account only the contextual information in amino acid sequences. In this paper, we propose two-stage Multi-class Support Vector Machine (MSVM) approach where a MSVM predictor is introduced to the output of the first stage</abstract>
+	</publication>
+	<publication>
+		<title>Prediction of Protein Secondary Structure with two-stage multi-class SVMs</title>
+		<year>2007</year>
+		<authors>jagath c. rajapakse</authors>
+		<jconf>International Journal of Data Mining and Bioinformatics</jconf>
+		<label>744</label>
+		<keyword>Protein Secondary Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gene Classification Using Codon Usage and Support Vector Machines</title>
+		<year>2009</year>
+		<authors>jianmin ma,jagath c. rajapakse</authors>
+		<jconf>IEEE/ACM Transactions on Computational Biology and Bioinformatics</jconf>
+		<label>744</label>
+		<keyword>Codon Usage;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

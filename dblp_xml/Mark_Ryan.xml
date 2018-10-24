@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mark Ryan</FullName>
+	<publication>
+		<title>Writing about C++</title>
+		<year>1993</year>
+		<authors></authors>
+		<jconf>Conference of the Centre for Advanced Studies on Collaborative Research</jconf>
+		<label>623</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A development process for large multimedia titles</title>
+		<year>1994</year>
+		<authors>rich helms</authors>
+		<jconf>ACM Special Interest Group for Design of Communication</jconf>
+		<label>623</label>
+		<keyword>Development Process;</keyword>
+		<organization>null</organization>
+		<abstract>Within IBM there are many groups that have made small-scale multimedia titles. Large titles, however, are not so common. This paper describes the process that we followed to create a large title, Experience C++. It begins with a description of why we decided to create a multimedia title about C++. It then describes the process that we followed to make</abstract>
+	</publication>
+</person>

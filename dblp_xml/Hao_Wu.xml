@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hao Wu</FullName>
+	<publication>
+		<title>Impact of Coupling of Distributed Denial of Service Attack with Routing on Throughput of Packet Switching Network</title>
+		<year>2010</year>
+		<authors>anna t. lawniczak,bruno n. di stefano</authors>
+		<jconf>International Conference on Cellular Automata for Research and Industry</jconf>
+		<label>278</label>
+		<keyword>Distributed Denial of Service;Packet Switched;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection of anomalous packet traffic via entropy</title>
+		<year>2009</year>
+		<authors>anna t. lawniczak,bruno n. di stefano</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>278</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Entropy Based Detection of DDoS Attacks in Packet Switching Network Models</title>
+		<year>2009</year>
+		<authors>anna t. lawniczak,bruno n. di stefano</authors>
+		<jconf>Complex Sciences</jconf>
+		<label>278</label>
+		<keyword>ddos attack;Network Model;Packet Switched;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

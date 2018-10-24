@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jing Wang</FullName>
+	<publication>
+		<title>Capacity and Coverage of TD-SCDMA System with Smart Antenna</title>
+		<year>2002</year>
+		<authors>shuangfeng han,youzheng wang,osamu kato,akihiko nishio</authors>
+		<jconf>CDMA International Conference</jconf>
+		<label>409</label>
+		<keyword>Smart Antenna;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiplex Scheme with Power Allocation and Code Partition for Downlink Channels in Cellular Communication</title>
+		<year>2002</year>
+		<authors>liu liu,shidong zhou</authors>
+		<jconf>CDMA International Conference</jconf>
+		<label>409</label>
+		<keyword>Power Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Stable Adaptive Optimization for DSR Protocol</title>
+		<year>2002</year>
+		<authors>xiaofeng zhong,youzheng wang,shunliang mei</authors>
+		<jconf>CDMA International Conference</jconf>
+		<label>409</label>
+		<keyword>Adaptive Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tomlinson-Harashima Precoding in Multiuser MIMO Systems with Imperfect Channel State Information</title>
+		<year>2007</year>
+		<authors>min huang,xiujun zhang,shidong zhou</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>409</label>
+		<keyword>Channel State Information;mimo system;tomlinson harashima precoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Coupling-Based Model for Wideband MIMO Channel</title>
+		<year>2009</year>
+		<authors>yan zhang,xinwei hu,yuanzhi jia,shidong zhou,xiang chen</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>409</label>
+		<keyword>mimo channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>All-Optical Clocked Flip-Flops Exploiting SOA-Based SR Latches and Logic Gates</title>
+		<year>2009</year>
+		<authors>gianluca meloni,gianluca berrettini,luca potì,antonella bogoni</authors>
+		<jconf></jconf>
+		<label>409</label>
+		<keyword>Logic Gate;Flip Flop;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sum Rate Characterization of Distributed Antenna Systems with Circular Antenna Layout</title>
+		<year>2009</year>
+		<authors>wei feng,xibin xu,shidong zhou,minghua xia</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Distributed Antenna System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Downlink Power Allocation for Distributed Antenna Systems with Random Antenna Layout</title>
+		<year>2009</year>
+		<authors>wei feng,xiujun zhang,shidong zhou,minghua xia</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Power Allocation;Distributed Antenna System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Sum Rate of Multi-User Distributed Antenna System with Circular Antenna Layout</title>
+		<year>2007</year>
+		<authors>jiansong gan,yunzhou li,shidong zhou</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Distributed Antenna System;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperative Opportunistic Scheduling in Multiple Antenna Cellular Networks</title>
+		<year>2009</year>
+		<authors>jun lei,yunzhou li,xiang chen,shidong zhou,yan yao</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Cellular Network;Multiple Antennas;Opportunistic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient tree search algorithm for optimal detection of MIMO signals with channel estimation errors</title>
+		<year>2004</year>
+		<authors>weiyu xu,jinjing jiang,youzheng wang,zucheng zhou</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Channel Estimation;Search Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A fast exact ML sphere decoder with efficient two-layer enumeration</title>
+		<year>2004</year>
+		<authors>weiyu xu,youzheng wang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>409</label>
+		<keyword>Sphere Decoder;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Downlink capacity of distributed antenna systems in a multi-cell environment</title>
+		<year>2009</year>
+		<authors>wei feng,yunzhou li,shidong zhou,minghua xia</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>409</label>
+		<keyword>Distributed Antenna System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Successive and Dynamic Precoding Scheme for Multiuser MIMO Systems with Limited Feedback</title>
+		<year>2008</year>
+		<authors>min huang,wei miao,gang wu,shidong zhou</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>409</label>
+		<keyword>mimo system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint Stream-Wise THP Transceiver Design for the Multiuser MIMO Downlink</title>
+		<year>2008</year>
+		<authors>wei miao,limin xiao,yunzhou li,shidong zhou</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>409</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Improved Decoding Algorithm for Finite-Geometry LDPC Codes</title>
+		<year>2007</year>
+		<authors>yueguang bian,youzheng wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>ldpc code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Sum-Rate Capacity of Multi-User Distributed Antenna System with Circular Antenna Layout</title>
+		<year>2006</year>
+		<authors>jiansong gan,shidong zhou,kyung park</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Distributed Antenna System;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Receive Antenna Selection for Multiuser MIMO Systems with Tomlinson-Harashima Precoding</title>
+		<year>2007</year>
+		<authors>min huang,xiang chen,yunzhou li,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Antenna Selection;mimo system;tomlinson harashima precoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analysis of Iterative ICI Cancellation Algorithm for Uplink OFDMA Systems with Carrier-Frequency Offset</title>
+		<year>2007</year>
+		<authors>min huang,xiang chen,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Carrier Frequency Offset;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Per-Layer Optimization in Multiuser MIMO Systems with Tomlinson-Harashima Precoding</title>
+		<year>2007</year>
+		<authors>min huang,limin xiao,yunzhou li,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>mimo system;tomlinson harashima precoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Transceiver Design for Multiuser MIMO Downlink with Channel Uncertainties</title>
+		<year>2008</year>
+		<authors>wei miao,yunzhou li,xiang chen,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint Receive Antenna Selection for Multi-User MIMO Systems with Vector Precoding</title>
+		<year>2008</year>
+		<authors>wei miao,yunzhou li,shidong zhou,xibin xu</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Antenna Selection;mimo system;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Ergodic Capacity of Spectrum-Sharing Systems in Fading Channels</title>
+		<year>2009</year>
+		<authors>peng wang,xiang chen,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Fading Channel;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low Complexity Scheduling Algorithms for Downlink Multiuser MIMO System</title>
+		<year>2007</year>
+		<authors>jinfan zhang,yunzhou li,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Low Complexity;mimo system;Scheduling Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient User Selection Algorithm for Zero-Forcing Beamforming in Downlink Multiuser MIMO Systems</title>
+		<year>2006</year>
+		<authors>haibo zheng,xiang chen,shidong zhou,yongxing zhou,james sungjin kim</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>Complexity Reduction;mimo system;Spatial Correlation;Proportional Fair Scheduling;Zero Forcing;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY In this letter, we propose an efficient user selection algo- rithm aiming to select users with less spatially correlation and meet the user number limit of zero-forcing beamforming in downlink multiuser MIMO systems. This algorithm yields a considerable complexity reduction with only a small loss in performance and it only needs partial users' CSI feed- back. Coupled with the</abstract>
+	</publication>
+	<publication>
+		<title>Limited Feedback Precoding Scheme for Downlink Multiuser MIMO Systems</title>
+		<year>2007</year>
+		<authors>haibo zheng,yongle wu,yunzhou li,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword>mimo system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive MMSE Algorithm Used in Turbo Iterative SoIC of V-Blast System</title>
+		<year>2005</year>
+		<authors>huiqiang zhou,yunzhou li,shidong zhou</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>409</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Diversity Performance of Space Time Block Codes in Correlated Distributed MIMO Channels</title>
+		<year>2008</year>
+		<authors>shuangfeng han,victor o. k. li,shidong zhou,kyung park</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>409</label>
+		<keyword>mimo channel;Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach to Dynamically Reconfiguring Service-Oriented Applications from a Business Perspective</title>
+		<year>2004</year>
+		<authors>jianwu wang,yanbo han,gang li</authors>
+		<jconf>Advanced Workshop on Content Computing</jconf>
+		<label>410</label>
+		<keyword>Dynamic Reconfiguration;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Calculating Process Similarity to Cluster Open-Source Process Designs</title>
+		<year>2004</year>
+		<authors>kui huang,zhaotao zhou,yanbo han,gang li</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>410</label>
+		<keyword>Open Source;Process Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MASON: A Model for Adapting Service-Oriented Grid Applications</title>
+		<year>2003</year>
+		<authors>gang li,jianwu wang,yanbo han,zhuofeng zhao,roland m. wagner,haitao hu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>410</label>
+		<keyword>Application Development;Dynamic Adaptation;Grid Applications;Service Orientation;Service Oriented Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Service-oriented computing, which offers more flexible means for application development, is gaining popularity. Service-oriented grid applications are constructed by selecting and composing appropriate services. They are one kind of promising applications in grid environments. However, the dynamism and autonomy of environments make the issues of dynamically adapting a service-oriented grid application urgent. This paper brings forward a model that supports</abstract>
+	</publication>
+	<publication>
+		<title>Decentralized execution of composite e-services with VINCA micro engine</title>
+		<year>2005</year>
+		<authors>yanbo han</authors>
+		<jconf>IEEE International Conference on Granular Computing</jconf>
+		<label>410</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ASM-TL: an Abstract Service Model Enabling Adaptive Matchmaking</title>
+		<year>2007</year>
+		<authors>wanghu chen,yanbo han,chen liu,shuying yan</authors>
+		<jconf>IEEE International Conference on e-Business Engineering</jconf>
+		<label>410</label>
+		<keyword>Service Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ViPen: A Model Supporting Knowledge Provenance for Exploratory Service Composition</title>
+		<year>2010</year>
+		<authors>weilong ding,yanbo han</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>410</label>
+		<keyword>Service Composition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A User-Steering Exploratory Service Composition Approach</title>
+		<year>2008</year>
+		<authors>shuying yan,yanbo han,chen liu,guiling wang</authors>
+		<jconf>IEEE International Conference on Services Computing</jconf>
+		<label>410</label>
+		<keyword>Service Composition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Business-Oriented Virtualization of Web Services A Case Study</title>
+		<year>2008</year>
+		<authors>yanbo han,peng zhang,wanghu chen,cheng zhang</authors>
+		<jconf>Service Oriented Software Engineering</jconf>
+		<label>410</label>
+		<keyword>Case Study;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Client-Centric Adaptive Scheduling of Service-Oriented Applications</title>
+		<year>2006</year>
+		<authors>li-yong zhang,yanbo han</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>410</label>
+		<keyword>Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Location and Recognition of Chinese Vehicle License Plates under Complex Backgrounds</title>
+		<year>2009</year>
+		<authors>guangmin sun,lei xu,jing wang</authors>
+		<jconf>Journal of Multimedia</jconf>
+		<label>410</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach to Discover Dependencies between Service Operations</title>
+		<year>2008</year>
+		<authors>shuying yan,chen liu,lei liu</authors>
+		<jconf>Journal of Software</jconf>
+		<label>410</label>
+		<keyword>Dependence Graph;Distributed Application;Indexing Terms;Problem Solving Environment;Semantic Matching;Service Composition;Service Operation;</keyword>
+		<organization>null</organization>
+		<abstract>Service composition is emerging as an important paradigm for constructing distributed applications by combining and reusing independently developed component services. One key issue of service composition is how to identify relevant service operations so as to compose services rapidly and correctly. A promising approach to simplifying the search of relevant service operations in service composition lies in the discovery of</abstract>
+	</publication>
+	<publication>
+		<title>Radar target recognition based on the multi-resolution analysis theory and neural network</title>
+		<year>2008</year>
+		<authors>guangmin sun,shengfeng qin,jingfang na</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>410</label>
+		<keyword>Multi Resolution Analysis;Target Recognition;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Business-oriented service modeling: A case study</title>
+		<year>2009</year>
+		<authors>yanbo han,peng zhang</authors>
+		<jconf>Simulation Practice and Theory</jconf>
+		<label>410</label>
+		<keyword>Case Study;Service Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Backing up Truck Control Automatically Based on LOS</title>
+		<year>2009</year>
+		<authors>yong zhang</authors>
+		<jconf>Hybrid Intelligent Systems</jconf>
+		<label>411</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Influenza Virus Database (IVDB): an integrated information resource and analysis platform for influenza virus research</title>
+		<year>2007</year>
+		<authors>suhua chang,jiajie zhang,xiaoyun liao,xinxing zhu,dahai wang,jiang zhu,tao feng,baoli zhu,george f. gao,jian wang,huanming yang,jun yu</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Comparative Analysis;Complete Genome;Data Analysis;Data Type;Genetic Polymorphism;Genetics;Geographic Distribution;Highly Pathogenic Avian Influenza;influenza a virus;Influenza Virus;Influenza Viruses;Multiple Sequence Alignment;Nucleotide Sequence;Phylogenetic Analysis;Phylogenetic Relationship;Polymorphism;</keyword>
+		<organization>null</organization>
+		<abstract>Frequent outbreaks of highly pathogenic avian influenza and the increasing data available for com- parative analysis require a central database special- ized in influenza viruses (IVs). We have established the Influenza Virus Database (IVDB) to integrate information and create an analysis platform for genetic, genomic, and phylogenetic studies of the virus. IVDB hosts complete genome sequences of influenza A virus</abstract>
+	</publication>
+	<publication>
+		<title>MethyCancer: the database of human DNA methylation and cancer</title>
+		<year>2008</year>
+		<authors>ximiao he,suhua chang,jiajie zhang,qian zhao,haizhen xiang,kanthida kusonmano,liu yang,zhong sheng sun,huanming yang</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Chromosomal Instability;cpg island;Data Type;Dna Methylation;Gene Expression;Gene Mutation;Genetics;Human Disease;Large Scale;Tumor Cells;Tumor Suppressor Gene;</keyword>
+		<organization>null</organization>
+		<abstract>Cancer is ranked as one of the top killers in all human diseases and continues to have a devastat- ing effect on the population around the globe. Current research efforts are aiming to accelerate our understanding of the molecular basis of cancer and develop effective means for cancer diagnostics, treatment and prognosis. An altered pattern of epigenetic modifications, most importantly</abstract>
+	</publication>
+	<publication>
+		<title>ChickVD: a sequence variation database for the chicken genome</title>
+		<year>2005</year>
+		<authors>ximiao he,jue ruan,mingtao dai,jie chen,yong zhang,yafeng hu,chen ye,shengting li,lijuan cong,lin fang,bin liu,songgang li,jian wang,david w. burt,gane ka-shu wong,jun yu,huanming yang,jun wang</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Dna Sequence;Genetic Marker;Genetics;Genome Sequence;Human Disease;Quantitative Trait Loci;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>Working in parallel with the efforts to sequence the chicken (Gallus gallus) genome, the Beijing Genomics Institute led an international team of scien- tists from China, USA, UK, Sweden, The Netherlands and Germany to map extensive DNA sequence varia- tion throughout the chicken genome by sampling DNA from domestic breeds. Using the Red Jungle Fowl genome sequence as a reference,</abstract>
+	</publication>
+	<publication>
+		<title>SilkDB: a knowledgebase for silkworm biology and genomics</title>
+		<year>2005</year>
+		<authors>qingyou xia,ximiao he,mingtao dai,jue ruan,jie chen,guo yu,haifeng yuan,yafeng hu,ruiqiang li,tao feng,chen ye,cheng lu,jun wang,songgang li,gane ka-shu wong,huanming yang,jian wang,zhonghuai xiang,zeyang zhou,jun yu</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Bombyx Mori;Comparative Study;Expressed Sequence Tag;Functional Annotation;Gene Ontology;Genetics;Genome Sequence;Integral Representation;Large Scale;Single Nucleotide Polymorphism;Transposable Element;</keyword>
+		<organization>null</organization>
+		<abstract>The Silkworm Knowledgebase (SilkDB) is a web- based repository for the curation, integration and study of silkworm genetic and genomic data. With the recent accomplishment of a 6X draft genome sequence of the domestic silkworm (Bombyx mori), SilkDB provides an integrated representation of the large-scale, genome-wide sequence assembly, cDNAs, clusters of expressed sequence tags (ESTs), transposable elements (TEs), mutants, single</abstract>
+	</publication>
+	<publication>
+		<title>WEGO: a web tool for plotting GO annotations</title>
+		<year>2006</year>
+		<authors>jia ye,lin fang,hongkun zheng,yong zhang,jie chen,zengjin zhang,shengting li,ruiqiang li,lars bolund,jun wang</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Comparative Genomics;Directed Acyclic Graph;Gene Ontology;Large Scale;Gene Ontology Annotation;</keyword>
+		<organization>null</organization>
+		<abstract>Unified, structured vocabularies and classifications freely provided by the Gene Ontology (GO) Consortium are widely accepted in most of the large scale gene annotation projects. Consequently, many tools have been created for use with the GO ontolo- gies. WEGO (Web Gene Ontology Annotation Plot) is a simple but useful tool for visualizing, comparing and plotting GO annotation results. Different from</abstract>
+	</publication>
+	<publication>
+		<title>BGI-RIS: an integrated information resource and comparative analysis workbench for rice genomics</title>
+		<year>2004</year>
+		<authors>wenming zhao,ximiao he,xiaobing huang,yongzhi jiao,mingtao dai,shulin wei,jian fu,chen ye,xiaoyu ren,yong zhang,peixiang ni,jianguo zhang,songgang li,jian wang,gane ka-shu wong,hongyu zhao,jun yu,huanming yang,jun wang</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>412</label>
+		<keyword>Comparative Analysis;Comparative Genomics;Comparative Study;Gene Duplication;Genetic Marker;Information Analysis;Information System;oryza sativa l;Repetitive Element;Single Nucleotide Polymorphism;</keyword>
+		<organization>null</organization>
+		<abstract>Rice is a major food staple for the world's popula- tion and serves as a model species in cereal genome research. The Beijing Genomics Institute (BGI) has long been devoting itself to sequencing, information analysis and biological research of the rice and other crop genomes. In order to facilitate the application of the rice genomic information and to provide a</abstract>
+	</publication>
+	<publication>
+		<title>Edge-based scoring and searching method for identifying condition-responsive protein-protein interaction subnetwork</title>
+		<year>2009</year>
+		<authors>zheng guo,yongjin li,xue gong,chen yao,wencai ma,dong wang,yanhui li,jing zhu,min zhang,da yang</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>413</label>
+		<keyword>Protein Protein Interaction;Search Method;Conditioned Response;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Edge-based scoring and searching method for identifying condition-responsive protein-protein interaction subnetwork</title>
+		<year>2009</year>
+		<authors>zheng guo,yongjin li,xue gong,chen yao,wencai ma,dong wang,yanhui li,jing zhu,min zhang,da yang</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>413</label>
+		<keyword>Protein Protein Interaction;Search Method;Conditioned Response;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gaining confidence in biological interpretation of the microarray data: the functional consistence of the significant GO categories</title>
+		<year>2008</year>
+		<authors>da yang,yanhui li,hui xiao,qing liu,min zhang,jing zhu,wencai ma,chen yao,dong wang,zheng guo,baofeng yang</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>413</label>
+		<keyword>Differentially Expressed Gene;Group Selection;Microarray Data;Semantic Similarity;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: In microarray studies, numerous tools are available for functional enrichment analysis based on GO categories. Most of these tools, due to their requirement of a prior threshold for designating genes as differentially expressed genes (DEGs), are categorized as threshold-dependent methods that often suffer from a major criticism on their changing results with different thresholds. Results: In the present article,</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating reproducibility of differential expression discoveries in microarray studies by considering correlated molecular changes</title>
+		<year>2009</year>
+		<authors>min zhang,lin zhang,jinfeng zou,chen yao,hui xiao,qing liu,dong wang,chenguang wang,zheng guo</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>413</label>
+		<keyword>Differential Expression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Viewing cancer genes from co-evolving gene modules</title>
+		<year>2010</year>
+		<authors>jing zhu,hui xiao,xiaopei shen,jinfeng zou,lin zhang,da yang,wencai ma,chen yao,xue gong,min zhang,yang zhang,zheng guo</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>413</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extracting consistent knowledge from highly inconsistent cancer gene data sources</title>
+		<year>2010</year>
+		<authors>xue gong,ruihong wu,yuannv zhang,wenyuan zhao,lixin cheng,yunyan gu,lin zhang,jing zhu,zheng guo</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>413</label>
+		<keyword>Sample Size;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Hundreds of genes that are causally implicated in oncogenesis have been found and collected in various databases. For efficient application of these abundant but diverse data sources, it is of fundamental importance to evaluate their consistency. RESULTS: First, we showed that the lists of cancer genes from some major data sources were highly inconsistent in terms of overlapping genes.</abstract>
+	</publication>
+	<publication>
+		<title>Revealing and avoiding bias in semantic similarity scores for protein pairs</title>
+		<year>2010</year>
+		<authors>xianxiao zhou,jing zhu,chenggui zhou,zheng guo</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>413</label>
+		<keyword>Functional Genomics;Power Transformer;Protein Function;Protein Protein Interaction;Semantic Similarity;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Semantic similarity scores for protein pairs are widely applied in functional genomic researches for finding functional clusters of proteins, predicting protein functions and protein-protein interactions, and for identifying putative disease genes. However, because some proteins, such as those related to diseases, tend to be studied more intensively, annotations are likely to be biased, which may affect applications based on</abstract>
+	</publication>
+	<publication>
+		<title>Cooperative Control Design and Stability Analysis for Multi-agent Systems with Communication Delays</title>
+		<year>2006</year>
+		<authors>zhihua qu,richard a. hull,jeffrey martin</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>414</label>
+		<keyword>Communication Delay;Cooperative Control;Stability Analysis;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Reduced-order Analytical Solution to Mobile Robot Trajectory Generation in the Presence of Moving Obstacles</title>
+		<year>2004</year>
+		<authors>zhihua qu,yi guo,jian yang</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>414</label>
+		<keyword>Analytic Solution;Boundary Condition;Collision Avoidance;Dynamic Change;Mobile Robot;Trajectory Generation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of determining a collision-free path for a mobile robot moving in a dynami- cally changing environment. By explicitly considering kinematic model of the robot, the family of feasible trajectories and their corresponding steering controls are derived in a closed form. Then, a new collision avoidance condition is developed for the dynamically changing environment, it consists</abstract>
+	</publication>
+	<publication>
+		<title>An Optimal and Real-Time Solution to Parameterized Mobile Robot Trajectories in the Presence of Moving Obstacles</title>
+		<year>2005</year>
+		<authors>jian yang,abdelhay daoui,zhihua qu,richard a. hull</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>414</label>
+		<keyword>Mobile Robot;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A control-design-based solution to robotic ecology: Autonomy of achieving cooperative behavior from a high-level astronaut command</title>
+		<year>2006</year>
+		<authors>zhihua qu,curtis m. ihlefeld,richard a. hull</authors>
+		<jconf>Autonomous Robots</jconf>
+		<label>414</label>
+		<keyword>Canonical Form;Community Networks;Control Design;Cooperative Behavior;Cooperative Control;Dynamic System;Multiple Input Multiple Output;Steady State;Stochastic Matrices;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In this paper, we propose a cooperative control strategy for a group,of robotic vehicles to achieve the specified task issued from a high-level astronaut command. The problem is mathematically formulated as designing the cooperative control for a general class of multiple-input- multiple-output (MIMO) dynamical,systems in canonical form with arbitrary but finite relative degrees such that the outputs of the</abstract>
+	</publication>
+	<publication>
+		<title>Real-time Obstacles Avoidance for Vehicles in the Urban Grand Challenge</title>
+		<year>2007</year>
+		<authors>jian yang,zhihua qu,kevin l. conrad,richard a. hull</authors>
+		<jconf>Journal of Aerospace Computing Information and Communication</jconf>
+		<label>414</label>
+		<keyword>Obstacle Avoidance;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cascaded feedback linearization and its application to stabilization of nonholonomic systems</title>
+		<year>2007</year>
+		<authors>zhihua qu,richard a. hull,jeffrey martin</authors>
+		<jconf>Systems &amp; Control Letters</jconf>
+		<label>414</label>
+		<keyword>Direct Method;Feedback Linearization;Feedback Stabilization;nonholonomic system;Nonlinear System;Satisfiability;State Feedback Control;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new cascaded feedback linearization problem is formulated and a set of conditions on the cascaded feedback linearizability are established for a class of two-input affine nonlinear systems. The proposed cascaded feedback linearization method enlarges the classes of nonlinear systems which can be dealt with using the feedback linearization technique. In particular, the proposed design can be</abstract>
+	</publication>
+	<publication>
+		<title>K Longest Paths Per Gate (KLPG) Test Generation for Scan-Based Sequential Circuits</title>
+		<year>2004</year>
+		<authors>wangqi qiu,d. m. h. walker,divya reddy,zhuo li,weiping shi</authors>
+		<jconf>International Test Conference</jconf>
+		<label>415</label>
+		<keyword>Computational Complexity;Industrial Design;Longest Path;Sequential Circuits;Test Generation;</keyword>
+		<organization>null</organization>
+		<abstract>To detect the smallest delay faults at a fault site, the longest path(s) through it must be tested at full speed. Existing test generation tools are inefficient in automatically identifying the longest testable paths due to the high computational complexity. In this work a test generation methodology for scan-based synchronous sequential circuits is presented, under two at-speed test strategies used</abstract>
+	</publication>
+	<publication>
+		<title>A Statistical Fault Coverage Metric for Realistic Path Delay Faults</title>
+		<year>2004</year>
+		<authors>wangqi qiu,xiang lu,zhuo li,d. m. h. walker</authors>
+		<jconf>IEEE VLSI Test Symposium</jconf>
+		<label>415</label>
+		<keyword>Fault Coverage;Path Delay Fault;Path Selection;</keyword>
+		<organization>null</organization>
+		<abstract>The path delay fault model is the most realistic model for delay faults. Testing all the paths in a circuit achieves 100% delay fault coverage according to traditional path delay fault coverage metrics. These metrics result in unrealistically low fault coverage if only a subset of paths is tested, and the real test quality is not reflected. For example, the</abstract>
+	</publication>
+	<publication>
+		<title>Static Compaction of Delay Tests Considering Power Supply Noise</title>
+		<year>2005</year>
+		<authors>xiang lu,wangqi qiu,ziding yue,steve fancler,weiping shi,d. m. h. walker</authors>
+		<jconf>IEEE VLSI Test Symposium</jconf>
+		<label>415</label>
+		<keyword>Power Grid;Power Supply Noise;</keyword>
+		<organization>null</organization>
+		<abstract>Excessive power supply noise can lead to overkill during delay test. A static compaction algorithm is described in this paper that prevents such overkill. A power supply noise estimation tool has been built and integrated into the compaction process. Compaction results for KLPG delay tests for ISCAS89 circuits under different power grid environments are presented.</abstract>
+	</publication>
+	<publication>
+		<title>Enrichment analysis in high-throughput genomics - accounting for dependency in the NULL</title>
+		<year>2007</year>
+		<authors>david l. gold,kevin r. coombes,bani k. mallick</authors>
+		<jconf>Briefings in Bioinformatics</jconf>
+		<label>415</label>
+		<keyword>a priori information;Gene Ontology;Molecular Processes;Statistical Test;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Translating the overwhelming amount of data generated in high-throughput genomics experiments into biologically meaningful evidence, which may for example point to a series of biomarkers or hint at a relevant pathway, is a matter of great interest in bioinformatics these days. Genes showing similar experimental profiles, it is hypothesized, share biological mechanisms that if understood could provide clues to the</abstract>
+	</publication>
+	<publication>
+		<title>Applications of beta-mixture models in bioinformatics</title>
+		<year>2005</year>
+		<authors>yuan ji,chunlei wu,ping liu,kevin r. coombes</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>415</label>
+		<keyword>Correlation Coefficient;Gene Expression;Mixture Model;Model Selection Criteria;</keyword>
+		<organization>null</organization>
+		<abstract>Summary: We propose a beta-mixture model approach to solve a vari- ety of problems related to correlations of gene-expression levels. For example, in meta-analyses of microarray gene-expression datasets, a threshold value of correlation coefficients for gene-expression levels is used to decide whether gene-expression levels are strongly correlated across studies. Ad hoc threshold values such as 0.5 are often used. In</abstract>
+	</publication>
+	<publication>
+		<title>Differences in gene expression between B-cell chronic lymphocytic leukemia and normal B cells: a meta-analysis of three microarray studies</title>
+		<year>2004</year>
+		<authors>kevin r. coombes,w. edward highsmith,m. j. keating,lynne v. abruzzo</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>415</label>
+		<keyword>B Cell;Batch Process;bayesian framework;Cdna Array;Cdna Microarray;Chronic Lymphocytic Leukemia;Differential Expression;Gene Expression;Gene Expression Profile;meta analysis;Microarray Data;Statistical Approach;Statistical Software;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: A major focus of current cancer research is to identify genes that can be used as markers for prognosis and diagnosis, and as targets for therapy. Microarray technology has been applied extensively for this purpose, even though it has been reported that the agreement between microarray platforms is poor. A critical question is: how can we best com- bine</abstract>
+	</publication>
+	<publication>
+		<title>Modeling Power Supply Noise in Delay Testing</title>
+		<year>2007</year>
+		<authors>d. m. h. walker,xiang lu,ananta k. majhi,bram kruseman,guido gronthoud,luis elvira villagra,paul j. a. m. van de wiel,stefan eichenberger</authors>
+		<jconf>IEEE Design &amp; Test of Computers</jconf>
+		<label>415</label>
+		<keyword>Power Supply Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discovery of Interesting Regions in Spatial Data Sets Using Supervised Clustering</title>
+		<year>2006</year>
+		<authors>christoph f. eick,banafsheh vaezian,dan jiang</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>416</label>
+		<keyword>Cluster Algorithm;Clustering Method;Data Mining;Spatial Data;Multi Resolution;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>The discovery of interesting regions in spatial datasets is an important data mining task. In particular, we are interested in identifying disjoint, contiguous regions that are unusual with respect to the distribution of a given class; i.e. a region that contains an unusually low or high number of instances of a particular class. This paper centers on the discussion of</abstract>
+	</publication>
+	<publication>
+		<title>Hybrid Textons: Modeling Surfaces with Reflectance and Geometry</title>
+		<year>2004</year>
+		<authors>kristin j. dana</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>417</label>
+		<keyword>Bidirectional Texture Function;Image Texture;Nonlinear Effect;Surface Model;Surface Texture;</keyword>
+		<organization>null</organization>
+		<abstract>The appearance of surface texture as it varies with angular changes of view and illumination is becoming an increas- ingly important research topic. The bidirectional texture function (BTF) is used in surface modeling because it de- scribes observed image texture as a function of imaging parameters. The BTF has no geometric information, as it is based solely on observed texture</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Approach For Texture Shape Recovery</title>
+		<year>2003</year>
+		<authors>kristin j. dana</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>417</label>
+		<keyword>Laser Scanning;Shape Recovery;Spatial Resolution;Surface Geometry;Surface Texture;</keyword>
+		<organization>null</organization>
+		<abstract>In vision and graphics, there is a sustained interest in capturing accurate 3D shape with various scanning de- vices. However, the resulting geometric representation is only part of the story. Surface texture of real objects is also an important component of the representation and fine- scale surface geometry such as surface markings, rough- ness, and imprints, are essential in highly</abstract>
+	</publication>
+	<publication>
+		<title>Surface detail in computer models</title>
+		<year>2007</year>
+		<authors>kristin j. dana,oana g. cula</authors>
+		<jconf>Image and Vision Computing</jconf>
+		<label>417</label>
+		<keyword>Computer Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relief Texture from Specularities</title>
+		<year>2006</year>
+		<authors>kristin j. dana</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>417</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving the Incertitude of Vertical Handovers in Heterogeneous Mobile Wireless Network Using MDP</title>
+		<year>2008</year>
+		<authors>r. venkatesha prasad,ignas g. niemegeers</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>418</label>
+		<keyword>Mobile Wireless Network;Vertical Handover;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Self-configuration in MANETs: Different Perspectives</title>
+		<year>2007</year>
+		<authors>r. venkatesha prasad,ignas g. niemegeers</authors>
+		<jconf>International Workshop on Self-Organizing Systems</jconf>
+		<label>418</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Link Stability Model for Indoor 60GHz Radio Wireless Networks</title>
+		<year>2009</year>
+		<authors>r. venkatesha prasad,przemyslaw pawelczak,ignas g. niemegeers</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>418</label>
+		<keyword>Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Home networking at 60 GHz: challenges and research issues</title>
+		<year>2008</year>
+		<authors>zülküf genç,bao linh dang,ignas g. niemegeers</authors>
+		<jconf>Annales Des T��l��communications</jconf>
+		<label>418</label>
+		<keyword>Home Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving the uncertainty of vertical handovers in multi-radio home networks</title>
+		<year>2010</year>
+		<authors>r. venkatesha prasad,ignas g. niemegeers</authors>
+		<jconf>Computer Communications</jconf>
+		<label>418</label>
+		<keyword>Home Network;Vertical Handover;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Asynchronous Sampling Benefits Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>yonghe liu,sajal k. das</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>419</label>
+		<keyword>Experimental Data;Global Optimization;Sensor Network;Sensor Nodes;Temporal Correlation;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— Intensive research has focused on redundance reduction in wireless sensor networks among sensory data due to the spatial and temporal correlation embedded therein. In this paper, we propose a novel approach termed asyn- chronous sampling that complements existing study. The key idea of asynchronous sampling is to spread the sampling times of the sensor nodes over the time line</abstract>
+	</publication>
+	<publication>
+		<title>Improving Information Quality of Sensory Data through Asynchronous Sampling</title>
+		<year>2009</year>
+		<authors>yonghe liu,sajal k. das</authors>
+		<jconf>IEEE International Conference on Pervasive Computing and Communications</jconf>
+		<label>419</label>
+		<keyword>Information Quality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Congestion management in delay tolerant networks</title>
+		<year>2008</year>
+		<authors>guohua zhang,yonghe liu</authors>
+		<jconf>International Wireless Internet Conference</jconf>
+		<label>419</label>
+		<keyword>Congestion Management;Delay Tolerant Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy-efficient data gathering in wireless sensor networks with asynchronous sampling</title>
+		<year>2010</year>
+		<authors>yonghe liu,sajal k. das</authors>
+		<jconf>ACM Transactions on Sensor Networks</jconf>
+		<label>419</label>
+		<keyword>Data Gathering;Energy Consumption;Energy Efficient;Mathematical Analysis;Sampling Strategy;Sensor Nodes;Signal Reconstruction;Spatial Correlation;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>A low sampling rate leads to reduced congestion and hence energy consumption in the resource-constrained wireless sensor networks. In this article, we propose asynchronous sampling that shifts the sampling time instances of sensor nodes from each other. For lossy data gathering scenarios, the proposed approach provides more information about the physical phenomena in terms of increased entropy at a low</abstract>
+	</publication>
+	<publication>
+		<title>Synthesis and evaluation of linear motion transitions</title>
+		<year>2008</year>
+		<authors>bobby bodenheimer</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>420</label>
+		<keyword>Computer Game;Cross Validation;Empirical Evaluation;Just Noticeable Difference;User Study;Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This article develops methods for determining visually appealing motion transitions using linear blending. Motion transitions are segues between two sequences of animation, and are important components for generating compelling animation streams in virtual environments and computer games. Methods involving linear blending are studied because of their efficiency, computational speed, and widespread use. Two methods of transition specification are detailed, center-</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of a Variational Approach to Progressive Lens Design</title>
+		<year>2003</year>
+		<authors>fadil santosa,robert gulliver</authors>
+		<jconf>Siam Journal on Applied Mathematics</jconf>
+		<label>421</label>
+		<keyword>Boundary Condition;Elliptic Partial Differential Equation;euler-lagrange equation;Existence and Uniqueness;Variational Approach;</keyword>
+		<organization>null</organization>
+		<abstract>We consider a variational approach to the progressive lens design problem. The corresponding Euler-Lagrange equation is a fourth-order nonlinear elliptic partial differential equation. We analyzed two linearizations of the equation and showed the existence and uniqueness as well as the regularity of the solutions for various boundary conditions. We end with an example of a progressive lens designed by solving</abstract>
+	</publication>
+	<publication>
+		<title>GPU-Based Real-Time Deformation with Normal Reconstruction</title>
+		<year>2007</year>
+		<authors>yinghui che,xiaohui liang</authors>
+		<jconf>Edutainment - International Conference on E-learning and Games</jconf>
+		<label>422</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time deformation using modal analysis on graphics hardware</title>
+		<year>2006</year>
+		<authors>yinghui che,xiaohui liang</authors>
+		<jconf>Computer graphics and interactive techniques in Austalasia and South East Asia</jconf>
+		<label>422</label>
+		<keyword>Computer Graphic;Deformable Objects;Floating Point;Graphics Hardware;Interactive Application;Modal Analysis;physics-based modeling;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an approach for fast simulating deformable objects that is suitable for interactive applications in computer graphics. Linear modal analysis is often used to simulate small-amplitude deformation. Compared to traditional linear modal analysis where the CPU has been used to calculate the nodal displacements, the vertex program of GPU has been found widely adopted in the current applications.</abstract>
+	</publication>
+</person>

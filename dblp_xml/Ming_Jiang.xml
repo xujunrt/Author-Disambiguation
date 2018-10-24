@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ming Jiang</FullName>
+	<publication>
+		<title>Convergence of iterative algorithms for image reconstruction</title>
+		<year>2002</year>
+		<authors>ge wang</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>724</label>
+		<keyword>Image Reconstruction;Iterative Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cone-beam reconstruction for Micro-CT</title>
+		<year>2002</year>
+		<authors>ge wang,seung wook lee,hong liu,eric a. hoffman</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>724</label>
+		<keyword>Cone Beam;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Surface Reconstruction Method for Highly Noisy Point Clouds</title>
+		<year>2005</year>
+		<authors>danfeng lu,hongkai zhao,shulin zhou,tie zhou</authors>
+		<jconf>Variational, Geometric, and Level Set Methods in Computer Vision</jconf>
+		<label>724</label>
+		<keyword>Geometric Feature;Minimal Surface;Point Cloud;Surface Reconstruction;Level Set Method;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose a surface reconstruction method for highly noisy and non-uniform data based on minimal surface model and tensor voting method. To deal with ill-posedness, noise and/or other uncertainties in the data we processes the raw data rst using tensor voting before we do surface reconstruction. The tensor voting procedure allows more global and robust communications among</abstract>
+	</publication>
+	<publication>
+		<title>Convergence of the simultaneous algebraic reconstruction technique (SART)</title>
+		<year>2003</year>
+		<authors>ge wang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>724</label>
+		<keyword>Algebraic Reconstruction Technique;Image Reconstruction;Weighted Least Square;Simultaneous Algebraic Reconstruction Technique;</keyword>
+		<organization>null</organization>
+		<abstract>In 198~, the simultaneous algebraic reconstruction technique (SART) was developed as a major refinement of the algebraic reconstruction technique (ART). Since then, the SART approach remains a powerful tool for iterative image reconstruction. However, the conver- gence of the SART has never been established. In this paper, this long-standing conjecture is proven under the condition that coeffficients of the linear</abstract>
+	</publication>
+	<publication>
+		<title>Convergence Studies on Iterative Algorithms for Image Reconstruction</title>
+		<year>2003</year>
+		<authors>ge wang</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>724</label>
+		<keyword>Image Reconstruction;Iterative Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Blind Deblurring of Spiral CT Images</title>
+		<year>2003</year>
+		<authors>ge wang,margaret w. skinner,jay t. rubinstein,michael w. vannier</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>724</label>
+		<keyword>Computed Tomography;Em Algorithm;Hearing Loss;Indexing Terms;Inner Ear;Spatial Resolution;Temporal Bone;Cochlear Implant;</keyword>
+		<organization>null</organization>
+		<abstract>The temporal bone is a complex paired set of struc- tures at the skull base which contains the organ of hear- ing among others (1). Treatment of severe to profound, bilateral hearing loss often employs a multi-electrode cochlear implant inserted into the inner ear part of the temporal bone. CT scanners cannot resolve many im- portant temporal bone details, especially</abstract>
+	</publication>
+	<publication>
+		<title>Iterative MIMO Channel Estimation for Next Generation Wireless Systems</title>
+		<year>2007</year>
+		<authors>thierry lestable,youngkwon cho</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>725</label>
+		<keyword>mimo channel;Next Generation Wireless Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Joint Channel Estimation and Symbol Detection for Multi-User MIMO OFDM</title>
+		<year>2006</year>
+		<authors>jos akhtman,feng guo,lajos hanzo</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>725</label>
+		<keyword>Channel Estimation;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Uplink Multi-User MIMO OFDM Enhancement Using Genetically Improved Turbo Receiver</title>
+		<year>2007</year>
+		<authors>thierry lestable,youngkwon cho</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>725</label>
+		<keyword>Genetic Improvement;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Soft-Information Assisted Near-Optimum Nonlinear Detection for BLAST-type Space Division Multiplexing OFDM Systems</title>
+		<year>2007</year>
+		<authors>jos akhtman,lajos hanzo</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>725</label>
+		<keyword>Space Division Multiplexing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Joint Channel Estimation and Multi-User Detection for Multiple-Antenna Aided OFDM Systems</title>
+		<year>2007</year>
+		<authors>jos akhtman,lajos hanzo</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>725</label>
+		<keyword>Channel Estimation;Multi User Detection;Multiple Antennas;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HUX: a schemacentric approach for updating XML views</title>
+		<year>2006</year>
+		<authors>ling wang,elke a. rundensteiner,murali mani</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>726</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Optimized Two-Step Solution for Updating XML Views</title>
+		<year>2008</year>
+		<authors>ling wang,elke a. rundensteiner,murali mani</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>726</label>
+		<keyword>Knowledge Extraction;Relational Database;Side Effect;</keyword>
+		<organization>null</organization>
+		<abstract>View updating is a long standing difficult problem. Given a vi ew defined over base data sources and a view update, there are several different updates over the base data sources, called translations, that perform the update. A translation is said to be correct if it performs the update and at the same time does not update any portion of</abstract>
+	</publication>
+	<publication>
+		<title>Updating Views Over Recursive XML</title>
+		<year>2007</year>
+		<authors>ling wang,murali mani,elke a. rundensteiner</authors>
+		<jconf>International Conference on Database Theory</jconf>
+		<label>726</label>
+		<keyword>Recursive Types;Xml Document;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of updating XML views defined over XML documents. A view update is performed by finding the base updates over the underlying data sources that achieve the desired view update. If such base updates do not exist, the view update is said to be untranslatable and rejected. In SQL, determining whether a view update is translatable is</abstract>
+	</publication>
+	<publication>
+		<title>HUX: Handling Updates in XML</title>
+		<year>2006</year>
+		<authors>ling wang,elke a. rundensteiner,murali mani</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>726</label>
+		<keyword>Data Model;Education System;web-based system;Protein Information Resource;Worcester Polytechnic Institute;</keyword>
+		<organization>null</organization>
+		<abstract>We demonstrate HUX (Handling Updates in XML) which provides a reliable and efficient solution for the XML view update prob- lem. Given an update over an XML view, our U-Filter subsytem first determines whether the update is translatable or not by exam- ining potential conflicts in both schema and data. If an update is determined to be translatable, our U-Translator</abstract>
+	</publication>
+	<publication>
+		<title>Enhancement of Microtubules In EM Tomography</title>
+		<year>2004</year>
+		<authors>qiang ji,bruce f. mcewen</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>727</label>
+		<keyword>3d imaging;Image Enhancement;Noise Removal;Structure Analysis;Volume Data;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>The interpretation of the EM tomography of microtubules is challenging due to the low SNR and low contrast of the volume data. Therefore, image enhancement is crucial for the subsequent segmentation and structural analysis of mi- crotubules. In this paper, We propose a model based 3D image enhancement approach by combining transform do- main technique and spatial domain techniques in</abstract>
+	</publication>
+	<publication>
+		<title>Automated Extraction of Microtubules and Their Plus-Ends</title>
+		<year>2005</year>
+		<authors>qiang ji,bruce f. mcewen</authors>
+		<jconf>Workshop on Applications of Computer Vision</jconf>
+		<label>727</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated Extraction of Fine Features of Kinetochore Microtubules and Plus-Ends From Electron Tomography Volume</title>
+		<year>2006</year>
+		<authors>qiang ji,bruce f. mcewen</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>727</label>
+		<keyword>Active Shape Model;Electron Tomography;Feature Detection;High Resolution;Image Enhancement;Indexing Terms;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Kinetochore microtubules (KMTs) and the associated plus-ends have been areas of intense investigation in both cell bi- ology and molecular medicine. Though electron tomography opens up new possibilities in understanding their function by imaging their high-resolution structures, the interpretation of the acquired data remains an obstacle because of the complex and cluttered cellular environment. As a result, practical segmentation of</abstract>
+	</publication>
+	<publication>
+		<title>Feature Mining Paradigms for Scientific Data</title>
+		<year>2003</year>
+		<authors>tat-sang choy,sameep mehta,matt coatney,steve barr,kaden hazzard,david richie,srinivasan parthasarathy,raghu machiraju,david thompson,john wilkins,boyd gatlin</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>728</label>
+		<keyword>computational uid dynamics;Molecular Dynamic;Numerical Simulation;Scientific Data;</keyword>
+		<organization>null</organization>
+		<abstract>Numerical simulation is replacing experimentation as a means to gain insight into complex physical phenom- ena. Analyzing the data produced by such simulations is extremely challenging, given the enormous sizes of the datasets involved. In order to make ecient progress, analyzing such data must advance from current techniques that only visualize static images of the data, to novel techniques that</abstract>
+	</publication>
+	<publication>
+		<title>Geometric Verification of Features in Flow Fields</title>
+		<year>2002</year>
+		<authors>raghu machiraju,david thompson</authors>
+		<jconf>IEEE Visualization</jconf>
+		<label>728</label>
+		<keyword>Detection Algorithm;Flow Field;Numerical Simulation;Visual Inspection;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a verification algorithm for swirling featuresin flow fields, based on the geometry of streamlines. The featuresof interest in this case are vortices. Without a formal definition,existing detection algorithms lack the ability to accuratelyidentify these features, and the current method for verifying theaccuracy of their results is by human visual inspection. Our verificationalgorithm addresses this issue</abstract>
+	</publication>
+	<publication>
+		<title>Spatial Domain Wavelet Design for Feature Preservation in Computational Data Sets</title>
+		<year>2005</year>
+		<authors>gheorghe craciun,david thompson,raghu machiraju</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>728</label>
+		<keyword>Computation Fluid Dynamics;Feature Preservation;Filter Design;Frequency Domain;Large Data Sets;Scientific Data;Low Pass Filter;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract>High-fidelity wavelet transforms can facilitate visualization and analysis of large scientific data sets. However, it is important that salient characteristics of the original features be preserved under the transformation. We present a set of filter design axioms in the spatial domain which ensure that certain feature characteristics are preserved from scale to scale and that the resulting filters correspond to</abstract>
+	</publication>
+	<publication>
+		<title>Vortex Visualization for Practical Engineering Applications</title>
+		<year>2006</year>
+		<authors>monika jankun-kelly,david thompson,raghu machiraju</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>728</label>
+		<keyword>Computation Fluid Dynamics;Flow Field;Indexing Terms;k-means clustering;Large Data Sets;Scalar Field;Unstructured Mesh;Visual Features;Visualization Technique;</keyword>
+		<organization>null</organization>
+		<abstract>In order to understand complex vortical flows in large data sets, we must be able to detect and visualize vortices in an automated fashion. In this paper, we present a feature-based vortex detection and visualization technique that is appropriate for large computational fluid dynamics data sets computed on unstructured meshes. In particular, we focus on the application of this technique</abstract>
+	</publication>
+	<publication>
+		<title>A simple technique for estimating message lengths for additive noise steganography</title>
+		<year>2004</year>
+		<authors>edward k. wong,nasir d. memon,xiaolin wu</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>729</label>
+		<keyword>Additive Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quantitative steganalysis of binary images</title>
+		<year>2004</year>
+		<authors>nasir d. memon,edward k. wong,xiaolin wu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>729</label>
+		<keyword>Additive Noise;Binary Image;Compression Algorithm;Hidden Information;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a quantitative steganalysis method to detect hidden information embedded by ipping pixels along boundaries in bi- nary images. We model steganographic embedding as an additive noise process and use compression rate as a distinguishing statis- tic that aids in discriminating between stego-images and cover- images. We specically use the JBIG 2 binary image compression algorithm to derive a</abstract>
+	</publication>
+	<publication>
+		<title>Robust Document Image Authentication</title>
+		<year>2007</year>
+		<authors>edward k. wong,nasir d. memon</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>729</label>
+		<keyword>Image Authentication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Steganalysis of boundary-based steganography using autoregressive model of digital boundaries</title>
+		<year>2004</year>
+		<authors>xian wu,edward k. wong,a. memon</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>729</label>
+		<keyword>Autoregressive Model;Digital Documents;Auto Regressive;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel technique for the steganalysis of digital documents, when the secret message is embedded along the boundaries of text characters or other symbols in the documents. The proposed technique uses an auto-regressive model to detect marked documents, as well as to estimate the relative length of the embedded messages. Experimental results demonstrate the effectiveness</abstract>
+	</publication>
+	<publication>
+		<title>Load balancing in distributed simulations on the grid</title>
+		<year>2004</year>
+		<authors>rachid anane,georgios k. theodoropoulos</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>730</label>
+		<keyword>Distributed Simulation;Load Balance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Hamiltonicity of Directed sigma - tao Cayley Graphs (or: A Tale of Backtracking)</title>
+		<year>1995</year>
+		<authors>frank ruskey,andrew weston</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<label>731</label>
+		<keyword>Cayley Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Determining the hamilton-connectedness of certain vertex-transitive graphs</title>
+		<year>1994</year>
+		<authors>frank ruskey</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>731</label>
+		<keyword>Transitive Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Workflow Oriented Virtual Enterprise Based on Policy Driven and Multi-agent Service Composition</title>
+		<year>2008</year>
+		<authors>jingfan tang,ming xu</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>732</label>
+		<keyword>Service Composition;Virtual Enterprise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Access Protocol with Efficient Slot Reuse in WDM Metro Ring</title>
+		<year>2005</year>
+		<authors>qingji zeng,yong ouyang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>733</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

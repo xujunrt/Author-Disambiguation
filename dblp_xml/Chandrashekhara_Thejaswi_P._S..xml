@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chandrashekhara Thejaswi P. S.</FullName>
+	<publication>
+		<title>Computationally and Resource Efficient Group Key Agreement for Ad Hoc Sensor Networks</title>
+		<year>2007</year>
+		<authors>dungara ram choudhary,dev anshul,suman roy</authors>
+		<jconf>COMmunication System softWAre and MiddlewaRE</jconf>
+		<label>119</label>
+		<keyword>Group Key Agreement;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Sensor network design from a probabilistic automaton model of impersonation attack</title>
+		<year>2006</year>
+		<authors>suman roy,debapriyay mukhopadhyay</authors>
+		<jconf>COMmunication System softWAre and MiddlewaRE</jconf>
+		<label>119</label>
+		<keyword>Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed Opportunistic Scheduling With Two-Level Channel Probing</title>
+		<year>2009</year>
+		<authors>junshan zhang,man-on pun,h. vincent poor</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>119</label>
+		<keyword>Data Transmission;Distributed Scheduling;Estimation Error;Incomplete Information;Necessary and Sufficient Condition;Optimal Scheduling;Optimal Stopping;Peer To Peer;Random Access;Wireless Ad Hoc Network;Distributed Opportunistic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed opportunistic scheduling (DOS) is studied for wireless ad-hoc networks in which many links contend for the channel using random access before data transmissions. Simply put, DOS involves a process of joint channel probing and distributed scheduling for ad-hoc (peer-to- peer) communications. Since in practice, link conditions are estimated with noisy observations, the transmission rate has to be backed off</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Opportunistic Scheduling With Two-Level Probing</title>
+		<year>2009</year>
+		<authors>man-on pun,h. vincent poor,dong zheng</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>119</label>
+		<keyword>Data Transmission;Distributed Scheduling;Estimation Error;Incomplete Information;Necessary and Sufficient Condition;Optimal Scheduling;Optimal Stopping;Peer To Peer;Random Access;Wireless Ad Hoc Network;Distributed Opportunistic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed opportunistic scheduling (DOS) is studied for wireless ad-hoc networks in which many links contend for the channel using random access before data transmissions. Simply put, DOS involves a process of joint channel probing and distributed scheduling for ad-hoc (peer-to-peer) communications. Since, in practice, link conditions are estimated with noisy observations, the transmission rate has to be backed off from</abstract>
+	</publication>
+</person>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ajay Gupta</FullName>
+	<publication>
+		<title>Optimal Deployment of Triggers for Detecting Events</title>
+		<year>2004</year>
+		<authors>manish bhide,mukul joshi,mukesh k. mohania</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>10</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Page Ranking Based on Events</title>
+		<year>2004</year>
+		<authors>manish bhide,mukesh k. mohania</authors>
+		<jconf>Electronic Commerce and Web Technologies</jconf>
+		<label>10</label>
+		<keyword>Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Management of Conflicting Obligations in Self-Protecting Policy-Based Systems</title>
+		<year>2005</year>
+		<authors>rema ananthanarayanan,mukesh k. mohania</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>10</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Policy Framework for Autonomic Data Managemen</title>
+		<year>2004</year>
+		<authors>manish bhide,mukul joshi,mukesh k. mohania,shree raman</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>10</label>
+		<keyword>Database Management;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The popularity ,of  e-Business ,has ,lead ,to  an  exponential,and ,unstructured ,growth ,in  the  applications space  coupled ,with  an  increase ,in  the  database,size.   This  has  led  to  an ,increase  in  the  complexity,of  the ,database ,management ,task.  Moreover, organizations  are  increasingly  concerned  about the privacy of data. Thus, managing such large ever,growing ,and ,privacy-preserving  database ,is  complex,and  time-consuming ,task.  In  this</abstract>
+	</publication>
+	<publication>
+		<title>Enhanced Business Intelligence using EROCS</title>
+		<year>2008</year>
+		<authors>manish bhide,v. chakravarthy,himanshu gupta,mukesh k. mohania,kriti puniyani,prasan roy,sourashis roy,vibhuti s. sengar</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>10</label>
+		<keyword>Business Intelligence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Access Control Framework Based On Events</title>
+		<year>2003</year>
+		<authors>manish bhide,sandeep pandey,mukesh k. mohania</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>10</label>
+		<keyword>Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Bringing Database Management Task in the Realm of IT non-Experts</title>
+		<year>2003</year>
+		<authors>manish bhide,mukesh k. mohania</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>10</label>
+		<keyword>Database Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Policy Driven Data Administration</title>
+		<year>2002</year>
+		<authors>vishal s. batra,jaijit bhattacharya,harish chauhan,mukesh k. mohania,upendra sharma</authors>
+		<jconf>Policies for Distributed Systems and Networks</jconf>
+		<label>10</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LIPTUS: associating structured and unstructured information in a banking environment</title>
+		<year>2007</year>
+		<authors>manish bhide,rahul gupta,prasan roy,mukesh k. mohania,zenita ichhaporia</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>10</label>
+		<keyword>Data Association;Data Warehouse;Information Integration;Text Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Growing competition has made today's banks understand the value of knowing their customers better. In this paper, we describe a tool, LIPTUS, that associates the customer interactions (emails and transcribed phone calls) with customer and account profiles stored in an existing data warehouse. The associations discovered by LIPTUS enable analytics spanning the customer and account profiles on one hand and</abstract>
+	</publication>
+	<publication>
+		<title>Some issues in privacy data management</title>
+		<year>2007</year>
+		<authors>mukesh k. mohania,rema ananthanarayanan</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>10</label>
+		<keyword>Data Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Explanation-based Failure Recovery</title>
+		<year>1987</year>
+		<authors></authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>11</label>
+		<keyword>Failure Recovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Time Representation in Prolog Circuit Modelling</title>
+		<year>1991</year>
+		<authors>yossi lichtenstein,bob welham</authors>
+		<jconf>UK Conference on Logic Programming</jconf>
+		<label>11</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards</title>
+		<year>1991</year>
+		<authors>daryl allred,yossi lichtenstein,chris preist,michael a. bennett</authors>
+		<jconf>Innovative Applications of Artificial Intelligence</jconf>
+		<label>11</label>
+		<keyword>Personal Computer;Expert System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Document Summarization using Wikipedia</title>
+		<year>2009</year>
+		<authors>krishnan ramanathan,yogesh sankarasubramaniam,nidhi mathur</authors>
+		<jconf></jconf>
+		<label>11</label>
+		<keyword>Document Summarization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hardware Diagnosis as Program Debugging</title>
+		<year>1987</year>
+		<authors></authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>11</label>
+		<keyword>Digital Circuits;Program Debugging;</keyword>
+		<organization>null</organization>
+		<abstract>Horn clauses provide a useful framework for writing executable structural representations for digital circuits. This paper discusses how these representations can be used to diagnose faulty circuits using algorithmic program debugging techniques developed by Shapiro. The sound theoretical basis of these techniques is one of the major advantages of this approach. This framework also provides a new perspective on some</abstract>
+	</publication>
+	<publication>
+		<title>Clustering short texts using wikipedia</title>
+		<year>2007</year>
+		<authors>somnath banerjee,krishnan ramanathan</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>11</label>
+		<keyword>Information Overload;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>Subscribers to the popular news or blog feeds (RSS/Atom) often face the problem of information overload as these feed sources usually deliver large number of items periodically. One solution to this problem could be clustering similar items in the feed reader to make the information more manageable for a user. Clustering items at the feed reader end is a challenging</abstract>
+	</publication>
+	<publication>
+		<title>IT Infrastructure in Emerging Markets: Arguing for an End-to-End Perspective</title>
+		<year>2006</year>
+		<authors>parthasarathy ranganathan,prashant sarin,mehul a. shah</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<label>11</label>
+		<keyword>Emerging Market;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Design of Boltzmann Machines</title>
+		<year>1990</year>
+		<authors>wolfgang maass</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>12</label>
+		<keyword>boltzmann machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Predators to Combat Worms and Viruses: A Simulation-Based Study</title>
+		<year>2004</year>
+		<authors>daniel c. duvarney</authors>
+		<jconf>Annual Computer Security Applications Conference</jconf>
+		<label>13</label>
+		<keyword>Large Scale;Mobile Code;Network Congestion;Simulation Tool;</keyword>
+		<organization>null</organization>
+		<abstract>Large-scale attacks generated by fast-spreading or stealthy malicious mobile code, such as ash worms and e-mail viruses, demand new approaches to patch management and disinfection. Currently popular centralized approaches suf- fer from distribution bottlenecks which cannot be solved by merely increasing the number of servers, as the number of servers required to eliminate all bottlenecks is imprac- tically large. Recently,</abstract>
+	</publication>
+	<publication>
+		<title>Specification-based anomaly detection: a new approach for detecting network intrusions</title>
+		<year>2002</year>
+		<authors>r. sekar,j. frullo,t. shanbhag,a. tiwari,h. yang,s. zhou</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>13</label>
+		<keyword>Anomaly Detection;Denial of Service Attack;Feature Selection;Intrusion Detection;Machine Learning;Network Monitoring;Network Protocol;Protocol Specification;Sampling Technique;Specification Language;State Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Unlike signature or misuse based intrusion detection techniques, anomaly detection is capable of detecting novel attacks. However, the use of anomaly detection in practice is hampered by a high rate of false alarms. Specification-based techniques have been shown to produce a low rate of false alarms, but are not as effective as anomaly detection in detecting novel attacks, especially when</abstract>
+	</publication>
+	<publication>
+		<title>Resource Usage Policy Specification for Managing Application Resources</title>
+		<year>2008</year>
+		<authors>prem uppuluri</authors>
+		<jconf>International Conference on Information Technology: New Generations</jconf>
+		<label>13</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach for Detecting Self-propagating Email Using Anomaly Detection</title>
+		<year>2003</year>
+		<authors>r. sekar</authors>
+		<jconf>Recent Advances in Intrusion Detection</jconf>
+		<label>13</label>
+		<keyword>Anomaly Detection;</keyword>
+		<organization>null</organization>
+		<abstract>This paper develops a new approach for detecting self-propagating email viruses based on statistical anomaly detection. Our approach assumes that a key objective of an email virus attack is to eventually overwhelm mail servers and clients with a large volume of email traffic. Based on this assumption, the approach is designed to detect increases in traffic volume over what was</abstract>
+	</publication>
+	<publication>
+		<title>Performance trade-offs for a multimedia distributed application</title>
+		<year>1995</year>
+		<authors>kurt maly,c. michael overstreet,hussein m. abdel-wahab,muthu kumar,rahul srivastava</authors>
+		<jconf>High Performance Networking</jconf>
+		<label>14</label>
+		<keyword>Distributed Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PMES: privilege mangagement and enforcement system for secure distributed resource sharing</title>
+		<year>1996</year>
+		<authors>kurt maly,irwin b. levinstein,ravi mukkamala,bjorn kvande,s. nanjangud,margrethe h. olson,roy whitney,rita chambers</authors>
+		<jconf>World Computer Congress</jconf>
+		<label>14</label>
+		<keyword>Resource Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CoProcess: A Java-based Environment for Collaborative Process Management Over the Web</title>
+		<year>1997</year>
+		<authors>kurt maly,hussein m. abdel-wahab,ravi mukkamala,mohamed kholief,s. dittakavi,c. s. vemuru,h. syed</authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>14</label>
+		<keyword>Collaborative Writing;Process Management;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>CoProcess is a Java-based environment to facilitate collaborative process management overthe World-wide Web (WWW). It can support a wide variety of applications that may involvefilling forms, sending e-mail, searching a database (or web) for information, establishing a teleconferencewithin a group, collaborative writing, reviewing, and editing of documents, and othervideo and audio record/playback facilities. In this paper, we describe the CoProcess</abstract>
+	</publication>
+	<publication>
+		<title>The software architecture and interprocess communications of IRI: an Internet-based interactive distance learning system</title>
+		<year>1996</year>
+		<authors>hussein m. abdel-wahab,kurt maly,alaa youssef,emilia stoica,c. michael overstreet,j. christian wild</authors>
+		<jconf>Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises</jconf>
+		<label>14</label>
+		<keyword>Data Sharing;Distance Learning;interprocess communication;Software Architecture;Video Streaming;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract>This paper discusses the software architecture, interprocesscommunication and the reference implementationof IRI, an Interactive Remote Instruction systemfor distance learning. IRI is an Internet-based systemwhich integrates continuous multimedia, shared applicationsand a variety of multi-user collaborative utilities.Internet multicasting is used by IRI for groupmanagement and data sharing; UDP-multicasting isused for audio and video streams while reliable multicastingprotocol (RMP) is ...</abstract>
+	</publication>
+	<publication>
+		<title>A privilege management and enforcement system for distributed resource sharing</title>
+		<year>1996</year>
+		<authors>kurt maly,bjorn kvande,irwin b. levinstein,ravi mukkamala,s. nanjangud,margrethe h. olson,roy whitney,rita chambers</authors>
+		<jconf>Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises</jconf>
+		<label>14</label>
+		<keyword>Resource Sharing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mosaic + XTV = CoReview</title>
+		<year>1995</year>
+		<authors>kurt maly,hussein m. abdel-wahab,ravi mukkamala,a. prabhu,h. syed,c. s. vemuru</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>14</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>BTU: A Host Communication Benchmark</title>
+		<year>1998</year>
+		<authors>kurt maly,satish mynam</authors>
+		<jconf>IEEE Computer</jconf>
+		<label>14</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose a communication benchmark suite: BTU(Bits To the User). In the BTUbenchmarking process, the vendor supplies a workstation running a UNIX2operating system, we installour benchmark program and connect the workstation to a testbed, consisting of blackboxes, which emulatesa LAN/WAN environment. The benchmark run will submit the workstation to a carefully designed combinationof tests. The result is</abstract>
+	</publication>
+	<publication>
+		<title>Interactive Distance Learning over Intranets</title>
+		<year>1997</year>
+		<authors>kurt maly,hussein m. abdel-wahab,c. michael overstreet,j. christian wild,alaa youssef,emilia stoica,ehab s. al-shaer</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>14</label>
+		<keyword>Distance Learning;Lessons Learned;Software Metric;</keyword>
+		<organization>null</organization>
+		<abstract>this article we describe IRI and the lessons learned deploying it. We first deployed IRI to teacha fall 1995 graduate course in software metrics. We then evaluated it in terms of logistics, reliability,performance, and usability, performing off-line experiments to try out new features and to developprotocols that would improve IRI use. We subsequently reengineered IRI into an open architecturewith a</abstract>
+	</publication>
+	<publication>
+		<title>IRI-h, a Java-based distance education system</title>
+		<year>2001</year>
+		<authors>kurt maly,hussein m. abdel-wahab,j. christian wild,c. michael overstreet,ayman adel abdel hamid,sahar m. ghanem,agustin gonzález,xiaoqing zhu</authors>
+		<jconf>ACM Transactions on Computing Education / ACM Journal of Educational Resources in Computing</jconf>
+		<label>14</label>
+		<keyword>Distance Education;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

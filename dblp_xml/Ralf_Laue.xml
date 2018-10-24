@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ralf Laue</FullName>
+	<publication>
+		<title>High-Flexibility Rekeying Processor for Key Management in Secure Multicast</title>
+		<year>2007</year>
+		<authors>abdulhadi shoufan,sorin a. huss</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>862</label>
+		<keyword>Key Management;Secure Multicast;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compact AES-based Architecture for Symmetric Encryption, Hash Function, and Random Number Generation</title>
+		<year>2007</year>
+		<authors>oliver kelm,sebastian schipp,abdulhadi shoufan,sorin a. huss</authors>
+		<jconf>Field-Programmable Logic and Applications</jconf>
+		<label>862</label>
+		<keyword>Hash Function;Random Number Generator;Symmetric Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Multiple Core Coprocessor Architecture for Efficient Server-Based Public Key Cryptographic Applications</title>
+		<year>2008</year>
+		<authors>h. gregor molter,felix rieder,sorin a. huss,kartik saxena</authors>
+		<jconf>Annual Symposium on VLSI</jconf>
+		<label>862</label>
+		<keyword>hw/sw co-design;Low Latency;Processor Architecture;Public Key;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>We present an SoC-based cryptographic co-processor for server applications, which supports different public key cryptographic schemes. Its novel architecture comprises multiple cores and utilizes HW/SW co-design to support flexibility concerning the supported cryptographic schemes. The emphasis on servers shifts the focus to high throughput, while the usual metric in literature is low latency. Thus, to gain low latency, usual architectures</abstract>
+	</publication>
+	<publication>
+		<title>A Case Study on Partial Evaluation in Embedded Software Design</title>
+		<year>2005</year>
+		<authors>michael jung,sorin a. huss</authors>
+		<jconf>Software Technologies for Future Embedded and Ubiquitous Systems</jconf>
+		<label>862</label>
+		<keyword>Case Study;Embedded Software;Embedded System Design;Operating System;Partial Evaluation;Software Development Process;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Source code generators are often applied in embedded systems design to combine the flexibility necessary for reusability with the performance,of highly specialized software. However, designing generators adds addi- tional complexity to the software development process. Partial Evaluation promises to provide some means of automation in generator development. This paper re- ports on our experiences with the implementation of a</abstract>
+	</publication>
+	<publication>
+		<title>Reliable Performance Evaluation of Rekeying Algorithms in Secure Multicast</title>
+		<year>2007</year>
+		<authors>abdulhadi shoufan,sorin a. huss</authors>
+		<jconf>Workshop on Wireless Mobile Multimedia</jconf>
+		<label>862</label>
+		<keyword>Performance Evaluation;Secure Multicast;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimized Implementation of Elliptic Curve Based Additive Homomorphic Encryption for Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>osman ugus,dirk westhoff,abdulhadi shoufan,sorin a. huss</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>862</label>
+		<keyword>Data Storage;Elliptic Curve;Elliptic Curve Cryptography;Fixed Point;Homomorphic Encryption;Sensor Nodes;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>When deploying wireless sensor networks (WSNs) in pub- lic environments it may become necessary to secure their data storage and transmission against possible attacks such as node-compromise and eavesdropping. The nodes feature only small computational and energy resources, thus requir- ing ecient algorithms. As a solution for this problem the TinyPEDS approach was proposed in (7), which utilizes the Elliptic</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Memory Architecture for Elliptic Curve Cryptography over GF(p) Aimed at Efficient FPGA Implementation</title>
+		<year>2008</year>
+		<authors>sorin a. huss</authors>
+		<jconf>Journal of Signal Processing Systems</jconf>
+		<label>862</label>
+		<keyword>Elliptic Curve Cryptography;fpga implementation;Memory Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

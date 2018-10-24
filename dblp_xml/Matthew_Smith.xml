@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matthew Smith</FullName>
+	<publication>
+		<title>Hidden messages: evaluating the efficiency of code elision in program navigation</title>
+		<year>2003</year>
+		<authors>andy cockburn</authors>
+		<jconf>Interacting with Computers</jconf>
+		<label>669</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

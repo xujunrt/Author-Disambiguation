@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xuemei Huang</FullName>
+	<publication>
+		<title>Local Linear Discriminant Analysis (LLDA) for Inference of Multisubject FMRI Data</title>
+		<year>2007</year>
+		<authors>martin j. mckeown,junning li,z. jane wang</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>1133</label>
+		<keyword>Data Analysis;Discriminant Analysis;Indexing Terms;Linear Discriminate Analysis;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>Large intersubject variability is a well-described feature of fMRI studies, making inter-group inference, of critical importance for biological interpretation, difficult. Therefore, traditional approaches involve spatially transforming the data of each subject and heavily spatially smoothing the data. Here we propose an alternate method: after first defining individually- specific Regions of Interest (ROIs) of each subject, we utilize Local Linear Discriminant</abstract>
+	</publication>
+	<publication>
+		<title>Shape vs. volume: invariant shape descriptors for 3D region of interest characterization in MRI</title>
+		<year>2006</year>
+		<authors>sina tootoonian,rafeef abugharbieh,martin j. mckeown</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>1133</label>
+		<keyword>Brain Structure;Caudate Nucleus;Medical Image;parkinson's disease;Shape Descriptor;Control Subjects;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new approach for quantifying regions of interest (ROIs) in medical image data. Rotationally invariant shape descriptors (ISDs) were applied to 3D brain regions extracted from MRI scans of 5 Parkinson's patients and 10 control subjects. We concentrated on the thalamus and the caudate nucleus since prior studies have suggested they are affected in Parkinson's disease (PD). In</abstract>
+	</publication>
+	<publication>
+		<title>Spatial Characterization of fMRI Activation Maps Using Invariant 3-D Moment Descriptors</title>
+		<year>2009</year>
+		<authors>bernard ng,rafeef abugharbieh,martin j. mckeown</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>1133</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

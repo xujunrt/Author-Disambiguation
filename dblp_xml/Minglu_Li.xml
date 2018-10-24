@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Minglu Li</FullName>
+	<publication>
+		<title>A Web Mining Based Measurement and Monitoring Model of Urban Mass Panic in Emergency Management</title>
+		<year>2008</year>
+		<authors>an chen</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>742</label>
+		<keyword>Data Mining;Emergency Management;Information Retrieval;Web Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  It is very important,to discover the mass,panic when,city is in emergency. A traditional approach,is to do a survey among urban mass,  which  would  cost  much  time  and  money.  In  our  opinion, a more suitable and effective approach is to do web- based investigation  which  includes  discovery,  measurement,  and monitoring. A framework including information retrieval, data mining, and area knowledge</abstract>
+	</publication>
+</person>

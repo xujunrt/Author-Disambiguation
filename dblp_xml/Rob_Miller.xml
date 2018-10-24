@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rob Miller</FullName>
+	<publication>
+		<title>SAGE: A Logical Agent-Based Environment Monitoring and Control System</title>
+		<year>2009</year>
+		<authors>krysia broda,keith clark,alessandra russo</authors>
+		<jconf>European Conference on Ambient Intelligence</jconf>
+		<label>871</label>
+		<keyword>abductive reasoning;Computational Logic;Control System;Environmental Control;Monitoring and Control;Publish Subscribe;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>We propose SAGE, an agent-based environment monitor- ing and control system based on computation logic. SAGE uses forward chaining deductive inference to map low level sensor data to high level events, multi-agent abductive reasoning to provide possible explanations for these events, and teleo-reactive programming to react to these expla- nations, e.g. to gather extra information to check abduced hypotheses. The</abstract>
+	</publication>
+	<publication>
+		<title>Some Alternative Formulations of the Event Calculus</title>
+		<year>2002</year>
+		<authors>murray shanahan</authors>
+		<jconf>Birthday ...</jconf>
+		<label>871</label>
+		<keyword>Automated Reasoning;Classical Logic;Logic Programs;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>The Event Calculus is a narrative based formalism for rea- soning about actions and change originally proposed in logic program- ming form by Kowalski and Sergot. In this paper we summarise how variants of the Event Calculus may be expressed as classical logic ax- iomatisations, and how under certain circumstances these theories may be reformulated as &quot;action description language&quot; domain</abstract>
+	</publication>
+	<publication>
+		<title>Fred meets Tweety</title>
+		<year>2008</year>
+		<authors>antonis c. kakas,loizos michael</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>871</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Abductive Approach for Analysing Event-Based Requirements Specifications</title>
+		<year>2002</year>
+		<authors>alessandra russo,bashar nuseibeh,jeff kramer</authors>
+		<jconf>International Conference on Logic Programming/Joint International Conference and Symposium on Logic Programming</jconf>
+		<label>871</label>
+		<keyword>abductive logic programming;abductive reasoning;Case Study;Control System;Logic Programs;Requirement Specification;Safety Properties;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We present a logic and logic programming based approach for analysing event - based requirements specifications given in terms of a system's reaction to events and safety properties The approach uses a variant of Kowalski and Sergot's Event Calculus to represent such specifications declaratively and an abductive reasoning mechanism for analysing safety properties Given a system description and a</abstract>
+	</publication>
+	<publication>
+		<title>Reasoning about Discontinuities in the Event Calculus</title>
+		<year>1996</year>
+		<authors>murray shanahan</authors>
+		<jconf>Principles of Knowledge Representation and Reasoning</jconf>
+		<label>871</label>
+		<keyword>Boundary Condition;Differential Calculus;Frame Problem;Reasoning About Action;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a logic-based formalism which combinestechniques for reasoning about actions with standardmathematical techniques for modelling dynamic systemsusing the differential calculus. The formalism inherits arobust solution to the frame problem which can handle concurrency,non-determinism, domain constraints and narrative.It also incorporates a mechanism for reasoning aboutthe boundary conditions associated with systems of differentialequations defined over various...</abstract>
+	</publication>
+	<publication>
+		<title>Modular-epsilon: An Elaboration Tolerant Approach to the Ramification and Qualification Problems</title>
+		<year>2005</year>
+		<authors>antonis c. kakas,loizos michael</authors>
+		<jconf>Logic Programming and Non-monotonic Reasoning</jconf>
+		<label>871</label>
+		<keyword>Reasoning About Action;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. We describe Modular-E (ME), a specialized, model-theoretic logic for narrative reasoning about actions, able to represent non-deterministic domains involving concurrency, static laws (constraints) and indirect eects (ramifications). We give formal results which characterize ME’s high degree of modularity and elaboration tolerance, and show how these properties help to separate out, and provide a principled solutions to, the endogenous and</abstract>
+	</publication>
+	<publication>
+		<title>E-RES: Reasoning about Actions, Events and Observations</title>
+		<year>2001</year>
+		<authors>antonis c. kakas,francesca toni</authors>
+		<jconf>Logic Programming and Non-monotonic Reasoning</jconf>
+		<label>871</label>
+		<keyword>Common Sense Reasoning;Reasoning About Action;Sat Solver;</keyword>
+		<organization>null</organization>
+		<abstract>The language for reasoning about actions and change can be translated into an argumentation framework. In this paper, we extend this translation of the basic language and show how it can, together with methods from abduction, form the basis for a principled implementation of . The extension we have considered concerns the addition of new type of sentences in the</abstract>
+	</publication>
+	<publication>
+		<title>An Argumentation Framework of Reasoning about Actions and Change</title>
+		<year>1999</year>
+		<authors>antonis c. kakas,francesca toni</authors>
+		<jconf>Logic Programming and Non-monotonic Reasoning</jconf>
+		<label>871</label>
+		<keyword>Logic Programs;Reasoning About Action;Temporal Reasoning;High Level Language;</keyword>
+		<organization>null</organization>
+		<abstract>We show how a class of domains written in the Language E , a high level language for reasoning about actions, narratives and change, can be translated into the argumentation framework of Logic Programming without Negation as Failure (LPwNF). This translation enables us 1) to understand default persistence as captured by various temporal reasoning frameworks in a simple and natural</abstract>
+	</publication>
+	<publication>
+		<title>Situation Calculus Specifications for Event Calculus Logic Programs</title>
+		<year>1995</year>
+		<authors></authors>
+		<jconf>Logic Programming and Non-monotonic Reasoning</jconf>
+		<label>871</label>
+		<keyword>Default Reasoning;Frame Problem;Logic Programs;Situation Calculus;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>A version of the Situation Calculus is presented which is able to deal with information about the actual occurrence of actions in time. Baker's solution to the frame problem using circumscription is adapted to enable default reasoning about action occurrences, as well as about the effects of actions. A translation of Situation Calculus style theories into Event Calculus style logic</abstract>
+	</publication>
+	<publication>
+		<title>E-RES: A System for Reasoning about Actions, Events and Observations</title>
+		<year>2000</year>
+		<authors>antonis c. kakas,francesca toni</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>871</label>
+		<keyword>Computational Techniques;Model Theory;Reasoning About Action;</keyword>
+		<organization>null</organization>
+		<abstract>E-RES is a system that implements the Language E, a logic for reasoning about narratives of action oc- currences and observations. E's semantics is model- theoretic, but this implementation is based on a sound and complete reformulation of E in terms of argumen- tation, and uses general computational techniques of argumentation frameworks. The system derives scep- tical non-monotonic consequences of</abstract>
+	</publication>
+	<publication>
+		<title>Planning with Incomplete Information</title>
+		<year>2000</year>
+		<authors>antonis c. kakas,francesca toni</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>871</label>
+		<keyword>Incomplete Information;Proof Theory;Reasoning About Action;</keyword>
+		<organization>null</organization>
+		<abstract>Planning is a natural domain of application for frameworks of reasoning about actions and change. In this paper we study how one such framework, the Language E, can form the ba- sis for planning under (possibly) incomplete in- formation. We define two types of plans: weak and safe plans, and propose a planner, called the E-Planner, which is often able</abstract>
+	</publication>
+	<publication>
+		<title>Reasoning about Actions, Narratives and Ramification</title>
+		<year>1997</year>
+		<authors>antonis c. kakas</authors>
+		<jconf>Electronic Transactions on Artificial Intelligence</jconf>
+		<label>871</label>
+		<keyword>Declarative Languages;Reasoning About Action;</keyword>
+		<organization>null</organization>
+		<abstract>The Language E is a simple declarative language for describingthe effects of action occurrences within a given narrative, usingan ontology of actions, time points and fluents (i.e. propertieswhich can change their truth values over time). This paper showshow E may be extended to deal with ramifications. More precisely,we show how Language E domain descriptions can includestatements describing permanent relationships or</abstract>
+	</publication>
+	<publication>
+		<title>The Event Calculus in Classical Logic - Alternative Axiomatisations</title>
+		<year>1999</year>
+		<authors>murray shanahan</authors>
+		<jconf>Electronic Transactions on Artificial Intelligence</jconf>
+		<label>871</label>
+		<keyword>Classical Logic;Logic Programs;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>We present several alternative classical logic axiomatisations ofthe Event Calculus, a narrative based formalism for reasoningabout actions and change. We indicate the range of applicabilityand key characteristics of each alternative formulation.11 IntroductionThe &amp;amp;quot;Event Calculus&amp;amp;quot; was originally introduced by Kowalski and Sergot[KoSe 86] as a logic program framework for representing and reasoningabout actions (or events) and their effects, especially in database</abstract>
+	</publication>
+	<publication>
+		<title>A Simple Declarative Language for Describing Narratives With Actions</title>
+		<year>1997</year>
+		<authors>antonis c. kakas</authors>
+		<jconf>The Journal of Logic and Algebraic Programming</jconf>
+		<label>871</label>
+		<keyword>Declarative Languages;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ramifications: An Extension and Correspondence Result for the Event Calculus</title>
+		<year>2007</year>
+		<authors>jeremy forth</authors>
+		<jconf>Journal of Logic and Computation</jconf>
+		<label>871</label>
+		<keyword>Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Narratives in the Situation Calculus</title>
+		<year>1994</year>
+		<authors>murray shanahan</authors>
+		<jconf>Journal of Logic and Computation</jconf>
+		<label>871</label>
+		<keyword>Incomplete Information;Reasoning About Action;Situation Calculus;Event Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>A narrative is a course of real events about which we might have incomplete information.Formalisms for reasoning about action may be broadly divided into those which are narrativebased,such as the Event Calculus of Kowalski and Sergot, and those which reason on the levelof hypothetical sequences of actions, in particular the Situation Calculus. This paper bridgesthe gap between these types of</abstract>
+	</publication>
+</person>

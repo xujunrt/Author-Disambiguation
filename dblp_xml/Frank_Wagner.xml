@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Frank Wagner</FullName>
+	<publication>
+		<title>From Content Management to Enterprise Content Management</title>
+		<year>2005</year>
+		<authors>cataldo mega,bernhard mitschang</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>246</label>
+		<keyword>Content Management;Enterprise Content Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ARSENAL: Model-driven Earth Observation Integration Framework</title>
+		<year>2003</year>
+		<authors>marcello mariucci,gunter martens,jens künzl</authors>
+		<jconf>International Conference on Information Integration and Web-based Applications &amp; Services (IIWAS)</jconf>
+		<label>246</label>
+		<keyword>Arsenic;Earth Observation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bericht zur BTW2003</title>
+		<year>2003</year>
+		<authors>tobias kraft,carmen constantinescu,nicola hönle</authors>
+		<jconf>Datenbank-spektrum</jconf>
+		<label>246</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Personalisierung aus einer anderen Sicht</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Berliner XML Tage</jconf>
+		<label>247</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hypertext applications</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>ACM Conference on Hypertext</jconf>
+		<label>247</label>
+		<keyword>Information Technology;Sense Making;</keyword>
+		<organization>null</organization>
+		<abstract>The discussion about the future of hypertext made me wonder whether I could find another reason to consider a text to be 'hyper'. The answer I found may not be that interesting itself, but the discussions about it gave me some ideas which I want to present in the context of my project. The object of this project is to</abstract>
+	</publication>
+	<publication>
+		<title>An Infrastructure to Manage Resources</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Structural Computing / Metainformatics</jconf>
+		<label>246</label>
+		<keyword>information technol ogy;</keyword>
+		<organization>null</organization>
+		<abstract>One of the more diuse problems with information technol- ogy (IT) is that both users and their IT-supporters and IT-administrators have the feeling that IT leads to more work to be done. Since the boom of the WWW this got even worse. On one hand we have an easy way of making information available, on the other hand we have</abstract>
+	</publication>
+	<publication>
+		<title>Interaction with Information Technology Seen as Communication: Chickens and Eggs and Meta-applications</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Structural Computing / Metainformatics</jconf>
+		<label>247</label>
+		<keyword>Information Technology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Blog Perspectives</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Structural Computing / Metainformatics</jconf>
+		<label>247</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

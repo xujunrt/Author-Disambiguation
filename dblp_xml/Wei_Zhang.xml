@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wei Zhang</FullName>
+	<publication>
+		<title>Replica Victim Caching to Improve Reliability of In-Cache Replication</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<label>1080</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Static next sub-bank prediction for drowsy instruction cache</title>
+		<year>2004</year>
+		<authors>bramha allu</authors>
+		<jconf>Compilers, Architecture, and Synthesis for Embedded Systems</jconf>
+		<label>1080</label>
+		<keyword>Cache Memory;Dynamic Information;Energy Saving;Hybrid Approach;Instruction Cache;Spatial Locality;</keyword>
+		<organization>null</organization>
+		<abstract>As feature sizes shrink, leakage energy reduction has become increasingly important, especially for cache memories. Recent research in drowsy instruction cache shows that the leakage energy of the instruction cache can be significantly reduced with little performance degradation by exploiting the instruction spatial locality at the cache sub-bank level[5]. The performance penalty due to the sub-bank wake-up latency is dramatically</abstract>
+	</publication>
+	<publication>
+		<title>Loop-based leakage control for branch predictors</title>
+		<year>2004</year>
+		<authors>bramha allu</authors>
+		<jconf>Compilers, Architecture, and Synthesis for Embedded Systems</jconf>
+		<label>1080</label>
+		<keyword>Branch Prediction;Energy Consumption;Energy Saving;High Performance;Prediction Accuracy;</keyword>
+		<organization>null</organization>
+		<abstract>Leakage energy consumption is becoming an important design consideration with the scaling of technology. Besides caches, branch predictors are among the largest on-chip array structures and consume non-trivial leakage energy. This paper proposes two loop-based strategies to reduce the branch predictor leakage without impacting prediction accuracy, which is crucial for achieving high performance. The loop-based approaches exploit the fact that</abstract>
+	</publication>
+	<publication>
+		<title>Performance, energy, and reliability tradeoffs in replicating hot cache lines</title>
+		<year>2003</year>
+		<authors>mahmut t. kandemir,anand sivasubramaniam,mary jane irwin</authors>
+		<jconf>Compilers, Architecture, and Synthesis for Embedded Systems</jconf>
+		<label>1080</label>
+		<keyword>block thresholding;Cache Memory;Data Cache;Data Integrity;Embedded System Design;High Power;Leakage Power;Power Consumption;Replicated Data;</keyword>
+		<organization>null</organization>
+		<abstract>The importance of L1 data caches makes their performance, power consumption, and data integrity characteristics extremely critical in embedded systems design. We examine these issues in the context of a mechanism that tries to enhance data cache reliability by replicating cache lines (blocks) in active use. When replicating data cache lines, it is important to not evict other lines that</abstract>
+	</publication>
+	<publication>
+		<title>Object Class Recognition Using Multiple Layer Boosting with Heterogeneous Features</title>
+		<year>2005</year>
+		<authors>bing yu,gregory j. zelinsky,dimitris samaras</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1080</label>
+		<keyword>Local Features;Spatial Information;Spatial Relationships;Texture Features;Equal Error Rate;layer 2;</keyword>
+		<organization>null</organization>
+		<abstract>We combine local texture features (PCA-SIFT), global features (shape context), and spatial features within a sin- gle multi-layer AdaBoost model of object class recognition. The first layer selects PCA-SIFT and shape context features and combines the two feature types to form a strong clas- sifier. Although previous approaches have used either fea- ture type to train an AdaBoost model, our</abstract>
+	</publication>
+	<publication>
+		<title>Interprocedural optimizations for improving data cache performance of array-intensive embedded applications</title>
+		<year>2003</year>
+		<authors>guangyu chen,mahmut t. kandemir,m. karakoy</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>1080</label>
+		<keyword>Call Graph;Data Access;Data Cache;Data Transformation;Embedded Processor;Embedded System;Memory Hierarchy;Optimization Technique;</keyword>
+		<organization>null</organization>
+		<abstract>As datasets processed by embedded processors increase in size and complexity, the management of higher levels of memory hierarchy (e.g., caches) is becoming an important issue. A major limitation of most of the cache locality optimization techniques proposed by previous research is that they handle a single procedure at a time. This prevents compilers from capturing the data access interactions</abstract>
+	</publication>
+	<publication>
+		<title>Data Space Oriented Scheduling in Embedded Systems</title>
+		<year>2003</year>
+		<authors>mahmut t. kandemir,guangyu chen,ibrahim kolcu</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1080</label>
+		<keyword>Data Cache;Data Sharing;Embedded Device;Embedded System;High Performance;Operating System;Process Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>With the widespread use of embedded devices such as PDAs, printers, game machines, cellular telephones, achieving high performance demands an optimized operating system (OS) that can take full advantage of the underlying hardware components. This paper presents a locality conscious process scheduling strategy for embedded environments. The objective of our scheduling strategy is to maximize reuse in the data cache.</abstract>
+	</publication>
+	<publication>
+		<title>Implementation and Evaluation of an On-Demand Parameter-Passing Strategy for Reducing Energy</title>
+		<year>2003</year>
+		<authors>mahmut t. kandemir,ibrahim kolcu</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1080</label>
+		<keyword>Energy Consumption;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present an energy-aware parameter-passing strategy called on-demand parameter-passing. The objective of this strategy is to eliminate redundant actual parameter evaluations if the corresponding formal parameter in a subroutine is not used during execution. This on-demand parameter-passing is expected to be very successful in reducing energy consumption of large, multi-routine embedded applications at the expense of a</abstract>
+	</publication>
+	<publication>
+		<title>Runtime Code Parallelization for On-Chip Multiprocessors</title>
+		<year>2003</year>
+		<authors>mahmut t. kandemir,m. karakoy</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1080</label>
+		<keyword>Chip Multiprocessor;Multiple Constraints;Objective Function;Energy Delay Product;system on a chip;</keyword>
+		<organization>null</organization>
+		<abstract>Chip multiprocessing (or multiprocessor system-on-a-chip) is a technique that combines two or more processor cores on a single piece of silicon to enhance computing performance. An important problem to be addressed in executing applications on an on-chip multiprocessor environment is to select the most suitable number of processors to use for a given objective function (e.g., minimizing execution time or</abstract>
+	</publication>
+	<publication>
+		<title>Masking the Energy Behavior of DES Encryption</title>
+		<year>2003</year>
+		<authors>hendra saputra,narayanan vijaykrishnan,mahmut t. kandemir,mary jane irwin,richard r. brooks,soontae kim</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1080</label>
+		<keyword>Data Dependence;Energy Consumption;Energy Simulation;Instruction Set Architecture;Optimizing Compiler;Power Analysis;Power Measurement;Relational Data;Smart Card;</keyword>
+		<organization>null</organization>
+		<abstract>Smart cards are vulnerable to both invasive and non-invasive attacks. Specifically, non-invasive attacks using power and timing measurements to extract the cryptographic key has drawn a lot of negative publicity for smart card usage. The power measurement techniques rely on the data-dependent energy behavior of the underlying system. Further, power analysis can be used to identify the specific portions of</abstract>
+	</publication>
+	<publication>
+		<title>Compiler Support for Reducing Leakage Energy Consumption</title>
+		<year>2003</year>
+		<authors>mahmut t. kandemir,narayanan vijaykrishnan,mary jane irwin,vivek de</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1080</label>
+		<keyword>Data Flow Analysis;Energy Consumption;Energy Optimization;Leakage Current;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>Current trends indicate that leakage energy consumption will be an important concern in upcoming process technologies. In this paper, we propose a compiler-based leakage energy optimization strategy. Our strategy is built upon a data-flow analysis that identifies basic blocks that do not use a given functional unit. Based on this information, the compiler then inserts activate/deactivate instructions in the code</abstract>
+	</publication>
+	<publication>
+		<title>Computing Cache Vulnerability to Transient Errors and Its Implication</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Defect and Fault Tolerance in VLSI Systems</jconf>
+		<label>1080</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compiler-Directed Management of Instruction Accesses</title>
+		<year>2003</year>
+		<authors>guangyu chen,ismail kadayif,wei zhang,ibrahim kolcu,ugur sezer</authors>
+		<jconf>Euromicro Symposium on Digital Systems Design</jconf>
+		<label>1080</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ICR: In-Cache Replication for Enhancing Data Cache Reliability</title>
+		<year>2003</year>
+		<authors>sudhanva gurumurthi,mahmut t. kandemir,anand sivasubramaniam</authors>
+		<jconf>Dependable Systems and Networks</jconf>
+		<label>1080</label>
+		<keyword>Data Cache;Data Integrity;Integrity Checking;Replicated Data;</keyword>
+		<organization>null</organization>
+		<abstract>Processor caches already play a critical role in the per- formance of today's computer systems. At the same time, the data integrity of words coming out of the caches can have serious consequences on the ability of a program to execute correctly, or even to proceed. The integrity checks need to be performed in a time-sensitive manner to not slow</abstract>
+	</publication>
+	<publication>
+		<title>Real-time Accurate Object Detection using Multiple Resolutions</title>
+		<year>2007</year>
+		<authors>gregory j. zelinsky,dimitris samaras</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>1080</label>
+		<keyword>Object Detection;Visual Search;Histograms of Oriented Gradients;Multi Resolution;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a multi-resolutionframework inspired by hu- man visual search for general object detection. Different resolutions are represented using a coarse-to-fine feature hierarchy. During detection, the lower resolution features are initially used to reject the majority of negative windows at relatively low cost, leaving a relatively small number of windowsto be processed in higherresolutions. This enables the use of computationally</abstract>
+	</publication>
+	<publication>
+		<title>A compiler approach for reducing data cache energy</title>
+		<year>2003</year>
+		<authors>m. karakoy,mahmut t. kandemir,guangyu chen</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>1080</label>
+		<keyword>Cache Memory;Compiler Optimization;Data Cache;Data Locality;Energy Consumption;Energy Optimization;Leakage Power;Turn Off;</keyword>
+		<organization>null</organization>
+		<abstract>Silicon technology advances have made it possible to pack millions of transistors --- switching at high clock speeds --- on a single chip. While these advances bring unprecedented performance to electronic products, they pose difficult power/energy consumption problems. For example, large number of transistors in dense on-chip cache memories consume significant static (leakage) power even if the cache is not</abstract>
+	</publication>
+	<publication>
+		<title>Compiler-Directed Data Cache Leakage Reduction</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Annual Symposium on VLSI</jconf>
+		<label>1080</label>
+		<keyword>Data Cache;Directional Data;Energy Consumption;Leakage Reduction;</keyword>
+		<organization>null</organization>
+		<abstract>Leakage energy reduction for caches has been the target of many recent research efforts. In this work, we propose a novel compiler directed approach to reduce the data cache leakage energy by exploiting the program behavior. The proposed approach is based on the observation that only a small portion of data are active at runtime and the program spends a</abstract>
+	</publication>
+	<publication>
+		<title>Compiler-directed cache polymorphism</title>
+		<year>2002</year>
+		<authors>jie s. hu,mahmut t. kandemir,narayanan vijaykrishnan,mary jane irwin,hendra saputra</authors>
+		<jconf>Sigplan Notices</jconf>
+		<label>1080</label>
+		<keyword>Compiler Optimization;Data Cache;Data Dependence;Data Reuse;Energy Consumption;Optimal Algorithm;Polymorphism;</keyword>
+		<organization>null</organization>
+		<abstract>Classical compiler optimizations assume a fixed cache architecture and modify the program to take best advantage of it. In some cases, this may not be the best strategy because each loop nest might work best with a different cache configuration and transforming a nest for a given fixed cache configuration may not be possible due to data dependences. Working with</abstract>
+	</publication>
+	<publication>
+		<title>Compiler-directed instruction cache leakage optimization</title>
+		<year>2002</year>
+		<authors>jie s. hu,vijay degalahal,mahmut t. kandemir,narayanan vijaykrishnan,mary jane irwin</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>1080</label>
+		<keyword>Instruction Cache;Power Consumption;Threshold Voltage;</keyword>
+		<organization>null</organization>
+		<abstract>Excessive power consumption is widely considered as a major impediment to designing future microprocessors. With the continued scaling down of threshold voltages, the power consumed due to leaky memory cells in on-chip caches will constitute a significant portion of the processor's power budget. This work focuses on reducing the leakage energy consumed in the instruction cache using a compiler-directed approach.We</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting VLIW schedule slacks for dynamic and leakage energy reduction</title>
+		<year>2001</year>
+		<authors>narayanan vijaykrishnan,mahmut t. kandemir,mary jane irwin,david duarte,yuh-fang tsai</authors>
+		<jconf>International Symposium on Microarchitecture</jconf>
+		<label>1080</label>
+		<keyword>Energy Consumption;Mobile Computer;Parameter Extraction;Vertical Integration;</keyword>
+		<organization>null</organization>
+		<abstract>The mobile computing device market is projected to grow 16.8 million units in 2004, representing an average annual rate of 28% over the five year forecast period [5]. This brings the technologies that optimize system energy to forefront. As circuits continue to scale in future, it would important to optimize both leakage and dynamic energy. Effective optimization of leakage and</abstract>
+	</publication>
+	<publication>
+		<title>The Role of Top-down and Bottom-up Processes in Guiding Eye Movements during Visual Search</title>
+		<year>2005</year>
+		<authors>gregory j. zelinsky,bing yu,xin chen,dimitris samaras</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>1080</label>
+		<keyword>Eye Movement;Human Behavior;Mixture Model;Template Matching;Visual Search;Bottom Up;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>To investigate the weighting of top-down (TD) and bottom-up (BU) infor- mation in guiding human search behavior, we manipulate the proportions of BU and TD components in a saliency-based model. The model is bio- logically plausible, and implements an artificial retina and neuronal pop- ulation code. The BU component is based on feature-contrast. The TD component is defined by a</abstract>
+	</publication>
+	<publication>
+		<title>A Computational Model of Eye Movements during Object Class Detection</title>
+		<year>2005</year>
+		<authors>hyejin yang,dimitris samaras,gregory j. zelinsky</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>1080</label>
+		<keyword>Computer Model;Computer Vision;cumulant;Eye Movement;Model Combination;</keyword>
+		<organization>null</organization>
+		<abstract>We present a computational model of human eye movements in an ob- ject class detection task. The model combines state-of-the-art computer vision object class detection methods (SIFT features trained using Ad- aBoost) with a biologically plausible model of human eye movement to produce a sequence of simulated fixations, culminating with the acqui- sition of a target. We validated the model</abstract>
+	</publication>
+	<publication>
+		<title>Reducing Instruction Translation Look-Aside Buffer Energy Through Compiler-Directed Resizing</title>
+		<year>2006</year>
+		<authors>bramha allu</authors>
+		<jconf>Journal of Low Power Electronics</jconf>
+		<label>1080</label>
+		<keyword>Translation Look Aside Buffer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Exploiting the replication cache to improve performance for multiple-issue microprocessors</title>
+		<year>2005</year>
+		<authors>bramha allu</authors>
+		<jconf>ACM Sigarch Computer Architecture News</jconf>
+		<label>1080</label>
+		<keyword>Cost Effectiveness;Data Cache;Data Integrity;Hybrid Approach;Soft Error;</keyword>
+		<organization>null</organization>
+		<abstract>Performance and reliability are both of great importance for microprocessor design. Recently, the replication cache has been proposed to enhance data cache reliability against soft errors. The replication cache is a small fully associative cache to store the replica for every write to the L1 data cache. In addition to enhance data reliability, this paper proposes several cost-effective techniques to</abstract>
+	</publication>
+	<publication>
+		<title>Reducing instruction cache energy consumption using a compiler-based strategy</title>
+		<year>2004</year>
+		<authors>jie s. hu,vijay degalahal,mahmut t. kandemir,narayanan vijaykrishnan,mary jane irwin</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>1080</label>
+		<keyword>Compiler Optimization;Energy Consumption;Instruction Cache;Leakage Power;Power Consumption;Soft Error;Threshold Voltage;</keyword>
+		<organization>null</organization>
+		<abstract>Excessive power consumption is widely considered as a major impediment to designing future microprocessors. With the continued scaling down of threshold voltages, the power consumed due to leaky memory cells in on-chip caches will constitute a significant portion of the processor's power budget. This work focuses on reducing the leakage energy consumed in the instruction cache using a compiler-directed approach.We</abstract>
+	</publication>
+	<publication>
+		<title>Reducing branch predictor leakage energy by exploiting loops</title>
+		<year>2007</year>
+		<authors>bramha allu</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>1080</label>
+		<keyword>Branch Prediction;Cache Memory;Cost Effectiveness;Energy Consumption;Energy Saving;Leakage Reduction;Prediction Accuracy;</keyword>
+		<organization>null</organization>
+		<abstract>With the scaling of technology, leakage energy will become the dominant source of energy consumption. Besides cache memories, branch predictors are among the largest on-chip array structures and consume nontrivial leakage energy. This paper proposes two cost-effective loop-based strategies to reduce the branch predictor leakage without impacting prediction accuracy or performance. The loop-based approaches exploit the fact that loops usually</abstract>
+	</publication>
+	<publication>
+		<title>Reducing data cache leakage energy using a compiler-based approach</title>
+		<year>2005</year>
+		<authors>mahmut t. kandemir,m. karakoy,guangyu chen</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>1080</label>
+		<keyword>Cache Memory;Compiler Optimization;Data Cache;Data Locality;Energy Consumption;Energy Optimization;Energy Use;Leakage Power;Turn Off;</keyword>
+		<organization>null</organization>
+		<abstract>Silicon technology advances have made it possible to pack millions of transistors---switching at high clock speeds---on a single chip. While these advances bring unprecedented performance to electronic products, they also pose difficult power/energy consumption problems. For example, large number of transistors in dense on-chip cache memories consume significant static (leakage) power even if the cache is not used by the</abstract>
+	</publication>
+	<publication>
+		<title>Reducing dynamic and leakage energy in VLIW architectures</title>
+		<year>2006</year>
+		<authors>yuh-fang tsai,david duarte,narayanan vijaykrishnan,mahmut t. kandemir,mary jane irwin</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>1080</label>
+		<keyword>Difference Operator;Energy Consumption;Energy Optimization;Low Energy;Mobile Computer;Parameter Extraction;Vertical Integration;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>The mobile computing device market has been growing rapidly. This brings the technologies that optimize system energy to the forefront. As circuits continue to scale in the future, it would be important to optimize both leakage and dynamic energy. Effective optimization of leakage and dynamic energy consumption requires a vertical integration of techniques spanning from circuit to software levels. Schedule</abstract>
+	</publication>
+</person>

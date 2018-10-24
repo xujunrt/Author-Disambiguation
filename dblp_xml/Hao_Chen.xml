@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hao Chen</FullName>
+	<publication>
+		<title>Improved Logistic Regression Approach to Predict the Potential Distribution of Invasive Species Using Information Theory and Frequency Statistics</title>
+		<year>2006</year>
+		<authors>lijun chen,thomas p. albright,qinfeng guo</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>277</label>
+		<keyword>Information Theory;Invasive Species;Logistic Regression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

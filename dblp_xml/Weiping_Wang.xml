@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Weiping Wang</FullName>
+	<publication>
+		<title>Processing Sliding Window Join Aggregate in Continuous Queries over Data Streams</title>
+		<year>2004</year>
+		<authors>jianzhong li,dongdong zhang,longjiang guo</authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>1081</label>
+		<keyword>Continuous Query;Data Stream;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Processing Distributed Compoud-Data Streams</title>
+		<year>2004</year>
+		<authors>dongdong zhang,jianzhong li,longjiang guo,jinbao li</authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>1081</label>
+		<keyword>Data Stream;Distributed Data;</keyword>
+		<organization>null</organization>
+		<abstract>In the environment of distribute data stream systems, the available communica- tion bandwidth is a bottleneck resource. It is significant to reduce the communication overhead as possible for improving the availability of communication bandwidth with the constraint of the precision of queries. In this paper, we propose a new method for transfer- ring data streams in distributed data stream systems,</abstract>
+	</publication>
+	<publication>
+		<title>Processing Frequent Items over Distributed Data Streams</title>
+		<year>2005</year>
+		<authors>dongdong zhang,jianzhong li,longjiang guo,chunyu ai</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>1081</label>
+		<keyword>Distributed Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Privacy protection on sliding window of data streams</title>
+		<year>2007</year>
+		<authors>jianzhong li,chunyu ai,yingshu li</authors>
+		<jconf>Collaborative Computing</jconf>
+		<label>1081</label>
+		<keyword>Data Stream;High Speed;Privacy Protection;Sliding Window;Theoretical Analysis;Transaction Data;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—In many applications, transaction data arrive in the form,of high speed,data streams. These data,contain a lot of information,about customers,that needs to be carefully managed to protect customers’ privacy. In this paper, we consider the problem,of preserving customer’s privacy on the sliding window of transaction data streams. This problem,is challenging,because sliding window,is updated,frequently and rapidly. We propose,a novel approach, SWAF (Sliding</abstract>
+	</publication>
+	<publication>
+		<title>Data Streams Join Aggregate Algorithms Based on Compound Sliding Window</title>
+		<year>2009</year>
+		<authors>yingli zhong,longjiang guo</authors>
+		<jconf>Database Technology and Applications</jconf>
+		<label>1081</label>
+		<keyword>Data Stream;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating Stream and Disk Join in Continuous Queries</title>
+		<year>2004</year>
+		<authors>jianzhong li,xu wang,dongdong zhang,longjiang guo</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>1081</label>
+		<keyword>Continuous Query;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Anonymizing Streaming Data for Privacy Protection</title>
+		<year>2008</year>
+		<authors>jianzhong li,beng chin ooi</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>1081</label>
+		<keyword>Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SlidingWindow based Multi-Join Algorithms over Distributed Data Streams</title>
+		<year>2006</year>
+		<authors>dongdong zhang,jianzhong li,kimutai kimeli</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>1081</label>
+		<keyword>Distributed Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Adjustment of Sliding Windows over Data Streams</title>
+		<year>2004</year>
+		<authors>dongdong zhang,jianzhong li,zhaogong zhang,longjiang guo</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>1081</label>
+		<keyword>Data Stream;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimistic Parallel Discrete Event Simulation Based on Multi-core Platform and its Performance Analysis</title>
+		<year>2009</year>
+		<authors>nianle su,hongtao hou,feng yang,qun li</authors>
+		<jconf>International Conference on Complex, Intelligent and Software Intensive Systems</jconf>
+		<label>1082</label>
+		<keyword>Parallel Discrete Event Simulation;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Research on Simulation Service Ontology and Its Matchmaking Model</title>
+		<year>2008</year>
+		<authors>lili song,chao wang,quan jia</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>1082</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The levels of conceptual interoperability model: applying systems engineering principles to M&amp;S</title>
+		<year>2009</year>
+		<authors>wenguang wang,andreas tolk</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>Conceptual Model;High Level Architecture;Object Model;System Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the use of the Levels of Conceptual Interoperability Model (LCIM) as a framework for conceptual modeling and its descriptive andprescriptive uses. LCIM is applied to show its potential and shortcomings in the current simulation interoperability approaches, in particular the High Level Architecture (HLA) and Base Object Models (BOM). It emphasizes the need to apply rigorous engineering</abstract>
+	</publication>
+	<publication>
+		<title>A metamodel-based representation method for reusable simulation model</title>
+		<year>2007</year>
+		<authors>yonglin lei,lili song,caiyun jiang</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>1082</label>
+		<keyword>Complex System;Generic Model;Modeling and Simulation;Programming Language;Simulation Model;</keyword>
+		<organization>null</organization>
+		<abstract>The composition and reuse of simulation model is cur- rently a hot research topic in the area of complex system modeling and simulation. A unified simulation model rep- resentation is one of the key techniques to facilitate reuse. The model representation concept and its role in simulation are present firstly. The reusable simulation models, when compared to common simulation models,</abstract>
+	</publication>
+	<publication>
+		<title>Extend SRML schema based on DEVS: an executable DEVS language</title>
+		<year>2005</year>
+		<authors>chen liu,qun li,yi-fan zhu</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<label>1082</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Service-oriented high level architecture</title>
+		<year>2009</year>
+		<authors>wenguang wang,wenguang yu,qun li,xichun liu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>High Level Architecture;Performance Analysis;Service Orientation;Service Oriented Architecture;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>Service-oriented High Level Architecture (SOHLA) refers to the high level architecture (HLA) enabled by Service-Oriented Architecture (SOA) and Web Services etc. techniques which supports distributed interoperating services. The detailed comparisons between HLA and SOA are made to illustrate the importance of their combination. Then several key enhancements and changes of HLA Evolved Web Service API are introduced in comparison with</abstract>
+	</publication>
+	<publication>
+		<title>The levels of conceptual interoperability model: applying systems engineering principles to M&amp;S</title>
+		<year>2009</year>
+		<authors>wenguang wang,andreas tolk</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>Conceptual Model;High Level Architecture;Object Model;System Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the use of the Levels of Conceptual Interoperability Model (LCIM) as a framework for conceptual modeling and its descriptive and prescriptive uses. LCIM is applied to show its potential and shortcomings in the current simulation interoperability approaches, in particular the High Level Architecture (HLA) and Base Object Models (BOM). It emphasizes the need to apply rigorous engineering</abstract>
+	</publication>
+	<publication>
+		<title>High level architecture evolved modular federation object model</title>
+		<year>2009</year>
+		<authors>wenguang wang,yongping xu,xin chen,qun li</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>Extension Principle;High Level Architecture;Object Model;Product Development;Federation Object Model;</keyword>
+		<organization>null</organization>
+		<abstract>To improve the agility, dynamics, composability, reusability, and development efficiency restricted by monolithic Federation Object Model (FOM), a modular FOM was proposed by High Level Architecture (HLA) Evolved product development group. This paper reviews the state-of-the-art of HLA Evolved modular FOM. In particular, related concepts, the overall impact on HLA standards, extension principles, and merging processes are discussed. Also permitted</abstract>
+	</publication>
+	<publication>
+		<title>Three-dimensional conceptual model for service-oriented simulation</title>
+		<year>2009</year>
+		<authors>wenguang wang,justyna zander,yi-fan zhu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>Conceptual Model;Service Orientation;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Complex Agent Networks explaining the HIV epidemic among homosexual men in Amsterdam</title>
+		<year>2008</year>
+		<authors>shan mei,peter m. a. sloot,rick quax,david a. van de vijver</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1082</label>
+		<keyword>Agent Based Modelling;Complex Network;Epidemic Model;Historical Data;Human Immunodeficiency Virus;Multi Agent System;Scale Free;</keyword>
+		<organization>null</organization>
+		<abstract>Simulating the evolution of the Human Immunodeficiency Virus (HIV) epidemic requires a detailed description of the population network, especially for small populations in which individuals can be represented in detail and accuracy. Inthis paper, we introduce the concept of a Complex Agent Network(CAN) to model the HIV epidemics by combining agent-based modelling and complex networks, in which agents represent</abstract>
+	</publication>
+	<publication>
+		<title>A transformation model from DEVS to SMP2 based on MDA</title>
+		<year>2009</year>
+		<authors>yonglin lei,qun li,yi-fan zhu</authors>
+		<jconf>Simulation Practice and Theory</jconf>
+		<label>1082</label>
+		<keyword>Transformation Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Anonymous Communication Mechanism without Key Infrastructure Based on Multi-Paths Network Coding</title>
+		<year>2009</year>
+		<authors>guihua duan,jianxin wang,jianer chen</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>1083</label>
+		<keyword>Anonymous Communication;Network Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detection and location of malicious nodes based on source coding and multipath transmission in WSN</title>
+		<year>2009</year>
+		<authors>jinhong xu,jianxin wang</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>1083</label>
+		<keyword>Source Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Anonymity Measure Based on Partial Entropy</title>
+		<year>2008</year>
+		<authors>guihua duan,jianxin wang,luming yang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>1083</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Source-Location Privacy Protocol in WSN Based on Locational Angle</title>
+		<year>2008</year>
+		<authors>chen liang,wang jian-xin</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>1083</label>
+		<keyword>Location Privacy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Virtual Laboratory Platform Based on Integration of Java and Matlab</title>
+		<year>2008</year>
+		<authors>yu sheng,jianxin wang,jianer chen</authors>
+		<jconf>International Conference on Web-Based Learning</jconf>
+		<label>1083</label>
+		<keyword>Virtual Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Compression Algorithm Comparator for Digital Image Processing Based on Component</title>
+		<year>2008</year>
+		<authors>yu sheng</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>1083</label>
+		<keyword>Compression Algorithm;Design and Implementation;Digital Image Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Anonymous Communication Strategy with Respect to Payment Mechanism</title>
+		<year>2008</year>
+		<authors>yanhui wu,jianer chen</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>1083</label>
+		<keyword>Anonymous Communication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Broadcasting Retransmission Approach Based on Random Linear Network Coding</title>
+		<year>2008</year>
+		<authors>xiao xiao,luming yang,shuai zhang</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>1083</label>
+		<keyword>Network Coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An analytical model for end-to-end communication channel over PLCN based on QBDs</title>
+		<year>2009</year>
+		<authors>guofeng yan,jianxin wang</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>1083</label>
+		<keyword>Analytical Model;Communication Channels;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Commentary on an open question</title>
+		<year>2008</year>
+		<authors>tianming wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>1084</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Note on the Relationships Between the Generalized Bernoulli and Euler Polynomials</title>
+		<year>2008</year>
+		<authors>tianming wang</authors>
+		<jconf>Ars Combinatoria</jconf>
+		<label>1084</label>
+		<keyword>Euler Polynomial;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identities via Bell matrix and Fibonacci matrix</title>
+		<year>2008</year>
+		<authors>tianming wang</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<label>1084</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generalized Riordan arrays</title>
+		<year>2008</year>
+		<authors>tianming wang</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>1084</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identities on Bell polynomials and Sheffer sequences</title>
+		<year>2009</year>
+		<authors>tianming wang</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<label>1084</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comparison Model and Algorithm for Distributed Firewall Policy</title>
+		<year>2006</year>
+		<authors>wenhui chen,zhepeng li,huaping chen</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>1085</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

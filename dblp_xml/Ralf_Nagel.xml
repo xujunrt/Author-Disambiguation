@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ralf Nagel</FullName>
+	<publication>
+		<title>Semantic Metadata Instantiation and Consolidation within an Ontology-based Multimedia Document Management System</title>
+		<year>2008</year>
+		<authors>annett mitschick,klaus meißner</authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>863</label>
+		<keyword>Data Quality;Divide and Conquer;Document Management System;Information Need;Information Sources;Knowledge Modeling;Semantic Metadata;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Automated modeling of appropriate and valid document,de- scriptions is a central issue for the benet,and success of an ontology- based personal document,management,system. One of the more practi- cal problems is the deduction of knowledge from partly large but vary- ing, ambiguous, or domain specic information sources (metadata, at- tributes, features, etc.). The generation process, which requires transfor- mation and</abstract>
+	</publication>
+</person>

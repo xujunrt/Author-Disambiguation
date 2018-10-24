@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jiong Sun</FullName>
+	<publication>
+		<title>On Hopf cyclicity of planar systems with multiple parameters</title>
+		<year>2005</year>
+		<authors>wan yi wang,maoan han</authors>
+		<jconf>Applied Mathematics Letters</jconf>
+		<label>424</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Wyner-Ziv coding approach to transmission of interactive video over wireless channels</title>
+		<year>2005</year>
+		<authors>haibo li</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>425</label>
+		<keyword>Interactive Video;Wireless Channels;wyner-ziv coding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>3-D physical motion-based bandwidth prediction for video conferencing</title>
+		<year>2004</year>
+		<authors>haibo li</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>425</label>
+		<keyword>Video Conferencing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

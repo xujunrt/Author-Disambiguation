@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ali Amiri</FullName>
+	<publication>
+		<title>A High Performance Parallel IP Lookup Technique Based on Multiprocessor Organization and CREW PRAM</title>
+		<year>2008</year>
+		<authors>mahmoud hasanloo,mahmood fathy</authors>
+		<jconf>Asia International Conference on Modelling and Simulation</jconf>
+		<label>31</label>
+		<keyword>High Performance;Ip Lookup;Ip Routing;Time Complexity;Longest Prefix Matching;</keyword>
+		<organization>null</organization>
+		<abstract>The IP Lookup Process is a key bottleneck in routing due to the increase in routing table size, increasing traffic and migration to IPv6 addresses. The IP routing lookup involves computation of the Longest Prefix Matching for which existing solutions, such as BSD Radix Tries, scale poorly when traffic in the router increases or when employed for IPv6 address lookups.</abstract>
+	</publication>
+	<publication>
+		<title>Video Shot Boundary Detection Using Generalized Eigenvalue Decomposition</title>
+		<year>2009</year>
+		<authors>mahmood fathy</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>31</label>
+		<keyword>Eigenvalue Decomposition;Shot Boundary Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Quantized Input RLS, QI-RLS, Algorithm</title>
+		<year>2007</year>
+		<authors>mahmood fathy,m. amintoosi,h. sadoghi</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>31</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Video Retrieval Using Generalized Eigenvalue Decomposition</title>
+		<year>2009</year>
+		<authors>mahmood fathy</authors>
+		<jconf>International Conference on Image Processing, Computer Vision, and Pattern Recognition</jconf>
+		<label>31</label>
+		<keyword>Eigenvalue Decomposition;Video Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

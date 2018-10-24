@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David J. Hill</FullName>
+	<publication>
+		<title>Web 2.0 geospatial visual analytics for improved urban flooding situational awareness and assessment</title>
+		<year>2009</year>
+		<authors>yong liu,luigi marini,rob kooper,alejandro rodríguez,jim myers</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>194</label>
+		<keyword>Adaptive Management;Emergency Management;Google Earth;Markup Language;Real Time Data;Situation Awareness;stormwater management;Time Series;Virtual Sensor;Visual Analytics;Weather Radar;Decision Support;Ground Truth;National Weather Service;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Situational awareness of urban flooding during storm events is important for disaster and emergency management. However, no general purpose tools yet exist for rendering rainfall accumulations in real-time at the resolution of hydrologic units used for modeling. This demonstration will exhibit a novel web 2.0 visual analytical approach for understanding and adaptively managing urban flooding issues. The approach generates a</abstract>
+	</publication>
+	<publication>
+		<title>Near-real-time precipitation virtual sensor using NEXRAD data</title>
+		<year>2008</year>
+		<authors>yong liu,alejandro rodríguez,luigi marini,rob kooper,joe futrelle,barbara minsker,james d. myers</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>194</label>
+		<keyword>Content Management;Google Map;Metadata Management;Middleware;Point Location;Scientific Workflow;Temporal Data;Time Series Data;Virtual Sensor;Web Interface;Near Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this demonstration paper, we describe the technologies and implementations that allow near real-time creation of new virtual precipitation sensors using NEXRAD Level II streaming data at user-specified point locations and time intervals in an integrated digital watershed with a Google Map-based web interface. The spatiotemporal and thematic transformation steps to produce such new time series data stream are implemented</abstract>
+	</publication>
+</person>

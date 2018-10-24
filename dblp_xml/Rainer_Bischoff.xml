@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rainer Bischoff</FullName>
+	<publication>
+		<title>Entwurf und Konstruktion eines anthropomorphen Roboters</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>Autonome Mobile Systeme</jconf>
+		<label>853</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Maschinelles Sehen zur Steuerung autonomer mobiler Systeme</title>
+		<year>1998</year>
+		<authors>volker graefe</authors>
+		<jconf>DAGM Symposium Symposium for Pattern Recognition</jconf>
+		<label>853</label>
+		<keyword>Mobile Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning from Nature to Build Intelligent Autonomous Robots</title>
+		<year>2006</year>
+		<authors>volker graefe</authors>
+		<jconf>Intelligent Autonomous Systems</jconf>
+		<label>853</label>
+		<keyword>Autonomous Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Communication, Configuration, Application - The Three Layer Concept for Plug-and-Produce</title>
+		<year>2008</year>
+		<authors>uwe e. zimmermann,gerhard grunwald,georg plank,detlef reintsema</authors>
+		<jconf>International Conference on Informatics in Control, Automation and Robotics</jconf>
+		<label>853</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gentle Robotic Handling - Adaptation of Gripperorientation to Minimize Undesired Shear Forces</title>
+		<year>2006</year>
+		<authors>suei jen chen,heinz wörn,uwe e. zimmermann</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>853</label>
+		<keyword>Shear Force;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning from Nature to Build Intelligent Autonomous Robots</title>
+		<year>2006</year>
+		<authors>volker graefe</authors>
+		<jconf>Intelligent Autonomous Systems</jconf>
+		<label>853</label>
+		<keyword>Autonomous Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HERMES - an Intelligent Humanoid Robot Designed and Tested for Dependability</title>
+		<year>2002</year>
+		<authors>volker graefe</authors>
+		<jconf>International Symposium on Experimental Robotics</jconf>
+		<label>853</label>
+		<keyword>Humanoid Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Machine Vision for Intelligent Robots</title>
+		<year>1998</year>
+		<authors>volker graefe</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>853</label>
+		<keyword>Machine Vision;Service Robot;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Vision is an ideal sensor modality for intelligent robots. It provides rich information on the environment as required for recognizing objects and understanding situations in real time. Moreover, vision-guided robots may be largely calibration-free, which is a great practical advantage. Three vision-guided robots and their design concepts are introduced: an autonomous indoor vehicle, a calibration- free manipulator arm, and a</abstract>
+	</publication>
+	<publication>
+		<title>Design Principles for Dependable Robotic Assistants</title>
+		<year>2004</year>
+		<authors>volker graefe</authors>
+		<jconf></jconf>
+		<label>853</label>
+		<keyword>Cooperative Learning;Design Principle;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A noise model for mass spectrometry based proteomics</title>
+		<year>2008</year>
+		<authors>peicheng du,gustavo stolovitzky,peter horvatovich,jihyeon lim,frank suits</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>854</label>
+		<keyword>Goodness of Fit;Ion Trap;Mass Spectrometry;Noise Reduction;poisson model;poisson noise;Retention Time;Error Rate;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: Mass spectrometry data are subjected to considerable noise. Good noise models are required for proper detection and quantification of peptides. We have characterized noise in both quadrupole time-of-flight (Q-TOF) and ion trap data, and have constructed models for the noise. Results: We find that the noise in Q-TOF data from Applied Biosystems QSTAR fits well to a combination of</abstract>
+	</publication>
+</person>

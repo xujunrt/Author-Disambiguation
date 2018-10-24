@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gang Shen</FullName>
+	<publication>
+		<title>Multiquality Data Replication in Multimedia Databases</title>
+		<year>2007</year>
+		<authors>yi-cheng tu,jingfeng yan,sunil prabhakar</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>249</label>
+		<keyword>Data Replication;Heuristic Algorithm;Indexing Terms;Integer Program;Multimedia Data;Multimedia Database;Quality Model;Quality Requirement;Quality System;System Modeling;Temporal Resolution;Video Transcoding;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>In contrast to other database applications, multimedia data can have a wide range of quality parameters, such as spatial and temporal resolution and compression format. Users can request data with specific quality requirements due to the needs of their application or the limitations of their resources. The database can support multiple qualities by converting data from the original (high) quality</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ulrich Fuchs</FullName>
+	<publication>
+		<title>Installing, Running and Maintaining Large Linux Clusters at CERN</title>
+		<year>2003</year>
+		<authors>vladimir bahyl,benjamin chardi,jan van eldik,thorsten kleinwort,martin murth,tim smith</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1031</label>
+		<keyword>Linux Cluster;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: This paperdescribes the tools and processes we have implemented, working in close collaboration with the EDG project [1], especially with theWP4 subtask, to improve the manageability of our clusters, in particular in the areas of system installation, configuration, andmonitoring</abstract>
+	</publication>
+</person>

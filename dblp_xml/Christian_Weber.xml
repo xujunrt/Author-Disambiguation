@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Weber</FullName>
+	<publication>
+		<title>Metaprogramming for Relational Databases</title>
+		<year>2004</year>
+		<authors>jernej kovse,theo härder</authors>
+		<jconf>Object-Oriented and Entity-Relationship Modelling/International Conference on Conceptual Modeling / the Entity Relationship Approach</jconf>
+		<label>149</label>
+		<keyword>Domain Specific Language;Domain Specificity;Relational Database;Structure and Function;</keyword>
+		<organization>null</organization>
+		<abstract>For systems that share enough structural and functional commonali- ties, reuse in schema development and data manipulation can be achieved by defining problem-oriented languages. Such languages are often called domain- specific, because they introduce powerful abstractions meaningful only within the domain of observed systems. In order to use domain-specific languages for database applications, a mapping to SQL is required. In</abstract>
+	</publication>
+</person>

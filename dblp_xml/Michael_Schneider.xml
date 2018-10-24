@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Schneider</FullName>
+	<publication>
+		<title>Generic Constructions for Verifiably Encrypted Signatures without Random Oracles or NIZKs</title>
+		<year>2010</year>
+		<authors>markus rückert,dominique schröder</authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>705</label>
+		<keyword>Random Oracle;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Shortest Lattice Vector Enumeration on Graphics Cards</title>
+		<year>2010</year>
+		<authors>jens hermans,johannes buchmann,frederik vercauteren,bart preneel</authors>
+		<jconf>Progress in Cryptology</jconf>
+		<label>705</label>
+		<keyword>Building Block;Exhaustive Search;Lattice Basis Reduction;Lattice Reduction;Parallel Computer;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present an algorithm for parallel exhaustive search for short vectors in lattices. This algorithm can be applied to a wide range of parallel computing systems. To illustrate the algorithm, it was implemented on graphics cards using CUDA, a programming frame- work for NVIDIA graphics cards. We gain large speedups compared to previous serial CPU implementations. Our</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Enumeration of Shortest Lattice Vectors</title>
+		<year>2010</year>
+		<authors>özgür dagdelen</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>705</label>
+		<keyword>Lattice Basis Reduction;Lattice Reduction;Parallel Algorithm;Shortest Vector Problem;</keyword>
+		<organization>null</organization>
+		<abstract>Lattice basis reduction is the problem of nding short vec- tors in lattices. The security of lattice based cryptosystems is based on the hardness of lattice reduction. Furthermore, lattice reduction is used to attack well-known cryptosystems like RSA. One of the algorithms used in lattice reduction is the enumeration algorithm (ENUM), that provably nds a shortest vector of a lattice.</abstract>
+	</publication>
+	<publication>
+		<title>Merkle Tree Traversal Revisited</title>
+		<year>2008</year>
+		<authors>johannes buchmann,erik dahmen</authors>
+		<jconf></jconf>
+		<label>705</label>
+		<keyword>Digital Signature;Quantum Cryptography;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new algorithm for computing authentication paths in the Merkle signature scheme. Compared to the best algorithm for this task, our algorithm reduces the worst case running time consid- erably.</abstract>
+	</publication>
+	<publication>
+		<title>Post-quantum cryptography: lattice signatures</title>
+		<year>2009</year>
+		<authors>johannes buchmann,richard lindner,markus rückert</authors>
+		<jconf>Computing</jconf>
+		<label>705</label>
+		<keyword>Quantum Cryptography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Hirsch</FullName>
+	<publication>
+		<title>The design of a similarity based deduplication system</title>
+		<year>2009</year>
+		<authors>lior aronovich,ron asher,eitan bachmat,haim bitner,shmuel t. klein</authors>
+		<jconf></jconf>
+		<label>686</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>We describe some of the design choices that were made during the development of a fast, scalable, inline, deduplication device. The system's design goals and how they were achieved are presented. This is the firs deduplication device that uses similarity matching. The paper provides the following original research contributions: we show how similarity signatures can serve in a deduplication scheme;</abstract>
+	</publication>
+</person>

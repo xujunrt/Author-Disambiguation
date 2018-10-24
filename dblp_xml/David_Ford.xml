@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Ford</FullName>
+	<publication>
+		<title>Reducing the Risk of Spreadsheet Usage - a Case Study</title>
+		<year>2009</year>
+		<authors>mel glass,sebastian dewhurst</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>191</label>
+		<keyword>Case Study;Intellectual Property;Tools and Techniques;Version Control;web-based applications;</keyword>
+		<organization>null</organization>
+		<abstract>The frequency with which spreadsheets are used and the associated risk is well known. Many tools and techniques have been developed which help reduce risks associate with creating and maintaining spreadsheet. However, little consideration has been given to reducing the risks of routine usage by the &quot;consumers&quot; - for example when entering and editing data. EASA's solution, available commercially, ensures</abstract>
+	</publication>
+	<publication>
+		<title>A Note on the Equivalence of Gibbs Free Energy and Information Theoretic Capacity</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>192</label>
+		<keyword>Binary Symmetric Channel;Communication System;Conditional Entropy;Free Energy;Gibbs Free Energy;ising model;Mutual Information;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>The minimization of Gibbs free energy is based on the changes in work and free energy that occur in a physical or chemical system. The maximization of mutual information, the capacity, of a noisy channel is determined based on the marginal probabilities and conditional entropies associated with a communications system. As different as the procedures might first appear, through the</abstract>
+	</publication>
+</person>

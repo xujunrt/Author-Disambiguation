@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hui Lin</FullName>
+	<publication>
+		<title>Switching Auxiliary Chains for Speech Recognition based on Dynamic Bayesian Networks</title>
+		<year>2006</year>
+		<authors>zhijian ou</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>307</label>
+		<keyword>Auxiliary Information;Auxiliary Variable;dynamic bayesian network;Performance Improvement;Speech Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>This paper investigates the problem of incorporating auxiliary information (e.g. pitch) for speech recognition using dynamic Bayesian networks (DBNs). Previous works usually model acoustic features conditional on the pitch auxiliary variable for both voiced and unvoiced phonetic states, and therefore ignore the fact that pitch (frequency) information is meaningful only for voiced states. In this paper we propose a switching</abstract>
+	</publication>
+	<publication>
+		<title>B-Spline curve smoothing under position constraints for line generalisation</title>
+		<year>2006</year>
+		<authors>eric guilbert</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>308</label>
+		<keyword>b-spline curve;Process Parameters;</keyword>
+		<organization>null</organization>
+		<abstract>Currently, most of the operations performed for the con- struction of marine charts are still done manually. However, with the development of more and more powerful techniques, new processing methods must be developed in order to deal with the increasing amount of data and to achieve auto- matic construction. For that purpose, a new method for line smoothing is introduced</abstract>
+	</publication>
+	<publication>
+		<title>A Chromatic Image Understanding System for Lung Cancer Cell Identification Based on Fuzzy Knowledge</title>
+		<year>2004</year>
+		<authors>yu-bin yang,shifu chen,yukun ye</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>308</label>
+		<keyword>Image Understanding;Lung Cancer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Intelligent Medical Image Understanding Method Using Two-Tier Neural Network Ensembles</title>
+		<year>2005</year>
+		<authors>yu-bin yang,shifu chen,zhi-hua zhou,yukun ye</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>308</label>
+		<keyword>Medical Image;Neural Network Ensemble;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Meteorological Conceptual Modeling Approach Based on Spatial Data Mining and Knowledge Discovery</title>
+		<year>2005</year>
+		<authors>yu-bin yang,zhongyang guo,jixi jiang</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>308</label>
+		<keyword>Conceptual Model;Knowledge Discovery;Spatial Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic tracking and characterization of multiple moving clouds in satellite images</title>
+		<year>2004</year>
+		<authors>yu-bin yang,zhongyang guo,zhaobao fang,jixi jiang</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>308</label>
+		<keyword>Satellite Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and implementation of an intelligent virtual geographic environment for the simulation of SARS transmission</title>
+		<year>2006</year>
+		<authors>jianhua gong,jieping zhou,wenhang li</authors>
+		<jconf>Virtual Reality Continuum and its Applications in Industry</jconf>
+		<label>308</label>
+		<keyword>Design and Development;Design and Implementation;Dynamical Processes;Modeling and Simulation;Multi Agent Simulation;Severe Acute Respiratory Syndrome;Spatial Distribution;Virtual Reality Modeling Language;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>An intelligent virtual geographic environment (IVGE) is a 3D, distributed, and graphical world inhabited by intelligent multi-agents to represent and simulate dynamic phenomena and processes in geographic environments. In this paper an IVGE system is explored to model and simulate the spatiotemporal transmission and control of SARS at a micro level. Using a client-server structure, a prototype system of the</abstract>
+	</publication>
+	<publication>
+		<title>The Web Integration of the GPS+GPRS+GIS Tracking System and Real-Time Monitoring System Based on MAS</title>
+		<year>2006</year>
+		<authors>ye lei</authors>
+		<jconf>Web and Wireless Geographical Information Systems</jconf>
+		<label>308</label>
+		<keyword>Real-time Monitoring;Tracking System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>VGE: A New Communication Platform for General Public</title>
+		<year>2002</year>
+		<authors>jianhua gong,jinyeu tsou,yibin zhao,zongyu zhang,f. benjamin zhan</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>308</label>
+		<keyword>Decision Making;Design and Development;Environmental Planning;Impact Assessment;Public Participation;Spatial Data;Virtual Environment;Wildfire;Virtual Worlds;</keyword>
+		<organization>null</organization>
+		<abstract>Virtual geographic environments (VGE) are environments pertaining to the relationship between post-humans and 3-D virtual worlds. Post-humans are defined as a combination of humans in the real world with 3-D avatars in 3-D virtual worlds. VGE can be a platform for the public participation in spatial data analyses, in model computation and simulation, and in environmental planning and decision making.</abstract>
+	</publication>
+	<publication>
+		<title>Participatory Decision-Making for Ecological Planning</title>
+		<year>2002</year>
+		<authors>yibin zhao</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>308</label>
+		<keyword>Decision Making;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Restructuring the SQL Framework for Spatial Queries</title>
+		<year>1997</year>
+		<authors>bo huang</authors>
+		<jconf>Annals of Gis / Geographic Information Sciences</jconf>
+		<label>308</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Model of GIS Virtual Machine</title>
+		<year>1998</year>
+		<authors>li zhang,bin li</authors>
+		<jconf></jconf>
+		<label>308</label>
+		<keyword>Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Model for Cloud Tracking and Analysis on Satellite Images</title>
+		<year>2007</year>
+		<authors>eric guilbert</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>308</label>
+		<keyword>Satellite Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design of a Query Language for Accessing Spatial Analysis in the Web Environment</title>
+		<year>1999</year>
+		<authors>bo huang</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>308</label>
+		<keyword>Query Language;Spatial Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatial Data Handling for ITS: Perspective, Issues and Approaches</title>
+		<year>2000</year>
+		<authors>demin xiong</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>308</label>
+		<keyword>Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Formalizing fuzzy objects from uncertain classification results</title>
+		<year>2001</year>
+		<authors>tao cheng,martien molenaar</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>308</label>
+		<keyword>Object Model;Land Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Concepts of fuzzy objects have been put forward by various authors (Burrough and Frank 1996) to represent objects with indeterminate boundaries. In most of these proposals the uncertainties in thematic aspects and the geometric aspects are treated separately. Furthermore little attention is paid to methods for object identié cation, whereas it is generally in this stage that the uncertainty aspects</abstract>
+	</publication>
+	<publication>
+		<title>Indexing network-constrained trajectories for connectivity-based queries</title>
+		<year>2006</year>
+		<authors>xiang li</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>308</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Internet-Based Investment Environment Information System: A Case Study on BKR of China</title>
+		<year>1998</year>
+		<authors>li zhang</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>308</label>
+		<keyword>Case Study;Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and development of Distributed Virtual Geographic Environment system based on web services</title>
+		<year>2007</year>
+		<authors>jianqin zhang,jianhua gong,gang wang,jianling huang,jun zhu,bingli xu,jack teng</authors>
+		<jconf>Information Sciences</jconf>
+		<label>308</label>
+		<keyword>Design and Development;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modelling and rendering of snowy natural scenery using multi-mapping techniques</title>
+		<year>2003</year>
+		<authors>yanyun chen,hanqiu sun,enhua wu</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<label>308</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Which One Should be Chosen for the Mobile Geographic Information Service Now, WAP vs. i-mode vs. J2ME?</title>
+		<year>2006</year>
+		<authors>ye lei</authors>
+		<jconf>Mobile Networks and Applications</jconf>
+		<label>308</label>
+		<keyword>Geographic Information;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SQL/SDA: A Query Language for Supporting Spatial Data Analysis and Its Web-Based Implementation</title>
+		<year>2001</year>
+		<authors>bo huang</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>308</label>
+		<keyword>Decision Making;Design Method;Feature Fusion;Geographic Information System;Hybrid Model;Indexing Terms;Java Language;Query Language;Query Processing;Spatial Analysis;Spatial Data;Spatial Data Analysis;Spatial Database;Spatial Relationships;Web Gis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—An important trend of current GIS development,is to provide easy and effective access,to spatial analysis functionalities for supporting decision making based on geo-referenced data. Within the framework of the ongoing SQL standards for spatial extensions, a spatial query language, called SQL/SDA, has been designed to meet such a requirement. Since the language needs to incorporate the important derivation functions (e.g.,</abstract>
+	</publication>
+	<publication>
+		<title>Cloud Analysis by Modeling the Integration of Heterogeneous Satellite Data and Imaging</title>
+		<year>2006</year>
+		<authors>yu-bin yang,jixi jiang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>308</label>
+		<keyword>Satellite Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Empirical Study of Web-Based Knowledge Community Success</title>
+		<year>2007</year>
+		<authors>weiguo fan,linda wallace,zhongju zhang</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>309</label>
+		<keyword>Empirical Study;Information System;Is Success;Knowledge Acquisition;Knowledge Exchange;Sense of Community;Social Interaction;Survey Data;User Satisfaction;</keyword>
+		<organization>null</organization>
+		<abstract>Web-based knowledge communities (WKCs) allow individuals with similar interests to collectively engage in knowledge acquisition and exchange. In spite of increased research interest in the topic of on-line knowledge exchange and social interaction, few studies have identified factors that contribute to WKC success. In this study we apply Preece's community success framework of usability and sociability and the Information System</abstract>
+	</publication>
+	<publication>
+		<title>A Novel Remotely Sensed Image Interpretation Method</title>
+		<year>2009</year>
+		<authors>dengkui mo,hua sun,zhuo zang,huaiqing zhang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>310</label>
+		<keyword>Remote Sensing Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-wood forest information extraction based on ALOS data</title>
+		<year>2010</year>
+		<authors>enping yan,dengkui mo,liming bai,hua sun</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>310</label>
+		<keyword>Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A SVM-Based Change Detection Method from Bi-Temporal Remote Sensing Images in Forest Area</title>
+		<year>2008</year>
+		<authors>dengkui mo,jiping li,hua sun,zhuo zhang,yujiu xiong</authors>
+		<jconf>Workshop on Knowledge Discovery and Data Mining</jconf>
+		<label>310</label>
+		<keyword>Change Detection;Remote Sensing Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a High Spatial Resolution Remote Sensing Image Intelligent Interpretation System</title>
+		<year>2007</year>
+		<authors>dengkui mo,jiping li,hua sun,yujiu xiong</authors>
+		<jconf>Data Science Journal</jconf>
+		<label>310</label>
+		<keyword>Design and Implementation;High Spatial Resolution;Remote Sensing Image;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

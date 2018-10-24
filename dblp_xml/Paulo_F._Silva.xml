@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Paulo F. Silva</FullName>
+	<publication>
+		<title>Design and Evaluation of a Grid Computing Based Architecture for Integrating Heterogeneous IDSs</title>
+		<year>2007</year>
+		<authors>carlos becker westphall,carla merkle westphall,marcos dias de assunção</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>801</label>
+		<keyword>Grid Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

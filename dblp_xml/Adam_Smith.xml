@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Adam Smith</FullName>
+	<publication>
+		<title>Rectangular tiling in multidimensional arrays</title>
+		<year>1999</year>
+		<authors>subhash surii</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>6</label>
+		<keyword>Data Mining;Data Partitioning;Video Compression;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>We study the following tiling problem in d dimensions: given a d-dimensional rectangular array of non-negative numbers and an integer p, partition the array into at most p rectangular subarrays so that the maximum weight of any subarray is minimized; the weight of a subarray is the sum of its elements. The rectangular tiling problem is motivated by applications in</abstract>
+	</publication>
+	<publication>
+		<title>Rectangular Tiling in Multidimensional Arrays</title>
+		<year>2000</year>
+		<authors>subhash surii</authors>
+		<jconf>Journal of Algorithms</jconf>
+		<label>6</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tracking moving devices with the cricket location system</title>
+		<year>2004</year>
+		<authors>hari balakrishnan,michel goraczko,nissanka b. priyantha</authors>
+		<jconf>International Conference on Mobile Systems, Applications, and Services</jconf>
+		<label>7</label>
+		<keyword>Distance Estimation;Hybrid Approach;Location Awareness;Mobile Device;Mobile Systems;Pervasive Computing;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of tracking a moving device under two indoor location architectures: an active mobile architecture and a passive mobile architecture. In the former, the infrastructure has receivers at known locations, which estimate distances to a mobile device based on an active transmission from the device. In the latter, the infrastructure has active beacons that periodically transmit signals</abstract>
+	</publication>
+</person>

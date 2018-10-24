@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stephen Russell</FullName>
+	<publication>
+		<title>Assisting decision making in the event-driven enterprise using wavelets</title>
+		<year>2008</year>
+		<authors>aryya gangopadhyay,victoria y. yoon</authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>983</label>
+		<keyword>Decision Making;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Applications of wavelet data reduction in a recommender system</title>
+		<year>2008</year>
+		<authors>victoria y. yoon</authors>
+		<jconf>Expert Systems With Applications</jconf>
+		<label>983</label>
+		<keyword>Data Reduction;recommender system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterated Reaction Graphs: Simulating Complex Maillard Reaction Pathways</title>
+		<year>2001</year>
+		<authors>shail patel,jeremy rabone,jos tissen,werner klaffke</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<label>984</label>
+		<keyword>Maillard Reaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Single-user capabilities in interprocess communication</title>
+		<year>1988</year>
+		<authors></authors>
+		<jconf>Operating Systems Review</jconf>
+		<label>985</label>
+		<keyword>Data Transfer;Distributed Operating System;interprocess communication;</keyword>
+		<organization>null</organization>
+		<abstract>Many distributed operating systems use interprocess communication (IPC) and data transfer schemes which are optimised for a particular architecture: the workstation/server model. In this model, client processes have full control over data transfer. This paper argues that server controlled data transfer is better suited to systems with a hierarchy of servers distributed across a collection of machines. The system proposed</abstract>
+	</publication>
+	<publication>
+		<title>The Mungi Single-Address-Space Operating System</title>
+		<year>1998</year>
+		<authors>gernot heiser,kevin elphinstone,jerry vochteloo,jochen liedtke</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>985</label>
+		<keyword>Data Sharing;Object Oriented Database;Operating System;</keyword>
+		<organization>null</organization>
+		<abstract>Single-address-space operating systems (SASOS) are an attractive model for making the best use of the wide address space provided by the latest generations of microprocessors. SASOS remove the address space boundaries which make data sharing between processes difficult and expensive in traditional operating systems. They offer the potential of significant performance advantages for applications where sharing is important, such as</abstract>
+	</publication>
+</person>

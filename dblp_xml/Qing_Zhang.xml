@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qing Zhang</FullName>
+	<publication>
+		<title>Practical Fair-Exchange E-Payment Protocol for Anonymous Purchase and Physical Delivery</title>
+		<year>2006</year>
+		<authors>konstantinos markantonakis,keith mayes</authors>
+		<jconf>ACS/IEEE International Conference on Computer Systems and Applications</jconf>
+		<label>848</label>
+		<keyword>Fair Exchange;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Performance of Certificate Revocation Protocols Based on a Java Card Certificate Client Implementation</title>
+		<year>2005</year>
+		<authors>k. papapanagiotou,constantinos markantonakis,william g. sirett,keith mayes</authors>
+		<jconf>Information Security</jconf>
+		<label>848</label>
+		<keyword>Java Card;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mutual Authentication Enabled Fair-Exchange and Anonymous E-Payment Protocol</title>
+		<year>2006</year>
+		<authors>constantinos markantonakis,keith mayes</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>848</label>
+		<keyword>Fair Exchange;Mutual Authentication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

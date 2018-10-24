@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chang-Hwan Lee</FullName>
+	<publication>
+		<title>Regional video insertion through robust region tracking in the presence of occluding objects</title>
+		<year>2005</year>
+		<authors>dae woong kim,ki-sang hong</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>120</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

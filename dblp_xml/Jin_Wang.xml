@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jin Wang</FullName>
+	<publication>
+		<title>QoS Enhancements and Performance Analysis for Delay Sensitive Applications</title>
+		<year>2009</year>
+		<authors>lin guan,xin gang wang,a. grigg,irfan awan,iain c. c. phillips,xuefen chi</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>407</label>
+		<keyword>Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

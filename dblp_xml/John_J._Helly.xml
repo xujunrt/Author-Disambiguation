@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>John J. Helly</FullName>
+	<publication>
+		<title>Using behavior analysis algorithms to anticipate security threats before they impact mission critical operations</title>
+		<year>2007</year>
+		<authors>brian banks,gary m. jackson,david n. chin,t. j. smith,a. schmidt,paul c. brewer,roger medd,david masters,annetta burger,william k. krebs</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>433</label>
+		<keyword>Behavior Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

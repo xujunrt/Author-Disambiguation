@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peng Liu</FullName>
+	<publication>
+		<title>MapPSO Results for OAEI 2008</title>
+		<year>2008</year>
+		<authors>jürgen bock</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>804</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xin Dong</FullName>
+	<publication>
+		<title>A method for generating volumetric features from surface features</title>
+		<year>1991</year>
+		<authors>michael j. wozny</authors>
+		<jconf>International Journal of Computational Geometry and Applications</jconf>
+		<label>1123</label>
+		<keyword>Process Planning;</keyword>
+		<organization>null</organization>
+		<abstract>Form features may be represented both as surfaces and as volumes. Volumetric features are neeessary in automated process planning for relating a feature to the extent of ma- terial to be removed from a ~ and for capturing the global chamcteristics of a part, such as tool accessibility. In this paper, a method witl be presented for generating volumet- ric</abstract>
+	</publication>
+	<publication>
+		<title>A method for generating volumetric features from surface features</title>
+		<year>1991</year>
+		<authors>michael j. wozny</authors>
+		<jconf>International Journal of Computational Geometry and Applications</jconf>
+		<label>1124</label>
+		<keyword>Process Planning;</keyword>
+		<organization>null</organization>
+		<abstract>Form features may be represented both as surfaces and as volumes. Volumetric features are neeessary in automated process planning for relating a feature to the extent of ma- terial to be removed from a ~ and for capturing the global chamcteristics of a part, such as tool accessibility. In this paper, a method witl be presented for generating volumet- ric</abstract>
+	</publication>
+	<publication>
+		<title>Petri-net-based Context-related Access Control in Workflow Environment</title>
+		<year>2002</year>
+		<authors>gang chen,jianwei yin,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1125</label>
+		<keyword>Access Control;petri net;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multithreaded Geant4: Semi-automatic Transformation into Scalable Thread-Parallel Software</title>
+		<year>2010</year>
+		<authors>gene cooperman,john apostolakis</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1126</label>
+		<keyword>Case Study;Experimental Tests;Memory Allocation;Performance Improvement;Transform Coding;</keyword>
+		<organization>null</organization>
+		<abstract>This work presents an application case study. Geant4 is a 750,000 line toolkit rst designed in the mid-1990s and originally intended only for sequential computation. Intel's promise of an 80-core CPU meant that Geant4 users would have to struggle in the future with 80 processes on one CPU chip, each one having a gigabyte memory footprint. Thread parallelism would be</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Task-Oriented Parallelism for Structure Based Incomplete LU Factorization</title>
+		<year>2008</year>
+		<authors>gene cooperman</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1126</label>
+		<keyword>Gaussian Elimination;Gigabit Ethernet;Grid Computing;High Performance;Incomplete Lu Factorization;Linear Algebra;Parallel Computer;Sparse Matrices;Use Case;</keyword>
+		<organization>null</organization>
+		<abstract>ILU(k) is an important preconditioner widely used in many linear algebra solvers for sparse matrices. Unfortunately, there is still no highly scalable parallel ILU(k) algorithm. This paper presents the first such scalable algorithm. For example, the new algor ithm achieves 50 times speedup with 80 nodes for general sparse matrices of dimension 160,000 that are diagonally dominant. The algorithm assumes</abstract>
+	</publication>
+	<publication>
+		<title>A Parameter-Free Clustering Algorithm Based on Density Model</title>
+		<year>2008</year>
+		<authors>jun mu,hongxiao fei</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>1127</label>
+		<keyword>Cluster Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation of MPEG2 AAC on 16bit Fixed-Point DSP</title>
+		<year>2006</year>
+		<authors>hui wang,wenbin xu,chuanzhen li,wenhua yu</authors>
+		<jconf>Asia Pacific Conference on Circuits and Systems</jconf>
+		<label>1128</label>
+		<keyword>Fixed Point;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hua Lu</FullName>
+	<publication>
+		<title>Modelling sediment delivery ratio over the Murray Darling Basin</title>
+		<year>2006</year>
+		<authors>c. j. moran,ian p. prosser</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>298</label>
+		<keyword>Modelling Framework;Overland Flow;Particle Size;Rainfall Intensity;Residence Time;Soil Erosion;Spatial Distribution;Spatial Modelling;Murray Darling Basin;Sediment Delivery Ratio;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a scientific and technical description of the modelling framework and the main results of modelling the long-term average sediment delivery at hillslope to medium-scale catchments over the entire Murray Darling Basin (MDB). A theoretical development that relates long-term averaged sediment delivery to the statistics of rainfall and catchment parameters will be presented. The derived flood frequency approach</abstract>
+	</publication>
+	<publication>
+		<title>Toward quantitative prediction of dust storms: an integrated wind erosion modelling system and its applications</title>
+		<year>2001</year>
+		<authors>yaping shao</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>298</label>
+		<keyword>Atmospheric Modeling;Dust Storm;Geographic Information;High Resolution;Regional Scale;Satellite Image;Wind Erosion;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present an integrated wind-erosion modelling system which couples a physically based wind-erosion scheme, a high-resolution atmospheric model and a dust-transport model with a geographic information database. This system can be used to determine the pattern and intensity of wind erosion, in particular, dust emission from the surface and dust concentration in the atmosphere. The system can</abstract>
+	</publication>
+	<publication>
+		<title>Representation of land-surface processes in aeolian transport models</title>
+		<year>2004</year>
+		<authors>michael r. raupach</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>298</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Failure mechanisms of ACF joints under isothermal ageing</title>
+		<year>2008</year>
+		<authors>m. j. rizvi,chris bailey</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<label>299</label>
+		<keyword>Failure Mechanism;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design for reliability of power electronics modules</title>
+		<year>2009</year>
+		<authors>chris bailey,chunyan yin</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>299</label>
+		<keyword>Electric Power;Energy Management;Power Electronics;Probabilistic Approach;Transport System;Insulated Gate Bipolar Transistor;</keyword>
+		<organization>null</organization>
+		<abstract>Power electronics uses semiconductor technology to convert and control electrical power. Demands for efficient energy management, conversion and conservation, and the increasing take-up of electronics in transport systems has resulted in tremendous growth in the use of power electronics devices such as Insulated Gate Bipolar Transistors (IGBT's). The packaging of power electronics devices involves a number of challenges for the</abstract>
+	</publication>
+	<publication>
+		<title>No-flow underfill flip chip assembly--an experimental and modeling analysis</title>
+		<year>2002</year>
+		<authors>k. c. hung,s. stoyanov,chris bailey,y. c. chan</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>299</label>
+		<keyword>Model Analysis;Flip Chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Study of anisotropic conductive adhesive joint behavior under 3point bending</title>
+		<year>2005</year>
+		<authors>m. j. rizvi,y. c. chan,chris bailey</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>299</label>
+		<keyword>Bending Test;finite element analysis fea;Mechanical Loading;3 dimensional;Anisotropic Conductive Adhesive;Anisotropic Conductive Film;Flip Chip;</keyword>
+		<organization>null</organization>
+		<abstract>Flip chip interconnections using anisotropic conductive film (ACF) are now a very attractive technique for electronic packaging assembly. Although ACF is environmentally friendly, many factors may influence the reliability of the final ACF joint. External mechanical loading is one of these factors. Finite element analysis (FEA) was carried out to under- stand the effect of mechanical loading on the ACF</abstract>
+	</publication>
+	<publication>
+		<title>The effect of reflow process on the contact resistance and reliability of anisotropic conductive film interconnection for flip chip on flex applications</title>
+		<year>2003</year>
+		<authors>c. y. yin,m. o. alam,y. c. chan,chris bailey</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>299</label>
+		<keyword>Coefficient of Thermal Expansion;Contact Area;Contact Resistance;Environmental Effect;High Temperature;Thermal Stress;Anisotropic Conductive Film;</keyword>
+		<organization>null</organization>
+		<abstract>The work presented in this paper focuses on the effect of reflow process on the contact resistance and reliability of anisotropic conductive film (ACF) interconnection. The contact resistance of ACF interconnection increases after reflow process due to the decrease in contact area of the conducting particles between the mating I/O pads. However, the relationship between the contact resistance and bonding</abstract>
+	</publication>
+	<publication>
+		<title>GTX: the MARCO GSRC technology extrapolation system</title>
+		<year>2000</year>
+		<authors>andrew e. caldwell,yu cao,andrew b. kahng,farinaz koushanfar,igor l. markov,michael oliver,dirk stroobandt,dennis sylvester</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>300</label>
+		<keyword>Cycle Time;Design Methodology;Design Tool;Device Modeling;Model Choice;Power Dissipation;System Architecture;Uncertainty Modeling;Expert System;</keyword>
+		<organization>null</organization>
+		<abstract>Technology extrapolation — the calibration and prediction of achievable design in future technology generations — drives the evolution of VLSI system architectures, design methodologies, and design tools. This paper describes initial experiences with development and use of GTX, the MARCO GSRC Technology Extrapolation system. GTX provides a robust, portable framework for interactive specification and comparison of modeling choices, e.g., for</abstract>
+	</publication>
+	<publication>
+		<title>Replica dissemination and update strategies in cluster-based mobile ad hoc networks</title>
+		<year>2006</year>
+		<authors>mieso k. denko</authors>
+		<jconf>Mobile Information Systems</jconf>
+		<label>301</label>
+		<keyword>Mobile Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Thermally induced deformation of solder joints in real packages: Measurement and analysis</title>
+		<year>2006</year>
+		<authors>helen shi,ming zhou</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>302</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hybrid reliability assessment for packaging prototyping</title>
+		<year>2005</year>
+		<authors>jesse zhou,rich golek,ming zhou</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>302</label>
+		<keyword>Reliability Assessment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

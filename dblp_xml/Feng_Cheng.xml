@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Cheng</FullName>
+	<publication>
+		<title>SIMPA: A SIP-Based Mobile Payment Architecture</title>
+		<year>2008</year>
+		<authors>ge zhang,christoph meinel</authors>
+		<jconf>ACIS International Conference on Computer and Information Science</jconf>
+		<label>230</label>
+		<keyword>Internet Security;Mobile Network;Mobile Payment;Mobile Phone;P2P;Session Initiation Protocol;Standardisation;System Architecture;Next Generation;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, many Mobile Payment (MP) schemes have been proposed and used in practise. However, a prerequisite for extended acceptance and adoption of MP technologies is to deploy an effective MP system. So far, there is no such a standardised and scalable MP platform. Most current MP schemes are circumscribed by its mobile network infrastructures. Fortunately, the fast advancement</abstract>
+	</publication>
+	<publication>
+		<title>A Specialized Tool for Simulating LockKeeper Data Transfer</title>
+		<year>2010</year>
+		<authors>thanh-dien tran,sebastian roschke,christoph meinel</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>230</label>
+		<keyword>Data Transfer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Secure Web Services Providing Framework Based on LockKeeper</title>
+		<year>2007</year>
+		<authors>michael menzel,christoph meinel</authors>
+		<jconf>Asia-Pacific Network Operations and Management Symposium</jconf>
+		<label>230</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Simple, Smart and Extensible Framework for Network Security Measurement</title>
+		<year>2007</year>
+		<authors>christian wolter,christoph meinel</authors>
+		<jconf>Conference on Information Security and Cryptology</jconf>
+		<label>230</label>
+		<keyword>Network Security;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Secure Communication Using Identity Based Encryption</title>
+		<year>2010</year>
+		<authors>sebastian roschke,luan ibraimi,christoph meinel</authors>
+		<jconf>Communications and Multimedia Security</jconf>
+		<label>230</label>
+		<keyword>Identity Based Encryption;Secure Communication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Secure Mobile Payment Based on SIP</title>
+		<year>2008</year>
+		<authors>ge zhang,christoph meinel</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>230</label>
+		<keyword>Mobile Multimedia;Mobile Payment;Mobile Phone;Session Initiation Protocol;Voice Over Ip;</keyword>
+		<organization>null</organization>
+		<abstract>Mobile payment has some unique advantages over more traditional payment methods in, for example, TV shopping and mobile multimedia services. Unfortunately, most existing mobile payment solutions rely heavily on underlying communication infrastructures, which are platform-dependent and have no unified implementation criteria. This limitation is reducing, however, through the rapid spread of the Voice over IP (VoIP) telephony service and its</abstract>
+	</publication>
+	<publication>
+		<title>An Extensible and Virtualization-Compatible IDS Management Architecture</title>
+		<year>2009</year>
+		<authors>sebastian roschke,christoph meinel</authors>
+		<jconf>Information Assurance and Security</jconf>
+		<label>230</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementing IDS Management on LockKeeper</title>
+		<year>2009</year>
+		<authors>sebastian roschke,christoph meinel</authors>
+		<jconf>Information Security Practice and Experience</jconf>
+		<label>230</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LockKeeper: A New Implementation of Physical Separation Technology</title>
+		<year>2006</year>
+		<authors>christoph meinel</authors>
+		<jconf></jconf>
+		<label>230</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Unifying Vulnerability Information for Attack Graph Construction</title>
+		<year>2009</year>
+		<authors>sebastian roschke,robert schuppenies,christoph meinel</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>230</label>
+		<keyword>Attack Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Theoretical Model of LockKeeper Data Exchange and its Practical Verification</title>
+		<year>2009</year>
+		<authors>sebastian roschke,thanh-dien tran,christoph meinel</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>230</label>
+		<keyword>Data Exchange;Theoretical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The DualGate LockKeeper: A Highly Efficient, Flexible and Applicable Network Security Solution</title>
+		<year>2003</year>
+		<authors>paul ferring,christoph meinel,gerhard müllenheim,jochen bern</authors>
+		<jconf>Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing</jconf>
+		<label>230</label>
+		<keyword>Data Transfer;Network Security;</keyword>
+		<organization>null</organization>
+		<abstract>a The idea of data transfer by physically severed connections has been applied in a simple realization of the Lock-Keeper technology, the SingleGate Lock - Keeper system. By means of it, the possibility of direct attacks to a protected network can be eliminated entirely and data can be exchanged between two networks through a completely secure and reliable way. As</abstract>
+	</publication>
+	<publication>
+		<title>Strong Authentication over LockKeeper</title>
+		<year>2008</year>
+		<authors>christoph meinel</authors>
+		<jconf>Conference on Current Trends in Theory and Practice of Informatics</jconf>
+		<label>230</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deployment of Virtual Machines in LockKeeper</title>
+		<year>2006</year>
+		<authors>christoph meinel</authors>
+		<jconf>Workshop on Information Security Applications</jconf>
+		<label>230</label>
+		<keyword>Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LockKeeper Technology - A New Network Security Solution</title>
+		<year>2003</year>
+		<authors>paul ferring,christoph meinel</authors>
+		<jconf></jconf>
+		<label>230</label>
+		<keyword>Network Security;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

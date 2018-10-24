@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christine Julien</FullName>
+	<publication>
+		<title>Exploiting the Annotation Practice for Personal and Collective Information Management</title>
+		<year>2008</year>
+		<authors>guillaume cabanac,max chevalier,claude chrisment</authors>
+		<jconf></jconf>
+		<label>150</label>
+		<keyword>Information Management;Process Design;</keyword>
+		<organization>null</organization>
+		<abstract>Information nowadays is a capital for any organization in- tending to be reactive and aware of its environment. Unfortunately most modern organizations overdose on information as almost every mem- ber daily accesses, extracts and stores a growing amount of documents, i.e. vehicles for information. This situation is even deteriorating as indi- vidual eorts to organize and search for information yield</abstract>
+	</publication>
+	<publication>
+		<title>Helping People Searching the Web: Towards an Adaptive and a Social System</title>
+		<year>2004</year>
+		<authors>max chevalier,claude chrisment</authors>
+		<jconf>International Association for Development of the Information Society</jconf>
+		<label>150</label>
+		<keyword>Social System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards a Documentary Memory: Building a Document Repository for Companies</title>
+		<year>2003</year>
+		<authors>max chevalier,kais khrouf</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>150</label>
+		<keyword>Information Retrieval;Information Sharing;</keyword>
+		<organization>null</organization>
+		<abstract>An organisation must enable knowledge and information sharing among its employees to optimise their tasks. However, the volume of information contained in documents represents a major importance for these companies. Indeed, companies may be fully reactive to any new information and must follow the fast evolution of spread information. Thus, a documentary memory, which stores this information and allows end-user</abstract>
+	</publication>
+	<publication>
+		<title>Collective Annotation: Perspectives for Information Retrieval Improvement</title>
+		<year>2007</year>
+		<authors>guillaume cabanac,max chevalier,claude chrisment</authors>
+		<jconf></jconf>
+		<label>150</label>
+		<keyword>Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mercure at trec8: Adhoc, Web, CLIR and Filtering tasks</title>
+		<year>1999</year>
+		<authors>mohand boughanem,josiane mothe,c. soulé-dupuy</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>150</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Personalized Information Access Through Flexible and Interoperable Profiles</title>
+		<year>2007</year>
+		<authors>max chevalier,c. soulé-dupuy,nathalie vallès-parlangeau</authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>150</label>
+		<keyword>Information Access;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

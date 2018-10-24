@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shahbaz Khan</FullName>
+	<publication>
+		<title>Analysing complex behaviour of hydrological systems through a system dynamics approach</title>
+		<year>2009</year>
+		<authors>luo yufeng,aftab ahmad</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>934</label>
+		<keyword>System Dynamics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resolving Lexical Ambiguities in Folksonomy Based Search Systems through Common Sense and Personalization</title>
+		<year>2008</year>
+		<authors>mohammad nauman,muhammad amin,fida hussain</authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>935</label>
+		<keyword>Common Sense;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using PersonalizedWeb Search for Enhancing Common Sense and Folksonomy Based Intelligent Search Systems</title>
+		<year>2007</year>
+		<authors>mohammad nauman</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>935</label>
+		<keyword>Common Sense;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

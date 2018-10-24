@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Feng</FullName>
+	<publication>
+		<title>Clock domain crossing fault model and coverage metric for validation of SoC design</title>
+		<year>2007</year>
+		<authors>zheng zhou,dong tong,xu cheng</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>1171</label>
+		<keyword>Design Process;Fault Model;Temporal Data;Register Transfer Level;System On Chip;</keyword>
+		<organization>null</organization>
+		<abstract>Multiple asynchronous clock domains have been increasingly employed in System-on-Chip (SoC) designs for different I/O interfaces. Functional validation is one of the most expensive tasks in the SoC design process. Simulation on register transfer level (RTL) is still the most widely used method. It is important to quantitatively measure the validation confidence and progress for clock domain crossing (CDC) designs.</abstract>
+	</publication>
+	<publication>
+		<title>3D map construction using heterogeneous robots</title>
+		<year>2008</year>
+		<authors>ravi kaushik,william morris,jizhong xiao,zhigang zhu</authors>
+		<jconf>International Conference on Control, Automation, Robotics and Vision</jconf>
+		<label>1172</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Paging Mobile Users Efficiently and Optimally</title>
+		<year>2007</year>
+		<authors>amotz bar-noy,mordecai j. golin</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>1172</label>
+		<keyword>Dynamic Program;Optimal Solution;Satisfiability;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>,D). Our first contribution is to improve the running time to Θ( ND ) by proving that the dynamic programming recursive formulation satisfies the Monge property, permitting us to use various dynamic programming speedup techniques. A Θ(N) heuristic solution is also known. Our second contribution is a heuristic whose running time is Θ(N log D) .O ur heuristic outperforms the</abstract>
+	</publication>
+	<publication>
+		<title>Heterogeneous Multi-Robot Localization in Unknown 3D Space</title>
+		<year>2006</year>
+		<authors>zhigang zhu,jizhong xiao</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>1172</label>
+		<keyword>Control Strategy;Degree of Freedom;Indexing Terms;Mobile Robot;Multi Robot System;Robot Localization;Robot Team;Urban Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a self-localization strategy for a team of heterogenous mobile robots including ground mobile robots of various sizes and wall-climbing robots. These robots are equipped with various visual sensors, such as miniature webcams, omndirectional cameras, and PTZ cameras. As the core of this work, a formation of four-robot team is constructed to operate in a 3D space, e.g.,</abstract>
+	</publication>
+	<publication>
+		<title>Self-localization of a heterogeneous multi-robot team in constrained 3D space</title>
+		<year>2007</year>
+		<authors>zhigang zhu,jizhong xiao</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>1172</label>
+		<keyword>Omnidirectional Vision;Robot Localization;Robot Team;Urban Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new approach to the self- localization among a team of robots working in constrained 3D space of an urban environment. As the base formation, a team of three ground robots and one climbing robot are deployed on ground and on a wall or ceiling, respectively. The three ground robots localize themselves using an existing omnidirectional vision-based</abstract>
+	</publication>
+	<publication>
+		<title>Finding mobile data under delay constraints with searching costs</title>
+		<year>2010</year>
+		<authors>amotz bar-noy,panagiotis cheilaris,asaf levin</authors>
+		<jconf>Symposium on Principles of Distributed Computing</jconf>
+		<label>1172</label>
+		<keyword>a priori knowledge;Analysis of Algorithm;Approximate Algorithm;Approximate Solution;Cellular Network;Dynamic Program;Polynomial Time Algorithm;Search Cost;Uniform Distribution;</keyword>
+		<organization>null</organization>
+		<abstract>A token is hidden in one of several boxes and then the boxes are locked. The probability of placing the token in each of the boxes is known. A searcher is looking for the token by unlocking boxes where each box is associated with an unlocking cost. The searcher conducts its search in rounds and must nd the token in</abstract>
+	</publication>
+	<publication>
+		<title>Paging Multiple Users in Cellular Network: Yellow Page and Conference Call Problems</title>
+		<year>2010</year>
+		<authors>amotz bar-noy,panagiotis cheilaris</authors>
+		<jconf>Workshop on Experimental and Efficient Algorithms</jconf>
+		<label>1172</label>
+		<keyword>Analysis of Algorithm;Cellular Network;Greedy Heuristic;Hierarchical Classification;Location Management;Optimal Algorithm;Optimal Solution;Polynomial Time;Polynomial Time Approximation Scheme;Relative Efficiency;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>Mobile users are roaming in a zone of cells in a cellular net- work system. The probabilities of each user residing in each cell are known, and all probabilities are independent. The task is to find any one, or all, of the users, by paging the cells in a predetermined number of rounds. In each round, any subset of the</abstract>
+	</publication>
+	<publication>
+		<title>When to Reap and When to Sow - Lowering Peak Usage with Realistic Batteries</title>
+		<year>2008</year>
+		<authors>amotz bar-noy,matthew johnson,ou liu</authors>
+		<jconf>Workshop on Experimental and Efficient Algorithms</jconf>
+		<label>1172</label>
+		<keyword>Empirical Evidence;Energy Markets;Heuristic Algorithm;Online Algorithm;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>In some energy markets, large clients are charged for both to- tal energy usage and peak energy usage, which is based on the maximum single energy request over the billing period. The problem of minimiz- ing peak charges was recently introduced as an online problem in (4), which gave optimally competitive algorithms. In this problem, a battery (previously assumed to</abstract>
+	</publication>
+</person>

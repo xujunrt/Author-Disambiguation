@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Braun</FullName>
+	<publication>
+		<title>AutoMoDe - Model-Based Development of Automotive Software</title>
+		<year>2007</year>
+		<authors>dirk ziegenbein,ulrich freund,andreas bauer,jan romberg,bernhard schätz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>812</label>
+		<keyword>model-based development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Consistency in Model-Based Development</title>
+		<year>2003</year>
+		<authors>bernhard schätz,franz huber,alexander k. wißpeintner</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>812</label>
+		<keyword>model-based development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Checking and Transforming Models with AutoFOCUS</title>
+		<year>2005</year>
+		<authors>bernhard schätz,franz huber,alexander k. wißpeintner</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>812</label>
+		<keyword>Transformation Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Model-Based Approach for Automotive Software Development</title>
+		<year>2001</year>
+		<authors>martin rappl</authors>
+		<jconf>Object-Oriented Modeling of Embedded Real-Time Systems</jconf>
+		<label>812</label>
+		<keyword>Development Process;Distributed Networks;Domain Specificity;Integrable Model;model-based approach;Modeling Language;Software Development;System Modeling;Unified Modeling Language;Electronic Control Unit;</keyword>
+		<organization>null</organization>
+		<abstract>Integrated model-based specification techniques facilitate the definition of seamless development processes for electronic control units (ECUs) including support for domain specific issues such as management of signals, the integration of isolated logical functions or the deployment of functions to distributed networks of ECUs. A fundamental prerequisite of such approaches is the existence of an adequate modeling notation tailored to the</abstract>
+	</publication>
+	<publication>
+		<title>Development of a Car Seat: A Case Study using DOORS, AUTOFOCUS and the Validator</title>
+		<year>2001</year>
+		<authors>oscar slotosch</authors>
+		<jconf>Object-Oriented Modeling of Embedded Real-Time Systems</jconf>
+		<label>812</label>
+		<keyword>Case Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Based Requirements Engineering for Embedded Software</title>
+		<year>2002</year>
+		<authors>michael von der beeck,martin rappl,christian schröder</authors>
+		<jconf>Requirements Engineering</jconf>
+		<label>812</label>
+		<keyword>Embedded Software;Requirement Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Consistent Integration of Formal Methods</title>
+		<year>2000</year>
+		<authors>heiko lötzbeyer,bernhard schätz,oscar slotosch</authors>
+		<jconf>Tools and Algorithms for Construction and Analysis of Systems</jconf>
+		<label>812</label>
+		<keyword>Formal Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>AutoMoDe - Model-Based Development of Automotive Software</title>
+		<year>2007</year>
+		<authors>dirk ziegenbein,ulrich freund,andreas bauer,jan romberg,bernhard schätz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>812</label>
+		<keyword>model-based development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model-Based Safety-Cases for Software-Intensive Systems</title>
+		<year>2009</year>
+		<authors>jan philipps,bernhard schätz,stefan wagner</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>812</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Safety cases become increasingly important for software certication. Models play a crucial role in building and combining information for the safety case. This position paper sketches an ideal model-based safety case with defect hypotheses and failure characterisations. From this, open research issues are derived.</abstract>
+	</publication>
+</person>

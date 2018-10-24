@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Amarjeet Singh</FullName>
+	<publication>
+		<title>SoC Synthesis with Automatic Hardware Software Interface Generation</title>
+		<year>2003</year>
+		<authors>amit chhabra,anup gangwar,basant kumar dwivedi,m. balakrishnan,anshul kumar</authors>
+		<jconf>VLSI Design</jconf>
+		<label>33</label>
+		<keyword>Image Processing;Perforation;Spatial Filtering;System On Chip;Time To Market;</keyword>
+		<organization>null</organization>
+		<abstract>Design of efficient System-on-Chips (SoCs) require thor- ough application analysis to identify various compute inten- sive parts. These compute intensive parts can be mapped to hardware in order to meet the cost as well as the perfor- mance constraints. However, faster time to market requires automation of synthesis of these code segments of the ap- plication from high level specification</abstract>
+	</publication>
+	<publication>
+		<title>Mobile Robot Sensing for Environmental Applications</title>
+		<year>2007</year>
+		<authors>maxim a. batalin,michael j. stealey,victor chen,mark h. hansen,thomas c. harmon,gaurav s. sukhatme,william j. kaiser</authors>
+		<jconf>Field and Service Robotics</jconf>
+		<label>34</label>
+		<keyword>Adaptive Sampling;Biological Process;Experience Design;Experimental Design;Mobile Robot;System Analysis;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>Summary. This paper reports the first application of iterative experi mental design methodol- ogy for high spatiotemporal resolution characterization of river and lake aquatic systems per- formed using mobile robot sensing systems. Both applications involve dynamic phenomena spread over large spatial domain: 1) Characterization of contaminant concentration and flow at the confluence of two major rivers displaying dynamics due to</abstract>
+	</publication>
+	<publication>
+		<title>Autonomous Robotic Sensing Experiments at San Joaquin River</title>
+		<year>2007</year>
+		<authors>maxim a. batalin,victor chen,michael j. stealey,brett l. jordan,jason c. fisher,thomas c. harmon,mark h. hansen,william j. kaiser</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>34</label>
+		<keyword>Autonomous Robot;Case Study;Cross Section;Experimental Design;Habitat Restoration;High Resolution;Lessons Learned;River Basin;Sediment Transport;Spatial Mapping;Temporal Trend;High Density;Multi Dimensional;San Joaquin River;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed, high-density spatiotemporal observa- tions are proposed for answering many river related questions, including those pertaining to hydraulics and multi-dimensional river modeling, geomorphology, sediment transport and ripar- ian habitat restoration. In spite of the recent advancements in technology, currently available systems have many constraints that preclude long term, remote, autonomous, high resolution monitoring in the real environment. We present here</abstract>
+	</publication>
+	<publication>
+		<title>Modeling and decision making in spatio-temporal processes for environmental surveillance</title>
+		<year>2010</year>
+		<authors>fabio ramos,hugh d. whyte,william j. kaiser</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>34</label>
+		<keyword>Decision Making;Temporal Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>NIMS-AQ: A novel system for autonomous sensing of aquatic environments</title>
+		<year>2008</year>
+		<authors>michael j. stealey,maxim a. batalin,brett l. jordan,william j. kaiser</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>34</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Planning of Informative Paths for Multiple Robots</title>
+		<year>2007</year>
+		<authors>andreas krause,carlos guestrin,william j. kaiser,maxim a. batalin</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>34</label>
+		<keyword>Empirical Analysis;Environmental Monitoring;Measurement System;Mutual Information;np-hard problem;Path Planning;Resource Constraint;Branch and Bound;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>In many sensing applications, including environmental monitoring, measurement systems must cover a large space with only limited sensing resources. One approach to achieve required sensing coverage is to use robots to convey sensors within this space.Planning the motion of these robots - coordinating their paths in order to maxi- mize the amount of information collected while placing bounds on their</abstract>
+	</publication>
+	<publication>
+		<title>Nonmyopic Adaptive Informative Path Planning for Multiple Robots</title>
+		<year>2009</year>
+		<authors>andreas krause,william j. kaiser</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>34</label>
+		<keyword>Complex Dynamics;Objective Function;Optimal Path;Partial Observation;Path Planning;Search and Rescue;</keyword>
+		<organization>null</organization>
+		<abstract>Many robotic path planning applications, such as search and rescue, involve uncertain environments with complex dynamics that can be only partially observed. When selecting the best subset of ob- servation locations subject to constrained resources (such as limited time or battery capacity) it is an im- portant problem to trade off exploration (gathering information about the environment) and exploita- tion</abstract>
+	</publication>
+	<publication>
+		<title>The low power energy aware processing (LEAP)embedded networked sensor system</title>
+		<year>2006</year>
+		<authors>dustin mcintire,kei ho,bernie yip,winston h. wu,william j. kaiser</authors>
+		<jconf>Information Processing in Sensor Networks</jconf>
+		<label>34</label>
+		<keyword>Embedded Computing;Energy Dissipation;Environmental Monitoring;High Energy;Low Energy;Low Power;Sensor System;Signal Processing;Software Architecture;Statistical Computing;Wireless Network;Power Control;Peak Power;</keyword>
+		<organization>null</organization>
+		<abstract>A broad range of embedded networked sensor (ENS) systems for critical environmental monitoring applications now require complex, high peak power dissipating sensor devices, as well as on-demand high performance computing and high bandwidth communication. Embedded computing demands for these new platforms include support for computationally intensive image and signal processing as well as optimization and statistical computing. To meet these</abstract>
+	</publication>
+	<publication>
+		<title>Energy based path planning for a novel cabled robotic system</title>
+		<year>2008</year>
+		<authors>per henrik borgstrom,brett l. jordan,gaurav s. sukhatme,maxim a. batalin,william j. kaiser</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>34</label>
+		<keyword>Path Planning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiscale sensing with stochastic modeling</title>
+		<year>2009</year>
+		<authors>diane budzik,maxim a. batalin,william j. kaiser</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>34</label>
+		<keyword>Stochastic Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiscale Sensing: A new paradigm for actuated sensing of high frequency dynamic phenomena</title>
+		<year>2006</year>
+		<authors>diane budzik,willie chen,maxim a. batalin,michael j. stealey,per henrik borgstrom,william j. kaiser</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>34</label>
+		<keyword>Case Study;Distributed Sensing;High Frequency;Light Intensity;Medical Application;Mobile Robot;Precision Agriculture;Solar Radiation;</keyword>
+		<organization>null</organization>
+		<abstract>Many environmental applications require high fre- quency, spatiotemporally distributed phenomena to be sampled with high fidelity. This requires mobile sensing elements to perform guided sampling in regions of high variability. We propose here a multiscale approach for efficiently sampling such phenomena. This approach introduces a hierarchy of sensors according to the sampling fidelity, spatial coverage and mobility characteristics. In this</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Informative Sensing using Multiple Robots</title>
+		<year>2009</year>
+		<authors>andreas krause,carlos guestrin,william j. kaiser</authors>
+		<jconf>Journal of Artificial Intelligence Research</jconf>
+		<label>34</label>
+		<keyword>Approximate Algorithm;General Techniques;Mutual Information;Optimal Solution;Optimization Problem;Path Planning;Resource Constraint;Sensor Network;Simulation Experiment;Temporal Dynamics;Water Quality Monitoring;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>The need for efficient monitoring of spatio-temporal dynamics in large environmental applica- tions, such as the water quality monitoring in rivers and lakes, motivates the use of robotic sensors in order to achieve sufficient spatial coverage. Typically, these robots have bounded resources, such as limited battery or limited amounts of time to obtain measurements. Thus, careful coordination of their paths</abstract>
+	</publication>
+	<publication>
+		<title>Human assisted robotic team campaigns for aquatic monitoring</title>
+		<year>2007</year>
+		<authors>michael j. stealey,victor chen,william j. kaiser,maxim a. batalin,yeung lam,bin zhang,amit dhariwal,carl oberg,arvind pereira,gaurav s. sukhatme,beth stauffer,stefanie moorthi,david caron,mark h. hansen</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>34</label>
+		<keyword>Robot Team;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

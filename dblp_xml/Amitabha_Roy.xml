@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Amitabha Roy</FullName>
+	<publication>
+		<title>Improved Probabilistic Models for 802.11 Protocol Verification</title>
+		<year>2005</year>
+		<authors>k. gopinath</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>41</label>
+		<keyword>Collision Avoidance;Probabilistic Model;Probabilistic Model Checking;Protocol Verification;Timed Automata;Carrier Sense Multiple Access;Medium Access Control Layer;Wireless Local Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>The IEEE 802.11 protocol is a popular standard for wireless local area networks. Its medium access control layer (MAC) is a carrier sense multiple access with collision avoidance (CSMA/CA) design and includes an exponen- tial backoff mechanism that makes it a possible target for probabilistic model checking. In this work, we identify ways to increase the scope of application of</abstract>
+	</publication>
+	<publication>
+		<title>A runtime system for software lock elision</title>
+		<year>2009</year>
+		<authors>steven hand,timothy l. harris</authors>
+		<jconf>EuroSys</jconf>
+		<label>42</label>
+		<keyword>Critical Section;Garbage Collection;multi-core processor;Runtime System;Software Transactional Memory;Speculative Execution;</keyword>
+		<organization>null</organization>
+		<abstract>The advent of multi-core processors means that exploiting parallelism is key to increasing the performance of pro- grams. Many researchers have studied the use of atomic blocks as a way to simplify the construction of scalable par- allel programs. However, there is a large body of existing lock-based code, and typically it is incorrect to simply re- place lock-basedcritical sections</abstract>
+	</publication>
+	<publication>
+		<title>A transactional approach to lock scalability</title>
+		<year>2008</year>
+		<authors>keir fraser,steven hand</authors>
+		<jconf>ACM Symposium on Parallel Algorithms and Architectures</jconf>
+		<label>42</label>
+		<keyword>Conflict Detection;Data Structure;Optimistic Concurrency Control;Software Transactional Memory;Transactional Memory;</keyword>
+		<organization>null</organization>
+		<abstract>Most software transactional memory implementations execute code using fine-grained optimistic concurrency control. This does not perform well with low contention data structures where fine grained conflict detection means manipulating metadata for every object touched and optimistic concurrency control imposes the overhead of making thread private shadow copies. Also, a purely optimistic approach does not coexist naturally with legacy code that</abstract>
+	</publication>
+	<publication>
+		<title>Fast and Generalized Polynomial Time Memory Consistency Verification</title>
+		<year>2006</year>
+		<authors>stephan zeisset,charles j. fleckenstein,john c. huang</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>43</label>
+		<keyword>Consistency Model;Low Complexity;Memory Consistency;np-hard problem;Parallel Algorithm;Polynomial Time;Polynomial Time Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of verifying multi-threaded execution against the mem- ory consistency model of a processor is known to be an NP hard problem. How- ever polynomial time algorithms exist that detect almost all failures in such execu- tion. These are often used in practice for microprocessor verification. We present a low complexity and fully parallelized algorithm to check program execution</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Probabilistic Models for 802.11 Protocol Verification</title>
+		<year>2004</year>
+		<authors>k. gopinath</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>41</label>
+		<keyword>Model Checking;Probabilistic Model;Probabilistic Model Checking;Protocol Verification;Timed Automata;Carrier Sense Multiple Access;Medium Access Control Layer;Wireless Local Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>The IEEE 802.11 protocol is a popular standard for wireless local area networks. Its medium access control layer (MAC) is a carrier sense multiple access with col- lision avoidance (CSMA/CA) design and includes an ex- ponential backoff mechanism that makes it a possible tar- get for probabilistic model checking. In this work, we iden- tify ways to increase the scope</abstract>
+	</publication>
+</person>

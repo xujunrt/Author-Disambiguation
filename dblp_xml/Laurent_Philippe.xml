@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Laurent Philippe</FullName>
+	<publication>
+		<title>A Generic Process and its Tool Support towards Combining UML and B for Safety Critical Systems</title>
+		<year>2007</year>
+		<authors>akram idani,jean-louis boulanger</authors>
+		<jconf>Computer Applications in Industry and Engineering</jconf>
+		<label>505</label>
+		<keyword>Formal Method;Formation Techniques;Industrial Application;Information System;Large Scale;meta model;Model Driven Architecture;Safety Critical System;Semantic Mapping;Software Life Cycle;Software Systems;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The complex requirements of software systems justify the use of the best existing techniques to guar- antee the quality of speciflcations and to preserve this quality during the programming,phase of a software life-cycle. On the one hand, visual speciflcation lan- guages (such as UML) have been widely used for spec- ifying, visualizing, understanding and documenting software systems, but they</abstract>
+	</publication>
+	<publication>
+		<title>Linking Paradigms in Safety Critical Systems</title>
+		<year>2009</year>
+		<authors>akram idani,jean-louis boulanger</authors>
+		<jconf>International Journal of Computers and Their Applications</jconf>
+		<label>505</label>
+		<keyword>Safety Critical System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Shu</FullName>
+	<publication>
+		<title>Analysis of an Energy Conserving CSMA-CA</title>
+		<year>2007</year>
+		<authors>taka sakurai</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>233</label>
+		<keyword>Energy Conservation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework to Minimize Energy Consumption for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>taka sakurai,hai le vu,moshe zukerman</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>233</label>
+		<keyword>Energy Consumption;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ranging energy optimization for robust sensor positioning</title>
+		<year>2009</year>
+		<authors>tao wang,geert leus,dries neirynck,li huang</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>233</label>
+		<keyword>Energy Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Packet size optimization for goodput and energy efficiency enhancement in slotted IEEE 802.15.4 networks</title>
+		<year>2009</year>
+		<authors>yan zhang</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>233</label>
+		<keyword>Energy Efficient;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Topology and routing optimization for congestion minimization in optical wireless networks</title>
+		<year>2010</year>
+		<authors>iradj ouveysi,wei chen,gangxiang shen,moshe zukerman</authors>
+		<jconf>Optical Switching and Networking</jconf>
+		<label>233</label>
+		<keyword>Optical Wireless;Route Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image Super-Resolution Reconstruction using Multigrid and Krylov Subspace Accelerative Algorithm</title>
+		<year>2007</year>
+		<authors>yu bing han</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>234</label>
+		<keyword>Krylov Subspace;Super Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient and Robust Algorithm for Improving the Resolution of Video Sequences</title>
+		<year>2009</year>
+		<authors>yu bing han,rushan chen</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>234</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

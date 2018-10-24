@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan W&amp;ouml;lfl</FullName>
+	<publication>
+		<title>Uncentered (Absolute) Correlation Clustering Method Fit for Establishing Theoretical SAPK/JNK Signaling Pathway in Human Soft Tissue Sarcoma Samples</title>
+		<year>2006</year>
+		<authors>jinling zhang,yinghua lu,lin wang,hongxin zhang,bo zhang,yeqiu wang,kai wu</authors>
+		<jconf>Intelligent Data Engineering and Automated Learning</jconf>
+		<label>976</label>
+		<keyword>Clustering Method;Signaling Pathway;Soft Tissue Sarcoma;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Negative Localized Relationship Among p70S6 with Smad1, 2, 3 and p38 in Three Treated Human Cancer Cell Lines</title>
+		<year>2007</year>
+		<authors>lin wang,minghu jiang,yinghua lu</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>976</label>
+		<keyword>Cell Line;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

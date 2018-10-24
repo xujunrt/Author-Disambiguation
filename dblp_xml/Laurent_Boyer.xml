@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Laurent Boyer</FullName>
+	<publication>
+		<title>Learning Metrics Between Tree Structured Data: Application to Image Recognition</title>
+		<year>2007</year>
+		<authors>amaury habrard,marc sebban</authors>
+		<jconf>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</jconf>
+		<label>504</label>
+		<keyword>Image Recognition;Optimal Algorithm;Structured Data;Tree Edit Distance;Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of learning metrics between structured data (strings, trees or graphs) has been the subject of various recent papers. With regard to the specific case of trees, some approaches focused on the learning of edit probabilities required to compute a so-called stochas- tic tree edit distance. However, to reduce the algorithmic and learning constraints, the deletion and insertion operations</abstract>
+	</publication>
+	<publication>
+		<title>Learning Constrained Edit State Machines</title>
+		<year>2009</year>
+		<authors>olivier gandrillon,amaury habrard,mathilde pellerin,marc sebban</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>504</label>
+		<keyword>State Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SEDiL: Software for Edit Distance Learning</title>
+		<year>2008</year>
+		<authors>yann esposito,amaury habrard,josé oncina,marc sebban</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>504</label>
+		<keyword>Edit Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning probabilistic models of tree edit distance</title>
+		<year>2008</year>
+		<authors>marc bernard,amaury habrard,marc sebban</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>504</label>
+		<keyword>Computational Efficiency;Computer Music;Conditional Distribution;Discriminative Model;Expectation Maximization Algorithm;Generic Model;Machine Learning;Pattern Recognition;Probabilistic Approach;Probabilistic Model;Rna Secondary Structure Prediction;semi-structured data;Tree Edit Distance;Tree Structure;Web Information Extraction;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays, there is a growing interest in machine learning and pattern recognition for tree-structured data. Trees actually provide a suitable structural representation to deal with complex tasks such as web information extraction, RNA secondary structure prediction, computer music, or conversion of semi-structured data (e.g. XML documents). Many applications in these domains require the calculation of similarities over pairs of trees.</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sergey Chernov</FullName>
+	<publication>
+		<title>Application of MLP and stochastic simulations for electricity load forecasting in Russia</title>
+		<year>2000</year>
+		<authors>elena savelieva,alexey kravetski,vasiliy v. demyanov,vadim timonin,rafael v. arutyunyan,leonid aleksandrovich bolshov,mikhail f. kanevski</authors>
+		<jconf>The European Symposium on Artificial Neural Networks</jconf>
+		<label>927</label>
+		<keyword>Load Forecasting;Stochastic Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

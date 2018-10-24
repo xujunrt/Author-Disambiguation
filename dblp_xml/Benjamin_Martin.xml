@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Benjamin Martin</FullName>
+	<publication>
+		<title>RFID Distance Bounding Multistate Enhancement</title>
+		<year>2009</year>
+		<authors>gildas avoine,christian floerkemeier</authors>
+		<jconf>INDOCRYPT</jconf>
+		<label>72</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

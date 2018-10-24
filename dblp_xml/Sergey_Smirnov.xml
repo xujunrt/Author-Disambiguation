@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sergey Smirnov</FullName>
+	<publication>
+		<title>The Triconnected Abstraction of Process Models</title>
+		<year>2009</year>
+		<authors>artem polyvyanyy,mathias weske</authors>
+		<jconf>Business Process Management</jconf>
+		<label>929</label>
+		<keyword>Process Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Application of Structural Decomposition for Process Model Abstraction</title>
+		<year>2009</year>
+		<authors>artem polyvyanyy,mathias weske</authors>
+		<jconf>Business Process and Services Computing</jconf>
+		<label>929</label>
+		<keyword>Business Process Model;Process Model;</keyword>
+		<organization>null</organization>
+		<abstract>Real world business process models may consist of hundreds of elements and have sophisticated structure. Although there are tasks where such models are valu- able and appreciated, in general complexity has a negative influence on model compre- hension and analysis. Thus, means for managing the complexity of process models are needed. One approach is abstraction of business process models—creation of</abstract>
+	</publication>
+	<publication>
+		<title>Process Model Abstraction: A Slider Approach</title>
+		<year>2008</year>
+		<authors>artem polyvyanyy,mathias weske</authors>
+		<jconf>Enterprise Distributed Object Computing Conference</jconf>
+		<label>929</label>
+		<keyword>Business Process;Business Process Model;Coarse Grained;Process Model;</keyword>
+		<organization>null</organization>
+		<abstract>Process models provide companies efficient means for managing their business processes. Tasks where process models are employed are different by nature and require models of various abstraction levels. However, maintain- ing several models of one business process involves a lot of synchronization effort and is erroneous. Business process model abstraction assumes a detailed model of a process to be available</abstract>
+	</publication>
+	<publication>
+		<title>Action Patterns in Business Process Models</title>
+		<year>2009</year>
+		<authors>matthias weidlich,jan mendling,mathias weske</authors>
+		<jconf>International Conference on Service Oriented Computing</jconf>
+		<label>929</label>
+		<keyword>Association Rule Mining;Business Process;Business Process Management;Business Process Model;Process Model;Reference Model;</keyword>
+		<organization>null</organization>
+		<abstract>Business process management experiences a large uptake by the industry, and process models play an important role in the analysis and improvement of processes. While an increasing number of sta becomes involved in actual modeling practice, it is crucial to assure model quality and homogeneity along with providing suitable aids for creating models. In this paper we consider the problem</abstract>
+	</publication>
+	<publication>
+		<title>Reducing Complexity of Large EPCs</title>
+		<year>2008</year>
+		<authors>artem polyvyanyy,mathias weske</authors>
+		<jconf>Modellierung betrieblicher Informationssyteme, MobIS</jconf>
+		<label>929</label>
+		<keyword>Business Process;Event Driven Process Chain;Process Model;</keyword>
+		<organization>null</organization>
+		<abstract>Business processes are an important instrument for understanding and im- proving how companies provide goods and services to customers. Therefore, many companies have documented their business processes well, often in the Event-driven Process Chains (EPC). Unfortunately, in many cases the resulting EPCs are rather complex, so that the overall process logic is hidden in low level process details. This paper</abstract>
+	</publication>
+	<publication>
+		<title>Refactoring of Process Model Activity Labels</title>
+		<year>2010</year>
+		<authors>henrik leopold,jan mendling</authors>
+		<jconf>Applications of Natural Language to Data Bases</jconf>
+		<label>929</label>
+		<keyword>Process Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resolution of Compliance Violation in Business Process Models: A Planning-Based Approach</title>
+		<year>2009</year>
+		<authors>ahmed awad,mathias weske</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>929</label>
+		<keyword>Automated Planning;Business Process;Business Process Model;Process Model;</keyword>
+		<organization>null</organization>
+		<abstract>Keeping business processes compliant with regulations is of major im- portance for companies. Considering the huge number of models each company possesses, automation of compliance maintenance becomes essential. Therefore, many approaches focused on automation of various aspects of compliance prob- lem, e.g., compliance verification. Such techniques allow localizing the problem within the process model. However, they are not able to</abstract>
+	</publication>
+</person>

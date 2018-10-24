@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hiroshi Ishikawa</FullName>
+	<publication>
+		<title>Total Absolute Gaussian Curvature for Stereo Prior</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword>Gaussian Curvature;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>NaviPoint: an input device for mobile information browsing</title>
+		<year>1998</year>
+		<authors>kiyokuni kawachiya</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>284</label>
+		<keyword>Hand-held Device;Input Device;Mobile Computer;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Higher-order clique reduction in binary graph cut</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>284</label>
+		<keyword>Efficient Algorithm;Energy Minimization;Graph Cut;Image Restoration;Natural Images;Natural Scenes;First Order;Higher Order;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a new technique that can reduce any higher-order Markov random field with binary labels into a first-order one that has the same minima as the original. Moreover, we combine the reduction with the fusion-move and QPBO algorithms to optimize higher-order multi-label problems. While many vision problems today are formu- lated as energy minimization problems, they have mostly been</abstract>
+	</publication>
+	<publication>
+		<title>Multi-Scale Feature Selection in Stereo</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>284</label>
+		<keyword>Energy Function;Feature Selection;Geometric Constraints;Global Optimization;Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract>In binocular stereo matching, points in left and right images are matched according to features that characterize each point and identify pairs of points. When one tries to use multiple features, a difficult problem is which feature, or combination of features, to use. Moreover, features are difficult to cross- normalize and so comparisons must take into account not only their</abstract>
+	</publication>
+	<publication>
+		<title>Segmentation by Grouping Junctions</title>
+		<year>1998</year>
+		<authors>davi geiger</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>284</label>
+		<keyword>Computer Vision;Connected Component;Energy Function;Global Optimization;Maximum Flow;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a method for segmenting gray-value images. By segmentation, we mean a map from the set of pixels to a small set of levels such that each connected component of the set of pixels with the same level forms a relatively large and &quot;meaningful&quot; region. The method finds a set of levels with associated gray values by first finding</abstract>
+	</publication>
+	<publication>
+		<title>Rethinking the Prior Model for Stereo</title>
+		<year>2006</year>
+		<authors>davi geiger</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Occlusions, Discontinuities, and Epipolar Lines in Stereo</title>
+		<year>1998</year>
+		<authors>davi geiger</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword>Directed Graph;Geometric Constraints;Global Optimization;Global Solution;Maximum Flow;Optimization Problem;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>Binocular stereo is the process of obtaining depth information from a pair of left and right views of a scene. We present a new approach to compute the disparity map by solving a global optimization problem that models occlusions, discontinuities, and epipolar-line interac- tions. In the model, geometric constraints require every disparity discontinuity along the epipolar line in one eye</abstract>
+	</publication>
+	<publication>
+		<title>On the Semantics of GAEA</title>
+		<year>1998</year>
+		<authors>takuo watanabe,kokichi futatsugi,josé meseguer,hideyuki nakashima</authors>
+		<jconf>Fuji International Symposium on Functional and Logic Programming</jconf>
+		<label>284</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Development of an Education Tool for Computer System</title>
+		<year>2002</year>
+		<authors>yoshiro imai,shinji tomita,haruo niimi,hitoshi inomo,wataru shiraki</authors>
+		<jconf>International Conference on Computers in Education</jconf>
+		<label>284</label>
+		<keyword>Educational Tool;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding Tree Structures by Grouping Symmetries</title>
+		<year>2005</year>
+		<authors>davi geiger,richard cole</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword>Approximate Algorithm;Approximation Method;Dynamic Program;Human Body;Optimization Problem;Polynomial Time Algorithm;steiner tree problem;Tree Structure;Single Source Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The representation of objects in images as tree structures is of great interest to vision, as they can represent artic- ulated objects such as people as well as other structured objects like arteries in human bodies, roads, circuit board patterns, etc. Tree structures are often related to the symme- try axis representation of shapes, which captures their local symmetries.</abstract>
+	</publication>
+	<publication>
+		<title>Region Extraction from Multiple Images</title>
+		<year>2001</year>
+		<authors>ian jermyn</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword>Energy Function;Graph Algorithm;Polynomial Time;Multi Dimensional;Optical Flow;</keyword>
+		<organization>null</organization>
+		<abstract>We present a method for region identification in multi- ple images. A set of regions in different images and the correspondences on their boundaries can be thought of as a boundary in the multi-dimensional space formed by the product of the individual image domains. We minimize an energy functional on the space of such boundaries, thereby identifying simultaneously both the</abstract>
+	</publication>
+	<publication>
+		<title>Globally Optimal Regions and Boundaries</title>
+		<year>1999</year>
+		<authors>ian jermyn</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>284</label>
+		<keyword>Directed Graph;Energy Function;Global Optimization;Polynomial Time Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new form of energy functional for the seg- mentation of regions in images, and an efficient method for finding its global optima. The energy can have contribu- tions from both the region and its boundary, thus combin- ing the best features of region- and boundary-based ap- proaches to segmentation. By transforming the region en- ergy into a</abstract>
+	</publication>
+	<publication>
+		<title>Local quality assessment for optical coherence tomography</title>
+		<year>2008</year>
+		<authors>peter barnum,mei chen,gadi wollstein,joel schuman</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>284</label>
+		<keyword>Eye Disease;Image Quality Assessment;Indexing Terms;Optical Coherence Tomography;Optical Coherence Tomography Oct;Quality Assessment;Signal Strength;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Optical Coherence Tomography (OCT) is a non-invasive tool for visualizing the retina. It is increasingly used to diag- nose eye diseases such as glaucoma and diabetic maculopa- thy. However, diagnosis is only possible when the layers of the retina can be easily distinguished, which is when the im- ages are evenly illuminated. Automated OCT quality assess- ment (i.e. signal strength)</abstract>
+	</publication>
+	<publication>
+		<title>Automated Macular Pathology Diagnosis in Retinal OCT Images Using Multi-Scale Spatial Pyramid with Local Binary Patterns</title>
+		<year>2010</year>
+		<authors>yu-ying liu,mei chen,gadi wollstein,joel schuman,james m. rehg</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>284</label>
+		<keyword>Local Binary Pattern;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Correcting Motion Artifacts in Retinal Spectral Domain Optical Coherence Tomography via Image Registration</title>
+		<year>2009</year>
+		<authors>susanna ricco,mei chen,gadi wollstein,joel schuman</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>284</label>
+		<keyword>Image Registration;Motion Artifact;Optical Coherence Tomography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Higher-Dimensional Segmentation by Minimum-cut Algorithm</title>
+		<year>2005</year>
+		<authors>davi geiger</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>284</label>
+		<keyword>Automatic Segmentation;Connected Component;Graph Algorithm;Minimum Cut;</keyword>
+		<organization>null</organization>
+		<abstract>It is important in many applications of 3D and higher di- mensional segmentation that the resulting segments of vox- els are not required to have only one connected component, as in some of extant methods. Indeed, it is generally nec- essary to be able to automatically determine the appropri- ate number of connected components. More generally, for a larger class</abstract>
+	</publication>
+	<publication>
+		<title>Mapping image restoration to a graph problem</title>
+		<year>1999</year>
+		<authors>davi geiger</authors>
+		<jconf>Nonlinear Signal and Image Processing</jconf>
+		<label>284</label>
+		<keyword>Convex Function;Image Restoration;Optimal Method;Optimal Solution;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a graph optimization method for the restoration ofgray-scale images. We consider an arbitrary noise model for eachpixel location. We also consider a smooth constraint where thepotentials between neighbor pixels are convex functionals. Weshow how to map this problem to a directed flow graph. Then, aglobal optimal solution is obtained via the use of the maximumflowalgorithm. The algorithm runs</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Optical Path Switching for Ultra-Low Energy Consumption and Its Enabling Device Technologies</title>
+		<year>2008</year>
+		<authors>s. namiki,t. hasama,m. mori,m. watanabe</authors>
+		<jconf>Symposium on Applications and the Internet</jconf>
+		<label>284</label>
+		<keyword>Low Energy;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On a GUI-based Editor for Z Specifications and its Applications</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>285</label>
+		<keyword>Z Notation;</keyword>
+		<organization>null</organization>
+		<abstract>There are some problems to describe the for- mal Z notation using a standard text editor. One of the reasons is to use the non-standard fonts and the special symbols in the Z nota- tion, then making it di-cult to write Z docu- ments. This paper presents a solution to such problems. A prototype on a GUI-based editor for Z</abstract>
+	</publication>
+	<publication>
+		<title>An Approach for Refactoring using ESC/Java2 - A Simple Case Study</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Software Methodologies, Tools and Techniques</jconf>
+		<label>284</label>
+		<keyword>Case Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Representation and Measure of Structural Information</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>284</label>
+		<keyword>kolmogorov complexity;Measures of Information;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a uniform representation of general objects that captures the regu- larities with respect to their structure. It allows a repres entation of a general class of objects including geometric patterns and images in a sparse, modular, hierarchical, and recursive manner. The representation can exploit any computable regularity in objects to compactly describe them, while also being capable of</abstract>
+	</publication>
+	<publication>
+		<title>On-demand design service innovations</title>
+		<year>2004</year>
+		<authors>shigenori shimizu,akashi satoh,toru aihara</authors>
+		<jconf>Ibm Journal of Research and Development</jconf>
+		<label>284</label>
+		<keyword>Cost Reduction;Embedded Device;Embedded System;Field Programmable Gate Array;Intellectual Property;Network Configuration;Network Connectivity;Network Security;Power Dissipation;Satisfiability;Time To Market;</keyword>
+		<organization>null</organization>
+		<abstract>Offering design services for manufacturers of embedded devices has become a very important business, one in which the three leading customer requirements are time to market, integration of leading-edge technologies, and cost reduction; in short, on-demand design services. In this paper, we discuss on-demand design service innovations of several types. First, we discuss our unique field-programmable gate array (FPGA)-based system</abstract>
+	</publication>
+	<publication>
+		<title>All-Optical Demultiplexing from 160 to 40/80 Gb/s Using Mach-Zehnder Switches Based on Intersubband Transition of InGaAs/AlAsSb Coupled Double Quantum Wells</title>
+		<year>2009</year>
+		<authors>ryoichi akimoto,guangwei cong,masanori nagase,teruo mozume,hidemi tsuchida,t. hasama</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>284</label>
+		<keyword>Double Quantum Well;mach zehnder;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Impact of Intrinsic Parasitic Extraction Errors on Timing and Noise Estimation</title>
+		<year>2006</year>
+		<authors>toshiki kanamoto,shigekiyo akutsu,tamiyo nakabayashi,takahiro ichinomiya,koutaro hachiya,atsushi kurokawa,sakae muromoto,hiroyuki kobayashi,masanori hashimoto</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>284</label>
+		<keyword>Noise Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Exact Optimization for Markov Random Fields with Convex Priors</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>284</label>
+		<keyword>Directed Graph;Global Optimization;Minimum Cut;Polynomial Time;First Order;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a method to solve exactly a first order Markov Random Field optimiza- tion problem in more generality than was previously possible. The MRF shall have a prior term that is convex in terms of a linearly ordered label set. The method maps the problem into a minimum-cut problem for a directed graph, for which a globally optimal solution</abstract>
+	</publication>
+	<publication>
+		<title>Globally Optimal Regions and Boundaries as Minimum Ratio Weight Cycles</title>
+		<year>2001</year>
+		<authors>ian jermyn</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>284</label>
+		<keyword>Active Contour;Energy Function;Energy Minimization;Global Optimization;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a new form of energy functional for the modelling and identifica- tion of regions in images. The energy is defined on the space of boundaries in the image domain, and can incorporate very general combinationsof modelling information both from the boundary (intensity gradients,...), and from the interior of the region (texture, homo- geneity,...). We describe two polynomial-time digraph</abstract>
+	</publication>
+	<publication>
+		<title>A Specification Construction Unit-Based Editor for Z</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>285</label>
+		<keyword>Formal Specification;Type Checking;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a formal specification support- ing tool. It is designed on the basis of the specification reusability and the convenience to construct specifica- tion repository. The tool, called ZEditor, is designed for supporting the Z specification Two re- markable features of ZEditor are as follows. Firstly, focus attention on some specification construc- tion units so that ZEditor provides</abstract>
+	</publication>
+	<publication>
+		<title>On a GUI based Editor for the Z Notation</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>285</label>
+		<keyword>Z Notation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Prototype on GUI Based Editor for Z Specifications</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<label>285</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

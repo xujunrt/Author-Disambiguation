@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Panagiotis Papadimitriou</FullName>
+	<publication>
+		<title>A Model for Data Leakage Detection</title>
+		<year>2009</year>
+		<authors>hector garcia-molina</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>794</label>
+		<keyword>Distributed Objects;</keyword>
+		<organization>null</organization>
+		<abstract>We study the following problem: A data distributor has given sensitive data to a set of supposedly trusted agents (third parties). Some of the data is leaked and found in an unauthorized place (e.g., on the web or somebody's laptop). The distributor must assess the likelihood that the leaked data came from one or more agents, as opposed to having</abstract>
+	</publication>
+	<publication>
+		<title>Web graph similarity for anomaly detection (poster)</title>
+		<year>2008</year>
+		<authors>ali dasdan,hector garcia-molina</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>794</label>
+		<keyword>Anomaly Detection;Search Engine;Similarity Measure;Web Graph;</keyword>
+		<organization>null</organization>
+		<abstract>Web graphs are approximate snapshots of the web, created by search engines. Their creation is an error-prone proce- dure that relies on the availability of Internet nodes and the faultless operation of multiple software and hardware units. Checking the validity of a web graph requires a no- tion of graph similarity. Web graph similarity helps measure the amount and signicance</abstract>
+	</publication>
+	<publication>
+		<title>Web graph similarity for anomaly detection</title>
+		<year>2010</year>
+		<authors>ali dasdan,hector garcia-molina</authors>
+		<jconf></jconf>
+		<label>794</label>
+		<keyword>Anomaly Detection;Empirical Evaluation;Random Projection;Search Engine;Similarity Measure;Web Graph;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Web graphs are approximate snapshots of the web, created by search engines. They are essential to monitor the evolution of the web and to compute global properties like PageRank values of web pages. Their continuous monitoring requires a notion of graph similarity to help measure the amount and significance of changes in the evolving web. As a result, these measurements</abstract>
+	</publication>
+</person>

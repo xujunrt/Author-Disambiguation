@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Tong Wang</FullName>
+	<publication>
+		<title>Software Design Document, Testing, Deployment and Configuration Management of the UUIS--a Team 2 COMP5541-W10 Project Approach</title>
+		<year>2010</year>
+		<authors>omer shahid ahmad,faisal alrashdi,jason jun-duo chen,najah ilham,jianhai lu,yiwei sun,yongxin zhu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1023</label>
+		<keyword>Configuration Management;Design and Implementation;Requirement Specification;Software Design;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>The Software Design Document of UUIS describes the prototype design details of the system architecture, database layer, deployment and configuration details as well as test cases produced while working the design and implementation of the prototype. The requirements specification of UUIS are detailed in arXiv:1005.0783.</abstract>
+	</publication>
+	<publication>
+		<title>Software Requirements Specification of the IUfA's UUIS -- a Team 2 COMP5541-W10 Project Approach</title>
+		<year>2010</year>
+		<authors>omer shahid ahmad,faisal alrashdi,jason jun-duo chen,najah ilham,jianhai lu,yiwei sun,yongxin zhu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1023</label>
+		<keyword>Cost Estimation;Functional Requirement;Non-functional Requirement;Use Case;User Interface;Software Requirements Specification;</keyword>
+		<organization>null</organization>
+		<abstract>In the 52-page document, we describe our approach to the Software Requirements Specification of the IUfA's UUIS prototype. This includes the overall system description, functional requirements, non-functional requirements, use cases, the corresponding data dictionary for all entitiesinvolved, mock user interface (UI) design, and the overall projected cost estimate. The design specification of UUIS can be found in arXiv:1005.0665.</abstract>
+	</publication>
+</person>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniele Rossi</FullName>
+	<publication>
+		<title>On the adequacy of UML-RT for performance validation of an SDH telecommunication system</title>
+		<year>2005</year>
+		<authors>vittorio cortellessa,pierluigi pierini</authors>
+		<jconf>Object-Oriented Real-Time Distributed Computing</jconf>
+		<label>179</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Software Models and Platform Models for Performance Analysis</title>
+		<year>2007</year>
+		<authors>vittorio cortellessa,pierluigi pierini</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>179</label>
+		<keyword>Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Impact of XML schema evolution on valid documents</title>
+		<year>2005</year>
+		<authors>giovanna guerrini,marco mesiti</authors>
+		<jconf>Web Information and Data Management</jconf>
+		<label>180</label>
+		<keyword>Schema Evolution;Xml Document;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we investigate the problem of XML Schema evolution. We first discuss the different kinds of changes that may be needed on an XML Schema. Then, we investigate how to minimize document revalidation, that is, detecting the document parts potentially invalidated by the schema changes that should be revalidated.</abstract>
+	</publication>
+</person>

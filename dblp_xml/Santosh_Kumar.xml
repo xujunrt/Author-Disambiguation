@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Santosh Kumar</FullName>
+	<publication>
+		<title>Exploiting Asynchronous IO using the Asynchronous Iterator Model</title>
+		<year>2008</year>
+		<authors>suresh iyengar,s. sudarshan,raja agrawal</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>919</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Abstract Asynchronous IO (AIO) allows a process to continue to do other work while an IO operation initiated ear- lier completes. AIO allows a large number of random IO operations to be issued at once, allowing the disk subsystem to order access to data on disk, reducing av- erage seek times considerably, as well as allowing much better utilization of</abstract>
+	</publication>
+</person>

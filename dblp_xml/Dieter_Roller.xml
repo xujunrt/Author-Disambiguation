@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dieter Roller</FullName>
+	<publication>
+		<title>A. Schneider: Realisierung einer modernen ECAD-Systemarchitektur in Anlehnung an das CAD-Referenzmodell</title>
+		<year>1996</year>
+		<authors>b. dettlaff</authors>
+		<jconf>Rechnerunterst��tztes Entwerfen und Konstruieren</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualisation of Semantic Networks and Ontologies Using AutoCAD</title>
+		<year>2004</year>
+		<authors>marian mesina,constanza lampasona</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>206</label>
+		<keyword>Data Retrieval;Semantic Network;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a visualisation of the ASN and ontologies using AutoCAD. The geometric coordinates of nodes are based on the semantic distances. The whole semantic network or some selected parts are visualised on the screen, similar to a cartographic &quot;map&quot;. Per mo use click on some node, an application may be opened, which allows reading and modifying the attributes</abstract>
+	</publication>
+	<publication>
+		<title>Concurrency Control and Locking in Knowledge Base for Rapid Product Development</title>
+		<year>2005</year>
+		<authors>marian mesina,constanza lampasona</authors>
+		<jconf>Cooperative Design, Visualization, and Engineering</jconf>
+		<label>206</label>
+		<keyword>Concurrency Control;Concurrent Engineering;Knowledge Base;Product Development;Rapid Prototyping;Semantic Network;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Rapid Product Development (RPD) is a product-development technique that includes experts collaborating in a multi-disciplinary environment. Products consist of components. A component can be used in various products. These can be represented by a net work structure (semantic network) consisting of vertices (objects) and edges (relations). Modifying a vertex can change other vertices within the network . In the Active</abstract>
+	</publication>
+	<publication>
+		<title>Integrating Molecular Modeling Tools and Virtual Reality Engines: An Architecture for a Highly Immersive Molecular Modeling (HIMM) Environment</title>
+		<year>1998</year>
+		<authors>robert c. drees,jürgen pleiss,rolf d. schmid</authors>
+		<jconf>Computer Graphics International</jconf>
+		<label>206</label>
+		<keyword>Molecular Modeling;Virtual Reality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New ECAD System Technology</title>
+		<year>1995</year>
+		<authors>ulrich mink</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CAD</title>
+		<year>1993</year>
+		<authors>hans hagen</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Variational Design in Electrical Engineering - An Extension of Parametric Modeling</title>
+		<year>1998</year>
+		<authors>dirk schäfer</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>206</label>
+		<keyword>Electrical Engineering;Parametric Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Conversion of Dupin Cyclide into Principal Patches</title>
+		<year>1995</year>
+		<authors>xiaolin zhou</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Shape Information in Industry Specific Product Data Model</title>
+		<year>1992</year>
+		<authors></authors>
+		<jconf>Geometric Modelling</jconf>
+		<label>206</label>
+		<keyword>Data Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solid Modeling with Constrained Form Features</title>
+		<year>1993</year>
+		<authors></authors>
+		<jconf>Geometric Modelling</jconf>
+		<label>206</label>
+		<keyword>Solid Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sketching Editor for Engineering Design</title>
+		<year>1993</year>
+		<authors>markus stolpmann</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>206</label>
+		<keyword>Engineering Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive hypermediale Informationsaufbereitung in betrieblichen Informationssystemen</title>
+		<year>1995</year>
+		<authors>monika bihler,markus stolpmann</authors>
+		<jconf>Hypertext, Information Retrieval, Multimedia</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Method for Interpreting Pixel Grey Levels in Digital Mammography</title>
+		<year>2006</year>
+		<authors>constanza lampasona</authors>
+		<jconf>International Conference on Image Analysis and Recognition</jconf>
+		<label>206</label>
+		<keyword>Digital Mammography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GRIPSS: A Graphical Idea-Processing &amp; Sketching System</title>
+		<year>1993</year>
+		<authors>markus stolpmann</authors>
+		<jconf>IFIP WG5.10 Publications</jconf>
+		<label>206</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Representation and Conversion of Dimension Units in CAD Data Models</title>
+		<year>2000</year>
+		<authors>o. eck,b. rieg,dirk schäfer</authors>
+		<jconf>Knowledge Intensive CAD</jconf>
+		<label>206</label>
+		<keyword>Data Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Learning Agent for Knowledge Extraction from an Active Semantic Network</title>
+		<year>2005</year>
+		<authors>simon thiel,stavros dalakakis</authors>
+		<jconf>Enformatika Conferences</jconf>
+		<label>206</label>
+		<keyword>Knowledge Extraction;Reinforcement Learning;Semantic Network;</keyword>
+		<organization>null</organization>
+		<abstract>This paper outlines the development of a learning retrieval agent. Task of this agent is to extract k nowledge of the Active Semantic Network in respect to user-requests . Based on a reinforcement learning approach, the agent learns t o interpret the user's intention. Especially, the learning algorith m focuses on the retrieval of complex long distant relations. Increa sing</abstract>
+	</publication>
+	<publication>
+		<title>Multiagentensystem zur Wissenskommunikation in der Produktentstehung - Rapid Product Development</title>
+		<year>2005</year>
+		<authors>stavros dalakakis,michael diederich,joachim warschat</authors>
+		<jconf>Wirtschaftsinformatik</jconf>
+		<label>206</label>
+		<keyword>Product Development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An approach to computer-aided parametric design</title>
+		<year>1991</year>
+		<authors></authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>206</label>
+		<keyword>Parametric Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selecting and parameterising components using knowledge based configuration and a heuristic that learns and forgets</title>
+		<year>2003</year>
+		<authors>ingo kreuz</authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>206</label>
+		<keyword>Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rule-oriented method for parameterized computer-aided design</title>
+		<year>1992</year>
+		<authors>anne verroust,f. schonek</authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>206</label>
+		<keyword>Computer Aided Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Relevant Knowledge First - Reinforcement Learning and Forgetting in Knowledge Based Configuration</title>
+		<year>2001</year>
+		<authors>ingo kreuz</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>206</label>
+		<keyword>configural processing;Knowledge Base;Learning Process;Machine Learning;Reinforcement Learning;Expert System;</keyword>
+		<organization>null</organization>
+		<abstract>In order to solve complex configuration tasks in technical domains, various knowledge based methods have been developed. However their applicability is often unsuccessful due to their low efficiency. One of the reasons for this is that (parts of the) problems have to be solved again and again, instead of being &quot;learnt&quot; from preceding processes. However, learning processes bring with them</abstract>
+	</publication>
+	<publication>
+		<title>Integrated version and transaction group model for shared engineering databases</title>
+		<year>2002</year>
+		<authors>o. eck,stavros dalakakis</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>206</label>
+		<keyword>Advanced Transaction Model;Concurrency Control;Product Design;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract</abstract>
+	</publication>
+</person>

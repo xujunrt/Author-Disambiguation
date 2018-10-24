@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Song Zhang</FullName>
+	<publication>
+		<title>High Resolution Tracking of Non-Rigid 3D Motion of Densely Sampled Data Using Harmonic Maps</title>
+		<year>2005</year>
+		<authors>yang wang,mohit gupta,sen wang,xianfeng gu,dimitris samaras,peisen huang</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>959</label>
+		<keyword>Geometric Feature;Harmonic Map;High Resolution;Motion Tracking;Phase Shift;Point Cloud;Structured Light;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel fully automatic method for high res- olution, non-rigid dense 3D point tracking. High qual- ity dense point clouds of non-rigid geometry moving at video speeds are acquired using a phase-shifting structured light ranging technique. To use such data for the temporal study of subtle motions such as those seen in facial expres- sions, an efficient non-rigid</abstract>
+	</publication>
+	<publication>
+		<title>High Resolution Acquisition, Learning and Transfer of Dynamic 3D Facial Expressions</title>
+		<year>2004</year>
+		<authors>yang wang,xiaolei huang,chan-su lee,zhiguo li,dimitris samaras,dimitris n. metaxas,ahmed m. elgammal,peisen huang</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>959</label>
+		<keyword>Facial Animation;Facial Expression;High Resolution;High Speed;Motion Analysis;Multi Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>Synthesis and re-targeting of facial expressions is central to facial animation and often involves significant manual work in order to achieve realistic expressions, due to the difficulty of capturing high quality dynamic expression data. In this paper we address fundamental issues regarding the use of high quality dense 3-D data samples un- dergoing motions at video speeds, e.g. human facial</abstract>
+	</publication>
+	<publication>
+		<title>High Resolution Tracking of Non-Rigid Motion of Densely Sampled 3D Data Using Harmonic Maps</title>
+		<year>2008</year>
+		<authors>yang wang,mohit gupta,sen wang,xianfeng gu,dimitris samaras,peisen huang</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>959</label>
+		<keyword>Harmonic Map;High Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

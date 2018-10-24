@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jo&amp;atilde;o Carlos Silva</FullName>
+	<publication>
+		<title>Combining Formal Methods and Functional Strategies Regarding the Reverse Engineering of Interactive Applications</title>
+		<year>2006</year>
+		<authors>josé creissac campos,joão saraiva</authors>
+		<jconf>Design, Specification, and Verification of Interactive Systems</jconf>
+		<label>426</label>
+		<keyword>Case Study;Formal Method;Graphic User Interface;Interactive Application;Reverse Engineering;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Graphical user interfaces (GUIs) make software easy to use by providing the user with visual controls. Therefore, correctness of GUI's code is essential to the correct execution of the overall software. Models can help in the evaluation of interactive applications by allow- ing designers to concentrate on its more important aspects. This paper describes our approach to reverse engineer an</abstract>
+	</publication>
+	<publication>
+		<title>The GUISurfer tool: towards a language independent approach to reverse engineering GUI code</title>
+		<year>2010</year>
+		<authors>carlos c. silva,rui d. gonçalo,joão saraiva,josé creissac campos</authors>
+		<jconf></jconf>
+		<label>426</label>
+		<keyword>Graphic User Interface;Interactive System;Reverse Engineering;Software Development;Source Code;</keyword>
+		<organization>null</organization>
+		<abstract>Graphical user interfaces (GUIs) are critical components of today's software. Developers are dedicating a larger portion of code to implementing them. Given their increased importance, correctness of GUIs code is becoming essential. This paper describes the latest results in the development of GUISurfer, a tool to reverse engineer the GUI layer of interactive computing systems. The ultimate goal of the</abstract>
+	</publication>
+	<publication>
+		<title>A generic library for GUI reasoning and testing</title>
+		<year>2009</year>
+		<authors>joão saraiva,josé creissac campos</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>426</label>
+		<keyword>Behavior Modeling;Fault Detection;Generic Model;Graphic User Interface;Interactive Application;Model Based Testing;Reverse Engineering;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Graphical user interfaces (GUIs) make software easy to use by providing the user with visual controls. Therefore, correctness of GUI's code is essential to the correct execution of the overall software. Models can help in the evaluation of interactive applications by allowing designers to concentrate on its more important aspects. This paper presents a generic model for language-independent reverse engineering</abstract>
+	</publication>
+</person>

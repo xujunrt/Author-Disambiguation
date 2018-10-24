@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>M. Rahman</FullName>
+	<publication>
+		<title>Molecular dynamics simulation of the effect of tool edge radius on cutting forces and cutting region in nanoscale ductile cutting of silicon</title>
+		<year>2005</year>
+		<authors>m. b. cai,x. p. li</authors>
+		<jconf>International Journal of Manufacturing Technology and Management</jconf>
+		<label>762</label>
+		<keyword>Cutting Force;Molecular Dynamic Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature Extraction and Selection in Tool Condition Monitoring System</title>
+		<year>2002</year>
+		<authors>sun jie,g. s. hong,yoke-san wong</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>762</label>
+		<keyword>Condition Monitoring;Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Application of Nonstandard Support Vector Machine in Tool Condition Monitoring System</title>
+		<year>2004</year>
+		<authors>j. sun,g. s. hong,yoke-san wong</authors>
+		<jconf>Workshop on Electronic Design, Test and Applications</jconf>
+		<label>762</label>
+		<keyword>Condition Monitoring;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-niche crowding in the development of parallel genetic simulated annealing</title>
+		<year>2005</year>
+		<authors>zhi-gang wang,yoke-san wong</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>762</label>
+		<keyword>Genetic Algorithm;Genetics;Parallel Genetic Algorithm;Simulated Annealing;Breeder Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, a new hybrid of genetic algorithm (GA) and simulated annealing (SA), referred to as GSA, is presented. In this algorithm, SA is incorporated into GA to escape from the local optima. Then, the idea of hierarchical parallel GA is borrowed to parallelize GSA for the optimization of multimodal functions. In addition, multi-niche crowding is used to maintain</abstract>
+	</publication>
+	<publication>
+		<title>Molecular dynamics modelling and simulation of nanoscale ductile cutting of silicon</title>
+		<year>2007</year>
+		<authors>minbo cai,xiaoping li</authors>
+		<jconf>Journal of Computer Applications in Technology</jconf>
+		<label>762</label>
+		<keyword>Modelling and Simulation;Molecular Dynamic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Study of WEDM parameter phenomena for microfabrication</title>
+		<year>2008</year>
+		<authors>sadiq m. alam,h. s. lim</authors>
+		<jconf>International Journal of Manufacturing Technology and Management</jconf>
+		<label>762</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Development of a parallel optimization method based on genetic simulated annealing algorithm</title>
+		<year>2005</year>
+		<authors>zhi-gang wang,yoke-san wong</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>762</label>
+		<keyword>Genetics;Optimal Method;Parallel Genetic Algorithm;Performance Evaluation;Simulated Annealing;Simulated Annealing Algorithm;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a parallel genetic simulated annealing (PGSA) algorithm that has been developed and applied to optimize continuous problems. In PGSA, the entire population is divided into subpopulations, and in each subpopulation the algorithm uses the local search ability of simulated annealing after crossover and mutation. The best individuals of each subpopulation are migrated to neighboring ones after certain</abstract>
+	</publication>
+	<publication>
+		<title>Brain Image Registration Analysis Workflow for fMRI Studies on Global Grids</title>
+		<year>2009</year>
+		<authors>suraj pandey,william voorsluys,rajkumar buyya,james dobson,kenneth chiu</authors>
+		<jconf>Advanced Information Networking and Applications</jconf>
+		<label>763</label>
+		<keyword>Brain Imaging;Data Analysis;Distributed Computing;Functional Magnetic Resonance Images;Middleware;Resource Use;Scientific Application;</keyword>
+		<organization>null</organization>
+		<abstract>Scientific applications like neuroscience data analysis are usually compute and data-intensive. With the use of the additional capacity offered by distributed resources and suitable middlewares, we can achieve much shorter exe- cution time, distribute compute and storage load, and add greater flexibility to the execution of these scientific appli- cations than we could ever achieve in a single compute re-</abstract>
+	</publication>
+	<publication>
+		<title>An Autonomic Workflow Management System for Global Grids</title>
+		<year>2008</year>
+		<authors>rajkumar buyya</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>763</label>
+		<keyword>Autonomic Computing;Design and Development;Fault Tolerant;Holistic Approach;Workflow Management System;</keyword>
+		<organization>null</organization>
+		<abstract>Workflow Management System is generally utilized to define, manage and execute workflow applications on Grid resources. However, the increasing scale complexity, heterogeneity and dynamism of Grid environment that includes networks, resources and applications have made such workflow management systems brittle, unmanageable and insecure. Auto- nomic computing provides a holistic approach for the design and development of systems/applications that can adapt</abstract>
+	</publication>
+	<publication>
+		<title>A Decentralized and Cooperative Workflow Scheduling Algorithm</title>
+		<year>2008</year>
+		<authors>rajiv ranjan,rajkumar buyya</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>763</label>
+		<keyword>P2P;Peer To Peer;Resource Discovery;Scheduling Algorithm;trace-driven simulation;</keyword>
+		<organization>null</organization>
+		<abstract>In the current approaches to workflow scheduling, there is no cooperation between the distributed workflow brokers and as a result, the problem of conflicting schedules occur. To overcome this problem, in this paper, we propose a decentralized and cooperative workflow scheduling algorithm. The proposed approach utilizes a Peer-to-Peer (P2P) coordination space with respect to coordinating the application schedules among the</abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Critical Path Algorithm for Scheduling Scientific Workflow Applications on Global Grids</title>
+		<year>2007</year>
+		<authors>srikumar venugopal,rajkumar buyya</authors>
+		<jconf>e-Science and Grid Computing</jconf>
+		<label>763</label>
+		<keyword>Critical Path;Grid Applications;Resource Availability;Scheduling Algorithm;Scientific Workflow;Task Graphs;</keyword>
+		<organization>null</organization>
+		<abstract>Effective scheduling is a key concern for the execution of performance driven Grid applications. In this paper, we propose a Dynamic Critical Path (DCP) based workflow scheduling algorithm that determines effi- cient mapping of tasks by calculating the critical path in the workflow task graph at every step. It assigns priority to a task in the critical path which is</abstract>
+	</publication>
+	<publication>
+		<title>A grid workflow environment for brain imaging analysis on distributed systems</title>
+		<year>2009</year>
+		<authors>suraj pandey,william voorsluys,rajkumar buyya,james dobson,kenneth chiu</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>763</label>
+		<keyword>Brain Imaging;Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cooperative and decentralized workflow scheduling in global grids</title>
+		<year>2010</year>
+		<authors>rajiv ranjan,rajkumar buyya</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>763</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pilgrim's OSF DCE-based Services Architecture</title>
+		<year>1993</year>
+		<authors>j. david narkiewicz,mahesh girkar,manoj srivastava,arthur s. gaylord</authors>
+		<jconf>Distributed Computing Environment</jconf>
+		<label>764</label>
+		<keyword>Case Study;Distributed Computing Environment;Operating System;Service Architecture;System Architecture;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract>Within a heterogeneous distributed computing environment, it is necessary to inte- grate services, such as printing and mail, that are scattered throughout the environment and which perform single logical tasks. This paper discusses a general purpo se archi- tecture which provides a framework for designing complex multi-user systems capable of interfacing with these services. The merits of this generalized approach</abstract>
+	</publication>
+	<publication>
+		<title>A Performance Study of an Object-Oriented, Parallel Operating System</title>
+		<year>1994</year>
+		<authors>david r. kohr jr.,xingbin zhang,daniel a. reed</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>764</label>
+		<keyword>Data Capture;Object Oriented;Operating System;Parallel Applications;Parallel Systems;</keyword>
+		<organization>null</organization>
+		<abstract>The nascent and rapidly evolving state of parallelsystems often leaves parallel application developers atthe mercy of inefficient, inflexible operating systemsoftware. To assess the feasibility of performance tuningvia malleable system software and to understandthe performance penalties for detailed operating systemperformance data capture, we describe a set ofperformance experiments with Choices, an experimental,object-oriented operating system designed for usewith parallel systems.1 ...</abstract>
+	</publication>
+	<publication>
+		<title>The Performance of an Object-Oriented, Parallel Operating System</title>
+		<year>1994</year>
+		<authors>david r. kohr jr.,xingbin zhang,daniel a. reed</authors>
+		<jconf>Scientific Programming</jconf>
+		<label>764</label>
+		<keyword>Object Oriented;Operating System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Camera Calibration Technique Based on a Rotating Planar Complex Object with a Fixed Point</title>
+		<year>2007</year>
+		<authors>gang xu</authors>
+		<jconf>International Conference on Artificial Reality and Telexistence</jconf>
+		<label>765</label>
+		<keyword>Camera Calibration;Complex Objects;Fixed Point;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

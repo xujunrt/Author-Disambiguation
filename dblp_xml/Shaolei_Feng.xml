@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shaolei Feng</FullName>
+	<publication>
+		<title>Mosaic Representations of Video Shots Based on Slice Image Analysis</title>
+		<year>2000</year>
+		<authors>hanqing lu,dalong li</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>941</label>
+		<keyword>Image Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mosaic representations of video sequences based on slice image analysis</title>
+		<year>2002</year>
+		<authors>hanqing lu,songde ma</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>941</label>
+		<keyword>Image Analysis;Least Squares Estimate;Moving Object;</keyword>
+		<organization>null</organization>
+		<abstract>There has been a lot of activity recently surrounding the mosaic representation of video sequences. However, existing mosaic methods have in general a strong limitation. They are prone to converge to a local minimum in least-squares estimation, especially when large image motion exists between two consecutive frames or there are too many outliers, for example, when large moving objects appear</abstract>
+	</publication>
+</person>

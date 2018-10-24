@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mark Fisher</FullName>
+	<publication>
+		<title>LIRVA virus</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Computers &amp; Security</jconf>
+		<label>621</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

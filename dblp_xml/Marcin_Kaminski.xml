@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marcin Kaminski</FullName>
+	<publication>
+		<title>Some Notes on Numerical Convergence of the Stochastic Perturbation Method</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>614</label>
+		<keyword>Perturbation Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiresolutional Techniques in Finite Element Method Solution of Eigenvalue Problem</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>614</label>
+		<keyword>Eigenvalue Problem;Finite Element Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Numerical probabilistic approach to sensitivity analysis in a fatigue delamination problem of a two layer composite</title>
+		<year>2009</year>
+		<authors>lukasz figiel</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>614</label>
+		<keyword>Probabilistic Approach;Sensitivity Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of the OBD method for optimization of neural state variable estimators of the two-mass drive system</title>
+		<year>2009</year>
+		<authors>teresa orlowska-kowalska</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>615</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

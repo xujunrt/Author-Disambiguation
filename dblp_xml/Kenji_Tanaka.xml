@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kenji Tanaka</FullName>
+	<publication>
+		<title>Super high definition image (WHD: Wide/Double HD) transmission system</title>
+		<year>2002</year>
+		<authors>kenji suzuki,masahito sato,yoshiki arakawa</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<label>494</label>
+		<keyword>High Definition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Maximum Mutual Information of Space-Time Block Codes with Symbolwise Decodability</title>
+		<year>2004</year>
+		<authors>ryutaroh matsumoto,tomohiko uyematsu</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>495</label>
+		<keyword>Error Probability;Maximum Likelihood Decoding;Space Time Block Code;Upper Bound;Maximum Mutual Information;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we analyze the performance of space-time block codes which enable symbolwise maximum likeli- hood decoding. We derive an upper bound of maximum mutual information (MMI) on space-time block codes that enable symbolwise maximum likelihood decoding for a frequency non-selective quasi-static fading chan- nel. MMI is an upper bound on how much one can send information with vanishing</abstract>
+	</publication>
+</person>

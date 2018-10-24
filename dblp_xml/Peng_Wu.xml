@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peng Wu</FullName>
+	<publication>
+		<title>Symbolic Test Generation Using a Temporal Logic with Constrained Events</title>
+		<year>2007</year>
+		<authors>daguang liu,huimin lin</authors>
+		<jconf>Birthday ...</jconf>
+		<label>805</label>
+		<keyword>Temporal Logic;Test Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Metamorphic Testing</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>805</label>
+		<keyword>Metamorphic Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compositional Modelling and Verification of IPv6 Mobility</title>
+		<year>2005</year>
+		<authors>dongmei zhang</authors>
+		<jconf>Formal Techniques for Networked and Distributed Systems</jconf>
+		<label>805</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Measuring Anonymity with Relative Entropy</title>
+		<year>2006</year>
+		<authors>yuxin deng,jun pang</authors>
+		<jconf>Workshop on Issues in the Theory of Security</jconf>
+		<label>805</label>
+		<keyword>Process Calculus;Relative Entropy;</keyword>
+		<organization>null</organization>
+		<abstract>Anonymity is the property of maintaining secret the iden- tity of users performing a certain action. Anonymity protocols often use random mechanisms which can be described probabilistically. In this pa- per, we propose a probabilistic process calculus to describe protocols for ensuring anonymity, and we use the notion of relative entropy from infor- mation theory to measure the degree of</abstract>
+	</publication>
+	<publication>
+		<title>Model checking the probabilistic pi-calculus</title>
+		<year>2007</year>
+		<authors>gethin norman,catuscia palamidessi,david parker</authors>
+		<jconf>Quantitative Evaluation of Systems</jconf>
+		<label>806</label>
+		<keyword>Automated Verification;Case Study;Formal Verification;Large Classes;Mobile Ad Hoc Network;Model Checking;Probabilistic Model;Security Protocol;Markov Decision Process;Process Algebra;</keyword>
+		<organization>null</organization>
+		<abstract>We present an implementation of model checking for the probabilistic -calculus, a process algebra which supports modelling of concurrency, mobility and discrete probabilis- tic behaviour. Formal verification techniques for this cal- culus have clear applications in several domains, includ- ing mobile ad-hoc network protocols and random security protocols. Despite this, no implementation of automated verification exists. Building upon the (non-probabilistic)</abstract>
+	</publication>
+	<publication>
+		<title>Symbolic Bisimulations for Probabilistic Systems</title>
+		<year>2007</year>
+		<authors>catuscia palamidessi,huimin lin</authors>
+		<jconf>Quantitative Evaluation of Systems</jconf>
+		<label>805</label>
+		<keyword>Probabilistic System;Quantitative Evaluation;State Space;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>The paper introduces symbolic bisimulations for a sim- ple probabilistic π-calculus to overcome the infinite branch- ing problem that still exists in checking ground bisimula- tions between probabilistic systems. Especially the defini- tion of weak (symbolic) bisimulation does not rely on the random capability of adversaries and suggests a solution to the open problem on the axiomatization for weak bisimula-</abstract>
+	</publication>
+	<publication>
+		<title>Model-Based Testing of Concurrent Programs with Predicate Sequencing Constraints</title>
+		<year>2005</year>
+		<authors>huimin lin</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>805</label>
+		<keyword>Concurrent Programs;Model Based Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Checking Optimisation Based Congestion Control Algorithms</title>
+		<year>2010</year>
+		<authors>alessio lomuscio,ben strulo,nigel g. walker</authors>
+		<jconf>Fundamenta Informaticae</jconf>
+		<label>806</label>
+		<keyword>Congestion Control;Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model-based Testing of Concurrent Programs with Predicate Sequencing Constraints</title>
+		<year>2006</year>
+		<authors>huimin lin</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<label>806</label>
+		<keyword>Concurrent Programs;Model Based Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Model Checking Probabilistic and Stochastic Extensions of the pi-Calculus</title>
+		<year>2009</year>
+		<authors>gethin norman,catuscia palamidessi,david parker</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>805</label>
+		<keyword>Case Study;Formal Verification;Indexing Terms;Markov Process;Mobile Ad Hoc Network;Model Checking;Probabilistic Model;Security Protocol;Semantic Model;Stochastic Calculus;Stochastic Process;Process Algebra;Verification Model;</keyword>
+		<organization>null</organization>
+		<abstract>We present an implementation of model checking for probabilistic and stochastic extensions of the -calculus, a process algebra which supports modelling of concurrency and mobility. Formal verification techniques for such extensions have clear applications in several domains, including mobile ad-hoc network protocols, probabilistic security protocols and biological pathways. Despite this, no implementation of automated verifi- cation exists. Building upon the</abstract>
+	</publication>
+</person>

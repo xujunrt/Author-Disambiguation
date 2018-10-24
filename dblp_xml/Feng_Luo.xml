@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Luo</FullName>
+	<publication>
+		<title>Discrete Curvature Flows for Surfaces and 3-Manifolds</title>
+		<year>2008</year>
+		<authors>xiaotian yin,miao jin,xianfeng david gu</authors>
+		<jconf></jconf>
+		<label>232</label>
+		<keyword>Computer Aided Design;Computer Graphic;Computer Vision;hyperbolic 3-manifold;Medical Image;Numerical Algorithm;Ricci Flow;riemannian metric;</keyword>
+		<organization>null</organization>
+		<abstract>Intrinsic curvature flows can be used to design Riemannian metrics by prescribed curvatures. This chapter presents three discrete curvature flow methods that are recently introduced into the engineer- ing fields: the discrete Ricci flow and discrete Yamabe flow for surfaces with various topology, and the discrete curvature flow for hyperbolic 3- manifolds with boundaries. For each flow, we introduce its</abstract>
+	</publication>
+	<publication>
+		<title>Recent Advances in Computational Conformal Geometry</title>
+		<year>2009</year>
+		<authors>xianfeng david gu,shing-tung yau</authors>
+		<jconf>IMA Conference on the Mathematics of Surfaces</jconf>
+		<label>232</label>
+		<keyword>Conformal Geometry;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Surface Quasi-Conformal Mapping by Solving Beltrami Equations</title>
+		<year>2009</year>
+		<authors>wei zeng,shing-tung yau,xianfeng david gu</authors>
+		<jconf>IMA Conference on the Mathematics of Surfaces</jconf>
+		<label>232</label>
+		<keyword>Conformal Map;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resilient Routing for Sensor Networks Using Hyperbolic Embedding of Universal Covering Space</title>
+		<year>2010</year>
+		<authors>wei zeng,rik sarkar,xianfeng gu,jie gao</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>232</label>
+		<keyword>Covering Space;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Greedy routing with guaranteed delivery using Ricci flows</title>
+		<year>2009</year>
+		<authors>rik sarkar,xiaotian yin,jie gao,xianfeng david gu</authors>
+		<jconf>Information Processing in Sensor Networks</jconf>
+		<label>232</label>
+		<keyword>Conformal Map;Model Simulation;Ricci Flow;Sensor Nodes;Unit Disk Graph;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Greedy forwarding with geographical locations in a wireless sensor network may fail at a local minimum. In this paper we propose to use conformal mapping to compute a new em- bedding of the sensor nodes in the plane such that greedy for- warding with the virtual coordinates guarantees delivery. In particular, we extract a planar triangulation of the sensor net-</abstract>
+	</publication>
+	<publication>
+		<title>Computing Fundamental Group of General 3Manifold</title>
+		<year>2008</year>
+		<authors>junho kim,miao jin,qian-yi zhou,xianfeng gu</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>232</label>
+		<keyword>Fundamental Group;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing and Visualizing Constant-Curvature Metrics on Hyperbolic 3-Manifolds with Boundaries</title>
+		<year>2008</year>
+		<authors>xiaotian yin,miao jin,xianfeng david gu</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>232</label>
+		<keyword>hyperbolic 3-manifold;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing surface hyperbolic structure and real projective structure</title>
+		<year>2006</year>
+		<authors>miao jin,xianfeng gu</authors>
+		<jconf>Symposium on Solid Modeling and Applications</jconf>
+		<label>232</label>
+		<keyword>Geometric Structure;Hyperbolic Geometry;Isometric Embedding;Projective Structure;Ricci Flow;</keyword>
+		<organization>null</organization>
+		<abstract>e disk with the hyperbolic uniformization metric; the isometric embedding in the Klein disk which induces the real projective structure; the isometric embedding in the Poincar´ e disk, where the boundaries of fundamental domains are straightened to hyperbolic lines. Abstract Geometric structures are natural structures of surfaces, which enable different geometries to be defined on the surfaces. Al- gorithms designed</abstract>
+	</publication>
+	<publication>
+		<title>Computing geodesic spectra of surfaces</title>
+		<year>2007</year>
+		<authors>miao jin,shing-tung yau,xianfeng gu</authors>
+		<jconf>Symposium on Solid Modeling and Applications</jconf>
+		<label>232</label>
+		<keyword>Closed Geodesic;Conformal Structure;fuchsian group;Fundamental Group;Gaussian Curvature;Geometric Model;Ricci Flow;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>Surface classification is one of the most fundamental proble ms in geometric modeling. Surfaces can be classified according to their conformal structures. In general, each topological e quiv- alent class has infinite conformally equivalent classes. This paper introduces a novel method to classify surfaces by their conformal structures. Surfaces in the same conformal class share the same uniformization metric, which</abstract>
+	</publication>
+	<publication>
+		<title>Generalized Koebe's method for conformal mapping multiply connected domains</title>
+		<year>2009</year>
+		<authors>wei zeng,xiaotian yin,min zhang,xianfeng gu</authors>
+		<jconf>Symposium on Solid Modeling and Applications</jconf>
+		<label>232</label>
+		<keyword>Conformal Map;Convergence Rate;Differential Forms;Multiply Connected Domain;Shape Analysis;Surface Parameterization;Texture Mapping;</keyword>
+		<organization>null</organization>
+		<abstract>Surface parameterization refers to the process of mapping the surface to canonical planar domains, which plays crucial roles in texture mapping and shape analysis purposes. Most existing techniques focus on simply connected surfaces. It is a challenging problem for multiply connected genus zero surfaces. This work generalizes conventional Koebe's method for multiply connected planar domains. According to Koebe's uniformization theory,</abstract>
+	</publication>
+	<publication>
+		<title>Computing general geometric structures on surfaces using Ricci flow</title>
+		<year>2007</year>
+		<authors>miao jin,xianfeng david gu</authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>232</label>
+		<keyword>Computational Geometry;Computational Method;Computer Aided Design;Conformal Structure;Geometric Algorithm;Geometric Structure;Object Model;Projective Structure;Ricci Flow;Theoretical Framework;Transformation Group;voronoi diagram;</keyword>
+		<organization>null</organization>
+		<abstract>Systematically generalizing planar geometric algorithms to manifold domains is of fun- damental importance in computer aided design field. This pap er proposes a novel theoretic framework, geometric structure, to conquer this problem. In order to discover the intrinsic geometric structures of general surfaces, we developed a theoretic rigorous and practical efficient method, Discrete Variational Ricci flow. Different geometries study the</abstract>
+	</publication>
+	<publication>
+		<title>Generalized Discrete Ricci Flow</title>
+		<year>2009</year>
+		<authors>yong-liang yang,ren guo,shi-min hu,xianfeng gu</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>232</label>
+		<keyword>Ricci Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computing Constant-Curvature Metrics for Hyperbolic 3-Manifolds with Boundaries Using Truncated Tetrahedral Meshes</title>
+		<year>2008</year>
+		<authors>xiaotian yin,miao jin,xianfeng david gu</authors>
+		<jconf>International Journal of Shape Modeling</jconf>
+		<label>232</label>
+		<keyword>hyperbolic 3-manifold;Tetrahedral Mesh;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discrete Surface Ricci Flow</title>
+		<year>2008</year>
+		<authors>miao jin,junho kim,xianfeng gu</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>232</label>
+		<keyword>convex polytope;Diffusion Process;Gaussian Curvature;Geometric Model;Gradient Flow;Indexing Terms;Linear Space;Medical Image;Metric Space;Ricci Flow;riemannian metric;Surface Parameterization;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This work introduces a unified framework for discrete surface Ricci flow algorithms, including spherical, euclidean, and hyperbolic Ricci flows, which can design Riemannian metrics on surfaces with arbitrary topologies by user-defined Gaussian curvatures. Furthermore, the target metrics are conformal (angle-preserving) to the original metrics. Ricci flow conformally deforms the Riemannian metric on a surface according to its induced curvature, such</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Surface Parameterization Using Inverse Curvature Map</title>
+		<year>2008</year>
+		<authors>yong-liang yang,junho kim,shi-min hu,xianfeng gu</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>232</label>
+		<keyword>Computer Graphic;Conformal Map;Efficient Algorithm;Free Boundary;jacobi matrix;Nonlinear Optimization;poisson equation;Surface Parameterization;Theoretical Framework;</keyword>
+		<organization>null</organization>
+		<abstract>Mesh parameterization is a fundamental technique in computer graphics. The major goals during mesh parameterization are to minimize both the angle distortion and the area distortion. Angle distortion can be eliminated by the use of conformal mapping, in principle. Our paper focuses on solving the problem of finding the best discrete conformal mapping that also minimizes area distortion. First, we</abstract>
+	</publication>
+</person>

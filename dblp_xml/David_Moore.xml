@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David Moore</FullName>
+	<publication>
+		<title>Improving medium-sized media clip distribution through transparent tail synchronization</title>
+		<year>2007</year>
+		<authors>aaron striegel,david salyers,yingxin jiang,andrew blaich</authors>
+		<jconf>International Conference on Broadband Networks</jconf>
+		<label>199</label>
+		<keyword>Application Layer Multicast;P2P;</keyword>
+		<organization>null</organization>
+		<abstract>The emergence of popular video sharing sites such as YouTube has created a tremendous content shift towards timely, medium-sized media together with placing significant deman ds on the network. While techniques such as Application Layer Multicast and P2P streaming offer the potential to reduce the impact of general streaming content, the difficulty in impos ing synchronization and the heavy asymmetry</abstract>
+	</publication>
+</person>

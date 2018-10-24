@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marco Volpe</FullName>
+	<publication>
+		<title>Natural Modelling of Interactive Applications</title>
+		<year>2005</year>
+		<authors>fabio paternò</authors>
+		<jconf>Design, Specification, and Verification of Interactive Systems</jconf>
+		<label>619</label>
+		<keyword>Interactive Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>FireFly: Lightweight AJAX System for F2FCL</title>
+		<year>2006</year>
+		<authors>rosario de chiara</authors>
+		<jconf>European Conference on Technology Enhanced Learning</jconf>
+		<label>620</label>
+		<keyword>Collaborative Learning;web-based applications;Face To Face;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper is illustrated the development of FireFly, a system for the Face to Face Collaborative Learning (F2F-CL). FireFly is written using AJAX, a set of technologies that allows to create rich web-based application. The challenge is to develop a system able to be executed on usual desktop PC, requesting the lesser possible installation effort and achieving enough expandability</abstract>
+	</publication>
+</person>

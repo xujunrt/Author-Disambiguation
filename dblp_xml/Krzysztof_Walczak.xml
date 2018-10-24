@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Krzysztof Walczak</FullName>
+	<publication>
+		<title>Jumping Emerging Substrings in Image Classification</title>
+		<year>2009</year>
+		<authors>lukasz kobylinski</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>500</label>
+		<keyword>Image Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image Retrieval Using Spatial Color Information</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>500</label>
+		<keyword>Image Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Frequent Subsplit Representation of Leaf-Labelled Trees</title>
+		<year>2008</year>
+		<authors>jakub koperwas</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simplifying Amino Acid Alphabets Using a Genetic Algorithm and Sequence Alignment</title>
+		<year>2007</year>
+		<authors>jacek lenckowski</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>500</label>
+		<keyword>Genetic Algorithm;Sequence Alignment;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatial Emerging Patterns for Scene Classification</title>
+		<year>2010</year>
+		<authors>lukasz kobylinski</authors>
+		<jconf>ICAISC</jconf>
+		<label>500</label>
+		<keyword>Scene Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering of Leaf-Labelled Trees</title>
+		<year>2007</year>
+		<authors>jakub koperwas</authors>
+		<jconf>International Conference on Adaptive and Natural Computing Algorithms</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Classification based on the highest impact jumping emerging patterns</title>
+		<year>2009</year>
+		<authors>tomasz gambin</authors>
+		<jconf>International Multiconference on Computer Science and Information Technology - IMCSIT</jconf>
+		<label>500</label>
+		<keyword>Classification Accuracy;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a new classification algo- rithm based on Jumping Emerging Patterns (JEPs), that have the highest impact on classification accuracy. The core idea of our method is the application of a new &quot;REAL/ALL&quot; coefficient, which is used to compare the discriminating power among various groups of JEPs. The efficacy of the proposed approach was confirmed by</abstract>
+	</publication>
+	<publication>
+		<title>Jumping Emerging Patterns with Occurrence Count in Image Classification</title>
+		<year>2008</year>
+		<authors>lukasz kobylinski</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>500</label>
+		<keyword>Image Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Local Projection in Jumping Emerging Patterns Discovery in Transaction Databases</title>
+		<year>2008</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>500</label>
+		<keyword>Pattern Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Mining of Jumping Emerging Patterns with Occurrence Counts for Classification</title>
+		<year>2008</year>
+		<authors>lukasz kobylinski</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Local Reducts and Jumping Emerging Patterns in Relational Databases</title>
+		<year>2006</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<label>500</label>
+		<keyword>Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Discovery of Top-K Minimal Jumping Emerging Patterns</title>
+		<year>2008</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clustering of Leaf-Labelled Trees on Free Leafset</title>
+		<year>2007</year>
+		<authors>jakub koperwas</authors>
+		<jconf>Rough Sets and Intelligent Systems Paradigms</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Jumping Emerging Pattern Induction by Means of Graph Coloring and Local Reducts in Transaction Databases</title>
+		<year>2007</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Rough Sets, Fuzzy Sets, Data Mining, and Granular-Soft Computing</jconf>
+		<label>500</label>
+		<keyword>Graph Coloring;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Phylogenetic Trees Dissimilarity Measure Based on Strict Frequent Splits Set and Its Application for Clustering</title>
+		<year>2008</year>
+		<authors>jakub koperwas</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>500</label>
+		<keyword>Dissimilarity Measure;Phylogenetic Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Attribute Set Dependence in Apriori-Like Reduct Computation</title>
+		<year>2006</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Classification with Jumping Emerging Patterns</title>
+		<year>2008</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Rough Sets and Knowledge Technology</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new classification method using array Comparative Genome Hybridization data, based on the concept of Limited Jumping Emerging Patterns</title>
+		<year>2009</year>
+		<authors>tomasz gambin</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>500</label>
+		<keyword>Dna Copy Number;High Dimensional Data;Array Comparative Genomic Hybridization;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Classification using aCGH data is an important and insufficiently investigated problem in bioinformatics. In this paper we propose a new classification method of DNA copy number data based on the concept of limited Jumping Emerging Patterns. We present the comparison of our limJEPClassifier to SVM which is considered the most successful classifier in the case of high-throughput data. RESULTS:</abstract>
+	</publication>
+	<publication>
+		<title>On the relation between rough set reducts and jumping emerging patterns</title>
+		<year>2007</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Information Sciences</jconf>
+		<label>500</label>
+		<keyword>Rough Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Jumping emerging patterns with negation in transaction databases - Classification and discovery</title>
+		<year>2007</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Information Sciences</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deductive Fault Simulation for Sequential Module Circuits</title>
+		<year>1988</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>500</label>
+		<keyword>Fault Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Attribute Set Dependence in Reduct Computation</title>
+		<year>2008</year>
+		<authors>pawel terlecki</authors>
+		<jconf>Transactions on Computational Science</jconf>
+		<label>500</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Liang Wang</FullName>
+	<publication>
+		<title>A Novel Path-Based Clustering Algorithm Using Multidimensional Scaling</title>
+		<year>2009</year>
+		<authors>uyen t. v. nguyen,laurence a. f. park,kotagiri ramamohanarao</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>536</label>
+		<keyword>Cluster Algorithm;Multi Dimensional Scaling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analyzing Human Movements from Silhouettes Using Manifold Learning</title>
+		<year>2006</year>
+		<authors>david suter</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>536</label>
+		<keyword>Human Movement;Manifold Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Moving shape dynamics: A signal processing perspective</title>
+		<year>2008</year>
+		<authors>xin geng,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Discrete Fourier Transform;Discrete Time;Discrete Wavelet Transform;Human Motion;Human Motion Analysis;Signal Processing;</keyword>
+		<organization>null</organization>
+		<abstract>This paper provides a new perspective on human mo- tion analysis, namely regarding human motions in video as general discrete time signals. While this seems an intuitive idea, research on human motion analysis has attracted lit- tle attention from the signal processing community. Sophis- ticated signal processing techniques create important op- portunities for new solutions to the problem of human</abstract>
+	</publication>
+	<publication>
+		<title>Recognizing Human Activities from Silhouettes: Motion Subspace and Factorial Discriminative Graphical Model</title>
+		<year>2007</year>
+		<authors>david suter</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Conditional Random Field;Discriminative Model;Feature Extraction;Graphical Model;Human Activity;Information Sharing;Kernel Principal Component Analysis;Long Range Dependent;Nonlinear Dimensionality Reduction;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a probabilistic framework for recognizing human activities in monocular video based on simple silhouette observations in this paper. The methodology combines kernel principal component analysis (KPCA) based feature extraction and factorial conditional random field (FCRF) based motion modeling. Silhouette data is represented more compactly by nonlinear dimensionality reduction that explores the underlying structure of the articulated action space</abstract>
+	</publication>
+	<publication>
+		<title>Pattern discovery in motion time series via structure-based spectral clustering</title>
+		<year>2008</year>
+		<authors>xiaozhe wang,anthony wirth</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Pattern Discovery;Sequential Pattern;Similarity Function;Spectral Clustering;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an approach called 'structure- based spectral clustering' to identify clusters in motion time series for sequential pattern discovery. The proposed ap- proach deploys a 'statistical feature-based distance compu- tation' for spectral clustering algorithm. Compared to tra- ditional spectral clustering approaches, in which the sim- ilarity matrix is constructed from the original data points by applying some similarity</abstract>
+	</publication>
+	<publication>
+		<title>Fusion of Static and Dynamic Body Biometrics for Gait Recognition</title>
+		<year>2003</year>
+		<authors>huazhong ning,tieniu tan,weiming hu</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>536</label>
+		<keyword>Computer Vision;Dynamic Information;Gait Recognition;Human Identification;Lower Limb;model-based approach;Shape Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  Human,identification  at  a ,distance  has  recently  gained  growing,interest  from  computer ,vision  researchers.  This  paper,aims ,to  propose ,a  visual ,recognition  algorithm  based upon  fusion of static  and dynamic,body biometrics.  For each  sequence  involving  a  walking  figure,  pose  changes,of  the ,segmented ,moving ,silhouettes  are  represented as  an ,associated  sequence ,of  complex ,vector  configurations, and are then analyzed using the Procrustes shape</abstract>
+	</publication>
+	<publication>
+		<title>Multi-Camera Calibration with One-Dimensional Object under General Motions</title>
+		<year>2007</year>
+		<authors>fuchao wu,zhanyi hu</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>536</label>
+		<keyword>Camera Calibration;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract It is well known that in order to calibrate a single camera with a one-dimensional (1D) calibration object, the object must undertake some constrained motions, in other words, it is impossible to calibrate a single camera if the object mo- tion is of general one. For a multi-camera setup, i.e., when the number of camera is more than one,</abstract>
+	</publication>
+	<publication>
+		<title>SpecVAT: Enhanced Visual Cluster Analysis</title>
+		<year>2008</year>
+		<authors>xin geng,james c. bezdek,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>536</label>
+		<keyword>Cluster Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Tensor Space Learning for Analyzing Activity Patterns from Video Sequences</title>
+		<year>2007</year>
+		<authors>christopher leckie,xiaozhe wang,kotagiri ramamohanarao,jim bezdek</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>536</label>
+		<keyword>Activity Pattern;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structure-Based Statistical Features and Multivariate Time Series Clustering</title>
+		<year>2007</year>
+		<authors>xiaozhe wang,anthony wirth</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>536</label>
+		<keyword>Multivariate Time Series;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extrapolating Learned Manifolds for Human Activity Recognition</title>
+		<year>2007</year>
+		<authors>tat-jun chin,konrad schindler,david suter</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>536</label>
+		<keyword>Activity Recognition;Binary Image;Comparative Method;Human Activity Recognition;Indexing Terms;Learning Activities;Manifold Learning;</keyword>
+		<organization>null</organization>
+		<abstract>The problem of human activity recognition via visual stimuli can be approached using manifold learning, since the silhou- ette (binary) images of a person undergoing a smooth mo- tion can be represented as a manifold in the image space. While manifold learning methods allow the characterization of the activity manifolds, performing activity recognition re- quires distinguishing between manifolds. This invariably</abstract>
+	</publication>
+	<publication>
+		<title>Gait recognition based on Procrustes shape analysis</title>
+		<year>2002</year>
+		<authors>huazhong ning,weiming hu,tieniu tan</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>536</label>
+		<keyword>Background Subtraction;Distance Measure;Gait Recognition;Human Identification;K Nearest Neighbor;Shape Analysis;Statistical Shape Analysis;Visual Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract>Gait recognition has recently attracted increasing attention, especially in vision-based human identification at a distance in visual surveillance. This paper proposes a simple but efficient gait recognition algorithm based on statistical shape analysis. For each gait sequence, a background subtraction procedure is used to segment spatial silhouettes of the walking figures from the background. Static pose changes of these silhouettes</abstract>
+	</publication>
+	<publication>
+		<title>Articulated Model Based People Tracking Using Motion Models</title>
+		<year>2002</year>
+		<authors>huazhong ning,weiming hu,tieniu tan</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>536</label>
+		<keyword>Conditional Distribution;Dynamic Model;Evaluation Function;Gaussian Distribution;Human Motion;People Tracking;State Space;Virtual Reality;Concentration Factor;</keyword>
+		<organization>null</organization>
+		<abstract>This paper focuses on acquisition of human motion data such as joint angles and velocity for applications of virtual reality, using both articulated body model and motion model in the CONDENSATION framework. Firstly, we learn a motion model represented by Gaussian distributions, and explore motion constraints by considering the dependency of motion parameters and represent them as conditional distributions. Then</abstract>
+	</publication>
+	<publication>
+		<title>Dual clustering for categorization of action sequences</title>
+		<year>2008</year>
+		<authors>joanna cheng,christopher leckie</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Action Recognition Using Space-Time Shape Difference Images</title>
+		<year>2010</year>
+		<authors>hao qu,christopher leckie</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Action Recognition;Space Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Abnormal Walking Gait Analysis Using Silhouette-Masked Flow Histograms</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Gait Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Blob Metrics to Posture Classification to Activity Profiling</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Attempt to Gait-based Human Identification</title>
+		<year>2002</year>
+		<authors>weiming hu,tieniu tan</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Human Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Encoding Actions via Quantized Vocabulary of Averaged Silhouettes</title>
+		<year>2010</year>
+		<authors>christopher leckie</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining Real and Virtual Graphs to Enhance Data Clustering</title>
+		<year>2010</year>
+		<authors>christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Data Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Informative Shape Representations for Human Action Recognition</title>
+		<year>2006</year>
+		<authors>david suter</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Action Recognition;Shape Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A factorization algorithm for trifocal tensor estimation</title>
+		<year>2008</year>
+		<authors>fuchao wu</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human motion recognition using Gaussian Processes classification</title>
+		<year>2008</year>
+		<authors>hang zhou,david suter</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Human Motion;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face image modeling by multilinear subspace analysis with missing values</title>
+		<year>2009</year>
+		<authors>xin geng,kate smith-miles,zhi-hua zhou</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>536</label>
+		<keyword>Image Modeling;Missing Values;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT The main difficulty in face image modeling,is to decompose,those semantic factors contributing to the formation of the face images, such as identity, illumination and pose. One promising way is to organize the face images,in a higher-order tensor with each mode corresponding to one contributory factor. Then, a technique called Multilinear Subspace Analysis (MSA) is applied to decompose,the tensor into</abstract>
+	</publication>
+	<publication>
+		<title>Approximate Spectral Clustering</title>
+		<year>2009</year>
+		<authors>christopher leckie,kotagiri ramamohanarao,james c. bezdek</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>536</label>
+		<keyword>Spectral Clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>iVAT and aVAT: Enhanced Visual Analysis for Cluster Tendency Assessment</title>
+		<year>2010</year>
+		<authors>uyen t. v. nguyen,james c. bezdek,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>536</label>
+		<keyword>Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Characteristic-Based Descriptors for Motion Sequence Recognition</title>
+		<year>2008</year>
+		<authors>xiaozhe wang,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Fusion of Gait and Face for Human Identification in Video</title>
+		<year>2008</year>
+		<authors>xin geng,ming li,qiang wu,kate smith-miles</authors>
+		<jconf>Workshop on Applications of Computer Vision</jconf>
+		<label>536</label>
+		<keyword>Human Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual learning and recognition of sequential data manifolds with applications to human movement analysis</title>
+		<year>2008</year>
+		<authors>david suter</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>536</label>
+		<keyword>Human Movement;Visual Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Selective sampling for approximate clustering of very large data sets</title>
+		<year>2008</year>
+		<authors>james c. bezdek,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>International Journal of Intelligent Systems</jconf>
+		<label>536</label>
+		<keyword>Large Data Sets;Selective Sampling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Kinematics-based tracking of human walking in monocular video sequences</title>
+		<year>2004</year>
+		<authors>huazhong ning,tieniu tan,weiming hu</authors>
+		<jconf>Image and Vision Computing</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Silhouette Analysis-Based Gait Recognition for Human Identification</title>
+		<year>2003</year>
+		<authors>tieniu tan,huazhong ning,weiming hu</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>536</label>
+		<keyword>Background Subtraction;Computer Vision;Feature Space;Gait Recognition;Human Identification;Image Sequence;Pattern Classification;Principal Component Analysis;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract>Human identification at a distance has recently gained growing interest from computer vision researchers. Gait recognition aims essentially to address this problem by identifying people based on the way they walk. In this paper, a simple but efficient gait recognition algorithm using spatial-temporal silhouette analysis is proposed. For each image sequence, a background subtraction algorithm and a simple correspondence procedure</abstract>
+	</publication>
+	<publication>
+		<title>Context-aware fusion: A case study on fusion of gait and face for human identification in video</title>
+		<year>2010</year>
+		<authors>xin geng,kate smith-miles,ming li,qiang wu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Case Study;Context Aware;Human Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>People tracking based on motion model and motion constraints with automatic initialization</title>
+		<year>2004</year>
+		<authors>huazhong ning,tieniu tan,weiming hu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Computer Vision;Dynamic Model;Evaluation Function;Gaussian Distribution;Human Motion Analysis;Human Tracking;Image Sequence;People Tracking;State Space;Concentration Factor;</keyword>
+		<organization>null</organization>
+		<abstract>Human motion analysis is currently one of the most active research topics in computer vision. This paper presents a model-based approachto recovering motion parameters of walking people from monocular image sequences in a CONDEN- SATION framework. From the semi-automatically acquired training data, we learn a motion model represented as Gaussian distributions, and explore motion constraints by considering the dependency of</abstract>
+	</publication>
+	<publication>
+		<title>Recent developments in human motion analysis</title>
+		<year>2003</year>
+		<authors>weiming hu,tieniu tan</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Computer Vision;Human Behavior;Human Motion;Human Motion Analysis;Image Sequence;Semantic Description;Spectrum;Virtual Reality;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Visual analysis of human motion is currently one of the most active research topics in computer vision. This strong interest is driven by a wide spectrum of promising applications in many areas such as virtual reality, smart surveillance, perceptual interface, etc. Human motion analysis concerns the detection, tracking and recognition of people, and more generally, the understanding of human behaviors,</abstract>
+	</publication>
+	<publication>
+		<title>FOE estimation: Can image measurement errors be totally &quot;corrected&quot; by the geometric method?</title>
+		<year>2007</year>
+		<authors>f. c. wu,z. y. hu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>536</label>
+		<keyword>Computational Complexity;Estimation Method;Geometric Algorithm;Measurement Error;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>For the FOE estimation, there are basically three kinds of estimation methods in the literature: algebraic, geometric, and the maximum likelihood-based ones. In this paper, our attention is focused on the geometric method. The computational complexity of the classical geometric method is usually very high because it needs to solve a non-linear minimum problem with many variables. In this work,</abstract>
+	</publication>
+	<publication>
+		<title>Image/video-based pattern analysis and HCI applications</title>
+		<year>2009</year>
+		<authors>qiang wu,hanzi wang,xin geng,ming li</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>536</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human action recognition by feature-reduced Gaussian process classification</title>
+		<year>2009</year>
+		<authors>hang zhou,david suter</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>536</label>
+		<keyword>Action Recognition;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fusion of static and dynamic body biometrics for gait recognition</title>
+		<year>2004</year>
+		<authors>huazhong ning,tieniu tan,weiming hu</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>536</label>
+		<keyword>Computer Vision;Dynamic Information;Gait Recognition;Human Identification;Lower Limb;model-based approach;Shape Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Human identification at a distance has recently gained growing interest from computer vision researchers. This paper aims to propose a visual recognition algorithm based upon fusion of static and dynamic body biometrics. For each sequence involving a walking figure, pose changes of the segmented moving silhouettes are represented as an associated sequence of complex vector configurations, and are then analyzed</abstract>
+	</publication>
+	<publication>
+		<title>Learning and Matching of Dynamic Shape Manifolds for Human Action Recognition</title>
+		<year>2007</year>
+		<authors>david suter</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>536</label>
+		<keyword>Action Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic gait recognition based on statistical shape analysis</title>
+		<year>2003</year>
+		<authors>tieniu tan,weiming hu,huazhong ning</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>536</label>
+		<keyword>Background Subtraction;Computer Vision;Distance Measure;Gait Recognition;Image Sequence;Indexing Terms;Pattern Classification;Point of View;Shape Analysis;Statistical Shape Analysis;Visual Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract>Gait recognition has recently gained significant at- tention from computer vision researchers. This interest is strongly motivated by the need for automated person identification systems at a distance in visual surveillance and monitoring applications. As a newly emergent biometric feature, gait is a particularly at- tractive modality from the surveillance point of view. This paper aims to propose a simple</abstract>
+	</publication>
+	<publication>
+		<title>Enhanced Visual Analysis for Cluster Tendency Assessment and Data Partitioning</title>
+		<year>2010</year>
+		<authors>xin geng,james c. bezdek,christopher leckie,kotagiri ramamohanarao</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>536</label>
+		<keyword>Data Partitioning;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatically Determining the Number of Clusters in Unlabeled Data Sets</title>
+		<year>2009</year>
+		<authors>christopher leckie,kotagiri ramamohanarao,james c. bezdek</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>536</label>
+		<keyword>Number of Clusters;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Examplar-based Shape from Shading</title>
+		<year>2007</year>
+		<authors>xinyu huang,jizhou gao,ruigang yang</authors>
+		<jconf>International Conference on 3-D Imaging and Modeling</jconf>
+		<label>537</label>
+		<keyword>3d model;Depth Map;Energy Minimization;Prior Knowledge;Shape From Shading;Texture Synthesis;Ground Truth;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional Shape-from-Shading (SFS) techniques aim to solve an under-constrained problem: estimating depth map from one single image. The results are usually brittle from real images containing detailed shapes. Inspired by re- cent advances in texture synthesis, we present an exemplar- based approach to improve the robustness and accuracy of SFS. In essence, we utilize an appearance database syn- thesized from</abstract>
+	</publication>
+	<publication>
+		<title>Towards Urban 3D Reconstruction from Video</title>
+		<year>2006</year>
+		<authors>amir akbarzadeh,jan-michael frahm,philippos mordohai,brian clipp,chris engels,david gallup,paul merrell,m. phelps,sudipta n. sinha,b. talton,qingxiong yang,henrik stewénius,ruigang yang,greg welch,herman towles,david nistér,marc pollefeys</authors>
+		<jconf>3D Data Processing Visualization and Transmission</jconf>
+		<label>537</label>
+		<keyword>3d reconstruction;Data Collection;Perforation;Video Streaming;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The paper introduces a data collection system and a processing pipeline for automatic geo-registered 3D recon- struction of urban scenes from video. The system collects multiple video streams, as well as GPS and INS measure- ments in order to place the reconstructed models in geo- registered coordinates. Besides high quality in terms of both geometry and appearance, we aim at</abstract>
+	</publication>
+	<publication>
+		<title>How Far Can We Go with Local Optimization in Real-Time Stereo Matching</title>
+		<year>2006</year>
+		<authors>mingwei gong,minglun gong,ruigang yang</authors>
+		<jconf>3D Data Processing Visualization and Transmission</jconf>
+		<label>537</label>
+		<keyword>Stereo Matching;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-Quality Real-Time Stereo Using Adaptive Cost Aggregation and Dynamic Programming</title>
+		<year>2006</year>
+		<authors>miao liao,minglun gong,ruigang yang,david nistér</authors>
+		<jconf>3D Data Processing Visualization and Transmission</jconf>
+		<label>537</label>
+		<keyword>Dynamic Program;Process Capability;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a stereo algorithm that achieves high quality results while maintaining real-time performance. The key idea is simple: we introduce an adaptive aggregation step in a dynamic-programming (DP) stereo framework. The per-pixel matching cost is aggregated in the vertical direc- tion only. Compared to traditional DP, our approach re- duces the typical &quot;streaking&quot; artifacts without the penalty of blurry</abstract>
+	</publication>
+	<publication>
+		<title>Light Fall-off Stereo</title>
+		<year>2007</year>
+		<authors>miao liao,ruigang yang,minglun gong</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>537</label>
+		<keyword>Light Intensity;</keyword>
+		<organization>null</organization>
+		<abstract>We present light fall-off stereo-LFS-a new method for computing depth from scenes beyond lambertian reflectance and texture. LFS takes a number of images from a station- ary camera as the illumination source moves away from the scene. Based on the inverse square law for light intensity, the ratio images are directly related to scene depth from the perspective of the</abstract>
+	</publication>
+	<publication>
+		<title>Stereoscopic inpainting: Joint color and depth completion from stereo images</title>
+		<year>2008</year>
+		<authors>hailin jin,ruigang yang,minglun gong</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>537</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling</title>
+		<year>2006</year>
+		<authors>qingxiong yang,ruigang yang,henrik stewénius,david nistér</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>537</label>
+		<keyword>Belief Propagation;Energy Minimization;Loopy Belief Propagation;Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we formulate an algorithm for the stereo matching problem with careful handling of disparity, dis- continuity and occlusion. The algorithm works with a global matching stereo model based on an energy- minimization framework. The global energy contains two terms, the data term and the smoothness term. The data term is first approximated by a color-weighted correlation, then</abstract>
+	</publication>
+	<publication>
+		<title>Fusion of time-of-flight depth and stereo for high accuracy depth maps</title>
+		<year>2008</year>
+		<authors>jiejie zhu,ruigang yang,james davis</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>537</label>
+		<keyword>Belief Propagation;Depth Estimation;Depth Map;Graph Cut;Probability Distribution Function;Real Time;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>Time-of-flight range sensors have error characteristics which are complementary to passive stereo. They provide real time depth estimates in conditions where passive stereo does not work well, such as on white walls. In contrast, these sensors are noisy and often perform poorly on the tex- tured scenes for which stereo excels. We introduce a method for combining the results from</abstract>
+	</publication>
+	<publication>
+		<title>Search Space Reduction for MRF Stereo</title>
+		<year>2008</year>
+		<authors>hailin jin,ruigang yang</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>537</label>
+		<keyword>Consistency Checking;Energy Minimization;Search Space;Winner Take All;Left Right;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>We present an algorithm to reduce per-pixel search ranges for Markov Random Fields-based stereo algorithms. Our algorithm is based on the intuitions that reliably matched pixels need less regular- ization in the energy minimization and neighboring pixels should have similar disparity search ranges if their pixel values are similar. We pro- pose a novel bi-labeling process to classify reliable and</abstract>
+	</publication>
+	<publication>
+		<title>Semantic Segmentation of Urban Scenes Using Dense Depth Maps</title>
+		<year>2010</year>
+		<authors>chenxi zhang,ruigang yang</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>537</label>
+		<keyword>Depth Map;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>BRDF Invariant Stereo Using Light Transport Constancy</title>
+		<year>2007</year>
+		<authors>ruigang yang,james e. davis</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>537</label>
+		<keyword>Light Intensity;Light Transport;Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract>Nearly all existing methods for stereo reconstruction assume that scene reflectance is Lambertian and make use of brightness constancy as a matching invariant. We introduce a new invariant for stereo reconstruction called Light Transport Constancy, which allows completely arbitrary scene reflectance (BRDFs). This invariant can be used to formulate a rank constraint on multiview stereo matching when the scene is</abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Visibility-Based Fusion of Depth Maps</title>
+		<year>2007</year>
+		<authors>paul merrell,amir akbarzadeh,philippos mordohai,jan-michael frahm,ruigang yang,david nistér,marc pollefeys</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>537</label>
+		<keyword>Depth Estimation;Depth Map;Hardware Accelerator;multi-view stereo;Quantitative Analysis;Frames Per Second;Ground Truth;High Throughput;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a viewpoint-based approach for the quick fu- sion of multiple stereo depth maps. Our method selects depth estimates for each pixel that minimize violations of visibility constraints and thus remove errors and inconsis- tencies from the depth maps to produce a consistent surface. We advocate a two-stage process in which the first stage generates potentially noisy, overlapping depth</abstract>
+	</publication>
+	<publication>
+		<title>Real-time Light Fall-off Stereo</title>
+		<year>2008</year>
+		<authors>miao liao,ruigang yang,minglun gong</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>537</label>
+		<keyword>High Resolution;Light Intensity;Quantitative Evaluation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a real-time depth recovery system using Light Fall-off Stereo (LFS). Our system contains two co-axial point light sources (LEDs) synchronized with a video camera. The video camera captures the scene under these two LEDs in complementary states(e.g., one on, one off). Based on the in- verse square law for light intensity, the depth can be directly solved using</abstract>
+	</publication>
+	<publication>
+		<title>A Performance Study on Different Cost Aggregation Approaches Used in Real-Time Stereo Matching</title>
+		<year>2007</year>
+		<authors>minglun gong,ruigang yang,mingwei gong</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>537</label>
+		<keyword>Global Optimization;Graphics Hardware;Processing Speed;Programmable Graphics Hardware;Stereo Matching;Time Constraint;Winner Take All;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Many vision applications require high-accuracy dense disparity maps in real-time and online. Due to time constraint, most real-time stereo applications rely on local winner-takes-all optimization in the disparity computation process. These local approaches are generally outperformed by offline global optimization based algorithms. However, recent research shows that, through carefully selecting and aggregating the matching costs of neighboring pixels, the disparity</abstract>
+	</publication>
+	<publication>
+		<title>Detailed Real-Time Urban 3D Reconstruction from Video</title>
+		<year>2008</year>
+		<authors>marc pollefeys,david nistér,jan-michael frahm,amir akbarzadeh,philippos mordohai,brian clipp,christoph engels,david gallup,seon joo kim,paul merrell,c. salmi,sudipta n. sinha,b. talton,qingxiong yang,henrik stewénius,ruigang yang,greg welch,herman towles</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<label>537</label>
+		<keyword>3d reconstruction;Dynamic Range;Feature Tracking;Graphics Hardware;Video Streaming;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>The paper presents a system for automatic, geo-registered, real-time 3D recon- struction from video of urban scenes. The system collects video streams, as well as GPS and inertia measurements in order to place the reconstructed models in geo-registered coordinates. It is designed using current state of the art real-time modules for all processing steps. It employs commodity graphics hardware and</abstract>
+	</publication>
+	<publication>
+		<title>BRDF Invariant Stereo Using Light Transport Constancy</title>
+		<year>2007</year>
+		<authors>ruigang yang,james e. davis</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>537</label>
+		<keyword>Light Intensity;Light Transport;Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract>Nearly all existing methods for stereo reconstruction assume that scene reflectance is Lambertian and make use of brightness constancy as a matching invariant. We introduce a new invariant for stereo reconstruction called Light Transport Constancy, which allows completely arbitrary scene reflectance (BRDFs). This invariant can be used to formulate a rank constraint on multiview stereo matching when the scene is</abstract>
+	</publication>
+	<publication>
+		<title>Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation, and Occlusion Handling</title>
+		<year>2009</year>
+		<authors>qingxiong yang,ruigang yang,henrik stewénius,david nistér</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>537</label>
+		<keyword>Belief Propagation;Loopy Belief Propagation;Stereo Matching;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In this paper, we formulate an algorithm for the stereo matching problem with careful handling of disparity, discontinuity and,occlusion.,The algorithm,works,with a global matching,stereo model based on an energyminimization,framework.,The global energy contains two terms, the data term and the smoothness term. The data term is first approximated by a color-weighted correlation, then refined in occluded and low-texture areas in a</abstract>
+	</publication>
+	<publication>
+		<title>Spatial-Temporal Fusion for High Accuracy Depth Maps Using Dynamic MRFs</title>
+		<year>2010</year>
+		<authors>jiejie zhu,jizhou gao,ruigang yang</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>537</label>
+		<keyword>Depth Estimation;Depth Map;Dynamic Scenes;Global Optimization;Indexing Terms;Loopy Belief Propagation;Posterior Probability;Temporal Coherence;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>Time-of-flight range sensors and passive stereo have complimentary characteristics in nature. To fuse them to get high accuracy depth maps varying over time, we extend traditional spatial MRFs to dynamic MRFs with temporal coherence. This new model allows both the spatial and the temporal relationship to be propagated in local neighbors. By efficiently finding a maxi- mum of the posterior</abstract>
+	</publication>
+	<publication>
+		<title>View-dependent textured splatting</title>
+		<year>2006</year>
+		<authors>ruigang yang,david guinnip</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>537</label>
+		<keyword>Dynamic Scenes;High Resolution;Image Generation;Interactive Rendering;Point Cloud;Rendering System;Vision System;High Density;On The Fly;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel approach to render low reso- lution point clouds with multiple high resolution textures — the type of data typical from passive vision systems. The low precision, noisy, and sometimes incomplete nature of such data sets is not suitable for existing point-based ren- dering techniques that are designed to work with high pre- cision and high density</abstract>
+	</publication>
+	<publication>
+		<title>Language identification using MLKSFM for pre-classification with novel front-end features</title>
+		<year>2008</year>
+		<authors>eliathamby ambikairajah,eric h. c. choi</authors>
+		<jconf>International Conference on Acoustics, Speech, and Signal Processing</jconf>
+		<label>538</label>
+		<keyword>Language Identification;Front End;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Method for Automatic Tonal and Non-Tonal Language Classification</title>
+		<year>2007</year>
+		<authors>eliathamby ambikairajah,eric h. c. choi</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>538</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust language identification based on fused phonotactic information with MLKSFM pre-classifier</title>
+		<year>2009</year>
+		<authors>eliathamby ambikairajah,eric h. c. choi</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>538</label>
+		<keyword>Language Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-lingual Phoneme Recognition and Language Identification Using Phonotactic Information</title>
+		<year>2006</year>
+		<authors>eliathamby ambikairajah,eric h. c. choi</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>538</label>
+		<keyword>Language Identification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Based Optimal Block Mapping Method for LSB Substitution</title>
+		<year>2006</year>
+		<authors>rongrong ji,hongxun yao,shaohui liu</authors>
+		<jconf>Intelligent Information Hiding and Multimedia Signal Processing</jconf>
+		<label>539</label>
+		<keyword>Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Steganalysis Method for Adaptive Spread Spectrum Steganography</title>
+		<year>2006</year>
+		<authors>rongrong ji,hongxun yao,shaohui liu,jianchao sun</authors>
+		<jconf>Intelligent Information Hiding and Multimedia Signal Processing</jconf>
+		<label>539</label>
+		<keyword>Spread Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effective and Automatic Calibration Using Concentric Circles</title>
+		<year>2008</year>
+		<authors>hongxun yao,h. d. cheng</authors>
+		<jconf>International Journal of Pattern Recognition and Artificial Intelligence</jconf>
+		<label>539</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Geometric and Algebraic Approaches of Planar Structure Recovery Based on Properties of Dual Conic</title>
+		<year>2009</year>
+		<authors>hongxun yao,shaohui liu</authors>
+		<jconf>International Journal of Pattern Recognition and Artificial Intelligence</jconf>
+		<label>539</label>
+		<keyword>Algebraic Approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global Stability of Optimization Based Flow Control with Time-Varying Delays</title>
+		<year>2004</year>
+		<authors>yuedong xu,zhihong guan,hua o. wang</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>540</label>
+		<keyword>Flow Control;Global Stability;Time-varying Delay;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Climate modification directed by control theory</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Control Theory;Global Warming;</keyword>
+		<organization>null</organization>
+		<abstract>Climate modification measures to counteract global warming receive some more new attentions in these years. Most current researches only discuss the impact of these measures to climate, but how to design such a climate regulator is still unknown. This paper shows the control theory could give the systematic direction for climate modification. But the control analyzing also reveals that climate</abstract>
+	</publication>
+	<publication>
+		<title>How to build a DNA search engine like Google?</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Dna Sequence;Inverted Index;Large Scale;Search Engine;Statistical Language Model;Statistical Model;Web Search Engine;zipf's law;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel method to build the large scale DNA sequences search system based on web search engine technology. Firstly, we find 12 bp may be the length of most DNA &quot;word&quot; by Zipf's laws. Then the &quot;vocabulary&quot; of DNA was constructed by N-grams statistical model. After having a vocabulary, we could easily segment the DNA sequence, build</abstract>
+	</publication>
+	<publication>
+		<title>Evolution: Google vs. DRIS</title>
+		<year>2003</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Information Retrieval;Profitability;Public Good;Search Engine;Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>This paper gives an absolute new search system that builds the information retrieval infrastructure for Internet. Now most search engine companies are mainly concerned with how to make profit from company users by advertisement and ranking prominence, but never consider what its real customers will feel. Few web search engines can sell billions dollars just at the cost of inconvenience</abstract>
+	</publication>
+	<publication>
+		<title>Make search become the internal function of Internet</title>
+		<year>2003</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Distributed Information Retrieval;Distributed System;Information Network;Information Retrieval;Integrable System;Keyword Search;Open System;Web Search;web-based service;</keyword>
+		<organization>null</organization>
+		<abstract>Domain Resource Integrated System (DRIS) is introduced in this paper. DRIS is a distributed information retrieval system, which will solve problems like poor coverage, long update interval in current web search system. The most distinct character of DRIS is that it's a public opening system, and acts as an internal component of Internet, but not the production of a company.</abstract>
+	</publication>
+	<publication>
+		<title>Web pages search engine based on DNS</title>
+		<year>2004</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Distributed System;Information Network;Information Retrieval;Information Sources;Keyword Search;Search Engine;Web Pages;web-based service;</keyword>
+		<organization>null</organization>
+		<abstract>Search engine is main access to the largest information source in this world, Internet. Now Internet is changing every aspect of our life. Information retrieval service may be its most important services. But for common user, internet search service is still far from our expectation, too many unrelated search results, old information, etc. To solve these problems, a new system,</abstract>
+	</publication>
+	<publication>
+		<title>Domain resource integration system</title>
+		<year>2004</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>540</label>
+		<keyword>Distributed System;Information Retrieval;Information Retrieval System;Integrable System;Search Engine;Web Search;web-based service;</keyword>
+		<organization>null</organization>
+		<abstract>Domain Resource Integrated System (DRIS) is introduced in this paper. DRIS is a hierarchical distributed Internet information retrieval system. This system will solve some bottleneck problems such as long update interval, poor coverage in current web search system. DRIS will build the information retrieval infrastructure of Internet, but not a commercial search engine. The protocol series of DRIS are also</abstract>
+	</publication>
+	<publication>
+		<title>Web search engine based on DNS</title>
+		<year>2007</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Journal of Network and Computer Applications</jconf>
+		<label>540</label>
+		<keyword>Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web search engine based on DNS</title>
+		<year>2007</year>
+		<authors>guo yi-ping,fang ming</authors>
+		<jconf>Journal of Network and Computer Applications</jconf>
+		<label>540</label>
+		<keyword>Web Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sensor-Based Human Activity Recognition in a Multi-user Scenario</title>
+		<year>2009</year>
+		<authors>tao gu,xianping tao,jian lu</authors>
+		<jconf>European Conference on Ambient Intelligence</jconf>
+		<label>541</label>
+		<keyword>Human Activity Recognition;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Equalizing Scheme of Active Noise Equalization System in Automobile Cabin</title>
+		<year>2007</year>
+		<authors>woon-seng gan,yong kim chong</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>542</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Convergence Analysis of Narrowband Active Noise Equalizer System Under Imperfect Secondary Path Estimation</title>
+		<year>2009</year>
+		<authors>woon-seng gan</authors>
+		<jconf>IEEE Transactions on Audio, Speech &amp; Language Processing</jconf>
+		<label>542</label>
+		<keyword>Active Noise Control;Convergence Analysis;Estimation Error;Indexing Terms;Least Mean Square;Sampling Frequency;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract---- Active  noise  equalizer  systems  are  used  to  adjust the  noise  level  in  an  environment,  based  on  the  preference of  retaining  noise  information.  Several  researches have  been  carried  out  to  determine  the  maximum step size bond of narrowband active noise control system with perfect secondary path estimation without gain factor consideration.  However,  in  practical  environment,  secondary path estimation error ofthe</abstract>
+	</publication>
+	<publication>
+		<title>The self-cited rate of scientific journals and the manipulation of their impact factors</title>
+		<year>2007</year>
+		<authors>guang yu</authors>
+		<jconf>Scientometrics</jconf>
+		<label>543</label>
+		<keyword>Impact Factor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reliability-based citation impact factor and the manipulation of impact factor</title>
+		<year>2010</year>
+		<authors>guang yu,dong-hui yang</authors>
+		<jconf>Scientometrics</jconf>
+		<label>543</label>
+		<keyword>Impact Factor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

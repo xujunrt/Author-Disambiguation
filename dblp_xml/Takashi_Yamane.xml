@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Takashi Yamane</FullName>
+	<publication>
+		<title>Estimation of a physiologic strategy based on a mathematical model for assisting and substituting cardiac functions by a robotic artificial heart</title>
+		<year>2005</year>
+		<authors>ryo kosaka,yoshiyuki sankai,tatsuo tsutsui</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>999</label>
+		<keyword>Cardiac Function;Mathematical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human resource development and visualization</title>
+		<year>2009</year>
+		<authors>m. takei</authors>
+		<jconf>Journal of Visualization</jconf>
+		<label>999</label>
+		<keyword>Human Resource Development;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

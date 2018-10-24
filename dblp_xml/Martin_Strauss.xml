@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Strauss</FullName>
+	<publication>
+		<title>ERIC: a generic rule-based framework for an affective embodied commentary agent</title>
+		<year>2008</year>
+		<authors>michael kipp</authors>
+		<jconf>Autonomous Agents &amp; Multiagent Systems/Agent Theories, Architectures, and Languages</jconf>
+		<label>657</label>
+		<keyword>Dynamic Change;Embodied Agent;Empirical Evaluation;Event Recognition;Natural Language;Natural Language Generation;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>We present ERIC, an affective embodied agent for realtime com- mentary in many domains. The underlying architecture is rule- based, generic, andlightweight-basedonJava/Jessmodules. Apart from reasoning about dynamically changing events, the system can produce coherent natural language and non-verbal behaviour, based on a layered model of affect (personality, mood, emotion). We show how reasoning, template-based natural language generation and affective appraisal</abstract>
+	</publication>
+</person>

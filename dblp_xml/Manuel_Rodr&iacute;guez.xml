@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manuel Rodr&amp;iacute;guez</FullName>
+	<publication>
+		<title>Analysis of the Functional Block and Operator Involved in Fuzzy System Design</title>
+		<year>2003</year>
+		<authors>olga valenzuela,lozano márquez,miguel pasadas,ignacio rojas,fernando rojas</authors>
+		<jconf>Conferencia de la Asociaci��n Espa?ola para la Inteligencia Artificial</jconf>
+		<label>612</label>
+		<keyword>Fuzzy System;Function Block;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Short-Term Prediction of Chaotic Time Series by Using RBF Network with Regression Weights</title>
+		<year>2000</year>
+		<authors>ignacio rojas,jesús gonzález,antonio cañas,antonio f. díaz,fernando rojas</authors>
+		<jconf>International Journal of Neural Systems</jconf>
+		<label>612</label>
+		<keyword>Chaotic Time Series;rbf network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

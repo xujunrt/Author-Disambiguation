@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sergey Goncharov</FullName>
+	<publication>
+		<title>On a Question of Frank Stephan</title>
+		<year>2008</year>
+		<authors>klaus ambos-spies,serikzhan badaev</authors>
+		<jconf>Theory and Applications of Models of Computation</jconf>
+		<label>928</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

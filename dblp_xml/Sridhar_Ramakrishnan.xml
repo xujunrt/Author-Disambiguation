@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sridhar Ramakrishnan</FullName>
+	<publication>
+		<title>A Numerical Model Simulating Sound Propagation in Human Thorax</title>
+		<year>2009</year>
+		<authors>satish udpa,lalita udpa</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>961</label>
+		<keyword>Numerical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Comments on &quot;Detection of Distributed Sources Using Sensor Arrays</title>
+		<year>2007</year>
+		<authors>satish udpa</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<label>961</label>
+		<keyword>Sensor Array;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

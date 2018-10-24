@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Meier</FullName>
+	<publication>
+		<title>Stop the Chase: Short Contribution</title>
+		<year>2009</year>
+		<authors>michael schmidt,georg lausen</authors>
+		<jconf></jconf>
+		<label>700</label>
+		<keyword>Data Exchange;Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>The chase procedure, an algorithm proposed 25+ years ago to fi x con- straint violations in database instances, has been success fully applied in a variety of contexts, such as query optimization and data exchange. Its practicability, how- ever, is limited by the fact that - for an arbitrary set of cons traints - it might not terminate; even worse,</abstract>
+	</publication>
+	<publication>
+		<title>SPARQLing constraints for RDF</title>
+		<year>2008</year>
+		<authors>georg lausen,michael schmidt</authors>
+		<jconf>Extending Database Technology</jconf>
+		<label>700</label>
+		<keyword>Data Consistency;Markup Language;Query Language;Relational Data;Relational Database;Satisfiability;Semantic Web;Semantic Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>The goal of the Semantic Web is to support semantic in- teroperability between applications exchanging data on the web. The idea heavily relies on data being made available in machine readable format, using semantic markup languages. In this regard, the W3C has standardized RDF as the ba- sic markup language for the Semantic Web. In contrast to relational databases, where</abstract>
+	</publication>
+	<publication>
+		<title>Foundations of SPARQL Query Optimization</title>
+		<year>2008</year>
+		<authors>michael schmidt,georg lausen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>700</label>
+		<keyword>Algebraic Complexity;Conjunctive Queries;Query Language;Query Optimization;Query Rewriting;Semantic Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>The SPARQL query language is a recent W3C standard for processing RDF data, a format that has been developed to encode information in a machine-readable way. We inves- tigate the foundations of SPARQL query optimization and (a) provide novel complexity results for the SPARQL evalu- ation problem, showing that the main source of complexity is operator Optional alone; (b) propose</abstract>
+	</publication>
+	<publication>
+		<title>Semantic query optimization in the presence of types</title>
+		<year>2010</year>
+		<authors>michael schmidt,wei fang,georg lausen</authors>
+		<jconf>Symposium on Principles of Database Systems</jconf>
+		<label>700</label>
+		<keyword>Conjunctive Queries;Cost Function;Data Dependence;Decision Problem;Query Optimization;State Space;Semantic Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>Both semantic and type-based query optimization rely on the idea that queries often exhibit non-trivial rewritings if the state space of the database is restricted. Despite their close connection, these two problems to date have always been studied separately. We present a unifying, logic-based framework for query optimization in the presence of data dependencies and type information. It builds upon</abstract>
+	</publication>
+	<publication>
+		<title>Stop the Chase</title>
+		<year>2009</year>
+		<authors>michael schmidt,georg lausen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>700</label>
+		<keyword>Data Dependence;Data Integrity;Query Optimization;</keyword>
+		<organization>null</organization>
+		<abstract>The chase procedure, an algorithm proposed 25+ years ago to fix constraint violations in database instances, has been successfully applied in a variety of contexts, such as query optimization, data ex- change, and data integration. Its practicability, however, is limited by the fact that - for an arbitrary set of constraints - it might not terminate; even worse, chase termination</abstract>
+	</publication>
+	<publication>
+		<title>On Chase Termination Beyond Stratification</title>
+		<year>2009</year>
+		<authors>michael schmidt,georg lausen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>700</label>
+		<keyword>Conjunctive Queries;Data Dependence;Data Exchange;Data Integrity;Knowledge Base;Query Answering;Stratification;</keyword>
+		<organization>null</organization>
+		<abstract>We study the termination problem of the chase algorithm, a central tool in various database problems such as the constraint implica- tion problem, Conjunctive Query optimization, rewriting queries using views, data exchange, and data integration. The basic idea of the chase is, given a database instance and a set of constraints as input, to fix constraint violations in the database</abstract>
+	</publication>
+	<publication>
+		<title>Beyond Excel and Powerpoint: Knowledge Maps for the Transfer and Creation of Knowledge in Organizations</title>
+		<year>2005</year>
+		<authors>remo aslak burkhard,matthias smis,jill allemang,laura honisch</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>701</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The ETH Value Lab and Two Software Tools for Knowledge Creation in Teams</title>
+		<year>2009</year>
+		<authors>remo aslak burkhard,christian schneider</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>701</label>
+		<keyword>Knowledge Creation;Software Tool;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Layout of Project Plans Using a Metro Map Metaphor</title>
+		<year>2005</year>
+		<authors>jonathan m. stott,peter rodgers,remo aslak burkhard,matthias smis</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>701</label>
+		<keyword>Human Computer Interaction;Knowledge Visualization;multicriteria optimization;Project Manager;Project Planning;Software Tool;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a tool to improve inter- functional communication of project plans by displa ying them as a metro map. Our tool automatically lays ou t plans using a multicriteria system adapted for the application area. Previous studies have shown that displaying project plans using a metro map metaphor as a complementary visualization to Gantt charts attra</abstract>
+	</publication>
+	<publication>
+		<title>Tube Map Visualization: Evaluation of a Novel Knowledge Visualization Application for the Transfer of Knowledge in Long-Term Projects</title>
+		<year>2005</year>
+		<authors>remo aslak burkhard</authors>
+		<jconf>Journal of Universal Computer Science</jconf>
+		<label>701</label>
+		<keyword>Development Process;Health Care;Information Visualization;Knowledge Management;Knowledge Visualization;Project Manager;Project Planning;Theoretical Framework;</keyword>
+		<organization>null</organization>
+		<abstract>This article introduces two theoretical concepts for the emerging field Knowledge Visualization and discusses a new visualization application that was used to communicate a long-term project to various stakeholders in an organization. First, we introduce a theoretical framework and a model for Knowledge Visualization. The framework and the model identify and relate the key-aspects for successful Knowledge Visualization applications. Next,</abstract>
+	</publication>
+	<publication>
+		<title>Interfaces for Knowledge-Base Builders' Control Knowledge and Application-Specific Procedures</title>
+		<year>1986</year>
+		<authors>peter hirsch,william katke,steven snyder,richard stillman</authors>
+		<jconf>Ibm Journal of Research and Development</jconf>
+		<label>702</label>
+		<keyword>Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

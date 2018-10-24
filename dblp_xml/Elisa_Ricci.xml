@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Elisa Ricci</FullName>
+	<publication>
+		<title>Precise Widening Operators for Convex Polyhedra</title>
+		<year>2003</year>
+		<authors>roberto bagnara,patricia m. hill,enea zaffanella</authors>
+		<jconf>Static Analysis Symposium/Workshop on Static Analysis</jconf>
+		<label>216</label>
+		<keyword>Abstract Interpretation;Convex Polyhedra;Experimental Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>Convex polyhedra constitute the most used abstract domain among those capturing numerical relational information. Since the do- main of convex polyhedra admits innite ascending chains, it has to be used in conjunction with appropriate mechanisms for enforcing and ac- celerating convergence of the xp oint computation. Widening operators provide a simple and general characterization for such mechanisms. For the domain</abstract>
+	</publication>
+	<publication>
+		<title>Possibly Not Closed Convex Polyhedra and the Parma Polyhedra Library</title>
+		<year>2002</year>
+		<authors>roberto bagnara,enea zaffanella,patricia m. hill</authors>
+		<jconf>Static Analysis Symposium/Workshop on Static Analysis</jconf>
+		<label>216</label>
+		<keyword>Convex Polyhedra;Hybrid System;Software Implementation;Synchronous Language;</keyword>
+		<organization>null</organization>
+		<abstract>The domain of convex polyhedra is employed in several sys- tems for the analysis and verification of hardware and software compo- nents. Current applications span imperative, functional and logic lan- guages, synchronous languages and synchronization protocols, real-time and hybrid systems. Since the seminal work of P. Cousot and N. Halb- wachs, convex polyhedra have thus played an important role in</abstract>
+	</publication>
+	<publication>
+		<title>Precise widening operators for convex polyhedra</title>
+		<year>2005</year>
+		<authors>roberto bagnara,patricia m. hill,enea zaffanella</authors>
+		<jconf>Science of Computer Programming</jconf>
+		<label>216</label>
+		<keyword>Abstract Convexity;Convex Polyhedra;Experimental Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Convex polyhedra constitute the most used abstract domain among,those capturing numerical relational information. Since the domain of convex polyhedra admits innite ascending chains, it has to be used in conjunction with appropriate mechanisms for enforcing and accelerating convergence of the xp,oint computation. Widening operators provide a simple and general characterization for such mechanisms. For the domain of convex polyhedra,</abstract>
+	</publication>
+</person>

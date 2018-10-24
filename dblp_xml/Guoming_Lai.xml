@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Guoming Lai</FullName>
+	<publication>
+		<title>A Unified String Kernel for Biology Sequence</title>
+		<year>2008</year>
+		<authors>dehui yuan,shengyun yang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>268</label>
+		<keyword>String Kernel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lin Cai</FullName>
+	<publication>
+		<title>On the neural network approach in software reliability modeling</title>
+		<year>2001</year>
+		<authors>kai-yuan cai,wei-dong wang,zhou-yi yu,david zhang</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>564</label>
+		<keyword>Software Reliability;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

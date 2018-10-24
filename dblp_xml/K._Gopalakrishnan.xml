@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>K. Gopalakrishnan</FullName>
+	<publication>
+		<title>Gripping Parts at Concave Vertices</title>
+		<year>2002</year>
+		<authors>kenneth y. goldberg</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>471</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>D-space and Deform Closure: a Framework for Holding Deformable Parts</title>
+		<year>2004</year>
+		<authors>kenneth y. goldberg</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>471</label>
+		<keyword>Finite Element Mesh;Finite Element Method;Indexing Terms;Topology Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>We extend the form closure framework for rigid parts to holding a class of deformable parts. In this class, a part is a linearly elastic, frictionless polygon with a finite element mesh and given stiffness matrix. We define the D-space (deformation-space) of a part as the C-space of all its mesh nodes. We define the free space as the intersection</abstract>
+	</publication>
+	<publication>
+		<title>D-space and Deform Closure Grasps of Deformable Parts</title>
+		<year>2005</year>
+		<authors>kenneth y. goldberg</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>471</label>
+		<keyword>Finite Element Mesh;Finite Element Method;Indexing Terms;Numerical Algorithm;Plastic Deformation;Potential Energy;Topology Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract –  Building  on  the  well-established  form  closure  framework  for  holding  rigid  parts,  this  paper  proposes a new,framework for holding deformable parts. We consider the class of deformable parts that can bemodeled,as linearly elastic polygons with a triangular finite element mesh and given stiffness matrix. We define the  D-space (deformation-space)  of  a ,part  as  the ,C-space  of  all  its  mesh</abstract>
+	</publication>
+</person>

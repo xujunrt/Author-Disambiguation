@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dirk M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Specifying Domain-Specific Refactorings for AndroMDA Based on Graph Transformation</title>
+		<year>2007</year>
+		<authors>gabriele taentzer,tom mens</authors>
+		<jconf>Applications of Graph Transformations with Industrial Relevance</jconf>
+		<label>210</label>
+		<keyword>Domain Specificity;Graph Transformation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MeBIT - an Interdisciplinary Project on &quot;Information&quot; Metaphors and their Impact on the Idea of Man</title>
+		<year>2008</year>
+		<authors>michael bölker,thomas engel,mathias gutmann,ulrike henckel,wolfgang hesse,benjamin rathgeber,aaron ruß,tareq syed</authors>
+		<jconf></jconf>
+		<label>210</label>
+		<keyword>Genetics;Information System;Information Technology;Point of View;Public Domain;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>MebIT is an interdisciplinary project granted by the German Ministry for Education and Research (BMBF). Its focus of research concerns the logical interconnections and relationships which combine the Informatics, Information Technology (IT) and Information Systems (IS) fields with other scientific branches - in particular biology/genetics and philosophy - and which are established through the extensive use of metaphors form these</abstract>
+	</publication>
+	<publication>
+		<title>Ambient Information Systems - Do They Open a New Quality of IS?</title>
+		<year>2008</year>
+		<authors>aaron ruß,wolfgang hesse</authors>
+		<jconf></jconf>
+		<label>210</label>
+		<keyword>Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Operating system support for distributed applications in real space-time</title>
+		<year>2008</year>
+		<authors>matthias werner,martin däumler,jan richling,gero mühl</authors>
+		<jconf></jconf>
+		<label>210</label>
+		<keyword>Distributed Application;Distributed Operating System;Mobile Systems;Operating System;Programming Model;System Approach;Space Time;</keyword>
+		<organization>null</organization>
+		<abstract>One of the central trends in the two last decades was the spreading of mobile systems. While first these devices were intended to be used for stand-alone applications, the trend is emerging towards cooperating mobile systems performing tasks jointly. The aspects of mobility were first considered in the sense of location transparency aiming to hide the problems raised by mobility</abstract>
+	</publication>
+</person>

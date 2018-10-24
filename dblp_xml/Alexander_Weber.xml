@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alexander Weber</FullName>
+	<publication>
+		<title>Flexsim-R: A virtual affinity fingerprint descriptor to calculate similarities of functional groups</title>
+		<year>2002</year>
+		<authors>andreas teckentrup,hans briem</authors>
+		<jconf>Journal of Computer-aided Molecular Design</jconf>
+		<label>28</label>
+		<keyword>Functional Group;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

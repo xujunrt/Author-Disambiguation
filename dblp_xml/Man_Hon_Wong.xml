@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Man Hon Wong</FullName>
+	<publication>
+		<title>3D Feature Analysis in Confocal Microscopy Images</title>
+		<year>1998</year>
+		<authors>fu cheong frankie fong,reinhard klette,anthony poole</authors>
+		<jconf>Image and Vision Computing New Zealand</jconf>
+		<label>598</label>
+		<keyword>Confocal Microscopy;Feature Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

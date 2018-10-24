@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ali Jafari</FullName>
+	<publication>
+		<title>Issues in Distance Education</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>World Conference on the WWW and Internet</jconf>
+		<label>32</label>
+		<keyword>Distance Education;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

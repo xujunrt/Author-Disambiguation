@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Vikram Sharma</FullName>
+	<publication>
+		<title>RegColl: Centralized Registry Framework for Infrastructure System Management</title>
+		<year>2005</year>
+		<authors>brent byunghoon kang,pratik thanki</authors>
+		<jconf>USENIX Systems Administration Conference</jconf>
+		<label>1035</label>
+		<keyword>Private Information;System Configuration;System Management;</keyword>
+		<organization>null</organization>
+		<abstract>System administrators are faced with the challenge of managing and compiling information about deployed systems to ensure the maintenance, scalability, security, and overall availability of the infrastructure systems. Recently, securing and monitoring the deployed enterprise infrastructure systems has taken unprecedented importance due to the added accountability now being placed on managing corporate data and private information. Compliance with new regulation</abstract>
+	</publication>
+</person>

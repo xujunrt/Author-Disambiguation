@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fan Yang</FullName>
+	<publication>
+		<title>A Scalable Data Platform for a Large Number of Small Applications</title>
+		<year>2009</year>
+		<authors>jayavel shanmugasundaram,ramana yerneni</authors>
+		<jconf>Conference on Innovative Data Systems Research</jconf>
+		<label>223</label>
+		<keyword>Application Development;Cost Effectiveness;Data Management;Data Migration;Database System;Design Space;Free Software;High Availability;Load Balance;Service Level Agreement;Single Machine;Experience Base;Operations and Management;</keyword>
+		<organization>null</organization>
+		<abstract>As a growing number of websites open up their APIs to ex- ternal application developers (e.g., Facebook, Yahoo! Wid- gets, Google Gadgets), these websites are facing an intrigu- ing scalability problem: while each user-generated applica- tion is by itself quite small (in terms of size and through- put requirements), there are many many such applications. Unfortunately, existing data-management solutions are</abstract>
+	</publication>
+	<publication>
+		<title>Hilda: A High-Level Language for Data-DrivenWeb Applications</title>
+		<year>2006</year>
+		<authors>jayavel shanmugasundaram,mirek riedewald,johannes gehrke</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>223</label>
+		<keyword>Conflict Detection;Data Model;High Level Language;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>We propose Hilda, a high-level language for developing data-driven web applications. The primary benefits of Hilda over existing development platforms are: (a) it uses a uni- fied data model for all layers of the application, (b) it is declarative, (c) it models both application queries and up- dates, (d) it supports structured programming for web sites, and (e) it enables</abstract>
+	</publication>
+	<publication>
+		<title>Quark: an efficient XQuery full-text implementation</title>
+		<year>2006</year>
+		<authors>anand bhaskar,chavdar botev,muthiah m. muthaia chettiar,lin guo,jayavel shanmugasundaram,feng shao</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>223</label>
+		<keyword>Keyword Search;Open Source;Query Language;Data Management System;</keyword>
+		<organization>null</organization>
+		<abstract>The XQuery 1.0 and XPath 2.0 Full-text (XQFT) language has been developed by the W3C to extend XQuery and XPath with full-text search capabilities. XQFT allows users to specify a mix of structured and complex full-text predi- cates, and also allows users to score/rank such queries. The power and ∞exibility of XQFT gives rise to two interest- ing questions. First,</abstract>
+	</publication>
+	<publication>
+		<title>Automatic client-server partitioning of data-driven web applications</title>
+		<year>2006</year>
+		<authors>nicholas gerner,alan j. demers,johannes gehrke,mirek riedewald,jayavel shanmugasundaram</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>223</label>
+		<keyword>Application Development;Application Server;Course Management System;Programming Model;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>Current application development tools provide completely difierent programming models for the application server (e.g., Java and J2EE) and the client web browser (e.g., JavaScript and HTML). Consequently, the application developer is forced to partition the application code between the server and client at the time of writing the application. However, the partitioning of the code between the client and server</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Keyword Search over Virtual XML Views</title>
+		<year>2007</year>
+		<authors>feng shao,lin guo,chavdar botev,anand bhaskar,muthiah m. muthiah chettiar,jayavel shanmugasundaram</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>223</label>
+		<keyword>Information Retrieval;Integrable System;Keyword Search;Open Source;Performance Evaluation;System Architecture;Xml Database;</keyword>
+		<organization>null</organization>
+		<abstract>Emerging applications such as personalized portals, enter- prise search and web integration systems often require key- word search over semi-structured views. However, tradi- tional information retrieval techniques are likely to be ex- pensive in this context because they rely on the assumption that the set of documents being searched is materialized. In this paper, we present a system architecture and</abstract>
+	</publication>
+	<publication>
+		<title>A unified platform for data driven web applications with automatic client-server partitioning</title>
+		<year>2007</year>
+		<authors>nitin gupta,nicholas gerner,xin qi,alan j. demers,johannes gehrke,jayavel shanmugasundaram</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>223</label>
+		<keyword>Declarative Languages;Declarative Programming;Programming Model;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>Data-driven web applications are usually structured in three tiers with different programming models at each tier. This division forces developers to manually partition application functionality across the tiers, resulting in complex logic, sub- optimal partitioning, and expensive re-partitioning of appli- cations. In this paper, we introduce a unified platform for auto- matic partitioning of data-driven web applications. Our ap- proach</abstract>
+	</publication>
+	<publication>
+		<title>WYSIWYG development of data driven web applications</title>
+		<year>2008</year>
+		<authors>nitin gupta,chavdar botev,elizabeth f. churchill,george levchenko,jayavel shanmugasundaram</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>223</label>
+		<keyword>Application Development;Automatic Generation;Large Classes;Management System;Online Courses;Social Networking Sites;Trading System;User Study;Web Portal;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>An emerging trend in Social Networking sites and Web portals is the opening up of their APIs to external application develop- ers. For example, the Facebook Platform, Google Gadgets and Ya- hoo! Widgets allow developers to design their own applications, which can then can be integrated with the platform and shared with other users. However, current APIs are targeted towards</abstract>
+	</publication>
+	<publication>
+		<title>Efficient keyword search over virtual XML views</title>
+		<year>2009</year>
+		<authors>feng shao,lin guo,chavdar botev,anand bhaskar,muthiah m. muthiah chettiar,jayavel shanmugasundaram</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>223</label>
+		<keyword>Keyword Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

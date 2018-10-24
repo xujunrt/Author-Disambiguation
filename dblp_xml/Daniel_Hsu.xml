@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Hsu</FullName>
+	<publication>
+		<title>A Vibrating Method Based Cluster Reducing Strategy</title>
+		<year>2008</year>
+		<authors>shardrom johnson</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>169</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Energy Description of Data Object and Clustering</title>
+		<year>2009</year>
+		<authors>shardrom johnson,ben yang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>169</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constructing a Computer Simulated Experiment Testing System</title>
+		<year>2009</year>
+		<authors>ben yang,shardrom johnson</authors>
+		<jconf></jconf>
+		<label>169</label>
+		<keyword>Computer Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

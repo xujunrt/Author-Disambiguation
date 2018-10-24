@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Robert Grimm</FullName>
+	<publication>
+		<title>Automatic Patient Pose Estimation</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Informatiktage</jconf>
+		<label>875</label>
+		<keyword>Pose Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

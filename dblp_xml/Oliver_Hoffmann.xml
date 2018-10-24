@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Oliver Hoffmann</FullName>
+	<publication>
+		<title>Learning from the Past: An Analysis of Person Name Corrections in DBLP Collection and Social Network Properties of Affected Entities</title>
+		<year>2010</year>
+		<authors>florian reitz</authors>
+		<jconf></jconf>
+		<label>791</label>
+		<keyword>Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Analysis of the Evolving Coverage of Computer Science Sub-fields in the DBLP Digital Library</title>
+		<year>2010</year>
+		<authors>florian reitz</authors>
+		<jconf>European Conference on Digital Libraries</jconf>
+		<label>791</label>
+		<keyword>Digital Library;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Regelbasierte Extraktion und asymmetrische Fusion bibliographischer Informationen</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>791</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

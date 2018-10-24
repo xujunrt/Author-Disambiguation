@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gregory Williams</FullName>
+	<publication>
+		<title>Reconciling perspectives of software logic testing</title>
+		<year>2008</year>
+		<authors>garrett kaminski,paul ammann</authors>
+		<jconf>Software Testing, Verification &amp; Reliability</jconf>
+		<label>260</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

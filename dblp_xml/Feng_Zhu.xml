@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Feng Zhu</FullName>
+	<publication>
+		<title>Adaptive Scheduling of Data Paths using Uppaal Tiga</title>
+		<year>2009</year>
+		<authors>israa alattili,fred houben,georgeta igna,steffen michels,frits w. vaandrager</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>239</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modelling Clock Synchronization in the Chess gMAC WSN Protocol</title>
+		<year>2009</year>
+		<authors>mathijs schuts,faranak heidarian,frits w. vaandrager</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>239</label>
+		<keyword>Clock Synchronization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

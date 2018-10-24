@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Sauer</FullName>
+	<publication>
+		<title>Connecting Genes with Diseases</title>
+		<year>2009</year>
+		<authors>heimo müller,robert reihs,kurt zatloukal,marc streit,alexander lex,bernhard schlegl,dieter schmalstieg</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>973</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interactive Patient Records</title>
+		<year>2010</year>
+		<authors>heimo müller,kurt zatloukal,thomas bauernhofer</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>973</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

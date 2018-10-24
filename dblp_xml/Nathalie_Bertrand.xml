@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nathalie Bertrand</FullName>
+	<publication>
+		<title>The Mapping of Texture on VR Polygonal Models</title>
+		<year>1999</year>
+		<authors>denis laurendeau,régis houde</authors>
+		<jconf>International Conference on 3-D Imaging and Modeling</jconf>
+		<label>777</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

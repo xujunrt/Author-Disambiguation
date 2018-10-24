@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christopher Brown</FullName>
+	<publication>
+		<title>Refactoring Functional Programs at the University of Kent</title>
+		<year>2007</year>
+		<authors>simon j. thompson,huiqing li,claus reinke,nik sultana</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>157</label>
+		<keyword>Functional Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Clone detection and elimination for Haskell</title>
+		<year>2010</year>
+		<authors>simon thompson</authors>
+		<jconf>Partial Evaluation and Semantic-Based Program Manipulation</jconf>
+		<label>157</label>
+		<keyword>Clone Detection;Code Clone;Program Analysis;Program Transformation;Software Maintenance;Abstract Syntax Tree;</keyword>
+		<organization>null</organization>
+		<abstract>Duplicated code is a well known problem in software maintenance and refactoring. Code clones tend to increase program size and several studies have shown that duplicated code makes maintenance and code understanding more complex and time consuming. This paper presents a new technique for the detection and removal of duplicated Haskell code. The system is implemented within the refactoring framework</abstract>
+	</publication>
+</person>

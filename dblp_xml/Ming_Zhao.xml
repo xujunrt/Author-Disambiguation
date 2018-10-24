@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ming Zhao</FullName>
+	<publication>
+		<title>A computational method for outage probability exploiting spatial diversity without channel state information at transmitter</title>
+		<year>2009</year>
+		<authors>ning hu,xiaofeng zhong,jing wang,luo chen</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>734</label>
+		<keyword>Computational Method;Outage Probability;Spatial Diversity;Channel State Information at Transmitter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the achievable outage probability of opportunistic relaying with decode-and-forward</title>
+		<year>2009</year>
+		<authors>ning hu,xiaofeng zhong,jing wang,luo chen</authors>
+		<jconf>Canadian Conference on Electrical and Computer Engineering</jconf>
+		<label>734</label>
+		<keyword>Decode and Forward;Outage Probability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Iterative Receiver with Channel Estimation for MIMO-OFDM Over a Time and Frequency Dispersive Fading Channel</title>
+		<year>2007</year>
+		<authors>zhenning shi,mark c. reed</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword>Channel Estimation;Fading Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Impacts of Radio Channels and Node Mobility on Link Statistics in Mobile Ad Hoc Networks</title>
+		<year>2007</year>
+		<authors>wenye wang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword>Adaptive Routing;Exponential Distribution;Mobile Ad Hoc Network;Mobility Model;Network Performance;Time Scale;Transition Probability Matrix;Impact Factor;</keyword>
+		<organization>null</organization>
+		<abstract>Understanding link statistics in mobile ad hoc net- works (MANETs) is essential to design adaptive routing protocols and achieve desired network performance. While much attention has been given to the node mobility impacts, little has been done to investigate the influence of dynamic channel fadings and the joint effects of the interactions among radio channels, transmission range, node mobility and</abstract>
+	</publication>
+	<publication>
+		<title>Joint Power and Channel Resource Allocation for F/TDMA Decode and Forward Relay Networks</title>
+		<year>2009</year>
+		<authors>yin sun,yuanzhang xiao,xiaofeng zhong,shidong zhou,ness b. shroff</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword>Decode and Forward;Relay Network;Resource Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Power Allocation in OFDM-Based Cognitive Radio Systems</title>
+		<year>2007</year>
+		<authors>peng wang,limin xiao,shidong zhou,jing wang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword>Cognitive Radio;Power Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Transmission Strategies Against Channel Time Variations in Multiuser MIMO Downlink Systems</title>
+		<year>2007</year>
+		<authors>hongmei wang,xibin xu,yan yao</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Semi-Markov Smooth Mobility Model for Mobile Ad Hoc Networks</title>
+		<year>2006</year>
+		<authors>wenye wang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>734</label>
+		<keyword>Mobile Ad Hoc Network;Mobile Network;Mobility Model;Random Waypoint Model;Simulation Experiment;Steady State Analysis;Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Existing random mobility models have their limi- tations such as speed decay and sharp turn which have been demonstrated by the previous studies. More importantly, mobility models need to mimic the movements that abide by the physical law for accurate analysis and simulations of mobile networks. Therefore, in this paper, we propose a novel mobility model, Semi- Markov Smooth (SMS)</abstract>
+	</publication>
+	<publication>
+		<title>Uplink-Downlink Duality of ICI Cancellation in OFDMA Systems with Carrier-Frequency Offset</title>
+		<year>2007</year>
+		<authors>min huang,shidong zhou,jing wang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>734</label>
+		<keyword>Carrier Frequency Offset;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On The Optimal Amount of Training for Peak-Power-Limited Rayleigh Fading Channels</title>
+		<year>2007</year>
+		<authors>wei mao,xin su,xibin xu</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>734</label>
+		<keyword>Rayleigh Fading Channel;Peak Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SNCC: A Selective Network-Coded Cooperation Scheme in Wireless Networks</title>
+		<year>2007</year>
+		<authors>cong peng,qian zhang,yan yao</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>734</label>
+		<keyword>Network Coding;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Limited-Feedback Modified Block Diagonalization for Multiuser MIMO Downlink with Time-Varying Channels</title>
+		<year>2009</year>
+		<authors>yuanzhang xiao,wei miao,shidong zhou,jing wang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>734</label>
+		<keyword>Time-varying Channel;Block Diagonalization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Turbo Channel Estimation for OFDM System over Rapid Dispersive Fading Channel</title>
+		<year>2008</year>
+		<authors>zhenning shi,mark c. reed</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>734</label>
+		<keyword>Channel Estimation;Fading Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Performance Analysis of Network-Coded Cooperation in Wireless Networks</title>
+		<year>2008</year>
+		<authors>cong peng,qian zhang,yan yao,weijia jia</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>734</label>
+		<keyword>Network Coding;Performance Analysis;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint Effects of Radio Channels and Node Mobility on Link Dynamics in Wireless Networks</title>
+		<year>2008</year>
+		<authors>wenye wang</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>734</label>
+		<keyword>Analytical Model;End To End Delay;Exponential Distribution;Mobile Ad Hoc Network;Network Connectivity;Packet Loss;Performance Metric;Wireless Network;Impact Factor;Mobile Node;On The Fly;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study link properties over dynamic radio channels based on analytical models and simulations. Specifically, channel variability and mobility are investigated through two quantities: effective transmission range and node- pair distance, respectively. We find that the PDF of link lifetime can be approximated by exponential distribution with parameter characterized by the ratio of average node speed to</abstract>
+	</publication>
+	<publication>
+		<title>Relaying Schemes for MIMO Broadcast Channels: Coexistence of Direct-link and Relay-link Users</title>
+		<year>2009</year>
+		<authors>tianheng wang,xiang chen,limin xiao,jing wang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>734</label>
+		<keyword>Cellular Network;Indexing Terms;Interference Cancellation;Large Scale;Multiple Input Multiple Output;Broadcast Channel;Zero Forcing;</keyword>
+		<organization>null</organization>
+		<abstract>The combination of relay and Multiple-Input Multiple-Output (MIMO) techniques can significantly benefit the signal transmission in cellular networks. In this work, we propose a novel relaying scheme for the relay assisted MIMO broadcast channel including user classification and precoding. The users are firstly classified as Direct Link (DL) users and Relay Link (RL) users according to their channel conditions. After</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Transmission Schemes for Multiuser MIMO-OFDM Downlink Systems in Time-Varying Channels</title>
+		<year>2008</year>
+		<authors>hongmei wang,xibin xu,weiling wu,yan yao</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>734</label>
+		<keyword>Time-varying Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust Transmission for Multiuser MIMO Downlink Systems with Imperfect CSIT</title>
+		<year>2008</year>
+		<authors>hongmei wang,xibin xu,weiling wu,yan yao</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>734</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An uplink analytical model for two-tiered 3G femtocell networks</title>
+		<year>2010</year>
+		<authors>zhenning shi,he wang,mark c. reed</authors>
+		<jconf>Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks</jconf>
+		<label>734</label>
+		<keyword>Analytical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An optimal OSA approach based on channel-usage estimate under collision probability constraint in cognitive radio systems</title>
+		<year>2009</year>
+		<authors>qinghai xiao,yunzhou li,shidong zhou,jing wang</authors>
+		<jconf>Annales Des T��l��communications</jconf>
+		<label>734</label>
+		<keyword>Cognitive Radio;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Opportunistic channel selection approach under collision probability constraint in cognitive radio systems</title>
+		<year>2009</year>
+		<authors>qinghai xiao,yunzhou li,shidong zhou,jing wang</authors>
+		<jconf>Computer Communications</jconf>
+		<label>734</label>
+		<keyword>Cognitive Radio;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Linear Precoding Based on Sub-Channel Permutation in Post-Combining MIMO-HARQ Systems</title>
+		<year>2006</year>
+		<authors>jinxia cheng,chi liu,shidong zhou,yan yao</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>linear precoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Evaluation Method for the Downlink Capacity of Distributed Antenna Systems</title>
+		<year>2009</year>
+		<authors>wei feng,yifei zhao,shidong zhou,jing wang,minghua xia</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Evaluation Method;Distributed Antenna System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Outage Probability Based Optimal Transmission of Space Time Block Codes over Correlated Distributed Antennas</title>
+		<year>2006</year>
+		<authors>shuangfeng han,shidong zhou,jing wang,kyung park</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Outage Probability;Space Time Block Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Precoding Scheme for Downlink OFDMA System with Carrier-Frequency Offset</title>
+		<year>2007</year>
+		<authors>min huang,shidong zhou,jing wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Carrier Frequency Offset;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Regenerative Strategy for Fairness in Bidirectional Three-Node Relaying</title>
+		<year>2008</year>
+		<authors>ning hu,xiaofeng zhong,jing wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Joint Stream-Wise THP Transceiver Design for the Multiuser MIMO Downlink</title>
+		<year>2009</year>
+		<authors>wei miao,xiang chen,shidong zhou,jing wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Linear Precoding for V-BLAST Systems in the Presence of Fading Correlations</title>
+		<year>2006</year>
+		<authors>tingting shi,shidong zhou,yan yao</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>linear precoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low-Complexity ICI Cancellation in Frequency Domain for OFDM Systems in Time-Varying Multipath Channels</title>
+		<year>2006</year>
+		<authors>hongmei wang,xiang chen,shidong zhou,yan yao</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Frequency Domain;Low Complexity;Multipath Channel;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MIMO Broadcast Transmission Strategy over Fast Time-Varying Channels</title>
+		<year>2008</year>
+		<authors>hongmei wang,xibin xu,weiling wu,yan yao</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Time-varying Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Capacity Bound of MIMO Systems with MPSK Modulation and Time-Multiplexed Pilots</title>
+		<year>2006</year>
+		<authors>yifei zhao,yunzhou li,jing wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>mimo system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Capacity Bound of MIMO Systems with MPSK Modulation and Superimposed Pilots</title>
+		<year>2005</year>
+		<authors>yifei zhao,jing wang,yong ren</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>mimo system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Capacity Bounds of SIMO Systems with Co-Channel Interferers</title>
+		<year>2005</year>
+		<authors>yifei zhao,shidong zhou,jing wang</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>734</label>
+		<keyword>Co Channel Interference;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Performance Analysis of Network-Coded Cooperation in Wireless Networks</title>
+		<year>2008</year>
+		<authors>cong peng,qian zhang,yan yao,weijia jia</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>734</label>
+		<keyword>Network Coding;Performance Analysis;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Turbo Channel Estimation for OFDM System over Rapid Dispersive Fading Channel</title>
+		<year>2008</year>
+		<authors>zhenning shi,mark c. reed</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>734</label>
+		<keyword>Channel Estimation;Fading Channel;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A unified mobility model for analysis and simulation of mobile wireless networks</title>
+		<year>2009</year>
+		<authors>wenye wang</authors>
+		<jconf>Wireless Networks</jconf>
+		<label>734</label>
+		<keyword>Exponential Distribution;Mobile Network;Mobile Wireless Network;Mobility Model;semi-markov process;Steady State;Stochastic Analysis;Sudden Stop;Uniform Distribution;Wireless Network;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a novel mobility model, named Semi-Markov Smooth (SMS) model, to characterize the smooth movement of mobile users in accordance with the physical law of motion in order to eliminate sharp turns, abrupt speed change and sudden stops exhibited by existing models. We formulate the smooth mobility model by a semi-Markov process to analyze the steady state properties of</abstract>
+	</publication>
+	<publication>
+		<title>Support for Data-Intensive, Variable-Granularity Grid Applications via Distributed File System Virtualization - A Case Study of Light Scattering Spectroscopy</title>
+		<year>2004</year>
+		<authors>jithendar paladugula,renato j. o. figueiredo</authors>
+		<jconf>Challenges of Large Applications in Distributed Environments</jconf>
+		<label>735</label>
+		<keyword>Application Development;Case Study;Communication Channels;Data Locality;Data Management;Distributed Application;Distributed File System;Generic Programming;Grid Applications;Grid Middleware;Light Scattering;Medical Image;Network File System;</keyword>
+		<organization>null</organization>
+		<abstract>A key challenge faced by large-scale, distributed applications in Grid environments is efficient, seamless data management. In particular, for applications that can benefit from access to data at variable granularities, data management can pose additional programming burdens to an application developer. This paper presents a case for the use of virtualized distributed file systems as a basis for data management</abstract>
+	</publication>
+	<publication>
+		<title>On the Use of Virtualization and Service Technologies to Enable Grid-Computing</title>
+		<year>2005</year>
+		<authors>andréa m. matsunaga,maurício o. tsugawa,liping zhu,vivekananthan sanjeepan,sumalatha adabala,renato j. o. figueiredo,herman lam,josé a. b. fortes</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>735</label>
+		<keyword>Grid Computing;Middleware;Virtual Networks;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>The In-VIGO approach to Grid-computing relies on the dynamic establishment of virtual grids on which application services are instantiated. In- VIGO was conceived to enable computational science to take place In Virtual Information Grid Organizations. Having its first version deployed on July of 2003, In-VIGO middleware is currently used by scientists from various disciplines, a noteworthy example being the computational</abstract>
+	</publication>
+	<publication>
+		<title>Supporting application-tailored grid file system sessions with WSRF-based services</title>
+		<year>2005</year>
+		<authors>vineet chadha,renato j. o. figueiredo</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>735</label>
+		<keyword>Consistency Model;Data Access;Data Management;Data Transfer;Distributed File System;Failure Detection;File System;Grid System;Middleware;Scientific Application;Service Management;Virtual Machine;Experience Base;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents novel service-based Grid data management middleware that leverages standards defined by WSRF specifications to create and manage dynamic Grid file system sessions. A unique aspect of the service is that the sessions it creates can be customized to address application data transfer needs. Application-tailored configurations enable selection of both performance-related features (block-based partial file transfers and/or whole-file</abstract>
+	</publication>
+	<publication>
+		<title>Distributed File System Support for Virtual Machines in Grid Computing</title>
+		<year>2004</year>
+		<authors>jian zhang,renato j. o. figueiredo</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>735</label>
+		<keyword>Consistency Model;Data Association;Data Management;Data Transfer;Distributed File System;Grid Computing;Middleware;Virtual Machine;Virtual Memory;Execution Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a data management solution which allows fast Virtual Machine (VM) instantiation and efficient run-time execution to support VMs as execution environments in Grid computing. It is based on novel distributed file system virtualization techniques and is unique in that: 1) it provides on-demand access to VM state for unmodified VM monitors; 2) it supports user-level and write-back</abstract>
+	</publication>
+	<publication>
+		<title>On the Use of Fuzzy Modeling in Virtualized Data Center Management</title>
+		<year>2007</year>
+		<authors>jing xu,josé a. b. fortes,robert carpenter,mazin s. yousif</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>735</label>
+		<keyword>Controller Design;Data Center;Dynamic Change;Fuzzy Logic;Fuzzy Model;Resource Allocation;Resource Management System;Service Quality;</keyword>
+		<organization>null</organization>
+		<abstract>One of the most important goals of data-center management is to reduce cost through efficient use of resources. Virtualization techniques provide the opportunity of carving individual physical servers into multiple virtual containers that can be run and managed separately. A key challenge that comes with virtualization is the simultaneous on-demand provisioning of shared resources to virtual containers and the management</abstract>
+	</publication>
+	<publication>
+		<title>Towards Autonomic Grid Data Management with Virtualized Distributed File Systems</title>
+		<year>2006</year>
+		<authors>jing xu,renato j. o. figueiredo</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>735</label>
+		<keyword>Data Access;Data Management;Data Replication;Distributed File System;File System;Management Control;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes an autonomic Grid data management architecture based on virtualized distributed file systems and WSRF-compliant management services. Autonomic functions are integrated into the services to provide self-managing control over the different entities of Grid-wide file system session, in accordance with high-level objectives, and operate together to automatically achieve the desired data provisioning behaviors. Important autonomic features are implemented</abstract>
+	</publication>
+	<publication>
+		<title>Towards Real-Time Distributed Signal Modeling for Brain-Machine Interfaces</title>
+		<year>2007</year>
+		<authors>jack digiovanna,loris marchal,prapaporn rattanatamrong,shalom darmanjian,babak mahmoudi,justin c. sanchez,josé c. príncipe,linda hermer-vazquez,renato j. o. figueiredo,josé a. b. fortes</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>735</label>
+		<keyword>Brain Machine Interface;Inverse Modeling;Mixture Model;Predictive Control;Reinforcement Learning;Robot Arm;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>New architectures for Brain-Machine Interface communication and control use mixture models for expanding rehabilitation capabilities of disabled patients. Here we present and test a dynamic data-driven (BMI) Brain-Machine Interface architecture that relies on multiple pairs of forward-inverse models to predict, control, and learn the trajectories of a robotic arm in a real-time closed- loop system. A method of window-RLS was</abstract>
+	</publication>
+	<publication>
+		<title>Application-Tailored Cache Consistency for Wide-Area File Systems</title>
+		<year>2006</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>735</label>
+		<keyword>Cache Consistency;Consistency Model;Experimental Evaluation;File System;Information Presentation;Middleware;Performance Optimization;Scientific Application;Network File System;</keyword>
+		<organization>null</organization>
+		<abstract>The inability to perform optimizations based on application-specific information presents a hurdle to the deployment of pervasive LAN file systems across WAN environments. This paper proposes a novel approach addressing this problem through application-tailored caching and consistency in wide- area file systems. It leverages widely available Network File System (NFS) deployments without any modifications to kernels nor applications, and employs</abstract>
+	</publication>
+	<publication>
+		<title>A user-level secure grid file system</title>
+		<year>2007</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>735</label>
+		<keyword>Data Access;Data Sharing;Distributed File System;File System;Grid Middleware;Grid System;Security Management;Security Requirements;Access Control;Grid Security Infrastructure;</keyword>
+		<organization>null</organization>
+		<abstract>A grid-wide distributed file system provides convenient data access interfaces that facilitate fine-grained cross-domain data sharing and collaboration. However, existing widely-adopted distributed file systems do not meet the security requirements for grid systems. This paper presents a Secure Grid File System (SGFS) which supports GSI-based authentication and access control, end-to-end message privacy, and integrity. It employs user-level virtualization of NFS</abstract>
+	</publication>
+	<publication>
+		<title>Cooperative Autonomic Management in Dynamic Distributed Systems</title>
+		<year>2009</year>
+		<authors>jing xu,josé a. b. fortes</authors>
+		<jconf>Self-Stabilizing Systems</jconf>
+		<label>735</label>
+		<keyword>Dynamic Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomic resource management in virtualized data centers using fuzzy logic-based approaches</title>
+		<year>2008</year>
+		<authors>jing xu,josé a. b. fortes,robert carpenter,mazin s. yousif</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>735</label>
+		<keyword>Data Center;Fuzzy Logic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distributed File System Virtualization Techniques Supporting On-Demand Virtual Machine Environments for Grid Computing</title>
+		<year>2006</year>
+		<authors>jian zhang,renato j. o. figueiredo</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>735</label>
+		<keyword>Consistency Model;Data Association;Data Management;Data Transfer;Distributed File System;File System;Grid Computing;Middleware;Virtual Machine;Virtual Memory;Execution Environment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a data management solution which allows fast Virtual Machine (VM) instantiation and efficient run-time execution to support VMs as execution environments in Grid computing. It is based on novel distributed file system virtualization techniques and is unique in that: (1) it provides on-demand cross-domain access to VM state for unmodified VM monitors; (2) it enables private file</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Person Annotation of Family Photo Album</title>
+		<year>2006</year>
+		<authors>yong teo,siliang liu,tat-seng chua,ramesh jain</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>736</label>
+		<keyword>Context Information;Face Recognition;Graphical Model;Management Tool;Social Context;</keyword>
+		<organization>null</organization>
+		<abstract>Digital photographs are replacing tradition films in our daily life and the quantity is exploding. This stimulates the strong need for effi- cient management tools, in which the annotation of &quot;who&quot; in each photo is essential. In this paper, we propose an automated method to annotate family photos using evidence from face, body and context information. Face recognition is the</abstract>
+	</publication>
+	<publication>
+		<title>Visual Synset: Towards a higher-level visual representation</title>
+		<year>2008</year>
+		<authors>yantao zheng,shi-yong neo,tat-seng chua,qi tian</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>736</label>
+		<keyword>Object Categorization;Probability Distribution;Spatial Context;Visual Representation;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>We present a higher-level visual representation, visual synset, for object categorization. The visual synset im- proves the traditional bag of words representation with bet- ter discrimination and invariance power. First, the ap- proach strengthens the inter-class discrimination power by constructing an intermediate visual descriptor, delta visual phrase, from frequently co-occurring visual word-set with similar spatial context. Second, the approach achieves</abstract>
+	</publication>
+	<publication>
+		<title>Tour the World: Building a web-scale landmark recognition engine</title>
+		<year>2009</year>
+		<authors>yantao zheng,yang song,hartwig adam,ulrich buddemeier,alessandro bissacco,fernando brucher,tat-seng chua,hartmut neven</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>736</label>
+		<keyword>High Efficiency;Image Matching;Image Search;Large Scale System;Multimedia Data;Object Recognition;Photo Sharing;Unsupervised Clustering;Visual Modeling;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Modeling and recognizing landmarks at world-scale is a useful yet challenging task. There exists no readily avail- able list of worldwide landmarks. Obtaining reliable visual models for each landmark can also pose problems, and ef- ficiency is another challenge for such a large scale system. This paper leverages the vast amount of multimedia data on the web, the availability of</abstract>
+	</publication>
+	<publication>
+		<title>Face Alignment with Unified Subspace Optimization of Active Statistical Models</title>
+		<year>2006</year>
+		<authors>tat-seng chua</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>736</label>
+		<keyword>Active Appearance Model;Active Shape Model;Face Alignment;Optimal Method;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Active statistical models including active shape models and active appearance models are very powerful for face alignment. They are composed of two parts: the subspace model(s) and the search process. While these two parts are closely correlated, existing efforts treated them sepa- rately and had not considered how to optimize them over- all. Another problem with the subspace model(s) is</abstract>
+	</publication>
+	<publication>
+		<title>Markovian mixture face recognition with discriminative face alignment</title>
+		<year>2008</year>
+		<authors>tat-seng chua</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>736</label>
+		<keyword>Face Alignment;Face Detection;Face Recognition;Probability Distribution;Stochastic Process;Bottom Up;Markov Chain;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>A typical automatic face recognition system is composed of three parts: face detection, face alignment and face recognition. Conventionally, these three parts are processed in a bottom-up manner: face detection is performed first, then the results are passed to face alignment, and finally to face recognition. The bottom-up approach is one extreme of vision approaches. The other extreme approach is</abstract>
+	</publication>
+	<publication>
+		<title>Subspace Analysis and Optimization for AAM Based Face Alignment</title>
+		<year>2004</year>
+		<authors>chun chen,stan z. li,jiajun bu</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>737</label>
+		<keyword>Active Appearance Model;Error Analysis;Face Alignment;</keyword>
+		<organization>null</organization>
+		<abstract>Active Appearance Models (AAM) is very powerful for extracting objects, e.g. faces, from images. It is composed of two parts: the AAM subspace model and the AAM search. While these two parts are closely correlated, existing ef- forts treated them separately and had not considered how to optimize them overall. In this paper, an approach is pro- posed to optimize</abstract>
+	</publication>
+	<publication>
+		<title>Morphable Face Reconstruction with Multiple Images</title>
+		<year>2006</year>
+		<authors>tat-seng chua,terence sim</authors>
+		<jconf>IEEE International Conference on Automatic Face and Gesture Recognition</jconf>
+		<label>736</label>
+		<keyword>Face Animation;Pose Estimation;Shape Matching;Shape Modeling;Texture Mapping;</keyword>
+		<organization>null</organization>
+		<abstract>Efficient 3D face reconstruction is very important for face animation and recognition. The slow speed of the 3D morphable model is due to the texture mapping. To improve the speed, we only use the shape matching to recover the 3D shape and use texture mapping to get the texture. However, only with the shape information, one image is not enough</abstract>
+	</publication>
+	<publication>
+		<title>Exploring knowledge of subdomain in a multi-resolution bootstrapping framework for concept detection in news video</title>
+		<year>2008</year>
+		<authors>gang wang,tat-seng chua</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>736</label>
+		<keyword>Domain Knowledge;Error Bound;Multi Resolution Analysis;System Performance;transductive learning;Unlabeled Data;Multi Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a model based on a multi-resolution, multi-source and multi-modal (M3) bootstrapping framework that exploits knowledge of sub-domains for concept detection in news video. Because the characteristics and distributions of data in different sub-domains are different, we model and analyze the video in each sub-domain separately using a transductive framework. Along with this framework, we propose</abstract>
+	</publication>
+	<publication>
+		<title>Tour the world: a technical demonstration of a web-scale landmark recognition engine</title>
+		<year>2009</year>
+		<authors>yantao zheng,yang song,hartwig adam,ulrich buddemeier,alessandro bissacco,fernando brucher,tat-seng chua,hartmut neven,jay yagnik</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>736</label>
+		<keyword>Google Earth;Image Search;Photo Sharing;Visual Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>We present a technical demonstration of a world-scale touristic landmark recognition engine. To build such an engine, we leverage ~21.4 million images, from photo sharing websites and Google Image Search, and around two thousand web articles to mine the landmark names and learn the visual models. The landmark recognition engine incorporates 5312 landmarks from 1259 cities in 144 countries. This</abstract>
+	</publication>
+	<publication>
+		<title>Multifaceted contextual model for person identification in news video</title>
+		<year>2006</year>
+		<authors>shi-yong neo,hai-kiat goh,tat-seng chua</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>736</label>
+		<keyword>Feature Extraction;Audio Visual;</keyword>
+		<organization>null</organization>
+		<abstract>Person identification is very important in the domain of multimedia news as it is often the focus of events in news stories and interest of searchers. However, this detection is impeded by the imprecise audio/visual analysis tools. In this paper, we describe a multimodal and multi-faceted approach to Person-X detection in news video. We make use of multimodal features extracted</abstract>
+	</publication>
+	<publication>
+		<title>Double-orthogonal coded space-time-frequency spreading CDMA scheme</title>
+		<year>2006</year>
+		<authors>zhendong luo,junshi liu,yuanan liu,jinchun gao</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>738</label>
+		<keyword>Space Time Frequency;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generalized Parallel Interference Cancellation With Near-Optimal Detection Performance</title>
+		<year>2008</year>
+		<authors>zhendong luo,siyang liu,yuanan liu</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<label>738</label>
+		<keyword>Parallel Interference Canceller;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Fast Recursive MMSE-SIC Detection Algorithm for V-BLAST Systems</title>
+		<year>2007</year>
+		<authors>zhendong luo,siliang liu,yuanan liu</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>738</label>
+		<keyword>Detection Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A CoS-enabled Request Scheduling Policy</title>
+		<year>2006</year>
+		<authors>yu-bin yang,yazhe tang,lei yao</authors>
+		<jconf>Enterprise Distributed Object Computing Conference</jconf>
+		<label>739</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CoS-based QoS management framework for grid services</title>
+		<year>2007</year>
+		<authors>yazhe tang,yu-bin yang,lei yao,ya li</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>739</label>
+		<keyword>Grid Service;qos management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

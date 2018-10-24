@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xue Liu</FullName>
+	<publication>
+		<title>Chaos Detection in the Firing Activities of Retinal Ganglion Cells in Response to Natural Stimuli</title>
+		<year>2008</year>
+		<authors>chao-feng cai,ying-ying zhang,pei-ji liang,pu-ming zhang</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>1132</label>
+		<keyword>Natural Stimuli;Retinal Ganglion Cell;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Method for Multiple Spike Train Analysis Based on Information Discrepancy</title>
+		<year>2006</year>
+		<authors>guang-li wang,pu-ming zhang,pei-ji liang</authors>
+		<jconf>International Conference on Neural Information Processing</jconf>
+		<label>1132</label>
+		<keyword>Spike Train Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

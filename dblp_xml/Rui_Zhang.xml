@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Rui Zhang</FullName>
+	<publication>
+		<title>Tweaking TBE/IBE to PKE Transforms with Chameleon Hash Functions</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>893</label>
+		<keyword>chosen-ciphertext security;Hash Function;Public Key Encryption;Security Requirements;Hierarchical Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract>We present two transforms to acquire chosen ciphertext security from tag based techniques. The first one requires the separability of underlying primitives. By separability, informally, we mean the encryption algorithm has special structures and can process the identity and the message independently. Compared with generic transforms (8), it significantly reduces the ciphertext size overhead with only marginal computation cost. Compared</abstract>
+	</publication>
+	<publication>
+		<title>Short Signature and Universal Designated Verifier Signature Without Random Oracles</title>
+		<year>2005</year>
+		<authors>jun furukawa,hideki imai</authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>893</label>
+		<keyword>Public Key;Random Oracle;Short Signature;Universal Design;</keyword>
+		<organization>null</organization>
+		<abstract>We propose the first universal designated verifier signature (UDVS) scheme whose security can be proven without random oracles, whereas the security of all previously known UDVS schemes are proven only when random oracles are assumed. To achieve our goal, we present a new short signature scheme without random oracles, which is a variant of BB04 signature (4). We also give</abstract>
+	</publication>
+	<publication>
+		<title>On the Security of Cryptosystems with All-or-Nothing Transform</title>
+		<year>2004</year>
+		<authors>goichiro hanaoka,hideki imai</authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>893</label>
+		<keyword>Chosen Ciphertext Attack;Data Privacy;Polynomial Time;Provable Security;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>We study the data privacy of cryptosystems with All-or-Nothing transform (AONT). An AONT is an efficient computable transform with two properties: Given all thebits of its output, it is easy to retrieve the message. On the other hand, if sufficiently many bits of the output are missing, it is computationally infeasible for an polynomial-time adversary to learn any information about</abstract>
+	</publication>
+	<publication>
+		<title>Round Optimal Distributed Key Generation of Threshold Cryptosystem Based on Discrete Logarithm Problem</title>
+		<year>2003</year>
+		<authors>hideki imai</authors>
+		<jconf>Applied Cryptography and Network Security</jconf>
+		<label>893</label>
+		<keyword>Building Block;Discrete Logarithm Problem;It Security;Protocol Design;Verifiable Secret Sharing;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed key generation is one of the most challenging tasks for threshold cryptosystems. Designing such a protocol and proving its security against a malicious, adaptive adversary are very important in practice. In this paper,we propose a one round distributed key generation protocol for discrete logarithm problem (DLP) based threshold cryptosystems. Our construction generalizes the scope of design of one round</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Identity-Based Encryption with Tight Security Reduction</title>
+		<year>2007</year>
+		<authors>nuttapong attrapadung,jun furukawa,takeshi gomi,goichiro hanaoka,hideki imai</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>893</label>
+		<keyword>Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generic Combination of Public Key Encryption with Keyword Search and Public Key Encryption</title>
+		<year>2007</year>
+		<authors>hideki imai</authors>
+		<jconf>Cryptology and Network Security</jconf>
+		<label>893</label>
+		<keyword>Data Encryption;Keyword Search;Mobile Phone;Modular Design;Public Key;public key cryptosystem;Public Key Encryption;Random Oracle;Random Oracle Model;Security Model;Security Requirements;Semantic Security;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the problem of secure integrating public key encryption with keyword search (PEKS) with public key data encryption (PKE). We argue the previous security model is not complete regarding keyword privacy and the previous constructions are secure only in the random oracle model. We solve these problems by first defining a new security model, then give</abstract>
+	</publication>
+	<publication>
+		<title>A generic construction of useful client puzzles</title>
+		<year>2009</year>
+		<authors>goichiro hanaoka,hideki imai</authors>
+		<jconf>Computer and Communications Security</jconf>
+		<label>893</label>
+		<keyword>Authenticated Encryption;Denial of Service;Dos Attack;Identity Based Encryption;Identity Based Cryptography;Provable Security;Random Oracle;Standard Model;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Denial of Service (DoS) attacks are serious threats for net- work societies. For dealing with DoS attacks, Jakobsson and Juels first proposed the notion of useful client puzzles (UCPs) which simultaneously decrease servers’ burden and increase clients’. In ACM CCS’04, Diament, Lee, Keromytis, and Yung introduced the decryption-based UCPs. In this paper, we give a general framework for constructing</abstract>
+	</publication>
+	<publication>
+		<title>Improvements on Security Proofs of Some Identity Based Encryption Schemes</title>
+		<year>2005</year>
+		<authors>hideki imai</authors>
+		<jconf>Conference on Information Security and Cryptology</jconf>
+		<label>893</label>
+		<keyword>Identity Based Encryption;Security Proof;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Orthogonality between Key Privacy and Data Privacy, Revisited</title>
+		<year>2007</year>
+		<authors>goichiro hanaoka,hideki imai</authors>
+		<jconf>Conference on Information Security and Cryptology</jconf>
+		<label>893</label>
+		<keyword>Chosen Ciphertext Attack;Data Privacy;Data Security;Public Key;Public Key Encryption;Random Oracle Model;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>Key privacy is a notion regarding the privacy of the owner of a public key, which has important ap- plications in building (receiver) anonymous channels, or privacy-enhanced authentication/signature schemes. Key privacy is considered to be an orthogonal (i.e., independent), notion from data privacy, while the key privacy of many public key encryption schemes has not been explored, though their data</abstract>
+	</publication>
+	<publication>
+		<title>Strong Anonymous Signatures</title>
+		<year>2008</year>
+		<authors>hideki imai</authors>
+		<jconf>Conference on Information Security and Cryptology</jconf>
+		<label>893</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On the Security of Multiple Encryption or CCA-security+CCA-security=CCA-security?</title>
+		<year>2004</year>
+		<authors>goichiro hanaoka,junji shikata,hideki imai</authors>
+		<jconf>Public Key Cryptography</jconf>
+		<label>893</label>
+		<keyword>Chosen Ciphertext Attack;It Security;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>In a practical system, a message is often encrypted more than once by dieren t encryptions, here called multiple encryption, to enhance its security. Additionally, new features may be achieved by multiple en- crypting a message, such as the key-insulated cryptosystems and anony- mous channels. Intuitively, a multiple encryption should remain \secure&quot;, whenever there is one component cipher unbreakable in</abstract>
+	</publication>
+	<publication>
+		<title>Formal Security Treatments for Signatures from Identity-Based Encryption</title>
+		<year>2007</year>
+		<authors>yang cui,eiichiro fujisaki,goichiro hanaoka,hideki imai</authors>
+		<jconf>Provable Security</jconf>
+		<label>893</label>
+		<keyword>Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Identity-Based Encryption with Tight Security Reduction</title>
+		<year>2007</year>
+		<authors>nuttapong attrapadung,jun furukawa,takeshi gomi,goichiro hanaoka,hideki imai</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>893</label>
+		<keyword>Identity Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Formal Security Treatments for IBE-to-Signature Transformation: Relations among Security Notions</title>
+		<year>2009</year>
+		<authors>yang cui,eiichiro fujisaki,goichiro hanaoka,hideki imai</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>893</label>
+		<keyword>Digital Signature;Identity Based Encryption;Security Proof;Semantic Security;Signature Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>In a seminal paper of identity based encryption (IBE), Boneh and Franklin (BF01) mentioned an interesting transform from an IBE scheme to a signature scheme, which was observed by Moni Naor. In this paper, we give formal security treatments for this transform and discover several implications and separations among security notions of IBE and transformed signature. For example, we show</abstract>
+	</publication>
+	<publication>
+		<title>Combining Public Key Encryption with Keyword Search and Public Key Encryption</title>
+		<year>2009</year>
+		<authors>hideki imai</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>893</label>
+		<keyword>Data Encryption;Keyword Search;Mobile Phone;Modular Design;Public Key;Public Key Encryption;Random Oracle;Random Oracle Model;Security Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the problem of secure integrating public key encryption with keyword search (PEKS) with public key data encryption (PKE). We argue the previous security model is not complete regarding keyword privacy and the previous constructions are secure only in the random oracle model. We solve these problems by rst dening a new security model, then give</abstract>
+	</publication>
+	<publication>
+		<title>RoleVAT: Visual Assessment of Practical Need for Role Based Access Control</title>
+		<year>2009</year>
+		<authors>dana zhang,kotagiri ramamohanarao,steven versteeg</authors>
+		<jconf>Annual Computer Security Applications Conference</jconf>
+		<label>894</label>
+		<keyword>Role Based Access Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Effective Density Queries on ContinuouslyMoving Objects</title>
+		<year>2006</year>
+		<authors>christian s. jensen,dan lin,beng chin ooi</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>894</label>
+		<keyword>Empirical Study;Indexation;linear functionals;Moving Object;Object Model;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper assumes a setting where a population of objects move continuously in the Euclidean plane. The position of each object, modeled as a linear function from time to points, is assumed known. In this setting, the paper studies the querying for dense regions. In particular, the paper denes,a particular type of density query with desirable properties and then</abstract>
+	</publication>
+	<publication>
+		<title>Mining distribution change in stock order streams</title>
+		<year>2010</year>
+		<authors>xiaoyan liu,xindong wu,huaiqing wang,james bailey,kotagiri ramamohanarao</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>894</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuous Intersection Joins Over Moving Objects</title>
+		<year>2008</year>
+		<authors>dan lin,kotagiri ramamohanarao,elisa bertino</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>894</label>
+		<keyword>Experimental Study;Moving Object;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>The continuous intersection join query is compu- tationally expensive yet important for various applications on moving objects. No previous study has specifically addressed this query type. We can adopt a naive algorithm or extend an existing technique (TP-Join) to process the query. However, they compute the answer for either too long or too short a time interval, which results in</abstract>
+	</publication>
+	<publication>
+		<title>Making the Pyramid Technique Robust to Query Types and Workloads</title>
+		<year>2004</year>
+		<authors>beng chin ooi,kian-lee tan</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>894</label>
+		<keyword>High Dimensionality;Indexation;Space Use;</keyword>
+		<organization>null</organization>
+		<abstract>The effectiveness of many existing high-dimensional in- dexing structures is limited to specific types of queries and workloads. For example, while the Pyramid technique and the iMinMax are efficient for window queries, the iDistance is superior for kNN queries. In this paper, we present a new structure, called the P+-tree, that supports both win- dow queries and kNN queries under</abstract>
+	</publication>
+	<publication>
+		<title>Multiple aggregations over data streams</title>
+		<year>2005</year>
+		<authors>nick koudas,beng chin ooi,divesh srivastava</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>894</label>
+		<keyword>Cost Optimization;Data Analysis;Data Stream;Data Stream Management System;Experimental Study;Greedy Heuristic;High Speed;Optimization Problem;Synthetic Data;</keyword>
+		<organization>null</organization>
+		<abstract>Monitoring aggregates on IP traffic data streams is a compelling application for data stream management systems. The need for exploratory IP traffic data analysis naturally leads to posing related aggregation queries on data streams, that differ only in the choice of grouping attributes. In this paper, we address this problem of efficiently computing multiple aggregations over high speed data streams,</abstract>
+	</publication>
+	<publication>
+		<title>Approximate NN queries on Streams with Guaranteed Error/performance Bounds</title>
+		<year>2004</year>
+		<authors>nick koudas,beng chin ooi,kian-lee tan</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>894</label>
+		<keyword>Data Distribution;Data Stream;Indexation;Nearest Neigh Bor;Performance Bounds;Query Answering;Query Processing;Space Filling Curve;Multi Dimensional;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In data stream applications, data arrive con - tinuously and can only be scanned once as the query processor has very limited memory (rel - ative to the size of the stream) to work with Hence, queries on data streams do not have ac - cess to the entire data set and query answers are typically approximate While there</abstract>
+	</publication>
+	<publication>
+		<title>Similarity Search: A Matching Based Approach</title>
+		<year>2006</year>
+		<authors>anthony k. h. tung,nick koudas,beng chin ooi</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>894</label>
+		<keyword>Answer Sets;Data Mining;Experimental Study;Information Retrieval;Multimedia Retrieval;Search Algorithm;Similarity Search;Synthetic Data;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Similarity search is a crucial task in multimedia retrieval and data mining. Most existing work has modelled this problem as the nearest neighbor (NN) problem, which considers the distance between the query object and the data objects over a fixed set of features. Such an approach has two drawbacks: 1) it leaves many,partial similarities uncovered; 2) the distance is</abstract>
+	</publication>
+	<publication>
+		<title>Indexing Fast Moving Objects for kNN Queries Based on Nearest Landmarks</title>
+		<year>2006</year>
+		<authors>dan lin,aoying zhou</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>894</label>
+		<keyword>Global Position System;Index Structure;Indexation;K Nearest Neighbor;Moving Object;Nearest Neighbor Queries;Reference Point;Wireless Communication;</keyword>
+		<organization>null</organization>
+		<abstract>With the rapid advancements in positioning technologies such as the Global Positioning System (GPS) and wireless communications, the tracking of continuously moving objects has become more convenient. However, this devel- opment poses new challenges to database technology since maintaining up-to-date information regarding the location of moving objects incurs an enormous amount of updates. Existing indexes can no longer keep up</abstract>
+	</publication>
+	<publication>
+		<title>High-dimensional kNN joins with incremental updates</title>
+		<year>2010</year>
+		<authors>cui yu,yaochun huang,hui xiong</authors>
+		<jconf>Geoinformatica</jconf>
+		<label>894</label>
+		<keyword>High Dimensionality;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhancing the B+tree by dynamic node popularity caching</title>
+		<year>2010</year>
+		<authors>cui yu,james bailey,julian montefusco,jiling zhong</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>894</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimized algorithms for predictive range and KNN queries on moving objects</title>
+		<year>2010</year>
+		<authors>h. v. jagadish,bing tian dai,kotagiri ramamohanarao</authors>
+		<jconf>Information Systems</jconf>
+		<label>894</label>
+		<keyword>Moving Object;Optimal Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>iDistance: An adaptive B + tree based indexing method for nearest neighbor search</title>
+		<year>2005</year>
+		<authors>h. v. jagadish,beng chin ooi,kian-lee tan,cui yu</authors>
+		<jconf>ACM Transactions on Database Systems</jconf>
+		<label>894</label>
+		<keyword>Cost Model;Data Distribution;Data Partitioning;High Dimensionality;Index Structure;Indexation;Indexing Method;K Nearest Neighbor;Metric Space;Nearest Neighbor Queries;Nearest Neighbor Search;Query Optimization;Reference Point;Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract>In this article, we present an efficient B&amp;amp;plus;-tree based indexing method, called iDistance, for K-nearest neighbor (KNN) search in a high-dimensional metric space. iDistance partitions the data based on a space- or data-partitioning strategy, and selects a reference point for each partition. The data points in each partition are transformed into a single dimensional value based on their similarity with</abstract>
+	</publication>
+	<publication>
+		<title>Generalized multidimensional data mapping and query processing</title>
+		<year>2005</year>
+		<authors>panos kalnis,beng chin ooi,kian-lee tan</authors>
+		<jconf>ACM Transactions on Database Systems</jconf>
+		<label>894</label>
+		<keyword>Index Structure;Indexation;Multidimensional Data;Query Processing;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Multidimensional data points can be mapped to one-dimensional space to exploit single dimensional indexing structures such as the B&amp;amp;plus;-tree. In this article we present a Generalized structure for data Mapping and query Processing (GiMP), which supports extensible mapping methods and query processing. GiMP can be easily customized to behave like many competent indexing mechanisms for multi-dimensional indexing, such as the</abstract>
+	</publication>
+	<publication>
+		<title>Streaming multiple aggregations using phantoms</title>
+		<year>2010</year>
+		<authors>nick koudas,beng chin ooi,divesh srivastava,pu zhou</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>894</label>
+		<keyword>Adaptive Algorithm;Content Analysis;Data Stream;Data Stream Management System;High Speed;Network Monitoring;Query Optimization;Query Processing;Sensor Network;Traffic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Data streams characterize the high speed and large volume input of a new class of applications such as net- work monitoring, web content analysis and sensor networks. Among these applications, network monitoring may be the most compelling one - the backbone of a large Internet ser- vice provider can generate 1 petabyte of data per day. For many network monitoring</abstract>
+	</publication>
+	<publication>
+		<title>iDistance Techniques</title>
+		<year>2008</year>
+		<authors>h. v. jagadish,beng chin ooi</authors>
+		<jconf></jconf>
+		<label>894</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Time Decompositions to Analyze PubMed Abstracts</title>
+		<year>2006</year>
+		<authors>parvathi chundi</authors>
+		<jconf>IEEE Symposium on Computer-Based Medical Systems</jconf>
+		<label>895</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Algorithms for Constructing Time Decompositions of Time Stamped Documents</title>
+		<year>2005</year>
+		<authors>parvathi chundi,daniel j. rosenkrantz</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>895</label>
+		<keyword>Efficient Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Generalized Global Convergence Theory of Projection-Type Neural Networks for Optimization</title>
+		<year>2005</year>
+		<authors>zongben xu</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>896</label>
+		<keyword>Global Convergence;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>When Does Online BP Training Converge?</title>
+		<year>2009</year>
+		<authors>zongben xu,wen-feng jing</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>896</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

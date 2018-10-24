@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David West</FullName>
+	<publication>
+		<title>Apprenticeship agility in academia</title>
+		<year>2005</year>
+		<authors>pamela m. rostal,richard p. gabriel</authors>
+		<jconf>Conference on Object-Oriented Programming Systems, Languages, and Applications</jconf>
+		<label>204</label>
+		<keyword>Agile Methods;Agile Software Development;Software Development;</keyword>
+		<organization>null</organization>
+		<abstract>We describe an experimental degree program for teaching software development and computer science based on an apprenticeship model with generous borrowings from agile software development methodologies.</abstract>
+	</publication>
+	<publication>
+		<title>A snapshot of studio based learning: code reviews as a means of community building</title>
+		<year>2008</year>
+		<authors>joseph bergin,rick mercer,robert c. duvall,eugene wallingford,pamela m. rostal,richard p. gabriel</authors>
+		<jconf>Conference on Object-Oriented Programming Systems, Languages, and Applications</jconf>
+		<label>204</label>
+		<keyword>Active Learning;Community Building;Community of Practice;Computer Science Education;Sense of Community;Teaching and Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Studio Based Learning is an educational process that has found more success in the humanities than the sciences. In these disciplines most learning is done in the studio, with apprentices and journeymen working at the elbow of a practicing master. When apprentices join a studio, their education progresses from the point of their current knowledge through journeyman status while working</abstract>
+	</publication>
+	<publication>
+		<title>Innovate</title>
+		<year>2003</year>
+		<authors>laura hill,richard p. gabriel,harlan sexton,kevin tyson</authors>
+		<jconf>Conference on Object-Oriented Programming Systems, Languages, and Applications</jconf>
+		<label>204</label>
+		<keyword>Open Source;</keyword>
+		<organization>null</organization>
+		<abstract>Freedom to innovate is one of the key motivators for many technical workers. Unfortunately, although innovation is often trumpeted as a key company attribute, it seems that many organizations struggle to provide the necessary environment - even those organizations whose original claim to fame lay in their ability to innovate. This panel will look at the barriers to innovation that</abstract>
+	</publication>
+	<publication>
+		<title>Extreme Programming as a Teaching Process</title>
+		<year>2002</year>
+		<authors>j. fernando naveda,kent beck,richard p. gabriel,jorge l. díaz-herrera,watts s. humphrey,michael mccracken</authors>
+		<jconf>Extreme Programming</jconf>
+		<label>204</label>
+		<keyword>Extreme Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bo Zhang</FullName>
+	<publication>
+		<title>On privacy preservation against adversarial data mining</title>
+		<year>2006</year>
+		<authors>charu c. aggarwal,jian pei</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>106</label>
+		<keyword>Association Rule;Data Mining;Data Processing;Heuristic Algorithm;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Privacy preserving data processing has become an important topic recently because of advances in hardware technology which have lead to widespread proliferation of demographic and sensitive data. A rudimentary way to preserve privacy is to simply hide the infor- mation in some of the sensitive fields picked by a user. However, such a method is far from satisfactory in its</abstract>
+	</publication>
+</person>

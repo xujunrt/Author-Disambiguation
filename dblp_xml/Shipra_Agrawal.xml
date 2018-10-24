@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shipra Agrawal</FullName>
+	<publication>
+		<title>piRNABank: a web resource on classified and clustered Piwi-interacting RNAs</title>
+		<year>2008</year>
+		<authors>s. sai lakshmi</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>949</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>Piwi-interacting RNAs (piRNAs) are expressed in mammalian germline cells and have been identified as key players in germline development. These molecules, typically of length 25-33nt, associate with Piwi proteins of the Argonaute family to form the Piwi-interacting RNA complex. These small regulatory RNAs have been implicated in sperma- togenesis, repression of retrotransposon transposi- tion in germline cells, epigenetic regulation and</abstract>
+	</publication>
+</person>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaobing Feng</FullName>
+	<publication>
+		<title>Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs</title>
+		<year>2009</year>
+		<authors>yuelu duan,lei wang,chao zhang,pen-chung yew</authors>
+		<jconf>Symposium on Code Generation and Optimization</jconf>
+		<label>1104</label>
+		<keyword>Sequential Consistency;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An adaptive task creation strategy for work-stealing scheduling</title>
+		<year>2010</year>
+		<authors>lei wang,huimin cui,yuelu duan,fang lu,pen-chung yew</authors>
+		<jconf>Symposium on Code Generation and Optimization</jconf>
+		<label>1104</label>
+		<keyword>Backtrack Search;Load Balance;Programming Language;Work Stealing;</keyword>
+		<organization>null</organization>
+		<abstract>Work-stealing is a key technique in many multi-threading programming languages to get good load balancing. The current work-stealing techniques have a high implementation overhead in some applications and require a large amount of memory space for data copying to assure correctness. They also cannot handle many application programs that have an unbalanced call tree or have no definitive working sets.</abstract>
+	</publication>
+	<publication>
+		<title>Level by level: making flow and context-sensitive pointer analysis scalable for millions of lines of code</title>
+		<year>2010</year>
+		<authors>hongtao yu,jingling xue,wei huo,zhaoqing zhang</authors>
+		<jconf>Symposium on Code Generation and Optimization</jconf>
+		<label>1104</label>
+		<keyword>Alias Analysis;Pointer Analysis;Program Analysis;Sensitivity Analysis;Lines of Code;Transfer Function;</keyword>
+		<organization>null</organization>
+		<abstract>We present a practical and scalable method for flow- and context-sensitive (FSCS) pointer analysis for C programs. Our method analyzes the pointers in a program level by level in terms of their points-to levels, allowing the points-to relations of the pointers at a particular level to be discovered based on the points-to relations of the pointers at this level and</abstract>
+	</publication>
+	<publication>
+		<title>Global Tiling for Communication Minimal Parallelization on Distributed Memory Systems</title>
+		<year>2008</year>
+		<authors>lei liu,li chen,chengyong wu</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>1104</label>
+		<keyword>Distributed Memory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Exploiting idle register classes for fast spill destination</title>
+		<year>2008</year>
+		<authors>fang lu,lei wang,zhiyuan li,zhaoqing zhang</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>1104</label>
+		<keyword>Code Optimization;Data Transfer;Floating Point;</keyword>
+		<organization>null</organization>
+		<abstract>On today's microprocessors, there often exist several different types of registers, e.g. general purpose registers and floating point registers. A given program may use one type of registers much more frequently than other types. This creates an opportunity to employ the infrequently used registers as spill destinations for the more frequently used register types. In this paper, we present a</abstract>
+	</publication>
+	<publication>
+		<title>An Overview of the Open Research Compiler</title>
+		<year>2004</year>
+		<authors>chengyong wu,ruiqi lian,junchao zhang,roy ju,sun chan,lixia liu,zhaoqing zhang</authors>
+		<jconf>Languages and Compilers for Parallel Computing</jconf>
+		<label>1104</label>
+		<keyword>Open Research Compiler;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Software-Hardware Cooperative DRAM Bank Partitioning for Chip Multiprocessors</title>
+		<year>2010</year>
+		<authors>wei mi,jingling xue,yao-cang jia</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>1104</label>
+		<keyword>Chip Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuous speculative program parallelization in software</title>
+		<year>2010</year>
+		<authors>chao zhang,chen ding,xiaoming gu,kirk kelsey,tongxin bai</authors>
+		<jconf>Principles and Practice of Parallel Programming</jconf>
+		<label>1104</label>
+		<keyword>Coarse Grained;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of extracting coarse-grained par- allelism from large sequential code. It builds on BOP, a system for software speculative parallelization. BOP lets a user to mark pos- sibly parallel regions (PPR) in a program and at run-time specula- tively executes PPR instances using Unix processes. This short pa- per presents a new run-time support called continuous</abstract>
+	</publication>
+	<publication>
+		<title>Global Partial Replicate Computation Partitioning</title>
+		<year>2006</year>
+		<authors>yiran wang,li chen,zhaoqing zhang</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<label>1104</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Parallelizing Compilation Technologies for SMP Clusters</title>
+		<year>2005</year>
+		<authors>li chen,yiran wang,an xiao-mi,lin ma,chun-lei sang,zhaoqing zhang</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>1104</label>
+		<keyword>Parallelizing Compilers;Smp Cluster;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PARBLO: Page-Allocation-Based DRAM Row Buffer Locality Optimization</title>
+		<year>2009</year>
+		<authors>wei mi,yao-cang jia,li chen,jingling xue</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>1104</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

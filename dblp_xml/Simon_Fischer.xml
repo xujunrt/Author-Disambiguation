@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Simon Fischer</FullName>
+	<publication>
+		<title>Chosen IV Statistical Analysis for Key Recovery Attacks on Stream Ciphers</title>
+		<year>2008</year>
+		<authors>shahram khazaei,willi meier</authors>
+		<jconf>Progress in Cryptology</jconf>
+		<label>952</label>
+		<keyword>Statistical Analysis;Stream Cipher;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba</title>
+		<year>2008</year>
+		<authors>jean-philippe aumasson,shahram khazaei,willi meier,christian rechberger</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>952</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Algebraic Immunity of S-Boxes and Augmented Functions</title>
+		<year>2007</year>
+		<authors>willi meier</authors>
+		<jconf>Fast Software Encryption</jconf>
+		<label>952</label>
+		<keyword>Algebraic Immunity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-randomness in eSTREAM Candidates Salsa20 and TSC-4</title>
+		<year>2006</year>
+		<authors>willi meier,côme berbain,jean-françois biasse,matthew j. b. robshaw</authors>
+		<jconf>INDOCRYPT</jconf>
+		<label>952</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reduced Complexity Attacks on the Alternating Step Generator</title>
+		<year>2007</year>
+		<authors>shahram khazaei,willi meier</authors>
+		<jconf>Selected Areas in Cryptography</jconf>
+		<label>952</label>
+		<keyword>Divide and Conquer;Exhaustive Search;Point of View;Stream Cipher;Theoretical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present some reduced complexity attacks on the Alternating Step Generator (ASG). The attacks are based on a quite general framework and mostly ben- efit from the low sampling resistance of the ASG, and of an abnormal behavior related to the distribution of the initial states of the stop/go LFSR's which produce a given segment of the</abstract>
+	</publication>
+</person>

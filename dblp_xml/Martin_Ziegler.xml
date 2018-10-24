@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Ziegler</FullName>
+	<publication>
+		<title>Stable Theories with A New Predicate</title>
+		<year>2001</year>
+		<authors>enrique casanovas</authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>659</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pseudo-Finite Homogeneity and Saturation</title>
+		<year>1999</year>
+		<authors>jörg flum</authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>659</label>
+		<keyword>Database Query;Expressive Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

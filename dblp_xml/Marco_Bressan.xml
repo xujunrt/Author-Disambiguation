@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marco Bressan</FullName>
+	<publication>
+		<title>Urban Hitchhiking</title>
+		<year>2010</year>
+		<authors>enoch peserico</authors>
+		<jconf>Fun with Algorithms</jconf>
+		<label>617</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Choose the Damping, Choose the Ranking?</title>
+		<year>2009</year>
+		<authors>enoch peserico</authors>
+		<jconf>Journal of Discrete Algorithms</jconf>
+		<label>617</label>
+		<keyword>Ranking Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>To what extent can changes in PageRank's damping factor aect node ranking? We prove that, at least on some graphs, the top k nodes assume all possible k! orderings as the damping factor varies, even if it varies within an arbitrarily small interval (e.g. (0:84999 ; 0:85001)). Thus, the rank of a node for a given (nite set of discrete)</abstract>
+	</publication>
+	<publication>
+		<title>psort, Yet Another Fast Stable Sorting Software</title>
+		<year>2009</year>
+		<authors>paolo bertasi,enoch peserico</authors>
+		<jconf>Workshop on Experimental and Efficient Algorithms</jconf>
+		<label>617</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

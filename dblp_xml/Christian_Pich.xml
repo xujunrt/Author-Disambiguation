@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Pich</FullName>
+	<publication>
+		<title>The Zebrafish Information Network: the zebrafish model organism database provides expanded support for genotypes and phenotypes</title>
+		<year>2008</year>
+		<authors>judy sprague,leyla bayraktaroglu,yvonne bradford,tom conlin,nathan dunn,david fashena,ken frazer,melissa haendel,douglas g. howe,jonathan knight,prita mani,sierra a. t. moxon,sridhar ramachandran,kevin schaper,erik segerdell,xiang shao,amy singer,peiran song,brock sprunger,ceri e. van slyke,monte westerfield</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>145</label>
+		<keyword>Data Integrity;Gene Expression Pattern;Gene Function;Gene Ontology;Genetic Marker;Genetics;Information Network;</keyword>
+		<organization>null</organization>
+		<abstract>The Zebrafish Information Network (ZFIN, http:// zfin.org), the model organism database for zebra- fish, provides the central location for curated zebrafish genetic, genomic and developmental data. Extensive data integration of mutant pheno- types, genes, expression patterns, sequences, genetic markers, morpholinos, map positions, publications and community resources facilitates the use of the zebrafish as a model for studying gene function, development,</abstract>
+	</publication>
+</person>

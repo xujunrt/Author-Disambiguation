@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Schroeder</FullName>
+	<publication>
+		<title>Functionally distributed systems</title>
+		<year>1985</year>
+		<authors></authors>
+		<jconf>SIGOPS European Workshop</jconf>
+		<label>708</label>
+		<keyword>Distributed System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

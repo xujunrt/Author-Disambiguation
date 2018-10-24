@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Aum&amp;uuml;ller</FullName>
+	<publication>
+		<title>A Global Grid for Analysis of Arthropod Evolution</title>
+		<year>2004</year>
+		<authors>craig a. stewart,rainer keller,richard repasky,matthias hess,david hart,matthias s. müller,ray sheppard,uwe wössner,huian li ii,donald k. berry,john colbourne</authors>
+		<jconf>Grid Computing</jconf>
+		<label>634</label>
+		<keyword>Computational Grid;Distributed Application;Evolutionary History;Genetics;Grid Computing;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>Maximum likelihood analysis is a powerful technique for inferring evolutionary histories from genetic sequence data. During the fall of 2003, an international team of computer scientists, biologists, and computer centers created a global grid to analyze the evolution of hexapods (arthropods with six legs). We created a global grid of computers using systems located in eight countries, spread across six</abstract>
+	</publication>
+</person>

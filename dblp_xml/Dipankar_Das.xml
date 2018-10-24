@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dipankar Das</FullName>
+	<publication>
+		<title>Timing Verification of UML Activity Diagram Based Code Block Level Models for Real Time Multiprocessor System-on-Chip Applications</title>
+		<year>2006</year>
+		<authors>rajeev kumar,p. p. chakrabarti</authors>
+		<jconf>Asia-Pacific Software Engineering Conference</jconf>
+		<label>208</label>
+		<keyword>Activity Diagram;Multiprocessor System On Chip;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SystemC Modeling and Validation of A RISC Processor System</title>
+		<year>2006</year>
+		<authors>rajeev kumar,rahul chaudhry,vibha rathi,s. k. panda,p. p. chakrabarti</authors>
+		<jconf>Forum on specification &amp; Design Languages</jconf>
+		<label>208</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dictionary Based Code Compression for Variable Length Instruction Encodings</title>
+		<year>2005</year>
+		<authors>rajeev kumar,p. p. chakrabarti</authors>
+		<jconf>VLSI Design</jconf>
+		<label>208</label>
+		<keyword>Code Compression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Code compression for performance enhancement of variable-length embedded processors</title>
+		<year>2008</year>
+		<authors>rajeev kumar</authors>
+		<jconf>ACM Transactions in Embedded Computing Systems</jconf>
+		<label>208</label>
+		<keyword>Code Compression;Code Size;Design Space Exploration;Embedded Processor;Embedded System;Experimental Analysis;Hardware Description Language;Switching Activity;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>Most of the work done in the field of code compression pertains to processors with fixed-length instruction encoding. The design of a code-compression scheme for variable-length instruction encodings poses newer design challenges. In this work, we first investigate the scope for code compression on variable-length instruction-set processors whose encodings are already optimized to a certain extent with respect to their</abstract>
+	</publication>
+	<publication>
+		<title>Functional verification of task partitioning for multiprocessor embedded systems</title>
+		<year>2007</year>
+		<authors>p. p. chakrabarti,rajeev kumar</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>208</label>
+		<keyword>Activity Diagram;Data Structure;Deadlock Detection;Embedded System;Formal Analysis;Functional Verification;Modeling Language;reachability analysis;State Space Reduction;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>With the advent of multiprocessor embedded platforms, application partitioning and mapping have gained primacy as a design step. The output of this design step is a multithreaded partitioned application where each thread is mapped to a processing element (processor or ASIC) in the multiprocessor platform. This partitioned application must be verified to be consistent with the native unpartitioned application. This</abstract>
+	</publication>
+	<publication>
+		<title>Scenario-based timing verification of multiprocessor embedded applications</title>
+		<year>2009</year>
+		<authors>p. p. chakrabarti,rajeev kumar</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>208</label>
+		<keyword>Compositional Reasoning;Control Flow;Model Checking;State Space Explosion;Static Checking;Static Timing Analysis;Time Constraint;Timed Systems;Timing Analysis;Real Time;Real Time Systems;time petri net;</keyword>
+		<organization>null</organization>
+		<abstract>This work presents a static timing-analysis method for verification of scenario-based real-time properties, on graphical task-level models of embedded applications. Scenario-based properties specify timing constraints which must be honored for specific control-flow behaviors and task execution orderings. Static checking of scenario-based properties currently requires computationally expensive model checking methods. Hence the proposed graph-based static timing-analysis algorithm improves upon the state-of-the-art.</abstract>
+	</publication>
+	<publication>
+		<title>Thermal analysis of multiprocessor SoC applications by simulation and verification</title>
+		<year>2010</year>
+		<authors>p. p. chakrabarti,rajeev kumar</authors>
+		<jconf>ACM Transactions on Design Automation of Electronic Systems</jconf>
+		<label>208</label>
+		<keyword>Design Methodology;Design Technique;Hybrid Automata;Model Checking;Multiprocessor System On Chip;Numerical Analysis;Power Consumption;reachability analysis;Steady State Analysis;Task Scheduling;Thermal Analysis;Thermal Model;Markov Chain;</keyword>
+		<organization>null</organization>
+		<abstract>Overheating of computer chips leads to degradation of performance and reliability. Therefore, preventing chips from overheating in spite of increased performance requirements has emerged as a major challenge. Since the cost of cooling has been rising steadily, various architecture and application design techniques are used to prevent chip overheating. Temperature-aware task scheduling has emerged as an important application design methodology</abstract>
+	</publication>
+</person>

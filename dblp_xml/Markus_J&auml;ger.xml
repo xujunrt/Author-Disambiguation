@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Markus J&amp;auml;ger</FullName>
+	<publication>
+		<title>Service Provisioning and Terminal Cooperation in User-Deployed Networks</title>
+		<year>2006</year>
+		<authors>nicolas debernardi,jean-christophe laneri,malek sraj,pietro lungaro</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>628</label>
+		<keyword>Service Provision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

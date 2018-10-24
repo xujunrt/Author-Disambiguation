@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Albrecht Schmidt</FullName>
+	<publication>
+		<title>Storing XML Documents in Databases</title>
+		<year>2005</year>
+		<authors>stefan manegold,martin l. kersten</authors>
+		<jconf></jconf>
+		<label>21</label>
+		<keyword>Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Kalchas: a dynamic XML search engine</title>
+		<year>2005</year>
+		<authors>rasmus kaae,thanh-duy nguyen,dennis nørgaard</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>21</label>
+		<keyword>Data Structure;Indexation;Search Engine;System Architecture;Use Case;Lowest Common Ancestor;</keyword>
+		<organization>null</organization>
+		<abstract>This paper outlines the system architecture and the core data structures of Kalchas, a fulltext search engine for XML data with emphasis on dynamic indexing, and identifies features worth demonstrating. The concept of dynamic index implies that the aim is to re ect the creation of, deletion of, and updates to relevant files in the search index as early as</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Maintenance of Ephemeral Data</title>
+		<year>2006</year>
+		<authors>christian s. Jensen</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>21</label>
+		<keyword>Binary Search Tree;Data Structure;Experimental Study;Loosely Coupled System;Priority Queue;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the increasing prominence of loosely-coupled systems, such as mobile and sensor networks, the characteristics of which include inter- mittent connectivity and volatile data, we study the tagging of data with so-called expiration times. More specifically, when data are inserted into a database, they may be stamped with time values indicating when they expire, i.e. when they are regarded</abstract>
+	</publication>
+	<publication>
+		<title>Assessing XML Data Management with XMark</title>
+		<year>2002</year>
+		<authors>florian waas,martin l. kersten,michael j. carey,ioana manolescu,ralph busse</authors>
+		<jconf>Efficiency and Effectiveness of XML Tools and Techniques</jconf>
+		<label>21</label>
+		<keyword>Data Analysis;Data Management;Performance Evaluation;Xml Database;Xml Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>1 Motivation We discuss some of the experiences we gathered during the development and deployment of XMark, a tool to as- sess the infrastructure and performance of XML Data Man- agement Systems. Since the appearance of the first XML database prototypes in research institutions and develop- ment labs, topics like validation, performance evaluation and optimization of XML query processors have</abstract>
+	</publication>
+	<publication>
+		<title>Expiration Times for Data Management</title>
+		<year>2006</year>
+		<authors>christian s. jensen,simonas saltenis</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>21</label>
+		<keyword>Application Development;Data Management;Data Model;Loosely Coupled System;Mobile Device;Mobile Network;Open Architecture;Relational Model;Replicated Data;Web Service;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes an approach to incorporating the notion of expiration time into data management based on the relational model. Expiration times indicate when tuples cease to be current in a database. The paper presents a for- mal data model and a query algebra that handle expiration times transparently and declaratively. In particular, expi- ration times are exposed to users</abstract>
+	</publication>
+	<publication>
+		<title>Querying XML Documents Made Easy: Nearest Concept Queries</title>
+		<year>2001</year>
+		<authors>martin l. kersten,menzo windhouwer</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>21</label>
+		<keyword>Hierarchical Structure;Query Language;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>Due to the ubiquity and popularity of XML, users oftenare in the following situation: they want to query XMLdocuments which contain potentially interesting informationbut they are unaware of the mark-up structure that isused. For example, it is easy to guess the contents of anXML bibliography file whereas the mark-up depends on themethodological, cultural and personal background of theauthor(s). Nonetheless, it</abstract>
+	</publication>
+	<publication>
+		<title>Rapid XML Database Application Development</title>
+		<year>2004</year>
+		<authors>kjetil nørvåg</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>21</label>
+		<keyword>Application Development;Xml Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parameter Estimation Using B-Trees</title>
+		<year>2004</year>
+		<authors>michael h. böhlen</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>21</label>
+		<keyword>Data Semantics;Data Structure;Density Estimation;Indexation;Large Data Sets;Parameter Estimation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a method for accelerating algorithms for computing common statistical operations like parameter estimation or sampling on B-Tree indexed data; the work was carried out in the context of visualisation of large scientic data sets. The underlying idea is the following: the shape of balanced data structures like B-Trees encodes and reects data semantics according to the balance</abstract>
+	</publication>
+	<publication>
+		<title>Java, XML und Servlets zur Integration datenbankbasierter Applikationen im Web</title>
+		<year>1998</year>
+		<authors>günther specht</authors>
+		<jconf>Java-Informations-Tage</jconf>
+		<label>21</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bulkloading and maintaining XML documents</title>
+		<year>2002</year>
+		<authors>martin l. kersten</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>21</label>
+		<keyword>Database Management System;Database System;Large Data;Query Language;Relational Database;Relational Database System;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>The popularity of XML as a exchange and storage format brings about massive amounts of documents to be stored, maintained and analyzed --- a challenge that traditionally has been tackled with Database Management Systems (DBMS). To open up the content of XML documents to analysis with declarative query languages, efficient bulk loading techniques are necessary.Database technology has traditionally been offering</abstract>
+	</publication>
+	<publication>
+		<title>Integrated querying of XML data in RDBMSs</title>
+		<year>2003</year>
+		<authors>stefan manegold,martin l. kersten</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>21</label>
+		<keyword>Data Integrity;Database Query;Path Expressions;Relational Database;Standardisation;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a way to integrate cleanly relational databases and XML documents. The main idea is to draw a clear line of demarcation between the two concepts by modelling XML documents as a new atomic SQL type. The standardised XML tools like XPath, XQuery, XSLT are then user-defined functions that operate on this type. Well-defined interoperability is guaranteed by,</abstract>
+	</publication>
+	<publication>
+		<title>XMark: A Benchmark for XML Data Management</title>
+		<year>2002</year>
+		<authors>florian waas,martin l. kersten,michael j. carey,ioana manolescu,ralph busse</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>21</label>
+		<keyword>Data Analysis;Data Management;Document Database;Performance Evaluation;Query Language;Xml Database;Xml Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>While standardization efforts for XML query languages have been progressing, researchers and users increasingly focus on the database technology that has to deliver on the new challenges that the abundance of XML doc- uments poses to data management: valida- tion, performance evaluation and optimiza- tion of XML query processors are the up- coming issues. Following a long tradition in database</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Relational Storage and Retrieval of XML Documents</title>
+		<year>2000</year>
+		<authors>martin l. kersten,menzo windhouwer,florian waas</authors>
+		<jconf>International Workshop on the Web and Databases</jconf>
+		<label>21</label>
+		<keyword>Data Model;Relational Database;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a data and an execution modelthat allow for ecient storage and retrieval of XML documentsin a relational database. The data model is strictlybased on the notion of binary associations: by decomposingXML documents into small, exible and semanticallyhomogeneous units we are able to exploit the performancepotential of vertical fragmentation. Moreover, our approachprovides clear and intuitive semantics,</abstract>
+	</publication>
+	<publication>
+		<title>A Look Back on the XML Benchmark Project</title>
+		<year>2003</year>
+		<authors>florian waas,stefan manegold,martin l. kersten</authors>
+		<jconf>XML</jconf>
+		<label>21</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Management of Short-Lived Data</title>
+		<year>2005</year>
+		<authors>christian s. jensen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>21</label>
+		<keyword>Binary Search Tree;Data Structure;Experimental Study;Intermittent Connectivity;Loosely Coupled System;Priority Queue;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the increasing prominence of loosely-coupled systems, such as mobile and sensor networks, which are characterised by intermittent connectivity and volatile data, we study the tagging of data with so-called expiration times. More specifically, when data are inserted into a database, they may be tagged with time values indicating when they expire, i.e., when they are regarded as stale</abstract>
+	</publication>
+	<publication>
+		<title>Spatio-Temporal Data Exchange Standards</title>
+		<year>2003</year>
+		<authors>christian s. jensen</authors>
+		<jconf>IEEE Data(base) Engineering Bulletin</jconf>
+		<label>21</label>
+		<keyword>Data Exchange;Middleware;Spatio-temporal Data;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>We believe that research that concerns aspects of spatio-temporal data management may benefit from taking into account the various standards for spatio-temporal data formats. For example, this may con- tribute to rendering prototype software &quot;open&quot; and more readily useful. This paper thus identifies and briefly surveys standardization in relation to primarily the exchange and integration of spatio-temporal data. An overview</abstract>
+	</publication>
+	<publication>
+		<title>Why and how to benchmark XML databases</title>
+		<year>2001</year>
+		<authors>florian waas,martin l. kersten,daniela florescu,michael j. carey,ioana manolescu,ralph busse</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>21</label>
+		<keyword>Database Management System;Database System;Query Language;Relational Database;System Architecture;Xml Database;</keyword>
+		<organization>null</organization>
+		<abstract>Benchmarks belong to the very standard repertory of tools deployed in database development. Assessing the capabilities of a system, analyzing actual and potential bottlenecks, and, naturally, comparing the pros and cons of different systems architectures have become indispensable tasks as databases management systems grow in complexity and capacity. In the course of the development of XML databases the need for</abstract>
+	</publication>
+</person>

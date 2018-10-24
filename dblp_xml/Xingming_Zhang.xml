@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xingming Zhang</FullName>
+	<publication>
+		<title>Scheduling Multicast Traffic in a Combined Input Separate Output Queued Switch</title>
+		<year>2005</year>
+		<authors>ximing hu,binqiang wang,zhengrong zhao</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>1130</label>
+		<keyword>Output Queued;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A High-Performance Scheduling Algorithm Based on Packet Sto</title>
+		<year>2005</year>
+		<authors>jing qu,ximing hu,peng yi,binqiang wang</authors>
+		<jconf>Semantics, Knowledge and Grid</jconf>
+		<label>1130</label>
+		<keyword>High Performance;Scheduling Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

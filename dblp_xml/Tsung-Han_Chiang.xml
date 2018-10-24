@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Tsung-Han Chiang</FullName>
+	<publication>
+		<title>A Novel Macroblock-Layer Rate-Distortion Model for Rate Control Scheme of H.264/AVC</title>
+		<year>2006</year>
+		<authors>sheng-jyh wang</authors>
+		<jconf>Pacific-Rim Symposium on Image and Video Technology</jconf>
+		<label>1027</label>
+		<keyword>Rate Control;Rate Distortion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

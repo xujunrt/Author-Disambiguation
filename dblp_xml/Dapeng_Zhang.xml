@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dapeng Zhang</FullName>
+	<publication>
+		<title>A game controller based on multiple sensors</title>
+		<year>2009</year>
+		<authors>zhongjie cai,kefei chen,bernhard nebel</authors>
+		<jconf>Advances in Computer Entertainment Technology</jconf>
+		<label>181</label>
+		<keyword>Digital Games;Human Computer Interaction;Physical Activity;Quality of Control;</keyword>
+		<organization>null</organization>
+		<abstract>A digital game is normally controlled by hand. Playing such a game requires only minimum hand movements. Rather than being easy and comfortable, this game controller is de- signed to be physically taxing for the players. It consists of several sensors, which makes a game more lively and forces the users to be more physically active. By using different mapping</abstract>
+	</publication>
+	<publication>
+		<title>Learning a Table Soccer Robot a New Action Sequence by Observing and Imitating</title>
+		<year>2007</year>
+		<authors>bernhard nebel</authors>
+		<jconf>Artificial Intelligence and Interactive Digital Entertainment Conference</jconf>
+		<label>181</label>
+		<keyword>Effective Action;Learning Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Star-Kick is a commercially available and fully auto- matic table soccer (foosball) robot, which plays table soccer games against human players on a competitive level. One of our research goals is to learn this table soccer robot skillful actions similar to a human player based on a moderate number of trials. Two indepen- dent learning algorithms are employed for learning</abstract>
+	</publication>
+	<publication>
+		<title>A table soccer game recorder</title>
+		<year>2008</year>
+		<authors>armin hornung</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>181</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-Line Detection of Rule Violations in Table Soccer</title>
+		<year>2008</year>
+		<authors>armin hornung</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>181</label>
+		<keyword>Line Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Vision for Playing Table Soccer</title>
+		<year>2004</year>
+		<authors>thilo weigel,klaus rechert,bernhard nebel</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>181</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

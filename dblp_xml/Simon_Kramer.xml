@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Simon Kramer</FullName>
+	<publication>
+		<title>RISPP: Rotating Instruction Set Processing Platform</title>
+		<year>2007</year>
+		<authors>lars bauer,muhammad shafique,jörg henkel</authors>
+		<jconf>Design Automation Conference</jconf>
+		<label>954</label>
+		<keyword>Embedded Processor;Embedded System;High Speed;Hot Spot;reconfigurable computing;Video Codec;</keyword>
+		<organization>null</organization>
+		<abstract>Adaptation in embedded processing is key in order to address effi- ciency. The concept of extensible embedded processors works well if a few a-priori known hot spots exist. However, they are far less efficient if many and possible at-design-time-unknown hot spots need to be dealt with. Our RISPP approach advances the extensible processor concept by providing flexibility through run- time</abstract>
+	</publication>
+	<publication>
+		<title>Extracting, specifying and predicting software system properties in component based real-time embedded software development</title>
+		<year>2009</year>
+		<authors>ji eun kim,oliver rogalla,arne hamann</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>955</label>
+		<keyword>Embedded Software;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

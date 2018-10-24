@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Haiming Liu</FullName>
+	<publication>
+		<title>Comparing Dissimilarity Measures for Content-Based Image Retrieval</title>
+		<year>2008</year>
+		<authors>dawei song,stefan m. rüger,rui hu,victoria s. uren</authors>
+		<jconf>Asia Information Retrieval Symposium</jconf>
+		<label>275</label>
+		<keyword>Content Based Image Retrieval;Dissimilarity Measure;Feature Space;High Dimensionality;Image Search;Performance Comparison;</keyword>
+		<organization>null</organization>
+		<abstract>Dissimilarity measurement plays a crucial role in content- based image retrieval, where data objects and queries are represented as vectors in high-dimensional content feature spaces. Given the large num- ber of dissimilarity measures that exist in many elds, a crucial research question arises: Is there a dependency, if yes, what is the dependency, of a dissimilarity measure's retrieval performance, on</abstract>
+	</publication>
+	<publication>
+		<title>Enabling Effective User Interactions in Content-Based Image Retrieval</title>
+		<year>2009</year>
+		<authors>srdan zagorac,victoria s. uren,dawei song,stefan m. rüger</authors>
+		<jconf>Asia Information Retrieval Symposium</jconf>
+		<label>275</label>
+		<keyword>Content Based Image Retrieval;Ease of Use;Image Search;Relevance Feedback;Research Purpose;User Evaluation;User Interaction;Visual Interfaces;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an interactive content-based image re- trieval framework—uInteract, for delivering a novel four-factor user in- teraction model visually. The four-factor user interaction model is an interactive relevance feedback mechanism that we proposed, aiming to improve the interaction between users and the CBIR system and in turn users overall search experience. In this paper, we present how the frame-</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Term Co-occurrence for Enhancing Automated Image Annotation</title>
+		<year>2008</year>
+		<authors>ainhoa llorente,simon e. overell,rui hu,adam rae,jianhan zhu,dawei song,stefan m. rüger</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>275</label>
+		<keyword>Image Annotation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dissimilarity measures for content-based image retrieval</title>
+		<year>2008</year>
+		<authors>rui hu,stefan m. rüger,dawei song,zi huang</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>275</label>
+		<keyword>Content Based Image Retrieval;Dissimilarity Measure;Feature Space;Image Search;Indexing Terms;Performance Comparison;K Nearest Neighbour;Vector Space Model;</keyword>
+		<organization>null</organization>
+		<abstract>Dissimilarity measurement plays a crucial role in content- based image retrieval. In this paper, sixteen core dissimilarity measures are introduced and evaluated. We carry out a sys- tematic performance comparison on three image collections, including Corel, Getty and Trecvid2003, with seven differ- ent feature spaces. Two search scenarios are considered: sin- gle image queries based on Vector-Space-Model, and multi- image</abstract>
+	</publication>
+	<publication>
+		<title>A Four-Factor User Interaction Model for Content-Based Image Retrieval</title>
+		<year>2009</year>
+		<authors>victoria s. uren,dawei song,stefan m. rüger</authors>
+		<jconf></jconf>
+		<label>275</label>
+		<keyword>Content Based Image Retrieval;Empirical Evaluation;Relevance Feedback;Research Purpose;Semantic Gap;User Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>In order to bridge the &quot;Semantic gap&quot;, a number of relevance feedback (RF) mechanisms have been applied to content-based image re- trieval (CBIR). However current RF techniques in most existing CBIR systems still lack satisfactory user interaction although some work has been done to improve the interaction as well as the search accuracy. In this paper, we propose a four-factor</abstract>
+	</publication>
+	<publication>
+		<title>The usability of semantic search tools: a review</title>
+		<year>2007</year>
+		<authors>victoria s. uren,yuangui lei,vanessa lopez,enrico motta,marina giordanino</authors>
+		<jconf>Knowledge Engineering Review</jconf>
+		<label>275</label>
+		<keyword>Semantic Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Andreas Birk</FullName>
+	<publication>
+		<title>Learning to Trust</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Autonomous Agents &amp; Multiagent Systems/International Conference on Autonomous Agents</jconf>
+		<label>51</label>
+		<keyword>Evolutionary Game Theory;Social Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Evolutionary game-theory is a powerful tool to investigate the devel- opment of complex relations between individuals such as the emergence of coop- eration and trust. But the propagation of genes is an unrealistic assumption when it comes to model fast-changing social interactions. We show how a transition from evolutionary game-theory to learning can be made. Specifically, we show how cooperation</abstract>
+	</publication>
+	<publication>
+		<title>A Multiagent System Based on Heterogeneous Robots</title>
+		<year>1998</year>
+		<authors>tony belpaeme</authors>
+		<jconf>Collective Robots</jconf>
+		<label>51</label>
+		<keyword>multiagent system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning Geometric Concepts with an Evolutionary Algorithm</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Evolutionary Programming</jconf>
+		<label>51</label>
+		<keyword>Evolutionary Algorithm;Genetic Program;Robot Arm;</keyword>
+		<organization>null</organization>
+		<abstract>We present a system that is able to learn descriptions of pic- tures with an evolutionary algorithm approach. The descrip- tions are programs in a turtle-graphics language and the de- scribed pictures are scenes from an environment with a robot- arm acting in a blocks-world. A measure of similarity of pic- tures is presented which can be computed fast and</abstract>
+	</publication>
+	<publication>
+		<title>Robot Learning and Self-Sufficiency: What the Energy-Level Can Tell Us about a Robot's Performance</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>European Workshop on Learning Robots</jconf>
+		<label>51</label>
+		<keyword>Energy Levels;Robot Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Overview of the Extended VUB Ecosystem, a MAS of Heterogeneous Robots</title>
+		<year>1998</year>
+		<authors>tony belpaeme</authors>
+		<jconf>International Conference on Multiagent Systems</jconf>
+		<label>51</label>
+		<keyword>Artificial Life;multiagent system;</keyword>
+		<organization>null</organization>
+		<abstract>The paper sketches the introduction of heterogeneityinto a robotic Multiagent System. The system is basedon ideas from Artificial Life; it forms a kind of artificialecosystem where the animats are linked together in theirsearch for &amp;amp;quot;food&amp;amp;quot; in form of electrical energy. Withinthis view, different robot types can be seen as differentspecies.1 IntroductionWe are interested in Multiagent Systems (MAS)from an Alife-perspective, i.e.</abstract>
+	</publication>
+	<publication>
+		<title>Robotics in Edutainment</title>
+		<year>2000</year>
+		<authors>minoru asada,raffaello d'andrea,hiroaki kitano,manuela m. veloso</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Robot Prototyping with the Cubesystem</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Building Block;Open Source;Software Component;of Research and Development;</keyword>
+		<organization>null</organization>
+		<abstract>The CubeSystem is a collection of hardware- and software-components for fast robot prototyping. The main goal of the CubeSystem project is to provide an open source collection of generic building blocks that can be freely combined into an application. This paper describes the first release of the CubeSystem, that evolved in more than five years of research and development. The</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Scheduling of Behavior-Processes on Different Time-Scales</title>
+		<year>2001</year>
+		<authors>holger kenn</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Behavioral Control;Scheduling Algorithm;Time Scale;Timing Optimization;Rate Monotonic Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract>In behavior-oriented robotics, the control of a system is distributed over various processes or behaviors running in virtual parallel. But the assignment of processing power to different processes is a non-trivial task. Ex- isting approaches to this problem like rate-monotonic scheduling focus on the fulfillment of deadlines, i.e., upper time-bounds. For behavioral control, the peri- odicy of processes is also</abstract>
+	</publication>
+	<publication>
+		<title>An Industrial Application of Behavior-Oriented Robotics</title>
+		<year>2001</year>
+		<authors>holger kenn</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Industrial Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Revisiting uncertainty analysis for optimum planes extracted from 3D range sensor point-clouds</title>
+		<year>2009</year>
+		<authors>kaustubh pathak,narunas vaskevicius</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Covariance Matrix;Eigenvectors;Indexing Terms;Least Square;Optimal Solution;Perturbation Method;Point Cloud;Range Image;Standard Deviation;Uncertainty Analysis;Uncertainty Estimation;Maximum Likelihood;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—In this work, we utilize a recently studied more accurate range noise model,for 3D sensors to derive from scratch the expressions for the optimum,plane which best fits a point-cloud and for the combined covariance matrix of the plane’s parameters. The parameters,in question are the plane’s normal,and its distance to the origin. The range standard- deviation model used by us is</abstract>
+	</publication>
+	<publication>
+		<title>Maximum likelihood mapping with spectral image registration</title>
+		<year>2010</year>
+		<authors>max pfingsthorn,sören schwertfeger,heikow bülow,kaustubh pathak</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Covariance Matrix;Image Registration;Matched Filter;Scan Matching;Simultaneous Localization and Mapping;Spectral Imaging;Uncertainty Analysis;Mass Function;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>A core challenge in probabilistic mapping is to ex- tract meaningful uncertainty information from data registration methods. While this has been investigated in ICP-based scan matching methods, other registration methods have not been analyzed. In this paper, an uncertainty analysis of a Fourier Mellin based image registration algorithm is introduced, which to our knowledge is the first of its kind</abstract>
+	</publication>
+	<publication>
+		<title>Extraction of quadrics from noisy point-clouds using a sensor noise model</title>
+		<year>2010</year>
+		<authors>narunas vaskevicius,kaustubh pathak,razvan pascanu</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>51</label>
+		<keyword>Point Cloud;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast and robust photomapping with an Unmanned Aerial Vehicle (UAV)</title>
+		<year>2009</year>
+		<authors>heiko bulow</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>Robust Method;Unmanned Aerial Vehicle;visual odometry;</keyword>
+		<organization>null</organization>
+		<abstract>A fast and robust method for visual odometry based on the Fourier-Mellin Invariant (FMI) descriptor is presented. It extends previous FMI based approaches in two ways. First, a logarithmic representation of the spectral magnitude of the FMI descriptor is used. Second, a filter on the frequency where the shift is supposed to appear is applied. It is shown with experiments</abstract>
+	</publication>
+	<publication>
+		<title>Augmented autonomy: Improving human-robot team performance in Urban search and rescue</title>
+		<year>2008</year>
+		<authors>yashodhan nevatia,todor stoyanov,ravi rathnam,max pfingsthorn,stefan markov,rares ambrus</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>Integrable System;Mobile Robot;Robot Team;Task Performance;Urban Search and Rescue;User Interface;Human In The Loop;</keyword>
+		<organization>null</organization>
+		<abstract>Exploration of unknown environments remains one of the fundamental problems of mobile robotics. It is also a prime example for a task that can benefit significantly from multi-robot teams. We present an integrated system for semi- autonomous cooperative exploration, augmented by an intuitive user interface for efficient human supervision and control. In this preliminary study we demonstrate the effectiveness of</abstract>
+	</publication>
+	<publication>
+		<title>Sub-pixel depth accuracy with a time of flight sensor using multimodal Gaussian analysis</title>
+		<year>2008</year>
+		<authors>kaustubh pathak,jann poppinga</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>Gaussian Mixture Model;Laser Range Finder;Mobile Robot;Obstacle Avoidance;Occupancy Grid;Path Planning;Sensor Model;Visible Light;Field of View;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>Pixel array based 3D range sensors like stereo cameras and time of flight sensors are commonly used for spa- tial mapping. Analogous to a laser range finder beam, each pixel measures distances within its conical field of view. However, unlike laser range finders, these sensors use incoherent visible or near visible light for range measurement. This, combined with their relatively</abstract>
+	</publication>
+	<publication>
+		<title>3D forward sensor modeling and application to occupancy grid based sensor fusion</title>
+		<year>2007</year>
+		<authors>kaustubh pathak,jann poppinga,sören schwertfeger</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>Data Structure;Forward Model;Laser Range Finder;Occupancy Grid;Point Cloud;Sensor Fusion;Sensor Model;Stereo Vision;Hough Transform;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a new technique for the update of a probabilistic spatial occupancy grid map using a forward sensor model. Unlike currently popular inverse sensor models, forward sensor models can be found experimentally and can represent sensor characteristics better. The formulation is applicable to both 2D and 3D range sensors and does not have some of the theoretical and</abstract>
+	</publication>
+	<publication>
+		<title>Fast 3D mapping by matching planes extracted from range sensor point-clouds</title>
+		<year>2009</year>
+		<authors>kaustubh pathak,narunas vaskevicius,jann poppinga,max pfingsthorn,sören schwertfeger</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>Point Cloud;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficiently communicating map updates with the pose graph</title>
+		<year>2008</year>
+		<authors>max pfingsthorn</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast plane detection and polygonalization in noisy 3D range images</title>
+		<year>2008</year>
+		<authors>jann poppinga,narunas vaskevicius,kaustubh pathak</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>51</label>
+		<keyword>3d point cloud;Data Acquisition;Mobile Robot;Point Cloud;Range Image;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>A very fast but nevertheless accurate approach for surface extraction from noisy 3D point clouds is presented. It consists of two parts, namely a plane fitting and a polygo- nalization step. Both exploit the sequential nature of 3D data acquisition on mobile robots in form of range images. For the plane fitting, this is used to revise the standard mathematical</abstract>
+	</publication>
+	<publication>
+		<title>Progress in RoboCup Soccer Research in 2000</title>
+		<year>2000</year>
+		<authors>minoru asada,enrico pagello,masahiro fujita,itsuki noda,satoshi tadokoro,dominique duhaut,peter stone,manuela m. veloso,tucker r. balch,hiroaki kitano,brian thomas</authors>
+		<jconf>International Symposium on Experimental Robotics</jconf>
+		<label>51</label>
+		<keyword>High School;University Student;</keyword>
+		<organization>null</organization>
+		<abstract>In addition to researchers in AI and robotics, RoboCup attracts ordinary people, especially kids, high school and university students. Over 3000 people from 35 nations around the world have participated in RoboCup since the great success of the First Robot World Cup Soccer Games and Con- ferences, RoboCup-97 (1) held in conjunction with the Fifteenth International Joint Conference on Articial</abstract>
+	</publication>
+	<publication>
+		<title>Detecting Humans in 2D Thermal Images by Generating 3D Models</title>
+		<year>2007</year>
+		<authors>stefan markov</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>51</label>
+		<keyword>3d model;Thermal Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Applying Behavior-Oriented Robotics to a Mobile Security Device</title>
+		<year>2000</year>
+		<authors>holger kenn</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mobile Robot Communication Without the Drawbacks of Wireless Networking</title>
+		<year>2005</year>
+		<authors>cosmin condea</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Communication System;Copper;Indoor Environment;Mobile Robot;Umbilical Cord;Wireless Network;Line of Sight;</keyword>
+		<organization>null</organization>
+		<abstract>The default solution for mobile robot communication is RF- networking, typically based on one of the IEEE 802.11 standards also known as WLAN technology. Radio communication frees the robots from umbilical cords. But it suers from several significant drawbacks, espe- cially limited bandwidth and range. The limitations of both aspects are in addition hard to predict as they are strongly</abstract>
+	</publication>
+	<publication>
+		<title>The Tournament Results of the Different Leagues of RoboCup2001</title>
+		<year>2001</year>
+		<authors>silvia coradeschi,satoshi tadokoro</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Rescue Robot Control Architecture Ensuring Safe Semiautonomous Operation</title>
+		<year>2002</year>
+		<authors>holger kenn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Autonomous Control;Autonomous Mobile Robot;Quality of Service;Robot Control Architecture;Software Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>The rescue robots developed at the International University Bremen (IUB) are semi-autonomous mobile robots providing streams of video and other essential data via wireless connections to human operated basestations, supple- mented by various basic and optional behaviors on board of the robots. Due to the limitations of wireless connections and the complexity of rescue operations, the full operation of a</abstract>
+	</publication>
+	<publication>
+		<title>Heterogeneity and On-Board Control in the Small Robots League</title>
+		<year>1999</year>
+		<authors>holger kenn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>The VUB AI-lab team is mainly interested inthe two loosely linked aspects of on-board controland heterogeneity. One major effort forfostering both aspects within RoboCup's smallrobots league is our development of a robotconstruction-kit, allowing to implement a widerange of players with on-board control. Forthe &quot;99 competition, the existing RoboCubecontroller-hardware has been further improved.In addition, some solid and precise mechanicalbuilding-blocks were developed,</abstract>
+	</publication>
+	<publication>
+		<title>A HMI Supporting Adjustable Autonomy of Rescue Robots</title>
+		<year>2005</year>
+		<authors>max pfingsthorn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Adjustable Autonomy;Data Flow;First Responder;Graphical Interface;User Interface;</keyword>
+		<organization>null</organization>
+		<abstract>Human rescue workers are a scarce resource at disaster sites. But it is still a long way to go before fully autonomous rescue robots will be fieldable. The usefulness of rescue robots will hence strongly depend on the availability of user interfaces that enable a single first responder to operate a whole set of robots. For this challenge, it is</abstract>
+	</publication>
+	<publication>
+		<title>Using Different Humanoid Robots for Science Edutainment of Secondary School Pupils</title>
+		<year>2008</year>
+		<authors>jann poppinga,max pfingsthorn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Humanoid Robot;Secondary School;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Planetary Exploration in USARsim: A Case Study Including Real World Data from Mars</title>
+		<year>2008</year>
+		<authors>jann poppinga,todor stoyanov,yashodhan nevatia</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Case Study;Planetary Exploration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The VUB AI-lab RoboCup'99 Small League Team</title>
+		<year>1999</year>
+		<authors>thomas walle,tony belpaeme,holger kenn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Building Block;</keyword>
+		<organization>null</organization>
+		<abstract>. The VUB AI-lab team is mainly interested in the two looselylinked aspects of on-board control and heterogeneity. One major effort forforstering both aspects within RoboCup's small robots league is our developmentof a so-to-say robot construction-kit, allowing to implement awide range of players with on-board control. For the &quot;99 competition, theexisting RoboCube controller-hardware has been further improved. Inaddition, some solid</abstract>
+	</publication>
+	<publication>
+		<title>The Small League RoboCup Team of the VUB AI-Lab</title>
+		<year>1998</year>
+		<authors>thomas walle,tony belpaeme,johan parent,tom de vlaminck,holger kenn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Robot Team;</keyword>
+		<organization>null</organization>
+		<abstract>. The paper describes the VUB AI-Lab team competing in thesmall robots league of RoboCup &quot;98 in Paris. The approach of this teamtargets for a longterm evolution of different robots, team-structures, andconcepts. Therefore, the efforts for the &quot;98 participation focus providinga flexible architecture, which forms a basis for this goal. In doingso, the development of the so-called RoboCube constitutes a</abstract>
+	</publication>
+	<publication>
+		<title>Creating Photo Maps with an Aerial Vehicle in USARsim</title>
+		<year>2009</year>
+		<authors>heikow bülow,shams feyzabadi</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stochastic Map Merging in Rescue Environments</title>
+		<year>2004</year>
+		<authors>stefano carpin</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Hill Climbing;Map Building;Motion Planning;Simulated Annealing;Stochastic Search;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. We address the problem of merging multiple noisy maps,in the rescue environment. The problem is tackled by performing a stochastic search in the space of possible map,transformations. The proposed technique has its roots in a motion planning algorithm we recent developed, and turns out to be a generalization of other search techniques like hill-climbing or simulated annealing. We provide</abstract>
+	</publication>
+	<publication>
+		<title>High Fidelity Tools for Rescue Robotics: Results and Perspectives</title>
+		<year>2005</year>
+		<authors>stefano carpin,jijun wang,michael lewis,adam jacoff</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Game Engine;Search and Rescue;Simulation Tool;</keyword>
+		<organization>null</organization>
+		<abstract>USARSim is a high fidelity robot simulation tool based on a commercial game engine. We illustrate the overall structure of the simulator and we argue about its use as a bridging tool between the RoboCupRescue Real Robot League and the RoboCupRescue Simulation League. In particular we show some results concerning the validation of the system. Algorithms useful for the search</abstract>
+	</publication>
+	<publication>
+		<title>A New Mechatronic Component for Adjusting the Footprint of Tracked Rescue Robots</title>
+		<year>2006</year>
+		<authors>winai chonnaparamutt</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fuzzy Controller for Autonomous Negotiation of Stairs by a Mobile Robot with Adjustable Tracks</title>
+		<year>2007</year>
+		<authors>winai chonnaparamutt</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Fuzzy Controller;Mobile Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vectorization of Grid Maps by an Evolutionary Algorithm</title>
+		<year>2006</year>
+		<authors>ivan delchev</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Evolutionary Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Games to Applications: Component Reuse in Rescue Robots</title>
+		<year>2004</year>
+		<authors>holger kenn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Component Based Software Engineering;Component Reuse;Embedded System;Software Reuse;</keyword>
+		<organization>null</organization>
+		<abstract>Component-based software engineering is useful for embedded ap- plications such as robotics. However, heavyweight component systems such as CORBA overstrain the ressources available in many embedded systems. Here, a lightweight component-based approach is used to implement the system software of the so-called CubeSystem, CubeOS. Since 1998, CubeOS and its component system have been successfully used in various areas from industry</abstract>
+	</publication>
+	<publication>
+		<title>Towards Cooperative and Decentralized Mapping in the Jacobs Virtual Rescue Team</title>
+		<year>2008</year>
+		<authors>max pfingsthorn,yashodhan nevatia,todor stoyanov,ravi rathnam,stefan markov</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Efficient Error Correction for the SwissRanger Time-of-Flight 3D Camera</title>
+		<year>2008</year>
+		<authors>jann poppinga</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Error Correction;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Characterization of 3D Sensors for Response Robots</title>
+		<year>2009</year>
+		<authors>jann poppinga,kaustubh pathak</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining Exploration and Ad-Hoc Networking in RoboCup Rescue</title>
+		<year>2004</year>
+		<authors>martijn n. rooker</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Ad Hoc Network;Data Transmission;Network Connectivity;Robot Team;Base Station;Relay Station;</keyword>
+		<organization>null</organization>
+		<abstract>In challenging environments where the risk of loss of a robot is high, robot teams are a natural choice. In many applications like for example rescue missions there are two crucial tasks for the robots. First, they have to eciently and exhaustively explore the environment. Sec- ond, they must keep up a network connection to the base-station to transmit data</abstract>
+	</publication>
+	<publication>
+		<title>Communicative Exploration with Robot Packs</title>
+		<year>2005</year>
+		<authors>martijn n. rooker</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Robot Team;Wireless Communication Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Exploration is a core challenge for RoboCup Rescue. So- called communicative exploration is a novel strategy for multi-robot exploration that unlike other approaches takes the limits of wireless communication systems into account. Here, previous results that where achieved for a team of robots linked to a basestation are significantly extended to also cover robot packs, i.e., multi-robot teams that are</abstract>
+	</publication>
+	<publication>
+		<title>Determining Map Quality through an Image Similarity Metric</title>
+		<year>2008</year>
+		<authors>ioana varsadan,max pfingsthorn</authors>
+		<jconf>RoboCup</jconf>
+		<label>51</label>
+		<keyword>Image Similarity;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boosting Cooperation by Evolving Trust</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<label>51</label>
+		<keyword>Complex Dynamical Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Instead of establishing trust through defining compliancy-based standards like protocolsaugmented by cryptographic methods, it is shown that trust can emerge as a self-organizingphenomenon in a complex dynamical system. It is assumed that trust can be modeled onbasis of an intrinsic property called trustworthyness in every individual i, which is an objectivemeasure for other individuals wether it is desirable to engage</abstract>
+	</publication>
+	<publication>
+		<title>On-board control in the RoboCup small robots league</title>
+		<year>2000</year>
+		<authors>holger kenn,thomas walle</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>We present the most recent version of our RoboCube system, a special robotcontrollerhand-tailored for players in the small robots league. The RoboCube isconceptualized to implement players with as many on-board features as possible in anextremely flexible way. For this purpose, the RoboCube provides quite some computationpower and memory as well as a multitude of I/O-interfaces within the spaceconstraints.As it facilitates</abstract>
+	</publication>
+	<publication>
+		<title>Rescue robotics - A crucial milestone on the road to autonomous systems</title>
+		<year>2006</year>
+		<authors>stefano carpin</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>51</label>
+		<keyword>Autonomic System;Basic Research;Service Robot;au tonomous system;Human In The Loop;</keyword>
+		<organization>null</organization>
+		<abstract>Rescue robotics is an important steppingstone in the scientific chal- lenge to create autonomous systems. There is a significant market for res- cue robots, which has unique features that allow a fruitful combination of application oriented developments and basic research. Unlike other mar- kets for advanced robotics systems like service robots, the rescue robotics domain benefits from the fact that</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Representation in Three-Dimensional Environment Modeling for Planetary Robotic Exploration</title>
+		<year>2010</year>
+		<authors>narunas vaskevicius,kaustubh pathak,sören schwertfeger</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>51</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online three-dimensional SLAM by registration of large planar surface segments and closed-form pose-graph relaxation</title>
+		<year>2010</year>
+		<authors>kaustubh pathak,narunas vaskevicius,max pfingsthorn,jann poppinga</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>51</label>
+		<keyword>Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hough based terrain classification for realtime detection of drivable ground</title>
+		<year>2008</year>
+		<authors>jann poppinga,kaustubh pathak</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>51</label>
+		<keyword>Cognitive Load;Mobile Robot;Parameter Space;Range Data;Search and Rescue;Success Rate;Decision Tree;Hough Transform;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The usability of mobile robots for surveillance, search and rescue missions can be significantly improved,by intelligent functionalities decreasing the cognitive load on the operator or even allowing autonomous operations, e.g., when communication fails. Mobility in this regard is not only a mechatronic problem but also a percep- tion, modeling and planning challenge. Here, the perception issue of detecting driv-</abstract>
+	</publication>
+	<publication>
+		<title>Programming with behavior-processes</title>
+		<year>2002</year>
+		<authors>holger kenn,luc steels</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An N-player prisoner's dilemma in a robotic ecosystem</title>
+		<year>2002</year>
+		<authors>julie wiernik</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>51</label>
+		<keyword>prisoner's dilemma;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On map merging</title>
+		<year>2005</year>
+		<authors>stefano carpin,viktoras jucikas</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>51</label>
+		<keyword>Data Gathering;Motion Planning;Multi Robot System;Reference Frame;Stochastic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We illustrate our experience in developing and implementing algorithms for map merging, i.e., the problem of fusing two or more partial maps without common reference frames into one large global map. The partial maps may for example be acquired by multiple robots, or during several runs of a single robot from varying starting positions. Our work deals with low quality</abstract>
+	</publication>
+	<publication>
+		<title>Fast Registration Based on Noisy Planes With Unknown Correspondences for 3-D Mapping</title>
+		<year>2010</year>
+		<authors>kaustubh pathak,narunas vaskevicius,jann poppinga</authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>51</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

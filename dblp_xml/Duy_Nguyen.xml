@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Duy Nguyen</FullName>
+	<publication>
+		<title>Stork: Package Management for Distributed VM Environments</title>
+		<year>2007</year>
+		<authors>justin cappos,scott m. baker,jeremy plichta,jason hardies,matt borgard,jeffry johnston,john h. hartman</authors>
+		<jconf>USENIX Systems Administration Conference</jconf>
+		<label>215</label>
+		<keyword>Management Tool;Resource Utilization;Single Machine;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>In virtual machine environments each application is often run in its own virtual machine (VM), isolating it from other applications running on the same physical machine. Contention for memory, disk space, and network bandwidth among virtual machines, coupled with an inability to share due to the isolation virtual machines provide, leads to heavy resource utilization. Additionally, VMs increase management overhead</abstract>
+	</publication>
+</person>

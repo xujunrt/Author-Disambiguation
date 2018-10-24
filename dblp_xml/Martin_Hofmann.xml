@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Hofmann</FullName>
+	<publication>
+		<title>Objekt- und Kommunikationsmanagement im multimedialen Büroinformationssystem MuBIS</title>
+		<year>1987</year>
+		<authors>ralf cordes,rüdiger buck-emden,horst langendörfer</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dekomposition und Wertfortpflanzung in einem objektorientierten, multimedialen Modellierungsansatz</title>
+		<year>1989</year>
+		<authors>ralf cordes,horst langendörfer</authors>
+		<jconf>Datenbanksysteme in B��ro, Technik und Wissenschaft(German Database Conference)</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graphical Structure-Oriented Search in a Hypertext System</title>
+		<year>1992</year>
+		<authors>s. schmezko</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Process of Knowledge Structuring Supported by a Hypertext System</title>
+		<year>1990</year>
+		<authors>uwe schreiweis,horst langendörfer</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>638</label>
+		<keyword>Knowledge Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Integrated Approach of Knowledge Acquisition by the Hypertext System CONCORDE</title>
+		<year>1990</year>
+		<authors>uwe schreiweis,horst langendörfer</authors>
+		<jconf>European Conference on Hypertext</jconf>
+		<label>638</label>
+		<keyword>Integrated Approach;Knowledge Acquisition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Graph-Layout für eine objektorientierte Benutzungsoberfläche</title>
+		<year>1991</year>
+		<authors>k. laue,horst langendörfer</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>638</label>
+		<keyword>Graph Layout;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vom lokalen Hypertext zum verteilten Hypermediasystem</title>
+		<year>1990</year>
+		<authors>ralf cordes,horst langendörfer,e. lübben,h. peyn,klaus süllow,t. töpperwien</authors>
+		<jconf>Hypertext, Information Retrieval, Multimedia</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Allgemein zugängliche und private Objekte im Hypertextsystem CONCORDE</title>
+		<year>1991</year>
+		<authors>h. peyn,horst langendörfer,t. töpperwien</authors>
+		<jconf>Hypertext, Information Retrieval, Multimedia</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Klassendefinitionen und Anfrageformulierung in Informationssytemen durch graphische Interaktion</title>
+		<year>1993</year>
+		<authors>eckhard bartscht,s. schmezko</authors>
+		<jconf>Information Retrieval</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Objektorientierte Modellierung in einem BMFT-Umweltprojekt: Wissensbasierte Fehlerdiagnosse von Kläranlagen</title>
+		<year>1990</year>
+		<authors>horst langendörfer,jürgen schönwälder</authors>
+		<jconf>Informatik f��r den Umweltschutz</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hypertextsysteme - Begrifflichkeit, Modelle, Problemstellungen</title>
+		<year>1991</year>
+		<authors></authors>
+		<jconf>Wirtschaftsinformatik / Angewandte Informatik</jconf>
+		<label>638</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GRID Computing</title>
+		<year>2005</year>
+		<authors>uta bohnebeck</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>639</label>
+		<keyword>Grid Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A high throughput screening for rarely transcribed differentially expressed genes</title>
+		<year>1997</year>
+		<authors>oliver d. von stein,wolf-gerolf thies</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>640</label>
+		<keyword>Cell Line;Differential Expression;Differentially Expressed Gene;False Positive;Gene Expression Profile;High Throughput Screening;Perfect Match;Suppressive Subtractive Hybridization;High Throughput;True Positive;</keyword>
+		<organization>null</organization>
+		<abstract>A novel method combining elements of suppression subtractive hybridization with high throughput differ- ential screening permits the efficient and rapid cloning of rarely transcribed differentially expressed genes. The experimental strategy virtually excludes the possi- bility of isolating false positive clones. The potential of the method is demonstrated by the isolation of 625 differentially expressed cDNAs from the metastatic adenocarcinoma cell</abstract>
+	</publication>
+	<publication>
+		<title>A paradigm for building diagnostic expert systems by specializing generic device and reasoning models</title>
+		<year>1988</year>
+		<authors>glen c. collins,juan e. vargas,john r. bourne,arthur j. brodersen</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>641</label>
+		<keyword>Analog Circuits;Knowledge Representation;Object Oriented;Problem Solving;Structure and Function;Expert System;layer 2;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a generic schematic knowledge representation, acquisition, and manipulation system (SKRAM) applied to diagnostic problem solving in analog circuits. SKRAM is a general purpose declarative, schema-oriented system composed of five layers: (1) an object-oriented implementation layer, (2) a logical layer defining object features, i.e., relations and attributes, (3) an epistemological layer at which schemata are introduced as knowledge</abstract>
+	</publication>
+	<publication>
+		<title>A generic strategy for diagnostic assistance: the technician's assistant</title>
+		<year>1988</year>
+		<authors>m. b. mcbeth,glen c. collins,john r. bourne,arthur j. brodersen</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>641</label>
+		<keyword>Analog Circuits;Data Gathering;Proof of Principle;</keyword>
+		<organization>null</organization>
+		<abstract>A simple and generic strategy for the creation and deployment of diagnostic assistance systems has been developed and implemented in a PC environment. It is demonstrated that this strategy permits highly effective and usable systems to be assembled and maintained by domain experts and software personnel who need only limited acquaintance with the tools utilized. A specified partitioning of the</abstract>
+	</publication>
+	<publication>
+		<title>Similarity-based reasoning about diagnosis of analog circuits</title>
+		<year>1988</year>
+		<authors>juan e. vargas,john r. bourne,arthur j. brodersen,glen c. collins</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>641</label>
+		<keyword>Analog Circuits;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>This paper advocates the use of similarity-based reasoning to improve the efficacy of AI applications dealing with diagnosis of electronic circuits. A paradigm for similarity-based matching is presented, application of this paradigm to diagnosis of electronic circuits is discussed, and a system architecture that supports this concept is described.</abstract>
+	</publication>
+	<publication>
+		<title>Spatial Data Mining mit dem DB2 Intelligent Miner</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Informatiktage</jconf>
+		<label>642</label>
+		<keyword>Spatial Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Porting IgorII from Maude to Haskell</title>
+		<year>2009</year>
+		<authors>emanuel kitzelmann,ute schmid</authors>
+		<jconf></jconf>
+		<label>643</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Data-Driven Detection of Recursive Program Schemes</title>
+		<year>2010</year>
+		<authors>ute schmid</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>643</label>
+		<keyword>Recursive Program Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evolutionary Programming Guided by Analytically Generated Seeds</title>
+		<year>2009</year>
+		<authors>neil crossley,emanuel kitzelmann,ute schmid</authors>
+		<jconf>International Conference on Evolutionary Computation</jconf>
+		<label>643</label>
+		<keyword>Evolutionary Programming;Evolutionary System;Functional Programming;Power Method;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract>Evolutionary programming is the most powerful method for inducing recursive functional programs from in- put/output examples while taking into account efficiency and complexity con straints for the target program. However, synthesis time can be considerably high. A strategy which is complementary to the generate-and -test based approaches of evolutionary programming is inductive analytical programming where program con- struction is example-driven,</abstract>
+	</publication>
+	<publication>
+		<title>Inductive Synthesis of Recursive Functional Programs</title>
+		<year>2007</year>
+		<authors>andreas hirschberger,emanuel kitzelmann,ute schmid</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>643</label>
+		<keyword>Functional Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analysis and Evaluation of Inductive Programming Systems in a Higher-Order Framework</title>
+		<year>2008</year>
+		<authors>emanuel kitzelmann,ute schmid</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>643</label>
+		<keyword>Program Synthesis;Term Rewriting;Higher Order;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present a comparison of several inductive program- ming (IP) systems. IP addresses the problem of learning (recursive) programs from incomplete specifications, such as input/output examples. First, we intro- duce conditional higher-order term rewriting as a common framework for induc- tive program synthesis. Then we characterise the ILP system GOLEM and the inductive functional system MAGICHASKELLER within</abstract>
+	</publication>
+	<publication>
+		<title>IGOR2 - an analytical inductive functional programming system: tool demo</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Partial Evaluation and Semantic-Based Program Manipulation</jconf>
+		<label>643</label>
+		<keyword>Functional Programming;Generic Programming;Programming Tool;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract>The analytical inductive programming system IGOR II is an implemented prototype for constructing recursive functional programs from few non-recursive, possibly non-ground example equations describing a subset of the input/output (I/O) behaviour of a function. Starting from an initial, overly general program hypothesis, stepwise several refinement operators are applied which compute successor hypotheses. Organised as an uniformed-cost search, the hypothesis with</abstract>
+	</publication>
+	<publication>
+		<title>I/O guided detection of list catamorphisms: towards problem specific use of program templates in IP</title>
+		<year>2010</year>
+		<authors>emanuel kitzelmann</authors>
+		<jconf>Partial Evaluation and Semantic-Based Program Manipulation</jconf>
+		<label>643</label>
+		<keyword>Higher-order Functions;Search Space;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract>Inductive programming (IP), usually defined as a search in a space of candidate programs, is an inherent exponentially complex problem. To constrain the search space, program templates have ever been one of the first choices. In previous approaches to incorporate program schemes, either an (often very well) informed expert user has to provide a template in advance, or templates are</abstract>
+	</publication>
+	<publication>
+		<title>Inductive Programming</title>
+		<year>2009</year>
+		<authors>ute schmid,emanuel kitzelmann</authors>
+		<jconf>K��nstliche Intelligenz</jconf>
+		<label>643</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Grid Added Value to Address Malaria</title>
+		<year>2006</year>
+		<authors>vincent breton,nicolas jacq</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>644</label>
+		<keyword>Information Embedding;Open Source;</keyword>
+		<organization>null</organization>
+		<abstract>Through this paper, we call for a distributed, internet-based collaboration to address one of the worst plagues of our present world, malaria. The spirit is a non-proprietary peer-production of information- embedding goods. And we propose to use the grid technology to enable such a world wide &quot;open source&quot; like collaboration. The first step towards this vision has been achieved during</abstract>
+	</publication>
+	<publication>
+		<title>Grid-Enabled High Throughput Virtual Screening</title>
+		<year>2006</year>
+		<authors>nicolas jacq,vincent breton,hsin-yen chen,li-yung ho,hurng-chun lee,yannick legré,simon c. lin,astrid maaß,emmanuel medernach,ivan merelli,luciano milanesi,giulio rastelli,matthieu reichstadt,jean salzemann,horst schwichtenberg,mahendrakar sridhar,vinod kasam,ying-ta wu,marc zimmermann</authors>
+		<jconf>Grid Computing in Computational Biology</jconf>
+		<label>644</label>
+		<keyword>Virtual Screening;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Large Scale In Silico Screening on Grid Infrastructures</title>
+		<year>2006</year>
+		<authors>nicolas jacq,vincent breton,hsin-yen chen,li-yung ho,hurng-chun lee,yannick legré,simon c. lin,astrid maaß,emmanuel medernach,ivan merelli,luciano milanesi,giulio rastelli,matthieu reichstadt,jean salzemann,horst schwichtenberg,mahendrakar sridhar,vinod kasam,ying-ta wu,marc zimmermann</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>644</label>
+		<keyword>Drug Discovery;Emerging Disease;in silico;Large Scale;Molecular Docking;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract>Large-scale grid infrastructures for in silico drug discovery open opportunities of particular interest to neglected and emerging diseases. In 2005 and 2006, we have been able to deploy large scale in silico docking within the framework of the WISDOM initiative against Malaria and Avian Flu requiring about 105 years of CPU on the EGEE, Auvergrid and TWGrid infrastructures. These achievements</abstract>
+	</publication>
+	<publication>
+		<title>Grid enabled virtual screening against malaria</title>
+		<year>2006</year>
+		<authors>nicolas jacq,jean salzemann,yannick legré,emmanuel medernach,johan montagnat,astrid maaß,matthieu reichstadt,horst schwichtenberg,mahendrakar sridhar,vinod kasam,marc zimmermann,martin hofmann</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>644</label>
+		<keyword>Binding Energy;Drug Use;in silico;Large Scale;Protein Targeting;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract WISDOM is an international initiative to enable a virtual screening pipeline on a grid infrastructure. Its first attempt was to deploy large scale in silico docking on a public grid infrastructure. Protein-ligand docking is about computing,the binding energy of a protein target to a library of potential drugs using a scoring algorithm.Previous deployments,were</abstract>
+	</publication>
+	<publication>
+		<title>Virtual screening on large scale grids</title>
+		<year>2007</year>
+		<authors>nicolas jacq,vincent breton,hsin-yen chen,li-yung ho,vinod kasam,hurng-chun lee,yannick legré,simon c. lin,astrid maaß</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>644</label>
+		<keyword>Large Scale;Virtual Screening;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

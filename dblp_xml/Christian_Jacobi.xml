@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Jacobi</FullName>
+	<publication>
+		<title>The Vector Floating-Point Unit in a Synergistic Processor Element of a CELL Processor</title>
+		<year>2005</year>
+		<authors>silvia m. müller,oh hwa-joon,kevin d. tran,scott r. cottier,brad w. michael,hiroo nishikawa,yonetaro totsuka,tatsuya namatame,naoka yano,takashi machida,sang h. dhong</authors>
+		<jconf>IEEE Symposium on Computer Arithmetic</jconf>
+		<label>143</label>
+		<keyword>Cell Processor;Cycle Time;High Frequency;Multimedia Streaming;Floating Point Unit;Processor Element;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The floating-point unit in the Synergistic Processor El- ement of the 1st generation multi-core CELL Processor is described. The FPU supports 4-way SIMD single precision and integer operations and 2-way SIMD double precision operations. The design required a high-frequency, low la- tency, power and area efficiency with primary application to the multimedia streaming workloads, such as 3D graph- ics.</abstract>
+	</publication>
+	<publication>
+		<title>Verifying full-custom multipliers by Boolean equivalence checking and an arithmetic bit level proof</title>
+		<year>2008</year>
+		<authors>udo krautz,markus wedler,wolfgang kunz,kai weber,matthias pflanz</authors>
+		<jconf>Asia and South Pacific Design Automation Conference</jconf>
+		<label>143</label>
+		<keyword>Equivalence Checking;Formal Verification;Industrial Design;High Level Language;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a practical methodology to formally verify highly optimized, industrial multipliers. We define a multiplier description language which abstracts from low-level optimizations and which can model a wide range of common implementations at a structural and arithmetic level. The correctness of the created model is established by bit level transformations matching the model against a standard</abstract>
+	</publication>
+	<publication>
+		<title>Formal Verification of Complex Out-of-Order Pipelines by Combining Model-Checking and Theorem-Proving</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>143</label>
+		<keyword>Formal Verification;Model Checking;Theorem Proving;Floating Point Unit;Out of Order;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a methodology for the formal verification of complex out-of-order pipelines as they may be used as execution units in out-of-order processors. The pipelines may process multiple instructions simultaneously, may have branches and cycles in the pipeline structure, may have variable latency, and may reorder instructions internally. The methodology combines model-checking for the verification of the pipeline control, and</abstract>
+	</publication>
+	<publication>
+		<title>Formal Verification of the VAMP Floating Point Unit</title>
+		<year>2005</year>
+		<authors>christoph berg</authors>
+		<jconf>Formal Methods in System Design</jconf>
+		<label>143</label>
+		<keyword>Formal Specification;Formal Verification;Theorem Prover;Theorem Proving;Floating Point Unit;</keyword>
+		<organization>null</organization>
+		<abstract>We report on the formal verification of the floating point unit used in the VAMP processor. The dual- precision FPU is IEEE compliant and supports denormals and exceptions in hardware. The supported operations are addition, subtraction, multiplication, division, comparison, and conversions. We have formalized the IEEE standard 754. The formalization is supplemented by a rich theory of rounding, which includes</abstract>
+	</publication>
+	<publication>
+		<title>Instantiating Uninterpreted Functional Units and Memory System: Functional Verification of the VAMP</title>
+		<year>2003</year>
+		<authors>sven beyer,daniel kroening,dirk leinenbach,wolfgang j. paul</authors>
+		<jconf>Conference on Correct Hardware Design and Verification Methods</jconf>
+		<label>143</label>
+		<keyword>Data Cache;Functional Verification;Memory Systems;Theorem Proving;Floating Point Unit;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>In the VAMP (verified architecture microprocessor) project we have designed, functionally verified, and synthesized a processor with full DLX in- struction set, delayed branch, Tomasulo scheduler, maskable nested precise in- terrupts, pipelined fully IEEE compatible dual precision floating point unit with variable latency, and separate instruction and data caches. The verification has been carried out in the theorem proving system</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Symbolic Simulation via Dynamic Scheduling, Don't Caring, and Case Splitting</title>
+		<year>2005</year>
+		<authors>viresh paruthi,kai weber</authors>
+		<jconf>Conference on Correct Hardware Design and Verification Methods</jconf>
+		<label>143</label>
+		<keyword>Computer Aided Design;Dynamic Scheduling;Constant Propagation;</keyword>
+		<organization>null</organization>
+		<abstract>Most computer-aided design frameworks rely upon building BDD rep- resentations from netlist descriptions. In this paper, we present efcient algo- rithms for building BDDs from netlists. First, we introduce a dynamic scheduling algorithm for building BDDs for gates of the netlist, using an efcient hybrid of depth- and breadth-rst traversal, and constant propagation. Second, we introduce a dynamic algorithm for</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Formal Verification of Fused-Multiply-Add FPUs</title>
+		<year>2005</year>
+		<authors>kai weber,viresh paruthi,jason baumgartner</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>143</label>
+		<keyword>Computational Efficiency;Formal Verification;Model Reduction;Reference Model;Floating Point Unit;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a fully-automated methodology for formal verification of fused-multiply-add floating point units (FPUs). Our methodology verifies an implementation FPU against a simple reference model derived from the processor's architectural specification, which may include all aspects of the IEEE specification including denormal operands and exceptions. Our strategy uses a combination of BDD- and SAT-based symbolic simulation. To</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating coverage of error detection logic for soft errors using formal methods</title>
+		<year>2006</year>
+		<authors>udo krautz,matthias pflanz,hans-werner tast,kai weber,heinrich theodor vierhaus</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>143</label>
+		<keyword>Error Detection;Fault Injection;Fault Tolerant;Formal Method;Formal Verification;Indexing Terms;Industrial Design;Soft Error;Error Detection and Correction;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a methodology to measure exactly the quality of fault-tolerant designs by combining fault- injection in high level design (HLD) descriptions with a formal verification approach. We utilize BDD based symbolic simulation to determine the coverage of online error-detection and - correction logic. We describe an easily portable approach, which can be applied to a wide</abstract>
+	</publication>
+	<publication>
+		<title>Highly Concurrent Locking in Shared Memory Database Systems</title>
+		<year>1999</year>
+		<authors>cédric lichtenau</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>143</label>
+		<keyword>Critical Section;Database System;Parallel Database System;Shared Memory;</keyword>
+		<organization>null</organization>
+		<abstract>In parallel database systems, conflicts for accesses to objects are solved through object locking. In order to acquire and release locks, in the standard implementation of a lock manager small sections of the code may be executed only by a single thread. On massively parallel shared memory machines (SMM) the serialization of these critical sections leads to serious performance degradation.</abstract>
+	</publication>
+	<publication>
+		<title>Deriving Cryptographically Sound Implementations Using Composition and Formally Verified Bisimulation</title>
+		<year>2002</year>
+		<authors>michael backes,birgit pfitzmann</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>143</label>
+		<keyword>Case Study;Cryptographic Protocol;Formal Verification;Reactive System;Secure Message Transmission;Theorem Prover;Tool Support;</keyword>
+		<organization>null</organization>
+		<abstract>We consider abstract specifications of cryptographic protocols which are both suitable for formal verification and maintain a sound cryptographic semantics. In this paper, we present the first abstract specification for ordered secure message transmission in reactive systems based on the recently published model of Pfitzmann and Waidner. We use their composition theorem to derive a possible implementation whose correctness additionally</abstract>
+	</publication>
+	<publication>
+		<title>Cryptographically Sound and Machine-Assisted Verification of Security Protocols</title>
+		<year>2003</year>
+		<authors>michael backes</authors>
+		<jconf>Symposium on Theoretical Aspects of Computer Science</jconf>
+		<label>143</label>
+		<keyword>Cryptographic Protocol;Formal Method;Secure Message Transmission;Security Protocol;Theorem Prover;</keyword>
+		<organization>null</organization>
+		<abstract>We consider machine-aided verification of suitably constru cted ab- stractions of security protocols, such that the verified pro perties are valid for the concrete implementation of the protocol with respect to cryptographic definitions. In order to link formal methods and cryptography, we show that integrity prop- erties are preserved under step-wise refinement in asynchro nous networks with respect to cryptographic</abstract>
+	</publication>
+	<publication>
+		<title>Formal Verification of the VAMP Floating Point Unit</title>
+		<year>2005</year>
+		<authors>christoph berg</authors>
+		<jconf>Formal Methods in System Design</jconf>
+		<label>143</label>
+		<keyword>Formal Specification;Formal Verification;Theorem Prover;Theorem Proving;Floating Point Unit;</keyword>
+		<organization>null</organization>
+		<abstract>We report on the formal verification of the floating point unit used in the VAMP processor. The dual- precision FPU is IEEE compliant and supports denormals and exceptions in hardware. The supported operations are addition, subtraction, multiplication, division, comparison, and conversions. We have formalized the IEEE standard 754. The formalization is supplemented by a rich theory of rounding, which includes</abstract>
+	</publication>
+	<publication>
+		<title>IBM POWER6 accelerators: VMX and DFU</title>
+		<year>2007</year>
+		<authors>lee eisen,john wesley ward iii,hans-werner tast,nicolas mäding,jens leenstra,silvia m. müller,jochen preiss,eric m. schwarz,steven r. carlough</authors>
+		<jconf>Ibm Journal of Research and Development</jconf>
+		<label>143</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Putting it all together - Formal verification of the VAMP</title>
+		<year>2006</year>
+		<authors>sven beyer,daniel kröning,dirk leinenbach,wolfgang j. paul</authors>
+		<jconf>International Journal on Software Tools for Technology Transfer</jconf>
+		<label>143</label>
+		<keyword>Data Cache;Formal Verification;Theorem Proving;</keyword>
+		<organization>null</organization>
+		<abstract>In the VAMP (verified architecture microproces- sor) project we have designed, functionally verified, and sy n- thesized a processor with full DLX instruction set, delayed branch, Tomasulo scheduler, maskable nested precise inter- rupts, pipelined fully IEEE compatible dual precision float - ing point unit with variable latency, and separate instruct ion and data caches. The verification has been carried out</abstract>
+	</publication>
+</person>

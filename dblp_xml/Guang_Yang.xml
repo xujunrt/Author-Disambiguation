@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Guang Yang</FullName>
+	<publication>
+		<title>Discovering Significant Places from Mobile Phones - A Mass Market Solution</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Ubiquitous Computing/Handheld and Ubiquitous Computing</jconf>
+		<label>262</label>
+		<keyword>Mobile Phone;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Streaming over Wireless Links: A Comparative Study</title>
+		<year>2005</year>
+		<authors>ling-jyh chen,tony sun,mario gerla,m. y. sanadidi</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>262</label>
+		<keyword>Comparative Study;Wireless Links;Video Transport Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time streaming over wireless links is challenging. The streaming protocol must be efficient and robust to ran- dom wireless loss, fair to itself, and friendly to legacy TCP. Various solutions have been proposed in the liter- ature, among which the Video Transport Protocol (VTP), TFRC Wireless, and MULTFRC are end-to-end representa- tives. In this paper we provide an in-depth comparison</abstract>
+	</publication>
+	<publication>
+		<title>Defense against low-rate TCP-targeted denial-of-service attacks</title>
+		<year>2004</year>
+		<authors>mario gerla,m. y. sanadidi</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>262</label>
+		<keyword>Denial of Service;Denial of Service Attack;Dos Attack;Indexing Terms;Operating System;Performance Model;Retransmission Time Out;</keyword>
+		<organization>null</organization>
+		<abstract>Low-rate TCP-targeted Denial-of-Service (DoS) at- tacks aim at the fact that most operating systems in use today have a common base TCP Retransmission Timeout (RTO) of 1 sec. An attacker injects periodic bursts of packets to fill the bottle- neck queue and forces TCP connections to timeout with near-zero throughput. This paper proposes randomization on TCP RTO as defense against</abstract>
+	</publication>
+	<publication>
+		<title>Social Proximity Networks on Cruise Ships</title>
+		<year>2008</year>
+		<authors>zhigang liu,karim seada,hawk-yin pang,august joki,jun yang,daniela rosner,manish anand,péter pál boda</authors>
+		<jconf>Mobile HCI</jconf>
+		<label>262</label>
+		<keyword>Indoor Positioning;Mobile Device;Social Interaction;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Social interaction is an essential element of our d aily lives. One could argue that such interaction is even more impo rtant while on vacation. To showcase certain technology enablers, we implement a cruise ship scenario with a few advanced applicat ions. The cruise ship scenario serves not only as a tangible goal but also as a metaphor: these applications</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Video Streaming in Presence of Wireless Errors</title>
+		<year>2004</year>
+		<authors>mario gerla,medy sanadidi</authors>
+		<jconf>International Conference on Management of Multimedia Networks and Services</jconf>
+		<label>262</label>
+		<keyword>Adaptive Video Streaming;Rate Adaptation;Rate Control;Video Streaming;Wireless Links;Real Time;Tcp Friendly Rate Control;Video Transport Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time video streaming with rate adaptation to network load/congestion represents an e-cient solution to its coexistence with conventional TCP data services. Naturally, the streaming rate control must be e-cient, smooth and TCP friendly. As multimedia clients be- come mobile, these properties must be preserved also over wireless links. In particular, they must be robust to random wireless losses. Existing schemes</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Video Streaming in Vertical Handoff: A Case Study</title>
+		<year>2004</year>
+		<authors>ling-jyh chen,tony sun,m. y. sanadidi,mario gerla</authors>
+		<jconf>International Conference on Mobile and Ubiquitous Systems: Networking and Services</jconf>
+		<label>262</label>
+		<keyword>Adaptive Video Streaming;Case Study;Mobile Computer;Vertical Handoff;Video Quality;Video Streaming;</keyword>
+		<organization>null</organization>
+		<abstract>Video streaming has become a popular form of trans- ferring video over the Internet. With the emergence of mobile computing needs, a successful video streaming solution demands 1) uninterrupted services even with the presence of mobility and 2) adaptive video delivery ac- cording to current link properties. In this paper we study the need and evaluate the performance of adaptive</abstract>
+	</publication>
+	<publication>
+		<title>Estimating Link Capacity in High Speed Networks</title>
+		<year>2006</year>
+		<authors>ling-jyh chen,tony sun,li lao,m. y. sanadidi,mario gerla</authors>
+		<jconf>Networking</jconf>
+		<label>262</label>
+		<keyword>High Speed;High Speed Networks;Network Design;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge of bottleneck capacity of an Internet path is critical for ef- ficient network design, management, and usage. With emerging high speed Inter- net links, most traditional estimation techniques are limited in providing fast and accurate capacity estimations. In this paper, we propose a new technique, called PBProbe, to estimate high speed links. PBProbe is based on CapProbe; however, instead</abstract>
+	</publication>
+	<publication>
+		<title>End-to-End Asymmetric Link Capacity Estimation</title>
+		<year>2005</year>
+		<authors>ling-jyh chen,tony sun,m. y. sanadidi,mario gerla</authors>
+		<jconf>Networking</jconf>
+		<label>262</label>
+		<keyword>Network Configuration;Network Design;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge of link capacity is important for network design, management, and utilization. With the increasing popularity of asym- metric link technologies (such as DSL, 1xRTT, and satellite links), it is desirable to have a capacity estimation technique, which can simulta- neously measure forward and backward direction link capacities on an Internet path. Moreover, this estimation must often be &quot;sender only&quot;,</abstract>
+	</publication>
+	<publication>
+		<title>Enhancing QoS Support for Vertical Handoffs Using Implicit/Explicit Handoff Notifications</title>
+		<year>2005</year>
+		<authors>ling-jyh chen,tony sun,m. y. sanadidi,mario gerla</authors>
+		<jconf>Quality of Service in Heterogeneous Wired/Wireless Networks</jconf>
+		<label>262</label>
+		<keyword>Adaptive Algorithm;Network Capacity;Network Congestion;Rate Adaptation;Vertical Handoff;</keyword>
+		<organization>null</organization>
+		<abstract>Vertical handoffs between different wireless technolo- gies usually lead to dramatic changes in the link capac- ity. A successful QoS solution for vertical handoffs must be able to fast track the capacity changes and agilely adapt the delivery rates and qualities of the ongoing applica- tions. Though traditional AIMD-based source adaptation schemes (as found in TCP, TFRC, etc.) have been</abstract>
+	</publication>
+	<publication>
+		<title>Dealing with Node Mobility in Ad Hoc Wireless Network</title>
+		<year>2005</year>
+		<authors>mario gerla,ling-jyh chen,yeng-zhong lee,biao zhou,jiwei chen,shirshanka das</authors>
+		<jconf>School on Formal Methods for the Design of Computer, Communication and Software Systems</jconf>
+		<label>262</label>
+		<keyword>Ad Hoc Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Monitoring access link capacity using TFRC probe</title>
+		<year>2006</year>
+		<authors>ling-jyh chen,tony sun,m. y. sanadidi,mario gerla</authors>
+		<jconf>Computer Communications</jconf>
+		<label>262</label>
+		<keyword>End-to-end Measurement;Internet Access;Multimedia Server;</keyword>
+		<organization>null</organization>
+		<abstract>Accurate estimation of network characteristics based on end to end measurements is an important and chal- lenging problem. With the increasing variety and sophistication of Internet access methods, the mobility of the users and the need for seamless handofi across them, monitoring access link capacity becomes critical for e-cient multimedia delivery. In fact, this allows the multimedia server to properly</abstract>
+	</publication>
+	<publication>
+		<title>TCP bulk repeat</title>
+		<year>2005</year>
+		<authors>ren wang,mario gerla,m. y. sanadidi</authors>
+		<jconf>Computer Communications</jconf>
+		<label>262</label>
+		<keyword>Analytical Model;Indexing Terms;Performance Analysis;Satellite Network;Tcp Performance;Transport Layer;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>TCP is the most widely used transport layer pro- tocol. However, it was designed for wired networks and suf- fers performance degradation in error-prone wireless networks. When multiple error losses occur in the same window, existing NewReno-based TCP variants need one RTT to retransmit each lost packet, an inefficient recover strategy. Exponential retransmit backoff and frequent window reduction also lead</abstract>
+	</publication>
+	<publication>
+		<title>Smooth and efficient real-time video transport in the presence of wireless errors</title>
+		<year>2006</year>
+		<authors>tony sun,mario gerla,m. y. sanadidi,ling-jyh chen</authors>
+		<jconf>ACM Transactions on Multimedia Computing, Communications, and Applications</jconf>
+		<label>262</label>
+		<keyword>Rate Control;Transport Layer;Transport Protocol;Video Codec;Wireless Network;Real Time;Tcp Friendly Rate Control;Video Transport Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we study a smooth and e-cient transport protocol for real-time video over wire- less networks. The proposed scheme, named the Video Transport Protocol (VTP), has a new and unique end-to-end rate control mechanism that aims to avoid drastic rate ∞uctuations while maintaining friendliness to legacy protocols. VTP is also equipped with an Achieved Rate estima- tion scheme</abstract>
+	</publication>
+	<publication>
+		<title>AdHoc Probe: end-to-end capacity probing in wireless ad hoc networks</title>
+		<year>2009</year>
+		<authors>ling-jyh chen,tony sun,m. y. sanadidi,mario gerla</authors>
+		<jconf>Wireless Networks</jconf>
+		<label>262</label>
+		<keyword>Ad Hoc Wireless Network;Energy Optimization;Experimental Validation;Internet Use;multihop wireless network;Rate Adaptation;Traffic Management;Wireless Ad Hoc Network;Wireless Links;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge of end-to-end path capacity is useful for video/audio stream adaptation, network management and overlay design. Capacity estimation in wired and last-hop wireless networks has been extensively investigated, but a thorough and systematic study in ad hoc, multihop wireless networks is still lacking. Yet the rate of a wireless link can change dynamically (and rapidly) due to changes in interference,</abstract>
+	</publication>
+	<publication>
+		<title>Equivalence Knowledge Cumularspharolith and Multiple Approximate Reasoning in R - Logic CR</title>
+		<year>2009</year>
+		<authors>yalin zheng</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>263</label>
+		<keyword>Approximate Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Approximate Knowledge Mass and Extended Automation Reasoning System in Type II Topological Logic</title>
+		<year>2008</year>
+		<authors>yalin zheng,jing zheng,peican huang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>263</label>
+		<keyword>Automated Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pointwise Logic on Completely Distributive Lattices and Approximate Reasoning</title>
+		<year>2008</year>
+		<authors>yalin zheng,jing zheng,jinsheng xing</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>263</label>
+		<keyword>Approximate Reasoning;Distributive Lattice;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Knowledge Mass and Automatic Reasoning System in Similarity Logic CQ</title>
+		<year>2007</year>
+		<authors>yalin zheng,huaqiang yuan,ning wang,yongcheng bai</authors>
+		<jconf>International Conference of Fuzzy Information and Engineering</jconf>
+		<label>263</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity Mass and Approximate Reasoning</title>
+		<year>2007</year>
+		<authors>yalin zheng,huaqiang yuan,jing zheng,yongcheng bai</authors>
+		<jconf>International Conference of Fuzzy Information and Engineering</jconf>
+		<label>263</label>
+		<keyword>Approximate Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Equivalence Knowledge Mass and Approximate Reasoning in Logic (I)</title>
+		<year>2008</year>
+		<authors>yalin zheng,changshui zhang,jing zheng,yunpeng xu</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>263</label>
+		<keyword>Approximate Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Low Power Smart Vision System Based on Active Pixel Sensor Integrated with Programmable Neural Processor</title>
+		<year>1997</year>
+		<authors>wai-chi fang,bedabrata pain,bing j. sheu</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>264</label>
+		<keyword>Active Pixel Sensor;Low Power;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CMOS imager with charge-leakage compensated frame difference and sum output</title>
+		<year>2001</year>
+		<authors>bedabrata pain,suresh seshadri,monico ortiz,chris wrigley</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>264</label>
+		<keyword>Cmos Imager;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>CMOS Digital Imager Design from a System-on-a-chip Perspective</title>
+		<year>2003</year>
+		<authors>bedabrata pain,bruce hancock,thomas cunningham,suresh seshadri,julie heynssens,chris wrigley</authors>
+		<jconf>VLSI Design</jconf>
+		<label>264</label>
+		<keyword>Digital Image;system on a chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Single-Chip Programmable Digital CMOS Imager with Enhanced Low-Light Detection Capability</title>
+		<year>2000</year>
+		<authors>bedabrata pain,monico ortiz,kenneth mccarty,julie heynssens,bruce hancock,thomas cunningham,chris wrigley,charlie ho</authors>
+		<jconf>VLSI Design</jconf>
+		<label>264</label>
+		<keyword>Cmos Imager;Low Light;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Low-Power Digital Camera-on-a-Chip Implemented in CMOS Active Pixel Approach</title>
+		<year>1999</year>
+		<authors>bedabrata pain,brita olson,timothy shaw,monico ortiz,julie heynssens,chris wrigley,charlie ho</authors>
+		<jconf>VLSI Design</jconf>
+		<label>264</label>
+		<keyword>Digital Camera;Low Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Concurrent execution semantics and sequential simulation algorithms for the metropolis metamodel</title>
+		<year>2002</year>
+		<authors>felice balarin,luciano lavagno,claudio passerone,alberto l. sangiovanni-vincentelli,yosinori watanabe</authors>
+		<jconf>International Conference on Hardware Software Codesign</jconf>
+		<label>265</label>
+		<keyword>Design Environment;Design Methodology;Design Process;Embedded System;meta model;Regression Testing;Simulation Technique;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the simulation techniques that are available in Metropolis, an inter-disciplinary research project that develops a design methodology, supported by a comprehensive design environment and tool set, for embedded systems. System behavior is non-deterministic in general, especially in the beginning of the design process, when several key decision, such as the mapping on an implementation platform, have not</abstract>
+	</publication>
+	<publication>
+		<title>Communication and co-simulation infrastructure for heterogeneous system integration</title>
+		<year>2006</year>
+		<authors>xi chen,felice balarin,harry hsieh,alberto l. sangiovanni-vincentelli</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>265</label>
+		<keyword>Design Framework;Design Methodology;Heterogeneous Systems;Levels of Abstraction;</keyword>
+		<organization>null</organization>
+		<abstract>With the increasing complexity and heterogeneity of em- bedded electronic systems, a unified design methodology at higher levels of abstraction becomes a necessity. Meanwhile, it is also important to incorporate the current design prac- ticeemphasizingIP reuseat variousabstractionlevels. How- ever, the abstraction gap prohibits easy communication and synchronization in IP integration and co-simulation. In this paper, we present a communication infrastructure</abstract>
+	</publication>
+	<publication>
+		<title>Separation of concerns: overhead in modeling and efficient simulation techniques</title>
+		<year>2004</year>
+		<authors>alberto l. sangiovanni-vincentelli,yosinori watanabe,felice balarin</authors>
+		<jconf>International Workshop on Embedded Systems</jconf>
+		<label>265</label>
+		<keyword>Levels of Abstraction;Platform Based Design;Separation of Concern;Simulation Technique;</keyword>
+		<organization>null</organization>
+		<abstract>Separating the description of important aspects of a design such as behavior and architecture, or computation and communication, may yield significant advantages in design time as well as in re-usability of the design. However, exploiting fully the re-usability opportunities offered by this approach implies to keep the various aspects of the design separated while verifying the design at a given</abstract>
+	</publication>
+	<publication>
+		<title>Metamodeling: An Emerging Representation Paradigm for System-Level Design</title>
+		<year>2009</year>
+		<authors>alberto l. sangiovanni-vincentelli,sandeep k. shukla,janos sztipanovits,deepak mathaikutty</authors>
+		<jconf>IEEE Design &amp; Test of Computers</jconf>
+		<label>265</label>
+		<keyword>System Level Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation and Performance Evaluation of an Adaptable Failure Detector in iSCSI</title>
+		<year>2007</year>
+		<authors>jingli zhou,gang liu</authors>
+		<jconf>Advanced Parallel Programming Technologies</jconf>
+		<label>266</label>
+		<keyword>Failure Detector;Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation and Performance Evaluation of an Adaptable Failure Detector for Distributed System</title>
+		<year>2007</year>
+		<authors>jingli zhou,lijun dong,gang liu</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>266</label>
+		<keyword>Distributed System;Failure Detector;Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementation and performance evaluation of an iSCSI-Based Storage Virtualization</title>
+		<year>2007</year>
+		<authors>jingli zhou,chao liu</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>266</label>
+		<keyword>Performance Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

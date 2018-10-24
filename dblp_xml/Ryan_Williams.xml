@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ryan Williams</FullName>
+	<publication>
+		<title>ComicKit: acquiring story scripts using common sense feedback</title>
+		<year>2005</year>
+		<authors>barbara barry,push singh</authors>
+		<jconf>Intelligent User Interfaces</jconf>
+		<label>903</label>
+		<keyword>Case Base Reasoning;Common Sense;Commonsense Reasoning;Knowledge Acquisition;User Study;Very Large Database;</keyword>
+		<organization>null</organization>
+		<abstract>At the Media Lab we are developing a resource called StoryNet, a very-large database of story scripts that can be used for commonsense reasoning by computers. This paper introduces ComicKit, an interface for acquiring StoryNet scripts from casual internet users. The core element of the interface is its ability to dynamically make common-sense suggestions that guide user story construction. We</abstract>
+	</publication>
+</person>

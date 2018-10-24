@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianzhong Zhang</FullName>
+	<publication>
+		<title>Inverse Bottleneck Optimization Problems on Networks</title>
+		<year>2006</year>
+		<authors>xiucui guan</authors>
+		<jconf>Algorithmic Applications in Management</jconf>
+		<label>396</label>
+		<keyword>Optimization Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some New Results on Inverse Sorting Problems</title>
+		<year>2005</year>
+		<authors>xiao-guang yang</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>396</label>
+		<keyword>Hamming Distance;Inverse Problem;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we consider two types of inverse sorting prob- lems. The first type is an inverse sorting problem under weighted Ham- ming distance with bound constraints, which can be solved in O(n2) time. The second type is a family of partial inverse sorting problems which we can further divide into two kinds, with free positions and with fixed</abstract>
+	</publication>
+	<publication>
+		<title>Inverse Constrained Bottleneck Problems on Networks</title>
+		<year>2005</year>
+		<authors>xiucui guan</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reverse Center Location Problem</title>
+		<year>1999</year>
+		<authors>xiao-guang yang,mao-cheng cai</authors>
+		<jconf>International Symposium on Algorithms and Computation</jconf>
+		<label>396</label>
+		<keyword>Location Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Survey of Quasi-Newton Equations and Quasi-Newton Methods for Optimization</title>
+		<year>2001</year>
+		<authors>chengxian xu</authors>
+		<jconf>Annals of Operations Research</jconf>
+		<label>396</label>
+		<keyword>quasi-newton method;Quasi Newton;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A characteristic quantity of P-matrices</title>
+		<year>2002</year>
+		<authors>naihua xiu</authors>
+		<jconf>Applied Mathematics Letters</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inverse constrained bottleneck problems under weighted linfinity norm</title>
+		<year>2007</year>
+		<authors>xiucui guan</authors>
+		<jconf>Computers &amp; Operations Research</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A priority measure in interval methods for constrained global optimization</title>
+		<year>1994</year>
+		<authors>dan sha</authors>
+		<jconf>Computers &amp; Operations Research</jconf>
+		<label>396</label>
+		<keyword>Constrained Global Optimization;Interval Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A class of bottleneck expansion problems</title>
+		<year>2001</year>
+		<authors>chao yang,yixun lin</authors>
+		<jconf>Computers &amp; Operations Research</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Inverse median problems</title>
+		<year>2004</year>
+		<authors>rainer e. burkard,carmen pleschiutschnig</authors>
+		<jconf>Discrete Optimization</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The inverse 1median problem on a cycle</title>
+		<year>2008</year>
+		<authors>rainer e. burkard,carmen pleschiutschnig</authors>
+		<jconf>Discrete Optimization</jconf>
+		<label>396</label>
+		<keyword>Location Problem;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>Let the graph G = (V;E) be a cycle with n+1 vertices, nonnega- tive vertex weights and positive edge lengths. The inverse 1-median problem on a cycle consists in changing the vertex weights at minimum cost such that a prespecifled vertex becomes the 1-median. The cost is proportional to the increase or decrease of the corresponding weight. We show that</abstract>
+	</publication>
+	<publication>
+		<title>Weight reduction problems with certain bottleneck objectives</title>
+		<year>2004</year>
+		<authors>rainer e. burkard,yixun lin</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>396</label>
+		<keyword>Weight Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The partial inverse minimum spanning tree problem when weight increase is forbidden</title>
+		<year>2008</year>
+		<authors>mao-cheng cai,c. w. duin,xiao-guang yang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>396</label>
+		<keyword>Minimum Spanning Tree;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A class of node based bottleneck improvement problems</title>
+		<year>2006</year>
+		<authors>xiucui guan</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving multicut in directed trees by upgrading nodes</title>
+		<year>2007</year>
+		<authors>xiucui guan</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>PCG-inexact Newton methods for unary optimization</title>
+		<year>2002</year>
+		<authors>yi xue,ping zhong,naiyang deng</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>396</label>
+		<keyword>Inexact Newton Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Inverse Problems of Optimum Perfect Matching</title>
+		<year>2003</year>
+		<authors>zhenhong liu</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Binary Search;Inverse Problem;Maximum Weight Matching;Network Optimization;Perfect Match;Polynomial Algorithm;Polynomial Time;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>As far as we know, for most polynomially solvable network optimization problems, their inverse problems under l1 or l∞ norm have been studied, except the inverse maximum-weight matching problem in non-bipartite networks. In this paper we discuss the inverse problem of maximum-weight perfect matching in a non-bipartite network under l1 and l∞ norms. It has been proved that the inverse</abstract>
+	</publication>
+	<publication>
+		<title>Inverse maximum flow problems under the weighted Hamming distance</title>
+		<year>2006</year>
+		<authors>longcheng liu</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Hamming Distance;Maximum Flow;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some inverse min-max network problems under weighted l1 and linfinity norms with bound constraints on changes</title>
+		<year>2007</year>
+		<authors>xiao-guang yang</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A General Model of Some Inverse Combinatorial Optimization Problems and Its Solution Method Under l-Norm</title>
+		<year>2002</year>
+		<authors>zhenhong liu</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Combinatorial Optimization Problem;Generic Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solution Structure of Some Inverse Combinatorial Optimization Problems</title>
+		<year>1999</year>
+		<authors>zhongfan ma</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Combinatorial Optimization Problem;Solution Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Center Location Improvement Problem Under the Hamming Distance</title>
+		<year>2005</year>
+		<authors>binwu zhang,yong he</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Hamming Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The shortest path improvement problems under Hamming distance</title>
+		<year>2006</year>
+		<authors>binwu zhang,liqun qi</authors>
+		<jconf>Journal of Combinatorial Optimization</jconf>
+		<label>396</label>
+		<keyword>Hamming Distance;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An inverse model for the most uniform problem</title>
+		<year>2008</year>
+		<authors>qin wang,jinjiang yuan</authors>
+		<jconf>Operations Research Letters</jconf>
+		<label>396</label>
+		<keyword>Inverse Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Partial inverse assignment problems under l1 norm</title>
+		<year>2007</year>
+		<authors>xiao-guang yang</authors>
+		<jconf>Operations Research Letters</jconf>
+		<label>396</label>
+		<keyword>Assignment Problem;Combinatorial Optimization Problem;Inverse Problem;Polynomial Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract In this paper, we consider the partial inverse assignment problem under l1 norm without bound constraints. We show that the partial inverse problem,can be solved by a strongly polynomial algorithm. The technique for solving this problem,can be extended to handle a special type of partial inverse 0.1 combinatorial optimization problems. © 2006 Elsevier B.V. All rights reserved. Keywords: Partial</abstract>
+	</publication>
+	<publication>
+		<title>Numerical Methods for Unary Optimization</title>
+		<year>2009</year>
+		<authors>emilio spedicato,naiyang deng,shaolin xi</authors>
+		<jconf></jconf>
+		<label>396</label>
+		<keyword>Numerical Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Phase noise spectra analysis for LC oscillators</title>
+		<year>2005</year>
+		<authors>hua zhang,dian zhou,yi hu,ruiming li</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>397</label>
+		<keyword>Oscillations;Phase Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A closed-form phase noise solution for an ideal LC oscillator</title>
+		<year>2004</year>
+		<authors>hua zhang,dian zhou,jin liu,liangjun jiang,yan pan</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>397</label>
+		<keyword>Oscillations;Phase Noise;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal space-time transceiver design for selective wireless broadcast with channel state information</title>
+		<year>2004</year>
+		<authors>a. m. sayeed,b. d. van veen</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>397</label>
+		<keyword>Channel State Information;Code Division Multiple Access;Indexing Terms;Satisfiability;Signal To Noise Ratio;Space Time Block Code;Spatial Diversity;Wireless Systems;Linear Program;Space Time;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, Selective broadcast schemes for point-to-multiple point transmission of identical information to several selected users are studied for a code-division multiple-access wireless system. The channel states for all selected users are assumed known at both the transmitter and the receivers. The goal is to minimize total transmit power while satisfying minimum received signal-to-noise ratio (SNR) requirements. Three designs, namely, time-only,</abstract>
+	</publication>
+	<publication>
+		<title>Reduced-state MIMO sequence detection with application to EDGE systems</title>
+		<year>2005</year>
+		<authors>a. m. sayeed,b. d. van veen</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>397</label>
+		<keyword>Indexing Terms;Low Complexity;mimo system;Minimum Mean Square Error;Multiple Input Multiple Output;Numerical Simulation;Set Partitions;Temporal Processing;Delayed Decision Feedback Sequence Estimator;Reduced State Sequence Estimation;Single Input Single Output;Space Time;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, In this paper we propose a joint reduced-state se-quence detector (JRSSD) for a multiple-input multiple-output (MIMO) system. The proposed JRSSD incorporates the set-par-titioning principle to obtain a reduced-state trellis and is the space-time extension of the RSSD proposed in [1] for a single-input single-output (SISO) equalization problem. We show that two elements are essential in achieving the desired complexity</abstract>
+	</publication>
+	<publication>
+		<title>Search and index in locality-based clustering overlay</title>
+		<year>2005</year>
+		<authors>yun he,xiaoguang niu,qi zhao</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>398</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-Demand Resource Allocation for Service Level Guarantee in Grid Environment</title>
+		<year>2005</year>
+		<authors>hailan yang,gongyi wu</authors>
+		<jconf>Grid and Cooperative Computing</jconf>
+		<label>398</label>
+		<keyword>Resource Allocation;Service Level;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DHTnil: An Approach to Publish and Lookup Nilsimsa Digests in DHT</title>
+		<year>2008</year>
+		<authors>hongbo lu,xiaofeng lan,dafan dong</authors>
+		<jconf>High Performance Computing and Communications</jconf>
+		<label>398</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>iCTPH: An Approach to Publish and Lookup CTPH Digests in Chord</title>
+		<year>2010</year>
+		<authors>kai pan,yuntao yu,jingdong xu</authors>
+		<jconf>International Conference on Algorithms and Architectures for Parallel Processing</jconf>
+		<label>398</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Hybrid Approach for Overlay Multicast</title>
+		<year>2006</year>
+		<authors>qi zhao,yun he</authors>
+		<jconf>International Multi-Symposium of Computer and Computational Sciences</jconf>
+		<label>398</label>
+		<keyword>Hybrid Approach;Overlay Multicast;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Spam Filter System Based on P2P Architecture</title>
+		<year>2008</year>
+		<authors>dafan dong,ying wu,hongbo lu,gongyi wu</authors>
+		<jconf>Networking, Architecture and Storages</jconf>
+		<label>398</label>
+		<keyword>P2P;Spam Filtering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Aggregation-Based Raw Reputation Generation Approach</title>
+		<year>2009</year>
+		<authors>tianyan zhang,xiaofeng lan,jingdong xu</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>398</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Topology-Aware Multi-cluster Architecture Based on Efficient Index Techniques</title>
+		<year>2005</year>
+		<authors>yun he,qi zhao,gongyi wu</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>398</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Arithmetic on Random Variables: Squeezing the Envelopes with New Joint Distribution Constraints</title>
+		<year>2005</year>
+		<authors>daniel berleant</authors>
+		<jconf>International Symposium on Imprecise Probabilities and Their Applications</jconf>
+		<label>399</label>
+		<keyword>Decision Analysis;Partial Information;Random Variable;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>Uncertainty is a key issue in decision analysis and other kinds of applications. Researchers have developed a number of approaches to address computations on uncertain quantities. When doing arithmetic operations on random variables, an important question has to be considered: the dependency relationships among the variables. In practice, we often have partial information about the dependency relationship between two random</abstract>
+	</publication>
+	<publication>
+		<title>Statool: A Tool for Distribution Envelope Determination (DEnv), an Interval-Based Algorithm for Arithmetic on Random Variables</title>
+		<year>2003</year>
+		<authors>daniel berleant,lizhi xie</authors>
+		<jconf>Reliable Computing</jconf>
+		<label>399</label>
+		<keyword>Random Variable;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Pearson Correlation to Improve Envelopes around the Distributions of Functions</title>
+		<year>2004</year>
+		<authors>daniel berleant</authors>
+		<jconf>Reliable Computing</jconf>
+		<label>399</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounding the times to failure of 2component systems</title>
+		<year>2004</year>
+		<authors>daniel berleant</authors>
+		<jconf>IEEE Transactions on Reliability</jconf>
+		<label>399</label>
+		<keyword>Indexing Terms;Model Uncertainty;Partial Information;Random Variable;Uncertainty Quantification;</keyword>
+		<organization>null</organization>
+		<abstract>Characterizing the distribution of times to failure in 2-component systems is an important special case of a more general problem, finding the distribution of a function of random variables. Advances in this area are relevant to reliability as well as other fields, and influential papers on the topic have appeared in the reliability field over a span of many years.</abstract>
+	</publication>
+	<publication>
+		<title>A Secure and Efficient (t, n) Threshold Verifiable Multi-secret Sharing Scheme</title>
+		<year>2005</year>
+		<authors>mei-juan huang,shu-cui xie</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>400</label>
+		<keyword>Secret Sharing Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cryptanalysis and improvement of a threshold proxy signature scheme</title>
+		<year>2009</year>
+		<authors>jianghong hu</authors>
+		<jconf>Computer Standards &amp; Interfaces</jconf>
+		<label>400</label>
+		<keyword>Threshold Proxy Signature;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A practical verifiable multi-secret sharing scheme</title>
+		<year>2007</year>
+		<authors>jian-jie zhao,rong zhao</authors>
+		<jconf>Computer Standards &amp; Interfaces</jconf>
+		<label>400</label>
+		<keyword>Secret Sharing Scheme;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

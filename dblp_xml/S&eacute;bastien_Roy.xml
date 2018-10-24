@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>S&amp;eacute;bastien Roy</FullName>
+	<publication>
+		<title>Lowering Error Floor of LDPC Codes Using a Joint Row-Column Decoding Algorithm</title>
+		<year>2007</year>
+		<authors>zhiyong he,paul fortier</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>905</label>
+		<keyword>ldpc code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Impact of Interference in a Distributed Base Station Scheme Managed by an Agent System</title>
+		<year>2007</year>
+		<authors>philippe leroux,jean-yves chouinard</authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>905</label>
+		<keyword>Agent Systems;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Codesign Prototyping Framework for Wireless LAN Transceivers with Smart Antennas</title>
+		<year>2007</year>
+		<authors>jean-françois boudreault,louis dupont</authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>905</label>
+		<keyword>Smart Antenna;Wireless Lan;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A FPGA implementation of an elliptic curve cryptosystem</title>
+		<year>2006</year>
+		<authors>louis dupont,jean-yves chouinard</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>905</label>
+		<keyword>elliptic curve cryptosystem;fpga implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-speed and low-power design of parallel turbo decoder</title>
+		<year>2005</year>
+		<authors>zhiyong he,paul fortier</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>905</label>
+		<keyword>High Speed;Low Power Design;Turbo Decoding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Encoder architecture with throughput over 10 Gbit/sec for quasi-cyclic LDPC codes</title>
+		<year>2006</year>
+		<authors>zhiyong he,paul fortier</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>905</label>
+		<keyword>ldpc code;Quasi Cyclic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>FPGA Implementation of LDPC Decoders Based on Joint Row-column Decoding Algorithm</title>
+		<year>2007</year>
+		<authors>zhiyong he,paul fortier</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>905</label>
+		<keyword>fpga implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient regular matrix inversion circuit architecture for MIMO processing</title>
+		<year>2006</year>
+		<authors>isabelle laroche</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>905</label>
+		<keyword>Matrix Inversion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adapting the strongly-connected trellis concept for use with trellis-coded modulation</title>
+		<year>1993</year>
+		<authors>paul fortier</authors>
+		<jconf>Information Theory and Applications</jconf>
+		<label>905</label>
+		<keyword>Trellis Coded Modulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Agent System to Manage Mobile Connections in a Distributed Base Station Scheme</title>
+		<year>2006</year>
+		<authors>philippe leroux,jean-yves chouinard</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>905</label>
+		<keyword>Agent Systems;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Performance of Soft Macrodiversity Based on Maximal-Ratio Combining in Uncorrelated Rician Fading</title>
+		<year>2006</year>
+		<authors>philippe leroux,jean-yves chouinard</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>905</label>
+		<keyword>Maximal Ratio Combiner;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Synergetic cooperation in a distributed base station system</title>
+		<year>2008</year>
+		<authors>philippe leroux,jean-yves chouinard</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>905</label>
+		<keyword>Agent Systems;Link Quality;Quality of Service;Resource Availability;Resource Utilization;Spectral Efficiency;Synergistic Effect;Wireless Communication;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract>Cooperation in wireless communications is an at- tractive means to gain spectral efficiency or diversity. Typically, cooperation is studied at the level of an individual end-to-end link. On the other hand, the primary goal of the the protocol proposed herein is not the improvement of individual link quality, but rather to improve global resource utilization throughout the network in the</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Power Control with Multiple Agents in a Distributed Base Station Scheme Using Macrodiversity</title>
+		<year>2009</year>
+		<authors>philippe leroux</authors>
+		<jconf>Self-Stabilizing Systems</jconf>
+		<label>905</label>
+		<keyword>Base Station;Power Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experimental Antenna Array Calibration with ADAptive LInear Neuron (ADALINE) Network</title>
+		<year>2006</year>
+		<authors>hugo bertrand,dominic grenier</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>905</label>
+		<keyword>Antenna Array;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient VLSI Architecture of a Layered Space-Time Receiver</title>
+		<year>2007</year>
+		<authors>isabelle laroche</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>905</label>
+		<keyword>Vlsi Architecture;Layered Space Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Semi-Analytic Method for BER Performance of Rake-Based UWB Receivers</title>
+		<year>2008</year>
+		<authors>michel thériault,leslie ann rusch,paul fortier</authors>
+		<jconf>IEEE Wireless Communications &amp; Networking Conference</jconf>
+		<label>905</label>
+		<keyword>Analytical Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low-Power 2.4 GHz Wake-Up Radio for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>philippe le-huy</authors>
+		<jconf>Wireless and Moble Computing</jconf>
+		<label>905</label>
+		<keyword>Low Power;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An end-to-end prototyping framework for compliant wireless LAN transceivers with smart antennas</title>
+		<year>2008</year>
+		<authors>jean-françois boudreault,louis dupont</authors>
+		<jconf>Computer Communications</jconf>
+		<label>905</label>
+		<keyword>Smart Antenna;Wireless Lan;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Low-Power Wake-Up Radio for Wireless Sensor Networks</title>
+		<year>2010</year>
+		<authors>philippe le-huy</authors>
+		<jconf>Mobile Networks and Applications</jconf>
+		<label>905</label>
+		<keyword>Low Power;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experimental antenna array calibration with artificial neural networks</title>
+		<year>2008</year>
+		<authors>hugo bertrand,dominic grenier</authors>
+		<jconf>Signal Processing</jconf>
+		<label>905</label>
+		<keyword>Antenna Array;Artificial Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Highly-Parallel Decoding Architectures for Convolutional Turbo Codes</title>
+		<year>2006</year>
+		<authors>zhiyong he,paul fortier</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration Systems</jconf>
+		<label>905</label>
+		<keyword>Turbo Code;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Maximal-ratio combining architectures and performance with channel estimation based on a training sequence</title>
+		<year>2004</year>
+		<authors>paul fortier</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>905</label>
+		<keyword>Channel Estimation;Maximal Ratio Combiner;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A closed-form analysis of fading envelope correlation across a wideband basestation array</title>
+		<year>2004</year>
+		<authors>paul fortier</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>905</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

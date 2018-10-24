@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Balaji Raman</FullName>
+	<publication>
+		<title>New algorithms for computing directional discrete Fourier transforms</title>
+		<year>2001</year>
+		<authors>marios s. pattichis,ruhai zhou</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>68</label>
+		<keyword>Discrete Fourier Transform;Spectrum;</keyword>
+		<organization>null</organization>
+		<abstract>New algorithms for computing the Discrete Fourier Transform (DFT) spectra along different directions are derived and implemented. For computing the DFT spectrum along any given direction (containing N DFT frequencies), a new algorithm is presented that requires N(N-1) additions and a single 1-D FFT. As expected, for a single direction, the directional FFT algorithm is significantly faster than standard 2-D</abstract>
+	</publication>
+</person>

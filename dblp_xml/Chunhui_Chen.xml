@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chunhui Chen</FullName>
+	<publication>
+		<title>Evolution modeling of complex network base on spatial structure</title>
+		<year>2010</year>
+		<authors>fangfeng zhang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>160</label>
+		<keyword>Complex Network;Spatial Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

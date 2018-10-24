@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Fang</FullName>
+	<publication>
+		<title>Fast Training of SVM via Morphological Clustering for Color Image Segmentation</title>
+		<year>2005</year>
+		<authors>chen pan,li liu,lei fang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>1168</label>
+		<keyword>Color Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On-line Training of Neural Network for Color Image Segmentation</title>
+		<year>2005</year>
+		<authors>chen pan,li liu</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1169</label>
+		<keyword>Color Image Segmentation;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Health monitoring of a shaft transmission system via hybrid models of PCR and PLS</title>
+		<year>2006</year>
+		<authors>hyun-woo cho,myong kee jeong</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1170</label>
+		<keyword>Health Monitoring;Hybrid Model;Information System;Latent Variable;Multivariate Regression;Partial Least Square;Partial Least Square Regression;Principal Component;Principal Component Regression;</keyword>
+		<organization>null</organization>
+		<abstract>Prediction of motor shaft misalignment is essential for the development of effective coupling and rotating equipment maintenance information systems. It can be stated as a multivariate regression problem with ill-posed data. In this paper, hybrid models of principal components regression (PCR) and partial least squares regression (PLS) have been proposed for this problem. The basic idea of hybrid models is</abstract>
+	</publication>
+</person>

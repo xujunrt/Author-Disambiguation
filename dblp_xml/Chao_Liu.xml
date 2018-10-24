@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chao Liu</FullName>
+	<publication>
+		<title>A first step toward detecting SSH identity theft in HPC cluster environments: discriminating masqueraders based on command behavior</title>
+		<year>2005</year>
+		<authors>william yurcik</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>121</label>
+		<keyword>Feature Construction;High Performance;High Performance Computer;Identity Theft;Support Vector Machine;high per formance computing;information re trieval;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract>Recent attacks enabled by stolen authentication pass- words and keys have allowed intruders to masquerade as legitimate users on high performance computing clusters. With the motivation of detecting masqueraders on clus- ters, this work seeks to discriminate different types of use rs based on their command behavior - in particular, user com- mand behavior on a multi-user public machine versus</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Mining of Recurrent Rules from a Sequence Database</title>
+		<year>2008</year>
+		<authors>david lo,siau-cheng khoo</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>121</label>
+		<keyword>Case Study;Linear Temporal Logic;Program Specification;Program Verification;Software Specification;</keyword>
+		<organization>null</organization>
+		<abstract>We study a novel problem of mining significant recurrent rules from a sequence database. Recurrent rules have the form &quot;when- ever a series of precedent events occurs, eventually a series of consequent events occurs&quot;. Recurrent rules are intuitive and characterize behaviors in many domains. An example is in the domain of software specifications, in which the rules capture a family</abstract>
+	</publication>
+	<publication>
+		<title>How Bayesians Debug</title>
+		<year>2006</year>
+		<authors>zeng lian,jiawei han</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>121</label>
+		<keyword>Data Mining;Fault Analysis;Fault Localization;Fault Location;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>Manual debugging is expensive. And the high cost has motivated extensive research on automated fault lo- calization in both software engineering and data mining communities. Fault localization aims at automatically locating likely fault locations, and hence assists manual debugging. A number of fault localization algorithms have been developed in recent years, which prove effec- tive when multiple failing and passing</abstract>
+	</publication>
+	<publication>
+		<title>Efficient SIP-Specific Event Notification</title>
+		<year>2006</year>
+		<authors>bo zhao</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>121</label>
+		<keyword>Event Notification;Performance Evaluation;Session Initiation Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>By Session Initiation Protocol (SIP), the entities in the network can subscribe to the resource or the call state for various resources or calls in the network. Those entities (or entities acting on their behalf) can send notifications when those states change. We propose a new approach to subscribe the information of part resources of the user's re- source list.</abstract>
+	</publication>
+	<publication>
+		<title>Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach</title>
+		<year>2007</year>
+		<authors>yu zhang,jiawei han,bharat k. bhargava</authors>
+		<jconf>International Conference on Software Maintenance</jconf>
+		<label>121</label>
+		<keyword>Case Study;Crash Failure;Dynamic Program Slicing;Dynamic Slicing;Indexation;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Recent software systems usually feature an automated failure reporting component, with which a huge number of failures are collected from software end-users. With a proper support of failure indexing, which identifies failures due to the same fault, the collected failure data can help de- velopers prioritize failure diagnosis, among other utilities of the failure data. Since crashing failures can be</abstract>
+	</publication>
+	<publication>
+		<title>Energy-Predicted Shortest Routing Tree Algorithm in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>ming zhang,chenglong gong,yuan feng</authors>
+		<jconf>International Symposium on Intelligence Computation and Applications</jconf>
+		<label>122</label>
+		<keyword>Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining past-time temporal rules from execution traces</title>
+		<year>2008</year>
+		<authors>david lo,siau-cheng khoo</authors>
+		<jconf>International Symposium on Software Testing and Analysis</jconf>
+		<label>121</label>
+		<keyword>Application Server;Data Mining;Dynamic Analysis;Program Understanding;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>Specification mining is a process of extracting specifications, often from program execution traces. These specifications can in turn be used to aid program understanding, monitoring and verification. There are a number of dynamic-analysis-based specification min- ing tools in the literature, however none so far extract past time tem- poral expressions in the form of rules stating: &quot;whenever a series of</abstract>
+	</publication>
+	<publication>
+		<title>GPLAG: detection of software plagiarism by program dependence graph analysis</title>
+		<year>2006</year>
+		<authors>chen chen,jiawei han,philip s. yu</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>121</label>
+		<keyword>Control Dependence;Graph Mining;Graphical Representation;Open Source;Plagiarism Detection;Program Dependence Graph;Search Space;Lines of Code;</keyword>
+		<organization>null</organization>
+		<abstract>Along with the blossom of open source projects comes the convenience for software plagiarism. A company, if less self-disciplined, may be tempted to plagiarize some open source projects for its own products. Although current pla- giarism detection tools appear sufficient for academic use, they are nevertheless short for fighting against serious pla- giarists. For example, disguises like statement reordering and</abstract>
+	</publication>
+	<publication>
+		<title>BBM: bayesian browsing model from petabyte-scale data</title>
+		<year>2009</year>
+		<authors>fan guo,christos faloutsos</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>123</label>
+		<keyword>bayesian model;Log Analysis;Modeling Technique;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>Given a quarter of petabyte click log data, how can we esti- mate the relevance of each URL for a given query? In this paper, we propose the Bayesian Browsing Model (BBM), a new modeling technique with following advantages: (a) it does exact inference; (b) it is single-pass and parallelizable; (c) it is effective. We present two sets of experiments</abstract>
+	</publication>
+	<publication>
+		<title>Efficient mining of iterative patterns for software specification discovery</title>
+		<year>2007</year>
+		<authors>david lo,siau-cheng khoo</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>121</label>
+		<keyword>Case Study;Pattern Mining;Program Comprehension;Sequential Pattern;Software Development;Software Evolution;Software Specification;Temporal Pattern;</keyword>
+		<organization>null</organization>
+		<abstract>Studies have shown that program comprehension takes up to 45% of software development costs. Such high costs are caused by the lack-of documented speciflcation and further aggravated by the phenomenon of software evolution. There is a need for automatic tools to extract speciflcations to aid program comprehension. In this paper, a novel technique to e-ciently mine common software temporal patterns</abstract>
+	</publication>
+	<publication>
+		<title>Step-by-Step Regression: A More Efficient Alternative for Polynomial Multiple Linear Regression in Stream Cube</title>
+		<year>2003</year>
+		<authors>ming zhang,minrui zheng,yixin chen</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>122</label>
+		<keyword>Curve Fitting;Data Stream;Data Stream Management System;Generation Time;Management System;Modeling Tool;Multiple Linear Regression;Front End;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Facing tremendous and potentially infinite stream data, it is impossible to record them entirely. Thus synopses are required to be generated timely to capture the underlying model for stream management systems. Traditionally, curve fitting through Multiple Linear Regression (MLR) is a powerful and efficient modeling tool. In order to further accelerate its processing efficiency, we propose Step-by-step Regression (SR) as</abstract>
+	</publication>
+	<publication>
+		<title>Mining Control Flow Abnormality for Logic Error Isolation</title>
+		<year>2006</year>
+		<authors>xifeng yan,jiawei han</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>121</label>
+		<keyword>Control Flow;Data Mining;Hypothesis Test;Ranking Function;</keyword>
+		<organization>null</organization>
+		<abstract>Analyzing the executions of a buggy program is essen- tially a data mining process: Tracing the data generated during program executions may disclose important pat- terns and outliers that could eventually reveal the lo- cation of software errors. In this paper, we investigate program logic errors, which rarely incur memory ac- cess violations but generate incorrect outputs. We show that</abstract>
+	</publication>
+	<publication>
+		<title>Mining Behavior Graphs for &quot;Backtrace&quot; of Noncrashing Bugs</title>
+		<year>2005</year>
+		<authors>xifeng yan,hwanjo yu,jiawei han,philip s. yu</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>121</label>
+		<keyword>Data Mining;Graph Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Analyzing the executions of a buggy software program is es- sentially a data mining process. Although many interesting methods have been developed to trace crashing bugs (such as memory violation and core dumps), it is still difficult to analyze noncrashing bugs (such as logical errors). In this paper, we develop a novel method to classify the structured traces of program</abstract>
+	</publication>
+	<publication>
+		<title>Failure proximity: a fault localization-based approach</title>
+		<year>2006</year>
+		<authors>jiawei han</authors>
+		<jconf></jconf>
+		<label>121</label>
+		<keyword>Case Study;Fault Diagnosis;Fault Localization;Fault Location;Software Systems;Statistical Debugging;</keyword>
+		<organization>null</organization>
+		<abstract>Recent software systems usually feature an automated fail- ure reporting system, with which a huge number of failing traces are collected every day. In order to prioritize fault diagnosis, failing traces due to the same fault are expected to be grouped together. Previous methods, by hypothesiz- ing that similar failing traces imply the same fault, cluster failing traces based on</abstract>
+	</publication>
+	<publication>
+		<title>SOBER: statistical model-based bug localization</title>
+		<year>2005</year>
+		<authors>xifeng yan,long fei,jiawei han,samuel p. midkiff</authors>
+		<jconf></jconf>
+		<label>121</label>
+		<keyword>It Evaluation;Model Evaluation;Prior Knowledge;Statistical Debugging;Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Automated localization of software bugs is one of the essential issues in debugging aids. Previous studies indicated that the evaluation history of program predicates may disclose important clues about underlying bugs. In this paper, we propose a new statistical model-based approach, called SOBER, which localizes software bugs without any prior knowledge of program semantics. Unlike existing  approaches that select predicates</abstract>
+	</publication>
+	<publication>
+		<title>Efficient multiple-click models in web search</title>
+		<year>2009</year>
+		<authors>fan guo,yi-min wang</authors>
+		<jconf>Web Search and Data Mining</jconf>
+		<label>123</label>
+		<keyword>Experimental Study;Eye Tracking;Linear Time;Log Analysis;Space Complexity;Spectrum;Statistical Model;Web Documents;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>Many tasks that leverage web search users' implicit feed- back rely on a proper and unbiased interpretation of user clicks. Previous eye-tracking experiments and studies on explaining position-bias of user clicks provide a spectrum of hypotheses and models on how an average user examines and possibly clicks web documents returned by a search en- gine with respect to the submitted</abstract>
+	</publication>
+	<publication>
+		<title>Click chain model in web search</title>
+		<year>2009</year>
+		<authors>fan guo,anitha kannan,tom minka,michael j. taylor,yi-min wang,christos faloutsos</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>123</label>
+		<keyword>bayesian framework;bayesian model;Experimental Study;Gold Mining;Log Analysis;Search Engine;Web Documents;Web Search;</keyword>
+		<organization>null</organization>
+		<abstract>Given a terabyte click log, can we build an efficient and ef- fective click model? It is commonly believed that web search click logs are a gold mine for search business, because they reflect users' preference over web documents presented by the search engine. Click models provide a principled ap- proach to inferring user-perceived relevance of web docu- ments, which</abstract>
+	</publication>
+	<publication>
+		<title>A probabilistic approach to spatiotemporal theme pattern mining on weblogs</title>
+		<year>2006</year>
+		<authors>qiaozhu mei,hang su,chengxiang zhai</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>121</label>
+		<keyword>Comparative Analysis;Information Search and Retrieval;Life Cycle;Mixture Model;Pattern Mining;Probabilistic Approach;Probabilistic Model;Text Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Mining subtopics from weblogs and analyzing their spatiotemporal patterns have applications in multiple domains. In this paper, we deˉne the novel problem of mining spatiotemporal theme patterns from weblogs and propose a novel probabilistic approach to model the subtopic themes and spatiotemporal theme patterns simultaneously. The proposed model discovers spatiotemporal theme patterns by (1) extracting common themes from weblogs; (2)</abstract>
+	</publication>
+	<publication>
+		<title>Data Mining for Software Engineering</title>
+		<year>2009</year>
+		<authors>tao xie,suresh thummalapenta,david lo</authors>
+		<jconf>IEEE Computer</jconf>
+		<label>121</label>
+		<keyword>Data Mining;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining temporal rules for software maintenance</title>
+		<year>2008</year>
+		<authors>david lo,siau-cheng khoo</authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<label>121</label>
+		<keyword>Application Server;Case Study;Data Mining;Dynamic Analysis;Formal Analysis;Program Comprehension;Program Design;Program Verification;Software Evolution;Software Maintenance;Software Verification;Statistical Significance;Temporal Logic;Concurrent Versions System;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY Software evolution incurs difficulties in program comprehension and software verification, and hence it increases the cost of software maintenance. In this study, we propose a novel technique to mine from program execution traces a sound and complete set of statistically significant temporal rules of arbitrary lengths. The extracted temporal rules reveal invariants that the program observes, and will consequently</abstract>
+	</publication>
+	<publication>
+		<title>Statistical Debugging: A Hypothesis Testing-Based Approach</title>
+		<year>2006</year>
+		<authors>long fei,xifeng yan,jiawei han,samuel p. midkiff</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>121</label>
+		<keyword>Case Study;Fault Localization;Fault Location;Hypothesis Test;It Evaluation;Prior Knowledge;Statistical Approach;Statistical Debugging;Statistical Method;</keyword>
+		<organization>null</organization>
+		<abstract>Manual debugging is tedious, as well as costly. The high cost has motivated the development of fault localization techniques, which help developers search for fault locations. In this paper, we propose a new statistical method, called SOBER, which automatically localizes software faults without any prior knowledge of the program semantics. Unlike existing statistical approaches that select predicatescorrelatedwithprogramfailures, SOBERmodelsthepredicateevaluationin bothcorrectandincorrectexecutionsandregards a</abstract>
+	</publication>
+	<publication>
+		<title>A Systematic Study of Failure Proximity</title>
+		<year>2008</year>
+		<authors>xiangyu zhang,jiawei han</authors>
+		<jconf>IEEE Transactions on Software Engineering</jconf>
+		<label>121</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Temporal Information to Improve Predictive Accuracy of Collaborative Filtering Algorithms</title>
+		<year>2010</year>
+		<authors>rongfei jia,maozhong jin</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>124</label>
+		<keyword>Collaborative Filtering;Prediction Accuracy;Temporal Information;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Categorizing Software Engineering Knowledge Using a Combination of SWEBOK and Text Categorization</title>
+		<year>2007</year>
+		<authors>jianying he,haihua yan,maozhong jin</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<label>124</label>
+		<keyword>Software Engineering;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Test Criteria for Context-Free Grammars</title>
+		<year>2004</year>
+		<authors>hu li,maozhong jin,zhongyi gao</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>124</label>
+		<keyword>Context Free Grammar;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework of Model-Driven Web Application Testing</title>
+		<year>2006</year>
+		<authors>nuo li,qin-qin ma,ji wu,maozhong jin</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>124</label>
+		<keyword>meta model;Model Generation;Model Test;System Under Test;</keyword>
+		<organization>null</organization>
+		<abstract>Web applications have become complex and crucial in many fields. In order to assure their quality, a high demand for systematic methodologies of Web application testing is emerging. In this paper, a methodology of Model-Driven Testing (MDT) for Web application is presented. Model is the core of this method. Web application model is built to describe the system under testing.</abstract>
+	</publication>
+	<publication>
+		<title>Application of Maximum Entropy Principle to Software Failure Prediction</title>
+		<year>2004</year>
+		<authors>ji wu,hai-yan yang,xiao-xia jia,chang liu,maozhong jin</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>124</label>
+		<keyword>Failure Prediction;Maximum Entropy Principle;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>T3FAH: A TTCN-3 Based Fuzzer with Attack Heuristics</title>
+		<year>2009</year>
+		<authors>luo xu,ji wu</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>124</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Application Model Recovery for User Input Validation Testing</title>
+		<year>2007</year>
+		<authors>nuo li,maozhong jin</authors>
+		<jconf>International Conference on Software Engineering Advances</jconf>
+		<label>124</label>
+		<keyword>meta model;Test Case Generation;Web Application Security;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract    The invalidated  input  is  one  of  the  most  critical  web  application security  flaws.  However,  testing  the  user  input validation  function  is  an ,intellectual  and  labor  intensive task.  We  are ,developing  a  model ,driven  framework to help testers to accomplish this job in visual view with  guidance.  This  paper  reports  our  on-going  work. A  meta-model  of  Web  application  for  user</abstract>
+	</publication>
+	<publication>
+		<title>Mining Open Source Component Behavior for Reuse Evaluation</title>
+		<year>2008</year>
+		<authors>ji wu,chun wang,xiao-xia jia</authors>
+		<jconf>International Conference on Software Reuse</jconf>
+		<label>124</label>
+		<keyword>Open Source;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining Open Source Component Behavior and Performance for Reuse Evaluation</title>
+		<year>2008</year>
+		<authors>ji wu,yong po liu,xiao-xia jia</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>124</label>
+		<keyword>Open Source;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Statistical Model to Locate Faults at Input Level</title>
+		<year>2004</year>
+		<authors>ji wu,xiao-xia jia,chang liu,hai-yan yang,maozhong jin</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>124</label>
+		<keyword>Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Architecture Framework for Software Test Tool</title>
+		<year>2000</year>
+		<authors>chang-ai sun,maozhong jin,mei zhang</authors>
+		<jconf>Technology of Object-Oriented Languages and Systems</jconf>
+		<label>124</label>
+		<keyword>Software Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Perturbation-based user-input-validation testing of web applications</title>
+		<year>2010</year>
+		<authors>nuo li,tao xie,maozhong jin</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>124</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Approximate Jacobian Adaptive Control for Robot Manipulators</title>
+		<year>2004</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword>Adaptive Control;Robot Manipulator;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Jacobian Tracking Control of Robots based on Visual Task-space Information</title>
+		<year>2005</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword>Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Vision based Tracking Control of Robots with Uncertainty in Depth Information</title>
+		<year>2007</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword>Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Regulation of Rigid-Link Electrically Driven Robots with Uncertain Kinematics</title>
+		<year>2005</year>
+		<authors>chien-chern cheah</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Task-space Regulation of Rigid-link Flexible-joint Robots with Uncertain Kinematics</title>
+		<year>2006</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword>Flexible Joint Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SP-ID regulation of rigid-link electrically-driven robots with uncertain kinematics</title>
+		<year>2010</year>
+		<authors>philippe poignet</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>125</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Jacobian PID Regulation for Robots with Uncertain Kinematics and Actuator Model</title>
+		<year>2006</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>125</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deformable motion tracking of the heart surface</title>
+		<year>2008</year>
+		<authors>rogério richa,philippe poignet</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>125</label>
+		<keyword>Motion Tracking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experiments on Adaptive Control of Robots with Uncertain Kinematics and Dynamics</title>
+		<year>2004</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Symposium on Experimental Robotics</jconf>
+		<label>125</label>
+		<keyword>Adaptive Control;Kinematics and Dynamics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient 3D Tracking for Motion Compensation in Beating Heart Surgery</title>
+		<year>2008</year>
+		<authors>rogério richa,philippe poignet</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>125</label>
+		<keyword>Beating Heart Surgery;Motion Compensated;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Jacobian vision based control for robots with uncertain depth information</title>
+		<year>2010</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>Automatica</jconf>
+		<label>125</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Jacobian tracking control of rigid-link electrically driven robots based on visual task-space information</title>
+		<year>2006</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>Automatica</jconf>
+		<label>125</label>
+		<keyword>Tracking Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive task-space regulation of rigid-link flexible-joint robots with uncertain kinematics</title>
+		<year>2008</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>Automatica</jconf>
+		<label>125</label>
+		<keyword>Flexible Joint Robot;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Tracking Control for Robots with Unknown Kinematic and Dynamic Properties</title>
+		<year>2006</year>
+		<authors>chien-chern cheah,jean-jacques e. slotine</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>125</label>
+		<keyword>Adaptive Control;Kinematics and Dynamics;Tracking Control;Trajectory Tracking;visual servoing;Visual Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>It has been almost two decades since the first globally tracking con- vergent adaptive controllers were derived for robot with dynamic uncertainties. However, the problem of concurrent adaptation to both kinematic and dynamic uncertainties has never been system- atically solved. This is the subject of this paper. We derive a new adaptive Jacobian controller for trajectory tracking of robot with</abstract>
+	</publication>
+</person>

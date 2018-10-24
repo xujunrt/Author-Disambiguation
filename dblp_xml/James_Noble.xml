@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>James Noble</FullName>
+	<publication>
+		<title>Poster reception - Human arterial tree simulation on TeraGrid</title>
+		<year>2006</year>
+		<authors>leopold grinberg,suchuan dong,alexander yakhot,george e. karniadakis,nicholas t. karonis</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>342</label>
+		<keyword>Blood Vessel;Cardiovascular System;Complex Network;Data Distribution;Geographic Distribution;Large Scale Simulation;message-passing algorithms;Numerical Simulation;Software Development;Blood Flow;</keyword>
+		<organization>null</organization>
+		<abstract>The human arterial tree consists of a complex network of branching blood vessels leading from the heart to arterioles, capillaries, and venules - comprising the microcirculation. The numerical simulation of the blood flow in a single part of the human arterial tree requires hundreds of CPUs; a full human arterial tree will require thousands of CPUs. Nowadays, we can use</abstract>
+	</publication>
+</person>

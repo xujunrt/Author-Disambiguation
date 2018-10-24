@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Zimmermann</FullName>
+	<publication>
+		<title>Time-Optimal Winning Strategies for Poset Games</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Workshop on Implementing Automata/Conference on Implementation and Application of Automata</jconf>
+		<label>660</label>
+		<keyword>cumulant;Games On Graphs;Project Planning;Timing Optimization;Waiting Time;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a novel winning condition for infinite two- player games on graphs which extends the request-response condition and better matches concrete applications in scheduling or project plan- ning. In a poset game, a request has to be responded by multiple events in an ordering over time that is compatible with a given partial ordering of the events. Poset games</abstract>
+	</publication>
+	<publication>
+		<title>Playing Muller Games in a Hurry</title>
+		<year>2010</year>
+		<authors>john fearnley</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>660</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

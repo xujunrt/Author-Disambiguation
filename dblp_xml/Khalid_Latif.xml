@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Khalid Latif</FullName>
+	<publication>
+		<title>Power and Area Efficient Design of Network-on-Chip Router through Utilization of Idle Buffers</title>
+		<year>2010</year>
+		<authors>tiberiu seceleanu,hannu tenhunen</authors>
+		<jconf>Engineering of Computer-Based Systems</jconf>
+		<label>499</label>
+		<keyword>Network On Chip;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application development flow for on-chip distributed architectures</title>
+		<year>2008</year>
+		<authors>moazzam niazi,hannu tenhunen,tiberiu seceleanu,sakir sezer</authors>
+		<jconf>IEEE International System-on-Chip (SoC) Conference</jconf>
+		<label>499</label>
+		<keyword>Application Development;Distributed Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

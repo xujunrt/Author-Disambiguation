@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Trung Thanh Nguyen</FullName>
+	<publication>
+		<title>On Partial Transmit Sequences to Reduce PAR in OFDM Systems</title>
+		<year>2006</year>
+		<authors>lutz h.-j. lampe</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>1024</label>
+		<keyword>Partial Transmit Sequence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Rateless Multilevel Coding and Applications</title>
+		<year>2009</year>
+		<authors>lutz h.-j. lampe</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>1024</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Coded Pulse-Position Modulation for Free-Space Optical Communications</title>
+		<year>2009</year>
+		<authors>lutz h.-j. lampe</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>1024</label>
+		<keyword>Free Space Optical Communication;Pulse Position Modulated;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Trellis Shaping for PAR Reduction in OFDM Systems</title>
+		<year>2007</year>
+		<authors>lutz h.-j. lampe</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<label>1024</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On partial transmit sequences for PAR reduction in OFDM systems</title>
+		<year>2008</year>
+		<authors>lutz h.-j. lampe</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<label>1024</label>
+		<keyword>Partial Transmit Sequence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Benchmarking and solving dynamic constrained problems</title>
+		<year>2009</year>
+		<authors>xin yao</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>1025</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance of infeasibility driven evolutionary algorithm (IDEA) on constrained dynamic single objective optimization problems</title>
+		<year>2009</year>
+		<authors>hemant k. singh,amitay isaacs,tapabrata ray,xin yao</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>1025</label>
+		<keyword>Constrained Dynamics;Evolutionary Algorithm;Optimization Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Time-Linkage Problems Revisited</title>
+		<year>2009</year>
+		<authors>xin yao</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>1025</label>
+		<keyword>Benchmark Problem;Dynamic Optimization Problem;Prediction Method;</keyword>
+		<organization>null</organization>
+		<abstract>Dynamic time-linkage problems (DTPs) are common types of dynamic optimization problems where &quot;decisions that are made now ... may in‡uence the maximum score that can be obtained in the future&quot;(3). This paper contributes to understanding the questions of what are the unknown characteristic of DTPs and how to characterize DTPs. Firstly, based on existing de…nitions we will introduce a more</abstract>
+	</publication>
+	<publication>
+		<title>Hybridizing Cultural Algorithms and Local Search</title>
+		<year>2006</year>
+		<authors>xin yao</authors>
+		<jconf>Intelligent Data Engineering and Automated Learning</jconf>
+		<label>1025</label>
+		<keyword>Direct Search;Evolutionary Algorithm;Iterated Local Search;Numerical Optimization;Search Space;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a new population-based framework for combining local search with global explorations to solve single-objective unconstrained numerical optimization problems. The idea is to use knowledge about local optima found during the search to a) locate promising regions in the search space and b) identify suitable step sizes to move from one optimum to others in each</abstract>
+	</publication>
+	<publication>
+		<title>An Experimental Study of Hybridizing Cultural Algorithms and Local Search</title>
+		<year>2008</year>
+		<authors>xin yao</authors>
+		<jconf>International Journal of Neural Systems</jconf>
+		<label>1025</label>
+		<keyword>Continuous Optimization;Empirical Study;Evolutionary Computing;Experimental Study;Global Optimization;Iterated Local Search;Optimal Algorithm;Parameter Optimization;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper the performance of the Cultural Algorithms-Iterated Local Search (CA-ILS), a new contin- uous optimization algorithm, is empirically studied on multimodal test functions proposed in the Special Session on Real-Parameter Optimization of the 2005 Congress on Evolutionary Computation. It is com- pared with state-of-the-art methods attending the Session to find out whether the algorithm is effective in solving</abstract>
+	</publication>
+	<publication>
+		<title>On Learning of Sunspot Classification</title>
+		<year>2004</year>
+		<authors>claire p. willis,derek j. paddon,hung son nguyen</authors>
+		<jconf>Intelligent Information Systems</jconf>
+		<label>1026</label>
+		<keyword>Data Mining;Image Processing Techniques;Machine Learning;Satellite Image;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes automatic sunspot recognition and classification from satellite images. Some experimental results on learning sunspot classification using data mining techniques are presented. The classification scheme attempted was the seven-class Modified Zurich scheme. Daily images of the solar disk were taken from the NASA SOHO satellite's MDI instrument and sunspots extracted using image processing techniques. Two data mining tools,</abstract>
+	</publication>
+	<publication>
+		<title>Ontology Driven Concept Approximation</title>
+		<year>2006</year>
+		<authors>sinh hoa nguyen,hung son nguyen</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<label>1026</label>
+		<keyword>Concept Hierarchy;Domain Knowledge;Knowledge Representation;Learning Algorithm;Rough Set Theory;Rough Set;</keyword>
+		<organization>null</organization>
+		<abstract>This paper investigates the concept approximation problem using ontology as an domain knowledge representation model and rough set theory. In (7) (8), we have presented a rough set based multi-layered learning framework for approximation of complex concepts assuming the existence of a simple concept hierarchy. The proposed methodology uti- lizes the ontology structure to learn compound concepts using the rough</abstract>
+	</publication>
+	<publication>
+		<title>Rough Set Approach to Sunspot Classification Problem</title>
+		<year>2005</year>
+		<authors>sinh hoa nguyen,hung son nguyen</authors>
+		<jconf>Rough Sets, Fuzzy Sets, Data Mining, and Granular-Soft Computing</jconf>
+		<label>1026</label>
+		<keyword>Domain Knowledge;Learning Methods;Rough Set Theory;Satellite Image;Decision Tree;Rough Set;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an application of hierarchical learning method based rough set theory to the problem of sunspot classification from satellite images. The Modified Zurich classification scheme (3) is defined by a set of rules containing many complicated and unprecise concepts, which cannot be determined directly from solar images. The idea is to represent the domain knowledge by an ontology</abstract>
+	</publication>
+	<publication>
+		<title>Learning Sunspot Classification</title>
+		<year>2006</year>
+		<authors>claire p. willis,derek j. paddon,sinh hoa nguyen,hung son nguyen</authors>
+		<jconf>Fundamenta Informaticae</jconf>
+		<label>1026</label>
+		<keyword>Active Region;Hierarchical Clustering;Machine Learning;Prediction Accuracy;Satellite Image;Decision Tree;Rough Set;</keyword>
+		<organization>null</organization>
+		<abstract>Sunspots are the subject of interest to many astronomers and solar physicists. Sunspot observation, analysis and classification form an important part of furthering the knowledge about the Sun. Sunspot classification is a manual and very labor intensive process that could be auto- mated if successfully learned by a machine. This paper presents machine learning approaches to the problem of sunspot</abstract>
+	</publication>
+</person>

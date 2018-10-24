@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yang Cai</FullName>
+	<publication>
+		<title>Ambient intelligence for scientific discovery</title>
+		<year>2004</year>
+		<authors>judith klein-seetharaman</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>1148</label>
+		<keyword>Ambient Intelligence;Interaction Design;Scientific Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ambient Diagnostics</title>
+		<year>2004</year>
+		<authors>gregory li,teri mick,daniel sai ho chung,binh pham</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>1148</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trajectory Mapping for Landmine Detection Training</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1148</label>
+		<keyword>Case Study;Landmine Detection;Mobile Device;Optical Flow;</keyword>
+		<organization>null</organization>
+		<abstract>A head-mounted camera is a useful tool for studying the usability of mobile devices in the field. In this paper, a computerized visualization method is presented. It includes the target trajectory mapped with the deformable tem- plate-based tracking algorithm and landmarks-based relative object registration. A landmine detection training video is used for the case study. The results show that this</abstract>
+	</publication>
+	<publication>
+		<title>How Many Pixels Do We Need to See Things?</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1148</label>
+		<keyword>Empirical Model;Human Computer Interaction;Object Recognition;System Design;Not Significant;</keyword>
+		<organization>null</organization>
+		<abstract>Today's computer display devices normally provide more informa- tion than we need. In this paper, the author presents an empirical model that shows minimal pixel requirements for computer users to recognize things from digital photos under different contextual conditions. It is found that face recog- nition alone needs far fewer pixels than people normally thought. However, more pixels are needed</abstract>
+	</publication>
+	<publication>
+		<title>Towards Biomedical Problem Solving in a Game Environment</title>
+		<year>2003</year>
+		<authors>ingo snel,b. suman bharathi,clementine klein,judith klein-seetharaman</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1148</label>
+		<keyword>Biomedical System;Concept Learning;Problem Solving;Problem Solving Environment;Role Play;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Biomedical systems involve complex interactions between diverse components. Problem solving in such systems requires insight, i.e. the capabil- ity to make non-obvious connections. In this paper, we present a game-based problem solving environment, where users can explore biological interactions with navigation on atomic to macroscopic scales, role-play, and networked col- laboration. The study investigates the system architecture of the biological</abstract>
+	</publication>
+	<publication>
+		<title>Spatiotemporal Data Mining with Cellular Automata</title>
+		<year>2006</year>
+		<authors>karl fu</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1148</label>
+		<keyword>Data Mining;Cellular Automata;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Privacy Algorithm for 3D Human Body Scans</title>
+		<year>2006</year>
+		<authors>joseph laws</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1148</label>
+		<keyword>3d scanning;Human Body;Non-linear Regression;Radial Basis Function;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we explore a privacy algorithm that can detect human private parts in a 3D scan dataset. The intrinsic human proportions are applied to reduce the search space an order of magnitude. A feature shape template is constructed to fit the model data points using Radial Basis Functions in a non- linear regression. The feature is then detected</abstract>
+	</publication>
+	<publication>
+		<title>BioSim--a biomedical character-based problem solving environment</title>
+		<year>2005</year>
+		<authors>ingo snel,betty cheng,b. suman bharathi,clementine klein,judith klein-seetharaman</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1148</label>
+		<keyword>Artificial Life;Biomedical System;Case Study;Cell Growth;conformational change;Educational Tool;Environmental Conditions;Fluid Dynamics;Game Design;Levels of Abstraction;Mathematical Model;Problem Solving;Problem Solving Environment;Scientific Visualization;System Architecture;Virtual Laboratory;Cellular Automata;Next Generation;Red Blood Cell;</keyword>
+		<organization>null</organization>
+		<abstract>Understanding and solving biomedical problems requires insight into the complex interactions between the components of biomedical systems by domain and non-domain experts. This is challenging because of the enormous amount of data and knowledge in this domain. Therefore, non-traditional educational tools have been developed such as a biological storytelling system, animations of biomedical processes and concepts, and interactive virtual laboratories.</abstract>
+	</publication>
+	<publication>
+		<title>Visual analysis of human dynamics: an introduction to the special issue</title>
+		<year>2006</year>
+		<authors>judith d. terrill</authors>
+		<jconf>Information Visualization</jconf>
+		<label>1148</label>
+		<keyword>Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature hiding in 3D human body scans</title>
+		<year>2006</year>
+		<authors>joseph laws,nathaniel bauernfeind</authors>
+		<jconf>Information Visualization</jconf>
+		<label>1148</label>
+		<keyword>3d scanning;Data Privacy;Feature Recognition;Human Body;Information Visualization;Non-linear Regression;Radial Basis Function;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper,we explore a privacy algorithm that detects human private parts in a 3D scan data set. The analogia graph is introduced to study the propor- tion of structures. The intrinsic human proportions are applied to reduce the search space in an order of magnitude. A feature shape template is constructed to match the model data points using Radial</abstract>
+	</publication>
+	<publication>
+		<title>Visual transformation for interactive spatiotemporal data mining</title>
+		<year>2007</year>
+		<authors>richard stumpf,timothy wynne,michelle tomlinson,daniel sai ho chung,xavier boutonnier,matthias ihmig,rafael franco,nathaniel bauernfeind</authors>
+		<jconf>Knowledge and Information Systems</jconf>
+		<label>1148</label>
+		<keyword>Analytical Model;Case Study;Data Mining;Human Interaction;Interactive Method;Interactive Visualization;Object Tracking;Structural Dynamics;Visual Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Analytical models intend to reveal inner structure, dynamics or relationship of things. However, they are not necessarily intuitive to humans. Conventional scientiflc visualization methods are intuitive, but limited by depth, dimensions, and resolution. The purpose of this study is to bridge the gap with transformation algorithms for mapping the data from an abstract space to an intuitive one, which</abstract>
+	</publication>
+</person>

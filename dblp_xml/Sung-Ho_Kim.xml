@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sung-Ho Kim</FullName>
+	<publication>
+		<title>Conditional Log-linear Structures for Log-linear Modelling</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Modelling, Identification and Control</jconf>
+		<label>988</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Properties of Markovian Subgraphs of a Decomposable Graph</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Mexican International Conference on Artificial Intelligence</jconf>
+		<label>988</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic Model-Based Object Recognition Using Local Zernike Moments</title>
+		<year>2002</year>
+		<authors>in-so kweon,in-cheol kim</authors>
+		<jconf>Machine Vision Applications</jconf>
+		<label>988</label>
+		<keyword>Conditional Probability;Object Recognition;Probabilistic Model;Visual Perception;Zernike Moment;</keyword>
+		<organization>null</organization>
+		<abstract>Object recognition is one of the most important, yet the least understood, aspect of visual perception. The difficulties originate from the variations of objects such as view position, illumination changes, background clutter, occlusion and etc. In this paper, we present an object recognition paradigm robust to these variations using modified local Zernike moments and the probabilistic voting method. We propose</abstract>
+	</publication>
+	<publication>
+		<title>Conditional log-linear structures for log-linear modelling</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>988</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A divide-and-conquer approach in applying EM for large recursive models with incomplete categorical data</title>
+		<year>2006</year>
+		<authors>seong-ho kim</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>988</label>
+		<keyword>Categorical Data;Divide and Conquer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stochastic ordering and robustness in classification from a Bayesian network</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>988</label>
+		<keyword>Conditional Independence;Conditional Probability;Graphical Model;Stochastic Order;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract>Consider a model whose structure is representable via recursive graph or Bayes network and in which both observable and unobservable variables are involved. Assume that the variables are all binary and suppose that we want to predict about the unobservables based on the evidence from the observables. In the real world, we may not be able construct a model that</abstract>
+	</publication>
+</person>

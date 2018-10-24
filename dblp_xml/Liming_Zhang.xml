@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Liming Zhang</FullName>
+	<publication>
+		<title>Cognitive Load Theory Based Effectiveness Evaluation on Dynamic Math Teaching</title>
+		<year>2010</year>
+		<authors>ngaihong chan,yilin chu</authors>
+		<jconf>International Conference on Hybrid Learning and Education</jconf>
+		<label>561</label>
+		<keyword>Cognitive Load Theory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Mathematical Model for Edge Detection using Rotational Wavelet Transform</title>
+		<year>2003</year>
+		<authors>tao qian</authors>
+		<jconf>Signal and Image Processing</jconf>
+		<label>561</label>
+		<keyword>Edge Detection;Mathematical Model;Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Numerical study of a novel MFIE formulation using monopolar RWG basis functions</title>
+		<year>2010</year>
+		<authors>ali deng,minghong wang,shaoqing yang</authors>
+		<jconf>Computer Physics Communications</jconf>
+		<label>562</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Knowledge-based eye detection for human face recognition</title>
+		<year>2000</year>
+		<authors>patrick m. lenders</authors>
+		<jconf>Knowledge-Based Intelligent Information &amp; Engineering Systems</jconf>
+		<label>563</label>
+		<keyword>Eye Detection;Face Recognition;Facial Feature Detection;Facial Feature Extraction;Image Processing Techniques;Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract>Human facial feature detection is a signlficant but dfficult task. An algorithm of knowledge based eye detection is presented in this paper. The algorithm consists of two main stages: the face and eye region locating stage and the eye detection stage. In the first stage, an effective approach to fast locating the face and eye region is developed. In the</abstract>
+	</publication>
+</person>

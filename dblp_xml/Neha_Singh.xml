@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Neha Singh</FullName>
+	<publication>
+		<title>SMIL to MPEG4 BIFS Conversion</title>
+		<year>2006</year>
+		<authors>beilu shao,laureano moro velazquez,nicolas scaringella,marco mattavelli</authors>
+		<jconf>Automated Production of Cross Media Content for Multi-channel Distribution</jconf>
+		<label>778</label>
+		<keyword>Authoring Tool;Comparative Analysis;Interactive Media;Interactive Multimedia;Synchronized Multimedia Integration Language;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional media, such as text, image, audio and video, have long been the main media resources and granted full support of standard desktop tools and applications. Interactive rich multimedia documents, adding resources such as video or synthetic animations and relying on complex synchronization among objects, are now making their entrance into the world as new multimedia formats emerge. In this</abstract>
+	</publication>
+</person>

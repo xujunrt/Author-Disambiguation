@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Alberto Su&amp;aacute;rez</FullName>
+	<publication>
+		<title>Power allocation game for fading MIMO multiple access channels with antenna correlation</title>
+		<year>2007</year>
+		<authors>samson lasaulce,mérouane debbah,laura cottatellucci</authors>
+		<jconf>Performance Evaluation Methodologies and Tools</jconf>
+		<label>20</label>
+		<keyword>Eigenvectors;mimo system;Multiple Access Channel;Multiple Antennas;Power Allocation;Random Matrix Theory;Spatial Correlation;Theoretical Framework;Base Station;multi ple input multiple output;Nash Equilibrium;User Equipment;</keyword>
+		<organization>null</organization>
+		<abstract>In this contribution, a power allocation game for multi- ple input multiple output multiple access channels is pro- vided. Considering competing transmitting users, equipped with several antennas each and common multiple antennas at the receiver (base station), a game theoretic framework is conducted to analyze the optimum precoding matrices (power allocation and eigenvector transmit structure) such that each user maximizes</abstract>
+	</publication>
+	<publication>
+		<title>Cross-system resource allocation based on random matrix theory</title>
+		<year>2007</year>
+		<authors>samson lasaulce,raul l. de lacerda neto,mérouane debbah</authors>
+		<jconf>Performance Evaluation Methodologies and Tools</jconf>
+		<label>20</label>
+		<keyword>Heterogeneous Network;Iterative Algorithm;Multiple Access Channel;Power Allocation;Random Matrix Theory;Resource Allocation;Wireless Technology;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract>This paper investigates the situation where a (large) group of terminals can be connected simultaneously to several base stations using distinct wireless technologies. We introduce and solve the problem of optimally sharing the mobile trans- mit power between different systems. Key results from asymp- totic random matrix theory (when the number of users and the dimensions of different systems increase)</abstract>
+	</publication>
+	<publication>
+		<title>Using cross-system diversity in heterogeneous networks: Throughput optimization</title>
+		<year>2008</year>
+		<authors>samson lasaulce,raul de lacerda,mérouane debbah</authors>
+		<jconf>Performance Evaluation</jconf>
+		<label>20</label>
+		<keyword>Heterogeneous Network;Matched Filter;Minimum Mean Square Error;Multiple Access Channel;Optimization Problem;Power Allocation;Random Matrix Theory;Base Station;</keyword>
+		<organization>null</organization>
+		<abstract>This paper investigates the situation where a group of terminals can be simul- taneously connected to several base stations using distinct technologies on non- overlapping frequency bands. We introduce and solve the problem of optimal power allocation (in the sense of the ergodic sum-rate) for the terminals in the uplink, using three types of receivers: the optimum receiver, minimum mean</abstract>
+	</publication>
+</person>

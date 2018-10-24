@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wolfgang Faber</FullName>
+	<publication>
+		<title>Optimale Startpunkte zur Navigation in Hypermediasystemen - ein entscheidungstheoretischer Ansatz</title>
+		<year>1991</year>
+		<authors>wolfgang janko,alfred taudes</authors>
+		<jconf>Hypertext, Information Retrieval, Multimedia</jconf>
+		<label>1092</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

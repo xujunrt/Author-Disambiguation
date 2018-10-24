@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ling Ma</FullName>
+	<publication>
+		<title>Environmental Noise Classification for Context-Aware Applications</title>
+		<year>2003</year>
+		<authors>dan smith,ben milner</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>568</label>
+		<keyword>Context Aware;context-aware application;Information System;Mobile Computer;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Context-awareness is essential to the development of adaptive information systems. Much work has been done on developing technologies and systems that are aware of absolute location in space and time; other aspects of context have been relatively neglected. We describe our approach to automatically sensing and recognising environmental noise as a contextual cue for context-aware applications. Environmental noise provides much</abstract>
+	</publication>
+	<publication>
+		<title>Acoustic environment as an indicator of social and physical context</title>
+		<year>2006</year>
+		<authors>dan smith,nick ryan</authors>
+		<jconf>Personal and Ubiquitous Computing</jconf>
+		<label>568</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Acoustic environment classification</title>
+		<year>2006</year>
+		<authors>ben milner,dan smith</authors>
+		<jconf>ACM Transactions on Speech and Language Processing</jconf>
+		<label>568</label>
+		<keyword>Adaptive Learning;Classification Accuracy;Hierarchical Classification;Sound Classification;</keyword>
+		<organization>null</organization>
+		<abstract>The acoustic environment provides a rich source of information on the types of activity, communication modes, and people involved in many situations. It can be accurately classified using recordings from microphones commonly found in PDAs and other consumer devices. We describe a prototype HMM-based acoustic environment classifier incorporating an adaptive learning mechanism and a hierarchical classification model. Experimental results show</abstract>
+	</publication>
+</person>

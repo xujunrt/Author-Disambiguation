@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Robert McGrew</FullName>
+	<publication>
+		<title>Experiences with Honeypot Systems: Development, Deployment, and Analysis</title>
+		<year>2006</year>
+		<authors>rayford b. vaughn</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>876</label>
+		<keyword>Early Warning System;Insider Attack;Network Services;Operating System;Production System;Software Process;System Development;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a summary of university re- search performed on honeypot techniques and summarizes the results Honeypots are computing resources that serve no other purpose on a network than to be a target for attackers, and log data about the attacks. Low-interaction and high-interaction honeypots were implemented and deployed on a university network, and data was logged and analyzed</abstract>
+	</publication>
+	<publication>
+		<title>Using Search Engines to Acquire Network Forensic Evidence</title>
+		<year>2007</year>
+		<authors>rayford b. vaughn</authors>
+		<jconf>IFIP WG11.9 Publications - Digital Forensics</jconf>
+		<label>876</label>
+		<keyword>Network Forensics;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

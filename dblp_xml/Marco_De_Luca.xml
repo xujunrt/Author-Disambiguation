@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Marco De Luca</FullName>
+	<publication>
+		<title>Implementation of a Test-Bed for Telephony over IP: Architectural, Theoretical, and Performance Issues</title>
+		<year>2001</year>
+		<authors>paolo senesi,francesca cuomo</authors>
+		<jconf>Quality of Service in Multiservice IP Networks</jconf>
+		<label>618</label>
+		<keyword>Test Bed;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

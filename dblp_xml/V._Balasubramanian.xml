@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>V. Balasubramanian</FullName>
+	<publication>
+		<title>An Integrated Cross Layer Design for Enhanced QoS in Mobile Ad hoc Networks</title>
+		<year>2005</year>
+		<authors>p. jaya prakash,p. seethalakshmi</authors>
+		<jconf>International Conference on Wireless Networks</jconf>
+		<label>1033</label>
+		<keyword>Mobile Ad Hoc Network;Cross Layer Design;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

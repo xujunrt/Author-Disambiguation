@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Pedro Branco</FullName>
+	<publication>
+		<title>Web HorizoN: The Design of a 3D GIS Web Solution</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Web Information Systems Engineering</jconf>
+		<label>803</label>
+		<keyword>3d gis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

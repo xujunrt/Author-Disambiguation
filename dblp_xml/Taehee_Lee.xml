@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Taehee Lee</FullName>
+	<publication>
+		<title>Viewpoint stabilization for live collaborative video augmentations</title>
+		<year>2006</year>
+		<authors>tobias höllerer</authors>
+		<jconf>International Symposium on Mixed and Augmented Reality</jconf>
+		<label>996</label>
+		<keyword>Physical Interaction;Reference Frame;Tablet Pc;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>We present a method for stabilizing live video from a moving camera for the purpose of a tele-meeting, in which a participant with an AR view onto a shared canvas collaborates with a remote user. The AR view is established without markers and using no other tracking equipment than a head-worn camera. The remote user is allowed to directly annotate</abstract>
+	</publication>
+	<publication>
+		<title>Initializing Markerless Tracking Using a Simple Hand Gesture</title>
+		<year>2007</year>
+		<authors>tobias höllered</authors>
+		<jconf>International Symposium on Mixed and Augmented Reality</jconf>
+		<label>996</label>
+		<keyword>Computer Graphic;Computer Vision;Coordinate System;Image Features;Interaction Technique;Pose Estimation;Scene Analysis;Three-dimensional Graphics and Realism;Tracking System;Virtual Reality;aug mented reality;Optical Flow;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a technique to establish a coordinate system for aug- mented reality (AR) on table-top environments. A user's hand is tracked and the fingertips on the outstretched hand are detected, providing a camera pose estimation relative to the hand. As a user places the hand on the surface of a table-top environment, the hand's coordinate system is propagated to</abstract>
+	</publication>
+	<publication>
+		<title>Hybrid Feature Tracking and User Interaction for Markerless Augmented Reality</title>
+		<year>2008</year>
+		<authors>tobias höllerer</authors>
+		<jconf>Virtual Reality</jconf>
+		<label>996</label>
+		<keyword>Augmented Reality;Computer Graphic;Computer Vision;Coordinate System;Feature Tracking;Image Features;Indexing Terms;Interaction Technique;Invariant Feature;Multiplication Operator;Scene Analysis;Three-dimensional Graphics and Realism;User Interaction;User Interface;Virtual Reality;Optical Flow;Proof of Concept;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a novel markerless camera tracking approach and user interaction methodology for augmented reality (AR) on unprepared tabletop environments. We propose a real-time system architec- ture that combines two types of feature tracking methods. Distinc- tive image features of the scene are detected and tracked frame- to-frame by computing optical flow. In order to achieve real-time performance, multiple operations</abstract>
+	</publication>
+	<publication>
+		<title>Multithreaded Hybrid Feature Tracking for Markerless Augmented Reality</title>
+		<year>2009</year>
+		<authors>tobias höllerer</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>996</label>
+		<keyword>Augmented Reality;Feature Tracking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

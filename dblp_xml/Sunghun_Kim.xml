@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sunghun Kim</FullName>
+	<publication>
+		<title>Interference-Aware Channel Assignments with Seamless MultiChannel Monitoring in Wireless Mesh Networks</title>
+		<year>2009</year>
+		<authors>jongsub cha,joongsoo ma</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>989</label>
+		<keyword>Channel Assignment;Radio Access Technology;Wireless Mesh Network;</keyword>
+		<organization>null</organization>
+		<abstract>The wireless mesh networks (WMNs) are statically deployed on heterogeneous areas and are operating in open wireless media, and thus it coexists with other networks oper- ating on the same frequency with the same or different radio access technology (RAT). The WMNs experience two types of interferences according to the source of interference. Coexisted networks with WMN induce the interference</abstract>
+	</publication>
+	<publication>
+		<title>Robust Transmission Power and Position Estimation in Cognitive Radio</title>
+		<year>2007</year>
+		<authors>hyoungsuk jeon,hyuckjae lee,joong soo ma</authors>
+		<jconf>International Conference on Information Networking</jconf>
+		<label>989</label>
+		<keyword>Cognitive Radio;Position Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatial Reuse DCF for Enhancing Throughput and Performance Analysis</title>
+		<year>2008</year>
+		<authors>jongsub cha,joong soo ma</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>989</label>
+		<keyword>Performance Analysis;Spatial Reuse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

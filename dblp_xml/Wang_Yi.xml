@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wang Yi</FullName>
+	<publication>
+		<title>An Adaptive Stochastic Collision Detection Between Deformable Objects Using Particle Swarm Optimization</title>
+		<year>2006</year>
+		<authors>tianzhu wang,wenhui li,zihou ge,dongfeng han</authors>
+		<jconf>EvoWorkshops</jconf>
+		<label>1038</label>
+		<keyword>Collision Detection;Deformable Objects;particle swarm optimizer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image segmentation by aggregation graph-cuts</title>
+		<year>2006</year>
+		<authors>dongfeng han,wenhui li,tianzhu wang,yanjie she</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>1038</label>
+		<keyword>Graph Cut;Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stochastic collision detection between deformable models using particle swarm optimization algorithm</title>
+		<year>2006</year>
+		<authors>tianzhu wang,wenhui li,zihou ge,dongfeng han</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>1038</label>
+		<keyword>Collision Detection;Deformable Model;Particle Swarm Optimization Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Tabu Search Algorithm for Post-processing Multiple Sequence Alignment</title>
+		<year>2005</year>
+		<authors>tariq riaz,kuo-bin li</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>1039</label>
+		<keyword>Multiple Sequence Alignment;tabu search algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Threshold for Channel Estimation in MIMO-OFDM System</title>
+		<year>2008</year>
+		<authors>li lihua,ping zhang,zemin liu</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>1040</label>
+		<keyword>Channel Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Uniform Host Protocol Framework Planning to Change</title>
+		<year>2008</year>
+		<authors>tian chen,liu wenyu,huaien luo</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>1040</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

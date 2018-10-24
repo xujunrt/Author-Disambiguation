@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>William Stewart</FullName>
+	<publication>
+		<title>Migrating Application Integrations</title>
+		<year>2004</year>
+		<authors>daniel flagg,rose f. gamble,r. baird</authors>
+		<jconf>International Conference on COTS-Based Software Systems</jconf>
+		<label>1091</label>
+		<keyword>Application Integration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Liping Zhao</FullName>
+	<publication>
+		<title>Inter-enterprise Multi-processes Quality Dynamic Control Method Based on Processing Network</title>
+		<year>2008</year>
+		<authors>yongtao qin,yiyong yao,damin xu</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>570</label>
+		<keyword>Dynamic Control;Process Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dual-Core Embedded Real-Time Inspection and Analysis Platform for Field Quality Control and Application</title>
+		<year>2008</year>
+		<authors>yiyong yao,xin li,damin xu</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>570</label>
+		<keyword>Quality Control;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Service Design for Product Lifecycle in Service Oriented Manufacturing</title>
+		<year>2008</year>
+		<authors>jun wan,pingyu jiang,yongtao qin</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>570</label>
+		<keyword>Service Design;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Quality Control Model for Extended Enterprises and Its Implementation</title>
+		<year>2007</year>
+		<authors>yongtao qin,yiyong yao,damin xu</authors>
+		<jconf>IFIP TC8 Publications</jconf>
+		<label>570</label>
+		<keyword>Extended Enterprise;Quality Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quality Tracing and Control Information System for Extended Enterprise</title>
+		<year>2007</year>
+		<authors>damin xu,yiyong yao,yongtao qin</authors>
+		<jconf>IFIP TC8 Publications</jconf>
+		<label>570</label>
+		<keyword>Extended Enterprise;Information System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A KNN-Based Learning Method for Biology Species Categorization</title>
+		<year>2005</year>
+		<authors>yan dang,yulei zhang,dongmo zhang</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>571</label>
+		<keyword>Learning Methods;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information theory-based algorithm for in silico prediction of PCR products with whole genomic sequences as templates</title>
+		<year>2005</year>
+		<authors>youfang cao,lianjie wang,kexue xu,chunhai kou,yulei zhang,guifang wei,junjian he,yunfang wang</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>571</label>
+		<keyword>Genome Sequence;in silico;Information Theory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A No-Word-Segmentation Hierarchical Clustering Approach to Chinese Web Search Results</title>
+		<year>2008</year>
+		<authors>hui zhang,rui liu,deqing wang</authors>
+		<jconf>Asia Information Retrieval Symposium</jconf>
+		<label>572</label>
+		<keyword>Hierarchical Clustering;Web Search;Word Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Event Detection Algorithm Based on Improved STC</title>
+		<year>2008</year>
+		<authors>li-qing qiu,bin pang</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>573</label>
+		<keyword>Event Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

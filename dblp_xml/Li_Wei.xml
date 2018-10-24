@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Li Wei</FullName>
+	<publication>
+		<title>A New One-Way Isolation File-Access Method at the Granularity of a Disk-Block</title>
+		<year>2007</year>
+		<authors>wenyuan kuang,yaoxue zhang,nan xia,guangbin xu,yue-zhi zhou</authors>
+		<jconf>Autonomic and Trusted Computing</jconf>
+		<label>533</label>
+		<keyword>Access Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>TransCom: A Virtual Disk Based Self-management System</title>
+		<year>2007</year>
+		<authors>yaoxue zhang,yue-zhi zhou</authors>
+		<jconf>Autonomic and Trusted Computing</jconf>
+		<label>533</label>
+		<keyword>Management System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance Modeling and Analysis of the Booting Process in a Transparent Computing Environment</title>
+		<year>2008</year>
+		<authors>guanfei guo,yaoxue zhang,yue-zhi zhou,laurence tianruo yang,pengwei tian</authors>
+		<jconf>Future Generation Communication and Networking</jconf>
+		<label>533</label>
+		<keyword>Performance Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel service evolution approach for active services in ubiquitous computing</title>
+		<year>2009</year>
+		<authors>pengwei tian,yaoxue zhang,yue-zhi zhou,laurence tianruo yang,ming zhong,lin-kai weng</authors>
+		<jconf>International Journal of Communication Systems</jconf>
+		<label>533</label>
+		<keyword>Indexation;Quality of Service;Satisfiability;Success Rate;Ubiquitous Computing;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY With the emergence of more and more personalized service requirements, service customization has become a compelling problem in ubiquitous computing. As a new paradigm for service customization, the Active Services reuses existing services and obtains the user-needed service evolved from them. In this paper, a novel service reuse approach is proposed for service evolution process in the active services</abstract>
+	</publication>
+	<publication>
+		<title>An Improved QRD-M Algorithm in MIMO Communications</title>
+		<year>2007</year>
+		<authors>ming chen,shixin cheng,haifeng wang</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>534</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information Security Wireless Sensor Grid</title>
+		<year>2009</year>
+		<authors>li mingming,li baiping,chen lei</authors>
+		<jconf>Information Assurance and Security</jconf>
+		<label>534</label>
+		<keyword>Information Security;Wireless Sensor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information Security Routing Protocol in the WSN</title>
+		<year>2009</year>
+		<authors>ming chen,li mingming</authors>
+		<jconf>Information Assurance and Security</jconf>
+		<label>534</label>
+		<keyword>Information Security;Routing Protocol;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Complexity Reduced Blind Channel Equalization Scheme for OFDM Systems</title>
+		<year>2006</year>
+		<authors>ming chen,shixin cheng,haifeng wang</authors>
+		<jconf>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</jconf>
+		<label>534</label>
+		<keyword>Channel Equalization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Frequency-Domain Residual Interference Cancellation in Cyclic Prefix Assisted Single-carrier Communications</title>
+		<year>2006</year>
+		<authors>ming chen,shixin cheng,haifeng wang</authors>
+		<jconf>Vehicular Technology Conference</jconf>
+		<label>534</label>
+		<keyword>Frequency Domain;Interference Cancellation;Cyclic Prefix;Single Carrier;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hao Zhang</FullName>
+	<publication>
+		<title>Subsampling for Efficient Spectral Mesh Processing</title>
+		<year>2006</year>
+		<authors>rong liu,varun jain</authors>
+		<jconf>Computer Graphics International</jconf>
+		<label>279</label>
+		<keyword>Kernel Principal Component Analysis;Mesh Segmentation;Random Sampling;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we apply Nystrom method, a sub-sampling and reconstruction technique, to speed up spectral mesh processing. We flrst relate this method to Kernel Principal Component Analysis (KPCA). This enables us to derive a novel measure in the form of a matrix trace, based soly on sampled data, to quantify the quality of Nystrom approx- imation. The measure is</abstract>
+	</publication>
+	<publication>
+		<title>Expression-Invariant Face Recognition with Expression Classification</title>
+		<year>2006</year>
+		<authors>xiaoxing li,greg mori</authors>
+		<jconf>Canadian Conference on Computer and Robot Vision</jconf>
+		<label>279</label>
+		<keyword>Adverse Effect;Face Recognition;Facial Expression;Pattern Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>Face recognition is one of the most intensively studied topics in computer vision and pattern recognition. Facial expression, which changes face geometry, usually has an adverse effect on the performance of a face recognition sys- tem. On the other hand, face geometry is a useful cue for recognition. Taking these into account, we utilize the idea of separating geometry and</abstract>
+	</publication>
+	<publication>
+		<title>Expression-insensitive 3D face recognition using sparse representation</title>
+		<year>2009</year>
+		<authors>xiaoxing li,tao jia</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>279</label>
+		<keyword>3d face recognition;Face Recognition;Facial Expression;Geometric Feature;Sparse Representation;</keyword>
+		<organization>null</organization>
+		<abstract>We present a face recognition method based on sparse representation for recognizing 3D face meshes under ex- pressions using low-level geometric features. First, to en - able the application of the sparse representation frame- work, we develop a uniform remeshing scheme to establish a consistent sampling pattern across 3D faces. To handle facial expressions, we design a feature pooling and</abstract>
+	</publication>
+	<publication>
+		<title>Shape-Based Retrieval of Articulated 3D Models Using Spectral Embedding</title>
+		<year>2006</year>
+		<authors>varun jain</authors>
+		<jconf>Geometric Modeling and Processing</jconf>
+		<label>279</label>
+		<keyword>3d model;Eigenvalues;Eigenvectors;Rigid Body;Shape Descriptor;Shape Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>We present an approach for robust shape retrieval from data- bases containing articulated 3D shapes. We represent each shape by the eigenvectors of an appropriately deflned a-nity matrix, obtaining a spec- tral embedding. Retrieval is then performed on these embeddings using global shape descriptors. Transformation into the spectral domain nor- malizes the shapes against articulation (bending), rigid-body transforma- tions, and</abstract>
+	</publication>
+	<publication>
+		<title>Spectral Sequencing Based on Graph Distance</title>
+		<year>2006</year>
+		<authors>rong liu,oliver van kaick</authors>
+		<jconf>Geometric Modeling and Processing</jconf>
+		<label>279</label>
+		<keyword>Eigenvectors;Quality Criteria;Spectral Sequence;</keyword>
+		<organization>null</organization>
+		<abstract>The construction of linear mesh layouts has found various applications, such as implicit mesh filtering and mesh streaming, where a variety of layout quality criteria, e.g., span and width, can be considered. While spectral sequencing, derived from the Fiedler vector, is one of the best-known heuristics for minimizing width, it does not perform as well as the Cuthill-Mckee (CM) scheme</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Mesh Signal Transforms</title>
+		<year>2004</year>
+		<authors>hendrik c. blok</authors>
+		<jconf>Geometric Modeling and Processing</jconf>
+		<label>279</label>
+		<keyword>Covariance Matrix;Eigenvectors;Linear Predictive;Stochastic Model;Positive Semi Definite;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a simple stochastic model for the geome- try of 3D meshes with a given connectivity based on linear prediction plus a Gaussian error term. We show that the resulting probabilistic distribution is a multivariate Ga us- sian, which may be singular. Furthermore, the eigenvectors of its covariance matrix coincide with the eigenvectors of the linear prediction operator, provided</abstract>
+	</publication>
+	<publication>
+		<title>Convex hull covering of polygonal scenes for accurate collision detection in games</title>
+		<year>2008</year>
+		<authors>rong liu,james busby</authors>
+		<jconf>Graphics Interface</jconf>
+		<label>279</label>
+		<keyword>Collision Detection;Complex Objects;Convex Hull;Convex Polyhedra;Decomposition Algorithm;Game Development;</keyword>
+		<organization>null</organization>
+		<abstract>Decomposing a complex object into simpler pieces, e.g., convex patches or convex polyhedra, is a well-studied geometry problem. A well constructed decomposition can greatly accelerate collision detection since intersections with and between convex objects are fast to compute. In this paper, we look at a particular instance of the convex decomposition problem which arises from real-world game development. Given a</abstract>
+	</publication>
+	<publication>
+		<title>Contour Correspondence via Ant Colony Optimization</title>
+		<year>2007</year>
+		<authors>oliver van kaick,ghassan hamarneh,paul wighton</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>279</label>
+		<keyword>Ant Colony Optimization;Correspondence Problem;Generic Point;Quadratic Assignment Problem;</keyword>
+		<organization>null</organization>
+		<abstract>We formulate contour correspondence as a Quadratic Assignment Problem (QAP), incorporating proximity in- formation. By maintaining the neighborhood relation be- tween points this way, we show that better matching results are obtained in practice. We propose the first Ant Colony Optimization (ACO) algorithm specifically aimed at solv- ing the QAP-based shape correspondence problem. Our ACO framework is flexible in the</abstract>
+	</publication>
+	<publication>
+		<title>Segmentation of 3D Meshes through Spectral Clustering</title>
+		<year>2004</year>
+		<authors>rong liu</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>279</label>
+		<keyword>Data Representation;Eigenvectors;Graph Laplacian;Human Perception;Mesh Segmentation;Spectral Clustering;Spectral Method;</keyword>
+		<organization>null</organization>
+		<abstract>We formulate and apply spectral clustering to 3D mesh segmentation for the first time and report our preliminary findings. Given a set of mesh faces, an affinity matrix which encodes the likelihood of each pair of faces belongingto the same group is first constructed. Spectral methods then use selected eigenvectors of the affinity matrix or its closely re- lated graph</abstract>
+	</publication>
+	<publication>
+		<title>Butterworth Filtering and Implicit Fairing of Irregular Meshes</title>
+		<year>2003</year>
+		<authors>eugene fiume</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>279</label>
+		<keyword>Conjugate Gradient;Linear System;Numerical Technique;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose efficient numerical techniques for Butterworth filtering and implicit fairing of large ir- regular triangle meshes, where the corresponding filters are rational polynomials and the resulting large linear sys- tems need to be solved iteratively. We show that significant speed-up can be achieved for Butterworth filtering by fac- torizing the linear system in the complex domain.</abstract>
+	</publication>
+	<publication>
+		<title>Delaunay mesh construction</title>
+		<year>2007</year>
+		<authors>ramsay dyer,torsten möller</authors>
+		<jconf>Symposium on Geometry Processing</jconf>
+		<label>279</label>
+		<keyword>Surface Area;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>We present algorithms to produce Delaunay meshes from arbitrary triangle meshes by edge flipping and geometry- preserving refinement and prove their correctness. In particular we show that edge flipping serves to reduce mesh surface area, and that a poorly sampled input mesh may yield unflippable edges necessitating refinement to ensure a Delaunay mesh output. Multiresolution Delaunay meshes can be obtained</abstract>
+	</publication>
+	<publication>
+		<title>Nonobtuse remeshing and mesh decimation</title>
+		<year>2006</year>
+		<authors>j. y. s. li</authors>
+		<jconf>Symposium on Geometry Processing</jconf>
+		<label>279</label>
+		<keyword>Constrained Optimization;Geometric Model;Marching Cube;Scientific Computing;Search Space;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>Quality meshing in 2D and 3D domains is an important problem in geometric modeling and scientific computing. We are concerned with triangle meshes having only nonobtuse angles. Specifically, we propose a solution for guaranteed nonobtuse remeshing and nonobtuse mesh decimation. Our strategy for the remeshing problem is to first convert an input mesh, using a modified Marching Cubes al gorithm,</abstract>
+	</publication>
+	<publication>
+		<title>Voronoi-Delaunay duality and Delaunay meshes</title>
+		<year>2007</year>
+		<authors>ramsay dyer,torsten möller</authors>
+		<jconf>Symposium on Solid Modeling and Applications</jconf>
+		<label>279</label>
+		<keyword>delaunay triangulation;Surface Area;Triangle Mesh;voronoi diagram;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we are concerned with Delaunay triangulations of the vertex set of a piecewise flat (pwf) surface. We first propose the notion of well-formed Voronoi diagrams and es- tablish a precise dual relationship between them and proper Delaunay triangulations on pwf surfaces. Then we provide an algorithm which, given any input manifold triangle mesh, constructs a Delaunay mesh:</abstract>
+	</publication>
+	<publication>
+		<title>Gabriel meshes and Delaunay edge flips</title>
+		<year>2009</year>
+		<authors>ramsay dyer,torsten möller</authors>
+		<jconf>Symposium on Solid Modeling and Applications</jconf>
+		<label>279</label>
+		<keyword>Computer Graphic;Dihedral Angle;Object Model;Object Representation;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>We undertake a study of the local properties of 2-Gabriel meshes: manifold triangle meshes each of whose faces has an open Eu- clidean diametric ball that contains no mesh vertices. We show that, under mild constraints on the dihedral angles, such meshes are De- launay meshes: the open geodesic circumdisk of each face contains no mesh vertex. The analysis is</abstract>
+	</publication>
+	<publication>
+		<title>Point Cloud Skeletons via Laplacian Based Contraction</title>
+		<year>2010</year>
+		<authors>junjie cao,andrea tagliasacchi,matt olson,zhinxun su</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>279</label>
+		<keyword>Point Cloud;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Minimum Ratio Contours on Surface Meshes</title>
+		<year>2006</year>
+		<authors>andrew clements</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>279</label>
+		<keyword>Discrete Optimization;Mesh Segmentation;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel approach for discretely optimizing contours on the surface of a triangle mesh. This is achieved through the use of a minimum ratio cycle (MRC) algorithm, where we compute a contour having the minimal ratio be- tween a novel contour energy term and the length of the contour. Given an initial contour, we seek to nd the</abstract>
+	</publication>
+	<publication>
+		<title>Robust 3D Shape Correspondence in the Spectral Domain</title>
+		<year>2006</year>
+		<authors>varun jain</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>279</label>
+		<keyword>Iterative Closest Point;Rigid Body;Shape Descriptor;Spectral Method;Triangle Mesh;Thin Plate Spline;</keyword>
+		<organization>null</organization>
+		<abstract>We present an algorithm for finding a meaningful vertex- to-vertex correspondence between two 3D shapes given as triangle meshes. Our algorithm operates on embeddings of the two shapes in the spectral domain so as to normalize them with respect to uniform scaling and rigid-body trans- formation. Invariance to shape bending is achieved by re- lying on geodesic point proximities on</abstract>
+	</publication>
+	<publication>
+		<title>Adapting Geometric Attributes for Expression-Invariant 3D Face Recognition</title>
+		<year>2007</year>
+		<authors>xiaoxing li</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>279</label>
+		<keyword>3d face recognition;Cross Validation;Facial Expression;Geodesic Distance;Nearest Neighbor Classifier;Triangle Mesh;</keyword>
+		<organization>null</organization>
+		<abstract>We investigate the use of multiple intrinsic geometric at- tributes, including angles, geodesic distances, and curva- tures, for 3D face recognition, where each face is repre- sented by a triangle mesh, preprocessed to possess a uni- form connectivity. As invariance to facial expressions holds the key to improving recognition performance, we propose to train for the component-wise weights to be</abstract>
+	</publication>
+	<publication>
+		<title>Shape Matching of 3-D Contours Using Normalized Fourier Descriptors</title>
+		<year>2002</year>
+		<authors>eugene fiume</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>279</label>
+		<keyword>Eigenvectors;Shape Matching;Fourier Descriptors;Fourier Transform;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we develop a simple, eigen-space matching algorithm for closed 3-D contours. Our algorithm relies on a novel method which normalizes the Fourier descriptors (FDs) of a 3-D contour with respect to two of its FD co- efficients corresponding to the lowest non-zero frequencies. The remaining matching task only involves vertex shift and rotation about thez-axis. Our approach</abstract>
+	</publication>
+	<publication>
+		<title>A spectral approach to shape-based retrieval of articulated 3D models</title>
+		<year>2007</year>
+		<authors>varun jain</authors>
+		<jconf>Computer-aided Design</jconf>
+		<label>279</label>
+		<keyword>3d model;Eigenvalues;Eigenvectors;Geodesic Distance;Rigid Body;Shape Descriptor;Shape Retrieval;Spherical Harmonic;</keyword>
+		<organization>null</organization>
+		<abstract>We present an approach for robust shape retrieval from databases containing artic- ulated 3D models. Each shape is represented by the eigenvectors of an appropriately deflned a-nity matrix, forming a spectral embedding which achieves normalization against rigid-body transformations, uniform scaling, and shape articulation (i.e., bending). Retrieval is performed in the spectral domain using global shape descrip- tors. On the McGill</abstract>
+	</publication>
+	<publication>
+		<title>Surface sampling and the intrinsic Voronoi diagram</title>
+		<year>2008</year>
+		<authors>ramsay dyer,torsten möller</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>voronoi diagram;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mesh Segmentation via Spectral Embedding and Contour Analysis</title>
+		<year>2007</year>
+		<authors>rong liu</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>Mesh Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Part-aware Surface Metric for Shape Analysis</title>
+		<year>2009</year>
+		<authors>rong liu,ariel shamir,daniel cohen-or</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>Computer Graphic;Distance Function;Geodesic Distance;Mesh Segmentation;Shape Analysis;Shape Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>The notion of parts in a shape plays an important role in many geometry problems, including segmentation, cor- respondence, recognition, editing, and animation. As the f undamental geometric representation of 3D objects in computer graphics is surface-based, solutions of many such problems utilize a surface metric, a distance function defined over pairs of points on the surface, to assist shape</abstract>
+	</publication>
+	<publication>
+		<title>Silhouette Extraction in Hough Space</title>
+		<year>2006</year>
+		<authors>matt olson</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>Computer Graphic;Data Structure;Medical Robotics;Performance Improvement;Perspective Projection;Triangle Mesh;Hough Transform;</keyword>
+		<organization>null</organization>
+		<abstract>Object-space silhouette extraction is an important problem in fields ranging fr om non-photorealistic computer graphics to medical robotics. We present an efficient silhouette extracto r for triangle meshes under perspective projection and make three contributions. First, we describe a novel applic ation of 3D Hough transforms, which allows us to organize mesh data more effectively for silhouette computations tha n</abstract>
+	</publication>
+	<publication>
+		<title>Tangential Distance Fields for Mesh Silhouette Problems</title>
+		<year>2009</year>
+		<authors>matt olson</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>Distance Field;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deformation-Driven Shape Correspondence</title>
+		<year>2008</year>
+		<authors>alla sheffer,daniel cohen-or,quan zhou,oliver van kaick,andrea tagliasacchi</authors>
+		<jconf>Computer Graphics Forum</jconf>
+		<label>279</label>
+		<keyword>Mesh Deformation;Shape Priors;</keyword>
+		<organization>null</organization>
+		<abstract>Non-rigid 3D shape correspondence isa fundamental and difficult problem. Most applications which require a cor- respondence rely on manually selected markers. Without user assistance, the performances of existing automatic correspondence methods depend strongly on a good initial shape alignment or shape prior, and they generally do not tolerate large shape variations. We present an automatic feature correspondence algorithm capable of</abstract>
+	</publication>
+	<publication>
+		<title>Delay-Insensitivity and Semi-Modularity</title>
+		<year>2000</year>
+		<authors>janusz a. brzozowski</authors>
+		<jconf>Formal Methods in System Design</jconf>
+		<label>279</label>
+		<keyword>Formal Model;Delay Insensitive;</keyword>
+		<organization>null</organization>
+		<abstract>A network is delay-dense if, of each pair of adjacent components inthe network, at least one is a delay. In this paper, we prove that a delaydenseasynchronous network is delay-insensitive if and only if its behavioris semi-modular. We consider autonomous networks, i.e., networkswithout external inputs, whose components can be any sequential machinesof the Moore type. A formal model for this</abstract>
+	</publication>
+	<publication>
+		<title>Non-Rigid Spectral Correspondence of Triangle Meshes</title>
+		<year>2007</year>
+		<authors>varun jain,oliver van kaick</authors>
+		<jconf>International Journal of Shape Modeling</jconf>
+		<label>279</label>
+		<keyword>Eigenvectors;Iterative Closest Point;Principal Component Analysis;Rigid Body;Shape Descriptor;Spectral Method;Triangle Mesh;Thin Plate Spline;</keyword>
+		<organization>null</organization>
+		<abstract>We present an algorithm for flnding a meaningful vertex-to-vertex correspondence be- tween two triangle meshes, which is designed to handle general non-rigid transformations. Our algorithm operates on embeddings of the two shapes in the spectral domain so as to normalize them with respect to uniform scaling and rigid-body transformation. Invari- ance to shape bending is achieved by relying on approximate</abstract>
+	</publication>
+	<publication>
+		<title>Consolidation of unorganized point clouds for surface reconstruction</title>
+		<year>2009</year>
+		<authors>hui huang,dan li,uri m. ascher,daniel cohen-or</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>279</label>
+		<keyword>Point Cloud;Priority Setting;Projection Operator;Surface Reconstruction;</keyword>
+		<organization>null</organization>
+		<abstract>We consolidate an unorganized point cloud with noise, outliers, non-uniformities, and in particular interference between close-by surface sheets as a preprocess to surface generation, focusing on reliable normal estimation. Our algorithm includes two new de- velopments. First, a weighted locally optimal projection operator produces a set of denoised, outlier-free and evenly distributed par- ticles over the original dense point cloud,</abstract>
+	</publication>
+	<publication>
+		<title>SmartBoxes for interactive urban reconstruction</title>
+		<year>2010</year>
+		<authors>liangliang nan,andrei sharf,daniel cohen-or,baoquan chen</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>279</label>
+		<keyword>3d point cloud;Building Block;Data Fitting;Discrete Optimization;Large Scale;Point Cloud;On The Fly;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce an interactive tool which enables a user to quickly assemble an architectural model directly over a 3D point cloud acquired from large-scale scanning of an urban scene. The user loosely defines and manipulates simple building blocks, which we call SmartBoxes, over the point samples. These boxes quickly snap to their proper locations to conform to common architectural struc-</abstract>
+	</publication>
+	<publication>
+		<title>Curve skeleton extraction from incomplete point cloud</title>
+		<year>2009</year>
+		<authors>andrea tagliasacchi,daniel cohen-or</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>279</label>
+		<keyword>Point Cloud;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition</title>
+		<year>2006</year>
+		<authors>alexander c. berg,michael maire,jitendra malik</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>280</label>
+		<keyword>Distance Function;Nearest Neighbor Classification;Object Recognition;Support Vector Machine;Variance Decomposition;Nearest Neighbor;</keyword>
+		<organization>null</organization>
+		<abstract>We consider visual category recognition in the frame- work of measuring similarities, or equivalently perceptual distances, to prototype examples of categories. This ap- proach is quite e xible, and permits recognition based on color, texture, and particularly shape, in a homogeneous framework. While nearest neighbor classier s are natural in this setting, they suffer from the problem of high variance</abstract>
+	</publication>
+	<publication>
+		<title>Learning a discriminative classifier using shape context distances</title>
+		<year>2003</year>
+		<authors>jitendra malik</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>280</label>
+		<keyword>Error Correcting Output Code;Feature Vector;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>For purpose of object recognition, we learn one discrim- inative classifier based on one prototype, using shape con- text distances as the feature vector. From multiple proto- types, the outputs of the classifiers are combined using the method called &quot;error correcting output codes&quot;. The over- all classifier is tested on benchmark dataset and is shown to outperform existing methods with</abstract>
+	</publication>
+</person>

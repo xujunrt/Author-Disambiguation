@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Schneider</FullName>
+	<publication>
+		<title>Knowledge Discovery and Memory Space as Asymmetric Information - the Architecture of the Internet Media Lab netzspannung.org</title>
+		<year>2002</year>
+		<authors>wolfgang strauss,monika fleischmann,jasminko novak,stefan paal,gabriele blome,predrad peranovic,christoph seibert</authors>
+		<jconf>Computer Animation Conference</jconf>
+		<label>654</label>
+		<keyword>Asymmetric Information;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Prozessmodellbasierte Vertragsgestaltung in überbetrieblichen Kooperationen</title>
+		<year>2003</year>
+		<authors>jörg becker,karsten klose</authors>
+		<jconf>Modellierung betrieblicher Informationssyteme, MobIS</jconf>
+		<label>655</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

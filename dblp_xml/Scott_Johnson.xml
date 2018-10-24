@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Scott Johnson</FullName>
+	<publication>
+		<title>Experiences with Group Communication Middleware</title>
+		<year>2000</year>
+		<authors>farnam jahanian,sunondo ghosh,brian van voorst,nicholas weininger</authors>
+		<jconf>Dependable Systems and Networks</jconf>
+		<label>925</label>
+		<keyword>Distributed System;Fault Tolerant;Fault-tolerant Distributed Systems;Group Communication;Middleware;Real World Application;Tracking System;University of Michigan;</keyword>
+		<organization>null</organization>
+		<abstract>Group communication is a widely studied paradigm for building fault-tolerant distributed systems. The Armada project at the University of Michigan is a collaborative ef- fort with the Honeywell Technology Center to study how real-world applications use group communication. In this paper, we describe the results of our experience implement- ing a fault-tolerant distributed radar tracking system, and discuss how we</abstract>
+	</publication>
+	<publication>
+		<title>The Intergroup Router Approach to Scalable Group Composition</title>
+		<year>1999</year>
+		<authors>farnam jahanian,jigney shah</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>925</label>
+		<keyword>Fault-tolerant Distributed Systems;Modular Group;</keyword>
+		<organization>null</organization>
+		<abstract>This paper examines the problem of building scalable, fault-tolerant distributed systems from collections of com- municating process groups, while maintaining well-defined end-to-end delivery semantics. We propose a new architec- ture which supports modular group composition by provid- ing a distinction between intra-group and inter-group com- munication. With this architecture, multiple group commu- nication protocols and end-to-end delivery semantics can be</abstract>
+	</publication>
+	<publication>
+		<title>Constructing Real-time Group Communication Middleware Using the Resource Kernel</title>
+		<year>2000</year>
+		<authors>farnam jahanian,akihiko miyoshi,dionisio de niz,ragunathan rajkumar</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<label>925</label>
+		<keyword>Group Communication;Middleware;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ARMADA Middleware and Communication Services</title>
+		<year>1999</year>
+		<authors>tarek f. abdelzaher,scott dawson,wu-chang feng,farnam jahanian,ashish mehra,todd mitton,anees shaikh,kang g. shin,zhiqun wang,hengming zou,m. bjorkland,p. marron</authors>
+		<jconf>Real-time Systems</jconf>
+		<label>925</label>
+		<keyword>Communication Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

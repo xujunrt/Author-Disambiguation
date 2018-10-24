@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nuno Lopes</FullName>
+	<publication>
+		<title>Contextual Logic Programming for Ontology Representation and Querying</title>
+		<year>2007</year>
+		<authors>cláudio fernandes,salvador abreu</authors>
+		<jconf>International Conference on Logic Programming/Joint International Conference and Symposium on Logic Programming</jconf>
+		<label>790</label>
+		<keyword>Knowledge Modeling;Logic Programs;Semantic Integration;</keyword>
+		<organization>null</organization>
+		<abstract>The system presented in this paper aims at using Contex- tual Logic Programming as a computational hub for knowledge modeled by web ontologies and enable querying that representation. The compo- nents required to behave as a SPARQL query engine are explained and examples of semantic integration of dierent sources are shown.</abstract>
+	</publication>
+	<publication>
+		<title>On Querying Ontologies with Contextual Logic Programming</title>
+		<year>2007</year>
+		<authors>cláudio fernandes,salvador abreu</authors>
+		<jconf>Workshop on OWL: Experiences and Directions</jconf>
+		<label>790</label>
+		<keyword>Knowledge Modeling;Logic Programs;Semantic Integration;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a system in which Contextual Logic Program- ming is used as a mediator for knowledge modeled by ontologies. Our system provides the components required to behave as a SPARQL query engine and, as a result of its Logic Programming heritage, it may also recursively interrogate other ontologies or data repositories, providing a semantic integration of multiple sources.</abstract>
+	</publication>
+</person>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lili He</FullName>
+	<publication>
+		<title>Design of a 10bit TSMC 0.25um CMOS Digital to Analog Converter</title>
+		<year>2005</year>
+		<authors>j. huynh,b. ngo,m. pham</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>Digital To Analog Converter;Low Pass Filter;</keyword>
+		<organization>null</organization>
+		<abstract>The goal of this project is to implement a 10-bit segmented current steering TSMC 0.25Pm CMOS digital to analog converter. Binary coded 10-bit data was input to the converter. The converter will convert all combinations of ten bits from digital form into correspondent &quot;staircase&quot; voltage levels. A low pass filter placed after the output terminal of the converter is necessary</abstract>
+	</publication>
+	<publication>
+		<title>CMOS Based Low Cost Temperature Sensor</title>
+		<year>2008</year>
+		<authors>neehar jandhyala,morris jones</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>a/d converter;Low Power;Power Dissipation;Temperature Sensor;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design of low power, low cost design of temperature sensor that has been designed keeping in view VLSI circuits and technology changes. The circuit occupies an area close to 0.01mm 2 , which is less than 1/100 th of the area occupied by most of the previous circuits that use capacitors and A/D converters. Power dissipation</abstract>
+	</publication>
+	<publication>
+		<title>Implementation of power managed hyper transport system for transmission of HD video</title>
+		<year>2009</year>
+		<authors>adithya v. kodati,koneswara s. vemuri,morris jones</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>Data Flow;Data Transfer;Low Latency;Low Power;Power Management;Power Saving;Transport System;High Definition;Point To Point;</keyword>
+		<organization>null</organization>
+		<abstract>Hyper transport is a bidirectional, serial/parallel high bandwidth, low latency, point-to-point interface architecture. In this architecture, data can be sent on both rising and falling edges of the clock making it an interface that can transmit the data faster when compared to the other architectures that are available in the market today. This architecture also is ACPI (Advanced Configuration and</abstract>
+	</publication>
+	<publication>
+		<title>First-Order Continuous-Time Sigma-Delta Modulator</title>
+		<year>2007</year>
+		<authors>yamei li</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>Continuous Time;Sigma Delta Modulator;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design of a first-order continuous-time sigma-delta modulator. It can accept input signal bandwidth of 10 kHz with oversampling ratio of 250. The modulator operates at 1.8 V supply voltage and uses 0.18 um CMOS technology. It achieves a level of 60 dB SNR..</abstract>
+	</publication>
+	<publication>
+		<title>The design of a low-power low-noise phase lock loop</title>
+		<year>2010</year>
+		<authors>abishek mann,amit karalkar,morris jones</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>Charge Pump;Digital Systems;Feedback Loop;Generation Time;High Performance;Low Noise;Low Power;Oscillations;Phase Lock Loop;Phase Noise;Power Consumption;Functional Unit;Phase Frequency Detector;</keyword>
+		<organization>null</organization>
+		<abstract>A phase lock loop is a closed-loop system that causes one system to track with another. More precisely, a PLL can be perceived as a circuit synchronizing an output signal with a reference or input signal in frequency as well as phase. High- performance phase lock loops are widely used within a digital system for clock generation, timing recovery, and</abstract>
+	</publication>
+	<publication>
+		<title>A low input, low-power dissipation CMOS ADC</title>
+		<year>2006</year>
+		<authors>biye wang,morris jones</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>Low Power;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design of a low input (0.75 to 1.75V) and low power dissipation pipelined CMOS ADC. The 8 bits ADC consumes 78.3mW power at 2.5V supply voltage. The DNL and INL are 0.6LSB and 0.7LSB respectively, and SFDR is 51.259dB at 195kHz input frequency. The chip area is 1.023 mm � 0.795 mm with TSMC025..m CMOS technology.</abstract>
+	</publication>
+	<publication>
+		<title>A 8b 10Ms/s Low Power Pipelined A/D Converter</title>
+		<year>2007</year>
+		<authors>bi yuan,zhang yi</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>555</label>
+		<keyword>a/d converter;Low Power;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Wireless Digital Gas Meter with Lower Power Consumption</title>
+		<year>2010</year>
+		<authors>yu jiang,yanchun liang,yang cui,yinghui cao,chengquan hu</authors>
+		<jconf></jconf>
+		<label>556</label>
+		<keyword>Power Consumption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>ICHAMELEON: An Incremental CHAMELEON Algorithm</title>
+		<year>2005</year>
+		<authors>hongtao bai,chengquan hu,hu shi,fei song</authors>
+		<jconf>Computational Intelligence</jconf>
+		<label>556</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Conditional Delegation Model Based on Weighted Roles for Workflow</title>
+		<year>2008</year>
+		<authors>jian zhang,niya li,di luo,chengquan hu</authors>
+		<jconf>International Conference for Young Computer Scientists</jconf>
+		<label>556</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Integration Strategy for Mediation Framework</title>
+		<year>2005</year>
+		<authors>hongtao bai,jiachen zhang,chengquan hu</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>556</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Spatio-Temporal Deconvolution of Perfusion CT Data in Rectal Tumor Patients</title>
+		<year>2009</year>
+		<authors>burkay orten,w. clem karl,avinish kambadakone,dushyant sahani,homer h. pien</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>557</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Spatio-Temporal Deconvolution Method to Improve Perfusion CT Quantification</title>
+		<year>2010</year>
+		<authors>burkay orten,william clement karl,avinish kambadakone,dushyant sahani,homer h. pien</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>557</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Nonlocal Maximum Likelihood Estimation Method for Rician Noise Reduction in MR Images</title>
+		<year>2009</year>
+		<authors>ian r. greenshields</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>557</label>
+		<keyword>Maximum Likelihood Estimate;Mr Imaging;Noise Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Design of LQR Controller Based on Independent Mode Space for Active Vibration Control</title>
+		<year>2008</year>
+		<authors>jingjun zhang,ercheng wang,ruizhen gao</authors>
+		<jconf>International Symposium on Intelligence Computation and Applications</jconf>
+		<label>558</label>
+		<keyword>Active Vibration Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A LQR Controller Design for Active Vibration Control of Flexible Structures</title>
+		<year>2008</year>
+		<authors>jingjun zhang,ercheng wang,ruizhen gao</authors>
+		<jconf>IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application</jconf>
+		<label>558</label>
+		<keyword>Active Vibration Control;Controller Design;Flexible Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Active Vibration Control of Piezoelectric Intelligent Structures</title>
+		<year>2010</year>
+		<authors>jingjun zhang,ercheng wang</authors>
+		<jconf>Journal of Computers</jconf>
+		<label>558</label>
+		<keyword>Active Vibration Control;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-agent framework for distributed geographic information services</title>
+		<year>2004</year>
+		<authors>deng chao</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>559</label>
+		<keyword>Geographic Information;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiresolution model based extraction of product feature lines in reverse engineering</title>
+		<year>2004</year>
+		<authors>zhiyang chen,wei peng,xiuzi ye</authors>
+		<jconf>Engineering With Computers</jconf>
+		<label>560</label>
+		<keyword>multiresolution modeling;Reverse Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

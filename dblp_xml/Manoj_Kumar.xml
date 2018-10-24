@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Manoj Kumar</FullName>
+	<publication>
+		<title>Evaluation of Agent Oriented Requirements Engineering Frameworks</title>
+		<year>2008</year>
+		<authors>yogesh singh,anjana gosain</authors>
+		<jconf>IEEE Control Systems Magazine</jconf>
+		<label>611</label>
+		<keyword>Requirement Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Early Requirements to Late Requirements Modeling for a Data Warehouse</title>
+		<year>2009</year>
+		<authors>yogesh singh,anjana gosain</authors>
+		<jconf>Networked Computing and Advanced Information Management</jconf>
+		<label>611</label>
+		<keyword>Data Warehouse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Agent oriented requirements engineering for a data warehouse</title>
+		<year>2009</year>
+		<authors>anjana gosain,yogesh singh</authors>
+		<jconf>ACM Sigsoft Software Engineering Notes</jconf>
+		<label>611</label>
+		<keyword>Data Warehouse;Information Model;Operating System;Requirement Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, a number of requirements engineering (RE) proposals for a data warehouse (DW) systems have been made. In the traditional/operational systems, requirements engineering has been divided into two phases: early &amp;amp; late requirements engineering phase. Most of the data warehouse requirements engineering (DWRE) approaches have not distinguished early requirements engineering phase from late requirements engineering phase. A very</abstract>
+	</publication>
+</person>

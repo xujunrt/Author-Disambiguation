@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lian Li</FullName>
+	<publication>
+		<title>Towards Data Tiling for Whole Programs in Scratchpad Memory Allocation</title>
+		<year>2007</year>
+		<authors>hui wu,hui feng,jingling xue</authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<label>535</label>
+		<keyword>Memory Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trace-Based Data Cache Leakage Reduction at Link Time</title>
+		<year>2006</year>
+		<authors>jingling xue</authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<label>535</label>
+		<keyword>Data Cache;Leakage Reduction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Memory Coloring: A Compiler Approach for Scratchpad Memory Management</title>
+		<year>2005</year>
+		<authors>lin gao,jingling xue</authors>
+		<jconf>International Conference on Parallel Architectures and Compilation Techniques</jconf>
+		<label>535</label>
+		<keyword>Data Transfer;Embedded Processor;Graph Colouring;Memory Management;Register Allocation;Register File;Software Management;</keyword>
+		<organization>null</organization>
+		<abstract>Scratchpad memory (SPM), a fast software-managed onchip SRAM, is now widely used in modern embedded processors. Compared to hardware-managed cache, it is more efficient in performance, power and area cost, and has the added advantage of better time predictability. This paper introduces a general-purpose compiler approach, called memory coloring, to efficiently allocating the arrays in a program to an SPM.</abstract>
+	</publication>
+	<publication>
+		<title>Scratchpad allocation for data aggregates in superperfect graphs</title>
+		<year>2007</year>
+		<authors>quan hoang nguyen,jingling xue</authors>
+		<jconf>Languages, Compilers, and Tools for Embedded Systems</jconf>
+		<label>535</label>
+		<keyword>Clique Number;Data Aggregation;Graph Coloring;Graph Coloring Problem;Integer Program;</keyword>
+		<organization>null</organization>
+		<abstract>Existing methods place data or code in scratchpad memory, i.e., SPM by either relying on heuristics or resorting to integer program- ming or mapping it to a graph coloring problem. In this work, the SPM allocation problem is formulated as an interval coloring problem. The key observation is that in many em- bedded applications, arrays (including structs as a specia</abstract>
+	</publication>
+	<publication>
+		<title>A trace-based binary compilation framework for energy-aware computing</title>
+		<year>2004</year>
+		<authors>jingling xue</authors>
+		<jconf>Sigplan Notices</jconf>
+		<label>535</label>
+		<keyword>Application Development;Binary Translation;Code Size;Embedded System;Energy Saving;Power Consumption;Functional Unit;</keyword>
+		<organization>null</organization>
+		<abstract>Energy-aware compilers are becoming increasingly important for embedded systems due to the need to meet conflicting constraints on time, code size and power consumption. We introduce a trace-based, offline compiler framework on binaries and demonstrate its benefits in supporting energy optimisations. The key innovation lies in identifying frequently executed paths in a binary program and duplicating them as single-entry traces.</abstract>
+	</publication>
+	<publication>
+		<title>Trace-based leakage energy optimisations at link time</title>
+		<year>2007</year>
+		<authors>jingling xue</authors>
+		<jconf>Journal of Systems Architecture</jconf>
+		<label>535</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compiler-directed scratchpad memory management via graph coloring</title>
+		<year>2009</year>
+		<authors>hui feng,jingling xue</authors>
+		<jconf>ACM Transactions on Architecture and Code Optimization</jconf>
+		<label>535</label>
+		<keyword>Cache Memory;Data Aggregation;Data Transfer;Graph Coloring;Memory Management;Optimal Solution;Register Allocation;Register File;Software Management;</keyword>
+		<organization>null</organization>
+		<abstract>Scratchpad memory (SPM), a fast on-chip SRAM managed by software, is widely used in embed- ded systems. This paper introduces a general-purpose compiler approach, called memory coloring, to assign static data aggregates such as arrays and structs in a program to an SPM. The novelty of this approach lies in partitioning the SPM into a pseudo register file (with interchangeable</abstract>
+	</publication>
+</person>

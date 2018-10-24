@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Robert R. Henry</FullName>
+	<publication>
+		<title>A multicast ATM switch with slotted ring fabric</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>877</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A novel SVC mechanism for call connection and control in ATM networks</title>
+		<year>1997</year>
+		<authors>paul j. darby iii</authors>
+		<jconf>Computer Communications</jconf>
+		<label>877</label>
+		<keyword>Atm Networks;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

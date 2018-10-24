@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Eugene Wu</FullName>
+	<publication>
+		<title>Design Considerations for High Fan-In Systems: The HiFi Approach</title>
+		<year>2005</year>
+		<authors>michael j. franklin,shawn r. jeffery,sailesh krishnamurthy,frederick reiss,shariq rizvi,owen cooper,anil edakkunni,wei hong</authors>
+		<jconf>Conference on Innovative Data Systems Research</jconf>
+		<label>220</label>
+		<keyword>Data Acquisition;Data Management;Distributed System;Large Scale;Sensor Network;Supply Chain Management;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>Advances in data acquisition and sensor technologies are leading towards the development of &quot;high fan-in&quot; architectures: widely distributed systems whose edges consist of numerous receptors such as sensor networks, RFID readers, or probes, and whose interior nodes are traditional host computers organized using the principles of cascading streams and successive aggregation. Examples include RFID-enabled supply chain management, large- scale environmental</abstract>
+	</publication>
+	<publication>
+		<title>SASE: Complex Event Processing over Streams (Demo)</title>
+		<year>2007</year>
+		<authors>daniel gyllstrom,hee-jin chae,yanlei diao,patrick stahlberg,gordon anderson</authors>
+		<jconf>Conference on Innovative Data Systems Research</jconf>
+		<label>220</label>
+		<keyword>Complex Event Processing;Design and Development;Pattern Detection;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>RFID technology is gaining adoption on an increasin g scale for tracking and monitoring purposes. Wide deployments of RFID devices will soon generate an unprecedented volume of data. Emerging applications require the RFID data to be f iltered and correlated for complex pattern detection and transf ormed to events that provide meaningful, actionable informat ion to end applications. In this</abstract>
+	</publication>
+	<publication>
+		<title>High-performance complex event processing over streams</title>
+		<year>2006</year>
+		<authors>yanlei diao,shariq rizvi</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>220</label>
+		<keyword>Complex Event Processing;Facility Management;High Performance;Optimization Technique;Performance Analysis;Query Optimization;Sliding Window;Supply Chain Management;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present the design, implementation, and evalua- tion of a system that executes complex event queries over real-time streams of RFID readings encoded as events. These complex event queries filter and correlate events to match specific patterns, and transform the relevant events into new composite events for the use of external monitoring applications. Stream-based execution of these</abstract>
+	</publication>
+	<publication>
+		<title>HiFi: A Unified Architecture for High Fan-in Systems</title>
+		<year>2004</year>
+		<authors>owen cooper,anil edakkunni,michael j. franklin,wei hong,shawn r. jeffery,sailesh krishnamurthy,frederick reiss,shariq rizvi</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>220</label>
+		<keyword>Data Acquisition;Data Management;Data Stream;Distributed System;Low Power;Query Processing;Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Advances   in   data   acquisition   and   sensor technologies    are    leading    towards    the development  of  &quot;High  Fan - in&quot;  architectures: widely distributed systems whose edges consist of numerous receptors such as sensor networks and  RFID  readers  and  whose  interior  nodes consist  of  traditional  host  computers  organized using  the  principle  of  successive  aggregation Such  architectures  pose  significant  new  data management challenges The</abstract>
+	</publication>
+	<publication>
+		<title>Uncovering the Relational Web</title>
+		<year>2008</year>
+		<authors>michael j. cafarella,alon y. halevy,yang zhang,daisy zhe wang</authors>
+		<jconf>International Workshop on the Web and Databases</jconf>
+		<label>220</label>
+		<keyword>Data Type;Information Extraction;Structured Data;Web Crawling;Web Search;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The World-Wide Web consists of a huge number of unstruc- tured hypertext documents, but it also contains structured data in the form of HTML tables. Many of these tables contain both relational-style data and a small &quot;schema&quot; of labeled and typed columns, making each such table a small structured database. The WebTables project is an effort to extract and make</abstract>
+	</publication>
+	<publication>
+		<title>SASE: Complex Event Processing over Streams</title>
+		<year>2006</year>
+		<authors>daniel gyllstrom,hee-jin chae,yanlei diao,patrick stahlberg,gordon anderson</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>220</label>
+		<keyword>Complex Event Processing;Design and Development;Pattern Detection;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>RFID technology is gaining adoption on an increasin g scale for tracking and monitoring purposes. Wide deployments of RFID devices will soon generate an unprecedented volume of data. Emerging applications require the RFID data to be f iltered and correlated for complex pattern detection and transf ormed to events that provide meaningful, actionable informat ion to end applications. In this</abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic Data Management for Pervasive Computing: The Data Furnace Project</title>
+		<year>2006</year>
+		<authors>minos n. garofalakis,kurt p. brown,michael j. franklin,joseph m. hellerstein,daisy zhe wang,eirinaios michelakis,liviu tancau,shawn r. jeffery,ryan aipperspach</authors>
+		<jconf>IEEE Data(base) Engineering Bulletin</jconf>
+		<label>220</label>
+		<keyword>Context Aware Computing;Data Management;Large Scale;Monitoring and Control;Pervasive Computing;Probabilistic Model;Spatial Correlation;Wireless Sensor;Next Generation;Radio Frequency Identification Device;</keyword>
+		<organization>null</organization>
+		<abstract>The wide deployment of wireless sensor and RFID (Radio Frequency IDentification) devices is one of the key en- ablers for next-generation pervasive computing applications, including large-scale environmental monitoring and control, context-aware computing, and &quot;smart digital homes&quot;. Sensory readings are inherently unreliable and typically exhibit strong temporal and spatial correlations (within and across different sensing devices); effective reasoning over such unreliable</abstract>
+	</publication>
+	<publication>
+		<title>WebTables: exploring the power of tables on the web</title>
+		<year>2008</year>
+		<authors>michael j. cafarella,alon y. halevy,daisy zhe wang,yang zhang</authors>
+		<jconf>Proceedings of The Vldb Endowment</jconf>
+		<label>220</label>
+		<keyword>Automatic Generation;Database Design;Keyword Search;Relational Data;Schema Matching;Search Engine;Structured Data;Web Crawling;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The World-Wide Web consists of a huge number of unstruc- tured documents, but it also contains structured data in the form of HTML tables. We extracted 14.1 billion HTML ta- bles from Google's general-purpose web crawl, and used sta- tistical classification techniques to find the estimated 154M that contain high-quality relational data. Because each re- lational table has its own</abstract>
+	</publication>
+</person>

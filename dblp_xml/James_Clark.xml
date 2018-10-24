@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>James Clark</FullName>
+	<publication>
+		<title>Modelling of dispersant application to oil spills in shallow coastal waters</title>
+		<year>2004</year>
+		<authors>mark reed,per daling,alun lewis,may kristin ditlevsen,bård brørs,don aurand</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>340</label>
+		<keyword>Coastal Waters;Oil Spill;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

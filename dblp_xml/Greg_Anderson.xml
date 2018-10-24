@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Greg Anderson</FullName>
+	<publication>
+		<title>Lectures on Financial Mathematics: Discrete Asset Pricing</title>
+		<year>2010</year>
+		<authors>alec n. kercheval</authors>
+		<jconf></jconf>
+		<label>259</label>
+		<keyword>Asset Prices;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

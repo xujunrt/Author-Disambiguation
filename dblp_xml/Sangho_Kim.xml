@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sangho Kim</FullName>
+	<publication>
+		<title>Multiobjective Optimization Using Adjoint Gradient Enhanced Approximation Models for Genetic Algorithms</title>
+		<year>2006</year>
+		<authors>hyoung-seog chung</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>914</label>
+		<keyword>Genetic Algorithm;multiobjective optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RoF Technologies for In-Building Wireless Systems</title>
+		<year>2007</year>
+		<authors>seongtaek hwang,hoon kim,byungjik kim,sung kee kim,jaehoon lee,hanlim lee,yonggyoo kim,gyuwoong lee,oh yunje</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>915</label>
+		<keyword>Wireless Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ming Zhong</FullName>
+	<publication>
+		<title>3se: a semi-structured search engine for heterogeneous data in graph model</title>
+		<year>2009</year>
+		<authors>mengchi liu</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>740</label>
+		<keyword>Graph Model;Heterogeneous Data;Keyword Search;Query Language;Satisfiability;Search Engine;</keyword>
+		<organization>null</organization>
+		<abstract>As the ubiquitous interplay of structured, semi-structured and unstructured data from different sources, neither DB-style structured query requiring knowledge of full schema and complex language, nor IR-style keyword search ignoring latent structures, can satisfy users. In this paper, we present a novel Semi-Structured Search Engine (3SE) that provides easy, flexible, precise and rapid access to heterogeneous data represented by a</abstract>
+	</publication>
+	<publication>
+		<title>A Flexible Data Warehousing Approach for One-Stop Querying on Heterogeneous Personal Information</title>
+		<year>2009</year>
+		<authors>mengchi liu</authors>
+		<jconf>DEXA Workshops</jconf>
+		<label>740</label>
+		<keyword>Data Warehousing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient keyword proximity search using a frontier-reduce strategy based on d-distance graph index</title>
+		<year>2009</year>
+		<authors>mengchi liu</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>740</label>
+		<keyword>Efficient Algorithm;Index Structure;Indexation;Search Space;Best Effort;</keyword>
+		<organization>null</organization>
+		<abstract>Current keyword proximity search approaches on general graph lack effective means to reduce the search space, and thus suffer from low efficiency when dealing with large search space. In this paper, we present a novel approach in order to address this problem. Our approach employs a best-effort frontier-reduce strategy that aims to find a set of subgraphs containing the best</abstract>
+	</publication>
+	<publication>
+		<title>Modeling heterogeneous data in dataspace</title>
+		<year>2008</year>
+		<authors>mengchi liu,qian chen</authors>
+		<jconf>Information Reuse and Integration</jconf>
+		<label>740</label>
+		<keyword>Heterogeneous Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

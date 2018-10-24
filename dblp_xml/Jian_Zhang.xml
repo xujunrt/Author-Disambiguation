@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jian Zhang</FullName>
+	<publication>
+		<title>Combining Local Search and Backtracking Techniques for Constraint Satisfaction</title>
+		<year>1996</year>
+		<authors>hantao zhang</authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>360</label>
+		<keyword>Constraint Satisfaction;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Solving Global Unconstrained Optimization Problems by Symmetry-Breaking</title>
+		<year>2009</year>
+		<authors>xiaohui ji,feifei ma</authors>
+		<jconf>ACIS International Conference on Computer and Information Science</jconf>
+		<label>360</label>
+		<keyword>Symmetry Breaking;Unconstrained Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding Relations Among Linear Constraints</title>
+		<year>2006</year>
+		<authors>jun yan,zhongxing xu</authors>
+		<jconf>Artificial Intelligence and Symbolic Computation</jconf>
+		<label>360</label>
+		<keyword>Linear Constraint;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extending Finite Model Searching with Congruence Closure Computation</title>
+		<year>2004</year>
+		<authors>hantao zhang</authors>
+		<jconf>Artificial Intelligence and Symbolic Computation</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Specification Analysis and Test Data Generation by Solving Boolean Combinations of Numeric Constraints</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Asia-Pacific Conference on Quality Software</jconf>
+		<label>360</label>
+		<keyword>Test Data Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Path-Based Approach to the Detection of Infinite Looping</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Asia-Pacific Conference on Quality Software</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer Search for Large Sets of Idempotent Quasigroups</title>
+		<year>2007</year>
+		<authors>feifei ma</authors>
+		<jconf></jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Powerful Technique to Eliminate Isomorphism in Finite Model Search</title>
+		<year>2006</year>
+		<authors>xiangxue jia</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Volume Computation for Boolean Combination of Linear Arithmetic Constraints</title>
+		<year>2009</year>
+		<authors>feifei ma,sheng liu</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer Search for Counterexamples to Wilkie's Identity</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Problems on the Generation of Finite Models</title>
+		<year>1994</year>
+		<authors></authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System Description: MCS: Model-based Conjecture Searching</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System Description: Generating Models by SEM</title>
+		<year>1996</year>
+		<authors>hantao zhang</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>360</label>
+		<keyword>Generic Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Volume Computation Using a Direct Monte Carlo Method</title>
+		<year>2007</year>
+		<authors>sheng liu,binhai zhu</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>360</label>
+		<keyword>Monte Carlo Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Backtracking Algorithms and Search Heuristics to Generate Test Suites for Combinatorial Testing</title>
+		<year>2006</year>
+		<authors>jun yan</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Generation of Database Instances for White-box Testing</title>
+		<year>2001</year>
+		<authors>chen xu,s. c. cheung</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>360</label>
+		<keyword>Automatic Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constraint Propagation in Model Generation</title>
+		<year>1995</year>
+		<authors>hantao zhang</authors>
+		<jconf>Principles and Practice of Constraint Programming</jconf>
+		<label>360</label>
+		<keyword>Constraint Propagation;Model Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Stress Testing of Distributed Multimedia Software Systems</title>
+		<year>1999</year>
+		<authors>s. c. cheung,samuel t. chanson</authors>
+		<jconf>Formal Techniques for Networked and Distributed Systems</jconf>
+		<label>360</label>
+		<keyword>Distributed Multimedia;Software Systems;Stress Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Checking Inconsistency of Rule Sets in Active Real-Time Databases</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>360</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Predicate-Oriented Isomorphism Elimination in Model Finding</title>
+		<year>2005</year>
+		<authors>xiangxue jia</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>360</label>
+		<keyword>Exhaustive Search;Search Space;</keyword>
+		<organization>null</organization>
+		<abstract>Finding models of logical formulas is a challenging problem. For rst-order formulas, a nite model can be found by exhaustive search. For many struc- tured problem instances, there is much isomor- phism in the search space. This paper proposes general-purpose techniques for eliminating isomor- phic subspaces, which can be helpful when the for- mulas have many predicates. The techniques are</abstract>
+	</publication>
+	<publication>
+		<title>SEM: a System for Enumerating Models</title>
+		<year>1995</year>
+		<authors>hantao zhang</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>360</label>
+		<keyword>Constraint Satisfaction Problem;Efficient Implementation;High Performance;Model Generation;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>Model generation can be regarded as a spe­ cial case of the Constraint Satisfaction Problem (CSP). It has many applications in AI, com­ puter science and mathematics. In this paper, we describe SEM, a System for Enumerating fi­ nite Models of first-order many-sorted theories. To the best of our knowledge, SEM outperforms any other finite model generation system on many</abstract>
+	</publication>
+	<publication>
+		<title>BPEL4WS Unit Testing: Test Case Generation Using a Concurrent Path Analysis Approach</title>
+		<year>2006</year>
+		<authors>jun yan,zhongjie li,yuan yuan,wei sun</authors>
+		<jconf>International Symposium on Software Reliability Engineering</jconf>
+		<label>360</label>
+		<keyword>Path Analysis;Test Case Generation;Unit Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding Orthogonal Arrays Using Satisfiability Checkers and Symmetry Breaking Constraints</title>
+		<year>2008</year>
+		<authors>feifei ma</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>360</label>
+		<keyword>Orthogonal Array;Satisfiability;Symmetry Breaking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel Execution of Stochastic Search Procedures on Reduced SAT Instances</title>
+		<year>2002</year>
+		<authors>wenhui zhang,zhuo huang</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>360</label>
+		<keyword>Stochastic Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Test Data Generation Tool for Unit Testing of C Programs</title>
+		<year>2006</year>
+		<authors>zhongxing xu</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>360</label>
+		<keyword>Test Data Generation;Unit Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Path and Context Sensitive Inter-procedural Memory Leak Detection</title>
+		<year>2008</year>
+		<authors>zhongxing xu</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>360</label>
+		<keyword>Leak Detection;Procedural Memory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Symbolic Execution of Program Paths Involving Pointer and Structure Variables</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>360</label>
+		<keyword>Symbolic Execution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Local lemma: a new strategy of pruning in SAT solvers</title>
+		<year>2010</year>
+		<authors>xiangxue jia,runming lu,sheng liu</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>360</label>
+		<keyword>Sat Solver;Search Trees;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a search tree pruning strategy for SAT solving. It is called Local Lemma, because it generates lemmas from explored subtrees and these lemmas are valid only in a part of the search tree. The paper explains the basic principle of the strategy, illustrates it with an example, and presents some experimental results.</abstract>
+	</publication>
+	<publication>
+		<title>Automatic symmetry breaking method combined with SAT</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>360</label>
+		<keyword>Backtrack Search;Computational Logic;Hybrid Approach;Propositional Satisfiability;Satisfiability;Search Space;Symmetry Breaking;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>Finding models of first-order formulas is an important and challenging problem in computational logic. Many satisfiable formulas have finite models. To find a finite model of a first- order formula, one may use a backtracking search procedure directly, or transform the problem into propositional satisfiability. In the former approach, symmetries can be used effectively to prune the search space; while</abstract>
+	</publication>
+	<publication>
+		<title>Improving First-order Model Searching by Propositional Reasoning and Lemma Learning</title>
+		<year>2004</year>
+		<authors>zhuo huang,hantao zhang</authors>
+		<jconf>Theory and Applications of Satisfiability Testing</jconf>
+		<label>360</label>
+		<keyword>Backtrack Search;Model Generation;Propositional Satisfiability;Sat Solver;First Order;First Order Logic;</keyword>
+		<organization>null</organization>
+		<abstract>The finite model generation problem in the first-order logic is a generalization of the propositional satisfiability (SAT) problem. An essential algorithm for solving the problem is backtracking search. In this paper, we show how to improve such a search procedure by lemma learning. For eciency reasons, we represent the lemmas by propositional formulas and use a SAT solver to perform</abstract>
+	</publication>
+	<publication>
+		<title>Test Data Generation for C Programs with String-Handling Functions</title>
+		<year>2008</year>
+		<authors>hui ruan,jun yan</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>360</label>
+		<keyword>Test Data Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finite Model Generation and Formal Specification Development</title>
+		<year>1997</year>
+		<authors></authors>
+		<jconf>Technology of Object-Oriented Languages and Systems</jconf>
+		<label>360</label>
+		<keyword>Formal Specification;Model Generation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constraint Solving and Symbolic Execution</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Verified Software: Theories, Tools, Experiments</jconf>
+		<label>360</label>
+		<keyword>Constraint Solving;Symbolic Execution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Retrieving and Matching RDF Graphs by Solving the Satisfiability Problem</title>
+		<year>2006</year>
+		<authors>sheng liu</authors>
+		<jconf>Web Intelligence</jconf>
+		<label>360</label>
+		<keyword>Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Basic research in computer science and software engineering at SKLCS</title>
+		<year>2008</year>
+		<authors>wenhui zhang,naijun zhan,yidong shen,haiming chen,yunquan zhang,yongji wang,enhua wu,hongan wang,xueyang zhu</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<label>360</label>
+		<keyword>Basic Research;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient method to generate feasible paths for basis path testing</title>
+		<year>2008</year>
+		<authors>jun yan</authors>
+		<jconf>Information Processing Letters</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Constructing Finite Algebras with FALCON</title>
+		<year>1996</year>
+		<authors></authors>
+		<jconf>Journal of Automated Reasoning</jconf>
+		<label>360</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A backtracking search tool for constructing combinatorial test suites</title>
+		<year>2008</year>
+		<authors>jun yan</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<label>360</label>
+		<keyword>Backtrack Search;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated test case generation for the stress testing of multimedia systems</title>
+		<year>2002</year>
+		<authors>s. c. cheung</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>360</label>
+		<keyword>Automated Test Case Generation;Constraint Solving;Multimedia Systems;Stress Testing;Test Case Generation;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>With the advancement in network bandwidth and computing power, multimedia systems have become a popular means for information delivery. However, general principles of system testing cannot be directly applied to testing of multimedia systems on account of their stringent temporal and synchronization requirements. In particular, few studies have been made on the stress testing of multimedia systems with respect to</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Gait Recognition Using Weighted Binary Pattern on Video</title>
+		<year>2009</year>
+		<authors>worapan kusakunniran,qiang wu,hongdong li</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>361</label>
+		<keyword>Gait Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Knowledge-Based Approach for Detecting Unattended Packages in Surveillance Video</title>
+		<year>2006</year>
+		<authors>sijun lu,david dagan feng</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>361</label>
+		<keyword>Knowledge Base;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient method for detecting ghost and left objects in surveillance video</title>
+		<year>2007</year>
+		<authors>sijun lu,david dagan feng</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>361</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Human Body Articulation for Action Recognition in Video Sequences</title>
+		<year>2009</year>
+		<authors>tuan hue thi,sijun lu,li cheng,li wang</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>361</label>
+		<keyword>Action Recognition;Human Body;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Classification of Moving Humans Using Eigen-Features and Support Vector Machines</title>
+		<year>2005</year>
+		<authors>sijun lu,david dagan feng</authors>
+		<jconf>Computer Analysis of Images and Patterns</jconf>
+		<label>361</label>
+		<keyword>Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scalable clip-based near-duplicate video detection with ordinal measure</title>
+		<year>2010</year>
+		<authors>sakrapee paisitkriangkrai,tao mei,xian-sheng hua</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>361</label>
+		<keyword>Color Histogram;Compression Ratio;Duplicate Detection;Indexation;Large Scale;Locality Sensitive Hashing;Satisfiability;Similarity Search;Video Database;Video Retrieval;Video Search;Average Precision;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Detection of duplicate or near-duplicate videos on large-scale database plays an important role in video search. In this paper, we analyze the problem of near-duplicates detection and propose a practical and effective solution for real-time large-scale video retrieval. Unlike many existing approaches which make use of video frames or key-frames, our solution is based on a more discriminative signature of</abstract>
+	</publication>
+	<publication>
+		<title>Efficiently training a better visual detector with sparse eigenvectors</title>
+		<year>2009</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>361</label>
+		<keyword>Eigenvectors;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Direct Method to Self-Calibrate a Surveillance Camera by Observing a Walking Pedestrian</title>
+		<year>2009</year>
+		<authors>worapan kusakunniran,hongdong li</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword>Camera Calibration;Direct Method;Indexing Terms;Object Tracking;Video Surveillance;</keyword>
+		<organization>null</organization>
+		<abstract>Recent efforts show that it is possible to calibrate a surveillance camera simply from observing a walking hu- man. This procedure can be seen as a special application of the camera self-calibration technique. Several methods have been proposed along this line, but most of them have certain restrictions, such as require the human walking at a constant speed, or require</abstract>
+	</publication>
+	<publication>
+		<title>GATE: A Novel Robust Object Tracking Method Using the Particle Filtering and Level Set Method</title>
+		<year>2008</year>
+		<authors>cheng luo,xiongcai cai</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword>Object Tracking;Particle Filter;Level Set Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach for Enhancing the Results of Detecting Foreground Objects and Their Moving Shadows in Surveillance Video</title>
+		<year>2008</year>
+		<authors>cahya ong,sijun lu</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Experimental Evaluation of Local Features for Pedestrian Classification</title>
+		<year>2007</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword>Experimental Evaluation;Local Features;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Two-Layer Night-Time Vehicle Detector</title>
+		<year>2009</year>
+		<authors>weihong wang,chunhua shen,sakrapee paisitkriangkrai</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Offline Swimmer Cap Tracking Using Trajectory Interpolation</title>
+		<year>2007</year>
+		<authors>jun yang</authors>
+		<jconf>Digital Image Computing: Techniques and Applications</jconf>
+		<label>361</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face detection from few training examples</title>
+		<year>2008</year>
+		<authors>chunhua shen,sakrapee paisitkriangkrai</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>361</label>
+		<keyword>Face Detection;Indexing Terms;Multimedia Application;Object Recognition;Detection Rate;Fisher Discriminant Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Face detection in images is very important for many multimedia applications. Haar-like wavelet features have become dominant in face detection because of their tremendous success since Viola and Jones (1) proposed their AdaBoost based detection system. While Haar features' simplicity makes rapid computation possible, its dis- criminative power is limited. As a consequence, a large training dataset is required to</abstract>
+	</publication>
+	<publication>
+		<title>An overview of fast pedestrian detection: Feature selection and cascade framework of boosted features</title>
+		<year>2009</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>361</label>
+		<keyword>Feature Selection;Pedestrian Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-view Gait Recognition Based on Motion Regression Using Multilayer Perceptron</title>
+		<year>2010</year>
+		<authors>worapan kusakunniran,qiang wu,hongdong li</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>361</label>
+		<keyword>Gait Recognition;Multilayer Perceptron;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An experimental study on pedestrian classification using local features</title>
+		<year>2008</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>IEEE International Symposium on Circuits and Systems</jconf>
+		<label>361</label>
+		<keyword>Experimental Study;Local Features;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An analytic model for Ge/Si core/shell nanowire MOSFETs considering drift-diffusion and ballistic transport</title>
+		<year>2009</year>
+		<authors>lining zhang,jin he,feng liu,yue fu,yan song,xing zhang</authors>
+		<jconf>International Symposium on Quality Electronic Design</jconf>
+		<label>362</label>
+		<keyword>Analytical Model;Ballistic Transport;nanowires;Drift Diffusion;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust object tracking using the particle filtering and level set methods: A comparative experiment</title>
+		<year>2008</year>
+		<authors>cheng luo,xiongcai cai</authors>
+		<jconf>Multimedia Signal Processing</jconf>
+		<label>361</label>
+		<keyword>Object Tracking;Particle Filter;Level Set Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hybrid frame-recursive block-based distortion estimation model for wireless video transmission</title>
+		<year>2008</year>
+		<authors>werayut saesue,chun tung chou</authors>
+		<jconf>Multimedia Signal Processing</jconf>
+		<label>361</label>
+		<keyword>Compressed Video;Computational Complexity;Cross Correlation;Data Partitioning;Error Concealment;Error Resilience;Estimation Algorithm;Inter Symbol Interference;Intra Prediction;Motion Compensated;Network Traffic;Packet Loss;Performance Improvement;Quality of Service;Rate Distortion;Traffic Congestion;Transmission Error;Unequal Error Protection;Video Codec;Video Compression;Video Quality;Wireless Channels;Wireless Links;Wireless Video;Bit Error Rate;Time Varying;Variable Block Size;</keyword>
+		<organization>null</organization>
+		<abstract>In wireless environments, video quality can be severely degraded due to channel errors. Improving error robust- ness towards the impact of packet loss in error-prone network is considered as a critical concern in wireless video networking research. Data partitioning (DP) is an efficient error-resilient tool in video codec that is capable of reducing the effect of transmission errors by reorganizing</abstract>
+	</publication>
+	<publication>
+		<title>Efficiently Learning a Detection Cascade with Sparse Eigenvectors</title>
+		<year>2009</year>
+		<authors>chunhua shen,sakrapee paisitkriangkrai</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>361</label>
+		<keyword>Computational Efficiency;Data Distribution;Eigenvectors;Face Detection;Feature Selection;High Dimensional Data;Indexing Terms;Linear Discriminate Analysis;Multimedia Retrieval;Object Detection;Video Surveillance;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time object detection has many applications in video surveillance, teleconference and multimedia retrieval etc. Since Viola and Jones (1) proposed the first real-time AdaBoost based face detection system, much effort has been spent on improving the boosting method. In this work, we first show that feature selection methods other than boosting can also be used for training an efficient object</abstract>
+	</publication>
+	<publication>
+		<title>Incremental Training of a Detector Using Online Sparse Eigen-decomposition</title>
+		<year>2010</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>361</label>
+		<keyword>Classification Accuracy;Computer Vision;Data Distribution;Linear Discriminate Analysis;Object Detection;Online Algorithm;Online Learning;</keyword>
+		<organization>null</organization>
+		<abstract>The ability to efficiently and accurately detect objects plays a very crucial role for many computer vision tasks. Recently, offline object detectors have shown a tremendous success. However, one major drawback of offline techniquesis that a complete set of training data has to be collected beforehand. In addition, once learned, an offline detector can not make use of newly</abstract>
+	</publication>
+	<publication>
+		<title>Face Detection with Effective Feature Extraction</title>
+		<year>2010</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>361</label>
+		<keyword>Face Detection;Feature Extraction;Performance Improvement;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>There is an abundant literature on face detection due to its important role in many vision applications. Since Viola and Jones proposed the first real-time AdaBoost based face detector, Haar-like features have been adopted as the method of choice for frontal face detection. In this work, we show that simple features other than Haar-like features can also be applied for</abstract>
+	</publication>
+	<publication>
+		<title>Detecting Ghost and Left Objects in Surveillance Video</title>
+		<year>2009</year>
+		<authors>sijun lu,david dagan feng</authors>
+		<jconf>International Journal of Pattern Recognition and Artificial Intelligence</jconf>
+		<label>361</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MPEG 2 Video Services for Wireless ATM Networks</title>
+		<year>1997</year>
+		<authors>michael r. frater,john f. arnold,terence m. percival</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<label>361</label>
+		<keyword>Asynchronous Transfer Mode;Compressed Video;Error Resilience;Multimedia Services;Quality of Service;Telecommunication Networks;Transmission Error;Wireless Atm;Wireless Network;Audio Visual;Wireless Local Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Audio-visual and other multimedia services are seen as an important source of traffic for future telecommunications networks, including wireless networks. In this paper, we examine the impact of the properties of a 50 Mb/s asynchronous transfer mode (ATM)-based wireless local-area network (WLAN) on mov- ing picture experts group phase 2 (MPEG 2) compressed video traffic, with emphasis on the network's</abstract>
+	</publication>
+	<publication>
+		<title>Sub-threshold behavior of long channel undoped cylindrical surrounding-gate MOSFETs</title>
+		<year>2009</year>
+		<authors>wei bian,jin he,lining zhang,mansun chan</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<label>362</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detecting unattended packages through human activity recognition and object association</title>
+		<year>2007</year>
+		<authors>sijun lu,david dagan feng</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>361</label>
+		<keyword>Human Activity Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Pedestrian Detection Using a Cascade of Boosted Covariance Features</title>
+		<year>2008</year>
+		<authors>sakrapee paisitkriangkrai,chunhua shen</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>361</label>
+		<keyword>Computer Vision;Environmental Conditions;Euclidean Space;Experimental Study;Feature Extraction;Feature Selection;Indexing Terms;Object Detection;Pattern Classification;Pedestrian Detection;Receptive Field;riemannian manifold;Support Vector Machine;Video Surveillance;Fisher Linear Discriminant Analysis;Histograms of Oriented Gradients;</keyword>
+		<organization>null</organization>
+		<abstract>Efficiently and accurately detecting pedestrians plays a very important role in many computer vision applications such as video surveillance and smart cars. In order to find the right feature for this task, we first present a comprehensive experimental study on pedestrian detection using state-of-the- art locally extracted features (local receptive fields, histogram of oriented gradients and region covariance). Building upon</abstract>
+	</publication>
+	<publication>
+		<title>A cell-loss concealment technique for MPEG2 coded video</title>
+		<year>2000</year>
+		<authors>michael r. frater,john f. arnold</authors>
+		<jconf>IEEE Transactions on Circuits and Systems for Video Technology</jconf>
+		<label>361</label>
+		<keyword>Atm Networks;Computational Efficiency;Data Structure;Multimedia Services;Quality Improvement;Quality of Service;Transmission Error;Video Quality;Wireless Network;Audio Visual;Cell Loss Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Audio-visual and other multimedia services are seen as important sources of traffic for future telecommunication net- works, including wireless networks. A major drawback with some wireless networks is that they introduce a significant number of transmission errors into the digital bitstream. For video, such er- rors can have the effect of degrading the quality of service to the point where</abstract>
+	</publication>
+	<publication>
+		<title>A Discriminative Learning Framework with Pairwise Constraints for Video Object Classification</title>
+		<year>2006</year>
+		<authors>rong yan,jie yang,alexander g. hauptmann</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>363</label>
+		<keyword>Discrimination Learning;Video Object;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling and Integrating Background Knowledge in Data Anonymization</title>
+		<year>2009</year>
+		<authors>tiancheng li,ninghui li</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>364</label>
+		<keyword>Background Knowledge;bayesian inference;Kernel Estimate;Negative Association;Privacy Protection;</keyword>
+		<organization>null</organization>
+		<abstract>Recent work has shown the importance of consid- ering the adversary's background knowledge when reasoning about privacy in data publishing. However, it is very difficu lt for the data publisher to know exactly the adversary's back- ground knowledge. Existing work cannot satisfactorily model background knowledge and reason about privacy in the presence of such knowledge. This paper presents a general</abstract>
+	</publication>
+	<publication>
+		<title>A Faster Iterative Scaling Algorithm for Conditional Exponential Model</title>
+		<year>2003</year>
+		<authors>rong jin,rong yan,alexander g. hauptmann</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>363</label>
+		<keyword>Conditional Model;Conjugate Gradient;Empirical Study;Exponential Model;Iterative Algorithm;Learning Algorithm;Machine Learning;Text Classification;Theoretical Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Conditional exponential model has been one of the widely used conditional models in machine learning field and improved iterative scaling (IIS) has been one of the major algorithms for finding the optimal parameters for the conditional exponential model. In this paper, we proposed a faster iterative algorithm named FIS that is able to find the optimal parameters faster than the</abstract>
+	</publication>
+	<publication>
+		<title>A smoothed boosting algorithm using probabilistic output codes</title>
+		<year>2005</year>
+		<authors>rong jin</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>363</label>
+		<keyword>Binary Classification;Error Correcting Output Code;General Binaries;Learning Problems;</keyword>
+		<organization>null</organization>
+		<abstract>AdaBoost.OC has shown to be an effective method in boosting &quot;weak&quot; binary classifiers for multi-class learning. It employs the Error Correcting Output Code (ECOC) method to convert a multi-class learning problem into a set of binary classification problems, and ap- plies the AdaBoost algorithm to solve them efficiently. In this paper, we propose a new boosting algorithm that improves the</abstract>
+	</publication>
+	<publication>
+		<title>Blockwise coordinate descent procedures for the multitask lasso, with applications to neural semantic basis discovery</title>
+		<year>2009</year>
+		<authors>han liu,mark palatucci</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>364</label>
+		<keyword>Large-scale Problem;Least Square;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a cyclical blockwise coordinate descent algorithm for the multi-task Lasso that eciently solves problems with thou- sands of features and tasks. The main result shows that a closed-form Winsorization op- erator can be obtained for the sup-norm pe- nalized least squares regression. This allows the algorithm to nd solutions to very large- scale problems far more eciently than</abstract>
+	</publication>
+	<publication>
+		<title>Modified Logistic Regression: An Approximation to SVM and Its Applications in Large-Scale Text Categorization</title>
+		<year>2003</year>
+		<authors>rong jin,yiming yang,alexander g. hauptmann</authors>
+		<jconf></jconf>
+		<label>363</label>
+		<keyword>Large Scale;Logistic Regression;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic score estimation with piecewise logistic regression</title>
+		<year>2004</year>
+		<authors>yiming yang</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>363</label>
+		<keyword>Logistic Regression;Naive Bayes;piecewise linear;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>Well-calibrated probabilities are necessary in many applications like probabilistic frameworks or cost-sensitive tasks. Based on previous success of asymmetric Laplace method in calibrating text classifiers' scores, we propose to use piecewise logistic regression, which is a simple extension of standard logistic regression, as an alternative method in the discriminative family. We show that both methods have the flexibility to be</abstract>
+	</publication>
+	<publication>
+		<title>On the value of pairwise constraints in classification and consistency</title>
+		<year>2007</year>
+		<authors>rong yan</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>363</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>In this paper we consider the problem of classification in the presence of pairwise con- straints, which consist of pairs of examples as well as a binary variable indicating whether they belong to the same class or not. We propose a method which can effectively uti- lize pairwise constraints to construct an esti- mator of the decision boundary, and we</abstract>
+	</publication>
+	<publication>
+		<title>Transfer Learning Using Task-Level Features with Application to Information Retrieval</title>
+		<year>2009</year>
+		<authors>rong yan</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>363</label>
+		<keyword>Empirical Bayes Method;hierarchical bayesian model;Information Retrieval;Model Complexity;Transfer Learning;In Formation Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a probabilistic transfer learning model that uses task-level features to control the task mix- ture selection in a hierarchical Bayesian model. These task-level features, although rarely used in existing approaches, can provide additional infor- mation to model complex task distributions and allow effective transfer to new tasks especially when only limited number of data are available. To estimate</abstract>
+	</publication>
+	<publication>
+		<title>Topic-conditioned novelty detection</title>
+		<year>2002</year>
+		<authors>yiming yang,jaime g. carbonell,chun jin</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>363</label>
+		<keyword>Feature Selection;Named Entity;Novelty Detection;Supervised Learning;Text Classification;Broadcast News;</keyword>
+		<organization>null</organization>
+		<abstract>Automated detection of the first document reporting each new event in temporally-sequenced streams of documents is an open challenge. In this paper we propose a new approach which addresses this problem in two stages: 1) using a supervised learning algorithm to classify the on-line document stream into pre-defined broad topic categories, and 2) performing topic-conditioned novelty detection for documents in</abstract>
+	</publication>
+	<publication>
+		<title>A Probabilistic Model for Online Document Clustering with Application to Novelty Detection</title>
+		<year>2004</year>
+		<authors>zoubin ghahramani,yiming yang</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>363</label>
+		<keyword>Dirichlet Process Prior;Document Clustering;Empirical Bayes Method;English Language;Multinomial Distribution;Novelty Detection;Number of Clusters;Probabilistic Model;Topic Detection and Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we propose a probabilistic model for online document clus- tering. We use non-parametric Dirichlet process prior to model the grow- ing number of clusters, and use a prior of general English language model as the base distribution to handle the generation of novel clusters. Furthermore, cluster uncertainty is modeled with a Bayesian Dirichlet- multinomial distribution. We use</abstract>
+	</publication>
+	<publication>
+		<title>Learning Multiple Related Tasks using Latent Independent Component Analysis</title>
+		<year>2005</year>
+		<authors>zoubin ghahramani,yiming yang</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>363</label>
+		<keyword>Efficient Algorithm;Independent Component Analysis;Laplace Distribution;Point Estimation;Probabilistic Model;Text Classification;Independent Component;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a probabilistic model based on Independent Component Analysis for learning multiple related tasks. In our model t he task pa- rameters are assumed to be generated from independent sources which account for the relatedness of the tasks. We use Laplace distributions to model hidden sources which makes it possible to identify the hidden, independent components instead of just</abstract>
+	</publication>
+	<publication>
+		<title>Robustness of adaptive filtering methods in a cross-benchmark evaluation</title>
+		<year>2005</year>
+		<authors>yiming yang,shinjae yoo,bryan kisiel</authors>
+		<jconf></jconf>
+		<label>363</label>
+		<keyword>Adaptive Filter;Logistic Regression;Objective Function;Parameter Optimization;Performance Improvement;Relevance Feedback;Text Retrieval;Topic Detection and Tracking;Utility Function;</keyword>
+		<organization>null</organization>
+		<abstract>This paper reports a cross-benchmark evaluation of regularized logistic regression (LR) and incremental Rocchio for adaptive filtering. Using four corpora from the Topic Detection and Tracking (TDT) forum and the Text Retrieval Conferences (TREC) we evaluated these methods with non-stationary topics at various granularity levels, and measured performance with different utility settings. We foundthat LR performs strongly and robustly</abstract>
+	</publication>
+	<publication>
+		<title>A scalability analysis of classifiers in text categorization</title>
+		<year>2003</year>
+		<authors>yiming yang,bryan kisiel</authors>
+		<jconf></jconf>
+		<label>363</label>
+		<keyword>Complexity Analysis;Computational Complexity;Formal Analysis;K Nearest Neighbor;Logistic Regression;Real World Application;Ridge Regression;Support Vector Machine;Text Categorization;Linear Least Squares Fit;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Real-world applications of text categorization oftenrequire a system to deal with tens of thousands ofcategories defined over a large taxonomy. This paper addresses the problem with respect to a set of popular algorithms in text categorization, including Support Vector Machines, k-nearest neighbor, ridge regression, linear least square fit and logistic regression. By providing a formal analysis of the</abstract>
+	</publication>
+	<publication>
+		<title>Robustness of regularized linear classification methods in text categorization</title>
+		<year>2003</year>
+		<authors>yiming yang</authors>
+		<jconf></jconf>
+		<label>363</label>
+		<keyword>Controlled Experiment;Generalization Error;Logistic Regression;Loss Function;Optimization Problem;Real World Application;Ridge Regression;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>Real-world applications often require the classification of documents under situations of small number of features, mis-labeled documents and rare positive examples. This paper investigates the robustness of three regularized linear classification methods (SVM, ridge regression and logistic regression) under above situations. We compare these methods in terms of their loss functions and score distributions, and establish the connection between their</abstract>
+	</publication>
+	<publication>
+		<title>Slicing: A New Approach to Privacy Preserving Data Publishing</title>
+		<year>2009</year>
+		<authors>tiancheng li,ninghui li,ian molloy</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>364</label>
+		<keyword>High Dimensional Data;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract>Several anonymization techniques, such as generalization and bucketization, have been designed for privacy preserving microdata publishing. Recent work has shown that general- ization loses considerable amount of information, especially for high-dimensional data. Bucketization, on the other hand, does not prevent membership disclosure and does not apply for data that do not have a clear separation between quasi- identifying attributes and</abstract>
+	</publication>
+	<publication>
+		<title>Semantic Computation in a Chinese Question-Answering System</title>
+		<year>2002</year>
+		<authors>sujian li,huang xiong,shuo bai,qun liu</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>365</label>
+		<keyword>Language Resources;Natural Language Processing;Quantitative Method;Question Answering;Question Answering System;Satisfiability;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  This ,paper  introduces  semantic  computation ,into  our  Chinese  Question-Answering  system.  Based on two kinds of language resources hownet and Cilin, we present an approach to compute the  similarity  and  relevancy  between  words.   Using  these  results,  we  can  calculate  the  relevancy between,two sentences and then get the optimal answer for the query in the system. The calculation adopts quantitative methods</abstract>
+	</publication>
+	<publication>
+		<title>Multi-Class Learning by Smoothed Boosting</title>
+		<year>2007</year>
+		<authors>rong jin</authors>
+		<jconf>Machine Learning</jconf>
+		<label>363</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Flexible latent variable models for multitask learning</title>
+		<year>2008</year>
+		<authors>zoubin ghahramani,yiming yang</authors>
+		<jconf>Machine Learning</jconf>
+		<label>363</label>
+		<keyword>hierarchical bayesian model;Latent Variable Model;Model Selection;Multi Task Learning;Transfer Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Discriminative Learning Framework with Pairwise Constraints for Video Object Classification</title>
+		<year>2006</year>
+		<authors>rong yan,jie yang,alexander g. hauptmann</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>363</label>
+		<keyword>Discrimination Learning;Video Object;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Finding highly correlated pairs efficiently with powerful pruning</title>
+		<year>2006</year>
+		<authors>joan feigenbaum</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>364</label>
+		<keyword>Correlation Analysis;Correlation Coefficient;General Methods;Knowledge Discovery;Large Data Sets;Massive Data Sets;Randomized Algorithm;Statistical Computing;Time Complexity;False Negative;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of finding highly correlated pairs in a large data set. That is, given a threshold not too small, we wish to report all the pairs of items (or binary attributes) whose (Pearson) correlation coefficients are greater than the threshold. Correlation analysis is an important step in many statistical and knowledge-discovery tasks. Normally, the number of highly</abstract>
+	</publication>
+	<publication>
+		<title>On Graph Problems in a Semi-streaming Model</title>
+		<year>2004</year>
+		<authors>joan feigenbaum,sampath kannan,andrew mcgregor,siddharth suri</authors>
+		<jconf>International Congress of Mathematicans</jconf>
+		<label>364</label>
+		<keyword>Approximate Algorithm;Weighted Graph;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We formalize a potentially rich new streaming model, the semi-streaming model, that we believe is necessary for the fruitful study of ecient algorithms for solving problems on massive graphs whose edge sets cannot be stored in memory. In this model, the input graph, G = (V,E), is presented as a stream of edges (in adversarial order), and the storage space</abstract>
+	</publication>
+	<publication>
+		<title>Co-clustering by similarity refinement</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>International Conference on Machine Learning and Applications</jconf>
+		<label>365</label>
+		<keyword>Bipartite Graph;Document Clustering;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>When a data set contains objects of multiple types, to cluster the objects of one type, it is often necessary to consider the cluster structure on the objects of the other types. Co-clustering the related objects often generates bet- ter clusters. One basic connectionhere is that the similarity among the objects of one type is often affected by the clus-</abstract>
+	</publication>
+	<publication>
+		<title>Learning-based anomaly detection in BGP updates</title>
+		<year>2005</year>
+		<authors>jennifer rexford,joan feigenbaum</authors>
+		<jconf></jconf>
+		<label>364</label>
+		<keyword>Anomaly Detection;Instance Based Learning;interdomain routing;multi-scale analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Detecting anomalous BGP-route advertisements is crucial for improving the security and robustness of the Internet's interdomain-routing system. In this paper, we propose an instance-learning framework that identifies anomalies based on deviations from the &quot;normal&quot; BGP-update dynamics for a given destination prefix and across prefixes. We employ wavelets for a systematic, multi-scaled analysis that avoids the &quot;magic numbers&quot; (e.g., for grouping</abstract>
+	</publication>
+	<publication>
+		<title>Efficient algorithms for constructing (1+, varepsilon;, beta)-spanners in the distributed and streaming models</title>
+		<year>2004</year>
+		<authors>michael elkin</authors>
+		<jconf>Symposium on Principles of Distributed Computing</jconf>
+		<label>364</label>
+		<keyword>Efficient Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gaussian Process Learning for Cyber-Attack Early Warning</title>
+		<year>2008</year>
+		<authors>phillip a. porras,johannes ullrich</authors>
+		<jconf>Statistical Analysis and Data Mining</jconf>
+		<label>365</label>
+		<keyword>Early Warning;Information Sharing;Large Scale;Network Security;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>Network security has been a serious concern for many years. For example, flrewalls often record thousands of exploit attempts on a daily basis. Network adminis- trators could beneflt from information on potential ag- gressive attack sources, as such information can help to proactively defend their networks. For this pur- pose, several large-scale information sharing systems have been established, in which</abstract>
+	</publication>
+	<publication>
+		<title>Graph distances in the streaming model: the value of space</title>
+		<year>2005</year>
+		<authors>joan feigenbaum,sampath kannan,andrew mcgregor,siddharth suri</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>364</label>
+		<keyword>Decision Problem;General Techniques;Randomized Algorithm;Streaming Algorithm;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We investigate the importance of space when solving problems based on graph distance in the streaming model. In this model, the input graph is presented as a stream of edges in an arbitrary order. The main computational restriction of the model is that we have limited space and therefore cannot store all the streamed data; we are forced to make</abstract>
+	</publication>
+	<publication>
+		<title>Highly Predictive Blacklisting</title>
+		<year>2008</year>
+		<authors>phillip a. porras,johannes ullrich</authors>
+		<jconf>USENIX Security Symposium</jconf>
+		<label>365</label>
+		<keyword>Data Center;Link Analysis;Pattern Matching;Relevance Ranking;</keyword>
+		<organization>null</organization>
+		<abstract>The notion of blacklisting communication sources has been a well-established defensive measure since the ori- gins of the Internet community. In particular, the prac- tice of compiling and sharing lists of the worst offenders of unwanted traffic is a blacklisting strategy that has re- mained virtually unquestioned over many years. But do the individuals who incorporate such blacklists into their</abstract>
+	</publication>
+	<publication>
+		<title>Computing Diameter in the Streaming and Sliding-Window Models</title>
+		<year>2004</year>
+		<authors>joan feigenbaum,sampath kannan</authors>
+		<jconf>Algorithmica</jconf>
+		<label>364</label>
+		<keyword>Approximate Algorithm;Data Stream;Exact Algorithm;Sliding Window;Informing Science;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We investigate the diameter problem in the streaming and sliding- window models. We show that, for a stream of n points or a sliding window of size n, any exact algorithm for diameter requires ( n) bits of space. We present a simple -approximationDept. Computer and Information Science, University of Pennsylvania, Philadelphia, PA 19104, USA; Tel: +1-215-898-9514; Fax: +1-215-898-0587;</abstract>
+	</publication>
+	<publication>
+		<title>Efficient algorithms for constructing (1+epsilon, beta)-spanners in the distributed and streaming models</title>
+		<year>2006</year>
+		<authors>michael elkin</authors>
+		<jconf>Distributed Computing</jconf>
+		<label>364</label>
+		<keyword>Efficient Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gain modulation of recurrent networks</title>
+		<year>2000</year>
+		<authors>l. f. abbott</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>366</label>
+		<keyword>Recurrent Network;Recurrent Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Gain modulation is an important mechanism by which attentional and other inputs modify the amplitude of neuronal responses without changing their selectivity. Gain modulation has been studied previously in feedforward circuits but not in recurrent neural networks. We show how gain modulation modi&quot;es the response of a recurrent network to feedforward inputs. Even modest gain modulation of the recurrent network</abstract>
+	</publication>
+	<publication>
+		<title>Graph Distances in the Data-Stream Model</title>
+		<year>2008</year>
+		<authors>joan feigenbaum,sampath kannan,andrew mcgregor,siddharth suri</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>364</label>
+		<keyword>Data Stream;General Techniques;Graph Algorithm;Streaming Algorithm;Web Graph;Working Memory;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We explore problems related to computing graph distances in the data-stream model. The goal is to design algorithms that can process the edges of a graph in an arbitrary order given only a limited amount of working memory. We are motivated by both the practical challenge of processing massive graphs such as the web graph and the desire for a</abstract>
+	</publication>
+	<publication>
+		<title>On graph problems in a semi-streaming model</title>
+		<year>2005</year>
+		<authors>joan feigenbaum,sampath kannan,andrew mcgregor,siddharth suri</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>364</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>System-level performance phase characterization for on-demand resource provisioning</title>
+		<year>2007</year>
+		<authors>jaeseok kim,mazin s. yousif,robert carpenter,renato j. o. figueiredo</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>367</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Autonomic Feature Selection for Application Classification</title>
+		<year>2006</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>367</label>
+		<keyword>Classification Accuracy;Feature Selection;Performance Metric;Resource Scheduling;Source Code;Virtual Machine;bayesian network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Application,classification techniques,based on mon- itoring and learning of resource usage (e.g. CPU, memory, disk and,network) have been proposed,to aid in resource,scheduling decisions. An,important,problem,that,arises in application classifiers is how,to decide which subset of numerous,performance metrics collected from,monitoring,tools should,be used for the classification. This paper presents an approach,based on a prob- abilistic model,(Bayesian Network) to systematically,select the representative performance features, which can</abstract>
+	</publication>
+	<publication>
+		<title>Application Resource Demand Phase Analysis and Prediction in Support of Dynamic Resource Provisioning</title>
+		<year>2007</year>
+		<authors>mazin s. yousif,robert carpenter,renato j. o. figueiredo</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>367</label>
+		<keyword>Phase Analysis;Phase Behavior;Service Level Agreement;</keyword>
+		<organization>null</organization>
+		<abstract>Profiling the execution phases of an application can lead to optimizing the utilization of the underlying resources. This is the thrust of this paper, which presents a novel system-level application resource demand phase analysis and prediction prototype to support on-demand resource provisioning. The phase profile learned from historical runs is used to classify and predict phase behavior using a set</abstract>
+	</publication>
+	<publication>
+		<title>Application classification through monitoring and learning of resource consumption patterns</title>
+		<year>2006</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>367</label>
+		<keyword>Component Analysis;Feature Selection;Feature Space;Grid Applications;Grid Computing;Heterogeneous Computing;K Nearest Neighbor;Load Balance;Performance Metric;Principal Component Analysis;Resource Allocation;Resource Availability;Resource Scheduling;Scientific Application;Source Code;Virtual Machine;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Application awareness is an important factor of efficient resource scheduling. This paper introduces a novel ap- proach for application classification based on the Principal Component Analysis (PCA) and the k-Nearest Neighbor (k- NN) classifier. This approach is used to assist scheduling in heterogeneous computing environments. It helps to re- duce the dimensionality of the performance feature space and classify applications</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Predictor Integration for System Performance Prediction</title>
+		<year>2007</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>367</label>
+		<keyword>System Performance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>VMPlants: Providing and Managing Virtual Machine Execution Environments for Grid Computing</title>
+		<year>2004</year>
+		<authors>ivan krsul,arijit ganguly,josé a. b. fortes,renato j. o. figueiredo</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>367</label>
+		<keyword>Graph Matching;Grid Applications;Grid Computing;Grid Service;Middleware;Operating System;Problem Solving Environment;Resource Manager;Virtual Machine;Execution Environment;</keyword>
+		<organization>null</organization>
+		<abstract>Virtual machines provide flexible, powerful execution environments for Grid computing, offering isolation and security mechanisms complementary to operating systems, customization and encapsulation of entire application environments, and support for legacy applications. This paper describes a Grid service ¿ VMPlant ¿ that provides for automated configuration and creation of flexible VMs that, once configured to meet application needs, can then subsequently</abstract>
+	</publication>
+	<publication>
+		<title>Learning-aided predictor integration for system performance prediction</title>
+		<year>2007</year>
+		<authors>renato j. o. figueiredo</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>367</label>
+		<keyword>System Performance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From virtualized resources to virtual computing grids: the In-VIGO system</title>
+		<year>2005</year>
+		<authors>sumalatha adabala,vineet chadha,puneet chawla,renato j. o. figueiredo,josé a. b. fortes,ivan krsul,andréa m. matsunaga,maurício o. tsugawa,ming zhao,liping zhu,xiaomin zhu</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>367</label>
+		<keyword>Computational Grid;Experimental Research;Grid Computing;Middleware;Network Computing;Polymorphism;Virtual Machine;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the architecture of the first implementation of the In-VIGO grid-computing system. The architecture is designed to support computational tools for engineering and science research In Virtual Information Grid Organizations (as opposed to in vivo or in vitro experimental research). A novel aspect of In-VIGO is the extensive use of virtualization technol- ogy, emerging standards for grid-computing and</abstract>
+	</publication>
+	<publication>
+		<title>Reflections on the Interdisciplinary Collaborative Design of Mapping the Universe</title>
+		<year>2009</year>
+		<authors>chaomei chen,michael s. e. vogeley</authors>
+		<jconf>Human-Computer Interaction</jconf>
+		<label>368</label>
+		<keyword>Interdisciplinary Collaboration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Delineating the citation impact of scientific discoveries</title>
+		<year>2007</year>
+		<authors>chaomei chen,weizhong zhu,michael s. e. vogeley</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>368</label>
+		<keyword>Digital Library;Domain Specificity;Google Earth;Indexation;Knowledge Diffusion;Performance Indicator;Scientific Discovery;Scientific Knowledge;Social Network;Visual Analytics;Decision Tree;Sloan Digital Sky Survey;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>Identifying the significance of specific concepts in the diffusion of scientific knowledge is a challenging issue concerning many theoretical and practical areas. We introduce an innovative visual analytic approach to integrate microscopic and macroscopic perspectives of a rapidly growing scientific knowledge domain. Specifically, our approach focuses on statistically unexpected phrases extracted from unstructured text of titles and abstracts at the</abstract>
+	</publication>
+	<publication>
+		<title>Collaboration in an Open Data eScience: A Case Study of Sloan Digital Sky Survey</title>
+		<year>2010</year>
+		<authors>chaomei chen</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>368</label>
+		<keyword>Case Study;Collaborative Networks;Random Networks;Science and Technology;Scientific Communication;Scientific Data;Small World Network;Sloan Digital Sky Survey;</keyword>
+		<organization>null</organization>
+		<abstract>Current science and technology has produced more and more publically accessible scientific data. However, little is known about how the open data trend impacts a scientific community, specifically in terms of its collaboration behaviors. This paper aims to enhance our understanding of the dynamics of scientific collaboration in the open data eScience environment via a case study of co-author networks</abstract>
+	</publication>
+	<publication>
+		<title>Making Sense of the Evolution of a Scientific Domain: A Visual Analytic Study of the Sloan Digital Sky Survey Research</title>
+		<year>2010</year>
+		<authors>chaomei chen,michael s. e. vogeley</authors>
+		<jconf>Scientometrics</jconf>
+		<label>368</label>
+		<keyword>Feature Selection;Heterogeneous Data Sources;Knowledge Diffusion;Network Analysis;Science Policy;Scientific Discovery;Sense Making;Spectral Clustering;Visual Analysis;Visual Analytics;Sloan Digital Sky Survey;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a new visual analytic approach to the study of scientific discoveries and knowledge diffusion. Our approach enhances contemporary co-citation network analysis by enabling analysts to identify co-citation clusters of cited references intuitively, synthesize thematic contexts in which these clusters are cited, and trace how research focus evolves over time. The new approach integrates and streamlines a few previously</abstract>
+	</publication>
+	<publication>
+		<title>The Use of Scientific Data: A Content Analysis</title>
+		<year>2010</year>
+		<authors>chaomei chen,michael s. e. vogeley</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>368</label>
+		<keyword>Content Analysis;Large Scale;Scientific Data;Sloan Digital Sky Survey;</keyword>
+		<organization>null</organization>
+		<abstract>Nowadays, science has been coming into a new paradigm, called data-intensive science. While current studies of the new phenomenon focused on building up infrastructure for this new paradigm, yet a few studies concern users of scientific data, particularly their usage practices in the newly emerging paradigm, even though the importance of understanding users' work flow and practices has been summoned.</abstract>
+	</publication>
+	<publication>
+		<title>The thematic and citation landscape of Data and Knowledge Engineering</title>
+		<year>2008</year>
+		<authors>chaomei chen,il-yeol song,xiaojun yuan</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>368</label>
+		<keyword>Knowledge Engineering;</keyword>
+		<organization>null</organization>
+		<abstract>abstract The thematic,and,citation structures,of Data and Knowledge,Engineering,(DKE) (1985–2007)</abstract>
+	</publication>
+	<publication>
+		<title>AI and Global Science and Technology Assessment</title>
+		<year>2009</year>
+		<authors>hsinchun chen,ronald n. kostoff,chaomei chen,michael s. e. vogeley,katy börner,nianli ma,russell j. duhon,angela zoss,venkat srinivasan,edward a. fox,christopher c. yang,chih-ping wei</authors>
+		<jconf>IEEE Expert / IEEE Intelligent Systems</jconf>
+		<label>368</label>
+		<keyword>Science and Technology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visualizing the Intellectual Structure with Paper-Reference Matrices</title>
+		<year>2009</year>
+		<authors>chaomei chen,jiexun li</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>368</label>
+		<keyword>Domain Analysis;Indexing Terms;Information Sources;Information Visualization;Network Visualization;Visual Analysis;Sloan Digital Sky Survey;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Visualizing the intellectual structure of scientific domains,using co-cited units such,as references,or authors has become aroutine for  domain  analysis.  In  previous  studies,  paper-reference  matrices  are  usually  transformed  into  reference-reference  matrices to obtain co-citation relationships, which are then visualized in different representations,typically as node-link networks, to represent the intellectual structures of scientific domains. Such network visualizations sometimes contain tightly knit components, which</abstract>
+	</publication>
+	<publication>
+		<title>Low Level Fusion of Imagery Based on Dempster-Shafer Theory</title>
+		<year>2003</year>
+		<authors>xiaohui yuan,xiaojing yuan,bill p. buckles</authors>
+		<jconf>The Florida AI Research Society Conference</jconf>
+		<label>369</label>
+		<keyword>dempster shafer theory;Evidential Reasoning;Image Fusion;dempster shafer;</keyword>
+		<organization>null</organization>
+		<abstract>An approach to fuse multiple images based on Dempster-Shafer evidential reasoning is proposed in this article. Dempster-Shafer theory provides a com- plete framework for combining weak evidences from multiple sources. Such situations typically arise in the image fusion problems, where a 'real scene' image has to be estimated from incomplete and unreliable observa- tions. By converting images from their spatial</abstract>
+	</publication>
+	<publication>
+		<title>Sample Complexity of Real-Coded Evolutionary Algorithms</title>
+		<year>2003</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>The Florida AI Research Society Conference</jconf>
+		<label>369</label>
+		<keyword>Evolutionary Algorithm;Fitness Function;Global Convergence;Pac Learning;Population Size;Sample Complexity;Sampling Theorem;</keyword>
+		<organization>null</organization>
+		<abstract>Researchers studying Evolutionary Algorithms and their applications have always been confronted with the sample complexity problem. The relationship between population size and global convergence is not clearly understood. Population size is usually chosen depend- ing on researcher's experience. In this paper, we study the population size using Probably Approximately Cor- rect (PAC) learning theory. A ruggedness measure for fitness functions</abstract>
+	</publication>
+	<publication>
+		<title>Multimodal Function Optimization Using Local Ruggedness Information</title>
+		<year>2004</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>The Florida AI Research Society Conference</jconf>
+		<label>369</label>
+		<keyword>Evolutionary Algorithm;Fitness Landscape;Function Optimization;Pac Learning;Population Size;Probably Approximately Correct;</keyword>
+		<organization>null</organization>
+		<abstract>In multimodal function optimization, niching tech- niques create diversification within the population, thus encouraging heterogeneous convergence. The key to the effective diversification is to identify the similarity among individuals. Without knowledge of the fitness landscape, it is usually determined by uninformative as- sumptions. In this article, we propose a method to esti- mate the sharing distance for niching and the</abstract>
+	</publication>
+	<publication>
+		<title>A Fast Evolution Strategies Based Approach To Image Registration</title>
+		<year>2002</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>369</label>
+		<keyword>Evolution Strategy;Image Registration;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Population Sizing Based on Landscape Feature</title>
+		<year>2003</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>369</label>
+		<keyword>Population Size;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mining negative association rules</title>
+		<year>2002</year>
+		<authors>xiaohui yuan,bill p. buckles,zhaoshan yuan</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>369</label>
+		<keyword>Association Rule;Negative Association;Rule Discovery;</keyword>
+		<organization>null</organization>
+		<abstract>The focus of this paper is the discovery of negative association rules. Such association rules are complementary to the sorts of association rules most often encountered in literatures and have the forms of X→¬Y or ¬X→ Y. We present a rule discovery algorithm that finds a useful subset of valid negative rules. In generating negative rules, we employ a hierarchical</abstract>
+	</publication>
+	<publication>
+		<title>Function Granularity Estimation for Multimodal Optimization</title>
+		<year>2005</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<label>369</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evolution strategies based image registration via feature matching</title>
+		<year>2004</year>
+		<authors>xiaohui yuan,bill p. buckles</authors>
+		<jconf>Information Fusion</jconf>
+		<label>369</label>
+		<keyword>Evolution Strategy;Feature Extraction;Feature Matching;Image Registration;Mutual Information;</keyword>
+		<organization>null</organization>
+		<abstract>An image registration approach using evolution strategies is presented. The objectives of registration are to find an accurate transformation and minimize the computational expense. However, it is difficult to optimize both concurrently. Moreover, most conventional image registration approaches are unsuccessful in registering images requiring large transformations due to the computational constraints. In this article, we propose a novel method that</abstract>
+	</publication>
+	<publication>
+		<title>Multi-scale feature identification using evolution strategies</title>
+		<year>2005</year>
+		<authors>xiaojing yuan,xiaohui yuan,bill p. buckles</authors>
+		<jconf>Image and Vision Computing</jconf>
+		<label>369</label>
+		<keyword>Content Based Image Retrieval;Evolution Strategy;Evolutionary Computing;Fitness Function;gabor filter;Optimal Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract An image usually contains a number of different features and regions. Many image-related applications, such as content-based image retrieval and MRI-based diagnosis, often require the ability to identify and mark features within the image. For images containing a specific sort of feature (e.g. convective storm) or region (e.g. earthquake debris), that feature or region is always located adjacent to</abstract>
+	</publication>
+	<publication>
+		<title>Learning Bayesian networks for discrete data</title>
+		<year>2009</year>
+		<authors>faming liang</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>370</label>
+		<keyword>Approaches To Learning;bayesian model averaging;Discrete Data;Importance Sampling;Learning Process;Markov Chain Monte Carlo;Monte Carlo;Stochastic Approximation;bayesian network;Weighted Averaging;</keyword>
+		<organization>null</organization>
+		<abstract>Bayesian networks have received much attention in the recent literature. In this article, we propose an approach to learn Bayesian networks using the stochastic approximation Monte Carlo (SAMC) algorithm. Our approach has two nice features. Firstly, it possesses the self-adjusting mechanism and thus avoids essentially the local-trap problem suered by conventional MCMC simulation-based approaches in learning Bayesian networks. Secondly, it</abstract>
+	</publication>
+	<publication>
+		<title>Analysis of Information Content for Biological Sequences</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>371</label>
+		<keyword>Information Content;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Monophyletic clustering and characterization of protein families</title>
+		<year>2007</year>
+		<authors>zhiyuan zhao,jennifer evershed,guoying li</authors>
+		<jconf>Journal of Integrative Bioinformatics</jconf>
+		<label>372</label>
+		<keyword>Protein Family;</keyword>
+		<organization>null</organization>
+		<abstract>Summary</abstract>
+	</publication>
+	<publication>
+		<title>Classifying Detection of Epileptic EEG Based on Approximate Entropy in Wavelet Domain</title>
+		<year>2009</year>
+		<authors>chunmei wang,junzhong zou,zhisuo zhang,chongming zhang</authors>
+		<jconf>International Conference on BioMedical Engineering and Informatics</jconf>
+		<label>373</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

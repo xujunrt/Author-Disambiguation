@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jochen M&amp;uuml;ller</FullName>
+	<publication>
+		<title>Service-oriented support of cooperative workflows considerations for urban planning processes</title>
+		<year>2006</year>
+		<authors>ge zhang,jean-christophe lapayre,paul müller</authors>
+		<jconf>Conference of the Association Information and Management</jconf>
+		<label>429</label>
+		<keyword>Business Process;Communication Service;Information Sources;Service Orientation;Service Oriented Architecture;Urban Planning;Web Portal;</keyword>
+		<organization>null</organization>
+		<abstract>Web-based information sources have evolved to an essential element in our daily and professional life. To process this faster and faster growing amount of information, web portals provide personalized access to specific information and communication services. In this paper, an example from urban planning is given. In this workflow, different actors are interacting in an ad-hoc manner. Therefore, a Portal</abstract>
+	</publication>
+	<publication>
+		<title>Developing Web Applications for Mobile Devices</title>
+		<year>2005</year>
+		<authors>torsten lenhart,dirk henrici,markus hillenbrand,paul müller</authors>
+		<jconf>Distributed Frameworks for Multimedia Applications</jconf>
+		<label>429</label>
+		<keyword>Mobile Device;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>Today even small mobile devices access the internet. Therewith, mobility issues have become an important technical and economic topic -- not only in new but in proven and successful web applications as well. The main problem derives from a growing development of heterogeneity in hardware and software of mobile devices. To overcome this problem, this paper presents a framework to</abstract>
+	</publication>
+	<publication>
+		<title>Data Security in Service-Oriented Architectures</title>
+		<year>2005</year>
+		<authors>dirk henrici</authors>
+		<jconf>DFN Arbeitstagung ��ber Kommunikationsnetze</jconf>
+		<label>429</label>
+		<keyword>Data Privacy;Data Security;Research and Development;Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>Due to standardized interfaces and loose coupling of services, service- oriented architectures provide the possibility for close interaction between different organizations and communities. But this also introduces new risks: To have under control where which data is processed becomes increasingly difficult. This paper highlights that current approaches for ensuring data privacy and required security mechanisms are no longer adequate under</abstract>
+	</publication>
+	<publication>
+		<title>Role-based AAA for Service Utilization in Federated Domains</title>
+		<year>2005</year>
+		<authors>markus hillenbrand,joachim götze,paul müller</authors>
+		<jconf>DFN Arbeitstagung ��ber Kommunikationsnetze</jconf>
+		<label>429</label>
+		<keyword>Large Scale;Service Utilization;Web Service;Authorization and Accounting;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>The Web service specifications managing authentication and authoriza- tion are still a work in progress. A large-scale application built today is in need of a solid authentication and authorization infrastructure. A role-based authentication, authorization and accounting (AAA) concept is able to provide the services needed, while it is possible to gain additional flexibility to handle the co-operation between different authentication</abstract>
+	</publication>
+	<publication>
+		<title>E-Gov-Risk-Board - Lebenszyklusorientierte Identifikation von Risiken bei E-Government-Anwendungen</title>
+		<year>2004</year>
+		<authors>dunja b. eberhard,andreas jonen,volker lingnau</authors>
+		<jconf>Entwicklungsmethoden f��r Informationssysteme und deren Anwendung</jconf>
+		<label>429</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iterative Service Orchestration based on Dependability Attributes</title>
+		<year>2008</year>
+		<authors>joachim götze,paul müller</authors>
+		<jconf>Software Engineering and Advanced Applications</jconf>
+		<label>429</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

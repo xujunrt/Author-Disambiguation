@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Miguel Torres</FullName>
+	<publication>
+		<title>AOPOA - Organizational Approach for Agent Oriented Programming</title>
+		<year>2006</year>
+		<authors>enrique gonzález</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>714</label>
+		<keyword>Agent Oriented Programming;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

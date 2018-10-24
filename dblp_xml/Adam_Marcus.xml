@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Adam Marcus</FullName>
+	<publication>
+		<title>Enhancing Directed Content Sharing on the Web</title>
+		<year>2010</year>
+		<authors>michael s. bernstein,david r. karger,robert c. miller</authors>
+		<jconf></jconf>
+		<label>4</label>
+		<keyword>Design Space;Field Experiment;Mixed Initiative;Survey Data;User Experience;</keyword>
+		<organization>null</organization>
+		<abstract>To find interesting, personally relevant web content, people rely on friends and colleagues to pass links along as they encounter them. In this paper, we study and augment link- sharing via e-mail, the most popular means of sharing web content today. Armed with survey data indicating that ac- tive sharers of novel web content are often those that active- ly</abstract>
+	</publication>
+	<publication>
+		<title>Scalable Semantic Web Data Management Using Vertical Partitioning</title>
+		<year>2007</year>
+		<authors>daniel j. abadi,samuel r. madden,katherine j. hollenbach</authors>
+		<jconf></jconf>
+		<label>4</label>
+		<keyword>Data Management;Large Scale;Perforation;Performance Improvement;Real World Application;Semantic Web;Semantic Web Technology;</keyword>
+		<organization>null</organization>
+		<abstract>E cient management of RDF data is an important factor in real- izing the Semantic Web vision. Performance and scalability issues are becoming increasingly pressing as Semantic Web technology is applied to real-world applications. In this paper, we examine the reasons why current data management solutions for RDF data scale poorly, and explore the fundamental scalability limitations of these approaches.</abstract>
+	</publication>
+	<publication>
+		<title>Talking about data: sharing richly structured information through blogs and wikis</title>
+		<year>2010</year>
+		<authors>edward benson,fabian howahl,david r. karger</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>4</label>
+		<keyword>Authoring Tool;Data Sharing;Linked Data;</keyword>
+		<organization>null</organization>
+		<abstract>The web has dramatically enhanced people's ability to communicate ideas, knowledge, and opinions. But the authoring tools that most people understand, blogs and wikis, primarily guide users toward authoring text. In this work, we show that substantial gains in expressivity and communication would accrue if people could easily share richly structured information in meaningful visualizations. We then describe several extensions</abstract>
+	</publication>
+	<publication>
+		<title>Sync Kit: A Persistent Client-Side Database Caching Toolkit for Data Intensive Websites</title>
+		<year>2010</year>
+		<authors>edward benson,david r. karger,samuel r. madden</authors>
+		<jconf></jconf>
+		<label>4</label>
+		<keyword>Data Storage;Database Management;Relational Database;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a client-server toolkit called Sync Kit that demonstrates how client-side database storage can improve the performance of data intensive websites. Sync Kit is designed to make use of the embedded relational database dened in the upcoming HTML5 standard to ooad some data storage and processing from a web server onto the web browsers to which it serves content.</abstract>
+	</publication>
+	<publication>
+		<title>Effective Web-Scale Crawling Through Website Analysis</title>
+		<year>2006</year>
+		<authors>ivan gonzalez,daniel n. meredith,linda a. nguyen</authors>
+		<jconf></jconf>
+		<label>5</label>
+		<keyword>Focused Crawling;Web Crawler;Web Crawling;Web Pages;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>The web crawler space is often delimited into two general areas: full-web crawling and focused crawling. We present netSifter, a crawler system which integrates features from these two areas to provide an effective mechanism for web- scale crawling. netSifter utilizes a combination of page-level analytics and heuristics which are applied to a sample of web pages from a given website.</abstract>
+	</publication>
+	<publication>
+		<title>SW-Store: a vertically partitioned DBMS for Semantic Web data management</title>
+		<year>2009</year>
+		<authors>daniel j. abadi,samuel r. madden,katherine j. hollenbach</authors>
+		<jconf></jconf>
+		<label>4</label>
+		<keyword>Data Management;Large Scale;Perforation;Performance Improvement;Real World Application;Semantic Web;Semantic Web Technology;</keyword>
+		<organization>null</organization>
+		<abstract>EfficientmanagementofRDFdataisanimportant prerequisite for realizing the Semantic Web vision. Perfor- manceandscalabilityissuesarebecomingincreasinglypress- ing as Semantic Web technology is applied to real-world applications. In this paper, we examine the reasons why cur- rent data management solutions for RDF data scale poorly, and explore the fundamental scalability limitations of these approaches. We review the state of the art for improving performance of RDF databases</abstract>
+	</publication>
+</person>

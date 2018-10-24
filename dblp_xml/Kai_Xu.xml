@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kai Xu</FullName>
+	<publication>
+		<title>Debugging object-oriented programs with behavior views</title>
+		<year>2005</year>
+		<authors>donglin liang</authors>
+		<jconf>Automated and Algorithmic Debugging</jconf>
+		<label>475</label>
+		<keyword>Case Study;Object Oriented Programming;Software Development;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>A complex software system may perform many program tasks during execution to provide the required functionalities. To detect and localize bugs related to the implementation of these tasks, the software developers must be able to monitor the progress of the tasks during execution and check whether the actions for these tasks have been performed correctly. This paper presents a debugger</abstract>
+	</publication>
+	<publication>
+		<title>Monitoring with Behavior View Diagrams for Debugging</title>
+		<year>2005</year>
+		<authors>donglin liang</authors>
+		<jconf>Asia-Pacific Software Engineering Conference</jconf>
+		<label>475</label>
+		<keyword>Analysis and Design;uml sequence diagram;</keyword>
+		<organization>null</organization>
+		<abstract>UML sequence diagrams are widely used during require- ments analysis and design for specifying the expected mes- sage exchanges among a set of objects in various scenarios for the program to perform a certain task. In this paper, we present the behavior view diagrams, a type of extended se- quence diagrams, to facilitate execution monitoring durin g debugging. Using a</abstract>
+	</publication>
+	<publication>
+		<title>Testing Scenario Implementation with Behavior Contracts</title>
+		<year>2006</year>
+		<authors>donglin liang</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>475</label>
+		<keyword>Object Oriented;Software Development;Software Testing;Test Coverage;Design By Contract;Implementation Under Test;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents behavior contracts as a new asser- tion mechanism and a tool that uses such contracts to sup- port the testing of Object-Oriented (OO) systems. A be- havior contract models how the scenarios for performing a designated task are expected to be implemented. Based on this contract, our tool can automatically monitor the pro- gram execution for checking</abstract>
+	</publication>
+	<publication>
+		<title>Formally Defining a Graphical Language for Monitoring and Checking Object Interactions</title>
+		<year>2007</year>
+		<authors>donglin liang</authors>
+		<jconf>Model Driven Engineering Languages and Systems</jconf>
+		<label>475</label>
+		<keyword>Object Interaction;Monitoring and Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Test-Driven Component Integration with UML 2.0 Testing and Monitoring Profile</title>
+		<year>2007</year>
+		<authors>donglin liang</authors>
+		<jconf>International Conference on Quality Software</jconf>
+		<label>475</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Visual analysis of network centralities</title>
+		<year>2006</year>
+		<authors>tim dwyer,seok-hee hong,dirk koschützki,falk schreiber</authors>
+		<jconf>Asia Pacific Symposium on Information Visualisation</jconf>
+		<label>476</label>
+		<keyword>Biological Network;Graph Drawing;Network Analysis;Network Structure;Parallel Coordinates;Social Network;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Centrality analysis determines the importance of ver- tices in a network based on their connectivity within the network structure. It is a widely used technique to analyse network-structured data. A particularly important task is the comparison of di!eren t central- ity measures within one network. We present three methods for the exploration and comparison of cen- trality measures within a</abstract>
+	</publication>
+	<publication>
+		<title>Visualization and analysis of email networks</title>
+		<year>2007</year>
+		<authors>xiaoyan fu,seok-hee hong,nikola s. nikolov,xiaobin shen,yingxin wu</authors>
+		<jconf>Asia Pacific Symposium on Information Visualisation</jconf>
+		<label>476</label>
+		<keyword>Ambient Display;Communication Pattern;Indexing Terms;Network Visualization;Small World Network;Statistical Analysis;Theory and Method;User Interface;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents various methods for visualization and analysis of email networks; visualization on the surface of a sphere to re- veal communication patterns between different groups, a hierarchi- cal drawing displaying the centrality analysis of nodes to emphasize important nodes, a 2.5D visualization for temporal email networks to analyze the evolution of email relationships changing over time, and an</abstract>
+	</publication>
+	<publication>
+		<title>GraphScape: integrated multivariate network visualization</title>
+		<year>2007</year>
+		<authors>andrew cunningham,seok-hee hong,bruce h. thomas</authors>
+		<jconf>Asia Pacific Symposium on Information Visualisation</jconf>
+		<label>476</label>
+		<keyword>Graph Clustering;Graph Visualization;Multivariate Data;Multivariate Visualization;Network Structure;Network Visualization;Surface Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we introduce a new method, GraphScape, to visualize multivariate networks, i.e., graphs with multivariate data associated with their nodes. GraphScape adopts a landscape metaphor with network structure displayed on a 2D plane and the surface height in the third dimension represents node attribute. More than one attribute can be visualized simultaneously by using multiple sur- faces. In</abstract>
+	</publication>
+	<publication>
+		<title>Multiresolution Query Optimization in an Online Environment</title>
+		<year>2005</year>
+		<authors>xiaofang zhou</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>476</label>
+		<keyword>Cost Model;Data Transmission;large dataset;Query Optimization;Query Processing;web-based gis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Multiresolution (or multi-scale) techniques make it possible for Web-based GIS applications to access large dataset. The performance of such systems relies on data transmission over network and multires-olution query processing. In the literature the latter has received little research attention so far, and the existing methods are not capable of processing large dataset. In this paper, we aim to</abstract>
+	</publication>
+	<publication>
+		<title>Multiresolution Spatial Databases: Making Web-Based Spatial Applications Faster</title>
+		<year>2004</year>
+		<authors>xiaofang zhou,sham prasher,sai sun</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>476</label>
+		<keyword>Query Processing;Spatial Data;Spatial Database;</keyword>
+		<organization>null</organization>
+		<abstract>Spatial data has now been used extensively in the Web envi- ronment, providing online customized maps and supporting map-based applications. The full potential of Web-based spatial applications, how- ever, has yet to be achieved due to performance issues related to the large sizes and high complexity of spatial data. In this paper, we intro- duce a multiresolution approach to spatial</abstract>
+	</publication>
+	<publication>
+		<title>Seeing more than the graph: evaluation of multivariate graph visualization methods</title>
+		<year>2010</year>
+		<authors>andrew cunningham,bruce h. thomas</authors>
+		<jconf>Working Conference on Advanced Visual Interfaces</jconf>
+		<label>476</label>
+		<keyword>Graph Clustering;Graph Visualization;It Value;Multivariate Visualization;Network Visualization;Social Network;Social Network Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Many real-world networks are multivariate, i.e., they have attributes associated with nodes and/or edges. Examples include social networks whose nodes represent people and edges represent relationships. There is usually information about each person (such as name, age, and gender) and the relationship (such type, duration, and strength). Besides common graph analysis tasks (such as identifying the most influential or structurally</abstract>
+	</publication>
+	<publication>
+		<title>Visual Representations</title>
+		<year>2006</year>
+		<authors>carsten görg,mathias pohl,ermir qeli</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>476</label>
+		<keyword>Visual Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Biomedical Information Visualization</title>
+		<year>2006</year>
+		<authors>mircea lungu</authors>
+		<jconf>Dagstuhl Seminars</jconf>
+		<label>476</label>
+		<keyword>Information Visualization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Workshop Organizers' Message</title>
+		<year>2009</year>
+		<authors>shazia wasim sadiq,ke deng,xiaofang zhou,xiaochun yang,walid g. aref,alex delis,qing liu</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>476</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Detecting Projected Outliers in High-Dimensional Data Streams</title>
+		<year>2009</year>
+		<authors>ji zhang,qigang gao,hai h. wang,qing liu</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>476</label>
+		<keyword>Data Stream;High Dimensional Data;Multi Objective Genetic Algorithm;Outlier Detection;Search Method;Supervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the problem of projected outlier detection in high di- mensional data streams and propose a new technique, called Stream Projected Ouliter deTector (SPOT), to identify outliers embedded in subspaces. Sparse Subspace Tem- plate (SST), a set of subspaces obtained by unsupervised and/or supervised learn- ing processes, is constructed in SPOT to detect projected outliers effectively.</abstract>
+	</publication>
+	<publication>
+		<title>GEOMI: GEOmetry for Maximum Insight</title>
+		<year>2005</year>
+		<authors>adel ahmed,tim dwyer,michael forster,xiaoyan fu,joshua wing kei ho,seok-hee hong,dirk koschützki,colin murray,nikola s. nikolov,ronnie taib,alexandre tarassov</authors>
+		<jconf>Symposium on Graph Drawing</jconf>
+		<label>476</label>
+		<keyword>Complex Network;Interactive Method;Network Analysis;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the GEOMI system, a visual analysis tool for the visualisation and analysis of large and complex networks. GEOMI provides a collection of network analysis methods, graph lay- out algorithms and several graph navigation and interaction methods. GEOMI is part of a new generation of visual analysis tools combining graph visualisation techniques with network analysis methods. GEOMI is</abstract>
+	</publication>
+	<publication>
+		<title>Semi-bipartite Graph Visualization for Gene Ontology Networks</title>
+		<year>2009</year>
+		<authors>rohan williams,seok-hee hong,qing liu,ji zhang</authors>
+		<jconf>Symposium on Graph Drawing</jconf>
+		<label>476</label>
+		<keyword>Bipartite Graph;Gene Ontology;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gene Specific Co-regulation Discovery: An Improved Approach</title>
+		<year>2009</year>
+		<authors>ji zhang,qing liu</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>476</label>
+		<keyword>Compact Representation;Dna Microarray Data;ge netic algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Discovering gene co-regulatory relationships is a new but im- portant research problem in DNA microarray data analysis. The problem of gene specific co-regulation discovery is to, for a particular gene of in- terest, called the target gene, identify its strongly co-regulated genes and the condition subsets where such strong gene co-regulations are observed. The study on this problem can contribute</abstract>
+	</publication>
+	<publication>
+		<title>Surface k-NN Query Processing</title>
+		<year>2006</year>
+		<authors>ke deng,xiaofang zhou,heng tao shen,xuemin lin</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>476</label>
+		<keyword>Animal Movement;Efficient Query Processing;K Nearest Neighbor;Lower and Upper Bound;Query Processing;Road Network;Terrain Modeling;Shortest Path;</keyword>
+		<organization>null</organization>
+		<abstract>A k-NN query finds the k nearest-neighbors of a given point from a point database. When it is sufficient to mea- sure object distance using the Euclidian distance, the key to efficient k-NN query processing is to fetch and check the distances of a minimum number of points from the database. For many applications, such as vehicle movement along road</abstract>
+	</publication>
+	<publication>
+		<title>Direct Mesh: a Multiresolution Approach to Terrain Visualization</title>
+		<year>2004</year>
+		<authors>xiaofang zhou,xuemin lin</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>476</label>
+		<keyword>Data Retrieval;Data Structure;Indexing Method;Performance Improvement;Satisfiability;Spatial Index;Terrain Visualization;Tree Structure;Triangular Mesh;Level of Detail;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>Terrain can be approximated by a triangular mesh con- sisting millions of 3D points. Multiresolution triangular mesh (MTM) structures are designed to support applica- tions that use terrain data at variable levels of detail (LOD). Typically, an MTM adopts a tree structure where a parent node represents a lower-resolution approximation of its de- scendants. Given a region of interest (ROI)</abstract>
+	</publication>
+	<publication>
+		<title>PathBank: Web-Based Querying and Visualziation of an Integrated Biological Pathway Database</title>
+		<year>2006</year>
+		<authors>joshua wing kei ho,tristan manwaring,seok-hee hong,uwe röhm,david cho yau fung,tim kraska,david hart</authors>
+		<jconf>Computer Graphics, Imaging and Vision</jconf>
+		<label>476</label>
+		<keyword>Biological Data;Data Access;Data Retrieval;Database Query;Relational Database;Three Dimensions;Web Interface;web-based system;</keyword>
+		<organization>null</organization>
+		<abstract>PathBank is a web-based query and visualization sys- tem for biological pathways using an integrated pathway database. To address the needs for biologists to visualize and analyze biological pathways, PathBank is designed to be user-friendly, flexible and extensible. It is, to the best of our knowledge, the first web-based system that allows biological pathways to be visualized in three dimensions.</abstract>
+	</publication>
+	<publication>
+		<title>Visual Analysis of Overlapping Biological Networks</title>
+		<year>2009</year>
+		<authors>david cho yau fung,seok-hee hong,dirk koschützki,falk schreiber</authors>
+		<jconf>International Conference on Information Visualisation</jconf>
+		<label>476</label>
+		<keyword>Biological Network;Gene Regulatory Network;Metabolic Network;Visual Analysis;Escherichia Coli;</keyword>
+		<organization>null</organization>
+		<abstract>This investigates a new problem of visualizing a set of over- lapping networks. We present two methods for constructing visu- alization of two and three overlapping networks in three dimen- sions. Our methods aim to achieve both drawing aesthetics (or conventions) for each individual network and exposing the com- mon nodes between the overlapping networks. We evaluated our approaches using</abstract>
+	</publication>
+	<publication>
+		<title>2.5D Visualisation of Overlapping Biological Networks</title>
+		<year>2008</year>
+		<authors>david cho yau fung,seok-hee hong,dirk koschützki,falk schreiber</authors>
+		<jconf>Journal of Integrative Bioinformatics</jconf>
+		<label>476</label>
+		<keyword>Biological Data;Biological Network;Interconnection Network;Metabolic Network;Protein Interaction;Three Dimensional;Three Dimensions;Visual Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Biological data is often structured in the form of complex interconnected networks such as protein interaction and metabolic networks. In this paper, we investigate a new prob- lem of visualising such overlapping biological networks. Two networks overlap if they share some nodes and edges. We present an approach for constructing visualisations of two overlapping networks, based on a restricted three</abstract>
+	</publication>
+	<publication>
+		<title>A Multiresolution Terrain Model for Efficient Visualization Query Processing</title>
+		<year>2006</year>
+		<authors>xiaofang zhou,xuemin lin,heng tao shen,ke deng</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>476</label>
+		<keyword>Query Processing;Terrain Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A multi-resolution surface distance model for k-NN query processing</title>
+		<year>2008</year>
+		<authors>ke deng,xiaofang zhou,heng tao shen,qing liu,xuemin lin</authors>
+		<jconf>The Vldb Journal</jconf>
+		<label>476</label>
+		<keyword>Query Processing;Multi Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Error-Resilient Arithmetic Coding Algorithm for Compressed Meshes</title>
+		<year>2008</year>
+		<authors>zhi-quan cheng,bao li,yanzhen wang,gang dang,shiyao jin</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>477</label>
+		<keyword>Arithmetic Coding;Error Resilience;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A mass-spring model for surface mesh deformation based on shape matching</title>
+		<year>2006</year>
+		<authors>yanzhen wang,yueshan xiong,ke tan,guangyou guo</authors>
+		<jconf>Computer graphics and interactive techniques in Austalasia and South East Asia</jconf>
+		<label>477</label>
+		<keyword>Deformable Model;Geometric Feature;Inverse Dynamics;Linear Elasticity;Mesh Deformation;Real Time Simulation;Shape Matching;Virtual Reality;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we propose a mass-spring model based on shape matching for real-time deformable modeling in virtual reality systems. By defining a rigid core for surface mesh model and adding a new generalized spring for each mass, our surface mesh model can preserve its original geometric features such as volume and shape. Then, we use shape matching approaches to</abstract>
+	</publication>
+	<publication>
+		<title>A simple and stable feature-preserving smoothing method for contours-based reconstructed meshes</title>
+		<year>2006</year>
+		<authors>yueshan xiong,yanzhen wang,ke tan,guangyou guo</authors>
+		<jconf>Computer graphics and interactive techniques in Austalasia and South East Asia</jconf>
+		<label>477</label>
+		<keyword>Adaptive Mesh;Detection Algorithm;Feature Detection;Feature Preservation;Geometric Feature;Mesh Smoothing;Smoothing Method;Stable Process;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we develop a new feature preserving smoothing method for the irregular and coarse meshes reconstructed from 2D contours. To make the feature detecting robust, a new detecting algorithm using the continuity among adjacent contours is proposed. Then the original mesh is subdivided adaptively according to the detected geometric features and smoothed with isotropic method. With the help</abstract>
+	</publication>
+	<publication>
+		<title>A Mesh Meaningful Segmentation Algorithm Using Skeleton and Minima-Rule</title>
+		<year>2007</year>
+		<authors>zhi-quan cheng,bao li,yanzhen wang,gang dang,shiyao jin</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>477</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Adaptive Octree Textures Painting Algorithm</title>
+		<year>2009</year>
+		<authors>gang dang,hang li,zhi-quan cheng,yanzhen wang,bao li</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>477</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Non-rigid Registration in 3D Implicit Vector Space</title>
+		<year>2010</year>
+		<authors>zhi-quan cheng,wei jiang,gang dang,ralph r. martin,jun li,honghua li,yin chen,yanzhen wang,bao li,shiyao jin</authors>
+		<jconf>Shape Modeling International</jconf>
+		<label>477</label>
+		<keyword>Non-rigid Registration;Vector Space;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Quality encoding for tetrahedral mesh optimization</title>
+		<year>2009</year>
+		<authors>zhi-quan cheng,yanzhen wang,yueshan xiong,hao zhang</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>477</label>
+		<keyword>Tetrahedral Mesh;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic harmonic fields for surface processing</title>
+		<year>2009</year>
+		<authors>hao zhang,daniel cohen-or,yueshan xiong</authors>
+		<jconf>Computers &amp; Graphics</jconf>
+		<label>477</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>2D shape deformation based on rigid square matching</title>
+		<year>2008</year>
+		<authors>yanzhen wang,yueshan xiong,zhi-quan cheng</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<label>477</label>
+		<keyword>Shape Deformation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature-aligned shape texturing</title>
+		<year>2009</year>
+		<authors>daniel cohen-or,tao ju,ligang liu,hao zhang,shizhe zhou,yueshan xiong</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>477</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Partial intrinsic reflectional symmetry of 3D shapes</title>
+		<year>2009</year>
+		<authors>hao zhang,andrea tagliasacchi,ligang liu,guo li,min meng,yueshan xiong</authors>
+		<jconf>ACM Transactions on Graphics</jconf>
+		<label>477</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design, simulation and evaluation of kinematic alternatives for Insertable Robotic Effectors Platforms in Single Port Access Surgery</title>
+		<year>2010</year>
+		<authors>jienan ding,roger e. goldman,peter k. allen,dennis l. fowler,nabil simaan</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>478</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Actuation Compensation for Flexible Surgical Snakelike Robots with Redundant Remote Actuation</title>
+		<year>2006</year>
+		<authors>nabil simaan</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>478</label>
+		<keyword>Data Gathering;Error Compensation;Indexing Terms;Linear Estimation;Path Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents two actuation compensation methods for a snake-like robot implementing multi flexible backbones and actuation redundancy. This snake-like robot is designed for distal dexterity enhancement in MIS surgery of the throat. Actuation compensation is required to account for the flexibility of the actuation lines that connect this snake-like robot with its remote actuation units. The paper presents both</abstract>
+	</publication>
+	<publication>
+		<title>System design of an Insertable Robotic Effector Platform for Single Port Access (SPA) Surgery</title>
+		<year>2009</year>
+		<authors>roger e. goldman,jienan ding,peter k. allen,dennis l. fowler,nabil simaan</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>478</label>
+		<keyword>Control System;Depth Perception;Kinematic Analysis;Stereo Vision;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel design and preliminary kinematic analysis of an Insertable Robotic Effector Platform (IREP) for Single Port Access (SPA) Surgery. The IREP robot can be deployed into body cavity through a Ø15mm skin incision to perform SPA procedures. It consists of two snake-like continuum robots as slave surgical assistants for tissue manipulation, two parallelogram mechanisms for the</abstract>
+	</publication>
+	<publication>
+		<title>A Pilot Study of Robot-Assisted Cochlear Implant Surgery Using Steerable Electrode Arrays</title>
+		<year>2006</year>
+		<authors>jian zhang,nabil simaan,spiros manolidis</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>478</label>
+		<keyword>Distance Metric;Experimental Validation;Path Planning;Pilot Study;Cochlear Implant;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents results of a pilot study evaluating the efficacy of robotic assistance using novel steerable electrode arrays for cochlear implant surgery. The current surgical setup of cochlear implant surgery is briefly re- viewed and its limitations are highlighted. In an effort to reduce trauma to the structure of the cochlea, the kinematics and path planning for novel cochlear</abstract>
+	</publication>
+	<publication>
+		<title>Design and Integration of a Telerobotic System for Minimally Invasive Surgery of the Throat</title>
+		<year>2009</year>
+		<authors>nabil simaan,wei wei,ankur kapoor,peter kazanzides,russell h. taylor,paul flint</authors>
+		<jconf>International Journal of Robotic Research</jconf>
+		<label>478</label>
+		<keyword>Minimal Invasive Surgery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Investigation of the Intrinsic Force Sensing Capabilities of Continuum Robots</title>
+		<year>2008</year>
+		<authors>nabil simaan</authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>478</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Intrinsic Wrench Estimation and Its Performance Index for Multisegment Continuum Robots</title>
+		<year>2010</year>
+		<authors>nabil simaan</authors>
+		<jconf>IEEE Transactions on Robotics</jconf>
+		<label>478</label>
+		<keyword>Performance Index;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

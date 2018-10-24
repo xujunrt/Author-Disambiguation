@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Imran Ahmad</FullName>
+	<publication>
+		<title>Achieving High Performance in CORBA-Based Systems with Limited Hetero</title>
+		<year>2001</year>
+		<authors>shikharesh majumdar</authors>
+		<jconf>Object-Oriented Real-Time Distributed Computing</jconf>
+		<label>321</label>
+		<keyword>High Performance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Management of Grid Resources Using a Bi-level Decision-Making Architecture for &quot;Processable&quot; Bulk Data</title>
+		<year>2007</year>
+		<authors>shikharesh majumdar</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>321</label>
+		<keyword>Decision Making;Resource Use;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Two Level Approach for Managing Resource and Data Intensive Tasks in Grids</title>
+		<year>2008</year>
+		<authors>shikharesh majumdar</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>321</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Performance of resource management algorithms for &quot;Processable Bulk Data Transfer&quot; Tasks in Grid Environments</title>
+		<year>2008</year>
+		<authors>shikharesh majumdar</authors>
+		<jconf>Workshop on Software and Performance</jconf>
+		<label>321</label>
+		<keyword>Approximate Algorithm;Data Transfer;Distributed Computing Environment;Distributed System;Grid Computing;Grid Computing Environment;High Performance Computer;Resource Allocation;Resource Manager;Time Complexity;</keyword>
+		<organization>null</organization>
+		<abstract>Processable Bulk Data Transfer (PBDT) tasks are resource intensive concurrent tasks which involve transfer of a very large amount of data that has to be processed in some way before it can be used at a remote set of destination nodes called the sink nodes. A distributed computing environment, such as the Grid is a popular way to perform these</abstract>
+	</publication>
+</person>

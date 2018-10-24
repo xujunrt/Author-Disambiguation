@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Steffen Seitz</FullName>
+	<publication>
+		<title>Kalibrierung von 70-GHz-Oszilloskopen</title>
+		<year>2006</year>
+		<authors>meinhard spitzer,mark bieler,uwe siegner</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit</jconf>
+		<label>980</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

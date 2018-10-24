@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jianping Pan</FullName>
+	<publication>
+		<title>Identifying elephant flows through periodically sampled packets</title>
+		<year>2004</year>
+		<authors>tatsuya mori,masato uchida,ryoichi kawahara,shigeki goto</authors>
+		<jconf>Internet Measurement Conference</jconf>
+		<label>392</label>
+		<keyword>bayes theorem;Cost Effectiveness;Elephants;False Positive;High Speed Networks;Large Scale;Packet Sampling;Sampling Frequency;Traffic Engineered;False Negative;Operations and Management;</keyword>
+		<organization>null</organization>
+		<abstract>Identifying elephant flows is very important in developing effective and efficient traffic engineering schemes. In addition, obtaining the statistics of these flows is also very useful for network operation and management. On the other hand, with the rapid growth of link speed in recent years, packet sampling has become a very attractive and scalable means to measure flow statistics; however,</abstract>
+	</publication>
+	<publication>
+		<title>Identifying Heavy-Hitter Flows from Sampled Flow Statistics</title>
+		<year>2007</year>
+		<authors>tatsuya mori,tetsuya takine,ryoichi kawahara,masato uchida,shigeki goto</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>392</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

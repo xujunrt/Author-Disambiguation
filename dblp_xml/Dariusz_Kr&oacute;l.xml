@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dariusz Kr&amp;oacute;l</FullName>
+	<publication>
+		<title>ViroLab Security and Virtual Organization Infrastructure</title>
+		<year>2009</year>
+		<authors>jan meizner,maciej malawski,eryk ciepiela,marek kasztelnik,daniel harezlak,piotr nowakowski,tomasz gubala,wlodzimierz funika,marian bubak,tomasz mikolajczyk,pawel plaszczak,krzysztof wilk,matthias assel</authors>
+		<jconf>Advanced Parallel Programming Technologies</jconf>
+		<label>182</label>
+		<keyword>Virtual Organization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Virtual Laboratory for Development and Execution of Biomedical Collaborative Applications</title>
+		<year>2008</year>
+		<authors>marian bubak,tomasz gubala,maciej malawski,bartosz balis,wlodzimierz funika,tomasz bartynski,eryk ciepiela,daniel harezlak,marek kasztelnik,joanna kocot,piotr nowakowski,michal pelczar,jakub wach,matthias assel,alfredo tirado-ramos</authors>
+		<jconf>IEEE Symposium on Computer-Based Medical Systems</jconf>
+		<label>182</label>
+		<keyword>Collaborative Application;Virtual Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Environment for Collaborative Development and Execution of Virtual Laboratory Applications</title>
+		<year>2008</year>
+		<authors>wlodzimierz funika,daniel harezlak,marian bubak</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>182</label>
+		<keyword>Virtual Laboratory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Monitoring of SLA Parameters within VO for the SOA Paradigm</title>
+		<year>2009</year>
+		<authors>wlodzimierz funika,bartosz kryza,renata slota,jacek kitowski,kornel skalkowski,jakub sendor</authors>
+		<jconf>Parallel Processing and Applied Mathematics</jconf>
+		<label>182</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

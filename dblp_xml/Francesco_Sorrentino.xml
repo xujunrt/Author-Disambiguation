@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Francesco Sorrentino</FullName>
+	<publication>
+		<title>Meta-analysis for Atomicity Violations under Nested Locking</title>
+		<year>2009</year>
+		<authors>azadeh farzan,p. madhusudan</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>245</label>
+		<keyword>Concurrent Programs;meta analysis;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of determining, given a run of a con- current program, whether there is any alternate execution of it that vi- olates atomicity, where atomicity is dened using marked blocks of local runs. We show that if a concurrent program adopts nested locking, the problem of predicting atomicity violations is eciently solvable, with- out exploring all interleavings.</abstract>
+	</publication>
+	<publication>
+		<title>A NuSMV Extension for Graded-CTL Model Checking</title>
+		<year>2010</year>
+		<authors>alessandro ferrante,maurizio memoli,margherita napoli,mimmo parente</authors>
+		<jconf>Computer Aided Verification</jconf>
+		<label>245</label>
+		<keyword>Model Checking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Consistency of Web Conversations</title>
+		<year>2008</year>
+		<authors>jeffrey fischer,rupak majumdar</authors>
+		<jconf>Automated Software Engineering</jconf>
+		<label>245</label>
+		<keyword>Composite Web Service;Development Environment;Exception Handling;Parallel Composition;Satisfiability;State Space;</keyword>
+		<organization>null</organization>
+		<abstract>We describe BPELCheck, a tool for statically analyzing interactions of composite web services implemented in BPEL. Our algorithm is composi- tional, and checks each process interacting with an abstraction of its peers, without constructing the product state space. Interactions between pairs of peer processes are modeled using conversation automata which encode the set of valid message exchange sequences between the</abstract>
+	</publication>
+	<publication>
+		<title>Improvements for Truthful Mechanisms with Verifiable One-Parameter Selfish Agents</title>
+		<year>2005</year>
+		<authors>alessandro ferrante,gennaro parlato,carmine ventre</authors>
+		<jconf>Workshop on Approximation and Online Algorithms</jconf>
+		<label>245</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast payment schemes for truthful mechanisms with verification</title>
+		<year>2009</year>
+		<authors>alessandro ferrante,gennaro parlato,carmine ventre</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>245</label>
+		<keyword>Optimization Problem;Space Complexity;Spanning Tree;Upper Bound;Single Positive;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we study optimization problems with verifiable one-parameter selfish agents introduced by Auletta et al. (ICALP 2004). Our goal is to allocate load among the agents, provided that the secret data of each agent is a single positive real number: the cost they incur per unit load. In such a setting the payment is given after the load</abstract>
+	</publication>
+</person>

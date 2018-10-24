@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gunther Schmidt</FullName>
+	<publication>
+		<title>Finite Element Solution of Conical Diffraction Problems</title>
+		<year>2002</year>
+		<authors>johannes elschner,rainer hinder</authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>267</label>
+		<keyword>Finite Element Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boundary layer approximate approximations and cubature of potentials in domains</title>
+		<year>1999</year>
+		<authors>tjavdar ivanov,vladimir maz'ya</authors>
+		<jconf>Advances in Computational Mathematics</jconf>
+		<label>267</label>
+		<keyword>Boundary Layer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Approximate approximations from scattered data</title>
+		<year>2007</year>
+		<authors>f. lanzara,vladimir maz'ya</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>267</label>
+		<keyword>Error Estimate;Integral Operator;Partition of Unity;Scattered Data;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>The aim of this paper is to extend the approximate quasi-interpolation on a uniform grid by dilated shifts of a smooth and rapidly decaying function on a uniform grid to scattered data quasi-interpolation. It is shown that high order approximation of smooth functions up to some prescribed accuracy is possible, if the basis functions, which are centered at the scattered</abstract>
+	</publication>
+	<publication>
+		<title>On Quasi-Interpolation with Non-uniformly Distributed Centers on Domains and Manifolds</title>
+		<year>2001</year>
+		<authors>vladimir maz'ya</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>267</label>
+		<keyword>Generating Function;Large Classes;Distribution Center;</keyword>
+		<organization>null</organization>
+		<abstract>. The paper studies quasiinterpolation by scaled shifts of a smooth andrapidly decaying function. The centers are images of a smooth mapping of the hZnlattice in Rs, s  n, and the scaling parameters are proportional to h. We show that fora large class of generating functions the quasiinterpolants provide high order approximationsup to some prescribed accuracy. Although the approximants do</abstract>
+	</publication>
+</person>

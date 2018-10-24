@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Qin Ma</FullName>
+	<publication>
+		<title>Translation Correctness for First-Order Object-Oriented Pattern Matching</title>
+		<year>2007</year>
+		<authors>burak emir,martin odersky</authors>
+		<jconf>Asian Symposium on Programming Languages and Systems</jconf>
+		<label>838</label>
+		<keyword>Data Abstraction;Data Type;Object Oriented;Operational Semantics;Pattern Matching;First Order;Target Language;</keyword>
+		<organization>null</organization>
+		<abstract>Pattern matching makes ML programs more concise and readable, and these qualities are also sought in object-oriented settings. However, objects and classes come with open class hierarchies, extensibility requirements and the need for data abstraction, which all conflict with matching on concrete data types. Extractor-based pattern matching has been proposed to address this conflict. Extractors are user-defined methods that perform</abstract>
+	</publication>
+	<publication>
+		<title>Expressive Synchronization Types for Inheritance in the Join Calculus</title>
+		<year>2003</year>
+		<authors>luc maranget</authors>
+		<jconf>Asian Symposium on Programming Languages and Systems</jconf>
+		<label>838</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information Hiding in the Join Calculus</title>
+		<year>2006</year>
+		<authors>luc maranget</authors>
+		<jconf>Asian Computing Science Conference</jconf>
+		<label>838</label>
+		<keyword>Formal Semantics;Information Hiding;Language Design;Object Oriented;Object-oriented Programming Languages;Process Calculus;Programming Language;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>We aim to provide information hiding support in concur- rent object-oriented programming languages. We study the issue both at the object level and class level, in the context of an object-oriented extension of the Join calculus — a process calculus in the tradition of the ¼-calculus. In this extended abstract we focus on the class level and design a new</abstract>
+	</publication>
+	<publication>
+		<title>Compiling Pattern Matching in Join-Patterns</title>
+		<year>2004</year>
+		<authors>luc maranget</authors>
+		<jconf>International Conference on Concurrency Theory</jconf>
+		<label>838</label>
+		<keyword>Data Type;Pattern Matching;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an extension of the join-calculus with pattern matching on algebraic data types. Our initial motivation is twofold: to provide an intuitive semantics of the interaction between concurrency and pattern matching; to define a practical compilation scheme from extended join-definitions into ordinary ones plus ML pattern matching. To assess the correctness of our compilation scheme, we develop a the-</abstract>
+	</publication>
+	<publication>
+		<title>A Modular Model Composition Technique</title>
+		<year>2010</year>
+		<authors>pierre kelsen</authors>
+		<jconf>Fundamental Approaches to Software Engineering</jconf>
+		<label>839</label>
+		<keyword>Model Composition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Lightweight Approach for Defining the Formal Semantics of a Modeling Language</title>
+		<year>2008</year>
+		<authors>pierre kelsen</authors>
+		<jconf>Model Driven Engineering Languages and Systems</jconf>
+		<label>839</label>
+		<keyword>Formal Semantics;Modeling Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From platform-independent to platform-specific models using democles</title>
+		<year>2009</year>
+		<authors>christian glodt,pierre kelsen,nuno amálio</authors>
+		<jconf>Conference on Object-Oriented Programming Systems, Languages, and Applications</jconf>
+		<label>839</label>
+		<keyword>Code Generation;Modeling Tool;Software Systems;Visual Programming;Platform Independent Model;Platform Specific Model;</keyword>
+		<organization>null</organization>
+		<abstract>Democles is an executable modeling tool. It is based on a formally defined language named EP that allows both the structure and behavior of a system to be represented. Earlier versions of the tool allowed platform-independent models to be described using EP-models, which have the same level of granularity as classes. The present demonstration will focus on two new features</abstract>
+	</publication>
+	<publication>
+		<title>Domain Hierarchies: A Basic Theoretical Framework for Integrating Software Domains</title>
+		<year>2009</year>
+		<authors>pierre kelsen</authors>
+		<jconf>Theoretical Aspects of Software Engineering</jconf>
+		<label>839</label>
+		<keyword>Theoretical Framework;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Algebraic pattern matching in join calculus</title>
+		<year>2008</year>
+		<authors>luc maranget</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>838</label>
+		<keyword>Data Type;Pattern Matching;Process Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an extension of the join calculus with pattern matching on alge- braic data types. Our initial motivation is twofold: to provide an intuitive semantics of the interaction between concurrency and pattern matching; to define a practical compilation scheme from extended join definitions into ordinary ones plus ML pattern matching. To assess the correctness of our compilation scheme, we</abstract>
+	</publication>
+	<publication>
+		<title>Algebraic pattern matching in join calculus</title>
+		<year>2008</year>
+		<authors>luc maranget</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>838</label>
+		<keyword>Data Type;Pattern Matching;Process Calculus;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an extension of the join calculus with pattern matching on alge- braic data types. Our initial motivation is twofold: to provide an intuitive semantics of the interaction between concurrency and pattern matching; to define a practical compilation scheme from extended join definitions into ordinary ones plus ML pattern matching. To assess the correctness of our compilation scheme, we</abstract>
+	</publication>
+	<publication>
+		<title>Using VCL as an Aspect-Oriented Approach to Requirements Modelling</title>
+		<year>2010</year>
+		<authors>nuno amálio,pierre kelsen,christian glodt</authors>
+		<jconf></jconf>
+		<label>839</label>
+		<keyword>Aspect Oriented;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

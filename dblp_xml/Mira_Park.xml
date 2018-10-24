@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Mira Park</FullName>
+	<publication>
+		<title>An extensive comparison of recent classification tools applied to microarray data</title>
+		<year>2005</year>
+		<authors>jae won lee,jung bok lee,seuck heun song</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>757</label>
+		<keyword>Feature Selection;Gene Expression;Gene Selection;Microarray Data;Microarray Data Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Since most classi%cation articles have applied a single technique to a single gene expression dataset, it is crucial to assess the performance of each method through a comprehensive com- parative study. We evaluate by extensive comparison study extending Dudoit et al. (J. Amer. Statist. Assoc. 97 (2002) 77) the performance of recently developed classi%cation methods in microarray experiment, and</abstract>
+	</publication>
+	<publication>
+		<title>Correspondence analysis approach for finding allele associations in population genetic study</title>
+		<year>2007</year>
+		<authors>jae won lee,choongrak kim</authors>
+		<jconf>Computational Statistics &amp; Data Analysis</jconf>
+		<label>757</label>
+		<keyword>Correspondence Analysis;Population Genetics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

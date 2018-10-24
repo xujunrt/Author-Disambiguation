@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lei Wang</FullName>
+	<publication>
+		<title>Natural Language Specification of Performance Trees</title>
+		<year>2008</year>
+		<authors>nicholas j. dingle,william j. knottenbelt</authors>
+		<jconf>European Performance Engineering Workshop</jconf>
+		<label>511</label>
+		<keyword>Accident and Emergency;Natural Language;Performance Analysis;Requirement Specification;petri net;</keyword>
+		<organization>null</organization>
+		<abstract>The accessible specification of performance queries is a key challenge in performance analysis. To this end, we seek to combine the intuitive aspects of natural language query specification with the expres- sive power and flexibility of the Performance Tree formalism. Specifi- cally, we present a structured English grammar for Performance Trees, and use it to implement a Natural Language Query</abstract>
+	</publication>
+</person>

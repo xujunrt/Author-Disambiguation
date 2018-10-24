@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Magnusson</FullName>
+	<publication>
+		<title>Registration of colored 3D point clouds with a Kernel-based extension to the normal distributions transform</title>
+		<year>2008</year>
+		<authors>benjamin huhle,wolfgang strasser,achim j. lilienthal</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>650</label>
+		<keyword>3d point cloud;Color Space;Gaussian Mixture Model;Local Features;Mobile Robot;Model Building;Normal Distribution;Object Detection;Point Cloud;Probabilistic Approach;Range Data;Small Samples;Surface Model;Visual Cues;Time of Flight;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new algorithm for scan registration of colored 3D point data which is an extension to the Normal Distributions Transform (NDT). The probabilistic approach of NDT is extended to a color-aware registration algorithm by modeling the point distributions as Gaussian mixture-models in color space. We discuss different point cloud registration techniques, as well as alternative variants of the</abstract>
+	</publication>
+	<publication>
+		<title>Appearance-based loop detection from 3D laser data using the normal distributions transform</title>
+		<year>2009</year>
+		<authors>henrik andreasson,andreas nüchter,achim j. lilienthal</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>650</label>
+		<keyword>Normal Distribution;Performance Evaluation;Surface Representation;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new approach to appearance based loop detection from metric 3D maps, exploiting the NDT surface representation. Locations are described with feature histograms based on surface orientation and smoothness, and loop closure can be detected by matching feature histograms. We also present a quantitative performance evaluation using two real- world data sets, showing that the proposed method works</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of 3D registration reliability and speed - A comparison of ICP and NDT</title>
+		<year>2009</year>
+		<authors>andreas nüchter,christopher lörken,achim j. lilienthal,joachim hertzberg</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>650</label>
+		<keyword>3d registration;3d scanning;Development Process;Field Experiment;Normal Distribution;Iterative Closest Point Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>To advance robotic science it is important to per- form experiments that can be replicated by other researchers to compare different methods. However, these comparisons tend to be biased, since re-implementations of reference methods often lack thoroughness and do not include the hands-on expe- rience obtained during the original development process. This paper presents a thorough comparison of 3D scan</abstract>
+	</publication>
+	<publication>
+		<title>Has somethong changed here? Autonomous difference detection for security patrol robots</title>
+		<year>2007</year>
+		<authors>henrik andreasson,achim j. lilienthal</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>650</label>
+		<keyword>3d point cloud;Ccd Camera;Cell Size;Change Detection;Experimental Evaluation;Laser Range Scanner;Pose Estimation;Reference Model;Visual Features;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a system for autonomous change detection with a security patrol robot. In an initial step a reference model of the environment is created and changes are then detected with respect to the reference model as differences in coloured 3D point clouds, which are obtained from a 3D laser range scanner and a CCD camera. The suggested approach</abstract>
+	</publication>
+	<publication>
+		<title>Automatic appearance-based loop detection from three-dimensional laser data using the normal distributions transform</title>
+		<year>2009</year>
+		<authors>henrik andreasson,andreas nüchter,achim j. lilienthal</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>650</label>
+		<keyword>Normal Distribution;Three Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scan registration for autonomous mining vehicles using 3D-NDT</title>
+		<year>2007</year>
+		<authors>achim j. lilienthal,tom duckett</authors>
+		<jconf>Journal of Field Robotics</jconf>
+		<label>650</label>
+		<keyword>3d laser scanner;3d registration;Mobile Robot;Normal Distribution;Surface Representation;Iterative Closest Point Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Scan registration is an essential subtask when building maps based on range finder data from mobile robots. The problem is to deduce how the robot has moved between con- secutive scans, based on the shape of overlapping portions of the scans. This paper pre- sents a new algorithm for registration of 3D data. The algorithm is a generalization and improvement</abstract>
+	</publication>
+</person>

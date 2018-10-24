@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christian Fischer</FullName>
+	<publication>
+		<title>Multi-modal human-robot interface for interaction with a remotely operating mobile service robot</title>
+		<year>1997</year>
+		<authors>günther schmidt</authors>
+		<jconf>Advanced Robotics</jconf>
+		<label>141</label>
+		<keyword>human-robot interface;Mobile Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

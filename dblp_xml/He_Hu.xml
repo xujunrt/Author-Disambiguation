@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>He Hu</FullName>
+	<publication>
+		<title>Test-Point Selection Algorithm Using Small Signal Model for Scan-Based BIST</title>
+		<year>2003</year>
+		<authors>yihe sun</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<label>282</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Retargetable Compiler of VLIW ASIP for Media Signal Processing</title>
+		<year>2006</year>
+		<authors>zhou zhixiong,yang xu,yihe sun</authors>
+		<jconf>Embedded Systems and Applications</jconf>
+		<label>282</label>
+		<keyword>Code Generation;Register File;Signal Processing;Open Research Compiler;</keyword>
+		<organization>null</organization>
+		<abstract>In the last decade extensive researches have been carried out in ASIP (Application Specific Instruction Processor) design field. One of the key steps in ASIP design is code generation by a retargetable compiler. In this paper we describe our experience in implementing a retargetable compiler for VLIW ASIP based on ORC (Open Research Compiler) framework. Orienting towards a new register</abstract>
+	</publication>
+</person>

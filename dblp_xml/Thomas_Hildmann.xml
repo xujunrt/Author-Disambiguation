@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Hildmann</FullName>
+	<publication>
+		<title>Quantitative DNA methylation analysis based on four-dye trace data from direct sequencing of PCR amplificates</title>
+		<year>2004</year>
+		<authors>jörn lewin,armin o. schmitt,péter adorján,christian piepenbrock</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>1007</label>
+		<keyword>Base Composition;Cell Differentiation;Data Quality;Dna Methylation;Dna Sequence;Regulation of Gene Expression;Direct Sequence;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: Methylation of cytosines in DNA plays an import- ant role in the regulation of gene expression, and the analysis of methylation patterns is fundamental for the understanding of cell differentiation, aging processes, diseases and cancer development. Such analysis has been limited, because tech- nologies for detailed and efficient high-throughput studies have not been available. We have developed a novel</abstract>
+	</publication>
+</person>

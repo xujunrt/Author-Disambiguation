@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Aihua Wu</FullName>
+	<publication>
+		<title>WSDL-D: A Flexible Web Service Invocation Mechanism for Large Datasets</title>
+		<year>2008</year>
+		<authors>mark wiley,jianwen su</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>8</label>
+		<keyword>large dataset;massive datasets;Scientific Data;Web Service;Service Provider;</keyword>
+		<organization>null</organization>
+		<abstract>WSDL web services are built around the request-reply framework, requiring service invocation to be bundled together with all relevant data in a single message. Inefficiency becomes evident as web service providers begin to offer more robust services that require massive datasets (e.g., multimedia and scientific data). Under the WSDL standards, these hefty datasets must be ported to an appropriate message</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation Query Answer over Inconsistent Database with Annotations</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf></jconf>
+		<label>9</label>
+		<keyword>Query Answering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

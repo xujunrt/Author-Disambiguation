@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chong Wang</FullName>
+	<publication>
+		<title>MSRA Columbus at GeoCLEF 2006</title>
+		<year>2006</year>
+		<authors>zhisheng li,xing xie,xufa wang,wei-ying ma</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>136</label>
+		<keyword>Automatic Query Expansion;Geographic Information Retrieval;Indexation;Natural Language;Query Expansion;Search Engine;Text Indexing;Cross Language Evaluation Forum;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes the participation of Columbus Project of Microsoft Research Asia (MSRA) in the Geo- CLEF 2006 (a cross-language geographical retrieval track which is part of Cross Language Evaluation Forum). For location extraction from the corpus, we employ a gazetteer and rule based approach. We use the MSRA's IREngine as our text search engine. Both text indexing and geo-indexing</abstract>
+	</publication>
+	<publication>
+		<title>Exploring LDA-Based Document Model for Geographic Information Retrieval</title>
+		<year>2007</year>
+		<authors>zhisheng li,xing xie,xufa wang,wei-ying ma</authors>
+		<jconf>Cross-Language Evaluation Forum</jconf>
+		<label>136</label>
+		<keyword>Document Model;Geographic Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Indexing implicit locations for geographical information retrieval</title>
+		<year>2006</year>
+		<authors>zhisheng li,xing xie,xufa wang,wei-ying ma</authors>
+		<jconf>Geographic Information Retrieval</jconf>
+		<label>136</label>
+		<keyword>Geographic Information;Geographic Information Retrieval;Indexation;Information Retrieval;Cross Language Evaluation Forum;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>Local search has become a hot topic recently in information retrieval research area. How to retrieve geographical information correctly and efficiently is a key challenge to location-based search services. In this paper, we present a GIR (geographical information retrieval) system which uses implicit locations to improve retrieval performance. Experimental results based on Geo-CLEF 2006 (a cross-language geographical retrieval track which</abstract>
+	</publication>
+	<publication>
+		<title>Mining geographic knowledge using location aware topic model</title>
+		<year>2007</year>
+		<authors>jinggang wang,xing xie,wei-ying ma</authors>
+		<jconf>Geographic Information Retrieval</jconf>
+		<label>136</label>
+		<keyword>Location Awareness;Probabilistic Graphical Model;</keyword>
+		<organization>null</organization>
+		<abstract>Most online activities are associated with geographical locations. For example, people write personal blogs about interesting places they have ever been to; read news about important local events; and search the web to find delicious restaurants. Mining geographical knowledge from these online activities can greatly benefit lots of web applications. In this paper, we propose a Location Aware Topic Model</abstract>
+	</publication>
+	<publication>
+		<title>Robust Visual Tracking Via Incremental Maximum Margin Criterion</title>
+		<year>2006</year>
+		<authors>lu wang,ming wen,wenyuan wang</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>136</label>
+		<keyword>Visual Tracking;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MusicSense: contextual music recommendation using emotional allocation modeling</title>
+		<year>2007</year>
+		<authors>rui cai,chao zhang,lei zhang,wei-ying ma</authors>
+		<jconf>ACM Multimedia Conference</jconf>
+		<label>136</label>
+		<keyword>Emotional Expression;Generic Model;Web Documents;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel contextual music recom- mendation approach, MusicSense, to automatically suggest music when users read Web documents such as Weblogs. MusicSense matches music to a document's content, in terms of the emotions expressed by both the document and the mu- sic songs. To achieve this, we propose a generative model- Emotional Allocation Modeling-in which a</abstract>
+	</publication>
+	<publication>
+		<title>Using Term Clustering and Supervised Term Affinity Construction to Boost Text Classification</title>
+		<year>2005</year>
+		<authors>wenyuan wang</authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>136</label>
+		<keyword>Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving Web Browsing on Small Devices Based on Table Classification</title>
+		<year>2004</year>
+		<authors>xing xie,wenyuan wang,wei-ying ma</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>136</label>
+		<keyword>Web Browsing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Collapse-to-zoom: viewing web pages on small screen devices by interactively removing irrelevant content</title>
+		<year>2004</year>
+		<authors>patrick baudisch,xing xie,wei-ying ma</authors>
+		<jconf>User Interface Software and Technology</jconf>
+		<label>136</label>
+		<keyword>Marking Menu;Small Screen Device;Web Browsing;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Overview visualizations for small-screen web browsers were designed to provide users with visual context and to allow them to rapidly zoom in on tiles of relevant content. Given that content in the overview is reduced, however, users are often unable to tell which tiles hold the relevant material, which can force them to adopt a time-consuming hunt-and-peck strategy. Collapse-to-zoom addresses</abstract>
+	</publication>
+	<publication>
+		<title>An adaptive web page layout structure for small devices</title>
+		<year>2005</year>
+		<authors>xing xie,li-qun chen,wei-ying ma</authors>
+		<jconf>Multimedia Systems</jconf>
+		<label>136</label>
+		<keyword>Adaptive Content Delivery;Branch and Bound Algorithm;Document Representation;Dynamic Adaptation;Information Access;Information Acquisition;Mobile Device;User Study;Web Browsing;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>The limited display size of current small Inter- net devices is becoming a serious obstacle to information access. In this paper, we introduce a Document REpresen- tation for Scalable Structures (DRESS) to help informa- tion providers make composite documents, typically web pages, scalable in both logic and layout structure to sup- port effective information acquisition in heterogeneous en- vironments. Through</abstract>
+	</publication>
+	<publication>
+		<title>Off-line Chinese signature verification based on support vector machines</title>
+		<year>2005</year>
+		<authors>lv hairong,wenyuan wang,qing zhuo</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>136</label>
+		<keyword>Signature Verification;Support Vector Machine;Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a novel off-line Chinese signature verification method based on support vector machines. The method uses both static features and dynamic features. The static features include moment features and 16-direction distribution (an improvement on 4-direction distribution). The dynamic features include gray distribution and stroke width distribution. At last, support vector machine is used to classify the signatures. The</abstract>
+	</publication>
+	<publication>
+		<title>Links between PPCA and subspace methods for complete Gaussian density estimation</title>
+		<year>2006</year>
+		<authors>wenyuan wang</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>136</label>
+		<keyword>Covariance Matrix;Density Estimation;High Dimensionality;Indexing Terms;Machine Learning;Pattern Recognition;Robust Estimator;Subspace Method;Probabilistic Principal Component Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract, High-dimensional density estimation is a fundamental problem in pattern recognition and machine learning areas. In this letter, we show that, for complete high-dimensional Gaussian density estimation, two widely used methods, probabilistic principal component analysis and a typical subspace method using eigenspace decomposition, actually give the same results. Additionally, we present a unified view from the aspect of robust estimation</abstract>
+	</publication>
+	<publication>
+		<title>A Blind Source Separation Based Multibit Digital Audio Watermarking Scheme</title>
+		<year>2006</year>
+		<authors>xiaohong ma,xiaoyan ding,fuliang yin</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>137</label>
+		<keyword>Audio Watermarking;Blind Source Separation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Digital Audio Watermarking Scheme Based on Blind Source Separation</title>
+		<year>2005</year>
+		<authors>xiaohong ma,xiangping cong,fuliang yin</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>137</label>
+		<keyword>Audio Watermarking;Blind Source Separation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Audio Watermarking Scheme with Neural Network</title>
+		<year>2005</year>
+		<authors>xiaohong ma,xiangping cong,fuliang yin</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>137</label>
+		<keyword>Audio Watermarking;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MFI4Onto: Towards Ontology Registration on the Semantic Web</title>
+		<year>2006</year>
+		<authors>keqing he,yangfan he</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>138</label>
+		<keyword>Semantic Web;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MFI-3: An Enabler for Semantic Interoperation between Enterprise Information Resources</title>
+		<year>2009</year>
+		<authors>yangfan he,keqing he,jian wang</authors>
+		<jconf>Interoperability for Enterprise Software and Applications</jconf>
+		<label>138</label>
+		<keyword>Semantic Interoperability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Service-Oriented Semantic Interoperability Based on Connecting Ontologies</title>
+		<year>2009</year>
+		<authors>jian wang,keqing he,yangfan he</authors>
+		<jconf>Interoperability for Enterprise Software and Applications</jconf>
+		<label>138</label>
+		<keyword>Semantic Interoperability;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using MPMR to Support Developing Web Service Applications for Enterprises</title>
+		<year>2009</year>
+		<authors>keqing he,jian wang,yangfan he</authors>
+		<jconf>Interoperability for Enterprise Software and Applications</jconf>
+		<label>138</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Metamodel for Enabling a Service Oriented Architecture</title>
+		<year>2008</year>
+		<authors>baba piprani,keqing he</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>138</label>
+		<keyword>Data Model;Process Model;Process Modelling;Reusable Component;Service Oriented Architecture;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract>Process modelling initiatives generally develop their process models without much emphasis on data, burying their sequence of operations as a thread within a non-elementary process. More often than not, these buried operations are elementary atomic reusable components. The resulting models are generally not flexible or sufficiently reusable, suffering from update anomalies and redundancies. Addressing &quot;service&quot; as a major deliverable component,</abstract>
+	</publication>
+	<publication>
+		<title>Metamodel Framework for Ontology Registration (MMF4Ontology Registration) for Semantic Interoperation</title>
+		<year>2005</year>
+		<authors>yangfan he,keqing he,fei he</authors>
+		<jconf>Semantics, Knowledge and Grid</jconf>
+		<label>138</label>
+		<keyword>Semantic Interoperability;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

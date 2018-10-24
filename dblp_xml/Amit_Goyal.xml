@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Amit Goyal</FullName>
+	<publication>
+		<title>Discovering leaders from community actions</title>
+		<year>2008</year>
+		<authors>francesco bonchi,laks v. s. lakshmanan</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>37</label>
+		<keyword>Communicative Action;Frequent Pattern;Frequent Pattern Discovery;Frequent Pattern Mining;Social Network;Time Window;Viral Marketing;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a novel frequent pattern mining approach to discover leaders and tribes in social networks. In particular, we consider social networks where users perform actions. Actions may be as simple as tagging resources (urls) as in del.icio.us, rating songs as in Yahoo! Music, or movies as in Yahoo! Movies, or users buying gadgets such as cameras, handhelds, etc. and</abstract>
+	</publication>
+	<publication>
+		<title>GuruMine: A Pattern Mining System for Discovering Leaders and Tribes</title>
+		<year>2009</year>
+		<authors>on byung-won,francesco bonchi,laks v. s. lakshmanan</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>37</label>
+		<keyword>Graphical Interface;Iterative Refinement;Pattern Discovery;Pattern Mining;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract— In this demo we introduce GuruMine, a pattern mining system for the discovery of leaders, i.e., influential users in social networks, and their tribes, i.e., a set of users usually influenced by the same leader over several actions. GuruMine,is built upon a novel pattern mining framework for leaders discovery, that we introduced in [1]. In particular, we consider social</abstract>
+	</publication>
+	<publication>
+		<title>Learning influence probabilities in social networks</title>
+		<year>2010</year>
+		<authors>francesco bonchi,laks v. s. lakshmanan</authors>
+		<jconf>Web Search and Data Mining</jconf>
+		<label>37</label>
+		<keyword>Building Model;Learning Model;Social Network;Viral Marketing;</keyword>
+		<organization>null</organization>
+		<abstract>Recently, there has been tremendous interest in the phe- nomenon of influence propagation in social networks. The studies in this area assume they have as input to their prob- lems a social graph with edges labeled with probabilities of influence between users. However, the question of where these probabilities come from or how they can be computed from real social</abstract>
+	</publication>
+	<publication>
+		<title>Approximation Analysis of Influence Spread in Social Networks</title>
+		<year>2010</year>
+		<authors>francesco bonchi,laks v. s. lakshmanan</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>37</label>
+		<keyword>Approximate Algorithm;Optimization Problem;Seed Set;Set Cover;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract>In the context of influence propagation in a social graph, we can identify three orthogonal dimensions - the number of seed nodes activated at the beginning (known as budget), the expected number of activated nodes at the end of the propagation (known as expected spread or coverage), and the time taken for the propagation. We can constrain one or two</abstract>
+	</publication>
+	<publication>
+		<title>Use of AI in Query Optimization of Relational Databases</title>
+		<year>2006</year>
+		<authors>laurentiu vasiliu,brahmananda sapkota</authors>
+		<jconf>International Conference on Tools with Artificial Intelligence</jconf>
+		<label>38</label>
+		<keyword>Query Optimization;Relational Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

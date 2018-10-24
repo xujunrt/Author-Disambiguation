@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ke Chen</FullName>
+	<publication>
+		<title>Speaker Modeling with Various Speech Representations</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>International Conference on Biometric Authentication</jconf>
+		<label>487</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boosting Input/Output Hidden Markov Models for Sequence Classification</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>487</label>
+		<keyword>Hidden Markov Model;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Personalized News Reading via Hybrid Learning</title>
+		<year>2004</year>
+		<authors>sunny yeung</authors>
+		<jconf>Intelligent Data Engineering and Automated Learning</jconf>
+		<label>487</label>
+		<keyword>Hybrid Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A model-directed image understanding system for computer vision</title>
+		<year>1990</year>
+		<authors>huasheng chen</authors>
+		<jconf>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</jconf>
+		<label>487</label>
+		<keyword>Computer Vision;Image Understanding;Knowledge Base;Knowledge Representation;Spatial Reasoning;Spatial Relation;Top Down;</keyword>
+		<organization>null</organization>
+		<abstract>An important research topic in AI is the discovery of constraints. As constraints. In this paper, we present a model-directed image understanding prototype to support computer vision, which can recover constraints of an image by means of the spatial relation and spatial reasoning. according to a model. In the prototype, an object is viewed as an arrangement of two types</abstract>
+	</publication>
+	<publication>
+		<title>Ensemble Learning with Active Data Selection for Semi-Supervised Pattern Classification</title>
+		<year>2007</year>
+		<authors>shihai wang</authors>
+		<jconf>IJCNN</jconf>
+		<label>487</label>
+		<keyword>Ensemble Learning;Pattern Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Capture Inter-Speaker Information with a Neural Network for Speaker Identification</title>
+		<year>2000</year>
+		<authors>lan wang,huisheng chi</authors>
+		<jconf>IJCNN</jconf>
+		<label>487</label>
+		<keyword>Speaker Identification;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Ensemble of Competitive Learning Networks with Different Representations for Temporal Data Clustering</title>
+		<year>2006</year>
+		<authors>yun yang</authors>
+		<jconf>IJCNN</jconf>
+		<label>487</label>
+		<keyword>Competitive Learning;Temporal Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Universal Background Models for Real-time Speaker Change Detection</title>
+		<year>2003</year>
+		<authors>ting-yao wu,lie lu,hongjiang zhang</authors>
+		<jconf>Multimedia Modeling</jconf>
+		<label>487</label>
+		<keyword>Change Detection;Distance Measure;Feature Vector;Gaussian Mixture Model;Prior Knowledge;Real Time;Universal Background Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of real-time speaker change detection in TV news broadcast, in which no prior knowledge on speakers is assumed. To enhance the effect of the reliable frames in a speech stream, we propose a new approach to feature categorization based on Gaussian Mixture Model - Universal Background Model (GMM-UBM). The feature vectors are categorized into three</abstract>
+	</publication>
+	<publication>
+		<title>Regularized Boost for Semi-Supervised Learning</title>
+		<year>2007</year>
+		<authors>shihai wang</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>487</label>
+		<keyword>Cost Function;Decision Rule;Ensemble Learning;Inductive Learning;Semi Supervised Learning;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract>Semi-supervised inductive learning concerns how to learn a decision rule from a data set containing both labeled and unlabeled data. Several boosting algorithms have been extended to semi-supervised learning with various strategies. To our knowledge, however, none of them takes local smoothness constraints among data into account during ensemble learning. In this paper, we introduce a local smooth- ness regularizer</abstract>
+	</publication>
+	<publication>
+		<title>Perceiving without Learning: From Spirals to Inside/Outside Relations</title>
+		<year>1998</year>
+		<authors>deliang l. wang</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>487</label>
+		<keyword>General Solution;Human Performance;Time Delay;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Modular Neural Network Architecture for Pattern Classification Based on Different Feature Sets</title>
+		<year>1999</year>
+		<authors>huisheng chi</authors>
+		<jconf>International Journal of Neural Systems</jconf>
+		<label>487</label>
+		<keyword>Em Algorithm;Model Selection;Nite Mixture Models;Parameter Estimation;Pattern Classification;Maximum Likelihood;Modular Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a novel connectionist method for the use of dierent feature sets in pattern classication. Unlike traditional methods, e.g., combination of multiple classiers and use of a composite feature set, our method copes with the problem based on an idea of soft competition on dierent feature sets developed in our earlier work. An alternative modular neural network architecture is</abstract>
+	</publication>
+	<publication>
+		<title>A method of combining multiple probabilistic classifiers through soft competition on different feature sets</title>
+		<year>1998</year>
+		<authors>huisheng chi</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>487</label>
+		<keyword>Combination of Multiple Classifiers;Em Algorithm;Expectation Maximization;Finite Mixture Model;Learning Algorithm;Radial Basis Function Network;Speaker Identification;</keyword>
+		<organization>null</organization>
+		<abstract>A novel method is proposed for combining multiple probabilistic classifiers on di⁄erent feature sets. In order to achieve the improved classification performance, a generalized finite mixture model is proposed as a linear combination scheme and implemented based on radial basis function networks. In the linear combination scheme, soft competition on di⁄erent feature sets is adopted as an automatic feature rank</abstract>
+	</publication>
+	<publication>
+		<title>A self-generating modular neural network architecture for supervised learning</title>
+		<year>1997</year>
+		<authors>liping yang,xiang yu,huisheng chi</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>487</label>
+		<keyword>Supervised Learning;Modular Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Methods of Combining Multiple Classifiers with Different Features and Their Applications to Text-Independent Speaker Identification</title>
+		<year>1997</year>
+		<authors>lan wang,huisheng chi</authors>
+		<jconf>International Journal of Pattern Recognition and Artificial Intelligence</jconf>
+		<label>487</label>
+		<keyword>Combination of Multiple Classifiers;Em Algorithm;Evidential Reasoning;Feature Extraction;Multiple Classifiers;Pattern Recognition;Speaker Identification;Training Algorithm;Winner Take All;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>In practical applications of pattern recognition, there are often different features extracted from raw data which needs recognizing. Methods of combining multiple classifiers with different features are viewed as a general problem in various application areas of pattern recognition. In this paper, a systematic inves- tigation has been made and possible solutions are classified into three frameworks, i.e. linear opinion</abstract>
+	</publication>
+	<publication>
+		<title>Combining Linear Discriminant Functions with Neural Networks for Supervised Learning</title>
+		<year>1997</year>
+		<authors>xiang yu,huisheng chi</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<label>487</label>
+		<keyword>Automatic Generation;Binary Tree;Hybrid Architecture;Supervised Learning;Tree Structure;Decision Tree;Linear Discriminant Function;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>A novel supervised learning method is presented by combining linear discriminant functionswith neural networks. The proposed method results in a tree-structured hybrid architecture. Dueto constructive learning, the binary tree hierarchical architecture is automatically generated by acontrolled growing process for a specific supervised learning task. Unlike the classic decision tree,the linear discriminant functions are merely employed in the intermediate level of</abstract>
+	</publication>
+	<publication>
+		<title>A dynamically coupled neural oscillator network for image segmentation</title>
+		<year>2002</year>
+		<authors>deliang l. wang</authors>
+		<jconf>Neural Networks</jconf>
+		<label>487</label>
+		<keyword>Image Processing;Image Segmentation;Image Simulation;Neural Oscillator;Noise Removal;Oscillations;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a dynamically coupled neural oscillator network for image segmentation. Instead of pair-wise coupling, an ensemble of oscillators coupled in a local region is used for grouping. We introduce a set of neighborhoods to generate dynamical coupling structures associated with a specific oscillator. Based on the proximity and similarity principles, two grouping rules are proposed to explicitly consider the</abstract>
+	</publication>
+	<publication>
+		<title>Improved learning algorithms for mixture of experts in multiclass classification</title>
+		<year>1999</year>
+		<authors>lei xu,huishen chi</authors>
+		<jconf>Neural Networks</jconf>
+		<label>487</label>
+		<keyword>Em Algorithm;Expectation Maximization;iterative reweighted least squares;Learning Algorithm;Mixture of Experts;multiclass classification;Supervised Learning;Hierarchical Mixture of Experts;Modular Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Mixture of experts (ME) is a modular neural network architecture for supervised learning. A double-loop Expectation-Maximization (EM)algorithm has been introduced to the ME architecture for adjusting the parameters and the iteratively reweighted least squares (IRLS)algorithm is used to perform maximization in the inner loop [Jordan, M.I., Jacobs, R.A. (1994). Hierarchical mixture of experts and the EMalgorithm, Neural Computation, 6(2), 181--214].</abstract>
+	</publication>
+	<publication>
+		<title>Text-Dependent Speaker Identification Based on Input/Output HMMs: An Empirical Study</title>
+		<year>1996</year>
+		<authors>dahong xie,huisheng chi</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<label>487</label>
+		<keyword>Dynamic Program;Em Algorithm;Empirical Study;General Linear Model;Multilayer Perceptron;Speaker Identification;Hidden Markov Model;Input Output;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we explore the Input/Output HMM(IOHMM) architecture for a substantial problem, that of text-dependent speaker identification. For subnetworks modeled wi th generalized linear models, we extend the IRLS algorithm to the M-step of the corresponding EM algorithm. Experimental results show that the improved EM algorithm yields significantly faster traini ng than the original one. In com- parison with</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Smoothing via Contextual and Local Discontinuities</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>487</label>
+		<keyword>Adaptive Smoothing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Erratum to &quot;Adaptive Smoothing via Contextual and Local Discontinuities</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>487</label>
+		<keyword>Adaptive Smoothing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards better making a decision in speaker verification</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>487</label>
+		<keyword>Speaker Verification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A connectionist method for pattern classification with diverse features</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>487</label>
+		<keyword>Em Algorithm;Expectation Maximization;Learning Algorithm;Mixture of Experts;Multiple Classifiers;Parameter Estimation;Pattern Classification;Speaker Identification;Maximum Likelihood;Modular Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>A novel connectionist method is proposed to simultaneously use diverse features in an optimal way for pattern classification. Unlike methods of combining multiple classifiers, a modular neural network architecture is proposed through use of soft competition among diverse features. Parameter estimation in the proposed architecture is treated as a maximum . likelihood problem, and an Expectation-Maximization EM learning algorithm is</abstract>
+	</publication>
+	<publication>
+		<title>On the use of nearest feature line for speaker identification</title>
+		<year>2002</year>
+		<authors>ting-yao wu,hongjiang zhang</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>487</label>
+		<keyword>Pattern Classification;Speaker Identification;Nearest Feature Line;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Asa new  pattern  classification  method,  Nearest  Feature  Line  (NFL)  provides  an  effective wayto tackle the sort of patternrecognition problems where onlylim ited data are</abstract>
+	</publication>
+	<publication>
+		<title>On the use of different speech representations for speaker modeling</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>487</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining Competitive Learning Networks of Various Representations for Sequential Data Clustering</title>
+		<year>2007</year>
+		<authors>yun yang</authors>
+		<jconf></jconf>
+		<label>487</label>
+		<keyword>Cluster Analysis;Competitive Learning;Data Clustering;Data Representation;Ensemble Learning;Feature Space;Model Selection;Number of Clusters;Time Series;Time Series Analysis;Rival Penalized Competitive Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Sequential data clustering provides useful techniques for condensing and summarizing information conveyed in sequential data, which is demanded in various fields ranging from time series analysis to video clip understanding. In this chapter, we propose a novel approach to sequential data clustering by combining multiple competitive learning networks incorporated by various representations of sequential data and thus the clustering will</abstract>
+	</publication>
+	<publication>
+		<title>Efficient parallelization of the iterative solution of a coupled fluid-structure interaction problem</title>
+		<year>2007</year>
+		<authors>martyn d. hughes</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<label>488</label>
+		<keyword>Fluid Structure Interaction;Iterative Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Efficient Methods for Detecting Hopf bifurcation with Applications to Power System Instability Prediction</title>
+		<year>2003</year>
+		<authors>a. hussein</authors>
+		<jconf>International Journal of Bifurcation and Chaos</jconf>
+		<label>488</label>
+		<keyword>hopf bifurcation;Power System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Adapting Test Function Methods for Fast Detection of fold bifurcations in Power Systems</title>
+		<year>2002</year>
+		<authors>a. hussein,haibin wan</authors>
+		<jconf>International Journal of Bifurcation and Chaos</jconf>
+		<label>488</label>
+		<keyword>Adaptive Testing;Power System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Preconditioning and convergence in the right norm</title>
+		<year>2007</year>
+		<authors>raymond h. chan</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast iterative and preconditioning methods for linear and non-linear systems</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword>Non Linear System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On a Recursive Schur Preconditioner for Iterative Solution of a Class of Dense Matrix Problems</title>
+		<year>2003</year>
+		<authors>judith m. ford,david j. evans</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword>Iterative Solution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New wavelet preconditioner for solving boundary integral equations over nonsmooth boundaries</title>
+		<year>2004</year>
+		<authors>stuart c. hawkins</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword>Boundary Integral Equation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient preconditioned iterative solver for solving a coupled fluid structure interaction problem</title>
+		<year>2004</year>
+		<authors>martyn d. hughes</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword>Fluid Structure Interaction;Iterative Solver;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An improved and accelerated non-linear multigrid method for total-variation denoising</title>
+		<year>2005</year>
+		<authors>joseph savage</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<label>488</label>
+		<keyword>Multigrid Method;Total Variation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Nonlinear Multigrid Method for Total Variation Minimization from Image Restoration</title>
+		<year>2007</year>
+		<authors>xue-cheng tai</authors>
+		<jconf>Journal of Scientific Computing</jconf>
+		<label>488</label>
+		<keyword>Image Restoration;Iterative Solver;Multigrid Method;Multilevel Method;piecewise linear;primal-dual method;Total Variation;Total Variation Minimization;Variational Formulation;First Order;</keyword>
+		<organization>null</organization>
+		<abstract>Image restoration has been an active research topic and variational formulations are particularly effective in high quality recovery. Although there exist many modelling and theoretical results, available iterative solvers are not yet robust in solving such modeling equations. Recent attempts on developing optimisation multigrid methods have been based on first order conditions. Different from this idea, this paper proposes to</abstract>
+	</publication>
+	<publication>
+		<title>Flexible parallelization of fast wavelet transforms</title>
+		<year>2003</year>
+		<authors>judith m. ford,neville j. ford</authors>
+		<jconf>Parallel Algorithms and Applications</jconf>
+		<label>488</label>
+		<keyword>Fast Wavelet Transform;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallel algorithms of the Purcell method for direct solution of linear systems</title>
+		<year>2002</year>
+		<authors>choi h. lai</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>488</label>
+		<keyword>Linear System;Parallel Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multigrid Algorithm for High Order Denoising</title>
+		<year>2010</year>
+		<authors>carlos brito-loeza</authors>
+		<jconf></jconf>
+		<label>488</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Multilevel Algorithm for a Minimization Problem in Impulse Noise Removal</title>
+		<year>2008</year>
+		<authors>raymond h. chan</authors>
+		<jconf>Siam Journal on Scientific Computing</jconf>
+		<label>488</label>
+		<keyword>Conjugate Gradient Method;Image Restoration;Impulse Noise;Multilevel Algorithm;Multilevel Method;Newton Method;Numerical Experiment;Optimal Method;Pepper;Variational Method;</keyword>
+		<organization>null</organization>
+		<abstract>An efiective 2-phase method for removing impulse noise was recently proposed. Its phase 1 identifles noisy pixel candidates by using median-type fllters. Then in phase 2, it restores only the noisy pixel candidates by some variational methods. The resulting method can handle salt-and-pepper noise and random-valued impulse noise of noise level as high as 90% and 60% respectively. The aim</abstract>
+	</publication>
+	<publication>
+		<title>A Multilevel Algorithm for Simultaneously Denoising and Deblurring Images</title>
+		<year>2010</year>
+		<authors>raymond h. chan</authors>
+		<jconf>Siam Journal on Scientific Computing</jconf>
+		<label>488</label>
+		<keyword>Multilevel Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Implicit Wavelet Sparse Approximate Inverse Preconditioner</title>
+		<year>2005</year>
+		<authors>stuart c. hawkins</authors>
+		<jconf>Siam Journal on Scientific Computing</jconf>
+		<label>488</label>
+		<keyword>Sparse Approximate Inverse;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Two Multigrid Algorithms for Modeling Variational Multiphase Image Segmentation</title>
+		<year>2009</year>
+		<authors>n. badshah</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>488</label>
+		<keyword>Image Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On High-Order Denoising Models and Fast Algorithms for Vector-Valued Images</title>
+		<year>2010</year>
+		<authors>carlos brito-loeza</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>488</label>
+		<keyword>Fast Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimization of the Sliding Window Size for Protein Structure Prediction</title>
+		<year>2006</year>
+		<authors>lukasz a. kurgan,jishou ruan</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>489</label>
+		<keyword>Protein Structure Prediction;Sliding Window;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Prediction of the Number of Helices for the Twilight Zone Proteins</title>
+		<year>2006</year>
+		<authors>kanaka durga kedarisetti,aashima kapoor,lukasz a. kurgan</authors>
+		<jconf>Symposium on Computational Intelligence in Bioinformatics and Computational Biology</jconf>
+		<label>489</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>HuMiTar: A sequence-based method for prediction of human microRNA targets</title>
+		<year>2008</year>
+		<authors>jishou ruan,hanzhe chen,lukasz a. kurgan,chunsheng kang,peiyu pu</authors>
+		<jconf>Algorithms for Molecular Biology</jconf>
+		<label>489</label>
+		<keyword>Computational Complexity;Computational Method;Experimental Validation;False Positive;Gene Regulation;Machine Learning;microrna;noncoding rna;Prediction Method;Roc Analysis;Score Function;Signal To Noise Ratio;Species Conservation;untranslated region;Base Pair;False Positive Rate;High Throughput;Nucleotides;True Positive;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: MicroRNAs (miRs) are small noncoding RNAs that bind to complementary/partially complementary sites in the 3' untranslated regions of target genes to regulate protein production of the target transcript and to induce mRNA degradation or mRNA cleavage. The ability to perform accurate, high-throughput identification of physiologically active miR targets would enable functional characterization of individual miRs. Current target prediction methods</abstract>
+	</publication>
+	<publication>
+		<title>PFRES: protein fold classification by using evolutionary information and predicted secondary structure</title>
+		<year>2007</year>
+		<authors>lukasz a. kurgan</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>489</label>
+		<keyword>Base Composition;Information Extraction;Protein Family;Protein Folding;Protein Structure;Secondary Structure;Secondary Structure Prediction;Sequence Similarity;Structural Similarity;Structure Prediction;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: The number of protein families has been estimated to be as small as 1000. Recent study shows that the growth in discovery of novel structures that are deposited into PDB and the related rate of increase of SCOP categories are slowing down. This indicates that the protein structure space will be soon covered and thus we may be able</abstract>
+	</publication>
+	<publication>
+		<title>Accurate sequence-based prediction of catalytic residues</title>
+		<year>2008</year>
+		<authors>tuo zhang,hua zhang,shiyi shen,jishou ruan,lukasz a. kurgan</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>489</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>SCPRED: Accurate prediction of protein structural class for sequences of twilight-zone similarity with predicting sequences</title>
+		<year>2008</year>
+		<authors>lukasz a. kurgan,krzysztof j. cios</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>489</label>
+		<keyword>Ensemble of Classifiers;Indexation;Information Extraction;Logistic Regression;Physicochemical Properties;Prediction Accuracy;Prediction Method;Protein Structure;Protein Structure Prediction;Secondary Structure;Secondary Structure Prediction;Sequence Similarity;Structural Similarity;Structure Prediction;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Protein structure prediction methods provide accurate results when a homologous protein is predicted, while poorer predictions are obtained in the absence of homologous templates. However, some protein chains that share twilight-zone pairwise identity can form similar folds and thus determining structural similarity without the sequence similarity would be desirable for the structure prediction. The folding type of a protein</abstract>
+	</publication>
+	<publication>
+		<title>Sequence based residue depth prediction using evolutionary information and predicted secondary structure</title>
+		<year>2008</year>
+		<authors>hua zhang,tuo zhang,shiyi shen,jishou ruan,lukasz a. kurgan</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>489</label>
+		<keyword>Cross Validation;Fold Recognition;Information Extraction;Protein Design;Protein Folding;Protein Sequence;Secondary Structure;Secondary Structure Prediction;Solvent Accessibility;Structure and Function;Uniform Distribution;Amino Acid;Detection Rate;Mean Absolute Error;Relative Error;</keyword>
+		<organization>null</organization>
+		<abstract>BACKGROUND: Residue depth allows determining how deeply a given residue is buried, in contrast to the solvent accessibility that differentiates between buried and solvent-exposed residues. When compared with the solvent accessibility, the depth allows studying deep-level structures and functional sites, and formation of the protein folding nucleus. Accurate prediction of residue depth would provide valuable information for fold recognition, prediction</abstract>
+	</publication>
+	<publication>
+		<title>Prediction of integral membrane protein type by collocated hydrophobic amino acid pairs</title>
+		<year>2009</year>
+		<authors>yingfu jiang,li du,lukasz a. kurgan</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>489</label>
+		<keyword>Membrane Protein;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Prediction of protein structural class using novel evolutionary collocation-based sequence representation</title>
+		<year>2008</year>
+		<authors>lukasz a. kurgan,jishou ruan</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>489</label>
+		<keyword>Domain Structure;Prediction Accuracy;Prediction Method;Protein Sequence;Protein Structure;Support Vector Machine;Amino Acid;Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Knowledge of structural classes is useful in understanding of folding patterns in proteins. Although existing structural class prediction methods applied virtually all state-of-the-art classifiers, many of them use a rela- tively simple protein sequence representation that often includes amino acid (AA) composition. To this end, we pro- pose a novel sequence representation that incorporates evolutionary information encoded using PSI-BLAST profile-</abstract>
+	</publication>
+	<publication>
+		<title>Hbm infty Fuzzy Filtering of Nonlinear Systems With Intermittent Measurements</title>
+		<year>2009</year>
+		<authors>huijun gao,yan zhao,james lam</authors>
+		<jconf>IEEE Transactions on Fuzzy Systems</jconf>
+		<label>489</label>
+		<keyword>Nonlinear System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Delay-Dependent Exponential Stability for Neural Networks With Time Delay</title>
+		<year>2008</year>
+		<authors>shaoshuai mou,huijun gao,wenyi qiang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>489</label>
+		<keyword>Exponential Stability;Time Delay;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Online Solution of Linear Time-Varying Matrix Equation AXB-C=0</title>
+		<year>2008</year>
+		<authors>shuai yue,yunong zhang</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>490</label>
+		<keyword>Matrix Equation;Linear Time Varying;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation of Gradient-Based Neural Network for Online Matrix Inversion</title>
+		<year>2007</year>
+		<authors>yunong zhang,weimu ma,xiao-dong li</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>490</label>
+		<keyword>Matrix Inversion;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Zhang Neural Network Versus Gradient Neural Network for Online Time-Varying Quadratic Function Minimization</title>
+		<year>2008</year>
+		<authors>yunong zhang,zhan li,chenfu yi</authors>
+		<jconf>International Conference on Intelligent Computing</jconf>
+		<label>490</label>
+		<keyword>Neural Network;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MATLAB Simulink Modeling and Simulation of Zhang Neural Network for Online Time-Varying Matrix Inversion</title>
+		<year>2008</year>
+		<authors>yunong zhang,xiaojiao guo,weimu ma,binghuang cai</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>490</label>
+		<keyword>Matrix Inversion;Modeling and Simulation;Neural Network;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Common Nature of Learning Exemplified by BP and Hopfield Neural Networks for Solving Online a System of Linear Equations</title>
+		<year>2008</year>
+		<authors>yunong zhang,zhan li,binghuang cai</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>490</label>
+		<keyword>Linear Equations;hopfield neural network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Zhang neural network without using time-derivative information for constant and time-varying matrix inversion</title>
+		<year>2008</year>
+		<authors>yunong zhang,zenghai chen,binghuang cai</authors>
+		<jconf>IJCNN</jconf>
+		<label>490</label>
+		<keyword>Matrix Inversion;Neural Network;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A simplified LVI-based primal-dual neural network for repetitive motion planning of PA10 robot manipulator starting from different initial states</title>
+		<year>2008</year>
+		<authors>yunong zhang,zhiguo tan,zhi yang,lv xuanjiao</authors>
+		<jconf>IJCNN</jconf>
+		<label>490</label>
+		<keyword>Motion Planning;Robot Manipulator;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Time-Varying Lyapunov Equation Solving</title>
+		<year>2008</year>
+		<authors>yunong zhang,shuai yue,chenfu yi</authors>
+		<jconf>International Symposium on Neural Networks</jconf>
+		<label>490</label>
+		<keyword>lyapunov equation;Neural Network;Time Varying;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Global exponential convergence and stability of gradient-based neural network for online matrix inversion</title>
+		<year>2009</year>
+		<authors>yunong zhang,yanyan shi,chaoli wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<label>490</label>
+		<keyword>Exponential Convergence;Matrix Inversion;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MATLAB Simulink modeling and simulation of LVI-based primal-dual neural network for solving linear and quadratic programs</title>
+		<year>2009</year>
+		<authors>yunong zhang,weimu ma,xiao-dong li,hong-zhou tan</authors>
+		<jconf>Neurocomputing</jconf>
+		<label>490</label>
+		<keyword>Modeling and Simulation;Quadratic Program;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Repetitive motion of redundant robots planned by three kinds of recurrent neural networks and illustrated with a four-link planar manipulator's straight-line example</title>
+		<year>2009</year>
+		<authors>yunong zhang,zhiguo tan,zhi yang,lv xuanjiao</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<label>490</label>
+		<keyword>Recurrent Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>OTJFast: Processing Ordered XML Twig Join Fast</title>
+		<year>2008</year>
+		<authors>jinhua jiang,gang chen,lidan shou</authors>
+		<jconf>Asia-Pacific Services Computing Conference</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Database Encryption Scheme for Enhanced Security and Easy Sharing</title>
+		<year>2006</year>
+		<authors>gang chen,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A logical replication-based intrusion detection approach for CSCW system</title>
+		<year>2005</year>
+		<authors>gang chen,tianlei hu,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword>Intrusion Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Resilient Rights Protection for Product Data</title>
+		<year>2006</year>
+		<authors>gang chen,tianlei hu,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fractal Watermark Solution for Product Data</title>
+		<year>2006</year>
+		<authors>gang chen,cheng zang,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An adaptive load balancing framework for parallel database systems based on collaborative agents</title>
+		<year>2005</year>
+		<authors>tianlei hu,gang chen,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword>Adaptive Load Balancing;Parallel Database System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Securely Sharing Data in Encrypted Databases</title>
+		<year>2006</year>
+		<authors>lihua yu,gang chen,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Architecture Approach to Dynamic Policy in RBAC</title>
+		<year>2006</year>
+		<authors>cheng zang,zhongdong huang,jinxiang dong</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Holistic Twig Join Algorithm on XML Documents with Optimization Rules and Index</title>
+		<year>2008</year>
+		<authors>jinhua jiang,gang chen,lidan shou</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>491</label>
+		<keyword>Indexation;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bs-tree: A Self-tuning Index of Moving Objects</title>
+		<year>2010</year>
+		<authors>nan chen,lidan shou,gang chen,yunjun gao</authors>
+		<jconf>Database Systems for Advanced Applications</jconf>
+		<label>491</label>
+		<keyword>Moving Object;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Efficient Concurrent Scans on Flash Disks</title>
+		<year>2010</year>
+		<authors>chang xu,lidan shou,gang chen,wei hu,tianlei hu</authors>
+		<jconf>Database and Expert Systems Applications</jconf>
+		<label>491</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Processing of Warping Time Series Join of Motion Capture Data</title>
+		<year>2009</year>
+		<authors>yueguo chen,gang chen,beng chin ooi</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>491</label>
+		<keyword>Motion Capture;Motion Capture Data;Motion Synthesis;Time Series;</keyword>
+		<organization>null</organization>
+		<abstract>Discovering non-trivial matching subsequences from two time series is very useful in synthesizing novel time series. This can be applied to applications such as motion synthesis where smooth and natural motion sequences are often required to be generated from existing motion sequences. We first address this problem by defining it as a problem of l-ε-join over two time series. Given</abstract>
+	</publication>
+	<publication>
+		<title>An Immunity-Based Intrusion Detection Solution for Database Systems</title>
+		<year>2005</year>
+		<authors>gang chen,jinxiang dong</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>491</label>
+		<keyword>Database System;Intrusion Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Watermarking Abstract Tree-Structured Data</title>
+		<year>2005</year>
+		<authors>gang chen,tianlei hu,jinxiang dong</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>491</label>
+		<keyword>Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>GARWM: Towards a Generalized and Adaptive Watermark Scheme for Relational Data</title>
+		<year>2005</year>
+		<authors>tianlei hu,gang chen,jinxiang dong</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>491</label>
+		<keyword>Relational Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Heuristic Discovery of Role-Based Trust Chains in Peer-to-Peer Networks</title>
+		<year>2009</year>
+		<authors>kai hwang,gang chen</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<label>491</label>
+		<keyword>Peer-to-peer Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>How to play a coloring game against a color-blind adversary</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Symposium on Computational Geometry</jconf>
+		<label>492</label>
+		<keyword>Online Algorithm;Randomized Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We study the problem of conflict-free (CF) coloring of a set of points in the plane, in an online fashion, with respect to halfplanes, nearly-equal axis-parallel rectangles, and con- gruent disks.As a warm-up exercise, the online CF coloring of points on the line with respect to intervals is also con- sidered.We present randomized algorithms in the oblivi- ous adversary model,</abstract>
+	</publication>
+	<publication>
+		<title>The orienteering problem in the plane revisited</title>
+		<year>2006</year>
+		<authors>sariel har-peled</authors>
+		<jconf>Symposium on Computational Geometry</jconf>
+		<label>492</label>
+		<keyword>Approximate Algorithm;Higher Dimensions;Optimal Solution;Polynomial Time Approximation Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the orienteering problem: Given a set P of n points in the plane, a starting point r 2 P, and a length constraint B, one needs to find a tour starting at r that visits as many points of P as possible and of length not exceeding B. We present a (1 &quot;)-approximation algorithm for this problem that</abstract>
+	</publication>
+	<publication>
+		<title>On k-Median clustering in high dimensions</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>492</label>
+		<keyword>Approximate Algorithm;Euclidean Space;High Dimension;Metric Space;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We study approximation algorithms for k-median clustering. We obtain small coresets for k-median clustering in metric spaces as well as in Euclidean spaces. Specically , in IR,k=&quot;) O(1)</abstract>
+	</publication>
+	<publication>
+		<title>A constant factor approximation algorithm for k-median clustering with outliers</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>492</label>
+		<keyword>Approximate Algorithm;Metric Space;Polynomial Time;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the k-median clustering with outliers problem: Given a finite point set in a metric space and parameters k and m, we want to remove m points (called outliers), such that the cost of the optimal k-median clustering of the remaining points is mini- mized. We present the first polynomial time constant factor approximation algorithm for this problem.</abstract>
+	</publication>
+	<publication>
+		<title>Cost-Aware Caching Algorithms for Distributed Storage Servers</title>
+		<year>2007</year>
+		<authors>shuang liang,song jiang,xiaodong zhang</authors>
+		<jconf>Workshop on Distributed Algorithms/International Symposium on Distributed Computing</jconf>
+		<label>492</label>
+		<keyword>Cache Replacement;Data Management;Distributed Storage;Distributed Storage System;On-line Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We study replacement algorithms for non-uniform access caches that are used in distributed storage systems. Considering access latencies as major costs of data management in such a system, we show that the total cost of any replacement algorithm is bounded by the total costs of evicted blocks plus the total cost of the optimal off-line algo- rithm (OPT). We propose</abstract>
+	</publication>
+	<publication>
+		<title>On Coresets for k-Median and k-Means Clustering in Metric and Euclidean Spaces and Their Applications</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>492</label>
+		<keyword>Euclidean Space;k-means clustering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Online Conflict-Free Coloring for Intervals</title>
+		<year>2007</year>
+		<authors>amos fiat,haim kaplan,meital levy,jirí matousek,elchanan mossel,jános pach,micha sharir,shakhar smorodinsky,uli wagner,emo welzl</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>492</label>
+		<keyword>Online Algorithm;Randomized Algorithm;Two Dimensions;</keyword>
+		<organization>null</organization>
+		<abstract>We consider an online version of the conflict-free coloring of a set of points on the line, where each newly inserted point must be assigned a color upon insertion, and at all times the coloring has to be conflict-free, in the sense that in every interval I there is a color that appears exactly once in I. We present deterministic</abstract>
+	</publication>
+	<publication>
+		<title>The Euclidean Orienteering Problem Revisited</title>
+		<year>2008</year>
+		<authors>sariel har-peled</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>492</label>
+		<keyword>Approximate Algorithm;Higher Dimensions;Optimal Solution;Polynomial Time Approximation Scheme;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We consider the rooted orienteering problem: Given a set P of n points in the plane, a starting point r 2 P, and a length constraint B, one needs to find a path starting from r that visits as many,points of P as possible and of length not exceeding,B. We present a (1 &quot;)-approximation,algorithm,for this problem,that runs in n,(1=&quot;)</abstract>
+	</publication>
+	<publication>
+		<title>Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles</title>
+		<year>2009</year>
+		<authors>haim kaplan,micha sharir</authors>
+		<jconf>ACM Transactions on Algorithms</jconf>
+		<label>492</label>
+		<keyword>Online Algorithm;Randomized Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We present randomized algorithms for online conflict-free coloring (CF in short) of points in the plane, with respect to halfplanes, congruent disks, and nearly-equal axis-parallel rectangles. In all three cases, the coloring algorithms use O(log n) colors, with high probability. We also present a deterministic algorithm for online CF coloring of points in the plane with respect to nearly-equal axis-parallel</abstract>
+	</publication>
+</person>

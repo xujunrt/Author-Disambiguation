@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kenneth Wang</FullName>
+	<publication>
+		<title>Adapt or Perish: Algebra and Visual Notation for Service Interface Adaptation</title>
+		<year>2006</year>
+		<authors>marlon dumas,murray spork</authors>
+		<jconf>Business Process Management</jconf>
+		<label>496</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Service Adaptation Machine</title>
+		<year>2008</year>
+		<authors>marlon dumas,chun ouyang,julien vayssière</authors>
+		<jconf>European Conference on Web Services</jconf>
+		<label>496</label>
+		<keyword>Business Process;Coarse Grained;Information Loss;Operational Semantics;Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>The reuse of software services often requires the in- troduction of adapters. In the case of coarse-grained services, and especially services that engage in long- running conversations, these adapters must deal not only with mismatches at the level of individual interac- tions, but also across interdependent interactions. Ex- isting techniques support the synthesis of adapters at design-time by comparing pairs</abstract>
+	</publication>
+</person>

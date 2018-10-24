@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Abhishek Jain</FullName>
+	<publication>
+		<title>Packet-dropping adversary identification for data plane security</title>
+		<year>2008</year>
+		<authors>xin zhang,adrian perrig</authors>
+		<jconf>Conference on Emerging Network Experiment and Technology</jconf>
+		<label>3</label>
+		<keyword>Design Space;Packet Loss;Performance Bounds;Performance Metric;Theoretical Analysis;Detection Rate;</keyword>
+		<organization>null</organization>
+		<abstract>Until recently, the design of packet dropping adversary iden- tification protocols that are robust to both benign packet loss and malicious behavior has proven to be surprisingly elu- sive. In this paper, we propose a secure and practical packet- dropping adversary localization scheme that is robust and achieves a high detection rate and low communication and storage overhead - the</abstract>
+	</publication>
+	<publication>
+		<title>Password-Authenticated Session-Key Generation on the Internet in the Plain Model</title>
+		<year>2010</year>
+		<authors>vipul goyal,rafail ostrovsky</authors>
+		<jconf>International Crytology Conference</jconf>
+		<label>3</label>
+		<keyword>Password Authentication;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bounded Ciphertext Policy Attribute Based Encryption</title>
+		<year>2008</year>
+		<authors>vipul goyal,omkant pandey,amit sahai</authors>
+		<jconf>International Congress of Mathematicans</jconf>
+		<label>3</label>
+		<keyword>Satisfiability;Security Proof;Attribute Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract>In a ciphertext policy attribute based encryption system, a user's private key is associated with a set of attributes (describing the user) and an encrypted ciphertext will specify an access policy over attributes. A user will be able to decrypt if and only if his attributes satisfy the ciphertext's policy. In this work, we present the flrst construction of a</abstract>
+	</publication>
+	<publication>
+		<title>Improvements to Mitchell's Remote User Authentication Protocol</title>
+		<year>2005</year>
+		<authors>vipul goyal,jean-jacques quisquater</authors>
+		<jconf>Information Security and Cryptology</jconf>
+		<label>3</label>
+		<keyword>Cryptographic Hash Function;Denial of Service;Dos Attack;Provable Security;Public Information;User Authentication;</keyword>
+		<organization>null</organization>
+		<abstract>A provably secure protocol for remote authentication is presented. Only public information is stored at the verifying host that makes our scheme resistant to server compromise. We use one time signatures coupled with offline transcripts for synchronization. Due to sole usage of fast cryptographic hash functions, our method is appropriate for low cost user authentication. Our con- struction improves over</abstract>
+	</publication>
+	<publication>
+		<title>On the round complexity of covert computation</title>
+		<year>2010</year>
+		<authors>vipul goyal</authors>
+		<jconf>ACM Symposium on Theory of Computing</jconf>
+		<label>3</label>
+		<keyword>Communication Channels;Multi Party Computation;Secure Computation;Simulation Technique;Broadcast Channel;Point To Point;</keyword>
+		<organization>null</organization>
+		<abstract>In STOC'05, von Ahn, Hopper and Langford introduced the notion of covert computation. In covert computation, a party runs a secure computation protocol over a covert (or steganographic) channel without knowing if the other parties are participating as well or not. At the end of the protocol, if all parties participated in the protocol and if the function output is</abstract>
+	</publication>
+</person>

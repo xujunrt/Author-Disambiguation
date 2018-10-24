@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jae-Ho Choi</FullName>
+	<publication>
+		<title>Accurate Contouring Technique for Object Boundary Extraction in Stereoscopic Imageries</title>
+		<year>2005</year>
+		<authors>shin-hyoung kim,jong-whan jang,seung phil lee</authors>
+		<jconf>Computational and Information Science</jconf>
+		<label>331</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new snake algorithm for object segmentation in stereo images</title>
+		<year>2004</year>
+		<authors>shin-hyoung kim,hyun-bin kim,jong-whan jang</authors>
+		<jconf>International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo</jconf>
+		<label>331</label>
+		<keyword>Object Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Estimation of Low Bound for Two-Dimensional Image Compression Coding</title>
+		<year>1995</year>
+		<authors>huijuan li,qingdong yao,hoon-sung kwak</authors>
+		<jconf>International Computer Science Conference</jconf>
+		<label>331</label>
+		<keyword>Image Compression;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Re-ordering Methods in Adaptive Rank-Based Re-indexing Scheme</title>
+		<year>2006</year>
+		<authors>kang-soo you,hoon-sung kwak</authors>
+		<jconf>Pacific Rim International Conference on Artificial Intelligence</jconf>
+		<label>331</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

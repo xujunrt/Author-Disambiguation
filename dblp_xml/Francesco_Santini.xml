@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Francesco Santini</FullName>
+	<publication>
+		<title>Face Reconstruction from Skull Shapes and Physical Attributes</title>
+		<year>2009</year>
+		<authors>pascal paysan,marcel lüthi,thomas albrecht,anita lerch,brian amberg,thomas vetter</authors>
+		<jconf>DAGM Symposium Symposium for Pattern Recognition</jconf>
+		<label>244</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

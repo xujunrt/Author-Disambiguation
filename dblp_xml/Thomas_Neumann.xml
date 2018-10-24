@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Thomas Neumann</FullName>
+	<publication>
+		<title>A Survey of DB Requirements for Graphical Applications in Engineering</title>
+		<year>1979</year>
+		<authors>josé l. encarnação</authors>
+		<jconf>IBM Germany Scientific Symposium Series</jconf>
+		<label>1016</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Representing the Design Information in a Common Database</title>
+		<year>1983</year>
+		<authors></authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>1016</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Das UIMS THESEUS</title>
+		<year>1989</year>
+		<authors>matthias muth</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>1017</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automated cell analysis in 2D and 3D: A comparative study</title>
+		<year>2009</year>
+		<authors>michael g. meyer,mark fauver,j. richard rahn,florence w. patten,eric j. seibel,alan c. nelson</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1018</label>
+		<keyword>Comparative Study;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Supporting User-Defined Notations When Integrating Scientific Text-Editors with Proof Assistance Systems</title>
+		<year>2007</year>
+		<authors>serge autexier,armin fiedler,marc wagner</authors>
+		<jconf>Mathematical Knowledge Management</jconf>
+		<label>1019</label>
+		<keyword>Proof Assistant;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

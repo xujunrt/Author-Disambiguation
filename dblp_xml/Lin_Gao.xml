@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lin Gao</FullName>
+	<publication>
+		<title>Region-Based Partial Dead Code Elimination on Predicated Code</title>
+		<year>2004</year>
+		<authors>qiong cai,jingling xue</authors>
+		<jconf>Compiler Construction</jconf>
+		<label>565</label>
+		<keyword>Instruction Scheduling;Performance Improvement;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the design, implementation and experi- mental evaluation of a practical region-based partial dead code elimina- tion (PDE) algorithm on predicated code in an existing compiler frame- work. Our algorithm processes PDE candidates using a worklist and reasons about their partial deadness using predicate partition graphs. It operates uniformly on hyperblocks and regions comprising basic blocks and hyperblocks.</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Speculative TLP in Recursive Programs by Dynamic Thread Prediction</title>
+		<year>2009</year>
+		<authors>lian li,jingling xue,tin-fook ngai</authors>
+		<jconf>Compiler Construction</jconf>
+		<label>565</label>
+		<keyword>Real World Application;Thread Level Parallelism;</keyword>
+		<organization>null</organization>
+		<abstract>Speculative parallelisation represents a promising solut ion to speed up sequential programs that are hard to parallelise otherwi se. Prior research has focused mainly on parallelising loops. Recursive procedures, which are also fre- quently used in real-world applications, have attracted much less attention. More- over, the parallel threads in prior work are statically pred icted and spawned. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Loop recreation for thread-level speculation</title>
+		<year>2007</year>
+		<authors>lian li,jingling xue,tin-fook ngai</authors>
+		<jconf>International Conference on Parallel and Distributed Systems</jconf>
+		<label>565</label>
+		<keyword>Cost Model;Perforation;Thread Level Speculation;</keyword>
+		<organization>null</organization>
+		<abstract>For some sequential loops, existing techniques that form speculative threads only at their loop boundaries do not adequately expose the speculative parallelism in- herent in them. This is because some inter-iteration dependences, which translate into inter-thread depen- dences at run time, are too costly to synchronize or speculate. This paper presents a novel compiler tech- nique, called loop recreation, to</abstract>
+	</publication>
+	<publication>
+		<title>Thread-Sensitive Modulo Scheduling for Multicore Processors</title>
+		<year>2008</year>
+		<authors>quan hoang nguyen,lian li,jingling xue,tin-fook ngai</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>565</label>
+		<keyword>Instruction Level Parallel;Modulo Scheduling;Multicore Processors;Thread Level Parallelism;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes a generalisation of modulo scheduling to parallelise loops for SpMT processors that exploits simultaneously both instruction-level parallel ism and thread-level parallelism while preserving the simplic - ity and effectiveness of modulo scheduling. Our generalisa - tion is simple, drops easily into traditional modulo schedu l- ing algorithms such as Swing in GCC 4.1.1 and produces good speedups</abstract>
+	</publication>
+	<publication>
+		<title>Loop recreation for thread-level speculation on multicore processors</title>
+		<year>2010</year>
+		<authors>jingling xue,tin-fook ngai</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>565</label>
+		<keyword>Cost Model;Multicore Processors;Thread Level Speculation;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY Inter-iteration dependences in loops can hinder loop-level parallelism. For some loops, existing thread-level speculation (TLS) techniques fail to expose their inherent loop-level parallelism, because some inter-iteration dependences are too costly to synchronize, predict, pre-compute and isolate. This paper presents a compiler technique called loop recreation to change the nature of some dependences (by turning some inter-iteration dependences into intra-iteration</abstract>
+	</publication>
+	<publication>
+		<title>Partial dead code elimination on predicated code regions</title>
+		<year>2006</year>
+		<authors>jingling xue,qiong cai</authors>
+		<jconf>Software - Practice and Experience</jconf>
+		<label>565</label>
+		<keyword>Experimental Evaluation;Instruction Scheduling;Performance Evaluation;Performance Improvement;</keyword>
+		<organization>null</organization>
+		<abstract>SUMMARY This paper presents the design, implementation and experimental evaluation of a practical region-based partial dead code elimination (PDE) algorithm on predicated code in the ORC compiler framework. Existing PDE algorithms are not applicable on predicated code due to the existence of if-converted branches in the program. The proposed algorithm processes all PDE candidates in a worklist and reasons about</abstract>
+	</publication>
+</person>

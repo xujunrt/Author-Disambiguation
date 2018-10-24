@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sven K&amp;ouml;hler</FullName>
+	<publication>
+		<title>On Approximating Real-World Halting Problems</title>
+		<year>2005</year>
+		<authors>christian schindelhauer,martin ziegler</authors>
+		<jconf>Fundamentals of Computation Theory</jconf>
+		<label>993</label>
+		<keyword>Programming Language;Source Code;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>No algorithm can of course solve the Halting Problem, that is, decide within finite time always correctly whether a given program halts on a certain given input. It might however be able to give correct answers for 'most' instances and thus solve it at least approximately. Whether and how well such approxima- tions are feasible highly depends on the underlying</abstract>
+	</publication>
+	<publication>
+		<title>Fault-Containing Self-Stabilization in Asynchronous Systems with Constant Fault-Gap</title>
+		<year>2010</year>
+		<authors>volker turau</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>993</label>
+		<keyword>Asynchronous System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Technique for Proving Self-stabilizing under the Distributed Scheduler</title>
+		<year>2010</year>
+		<authors>volker turau</authors>
+		<jconf>Self-Stabilizing Systems</jconf>
+		<label>993</label>
+		<keyword>Distributed Scheduling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parallelizing XML data-streaming workflows via MapReduce</title>
+		<year>2010</year>
+		<authors>daniel zinn,shawn bowers,bertram ludäscher</authors>
+		<jconf>Journal of Computer and System Sciences</jconf>
+		<label>994</label>
+		<keyword>Data Stream;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

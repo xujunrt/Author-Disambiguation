@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Kaushik Roy</FullName>
+	<publication>
+		<title>Improving Features Subset Selection Using Genetic Algorithms for Iris Recognition</title>
+		<year>2008</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Artificial Neural Networks in Pattern Recognition</jconf>
+		<label>485</label>
+		<keyword>Feature Subset Selection;Iris Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iris Recognition with Support Vector Machines</title>
+		<year>2006</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Collarette Area Localization and Asymmetrical Support Vector Machines for Efficient Iris Recognition</title>
+		<year>2007</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Image Analysis and Processing</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iris Recognition Based on Zigzag Collarette Region and Asymmetrical Support Vector Machines</title>
+		<year>2007</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Image Analysis and Recognition</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Features Subset Selection Using Genetic Algorithms for Iris Recognition</title>
+		<year>2008</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Image Analysis and Recognition</jconf>
+		<label>485</label>
+		<keyword>Feature Subset Selection;Iris Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Level Set Approaches and Adaptive Asymmetrical SVMs Applied for Nonideal Iris Recognition</title>
+		<year>2009</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Image Analysis and Recognition</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;level-set approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Unideal Iris Segmentation Using Region-Based Active Contour Model</title>
+		<year>2010</year>
+		<authors>prabir bhattacharya,ching y. suen</authors>
+		<jconf>International Conference on Image Analysis and Recognition</jconf>
+		<label>485</label>
+		<keyword>Active Contour Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive asymmetrical SVM and genetic algorithms based iris recognition</title>
+		<year>2008</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>485</label>
+		<keyword>Genetic Algorithm;Iris Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Segmentation of Unideal Iris Images Using Game Theory</title>
+		<year>2010</year>
+		<authors>ching y. suen,prabir bhattacharya</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>485</label>
+		<keyword>Game Theory;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Nonideal Iris Recognition Using Level Set Approach and Coalitional Game Theory</title>
+		<year>2009</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Computer Vision Systems</jconf>
+		<label>485</label>
+		<keyword>coalitional games;Iris Recognition;level-set approach;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Iris Recognition in Nonideal Situations</title>
+		<year>2009</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Information Security Conference/Information Security Workshop</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Application of Multi-objective Genetic Algorithm and asymmetrical Support Vector Machine to improve the reliability of an iris recognition system</title>
+		<year>2007</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>IEEE International Conference on Systems, Man, and Cybernetics</jconf>
+		<label>485</label>
+		<keyword>Iris Recognition;Multi Objective Genetic Algorithm;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

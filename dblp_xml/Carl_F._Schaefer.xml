@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Carl F. Schaefer</FullName>
+	<publication>
+		<title>caCORE: A common infrastructure for cancer informatics</title>
+		<year>2003</year>
+		<authors>peter a. covitz,frank w. hartel,sherri de coronado,gilberto fragoso,himanso sahni,scott gustafson,kenneth h. buetow</authors>
+		<jconf>Bioinformatics/computer Applications in The Biosciences</jconf>
+		<label>115</label>
+		<keyword>Application Program Interface;Biomedical Application;Controlled Vocabulary;Data Integrity;Data Processing;Data Representation;Object-oriented Model;Open Source;Scientific Application;Web Interface;National Cancer Institute;Simple Object Access Protocol;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: Sites with substantive bioinformatics operations are challenged to build data processing and delivery infrastruc- ture that provides reliable access and enables data integration. Locally generated data must be processed and stored such that relationships to external data sources can be presen- ted. Consistency and comparability across data sets requires annotation with controlled vocabularies and, further, metadata standards for data</abstract>
+	</publication>
+	<publication>
+		<title>PID: the Pathway Interaction Database</title>
+		<year>2009</year>
+		<authors>kira anthony,shiva krupa,jeffrey buchoff,timo hannay,kenneth h. buetow</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>115</label>
+		<keyword>Cell Signaling;Extensible Markup Language;Interaction Network;Peer Review;Signal Transduction;Single Molecule;level 2;National Cancer Institute;</keyword>
+		<organization>null</organization>
+		<abstract>The Pathway Interaction Database (PID, http://pid. nci.nih.gov) is a freely available collection of curated and peer-reviewed pathways composed of human molecular signaling and regulatory events and key cellular processes. Created in a collaboration between the US National Cancer Institute and Nature Publishing Group, the database serves as a research tool for the cancer research community and others interested in cellular</abstract>
+	</publication>
+</person>

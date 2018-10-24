@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Zhang</FullName>
+	<publication>
+		<title>Automatic Web Tagging and Person Tagging Using Language Models</title>
+		<year>2008</year>
+		<authors>qiaozhu mei</authors>
+		<jconf>Advanced Data Mining and Applications</jconf>
+		<label>1180</label>
+		<keyword>Automatic Generation;Language Model;Social Bookmarking;Social Tagging;User Behavior;Web Documents;</keyword>
+		<organization>null</organization>
+		<abstract>Social bookmarking has become an important web2.0 appli- cation recently, which is concerned with the dual user behavior to search - tagging. Although social bookmarking websites, e.g., Del.icio.us, has been attracting much attentions, many research problems in social tag- ging has not been well addressed in literature. In this paper, we formally deflne the problem of social bookmark suggestion, and</abstract>
+	</publication>
+	<publication>
+		<title>Open Domain Recommendation: Social Networks and Collaborative Filtering</title>
+		<year>2008</year>
+		<authors>sarah k. tyler</authors>
+		<jconf>Advanced Data Mining and Applications</jconf>
+		<label>1180</label>
+		<keyword>Collaborative Filtering;Social Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic polyadic factorization and its application to personalized recommendation</title>
+		<year>2008</year>
+		<authors>yun chi,shenghuo zhu,yihong gong</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1180</label>
+		<keyword>Social Bookmarking;Theoretical Analysis;Negative Tensor Factorization;</keyword>
+		<organization>null</organization>
+		<abstract>Multiple-dimensional, i.e., polyadic, data exist in many ap- plications, such as personalized recommendation and multiple- dimensional data summarization. Analyzing all the dimen- sions of polyadic data in a principled way is a challenging research problem. Most existing methods separately ana- lyze the marginal relationships among pairwise dimensions and then combine the results afterwards. Motivated by the fact that various dimensions</abstract>
+	</publication>
+	<publication>
+		<title>Bayesian adaptive user profiling with explicit &amp;amp; implicit feedback</title>
+		<year>2006</year>
+		<authors>philip zigoris</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1180</label>
+		<keyword>bayesian model;bayesian statistics;Implicit Feedback;Information Need;Information Retrieval;Predictive Value;User Profile;User Study;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>Research in information retrieval is now moving into a per- sonalized scenario where a retrieval or filtering system main- tains a separate user profile for each user. In this framework, information delivered to the user can be automatically per- sonalized and catered to individual user's information needs. However, a practical concern for such a personalized system is the &quot;cold start</abstract>
+	</publication>
+	<publication>
+		<title>Mixture model based contextual image retrieval</title>
+		<year>2010</year>
+		<authors>xing xing,bo gong</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Image Retrieval;Mixture Model;Context Dependent;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional image retrieval techniques search for images without considering the query context. When they are applied to applications like annotating text with images, the results might not be satisfactory because the meaning of a word/phrase varies depending on the context. In this paper, we propose an alternative method to retrieve images based not only on the query but also on</abstract>
+	</publication>
+	<publication>
+		<title>Query Difficulty Prediction for Contextual Image Retrieval</title>
+		<year>2010</year>
+		<authors>xing xing,mei han</authors>
+		<jconf>European Colloquium on IR Research</jconf>
+		<label>1180</label>
+		<keyword>Image Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Incorporating Diversity and Density in Active Learning for Relevance Feedback</title>
+		<year>2007</year>
+		<authors>zuobing xu,ram akella</authors>
+		<jconf>European Colloquium on IR Research</jconf>
+		<label>1180</label>
+		<keyword>Active Learning;Relevance Feedback;Statistical Significance;</keyword>
+		<organization>null</organization>
+		<abstract>Relevance feedback, which uses the terms in relevant doc- uments to enrich the user's initial query, is an effective method for improving retrieval performance. An associated key research problem is the following: Which documents to present to the user so that the user's feedback on the documents can significantly impact relevance feedback performance. This paper views this as an active</abstract>
+	</publication>
+	<publication>
+		<title>Unsupervised Learning of Tree Alignment Models for Information Extraction</title>
+		<year>2006</year>
+		<authors>philip zigoris,damian eads</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1180</label>
+		<keyword>Data Mining;Data Structure;Domain Specificity;Feature Extraction;Hidden Web;Information Extraction;Semantic Relations;Unsupervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>We propose an algorithm for extracting fields from HTML search results. The output of the algorithm is a database table- a data structure that better lends itself to high-level data mining and information exploitation. Our algorithmeffectively combinestree and string alignmental- gorithms, as well as domain-specific feature extraction to match semantically related data across search results. The applications of our approach</abstract>
+	</publication>
+	<publication>
+		<title>Exploration and Exploitation in Adaptive Filtering Based on Bayesian Active Learning</title>
+		<year>2003</year>
+		<authors>wei xu,james p. callan</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1180</label>
+		<keyword>Active Learning;Adaptive Filter;Information Filtering;Quality Measures;Relevance Feedback;Satisfiability;Utility Function;</keyword>
+		<organization>null</organization>
+		<abstract>In the task of adaptive information filtering, a system receives a stream of documents but delivers only those that match a person's in- formation need. As the system filters it also refines its knowledge about the user's infor- mation needs based on relevance feedback from the user. Delivering a document thus has two effects: i) it satisfies the user's in-</abstract>
+	</publication>
+	<publication>
+		<title>Fuzzy trust recommendation based on collaborative filtering for mobile ad-hoc networks</title>
+		<year>2008</year>
+		<authors>junhai luo,xue liu,danxia ye,zhong xu</authors>
+		<jconf>IEEE Conference on Local Computer Networks</jconf>
+		<label>1180</label>
+		<keyword>Collaborative Filtering;Mobile Ad Hoc Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Combining Multiple Forms of Evidence While Filtering</title>
+		<year>2005</year>
+		<authors>james p. callan</authors>
+		<jconf>North American Chapter of the Association for Computational Linguistics</jconf>
+		<label>1180</label>
+		<keyword>Graphical Model;Structure Learning;System Performance;User Feedback;User Study;Real Time;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper studies how to go beyond relevance and enable a filtering system to learn more in- teresting and detailed data driven user models from multiple forms of evidence. We carry out a user study using a real time web based per- sonal news filtering system, and collect exten- sive multiple forms of evidence, including ex- plicit and implicit user</abstract>
+	</publication>
+	<publication>
+		<title>Ordering innovators and laggards for product categorization and recommendation</title>
+		<year>2009</year>
+		<authors>sarah k. tyler,shenghuo zhu,yun chi</authors>
+		<jconf>Conference on Recommender Systems</jconf>
+		<label>1180</label>
+		<keyword>New Products;recommender system;Social Network;Total Order;Trust Network;User Behavior;Markov Chain;</keyword>
+		<organization>null</organization>
+		<abstract>Dierent buyers exhibit dierent purchasing behaviors. Some rush to purchase new products while others tend to be more cautious, waiting for reviews from people they trust. In mar- ket analysis, the former group of buyers is often referred to as innovators and early adopters while the latter group is referred to as laggards. The adoption behavior is a dynamic feature</abstract>
+	</publication>
+	<publication>
+		<title>Searching and navigating petabyte-scale file systems based on facets</title>
+		<year>2007</year>
+		<authors>jonathan koren,andrew leung,carlos maltzahn,sasha ames,ethan l. miller</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>1180</label>
+		<keyword>Digital Library;E Commerce;Enterprise Search;Faceted Search;File System;Information Retrieval;User Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>As users interact with file systems of ever increasing size, it is becoming more dicult for them to familiarize themselves with the entire contents of the file system. In petabyte-scale systems, users must navigate a pool of billions of shared files in order to find the information they are looking for. One way to help alleviate this problem is to</abstract>
+	</publication>
+	<publication>
+		<title>User-centric multi-criteria information retrieval</title>
+		<year>2009</year>
+		<authors>shawn r. wolfe</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Information Retrieval;Information Retrieval Model;Multi Criteria Decision Making;Multiple Criteria;</keyword>
+		<organization>null</organization>
+		<abstract>Information retrieval models usually represent content only, and not other considerations, such as authority, cost, and recency. How could multiple criteria be utilized in information retrieval, and how would it effect the results? In our experiments, using multiple user-centric criteria always produced better results than a single criteria.</abstract>
+	</publication>
+	<publication>
+		<title>Using bayesian priors to combine classifiers for adaptive filtering</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Adaptive Filter;Classification Algorithm;Combining Classifier;Information Filtering;Information Need;Learning Algorithm;Logistic Regression;Text Classification;User Profile;Maximum Likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>An adaptive information filtering system monitors a document stream to identify the documents that match information needs specified by user profiles. As the system filters, it also refines its knowledge about the user's information needs based on long-term observations of the document stream and periodic feedback(training data) from the user. Low variance profile learning algorithms, such as Rocchio, work well</abstract>
+	</publication>
+	<publication>
+		<title>Maximum likelihood estimation for filtering thresholds</title>
+		<year>2001</year>
+		<authors>james p. callan</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Information Filtering;Maximum Likelihood Estimate;Maximum Likelihood Principle;Retrieval Model;Utility Function;max imum likelihood;</keyword>
+		<organization>null</organization>
+		<abstract>Information filtering systems based on statistical retrieval models usually compute a numeric score indicating how well each document matches each profile.  Documents with scores above profile-specificdissemination thresholdsare delivered.An optimal dissemination threshold is one that maximizes a given utility function based on the distributions of the scores of relevant and non-relevant documents.  The parameters of the distribution can be estimated using</abstract>
+	</publication>
+	<publication>
+		<title>Novelty and redundancy detection in adaptive filtering</title>
+		<year>2002</year>
+		<authors>james p. callan,tom minka</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Adaptive Filter;Information Filtering;Language Model;Similarity Metric;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of extending an adaptive information filtering system to make decisions about the novelty and redundancy of relevant documents. It argues that relevance and redundance should each be modelled explicitly and separately. A set of five redundancy measures are proposed and evaluated in experiments with and without redundancy thresholds. The experimental results demonstrate that the cosine</abstract>
+	</publication>
+	<publication>
+		<title>Efficient bayesian hierarchical user modeling for recommendation system</title>
+		<year>2007</year>
+		<authors>jonathan koren</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>bayesian hierarchical model;Em Algorithm;Information Filtering;Information Search and Retrieval;recommender system;User Feedback;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT A content-based personalized recommendation,system learns user speciflc proflles from user feedback so that it can deliver information tailored to each individual user’s interest. A sys- tem serving millions of users can learn a better user proflle for a new user, or a user with little feedback, by borrowing information from other users through the use of a Bayesian hierarchical</abstract>
+	</publication>
+	<publication>
+		<title>Fast exact maximum likelihood estimation for mixture of language models</title>
+		<year>2007</year>
+		<authors>wei xu</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Em Algorithm;Exact Solution;Feature Selection;Language Model;Maximum Likelihood Estimate;</keyword>
+		<organization>null</organization>
+		<abstract>A common language modeling approach assumes the data D is generated from a mixture of several language models. EM algorithm is usually used to flnd the maximum likeli- hood estimation of one unknown mixture component, given the mixture weights and the other language models. In this paper, we provide an e-cient algorithm of O(k) complexity to flnd the exact solution,</abstract>
+	</publication>
+	<publication>
+		<title>Interactive retrieval based on faceted feedback</title>
+		<year>2010</year>
+		<authors>lanbo zhang</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1180</label>
+		<keyword>Document Retrieval;E Commerce;Faceted Search;Feedback Mechanism;Model Performance;Pseudo Relevance Feedback;Relevance Feedback;Retrieval Model;User Feedback;</keyword>
+		<organization>null</organization>
+		<abstract>Motivated by the commonly used faceted search interface in e-commerce, this paper investigates interactive relevance feedback mechanism based on faceted document metadata. In this mechanism, the system recommends a group of docu- ment facet-value pairs, and lets users select relevant ones to restrict the returned documents. We propose four facet- value pair recommendation approaches and two retrieval models that incorporate</abstract>
+	</publication>
+	<publication>
+		<title>Information Filtering, Novelty Detection, and Named-Page Finding</title>
+		<year>2002</year>
+		<authors>kevyn collins-thompson,paul ogilvie,james p. callan</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1180</label>
+		<keyword>Information Filtering;Novelty Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>YFilter at TREC9</title>
+		<year>2000</year>
+		<authors>james p. callan</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1180</label>
+		<keyword>Information Filtering;Query Expansion;Relevance Feedback;Term Weighting;Term Frequency;</keyword>
+		<organization>null</organization>
+		<abstract>We built a filtering system YFILTER this year, which we used for experiments on profile updating and thresholds setting. Our focus is using incremental Rocchio for introducing new query terms and term weighting. Although 1, 0.5, 0.25 is a widely used Rocchio ratio for query expansion based on relevance feedback, we found that the optimal setting for information filtering is</abstract>
+	</publication>
+	<publication>
+		<title>The Bias Problem and Language Models in Adaptive Filtering</title>
+		<year>2001</year>
+		<authors>james p. callan</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1180</label>
+		<keyword>Adaptive Filter;Language Model;Maximum Likelihood Estimate;</keyword>
+		<organization>null</organization>
+		<abstract>We used the YFILTER filtering system for experiments on updating profiles and setting thresholds. We developed a new method of using language models for updating profiles that is more focused on picking informative/discriminative words for query. The new method was compared with the well-known Rocchio algorithm. Dissemination thresholds were set based on maximum likelihood estimation that models and compensates for</abstract>
+	</publication>
+	<publication>
+		<title>UCSC on REC 2006 Blog Opinion Mining</title>
+		<year>2006</year>
+		<authors>ethan zhang</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1180</label>
+		<keyword>Opinion Mining;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Interaction and Personalization of Criteria in Recommender Systems</title>
+		<year>2010</year>
+		<authors>shawn r. wolfe</authors>
+		<jconf>User Modeling</jconf>
+		<label>1181</label>
+		<keyword>recommender system;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web based linkage</title>
+		<year>2007</year>
+		<authors>ergin elmacioglu,min-yen kan,dongwon lee</authors>
+		<jconf>Web Information and Data Management</jconf>
+		<label>1180</label>
+		<keyword>Entity Resolution;Record Linkage;Search Engine;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>When a variety of names are used for the same real-world entity, the problem of detecting all such variants has been known as the (record) linkage or entity resolution problem. In this paper, toward this problem, we propose a novel ap- proach that uses the Web as the collective knowledge source in addition to contents of entities. Our hypothesis is</abstract>
+	</publication>
+	<publication>
+		<title>Personalized interactive faceted search</title>
+		<year>2008</year>
+		<authors>jonathan koren,xue liu</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>1180</label>
+		<keyword>Collaborative Filtering;Digital Library;E Commerce;Evaluation Method;Faceted Search;Information Space;Interactive Search;Query Refinement;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>Faceted search is becoming a popular method to allow users to interactively search and navigate complex information spaces. A faceted search system presents users with key- value metadata that is used for query refinement. While popular in e-commerce and digital libraries, not much re- search has been conducted on which metadata to present to a user in order to improve</abstract>
+	</publication>
+	<publication>
+		<title>Complex adaptive filtering user profile using graphical models</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>1180</label>
+		<keyword>Adaptive Filter;Graphical Model;User Profile;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast exact maximum likelihood estimation for mixture of language model</title>
+		<year>2008</year>
+		<authors>wei xu</authors>
+		<jconf>Information Processing and Management</jconf>
+		<label>1180</label>
+		<keyword>Language Model;Maximum Likelihood Estimate;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Information retrieval and advertising</title>
+		<year>2009</year>
+		<authors>mikhail bilenko,evgeniy gabrilovich,matthew richardson</authors>
+		<jconf>Sigir Forum</jconf>
+		<label>1180</label>
+		<keyword>Information Retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>The Information Retrieval and Advertising Workshop (IRA 2009) was held on July 23, 2009 in Boston, Massachusetts, in conjunction with the 32nd Annual ACM SIGIR Conference. The workshop covered theoretical and empirical issues in several research areas that span the intersection of computational advertising, information retrieval, and economics. The workshop consisted of 3 invited talks, 6 refereed paper presentations, 2</abstract>
+	</publication>
+	<publication>
+		<title>Bayesian graphical models for adaptive filtering</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>Sigir Forum</jconf>
+		<label>1180</label>
+		<keyword>Active Learning;Adaptive Filter;Data Collection;Data Exploration;Graphical Model;Heuristic Algorithm;Implicit Feedback;Information Filtering;Information Need;Learning Algorithm;Machine Learning;Missing Data;Quality Measures;Satisfiability;Test Collection;User Profile;User Study;</keyword>
+		<organization>null</organization>
+		<abstract>A personal information filtering system monitors an incoming document stream to find the documents that match information needs specified by user profiles. The most challenging aspect in adaptive filtering is to develop a system to learn user profiles efficiently and effectively from very limited user supervision. In order to overcome this challenge, the system needs to do the following: use</abstract>
+	</publication>
+	<publication>
+		<title>Average Precision</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword>Average Precision;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Eleven Point Precision-recall Curve</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>F-Measure</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Precision</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Recall</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Standard Effectiveness Measures</title>
+		<year>2009</year>
+		<authors>ethan zhang</authors>
+		<jconf></jconf>
+		<label>1180</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Protein Sequence Design Problem in Canonical Model on 2D and 3D Lattices</title>
+		<year>2004</year>
+		<authors>piotr berman,bhaskar dasgupta,dhruv mubayi,robert h. sloan,györgy turán</authors>
+		<jconf>Combinatorial Pattern Matching</jconf>
+		<label>1182</label>
+		<keyword>Canonical Model;Energy Function;Polynomial Time;Protein Folding;Protein Sequence;Protein Structure;Upper Bound;Amino Acid;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we investigate the protein sequence design (PSD) problem (also known as the inverse protein folding problem) under the Canonical model 4 on 2D and 3D lattices (12, 25). The Canonical model is specified by (i) a geometric representation of a target protein structure with amino acid residues via its contact graph, (ii) a binary folding code in</abstract>
+	</publication>
+	<publication>
+		<title>Semantic Text Classification of Emergent Disease Reports</title>
+		<year>2007</year>
+		<authors>bing liu</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>1182</label>
+		<keyword>Emerging Disease;Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Semantic text classification of disease reporting</title>
+		<year>2007</year>
+		<authors>bing liu</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1182</label>
+		<keyword>Disease Outbreak;Text Classification;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional text classification studied in the IR literature is mainly based on topics. That is, each class or category represents a particular topic, e.g., sports, politics or sciences. However, many real-world text classification problems require more refined classification based on some semantic aspects. For example, in a set of documents about a particular disease, some documents may report the outbreak</abstract>
+	</publication>
+	<publication>
+		<title>Algorithmic and Complexity Results for Decompositions of Biological Networks into Monotone Subsystems</title>
+		<year>2006</year>
+		<authors>bhaskar dasgupta,german andres enciso,eduardo d. sontag</authors>
+		<jconf>Biosystems</jconf>
+		<label>1182</label>
+		<keyword>Approximate Algorithm;Biological Network;Dynamic System;Epidermal Growth Factor Receptor;Large Scale;Mathematical Analysis;semidefinite programming relaxation;</keyword>
+		<organization>null</organization>
+		<abstract>A useful approach to the mathematical analysis of large-scale biological networks is based upon their decompositions into monotone dynamical systems. This paper deals with two computational problems associated to finding decompositions which are optimal in an appropriate sense. In graph-theoretic language, the problems can be recast in terms of maximal sign-consistent subgraphs. The theoretical results include polynomial-time approximation algorithms as</abstract>
+	</publication>
+	<publication>
+		<title>Algorithmic and Complexity Results for Decompositions of Biological Networks into Monotone Subsystems</title>
+		<year>2006</year>
+		<authors>bhaskar dasgupta,german andres enciso,eduardo d. sontag</authors>
+		<jconf>Biosystems</jconf>
+		<label>1182</label>
+		<keyword>Approximate Algorithm;Biological Network;Dynamic System;Epidermal Growth Factor Receptor;Large Scale;Mathematical Analysis;semidefinite programming relaxation;</keyword>
+		<organization>null</organization>
+		<abstract>A useful approach to the mathematical analysis of large-scale biological networks is based upon their decompositions into monotone dynamical systems. This paper deals with two computational problems associated to finding decompositions which are optimal in an appropriate sense. In graph-theoretic language, the problems can be recast in terms of maximal sign-consistent subgraphs. The theoretical results include polynomial-time approximation algorithms as</abstract>
+	</publication>
+	<publication>
+		<title>The inverse protein folding problem on 2D and 3D lattices</title>
+		<year>2007</year>
+		<authors>piotr berman,bhaskar dasgupta,dhruv mubayi,robert h. sloan,györgy turán</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<label>1182</label>
+		<keyword>Canonical Model;Protein Folding;Protein Sequence;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we investigate the inverse protein folding (IPF) problem under the Canonical model on 3D and 2D lattices (13,26). In this problem, we are given a contact graph G = (V, E) of a protein sequence that is embeddable in a 3D (respectively, 2D) lattice and an integer 1 ≤ K ≤ |V |. The goal is to</abstract>
+	</publication>
+	<publication>
+		<title>Sentra: a database of signal transduction proteins for comparative genome analysis</title>
+		<year>2007</year>
+		<authors>mark d'souza,elizabeth m. glass,mustafa h. syed,alexis a. rodriguez,natalia maltsev,michael y. galperin</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>1182</label>
+		<keyword>Automatic Generation;Comparative Genomics;Genome Comparison;Interaction Analysis;Principal Component;Protein Kinase;Protein Phosphatase;Response Regulator;Signal Transduction;Signal Transduction Pathway;Histidine Kinase;</keyword>
+		<organization>null</organization>
+		<abstract>Sentra (http://compbio.mcs.anl.gov/sentra), a data- base of signal transduction proteins encoded in completely sequenced prokaryotic genomes, has been updated to reflect recent advances in under- standing signal transduction events on a whole- genome scale. Sentra consists of two principal components, a manually curated list of signal transduction proteins in 202 completely sequenced prokaryotic genomes and an automatically gener- ated listing of</abstract>
+	</publication>
+	<publication>
+		<title>PUMA2 - grid-based high-throughput analysis of genomes and metabolic pathways</title>
+		<year>2006</year>
+		<authors>natalia maltsev,elizabeth m. glass,dinanath sulakhe,alexis a. rodriguez,mustafa h. syed,tanuja bompada,mark d'souza</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<label>1182</label>
+		<keyword>Comparative Analysis;Functional Analysis;Gene Function;Genetics;Metabolic Network;Metabolic Pathway;Protein Family;Sequence Analysis;High Throughput;</keyword>
+		<organization>null</organization>
+		<abstract>The PUMA2 system (available at http://compbio.mcs. 10 anl.gov/puma2) is an interactive, integrated bioin- formatics environment for high-throughput genetic sequence analysis and metabolic reconstructions from sequence data. PUMA2 provides a framework for comparative and evolutionary analysis of geno- 15 mic data and metabolic networks in the context of taxonomic and phenotypic information. Grid infra- structure is used to perform computationally intens-</abstract>
+	</publication>
+	<publication>
+		<title>Mapping between Compositional Semantic Representations and Lexical Semantic Resources: Towards Accurate Deep Semantic Parsing</title>
+		<year>2008</year>
+		<authors>sergio roa,valia kordoni</authors>
+		<jconf>Meeting of the Association for Computational Linguistics</jconf>
+		<label>1183</label>
+		<keyword>Lexical Semantics;Machine Learning;Probabilistic Model;Semantic Representation;bayesian network;Minimal Recursion Semantics;</keyword>
+		<organization>null</organization>
+		<abstract>This paper introduces a machine learning method based on bayesian networks which is applied to the mapping between deep se- mantic representations and lexical semantic resources. A probabilistic model comprising Minimal Recursion Semantics (MRS) struc- tures and lexicalist oriented semantic features is acquired. Lexical semantic roles enrich- ing the MRS structures are inferred, which are useful to improve the accuracy</abstract>
+	</publication>
+	<publication>
+		<title>Validation and Evaluation of Automatically Acquired Multiword Expressions for Grammar Engineering</title>
+		<year>2007</year>
+		<authors>aline villavicencio,valia kordoni,marco idiart,carlos ramisch</authors>
+		<jconf></jconf>
+		<label>1183</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Treebanking Discriminants as Parse Disambiguation Features</title>
+		<year>2009</year>
+		<authors>zhang yi</authors>
+		<jconf>International Workshop on Parsing Technologies</jconf>
+		<label>1183</label>
+		<keyword>Discriminative Model;Feature Extraction;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel approach of in- corporating fine-grained treebanking deci- sions made by human annotators as dis- criminative features for automatic parse disambiguation. To our best knowledge, this is the first work that exploits treebank- ing decisions for this task. The advan- tage of this approach is that use of human judgements is made. The paper presents comparative</abstract>
+	</publication>
+	<publication>
+		<title>Correlating Natural Language Parser Performance with Statistical Measures of the Text</title>
+		<year>2009</year>
+		<authors>rui wang</authors>
+		<jconf>German Conference on Artificial Intelligence</jconf>
+		<label>1183</label>
+		<keyword>Natural Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Semantic Feature Engineering for Enhancing Disambiguation Performance in Deep Linguistic Processing</title>
+		<year>2010</year>
+		<authors>danielle ben-gera,valia kordoni</authors>
+		<jconf>Language Resources and Evaluation</jconf>
+		<label>1183</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Disambiguating Compound Nouns for a Dynamic HPSG Treebank of Wall Street Journal Texts</title>
+		<year>2010</year>
+		<authors>valia kordoni</authors>
+		<jconf>Language Resources and Evaluation</jconf>
+		<label>1183</label>
+		<keyword>Wall Street Journal;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating and Extending the Coverage of HPSG Grammars: A Case Study for German</title>
+		<year>2008</year>
+		<authors>jeremy nicholson,valia kordoni,timothy baldwin,rebecca dridan</authors>
+		<jconf>Language Resources and Evaluation</jconf>
+		<label>1183</label>
+		<keyword>Case Study;Maximum Entropy Model;</keyword>
+		<organization>null</organization>
+		<abstract>In this work, we examine and attempt to extend the coverage of a German HPSG grammar. We use the grammar to parse a corpus of newspaper text and evaluate the proportion of sentences which have a correct attested parse, and analyse the cause of errors in terms of lexical or constructional gaps which prevent parsing. Then, using a maximum entropy</abstract>
+	</publication>
+	<publication>
+		<title>Robust Parsing with a Large HPSG Grammar</title>
+		<year>2008</year>
+		<authors>valia kordoni</authors>
+		<jconf>Language Resources and Evaluation</jconf>
+		<label>1183</label>
+		<keyword>Robust Parsing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Large Scale Distributed Simulation on the Grid</title>
+		<year>2006</year>
+		<authors>georgios k. theodoropoulos,dan chen,rob minson,stephen john turner,wentong cai,yong xie,brian logan</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>1184</label>
+		<keyword>agent-based system;Distributed Computing;Distributed Simulation;Domain Knowledge;Geographic Distribution;Model Development;</keyword>
+		<organization>null</organization>
+		<abstract>The development of many complex simulation applica- tions requires collaborative effort from researchers with different domain knowledge and expertise, possibly at dif- ferent locations. These simulation systems often require huge computing resources and data sets, which may be ge- ographically distributed. In order to support collaborative model development and to cater for the increasing complex- ity of such systems, it</abstract>
+	</publication>
+	<publication>
+		<title>A simple and fast Wait-Free Snapshot Algorithm for Real-Time Systems</title>
+		<year>2000</year>
+		<authors>håkan sundell,philippas tsigas</authors>
+		<jconf>International Conference On Principles Of DIstributed Systems</jconf>
+		<label>1181</label>
+		<keyword>Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Simple, Fast Parallel Implementation of Quicksort and its Performance Evaluation on SUN Enterprise 10000</title>
+		<year>2003</year>
+		<authors>philippas tsigas</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>1184</label>
+		<keyword>Cache Coherence;Parallel Implementation;Parallel Sorting;Performance Evaluation;Shared Memory Multiprocessor;Sorting Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>This paper looks into the behavior of a simple, fine-grain parallel extension ofQuicksort for cache-coherent shared address space multiprocessors. Quicksoft hasmany nice properties: i) it is fast and general purpose; it is widely believed thatQuicksoft is the fastest general-purpose sorting algorithm, on average, and for alarge number of elelnents [Blelloch et al. 1991; Dusseau et al. 1996; Helman et al.1996b;</abstract>
+	</publication>
+	<publication>
+		<title>The Non-blocking Programming Paradigm in Large Scale Scientific Computations</title>
+		<year>2003</year>
+		<authors>philippas tsigas</authors>
+		<jconf>Parallel Processing and Applied Mathematics</jconf>
+		<label>1184</label>
+		<keyword>Fault Tolerant;Large Scale;Multiprocessor Systems;Mutual Exclusion;Programming Paradigm;Scientific Computing;</keyword>
+		<organization>null</organization>
+		<abstract>Non-blocking implementation of shared data objects is a new alternative approach to the problem of designing scalable shared data objects for multiprocessor systems. Non-blocking implementations allow multiple tasks to access a shared object at the same time, but without enforcing mutual exclusion to accomplish this. Since, in non-blocking im- plementations of shared data objects, one process is not allowed to</abstract>
+	</publication>
+	<publication>
+		<title>Wait-Free Queue Algorithms for the Real-time Java Specification</title>
+		<year>2006</year>
+		<authors>philippas tsigas,daniel cederman,tord dellsen</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<label>1184</label>
+		<keyword>Efficient Algorithm;Real-time Java;Space Complexity;Time Complexity;High Priority;Real Time;Real Time Specification for Java;</keyword>
+		<organization>null</organization>
+		<abstract>Efficient algorithmic implementations of wait-free queue classes in the Real-time Specification for Java are presented in this paper. The algorithms are designed to exploit the unidirectional nature of these queues and the priority-based scheduling in the specification. The proposed implementa- tions support multiple real-time threads to access the queue in a wait-free manner and at the same time keep the</abstract>
+	</publication>
+	<publication>
+		<title>Non-Blocking Data Sharing in Multiprocessor Real-Time Systems</title>
+		<year>1999</year>
+		<authors>philippas tsigas</authors>
+		<jconf>Real-Time Computing Systems and Applications</jconf>
+		<label>1184</label>
+		<keyword>Data Sharing;Multiprocessor Systems;Reading and Writing;Real Time;Real Time Systems;</keyword>
+		<organization>null</organization>
+		<abstract>A non-blocking protocol that allows real-time tasks to share data in a multiprocessor system is presented in this paper. The protocol gives the means to concur-rent real-time tasks to read and write shared data; the protocol allows multiple write and multiple read opera-tions to be executed concurrently. Our protocol extends previous results and is optimal with respect to space requirements.</abstract>
+	</publication>
+	<publication>
+		<title>Evaluating the performance of non-blocking synchronization on shared-memory multiprocessors</title>
+		<year>2001</year>
+		<authors>philippas tsigas</authors>
+		<jconf>Sigmetrics Performance Evaluation Review</jconf>
+		<label>1184</label>
+		<keyword>Shared Memory Multiprocessor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A simple, fast and scalable non-blocking concurrent FIFO queue for shared memory multiprocessor systems</title>
+		<year>2001</year>
+		<authors>philippas tsigas</authors>
+		<jconf>ACM Symposium on Parallel Algorithms and Architectures</jconf>
+		<label>1184</label>
+		<keyword>Cache Coherence;Multiprocessor Systems;Shared Memory Multiprocessor;Shared Memory System;Non Uniform Memory Access;Compare and Swap;</keyword>
+		<organization>null</organization>
+		<abstract>A non-blocking FIFO queue algorithm for multiprocessor shared memory systems is presented in this paper. The algorithm is very simple, fast and scales very well in both symmetric and non-symmetric multiprocessor shared memory systems. Experiments on a 64-node SUN Enterprise 10000 — a symmetric multiprocessorsystem — and on a 64-node SGI Origin 2000 — a cache coherent non uniform memory</abstract>
+	</publication>
+	<publication>
+		<title>Integrating non-blocking synchronisation in parallel applications: performance advantages and methodologies</title>
+		<year>2002</year>
+		<authors>philippas tsigas</authors>
+		<jconf>Workshop on Software and Performance</jconf>
+		<label>1184</label>
+		<keyword>Large Scale;Multiprocessor Systems;Parallel Applications;Parallel Systems;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we investigate how performance and speedup of applications would be affected by using non-blocking rather than blocking synchronisation in parallel systems. The results obtained show that for many applications, non-blocking synchronisation lead to significant speedups for a fairly large number of processors, while it never slows the applications down. As part of this investigation this paper also</abstract>
+	</publication>
+	<publication>
+		<title>Large scale agent-based simulation on the grid</title>
+		<year>2008</year>
+		<authors>dan chen,georgios k. theodoropoulos,stephen john turner,wentong cai,rob minson</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<label>1184</label>
+		<keyword>Agent Based Model;Agent Based Simulation;agent-based system;Distributed Computing;Distributed Simulation;Domain Knowledge;Geographic Distribution;High Level Architecture;Large Scale;Middleware;Model Development;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The development,of many,complex,simulation applications requires collaborative effort from researchers with different domain,knowledge and expertise, possibly at different locations. These simulation systems often require huge computing resources and data sets, which can be geographically distributed. In order to support collaborative model development and to cater for the increasing complexity of such systems, it is necessary to harness distributed resources over</abstract>
+	</publication>
+	<publication>
+		<title>A Two-Stage Gene Selection Algorithm by Combining ReliefF and mRMR</title>
+		<year>2007</year>
+		<authors>chris h. q. ding,tao li</authors>
+		<jconf>IEEE International Conference on Bioinformatics and Bioengineering</jconf>
+		<label>1185</label>
+		<keyword>Candidate Gene;Feature Selection;Gene Expression Data;Gene Selection;Indexing Terms;Naive Bayes;</keyword>
+		<organization>null</organization>
+		<abstract>Gene expression data usually contains a large num- ber of genes, but a small number of samples. Feature selection for gene expression data aims at finding a set of genes that best discriminate biological samples of different types. In this paper, we present a two-stage selection algorithm by combining ReliefF and mRMR: In the first stage, ReliefF is applied to</abstract>
+	</publication>
+	<publication>
+		<title>Weighted Consensus Clustering for Identifying Functional Modules in Protein-Protein Interaction Networks</title>
+		<year>2009</year>
+		<authors>erliang zeng,tao li,giri narasimhan</authors>
+		<jconf>International Conference on Machine Learning and Applications</jconf>
+		<label>1185</label>
+		<keyword>protein-protein interaction network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bridging Domains with Words: Opinion Analysis with Matrix Tri-factorizations</title>
+		<year>2010</year>
+		<authors>tao li,vikas sindhwani,chris h. q. ding</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1185</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Knowledge transformation from word space to document space</title>
+		<year>2008</year>
+		<authors>tao li,chris h. q. ding,bo shao</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1185</label>
+		<keyword>Document Clustering;Matrix Factorization;Posterior Probability;Similarity Measure;Space Use;</keyword>
+		<organization>null</organization>
+		<abstract>In most IR clustering problems, we directly cluster the documents, working in the document space, using cosine similarity between documents as the similarity measure. In many real-world applica- tions, however, we usually have knowledge on the word side and wish to transform this knowledge to the document (concept) side. In this paper, we provide a mechanism for this knowledge trans-</abstract>
+	</publication>
+	<publication>
+		<title>Knowledge transformation for cross-domain sentiment classification</title>
+		<year>2009</year>
+		<authors>tao li,vikas sindhwani,chris h. q. ding</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1185</label>
+		<keyword>Discussion Forum;Non-negative Matrix Factorization;Public Opinion;Sentiment Analysis;Sentiment Classification;Text Categorization;Transfer Learning;</keyword>
+		<organization>null</organization>
+		<abstract>With the explosion of user-generated web2.0 content in the form of blogs, wikis and discussion forums, the Internet has rapidly become a massive dynamic repository of public opinion on an unbounded range of topics. A key enabler of opinion extraction and summarization is sentiment classification: the task of automatically identifying whether a given piece of text expresses positive or negative</abstract>
+	</publication>
+	<publication>
+		<title>VisualSum: an interactive multi-document summarizationsystem using visualization</title>
+		<year>2010</year>
+		<authors>dingding wang,tao li</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>1185</label>
+		<keyword>Automatic Generation;Document Summarization;Information Visualization;multi-document summarization;</keyword>
+		<organization>null</organization>
+		<abstract>Given a collection of documents, most of existing multidocument summarization methods automatically generate a static summary for all the users. However, different users may have different opinions on the documents, thus there is a necessity for improving users' interactions in the summarization process. In this paper, we propose an interactive document summarization system using information visualization techniques.</abstract>
+	</publication>
+	<publication>
+		<title>LIBGS: A MATLAB software package for gene selection</title>
+		<year>2010</year>
+		<authors>dingding wang,tao li</authors>
+		<jconf>International Journal of Data Mining and Bioinformatics</jconf>
+		<label>1185</label>
+		<keyword>Gene Selection;Software Package;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Bagging with Adaptive Costs</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>1186</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sharing Classifiers among Ensembles from Related Problem Domains</title>
+		<year>2005</year>
+		<authors>samuel burer</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1186</label>
+		<keyword>Semi Definite Program;</keyword>
+		<organization>null</organization>
+		<abstract>A classification ensemble is a group of classifiers that all solve the same prediction problem in different ways. It is well-known that combining the predictions of classifiers within the same problem domain using techniques like bag- ging or boosting often improves the performance. This re- search shows that sharing classifiers among different but closely related problem domains can also be</abstract>
+	</publication>
+	<publication>
+		<title>Novelty, Question Answering and Genomics: The University of Iowa Response</title>
+		<year>2004</year>
+		<authors>david eichmann,shannon bradshaw,xin ying qiu,li zhou,padmini srinivasan,aditya kumar sehgal,hudon wong</authors>
+		<jconf>Text REtrieval Conference</jconf>
+		<label>1186</label>
+		<keyword>Question Answering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Ensemble Pruning Via Semi-definite Programming</title>
+		<year>2006</year>
+		<authors>samuel burer</authors>
+		<jconf>Journal of Machine Learning Research</jconf>
+		<label>1186</label>
+		<keyword>Approximate Solution;Combinatorial Optimization Problem;Computer Experiment;Heuristic Method;Integer Program;Knowledge Sharing;Learning Model;Optimal Method;Optimal Solution;Subset Selection;Semi Definite Program;</keyword>
+		<organization>null</organization>
+		<abstract>An ensemble is a group of learning models that jointly solve a problem. However, the ensembles generated by existing techniques are sometimes unnecessarily large, which can lead to extra memory usage, computational costs, and occasional decreases in eectiveness. The purpose of ensemble pruning is to search for a good subset of ensemble members that performs as well as, or better</abstract>
+	</publication>
+	<publication>
+		<title>Bagging with Adaptive Costs</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>1186</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Event tactic analysis based on player and ball trajectory in broadcast video</title>
+		<year>2008</year>
+		<authors>guangyu zhu,changsheng xu,qingming huang,hanqing lu</authors>
+		<jconf>Conference on Image and Video Retrieval</jconf>
+		<label>1187</label>
+		<keyword>Event Detection;Hypothesis Test;Object Detection;Object Tracking;Spatial Distribution;Spatial Interaction;Sports Video Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Most of existing approaches on sports video analysis are concentrated on semantic event detection which is general audience oriented and the extracted events are presented to the audience without further analysis from tactic perspective. In this paper, we propose a novel approach to extract the tactic information and recognize the tactic patterns from goal events in broadcast soccer video. We</abstract>
+	</publication>
+	<publication>
+		<title>Collaborate ball and player trajectory extraction in broadcast soccer video</title>
+		<year>2008</year>
+		<authors>hanqing lu,changsheng xu</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>1187</label>
+		<keyword>Camera Motion;Data Association;Object Tracking;</keyword>
+		<organization>null</organization>
+		<abstract>Enormous accessible broadcast soccer videos de- mand an efficient ball and player trajectory extraction framework to represent the tactic semantics for the au- tomatic analysis. Camera motions, noise and blurs in broadcast videos make it difficult to extract the trajec- tories with a single existing object tracking algorithm. In this paper, we propose a novel framework for ball and player</abstract>
+	</publication>
+	<publication>
+		<title>Extracting Key Sub-trajectory Features for Supervised Tactic Detection in Sports Video</title>
+		<year>2010</year>
+		<authors>changsheng xu,hanqing lu</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>1187</label>
+		<keyword>Sports Video;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Hierarchical Semantics-Matching Approach for Sports Video Annotation</title>
+		<year>2009</year>
+		<authors>chao liang,changsheng xu,jinqiao wang,hanqing lu</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<label>1187</label>
+		<keyword>Semantic Matching;Sports Video;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Sports Video Analysis: Semantics Extraction, Editorial Content Creation and Adaptation</title>
+		<year>2009</year>
+		<authors>changsheng xu,jian cheng,yifan zhang,hanqing lu</authors>
+		<jconf>Journal of Multimedia</jconf>
+		<label>1187</label>
+		<keyword>Action Recognition;Computer Network;Event Detection;Indexing Terms;Semantic Analysis;Semantic Gap;Sports Video;Sports Video Analysis;Audio Visual;</keyword>
+		<organization>null</organization>
+		<abstract>Advances in computing, networking, and multimedia technologies have led to a tremendous growth of sports video content and accelerated the need of analysis and understanding of sports video content. Sports video analysis has been a hot research area and a number of potential applications have been identified. In this paper, we summarize our research achievement on semantics extraction and automatic</abstract>
+	</publication>
+	<publication>
+		<title>Maximal cofinitary groups</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Archive for Mathematical Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adjoining cofinitary permutations (II)</title>
+		<year>2003</year>
+		<authors></authors>
+		<jconf>Archive for Mathematical Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cardinal invariants related to permutation groups</title>
+		<year>2006</year>
+		<authors>bart kastermans</authors>
+		<jconf>Annals of Pure and Applied Logic</jconf>
+		<label>1188</label>
+		<keyword>Cardinal Invariant;Permutation Group;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the possible cardinalities of the following three cardinal invariants which are related to the permutation group on the set of natural numbers: ag := the least cardinal number of maximal cofinitary permutation groups; ap := the least cardinal number of maximal almost disjoint permutation families; c(Sym(N)) := the cofinality of the permutation group on the set of natural</abstract>
+	</publication>
+	<publication>
+		<title>Confinitary Groups, Almost Disjoint and Dominating Families</title>
+		<year>2001</year>
+		<authors>michael hrusák,juris steprans</authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analytic and coanalytic families of almost disjoint functions</title>
+		<year>2008</year>
+		<authors>bart kastermans,juris steprans</authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On A Class of M.A.D. Families</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adjoining Cofinitary Permutations</title>
+		<year>1999</year>
+		<authors></authors>
+		<jconf>Journal of Symbolic Logic</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adjoining Almost Disjoint Permutations</title>
+		<year>2002</year>
+		<authors></authors>
+		<jconf>Mathematical Logic Quarterly</jconf>
+		<label>1188</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Web Service Based Method for Large Scale Flow Shops with Flowtime Minimization</title>
+		<year>2007</year>
+		<authors>xiaoping li,qian wang</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1189</label>
+		<keyword>Large Scale;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Similarity based ant-colony algorithm for permutation flowshop scheduling problems with total flowtime minimization</title>
+		<year>2009</year>
+		<authors>xiaoping li,qian wang,jie zhu</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1189</label>
+		<keyword>Ant Colony Algorithm;Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Composite heuristic algorithm for permutation flowshop scheduling problems with total flowtime minimization</title>
+		<year>2008</year>
+		<authors>xiaoping li,jie zhu,qian wang</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1189</label>
+		<keyword>Heuristic Algorithm;Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Metaheuristic for no-wait job shops with makespan minimization</title>
+		<year>2008</year>
+		<authors>jie zhu,xiaoping li,qian wang</authors>
+		<jconf>Computer Supported Cooperative Work in Design</jconf>
+		<label>1189</label>
+		<keyword>Job Shop;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Effective Heuristic for On-line Tenant Placement Problem in SaaS</title>
+		<year>2010</year>
+		<authors>zhi hu wang,bo gao,changjie guo,wei sun,xiaoping li</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>1189</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hybrid genetic algorithm for permutation flowshop scheduling problems with total flowtime minimization</title>
+		<year>2009</year>
+		<authors>xiaoping li,qian wang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<label>1189</label>
+		<keyword>Hybrid Genetic Algorithm;Scheduling Problem;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MultiTask Active Learning with Output Constraints</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>National Conference on Artificial Intelligence</jconf>
+		<label>1190</label>
+		<keyword>Active Learning;Cross Entropy;Document Classification;Information Extraction;Natural Language Processing;Satisfiability;Text Mining;Value of Information;Web Information Extraction;</keyword>
+		<organization>null</organization>
+		<abstract>Many problems in information extraction, text mining, natural language processing and other fields exhibit the same property: multiple prediction tasks are related in the sense that their outputs (labels) satisfy certain con- straints. In this paper, we propose an active learning framework exploiting such relations among tasks. Intu- itively, with task outputs coupled by constraints, active learning can utilize not</abstract>
+	</publication>
+	<publication>
+		<title>Projection Penalties: Dimension Reduction without Loss</title>
+		<year>2010</year>
+		<authors>jeff schneider</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1190</label>
+		<keyword>Dimension Reduction;Face Recognition;Feature Space;High Dimensionality;Partial Least Square;Prediction Model;Text Classification;</keyword>
+		<organization>null</organization>
+		<abstract>Dimension reduction is popular for learning predictive models in high-dimensional spaces. It can highlight the relevant part of the fea- ture space and avoid the curse of dimension- ality. However, it can also be harmful be- cause any reduction loses information. In this paper, we propose the projection penalty framework to make use of dimension reduc- tion without losing valuable</abstract>
+	</publication>
+	<publication>
+		<title>Smart PCA</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1190</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Concept Sampling: Towards Systematic Selection in Large-Scale Mixed Concepts in Machine Learning</title>
+		<year>2007</year>
+		<authors>xiaoming jin</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1190</label>
+		<keyword>Decision Making;Domain Specificity;Empirical Study;Large Scale;Machine Learning;Real World Application;Sampling Methods;Selection Combining;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of concept sam- pling. In many real-world applications, a large col- lection of mixed concepts is available for decision making. However, the collection is often so large that it is difficult if not unrealistic to utilize those concepts directly, due to the domain-specific limi- tations of available space or time. This naturally yields the need</abstract>
+	</publication>
+	<publication>
+		<title>Complex Systems Modeling Using Scale-Free Highly-Clustered Echo State Network</title>
+		<year>2006</year>
+		<authors>zhidong deng</authors>
+		<jconf>IJCNN</jconf>
+		<label>1190</label>
+		<keyword>Complex System;Echo State Network;Scale Free;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Learning the Semantic Correlation: An Alternative Way to Gain from Unlabeled Text</title>
+		<year>2008</year>
+		<authors>jeff schneider,artur dubrawski</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>1190</label>
+		<keyword>Empirical Study;Latent Variable Model;Prediction Model;Semi Supervised Learning;Text Classification;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we address the question of what kind of knowledge is gen- erally transferable from unlabeled text. We suggest and analyze the se- mantic correlation of words as a generally transferable structure of the language and propose a new method to learn this structure using an ap- propriately chosen latent variable model. This semantic correlation con- tains structural</abstract>
+	</publication>
+	<publication>
+		<title>Learning Compressible Models</title>
+		<year>2010</year>
+		<authors>jeff schneider,artur dubrawski</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>1190</label>
+		<keyword>Auxiliary Information;Brain Computer Interface;Coding Theory;Frequency Domain;Handwritten Character Recognition;Learning Model;Linear Model;Machine Learning;Unlabeled Data;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we study the combination of compression and ℓ1-norm regularization in a machine learning context: learning compressible models. By including a compression operation into the ℓ1 regularization, the assumption on model sparsity is relaxed to compress- ibility: model coefficients are compressed before being penalized, and sparsity is achieved in a compressed domain rather than the original space. We</abstract>
+	</publication>
+	<publication>
+		<title>An automatic construction and organization strategy for ensemble learning on data streams</title>
+		<year>2006</year>
+		<authors>xiaoming jin</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>1190</label>
+		<keyword>Classification Accuracy;Concept Drift;Data Stream;Ensemble Learning;Variance Reduction;</keyword>
+		<organization>null</organization>
+		<abstract>As data streams are gaining prominence in a growing number of emerging application domains, classification on data streams is becoming an active research area. Currently, the typical approach to this problem is based on ensemble learning, which learns basic classifiers from training data stream and forms the global predictor by organizing these basic ones. While this approach seems successful to</abstract>
+	</publication>
+	<publication>
+		<title>Collective Behavior of a Small-World Recurrent Neural System With Scale-Free Distribution</title>
+		<year>2007</year>
+		<authors>zhidong deng</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<label>1190</label>
+		<keyword>Collective Behavior;Neural System;Small World;Scale Free;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>RIOT: I/O-Efficient Numerical Computing without SQL</title>
+		<year>2009</year>
+		<authors>herodotos herodotou,jun yang</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1191</label>
+		<keyword>Database System;Large Data;large dataset;Numerical Computation;Relational Database System;Statistical Data Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>R is a numerical computing environment that is widely popular for statistical data analysis. Like many such environments, R performs poorly for large datasets whose sizes exceed that of physical mem- ory. We present our vision of RIOT (R with I/O Transparency), a system that makes R programs I/O-efficient in a way transpar- ent to the users. We describe our</abstract>
+	</publication>
+	<publication>
+		<title>I/O-efficient statistical computing with RIOT</title>
+		<year>2010</year>
+		<authors>weiping zhang,jun yang</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>1191</label>
+		<keyword>Database System;Language Processing;Optimization Technique;Statistical Analysis;Statistical Computing;Statistical Data Analysis;Storage Management;</keyword>
+		<organization>null</organization>
+		<abstract>Statistical analysis of massive data is becoming indispensable to science, commerce, and society today. Such analysis requires efficient, flexible storage support and special optimization techniques. In this demo, we present RIOT (R with I/O Transparency), a system that extends R, a popular computing environment for statistical data analysis. RIOT makes R programs I/O-efficient in a way transparent to users. It</abstract>
+	</publication>
+	<publication>
+		<title>RIOT: I/O-Efficient Numerical Computing without SQL</title>
+		<year>2009</year>
+		<authors>herodotos herodotou,jun yang</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1191</label>
+		<keyword>Database System;Large Data;large dataset;Numerical Computation;Relational Database System;Statistical Data Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>R is a numerical computing environment that is widely popular for statistical data analysis. Like many such environments, R performs poorly for large datasets whose sizes exceed that of physical mem- ory. We present our vision of RIOT (R with I/O Transparency), a system that makes R programs I/O-efficient in a way transpar- ent to the users. We describe our</abstract>
+	</publication>
+	<publication>
+		<title>LET: Towards More Precise Clustering of Search Results</title>
+		<year>2007</year>
+		<authors>lidong bing,yexin wang,yan zhang</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>1192</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>XRank: Learning More fromWeb User Behaviors</title>
+		<year>2006</year>
+		<authors>lei zhang,yan zhang,xiaoming li</authors>
+		<jconf>Conference on Computer and Information Technology</jconf>
+		<label>1192</label>
+		<keyword>Link Analysis;Ranking Algorithm;User Behavior;Web Pages;Web Search Engine;Web Spam;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Link analysis has been widely used to evaluate the im- portance of web pages. PageRank, the most famous link analysis algorithm, offers an effective way to rank the pages. However, the algorithm ignores three facts. First, nowadays,the way that users retrieve information is quite different from the previous way when web search engine was not extensively used. Second, inter-site</abstract>
+	</publication>
+	<publication>
+		<title>Weighting Links Using Lexical and Positional Analysis in Web Ranking</title>
+		<year>2008</year>
+		<authors>yexin wang,lidong bing,yan zhang</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<label>1192</label>
+		<keyword>Link Analysis;Perforation;Web Pages;</keyword>
+		<organization>null</organization>
+		<abstract>Link analysis has been widely used to evaluate the im- portance of web pages. Popular link analysis algorithms are mainly based on the link structure between pages. How- ever, a web page usually contains various links such as for navigation, decoration or nepotism, which are irrelevant t o the topic of the web page and can not reflect the actual</abstract>
+	</publication>
+	<publication>
+		<title>Using Route Probing to Derive Link Traffic Load with Edge-Based Measurements</title>
+		<year>2005</year>
+		<authors>guofeng zhao,tang hong,shangyu gu</authors>
+		<jconf>Network and Parallel Computing</jconf>
+		<label>1193</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Safety Critical Middleware for Distributed and Embedded Safety Critical System</title>
+		<year>2008</year>
+		<authors>wandong cai,yue wang</authors>
+		<jconf>Networked Computing and Advanced Information Management</jconf>
+		<label>1194</label>
+		<keyword>Middleware;Safety Critical System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm of Two-Stage Supply Chain Distribution Problem Associated with Fixed Charge and Multiple Transportation Modes</title>
+		<year>2009</year>
+		<authors>feng chun</authors>
+		<jconf>International Conference on Natural Computation</jconf>
+		<label>1195</label>
+		<keyword>Genetic Algorithm;Supply Chain;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Policy Lifecycle Model for Systems Management</title>
+		<year>2005</year>
+		<authors>xiaoli liu,weinong wang</authors>
+		<jconf>It Professional</jconf>
+		<label>1196</label>
+		<keyword>System Management;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Modeling and Analyzing of Workflow Authorization Management</title>
+		<year>2004</year>
+		<authors>zhang yong,wang weinong</authors>
+		<jconf>Journal of Network and Systems Management</jconf>
+		<label>1196</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

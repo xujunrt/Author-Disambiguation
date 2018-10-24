@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Bishop</FullName>
+	<publication>
+		<title>A Practical Approach to NFS Response Time Monitoring</title>
+		<year>1993</year>
+		<authors>gary l. schaps</authors>
+		<jconf>USENIX Systems Administration Conference</jconf>
+		<label>811</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nitin Gupta</FullName>
+	<publication>
+		<title>QNet: A Tool for Querying Protein Interaction Networks</title>
+		<year>2008</year>
+		<authors>banu dost,tomer shlomi,eytan ruppin,vineet bafna,roded sharan</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>787</label>
+		<keyword>Dynamic Program;Gene Expression;Large Scale;Molecular Interactions;Protein Complex;Protein Interaction Network;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Molecular interaction databases,can be used to study the evolution of molecular,pathways across species. Querying such pathways is a challenging computational problem, and recent efforts have been limited to simple queries (paths), or simple networks (forests). In this paper, we significantly extend the class of pathways that can be efficiently queried to the case of trees, and graphs of bounded</abstract>
+	</publication>
+	<publication>
+		<title>QNet: A Tool for Querying Protein Interaction Networks</title>
+		<year>2008</year>
+		<authors>banu dost,tomer shlomi,eytan ruppin,vineet bafna,roded sharan</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>787</label>
+		<keyword>Dynamic Program;Gene Expression;Large Scale;Molecular Interactions;Protein Complex;Protein Interaction Network;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Molecular interaction databases,can be used to study the evolution of molecular,pathways across species. Querying such pathways is a challenging computational problem, and recent efforts have been limited to simple queries (paths), or simple networks (forests). In this paper, we significantly extend the class of pathways that can be efficiently queried to the case of trees, and graphs of bounded</abstract>
+	</publication>
+	<publication>
+		<title>From Declarative Languages to Declarative Processing in Computer Games</title>
+		<year>2009</year>
+		<authors>benjamin sowell,alan j. demers,johannes gehrke,haoyuan li,walker m. white</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>788</label>
+		<keyword>Atomic Action;Computer Game;Database System;Declarative Languages;Game Engine;Parallel Architecture;Query Processing;Research Agenda;Scripting Language;Virtual Worlds;</keyword>
+		<organization>null</organization>
+		<abstract>Recent work has shown that we can dramatically improve the performance of computer games and simulations through declarative processing: Character AI can be written in an imperative scripting language which is then compiled to re- lational algebra and executed by a special games engine with features similar to a main memory database system. In this paper we lay out a</abstract>
+	</publication>
+	<publication>
+		<title>Complex Group-By Queries for XML</title>
+		<year>2007</year>
+		<authors>chaitanya gokhale,pranav kumar,laks v. s. lakshmanan,raymond t. ng,b. a. prakash</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>789</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Scalability for Virtual Worlds</title>
+		<year>2009</year>
+		<authors>alan j. demers,johannes gehrke,philipp unterbrunner,walker m. white</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>788</label>
+		<keyword>3d graphics;Consistency Model;Distributed Design;Experimental Evaluation;Interactive Environment;Low Latency;Massively Multiplayer;Massively Multiplayer Online Game;Networked Virtual Environment;Shared Virtual Environment;Simulation Environment;Social Network;User Interaction;Virtual Environment;Real Time;Second Life;Virtual Worlds;World of Warcraft;</keyword>
+		<organization>null</organization>
+		<abstract>Networked virtual environments (net-VEs) are the next wave of digital entertainment, with Massively Multiplayer Online Games (MMOs) a very popular instance. Current MMO architectures are server-centric in that all game logic is e xecuted at the servers of the company hosting the game. This architecture has lead to severe scalability problems, in particular since MMOs require realistic graphics and game</abstract>
+	</publication>
+	<publication>
+		<title>SGL: a scalable language for data-driven games</title>
+		<year>2008</year>
+		<authors>robert albright,alan j. demers,johannes gehrke,hooyeon lee,rick keilty,gregory sadowski,ben sowell,walker m. white</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>788</label>
+		<keyword>Computer Game;Data Management;Indexation;Programming Language;Scripting Language;Aggregation Index;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT We propose to demonstrate SGL, a language and system for writing computer,games,using data management,tech- niques. We will demonstrate a complete game,built using the system, and show how complex game behavior can be expressed in a declarative scripting language. The demo will also illustrate the workflow necessary to modify a game and include a visualization of the relational operations that</abstract>
+	</publication>
+	<publication>
+		<title>SEMMO: a scalable engine for massively multiplayer online games</title>
+		<year>2008</year>
+		<authors>alan j. demers,johannes gehrke</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>788</label>
+		<keyword>Game Semantics;Large Scale;Massively Multiplayer Online Game;System Architecture;Virtual Environment;</keyword>
+		<organization>null</organization>
+		<abstract>We propose to demonstrate SEMMO, a consistency server for MMOs. The key features of SEMMO are its novel dis- tributed consistency protocol and system architecture. The distributed nature of the engine allows the clients to perform all computations locally; the only computation that the cen- tral server performs is to determine the serialization order of game actions. We will demo</abstract>
+	</publication>
+	<publication>
+		<title>User-centric personalized extensibility for data-driven web applications</title>
+		<year>2007</year>
+		<authors>fan yang,alan j. demers,johannes gehrke,jayavel shanmugasundaram</authors>
+		<jconf>International Conference on Management of Data</jconf>
+		<label>788</label>
+		<keyword>Declarative Languages;Programming Model;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a novel programming model for building, ex- tending, and personalizing web-based data-driven applica- tions.</abstract>
+	</publication>
+	<publication>
+		<title>Database research opportunities in computer games</title>
+		<year>2007</year>
+		<authors>walker m. white,christoph koch,johannes gehrke,alan j. demers</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>788</label>
+		<keyword>Computer Game;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we outline several ways in which the database community can contribute to the development of technology for computer games. We outline the architecture of different types of computer games, and show how database technol- ogy plays a role in their design. From this, we identify sev- eral new research directions to improve the utilization of this technology</abstract>
+	</publication>
+</person>

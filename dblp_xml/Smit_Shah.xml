@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Smit Shah</FullName>
+	<publication>
+		<title>Data Structures for Storing Small Sets in the Bitprobe Model</title>
+		<year>2010</year>
+		<authors>jaikumar radhakrishnan,saswata shannigrahi</authors>
+		<jconf>European Symposium on Algorithms</jconf>
+		<label>956</label>
+		<keyword>Data Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>XCo: explicit coordination to prevent network fabric congestion in cloud computing cluster platforms</title>
+		<year>2010</year>
+		<authors>vijay shankar rajanna,anand jahagirdar,christopher lemoine,kartik gopalan</authors>
+		<jconf>IEEE International Symposium on High Performance Distributed Computing</jconf>
+		<label>957</label>
+		<keyword>Cloud Computing;Congestion Management;Data Storage;Gigabit Ethernet;Network Congestion;Network Performance;Traffic Congestion;Virtual Machine;Fibre Channel;layer 2;</keyword>
+		<organization>null</organization>
+		<abstract>Large cluster-based cloud computing platforms increasingly use commodity Ethernet technologies, such as Gigabit Ethernet, 10GigE, and Fibre Channel over Ethernet (FCoE), for intra-cluster communication. Traffic congestion can become a performance concern in the Ethernet due to consolidation of data, storage, and control traffic over a common layer-2 fabric, as well as consolidation of multiple virtual machines (VMs) over less physical</abstract>
+	</publication>
+</person>

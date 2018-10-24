@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christoph Schmitz</FullName>
+	<publication>
+		<title>Simulation and planning of minimally invasive coronary artery bypass surgery</title>
+		<year>2001</year>
+		<authors>thomas berlage,arno schmitgen,armin welz</authors>
+		<jconf>Computer Assisted Radiology and Surgery</jconf>
+		<label>153</label>
+		<keyword>Coronary Artery Bypass Surgery;Minimally Invasive;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

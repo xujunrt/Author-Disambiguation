@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dongshin Kim</FullName>
+	<publication>
+		<title>Traversability Classification using Unsupervised on-line Visual Learning for Outdoor Robot Navigation</title>
+		<year>2006</year>
+		<authors>jie sun,sang min oh,james m. rehg,aaron f. bobick</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>213</label>
+		<keyword>Autonomous Mobile Robot;Complex Terrain;Data Collection;Learning Algorithm;Learning Methods;Learning Process;On-line Learning;Optimal Path;Path Following;Robot Navigation;Stereo Vision;Visual Cues;Visual Features;Visual Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Estimating the traversability of terrain in an un- structured outdoor environment is a core functionality for au- tonomous robot navigation. While general-purpose sensing can be used to identify the existence of terrain features such as vegetation and sloping ground, the traversability of these regions is a complex function of the terrain characteristics and vehicle capabilities, which makes it extremely difficult</abstract>
+	</publication>
+	<publication>
+		<title>Traversability classification for UGV navigation: a comparison of patch and superpixel representations</title>
+		<year>2007</year>
+		<authors>sang min oh,james m. rehg</authors>
+		<jconf>International Conference on Intelligent RObots and Systems - IROS</jconf>
+		<label>213</label>
+		<keyword>Classification Accuracy;Complex Terrain;Robot Navigation;Long Range;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Robot navigation in complex outdoor terrain can benefit from accurate traversability classification. Appearancebased traversability estimation can provide a long-range sensing capability which complements the traditional use of stereo or LIDAR ranging. In the standard approach to traversability classification, each image frame is decomposed into patches or pixels for further analysis. However, classification at the pixel level is prone to noise</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yi Chen</FullName>
+	<publication>
+		<title>Discovering Ordered Tree Patterns from XML Queries</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Pacific-Asia Conference on Knowledge Discovery and Data Mining</jconf>
+		<label>1167</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

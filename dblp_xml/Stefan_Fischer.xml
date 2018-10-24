@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Fischer</FullName>
+	<publication>
+		<title>Graph Edit Distance with Node Splitting and Merging, and Its Application to Diatom Idenfication</title>
+		<year>2003</year>
+		<authors>r. ambauen,horst bunke</authors>
+		<jconf>Graph Based Representations in Pattern Recognition</jconf>
+		<label>965</label>
+		<keyword>Edit Distance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Diatom Identification: A Double Challenge Called ADIAC</title>
+		<year>1999</year>
+		<authors>j. m. hans du buf,hamid shahbazkia,adrian ciobanu,micha bayer,stephen droop,ritchie head,steve juggins,horst bunke,michael h. f. wilkinson,jos b. t. m. roerdink,josé luis pech-pacheco,gabriel cristóbal</authors>
+		<jconf>International Conference on Image Analysis and Processing</jconf>
+		<label>965</label>
+		<keyword>Science and Technology;Shape Modeling;</keyword>
+		<organization>null</organization>
+		<abstract>: This paper introduces the project ADIAC(Automatic Diatom Identication and Classication),which started in May 1998 and which is nanced bythe European MAST (Marine Science and Technology)programme. The main goal is to develop algorithmsfor an automatic identication of diatoms using imageinformation: both valve shape (contour) and ornamentation.The paper presents the goals of the project aswell as rst results on shape modeling</abstract>
+	</publication>
+	<publication>
+		<title>Symmetry Based Indexing of Diatoms in an Image Database</title>
+		<year>2000</year>
+		<authors>michael binkert,horst bunke</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>965</label>
+		<keyword>Image Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Automatic Identification of Diatoms Using Decision Forests</title>
+		<year>2001</year>
+		<authors>horst bunke</authors>
+		<jconf>Machine Learning and Data Mining in Pattern Recognition</jconf>
+		<label>965</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Identification of Diatoms by Grid Graph Matching</title>
+		<year>2002</year>
+		<authors>kaspar gilomen,horst bunke</authors>
+		<jconf>International Workshop on Structural and Syntactic Pattern Recognition</jconf>
+		<label>965</label>
+		<keyword>gabor wavelets;Graph Matching;Image Database;Texture Features;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Diatoms are unicellular algae found in water and other places wherever there is humidity and enough light for photo synthesis. In this paper a graph matching based identi cation approach for the retrieval of diatoms from an image database is presented. The retrieval is based on the matching of labeled grid graphs carrying texture information of the underlying diatom.</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Identification of Diatoms Using Visual Human-Interpretable Features</title>
+		<year>2002</year>
+		<authors>horst bunke</authors>
+		<jconf>International Journal of Image and Graphics</jconf>
+		<label>965</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Experiences with an Emotional Sales Agent</title>
+		<year>2004</year>
+		<authors>sven döring,matthias wimmer,antonia krummheuer</authors>
+		<jconf>Affective Dialogue Systems</jconf>
+		<label>966</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>With COSIMAB2B we demonstrate a prototype of a complex and vi- sionary e-procurement application. The embodied character agent named COSIMA is able to respect a customer's preferences and deals with him or her via natural speech. She expresses various emotions via mimic, gesture, com- bined with speech output, and COSIMA is even able to consider the customer's emotions via mimic</abstract>
+	</publication>
+	<publication>
+		<title>The COSIMA prototype for multi-objective bargaining</title>
+		<year>2002</year>
+		<authors>werner kießling,stefan holland,michael fleder</authors>
+		<jconf>Autonomous Agents &amp; Multiagent Systems/Agent Theories, Architectures, and Languages</jconf>
+		<label>966</label>
+		<keyword>Adaptive Dynamics;Business Model;Internet Application;pareto optimality;Search Engine;Software Component;User Feedback;User Interface;Multi Dimensional;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-objective bargaining is a challenging business model for B2C or B2B Internet applications. Our visual bargaining agent COSIMA builds on cooperative database technology like Preference SQL or Preference XPATH, which can efficiently implement \linebreak[4] multi-dimensional search engines with a Pareto-optimality semantics to find best alternative offers. COSIMA is a smart avatar with dynamically generated speech output. We have implemented several</abstract>
+	</publication>
+	<publication>
+		<title>Optimizing the Catalog Search Process for E-Procurement Platforms</title>
+		<year>2005</year>
+		<authors>sven döring,werner kießling,timotheus preisinger</authors>
+		<jconf>Data Engineering Issues in E-Commerce</jconf>
+		<label>966</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>COSIMA - Your Smart, Speaking E-Salesperson</title>
+		<year>2001</year>
+		<authors>werner kießling,stefan holland,thorsten ehm</authors>
+		<jconf>Sigmod Record</jconf>
+		<label>966</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>COSIMAB2B - Sales Automation for E-Procurement</title>
+		<year>2004</year>
+		<authors>werner kießling,sven döring</authors>
+		<jconf>Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce</jconf>
+		<label>966</label>
+		<keyword>E Commerce;Human Interaction;Middleware;Personalized Search;Transaction Cost;Partial Order;</keyword>
+		<organization>null</organization>
+		<abstract>E-procurement is one of the fastest growing application areas for e-commerce. Though B2B transaction costs could be reduced recently by establishing XML based standards for electronic product catalogs and data interchange, B2B sales costs are still high due to the amount of human interaction. For the first time we present a fully automated electronic sales agent for e-procurement portals. The</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation and optimization of the catalog search process of e-procurement platforms</title>
+		<year>2006</year>
+		<authors>sven döring,werner kießling,timotheus preisinger</authors>
+		<jconf>Electronic Commerce Research and Applications</jconf>
+		<label>966</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>How well does charge reparametrisation account for solvent screening in molecular mechanics calculations? The example of myosin</title>
+		<year>2003</year>
+		<authors>sonja m. schwarzl,danzhi huang,jeremy c. smith</authors>
+		<jconf>in Silico Biology</jconf>
+		<label>967</label>
+		<keyword>Molecular Mechanics;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Docking by Monte Carlo minimization with a solvation correction: Application to an FKBP - substrate complex</title>
+		<year>1997</year>
+		<authors>amedeo caflisch,martin karplus</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>967</label>
+		<keyword>Binding Free Energy;Binding Protein;Binding Site;Enzyme;Finite Difference;Free Energy;Molecular Surface;Monte Carlo;Monte Carlo Sampling;poisson boltzmann equation;Solvent Accessibility;van der waals;Transition State;</keyword>
+		<organization>null</organization>
+		<abstract>A Monte Carlo docking procedure that combines random displacements of the substrate and protein side chains with minimization of the enzyme)substrate complex is described and applied to finding the binding mode of the blocked tetrapeptide N-acetyl-Leu-Pro-Phe-methylamide to the FK506 binding protein .FKBP . The tetrapeptide, an analog of the preferred FKBP substrate, and the FKBP binding site are flexible during</abstract>
+	</publication>
+	<publication>
+		<title>Nonuniform charge scaling (NUCS): A practical approximation of solvent electrostatic screening in proteins</title>
+		<year>2005</year>
+		<authors>sonja m. schwarzl,danzhi huang,jeremy c. smith</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>967</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Can the calculation of ligand binding free energies be improved with continuum solvent electrostatics and an ideal-gas entropy correction?</title>
+		<year>2002</year>
+		<authors>sonja m. schwarzl,thomas b. tschopp,jeremy c. smith</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<label>967</label>
+		<keyword>Free Energy;Ligand Binding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Expert Conciliation for Multi Modal Person Authentication Systems by Bayesian Statistics</title>
+		<year>1997</year>
+		<authors>elizabeth saers bigün,josef bigün,benoît duc</authors>
+		<jconf>Audio- and Video-Based Biometric Person Authentication</jconf>
+		<label>968</label>
+		<keyword>bayesian statistics;Decision Making;Expert Opinion;</keyword>
+		<organization>null</organization>
+		<abstract>. We present an algorithm functioning as a supervisor modulein a multi expert decision making machine. It uses the Bayes theoryin order to estimate the biases of individual expert opinions. These arethen used to calibrate and conciliate expert opinions to one opinion. Wepresent a framework for simulating decision strategies using expert opinionswhose properties are easily modifiable. By using real data</abstract>
+	</publication>
+	<publication>
+		<title>Person Authentication by Fusing Face and Speech Information</title>
+		<year>1997</year>
+		<authors>benoît duc,gilbert maître,josef bigün</authors>
+		<jconf>Audio- and Video-Based Biometric Person Authentication</jconf>
+		<label>968</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Shape Normalisaiton for Face Recognition</title>
+		<year>1997</year>
+		<authors>benoît duc</authors>
+		<jconf>Audio- and Video-Based Biometric Person Authentication</jconf>
+		<label>968</label>
+		<keyword>Face Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Face Authentication Using Morphological Dynamic Link Architecture</title>
+		<year>1997</year>
+		<authors>constantine kotropoulos,ioannis pitas,benoît duc</authors>
+		<jconf>Audio- and Video-Based Biometric Person Authentication</jconf>
+		<label>968</label>
+		<keyword>Dynamic Linking;Face Detection;Sparse Grids;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>. A very attractive approach for face detection is based onmultiresolution images (also known as mosaic images). Motivated bythe simplicity of this approach, a rule-based face detection algorithm infrontal views is developed first. Second, a novel dynamic link architecturebased on multiscale morphological dilation-erosion is proposed forface authentication. More specifically, a sparse grid is placed over theoutcome of face detection stage</abstract>
+	</publication>
+	<publication>
+		<title>Fusion of audio and video information for multi modal person authentication</title>
+		<year>1997</year>
+		<authors>benoît duc,elizabeth saers bigün,josef bigün,gilbert maître</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<label>968</label>
+		<keyword>bayesian statistics;Subjective Assessment;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the issue of how these scores can be representedand conciliated to a single opinion on the authenticity level of the user's identityclaim.Subjective assessments are a natural part of the Bayesian statistics (Bernardoand Smith, 1994). The conciliation procedure in the current paper is built onthe ideas of Bigun (1995), who deals with aggregation and calibration of theexperts&quot; assessments</abstract>
+	</publication>
+	<publication>
+		<title>Face authentication with Gabor information on deformable graphs</title>
+		<year>1999</year>
+		<authors>benoît duc,josef bigün</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>968</label>
+		<keyword>Dynamic Linking;Face Verification;gabor filter;Graph Matching;Indexing Terms;Reference Model;Satisfiability;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract>Elastic graph matching has been proposed as a prac- tical implementation of dynamic link matching, which is a neural network with dynamically evolving links between a reference model and an input image. Each node of the graph contains features that characterize the neighborhood of its location in the image. The elastic graph matching usually consists of two consecutive steps, namely</abstract>
+	</publication>
+</person>

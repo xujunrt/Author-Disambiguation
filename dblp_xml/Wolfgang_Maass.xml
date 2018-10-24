@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Wolfgang Maass</FullName>
+	<publication>
+		<title>Towards an Ontology-Based Distributed Architecture for Paid Content</title>
+		<year>2005</year>
+		<authors>wernher behrendt,aldo gangemi,rupert westenthaler</authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>1098</label>
+		<keyword>Business Model;Digital Content;Digital Repository;Distributed Architecture;Semantic Description;Service Orientation;</keyword>
+		<organization>null</organization>
+		<abstract>Business models on the basis of digital content require sophisticated descriptions of that content, as well as service-oriented carrier architectures that allow to negotiate and enforce contract and license schemes in heterogeneous digital application environments. We describe Knowledge Content Objects (KCO), that provide expressive semantic descriptions of digital content, based on an ontology of Information Objects, built under the DOLCE,</abstract>
+	</publication>
+	<publication>
+		<title>Knowledge Content Objects and a Knowledge Content Carrier</title>
+		<year>2004</year>
+		<authors>sunil goyal,wernher behrendt</authors>
+		<jconf>European Workshop on the Integration of Knowledge, Semantic and Digital Media Technologies</jconf>
+		<label>1098</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Trading Semantically Enhanced Digital Products in Electronic Markets</title>
+		<year>2006</year>
+		<authors>wernher behrendt</authors>
+		<jconf>Pragmatic Web</jconf>
+		<label>1098</label>
+		<keyword>Content Management System;Electronic Markets;Product Life Cycle;Semantic Annotation;Semantic Information;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Digital products constitute ag rowing class of economic goods that are increasingly traded via digital networks. In distributed digital networks, it is required that digital products adapt to heterogeneous requirements of electronic markets and subsequent usage environments. Adaptation depends on various kinds of information types that characterise ad igital product. In this article we will present as elf-describing container model</abstract>
+	</publication>
+	<publication>
+		<title>Trading digital information goods based on semantic technologies</title>
+		<year>2007</year>
+		<authors>wernher behrendt,aldo gangemi</authors>
+		<jconf>Journal of Theoretical and Applied Electronic Commerce Research</jconf>
+		<label>1098</label>
+		<keyword>Decision Making;Distributed Architecture;Domain Ontology;Electronic Markets;Information Good;Middleware;Semantic Description;Semantic Technologies;</keyword>
+		<organization>null</organization>
+		<abstract>Digital information goods constitute a growing class of economic goods. During decision making for a purchase a buyer searches for information about digital information goods, such as information about the content, price and trading information, usage information, how it can be presented, and which legal restrictions apply. We present a logical container model for knowledge-intensive digital information goods (knowledge content</abstract>
+	</publication>
+</person>

@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yang Wang</FullName>
+	<publication>
+		<title>Incremental EM for Probabilistic Latent Semantic Analysis on Human Action Recognition</title>
+		<year>2009</year>
+		<authors>jie xu,getian ye,gunawan herman,bang zhang,jun yang</authors>
+		<jconf>Advanced Video and Signal Based Surveillance</jconf>
+		<label>1151</label>
+		<keyword>Action Recognition;Probabilistic Latent Semantic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Conditional Random Field Model for Object Segmentation in Image Sequences</title>
+		<year>2005</year>
+		<authors>qiang ji</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Conditional Random Field;Dynamic Information;Image Sequence;Object Segmentation;Recursive Estimation;Spatial Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a dynamic conditional random field (DCRF) model to integrate contextual constraints for object segmentation in image sequences. Spatial and temporal dependencies within the segmentation process are unified by a dynamic probabilistic framework based on the conditional random field (CRF). An efficient approximate filtering algorithm is derived for the DCRF model to recursively estimate the segmentation field from</abstract>
+	</publication>
+	<publication>
+		<title>Video Segmentation Based on Graphical Models</title>
+		<year>2003</year>
+		<authors>tele tan,kia-fock loe</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Conditional Probability;Distance Transform;Graphical Model;Optimal Method;Temporal Coherence;Temporal Constraints;Video Segmentation;bayesian network;Markov Random Field;Motion Vector Field;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a unified framework for spatio- temporal segmentation of video sequences. A Bayesian network is presented to model the interactions among the motion vector field, the intensity segmentation field, and the video segmentation field. The notions of distance transformation and Markov random field are used to express spatio-temporal constraints. Given consecutive frames, an optimization method is proposed to</abstract>
+	</publication>
+	<publication>
+		<title>On the performance of adaptive traffic signal control</title>
+		<year>2009</year>
+		<authors>chen cai,bernhard hengst,getian ye,enyang huang,carlos aydos,glenn geers</authors>
+		<jconf>Workshop on Advances in Geographic Information Systems</jconf>
+		<label>1151</label>
+		<keyword>Control System;Queue Length;Traffic Control;Look Ahead;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a study in understanding sensing error's impact on traffic signal control performance. Adaptive traffic signal control systems depend on information from traffic sensors to interpret the state of traffic. Signal timings are adjusted at real time according to the state of traffic. Queue length is an important element of the state of traffic, and errors</abstract>
+	</publication>
+	<publication>
+		<title>Joint Region Tracking with Switching Hypothesized Measurements</title>
+		<year>2003</year>
+		<authors>tele tan,kia-fock loe</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>1151</label>
+		<keyword>Dynamical Processes;Multiple Objectives;Probability Distribution;Recursive Estimation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a switching hypothesized measurements (SHM) model supporting multimodal probability distributions and presents the application of the model in handling potential variability in visual environments when tracking multiple objects jointly. For a set of occlusion hypotheses, a frame is measured once under each hypothesis, resulting in a set of measurements at each time instant. A computationally efficient SHM</abstract>
+	</publication>
+	<publication>
+		<title>A probabilistic method for foreground and shadow segmentation</title>
+		<year>2003</year>
+		<authors>tele tan,kia-fock loe</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1151</label>
+		<keyword>Probabilistic Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature clustering for vehicle detection and tracking in road traffic surveillance</title>
+		<year>2009</year>
+		<authors>jun yang,getian ye,arcot sowmya,bang zhang,jie xu</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1151</label>
+		<keyword>bayesian model;Clustering Method;Global Optimization;Indexing Terms;Monte Carlo Method;Object Detection;Objective Function;Road Traffic;Vehicle Detection;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we formulate the feature clustering problem for vehicle detection and tracking as a general MAP problem and solve it using MCMC. The proposed approach exhibits two advantages over existing methods: general Bayesian model can handle arbitrary objective functions and MCMC guaran- tees global optimal solution. Our algorithm is validated on real-world traffic video sequences, and is shown</abstract>
+	</publication>
+	<publication>
+		<title>Informative frequent assembled feature for face detection</title>
+		<year>2009</year>
+		<authors>bang zhang,getian ye,wei wang,jie xu,gunawan herman,jun yang</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1151</label>
+		<keyword>Face Detection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Facial Feature Tracking using a MultiState Hierarchical Shape Model under Varying Face Pose and Facial Expression</title>
+		<year>2006</year>
+		<authors>yan tong,zhiwei zhu,qiang ji</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Facial Expression;Facial Feature Tracking;Shape Modeling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-class Graph Boosting with Subgraph Sharing for Object Recognition</title>
+		<year>2010</year>
+		<authors>bang zhang,getian ye,wei wang,jie xu,gunawan herman,yun yang</authors>
+		<jconf>International Conference on Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Switching Hypothesized Measurements: A Dynamic Model with Applications to Occlusion Adaptive Joint Tracking</title>
+		<year>2003</year>
+		<authors>tele tan,kia-fock loe</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>1151</label>
+		<keyword>Dynamic Model;Dynamical Processes;Multiple Objectives;Probability Distribution;Recursive Estimation;State Space;</keyword>
+		<organization>null</organization>
+		<abstract>This paper proposes a dynamic model supporting multimodal state space probability distributions and presents the application of the model in dealing with visual occlusions when tracking multiple objects jointly. For a set of hypotheses, multiple measurements are acquired at each time instant. The model switches among a set of hypothesized measurements during the propagation. Two computationally efficient filtering algorithms are</abstract>
+	</publication>
+	<publication>
+		<title>A practical approach to multiple super-resolution sprite generation</title>
+		<year>2008</year>
+		<authors>getian ye,jie xu,gunawan herman,bang zhang</authors>
+		<jconf></jconf>
+		<label>1151</label>
+		<keyword>Super Resolution;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Foreground and Shadow Detection in Image Sequences</title>
+		<year>2002</year>
+		<authors>tele tan</authors>
+		<jconf>Uncertainty in Artificial Intelligence</jconf>
+		<label>1151</label>
+		<keyword>Image Sequence;Moving Object;Shadow Detection;bayesian belief network;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel method of foreground segmentation that distinguishes moving objects from their moving cast shadows in monocular image sequences. The models of background, edge information, and shadow are set up and adaptively updated. A Bayesian belief network is proposed to describe the relationships among the segmentation label, background, intensity, and edge information. The notion of Markov random</abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Hidden Markov Random Field Model for Foreground and Shadow Segmentation</title>
+		<year>2005</year>
+		<authors>kia-fock loe,tele tan,jian-kang wu</authors>
+		<jconf>Workshop on Applications of Computer Vision</jconf>
+		<label>1151</label>
+		<keyword>Hidden Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Conditional Random Field Model for Foreground and Shadow Segmentation</title>
+		<year>2006</year>
+		<authors>kia-fock loe,jian-kang wu</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>1151</label>
+		<keyword>Conditional Random Field;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robust facial feature tracking under varying face pose and facial expression</title>
+		<year>2007</year>
+		<authors>yan tong,zhiwei zhu,qiang ji</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Active Shape Model;Facial Expression;Facial Feature Detection;Facial Feature Tracking;Facial Features;gabor wavelets;Local Structure;Pose Estimation;Shape Modeling;Spatial Relation;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a hierarchical multi-state pose-dependent approach for facial feature detection and tracking under varying facial expression and face pose. For effective and efficient representation of feature points, a hybrid representation that integrates Gabor wavelets and gray-level profiles is proposed. To model the spatial relations among feature points, a hierarchical statistical face shape model is proposed to characterize both</abstract>
+	</publication>
+	<publication>
+		<title>A probabilistic approach for foreground and shadow segmentation in monocular image sequences</title>
+		<year>2005</year>
+		<authors>tele tan,kia-fock loe,jian-kang wu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1151</label>
+		<keyword>Graphical Model;Image Sequence;Pattern Recognition;Probabilistic Approach;Shadow Detection;bayesian network;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract This paper presents a novel method,of foreground and shadow,segmentation,in monocular,indoor image,sequences. The models of background, edge information, and shadow are set up and adaptively updated. A Bayesian network is proposed to describe the relationships among the segmentation label, background, intensity, and edge information. A maximum a posteriori—Markov random,field estimation is used to boost the spatial connectivity of segmented,regions.  2005</abstract>
+	</publication>
+	<publication>
+		<title>Spatiotemporal video segmentation based on graphical models</title>
+		<year>2005</year>
+		<authors>kia-fock loe,tele tan,jian-kang wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<label>1151</label>
+		<keyword>Graphical Model;Video Segmentation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Probabilistic Framework for Brain Connectivity From Functional MR Images</title>
+		<year>2008</year>
+		<authors>jagath c. rajapakse,xuebin zheng,juan zhou</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>1151</label>
+		<keyword>Brain Activation;Conditional Random Field;Effective Connectivity;Functional Imaging;Functional Magnetic Resonance Images;Indexing Terms;Mr Imaging;Markov Random Field;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This paper unifies our earlier work on detection of brain activation (Rajapakse and Piyaratna, 2001) and connectivity (Rajapakse and Zhou, 2007) in a probabilistic framework for an- alyzing effective connectivity among activated brain regions from functional magnetic resonance imaging (fMRI) data. Interactions among brain regions are expressed by a dynamic Bayesian net- work (DBN) while contextual dependencies within functional im-</abstract>
+	</publication>
+	<publication>
+		<title>Contextual modeling of functional MR images with conditional random fields</title>
+		<year>2006</year>
+		<authors>jagath c. rajapakse</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>1151</label>
+		<keyword>Conditional Random Field;Mr Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Human Action Detection Using a Transferable Distance Function</title>
+		<year>2009</year>
+		<authors>weilong yang,greg mori</authors>
+		<jconf>Asian Conference on Computer Vision</jconf>
+		<label>1152</label>
+		<keyword>Distance Function;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Unsupervised Discovery of Action Classes</title>
+		<year>2006</year>
+		<authors>hao jiang,mark s. drew,ze-nian li,greg mori</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1152</label>
+		<keyword>Spectral Clustering;Unsupervised Learning;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we consider the problem of describing the action being performed by human figures in still images. We will attack this problem using an unsupervised learning approach, attempting to discover the set of action classes present in a large collection of training images. These ac- tion classes will then be used to label test images. Our ap- proach</abstract>
+	</publication>
+	<publication>
+		<title>Max-margin hidden conditional random fields for human action recognition</title>
+		<year>2009</year>
+		<authors>greg mori</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>1152</label>
+		<keyword>Action Recognition;Conditional Random Field;Cutting Plane Method;Discrimination Learning;Latent Variable;Learning Algorithm;Conditional Ran Dom Field;</keyword>
+		<organization>null</organization>
+		<abstract>We present a new method for classification with struc- tured latent variables. Our model is formulated using the max-margin formalism in the discriminative learning liter - ature. We propose an efficient learning algorithm based on the cutting plane method and decomposed dual optimiza- tion. We apply our model to the problem of recognizing human actions from video sequences, where we</abstract>
+	</publication>
+	<publication>
+		<title>Optimizing Complex Loss Functions in Structured Prediction</title>
+		<year>2010</year>
+		<authors>mani ranjbar,greg mori</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>1152</label>
+		<keyword>Loss Function;Structure Prediction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multiple Tree Models for Occlusion and Spatial Constraints in Human Pose Estimation</title>
+		<year>2008</year>
+		<authors>greg mori</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>1152</label>
+		<keyword>Pose Estimation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boosted Multiple Deformable Trees for Parsing Human Poses</title>
+		<year>2007</year>
+		<authors>greg mori</authors>
+		<jconf>Workshop on Human Motion</jconf>
+		<label>1152</label>
+		<keyword>Learning Algorithm;Pose Estimation;Tree Structure;</keyword>
+		<organization>null</organization>
+		<abstract>Tree-structured models have been widely used for human pose estimation, in either 2D or 3D. While such models allow efficient learn- ing and inference, they fail to capture additional dependencies between body parts, other than kinematic constraints. In this paper, we consider the use of multiple tree models, rather than a single tree model for hu- man pose estimation. Our</abstract>
+	</publication>
+	<publication>
+		<title>Semi-Latent Dirichlet Allocation: A Hierarchical Model for Human Action Recognition</title>
+		<year>2007</year>
+		<authors>payam sabzmeydani,greg mori</authors>
+		<jconf>Workshop on Human Motion</jconf>
+		<label>1152</label>
+		<keyword>Action Recognition;Computer Vision;Hierarchical Model;Latent Dirichlet Allocation;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a new method for human action recognition from video sequences using latent topic models. Video sequences are repre- sented by a novel &quot;bag-of-words&quot; representation, where each frame cor- responds to a &quot;word&quot;. The major difference between our model and pre- vious latent topic models for recognition problems in computer vision is that, our model is trained in a</abstract>
+	</publication>
+	<publication>
+		<title>Boosting with incomplete information</title>
+		<year>2008</year>
+		<authors>gholamreza haffari,shaojun wang,greg mori,feng jiao</authors>
+		<jconf>International Conference on Machine Learning</jconf>
+		<label>1152</label>
+		<keyword>Close Relationships;Hidden Variables;Incomplete Information;Learning Algorithm;Loss Function;Machine Learning;Named Entity Recognition;Visual Object Recognition;Natural Language Process Ing;</keyword>
+		<organization>null</organization>
+		<abstract>In real-world machine learning problems, it is very common that part of the input feature vec- tor is incomplete: either not available, missing, or corrupted. In this paper, we present a boost- ing approach that integrates features with incom- plete information and those with complete infor- mation to form a strong classifier. By introduc- ing hidden variables to model missing</abstract>
+	</publication>
+	<publication>
+		<title>Fast Krylov Methods for N-Body Learning</title>
+		<year>2005</year>
+		<authors>nando de freitas,maryam mahdaviani,dustin lang</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>1152</label>
+		<keyword>Dimensional Reduction;Image Segmentation;Kernel Method;Krylov Method;Krylov Subspace;Machine Learning;Numerical Computation;Object Detection;Similarity Metric;Gaussian Process;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the issue of numerical computation in machine learning domains based on similarity metrics, such as kernel methods, spectral techniques and Gaussian processes. It presents a general solu- tion strategy based on Krylov subspace iteration and fast N-body learn- ing methods. The experiments show significant gains in computation and storage on datasets arising in image segmentation, object detection</abstract>
+	</publication>
+	<publication>
+		<title>Learning a discriminative hidden part model for human action recognition</title>
+		<year>2008</year>
+		<authors>greg mori</authors>
+		<jconf>Neural Information Processing Systems</jconf>
+		<label>1152</label>
+		<keyword>Action Recognition;Conditional Random Field;Large Scale;Model Combination;Object Recognition;</keyword>
+		<organization>null</organization>
+		<abstract>We present a discriminative part-based approach for human action recognition from video sequences using motion features. Our model is based on the recently proposed hidden conditional random field (hCRF) for object recognition. Similar to hCRF for object recognition, we model a human action by a flexible constel- lation of parts conditioned on image observations. Different from object recogni- tion, our</abstract>
+	</publication>
+	<publication>
+		<title>Human Action Recognition by Semilatent Topic Models</title>
+		<year>2009</year>
+		<authors>greg mori</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<label>1152</label>
+		<keyword>Action Recognition;Indexing Terms;Latent Variable;Probabilistic Graphical Model;Video Analysis;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>We propose two new models for human action recognition fromvideo sequences using topic models. Video sequences are represented by a novel &quot;bag-of-words&quot; representation, where each frame corresponds to a &quot;word&quot;. Our models differ from previous latent topic models for visual recognition in two major aspects: first of all, the latent topics in our models directly correspond to class labels; secondly,</abstract>
+	</publication>
+	<publication>
+		<title>Hierarchical stereo correspondence using features of gray connected components</title>
+		<year>1997</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>International Conference on Image Processing</jconf>
+		<label>1153</label>
+		<keyword>Connected Component;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Color Image Segmentation Based on Parameter-Dependent Connected Components</title>
+		<year>2000</year>
+		<authors></authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>1154</label>
+		<keyword>Color Image Segmentation;Connected Component;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Algorithm for Finding Parameter Dependent: Connected Components of Gray Images</title>
+		<year>1998</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>1154</label>
+		<keyword>Connected Component;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Image Understanding with Connected Component Histograms</title>
+		<year>1999</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Image Processing, Image Quality, Image Capture Systems Conference</jconf>
+		<label>1153</label>
+		<keyword>Connected Component;Image Understanding;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Digital Connectivity and Extended Well-Composed Sets for Gray Images</title>
+		<year>1997</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<label>1154</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On parameter-dependent connected components of gray images</title>
+		<year>1996</year>
+		<authors>prabir bhattacharya</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1154</label>
+		<keyword>Connected Component;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>MAPGrid: A New Architecture for Empowering Mobile Data Placement in Grid Environments</title>
+		<year>2007</year>
+		<authors>yun huang,nalini venkatasubramanian</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>1155</label>
+		<keyword>Data Access;Data Placement;Mobile Application;Mobile Computer;Mobile Environment;</keyword>
+		<organization>null</organization>
+		<abstract>The rising popularity of mobile applications and devices has brought about an enhanced interest in infrastructure support for mobile computing. Our work focuses on the development of a mobile grid infrastructure called MAP- Grid (Mobile Applications on Grids), where grid resources are exploited as proxies to enable advanced mobile appli- cations. However, intermittent availability of grid resources presents challenges for</abstract>
+	</publication>
+	<publication>
+		<title>Human-Currency Interaction: learning from virtual currency use in China</title>
+		<year>2008</year>
+		<authors>scott d. mainwaring</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>1155</label>
+		<keyword>Game Design;Interactive Learning;Online Game;User Experience;Virtual Worlds;</keyword>
+		<organization>null</organization>
+		<abstract>What happens when the domains of HCI design and money intersect? This paper presents analyses from an ethnographic study of virtual currency use in China to discuss implications for game design, and HCI design more broadly. We found that how virtual currency is perceived, obtained, and spent can critically shape gamers' behavior and experience. Virtual and real currencies can interact</abstract>
+	</publication>
+	<publication>
+		<title>A hybrid cultural ecology: world of warcraft in China</title>
+		<year>2008</year>
+		<authors>silvia lindtner,bonnie nardi,scott d. mainwaring,he jing,wenjing liang</authors>
+		<jconf>Conference on Computer Supported Cooperative Work</jconf>
+		<label>1155</label>
+		<keyword>Cultural Value;Government Regulation;Mixed Reality;Online Game;Physical Environment;Multi Dimensional;Virtual Worlds;World of Warcraft;</keyword>
+		<organization>null</organization>
+		<abstract>We analyze online gaming as a site of collaboration in a digital-physical hybrid. We ground our analysis in findings from an ethnographic study of the online game World of Warcraft in China. We examine the interplay of collaborative practices across the physical environment of China's Internet cafes and the virtual game space of World of Warcraft. Our findings suggest that</abstract>
+	</publication>
+	<publication>
+		<title>Privacy in Online Social Networking at Workplace</title>
+		<year>2009</year>
+		<authors>alfred kobsa</authors>
+		<jconf>IEEE International Conference on Computational Science and Engineering</jconf>
+		<label>1155</label>
+		<keyword>Online Social Network;Social Network;Social Networking Sites;Work Practice;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—Employees using social,network sites (SNS) at workplace is a fact. As companies are further embracing social networks, how if at all does this practice affect the work dynamics? While privacy has been a hot topic in online social network research in general, there is little work investigating the privacy aspect of this practice at workplace. This paper aims at starting</abstract>
+	</publication>
+	<publication>
+		<title>Situating Productive Play: Online Gaming Practices and Guanxi in China</title>
+		<year>2009</year>
+		<authors>silvia lindtner,scott d. mainwaring,paul dourish</authors>
+		<jconf>IFIP Conference on Human-Computer Interaction</jconf>
+		<label>1155</label>
+		<keyword>Game Design;Online Game;Serious Game;</keyword>
+		<organization>null</organization>
+		<abstract>Economic activities in and around online gaming in China are often correlated in the West with practices of gold farming, or selling in-game currency to players for real money in online games. What can we learn about online gaming in China and about online gaming and online sociality more broadly when we look at economic and other &quot;pragmatic&quot; practices through</abstract>
+	</publication>
+	<publication>
+		<title>Serial hook-ups: a comparative usability study of secure device pairing methods</title>
+		<year>2009</year>
+		<authors>alfred kobsa,rahim sonawalla,gene tsudik,ersin uzun</authors>
+		<jconf>Symposium On Usable Privacy and Security</jconf>
+		<label>1155</label>
+		<keyword>Human Perception;Task Performance;Usability Study;Wireless Channels;Man In The Middle;</keyword>
+		<organization>null</organization>
+		<abstract>Secure Device Pairing is the bootstrapping of secure commu- nication between two previously unassociated devices over a wireless channel. The human-imperceptible nature of wire- less communication, lack of any prior security context, and absence of a common trust infrastructure open the door for Man-in-the-Middle (aka Evil Twin) attacks. A num- ber of methods have been proposed to mitigate these at-</abstract>
+	</publication>
+	<publication>
+		<title>Modeling PLA variation of privacy-enhancing personalized systems</title>
+		<year>2009</year>
+		<authors>scott a. hendrickson,andr ´ e van der hoek,richard n. taylor,alfred kobsa</authors>
+		<jconf>Software Product Lines</jconf>
+		<label>1155</label>
+		<keyword>Software Architecture;Software Component;Domain Model;Product Line;</keyword>
+		<organization>null</organization>
+		<abstract>Privacy-enhancing personalized (PEP) systems address individual users' privacy preferences as well as privacy laws and regulations. Building such systems entails model- ing two different domains: (a) privacy constraints as man- dated by law, voluntary self-regulation, or users' individ- ual privacy preferences, and modeled by legal profession- als, and (b) software architectures as dictated by available software components and modeled by</abstract>
+	</publication>
+	<publication>
+		<title>PLA-based Runtime Dynamism in Support of Privacy-Enhanced Web Personalization</title>
+		<year>2006</year>
+		<authors>alfred kobsa,andr ´ e van der hoek,jeffery white</authors>
+		<jconf>Software Product Lines</jconf>
+		<label>1155</label>
+		<keyword>Legislation;Software Development;Software Product Line;Software Quality;Web Personalization;Time To Market;</keyword>
+		<organization>null</organization>
+		<abstract>Software product line architectures (PLAs) have been widely recognized as a successful approach in industrial software development for improving productivity, software quality and time-to-market. In this paper, we focus on the usage of a PLA for a quite different purpose, namely, handling privacy con- straints in web personalization. To provide personal- ized services such as customized recommendations, a personalized website</abstract>
+	</publication>
+	<publication>
+		<title>Constraint-Sensitive Privacy Management for Personalized Web-Based Systems</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>User Modeling</jconf>
+		<label>1155</label>
+		<keyword>Development Environment;Feasibility Study;Satisfiability;Software Architecture;Software Product Line;Web Personalization;web-based system;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>This research aims at reconciling web personalization with privacy constraints imposed by legal restrictions and by users' privacy preferences. We propose a software product line architecture approach, where our privacy- enabling user modeling architecture can dynamically select personalization methods that satisfy current privacy constraints to provide personalization services. A feasibility study is being carried out with the support of an</abstract>
+	</publication>
+	<publication>
+		<title>Respecting Users' Individual Privacy Constraints in Web Personalization</title>
+		<year>2007</year>
+		<authors>alfred kobsa</authors>
+		<jconf>User Modeling</jconf>
+		<label>1155</label>
+		<keyword>Software Product Line;System Dynamics;Web Personalization;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>Web personalization has demonstrated to be advantageous for both online customers and vendors. However, its benefits may be severely counter- acted by privacy constraints. Personalized systems need to take users' privacy concerns into account, as well as privacy laws and industry self-regulation that may be in effect. In this paper, we first discuss how these constraints may affect web-based personalized</abstract>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of a Privacy-Enhancing Framework for Personalized Websites</title>
+		<year>2009</year>
+		<authors>alfred kobsa</authors>
+		<jconf>User Modeling</jconf>
+		<label>1155</label>
+		<keyword>Cache Performance;Performance Evaluation;Software Product Line;System Dynamics;User Model;</keyword>
+		<organization>null</organization>
+		<abstract>Reconciling personalization with privacy has been a continuing in- terest in the user modeling community. In prior work, we proposed a dynamic privacy-enhancing user modeling framework based on a software product line ar- chitecture (PLA). Our system dynamically selects personalization methods dur- ing runtime that respect users' current privacy preferences as well as the prevail- ing privacy laws and regulations.</abstract>
+	</publication>
+	<publication>
+		<title>Utilizing field usage patterns for Java heap space optimization</title>
+		<year>2006</year>
+		<authors>zhuang guo,josé nelson amaral,duane szafron</authors>
+		<jconf>Conference of the Centre for Advanced Studies on Collaborative Research</jconf>
+		<label>1156</label>
+		<keyword>Experimental Evaluation;Multiple Objectives;</keyword>
+		<organization>null</organization>
+		<abstract>This research studies the characteristics of eld usage patterns in the SpecJVM98 benchmarks. It nds that multiple object instances of the same class often exhibit different eld-usage patterns. Motivated by this observation, we designed a heap compression mechanism that classies object in- stances at runtime based on their eld-usage pat- terns and eliminates unused elds to save space. To achieve</abstract>
+	</publication>
+	<publication>
+		<title>A Space Efficient Algorithm for Sequence Alignment with Inversions</title>
+		<year>2003</year>
+		<authors>yong gao,junfeng wu,robert niewiadomski,zhi-zhong chen,guohui lin</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>1156</label>
+		<keyword>Computer Simulation;Dna Sequence;Dynamic Programming Algorithm;Efficient Algorithm;Sequence Alignment;Nucleotides;</keyword>
+		<organization>null</organization>
+		<abstract>A dynamic programming algorithm to find an optimal align- ment for a pair of DNA sequences has been described by Schoniger and Waterman. The alignments use not only substitutions, insertions, and deletions of single nucleotides, but also inversions, which are the reversed complements, of substrings of the sequences. With the restriction that the inversions are pairwise non-intersecting, their proposed algorithm</abstract>
+	</publication>
+	<publication>
+		<title>A Dynamic Assignment Problem in a Mobile System with Limited Bandwidth</title>
+		<year>2003</year>
+		<authors>thomas kunz</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>1156</label>
+		<keyword>Assignment Problem;Distributed Algorithm;Distributed Mutual Exclusion;Heuristic Algorithm;Mobile Application;Mobile Device;Mobile Environment;Mobile Systems;Network Flow;Optimization Problem;Parallel and Distributed Computing;Wireless Links;Knapsack Problem;</keyword>
+		<organization>null</organization>
+		<abstract>The assignment problem originally arising from parallel and distributed computing has been investigated intensively since the 70's when Harold Stone proposed a method to solve it with the aid of network flow algorithms. In this paper, we discuss this problem under a mobile environment with limited capacity of wireless links. The assignment problem is to schedule a group of related</abstract>
+	</publication>
+	<publication>
+		<title>The Trellis Security Infrastructure: A Layered Approach to Overlay Metacomputers</title>
+		<year>2004</year>
+		<authors>morgan kan,danny ngo,mark lee,paul lu,nolan bard,michael closson,meng ding,mark goldberg,nicholas lamb,ron senda,edmund sumbar</authors>
+		<jconf>International Symposium on High Performance Computing Systems</jconf>
+		<label>1156</label>
+		<keyword>Certificate Authority;High Performance Computer;Single Sign On;Grid Security Infrastructure;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Researchers often have access to a variety of dif- ferent high-performance computer (HPC) systems in different administrative domains, possibly across a wide-area network. Consequently, the security infrastructure becomes an important component of an overlay metacomputer: a user-level aggregation of HPC systems. The Grid Security Infrastructure (GSI) uses a sophisticated approach based on proxies and certification authorities. However, GSI requires a</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Key Messaging for Cluster Computing</title>
+		<year>2004</year>
+		<authors>ming zhu,meng ding,constantine katsinis</authors>
+		<jconf>Network Computing and Applications</jconf>
+		<label>1156</label>
+		<keyword>Cluster Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Dataflow Information to Improve Inter-Workflow Instance Concurrency</title>
+		<year>2005</year>
+		<authors>paul lu</authors>
+		<jconf>Parallel and Distributed Computing: Applications and Technologies</jconf>
+		<label>1156</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Novel Watermarking Scheme for Blind Objective Image Quality Assessment</title>
+		<year>2010</year>
+		<authors>wei dong,hua li,chang nian zhang</authors>
+		<jconf>International Journal of Computers and Their Applications</jconf>
+		<label>1156</label>
+		<keyword>Image Quality Assessment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A distributed Key Message algorithm to optimize the communication in clusters</title>
+		<year>2009</year>
+		<authors>ming zhu,hua li</authors>
+		<jconf>Parallel Computing</jconf>
+		<label>1156</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A space-efficient algorithm for sequence alignment with inversions and reversals</title>
+		<year>2004</year>
+		<authors>zhi-zhong chen,yong gao,guohui lin,robert niewiadomski,junfeng wu</authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>1156</label>
+		<keyword>Efficient Algorithm;Sequence Alignment;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Overview of Associative Classifiers</title>
+		<year>2006</year>
+		<authors>yanmin sun,andrew k. c. wong</authors>
+		<jconf>Int. Conf. on Data Mining</jconf>
+		<label>1157</label>
+		<keyword>Association Mining;Computational Complexity;Data Mining;Indexing Terms;Pattern Discovery;Knowledge Discovery and Data Mining;</keyword>
+		<organization>null</organization>
+		<abstract>Associative classiflcation is a new classiflcation approach integrating association mining and classiflcation. It becomes a signiflcant tool for knowledge discovery and data mining. This paper presents a critical overview of certain aspects on modelling associative classiflers including event association mining, computational complexity in mining associations, methods of constructing associative classiflers based on the association patterns discovered, some similarities and difierences</abstract>
+	</publication>
+	<publication>
+		<title>Boosting for Learning Multiple Classes with Imbalanced Class Distribution</title>
+		<year>2006</year>
+		<authors>yanmin sun,mohamed s. kamel</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1157</label>
+		<keyword>Class Imbalance;Genetic Algorithm;Imbalanced Data Sets;Learning Algorithm;Learning Difficulties;</keyword>
+		<organization>null</organization>
+		<abstract>Classification of data with imbalanced class distribution has posed a significant drawback of the performance attain- able by most standard classifier learning algorithms, which assume a relatively balanced class distribution and equal misclassification costs. This learning difficulty attracts a lot of research interests. Most efforts concentrate on bi-class problems. However, bi-class is not the only scenario where the class imbalance</abstract>
+	</publication>
+	<publication>
+		<title>Representing Discovered Patterns Using Attributed Hypergraph</title>
+		<year>1996</year>
+		<authors>andrew k. c. wong</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>1157</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parameter Inference of Cost-Sensitive Boosting Algorithms</title>
+		<year>2005</year>
+		<authors>yanmin sun,andrew k. c. wong</authors>
+		<jconf>Machine Learning and Data Mining in Pattern Recognition</jconf>
+		<label>1157</label>
+		<keyword>Class Imbalance;Learning Algorithm;Machine Learning;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. Several cost-sensitive boosting,algorithms,have,been reported as effective methods in dealing with class imbalance problem. Misclassification costs, which reflect the different level of class identi- fication importance, are integrated into the weight update formula of AdaBoost algorithm. Yet, it has been shown that the weight update pa- rameter of AdaBoost is induced so as the training error can be reduced most</abstract>
+	</publication>
+	<publication>
+		<title>A global optimal algorithm for class-dependent discretization of continuous data</title>
+		<year>2004</year>
+		<authors>lili liu,andrew k. c. wong</authors>
+		<jconf>Intelligent Data Analysis</jconf>
+		<label>1157</label>
+		<keyword>Global Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Cost-sensitive boosting for classification of imbalanced data</title>
+		<year>2007</year>
+		<authors>yanmin sun,mohamed s. kamel,andrew k. c. wong</authors>
+		<jconf>Pattern Recognition</jconf>
+		<label>1157</label>
+		<keyword>Class Imbalance;Classification Accuracy;cost-sensitive learning;Learning Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Classification of data with imbalanced class distribution has posed a significant drawback of the performance attainable by most standard classifier learning algorithms, which assume a relatively balanced class distribution and equal misclassification costs. The significant difficulty and frequent occurrence of the class imbalance problem indicate the need for extra research efforts. The objective of this paper is to investigate meta-techniques</abstract>
+	</publication>
+	<publication>
+		<title>Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data</title>
+		<year>2005</year>
+		<authors>wai-ho au,keith c. c. chan,andrew k. c. wong</authors>
+		<jconf>IEEE/ACM Transactions on Computational Biology and Bioinformatics</jconf>
+		<label>1157</label>
+		<keyword>Clustering Method;Data Mining;Data Mining Algorithm;Gene Expression;Gene Expression Data;Gene Expression Profile;Gene Selection;Group Selection;Typical Development;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an attribute clustering method which is able to group genes based on their interdependence so as to mine meaningful patterns from the gene expression data. It can be used for gene grouping, selection, and classification. The partitioning of a relational table into attribute subgroups allows a small number of attributes within or across the groups to be</abstract>
+	</publication>
+	<publication>
+		<title>Correction to &quot;Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data</title>
+		<year>2007</year>
+		<authors>wai-ho au,keith c. c. chan,andrew k. c. wong</authors>
+		<jconf>IEEE/ACM Transactions on Computational Biology and Bioinformatics</jconf>
+		<label>1157</label>
+		<keyword>Gene Expression Data;Group Selection;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Boosting an Associative Classifier</title>
+		<year>2006</year>
+		<authors>yanmin sun,andrew k. c. wong</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>1157</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Association to Classification: Inference Using Weight of Evidence</title>
+		<year>2003</year>
+		<authors>andrew k. c. wong</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>1157</label>
+		<keyword>Weight of Evidence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-Order Pattern Discovery from Discrete-Valued Data</title>
+		<year>1997</year>
+		<authors>andrew k. c. wong</authors>
+		<jconf>IEEE Transactions on Knowledge and Data Engineering</jconf>
+		<label>1157</label>
+		<keyword>Pattern Discovery;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generative and Discriminative Learning by CL-Net</title>
+		<year>2007</year>
+		<authors>yanmin sun,andrew k. c. wong</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>1157</label>
+		<keyword>Discrimination Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Pattern discovery: a data driven approach to decision support</title>
+		<year>2003</year>
+		<authors>andrew k. c. wong</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<label>1157</label>
+		<keyword>Pattern Discovery;Decision Support;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Teraflop Computing for Nanoscience</title>
+		<year>2006</year>
+		<authors>g. m. stocks,aurelian rusanu,d. m. c. nicholson,markus eisenbach,j. s. faulkner</authors>
+		<jconf>International Conference on Computer Design</jconf>
+		<label>1158</label>
+		<keyword>Complex Structure;Density Function Theory;Electronic Structure Calculation;First Principle;Iron;Magnetic Properties;Magnetic Structure;Multiple Scattering;Quantum Mechanics;Local Density Approximation;Massively Parallel Processing;Self Consistent;</keyword>
+		<organization>null</organization>
+		<abstract>Over the last three decades there has been significant progress in the first principles methods for calculating the properties of materials at the quantum level. They have largely been based on the local density approximation (LDA) to density functional theory (DFT). However, nanoscience places new demands on these first principles methods because of the thousands to millions of atoms present</abstract>
+	</publication>
+	<publication>
+		<title>Parallel Multi-Teraflops Studies of the Magnetic Structure of FeMn Alloys</title>
+		<year>2003</year>
+		<authors>a. canning,b. ujfalussy,thomas c. schulthess,x.-g. zhang,william a. shelton,d. m. c. nicholson,g. m. stocks,t. dirks</authors>
+		<jconf>International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium</jconf>
+		<label>1158</label>
+		<keyword>Magnetic Structure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating the QMR Method with First Principles Material Science Application Code</title>
+		<year>1995</year>
+		<authors>noël m. nachtigal,william a. shelton,g. m. stocks,d. m. c. nicholson</authors>
+		<jconf>Parallel Processing for Scientific Computing</jconf>
+		<label>1158</label>
+		<keyword>First Principle;Materials Science;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multi-teraflops spin dynamics studies of the magnetic structure of FeMn/Co interfaces</title>
+		<year>2001</year>
+		<authors>a. canning,b. ujfalussy,thomas c. schulthess,x.-g. zhang,william a. shelton,d. m. c. nicholson,g. m. stocks,t. dirks</authors>
+		<jconf>Supercomputing Conference</jconf>
+		<label>1158</label>
+		<keyword>Equation of Motion;Equilibrium State;Exchange Bias;First Principle;Iron;Large Scale;Magnetic Moment;Magnetic Multilayer;Magnetic Structure;Massively Parallel Computer;Materials Science;Parallel Algorithm;Quantum Mechanics;Scientific Computing;Spin Dynamics;</keyword>
+		<organization>null</organization>
+		<abstract>We have used the power of massively parallel computers to perform first principles spin dynamics (SD) simulations of the magnetic structure of Iron-Manganese/Cobalt (FeMn/Co) interfaces. These large scale quantum mechanical simulations, involving 2016-atom super-cell models, reveal details of the orientational configuration of the magnetic moments at the interface that are unobtainable by any other means. Exchange bias, which involves the</abstract>
+	</publication>
+	<publication>
+		<title>Epidemic Spreading in Real Networks: An Eigenvalue Viewpoint</title>
+		<year>2003</year>
+		<authors>deepayan chakrabarti,chenxi wang,christos faloutsos</authors>
+		<jconf>Symposium on Reliable Distributed Systems</jconf>
+		<label>1158</label>
+		<keyword>Adjacency Matrix;Eigenvalues;Largest Eigenvalue;Threshold Model;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>How will a virus propagate in a real network? Does an epidemic threshold exist for a nite power- law graph, or any nite graph? How long does it take to disinfect a network given particular values of infection rate and virus death rate? We answer the rst question by providing equa- tions that accurately model virus propagation in any network</abstract>
+	</publication>
+	<publication>
+		<title>Modeling the effects of timing parameters on virus propagation</title>
+		<year>2003</year>
+		<authors>chenxi wang</authors>
+		<jconf>workshop on rapid malcode</jconf>
+		<label>1158</label>
+		<keyword>Computer Virus;Simulation Analysis;Anti Virus;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we investigate epidemiological models to reason about computer viral propagation. We extend the classical homogeneous models to incorporate two timing parameters: Infection delay and user vigilance. We show that these timing parameters greatly influence the propagation of viral epidemics, and that the explicit treatment of these parameters gives rise to a more realistic and accurate propagation model.</abstract>
+	</publication>
+	<publication>
+		<title>Epidemic thresholds in real networks</title>
+		<year>2008</year>
+		<authors>deepayan chakrabarti,chenxi wang,jurij leskovec,christos faloutsos</authors>
+		<jconf>ACM Transactions on Information and System Security</jconf>
+		<label>1158</label>
+		<keyword>Adjacency Matrix;Eigenvalues;Largest Eigenvalue;Network Topology;Nonlinear Dynamic System;Threshold Model;</keyword>
+		<organization>null</organization>
+		<abstract>How will a virus propagate in a real network? How long does it take to disinfect a network given particular values of infection rate and virus death rate? What is the single best node to immunize? Answering these questions is essential for devising network-wide strategies to counter viruses. In addition, viral propagation is very similar in principle to the spread</abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of an Out-of-Band Virtualization System on Solaris 10</title>
+		<year>2006</year>
+		<authors>wei xue,jiwu shu,guangyan zhang</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>1159</label>
+		<keyword>Design and Implementation;Storage Management;Out of Band;</keyword>
+		<organization>null</organization>
+		<abstract>In out-of-band virtualization systems, it is typical that the virtual storage manager (VSM) maintains the metadata for all Agents and performs the address mapping. The Agent performs I/O access according to the mapped ad- dress. High network latency, poor performance and low scalability are the main problems of this method. This article introduces an improved design and im- plementation of</abstract>
+	</publication>
+	<publication>
+		<title>An Efficient SAN-Level Caching Method Based on Chunk-Aging</title>
+		<year>2007</year>
+		<authors>jiwu shu,wei xue,yifeng luo</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>1159</label>
+		<keyword>Cache Replacement;</keyword>
+		<organization>null</organization>
+		<abstract>SAN-level caching can manage caching within a global view so that global hot data can be identified and cached. However, two problems may be encountered in the existing SAN-level caching methods: first, too many migrations from disks to cache resulting from cache thrashing; second, too few cache hits resulting from insufficient caching. This paper proposes a SAN-level caching method employing</abstract>
+	</publication>
+	<publication>
+		<title>SOPA: Selecting the optimal caching policy adaptively</title>
+		<year>2010</year>
+		<authors>jiwu shu,guangyan zhang,wei xue,weimin zheng</authors>
+		<jconf>ACM Transactions on Storage</jconf>
+		<label>1159</label>
+		<keyword>Decision Making;Decision Making Process;Simulation Experiment;Storage System;System Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract>With the development of storage technology and applications, new caching policies are continuously being introduced. It becomes increasingly important for storage systems to be able to select the matched caching policy dynamically under varying workloads. This article proposes SOPA, a cache framework to adaptively select the matched policy and perform policy switches in storage systems. SOPA encapsulates the functions of</abstract>
+	</publication>
+	<publication>
+		<title>Real-Time Machine Learning in Embedded Software And Hardware Platforms</title>
+		<year>2005</year>
+		<authors>david j. mulvaney,ian p. w. sillitoe,erick swere,zhenhuan zhu</authors>
+		<jconf>Automatic Learning and Real-Time</jconf>
+		<label>1160</label>
+		<keyword>Embedded Software;Machine Learning;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Travel Speed Prediction Using Fuzzy Reasoning</title>
+		<year>2008</year>
+		<authors>honghai liu,patrick beullens,david brown</authors>
+		<jconf>International Conference on Intelligent Robotics and Applications</jconf>
+		<label>1160</label>
+		<keyword>Fuzzy Reasoning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mobile Robot Path Planning in Dynamic Environments</title>
+		<year>2007</year>
+		<authors>ian p. w. sillitoe,david j. mulvaney</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>1160</label>
+		<keyword>Dynamic Environment;Mobile Robot;Path Planning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Real-time machine learning in embedded software and hardware platforms</title>
+		<year>2007</year>
+		<authors>david j. mulvaney,ian p. w. sillitoe,erick swere,zhenhuan zhu</authors>
+		<jconf>International Journal of Intelligent Systems Technologies and Applications</jconf>
+		<label>1160</label>
+		<keyword>Embedded Software;Machine Learning;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Robot Navigation by Waypoints</title>
+		<year>2008</year>
+		<authors>david j. mulvaney,ian p. w. sillitoe,erick swere</authors>
+		<jconf>Journal of Intelligent and Robotic Systems</jconf>
+		<label>1160</label>
+		<keyword>Robot Navigation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Using Index in the MapReduce Framework</title>
+		<year>2010</year>
+		<authors>mingyuan an,weiping wang</authors>
+		<jconf>Asia-Pacific Web Conference</jconf>
+		<label>1161</label>
+		<keyword>Indexation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A microscopic view on community detection in complex networks</title>
+		<year>2008</year>
+		<authors>huaiming song,weiping wang,mingyuan an</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>1161</label>
+		<keyword>Approximate Algorithm;Community Detection;Community Structure;Complex Network;np-complete problem;</keyword>
+		<organization>null</organization>
+		<abstract>The community structure is a basic characteristic of complex networks. A strong community structure has high modularity. It has been proven an NP-Complete problem to identify the community structure with the highest modularity. Many approximate algorithms have been proposed to alleviate the problem. However, they suffer from inefficiency or low quality. In this paper, we propose a two-step method. The</abstract>
+	</publication>
+	<publication>
+		<title>Effective Criterion Functions for Efficient Agglomerative Clustering on Very Large Networks</title>
+		<year>2009</year>
+		<authors>mingyuan an</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>1161</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Group-by Query Process in Middleware of Large Scale Data Intensive Systems</title>
+		<year>2009</year>
+		<authors>huaiming song,mingyuan an,weiping wang,ninghui sun</authors>
+		<jconf>IEEE NAS - Networking, Architecture, and Storage</jconf>
+		<label>1161</label>
+		<keyword>Large Scale;Middleware;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deep Web Navigation by Example</title>
+		<year>2008</year>
+		<authors>thomas hornung</authors>
+		<jconf>Business Information Systems</jconf>
+		<label>1162</label>
+		<keyword>Deep Web;Information Access;</keyword>
+		<organization>null</organization>
+		<abstract>Large portions of the Web are buried behind user-oriented interfaces, which can only be accessed by filling out forms. To make the therein contained information accessible to automatic processing, one of the major hurdles is to navigate to the actual result page. In this paper we present a framework for navigating these so-called Deep Web sites based on the page-keyword-action</abstract>
+	</publication>
+	<publication>
+		<title>Wireless Sensing, Actuation and Control - With Applications to Civil Structures</title>
+		<year>2006</year>
+		<authors>jerome p. lynch,kincho h. law</authors>
+		<jconf>Intelligent Computing in Engineering and Architecture</jconf>
+		<label>1163</label>
+		<keyword>Embedded Computing;Field Test;Interdisciplinary Research;Large Scale;Software Requirements;Structural Control;Structural Engineering;Structural Monitoring;Wireless Sensing;</keyword>
+		<organization>null</organization>
+		<abstract>Structural monitoring and control have been subjects of interests in structural engineering for quite some time. Structural sensing and control tech- nologies can benefit in terms of installation cost and time from wireless com- munication and embedded computing. The hardware and software requirements pose an interesting, interdisciplinary research challenge. This paper describes a low-cost wireless sensing system that is judiciously</abstract>
+	</publication>
+	<publication>
+		<title>A Linear Programming Duality Approach to Analyzing Strictly Nonblocking d-ary Multilog Networks under General Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>hung q. ngo,anh le</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>1164</label>
+		<keyword>Circuit Switched;Optical Cross-connect;Optical Switch;Switching Network;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>When a switching network topology is used for constructing optical cross-connects, as in the circuit switching case, no two routes are allowed to share a link. However, if two routes share too many switching elements, then crosstalk introduced at those switching elements degrades signal quality. Vaez and Lea (21) introduced a parameter c which is the maximum number of distinct</abstract>
+	</publication>
+	<publication>
+		<title>Strictly Nonblocking f-Cast Photonic Switching Networks under General Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>thanh-nhan nguyen,hung q. ngo</authors>
+		<jconf>Global Telecommunications Conference</jconf>
+		<label>1164</label>
+		<keyword>Switching Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Strictly Nonblocking Function-Cast d-Ary Multi-Log Networks under Fanout and Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>hung q. ngo,xiaohong jiang</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>1164</label>
+		<keyword>Optical Switch;Switching Network;</keyword>
+		<organization>null</organization>
+		<abstract>We derive conditions which are both necessary and sufficient for the d-ary multi-log switching networks to be f- cast strictly nonblocking under all combinations of fanout and crosstalk constraints. The fanout constraint tells us which stage(s) of the networks has fanout capability. The crosstalk constraint tells us whether or not two connection routes are allowed to share a link (relevant</abstract>
+	</publication>
+	<publication>
+		<title>Rearrangeable and nonblocking [w, f] -distributors</title>
+		<year>2009</year>
+		<authors>hung q. ngo,dazhen pan</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>1164</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

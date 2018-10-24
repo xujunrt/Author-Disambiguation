@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J&amp;uuml;rgen M&amp;uuml;ller</FullName>
+	<publication>
+		<title>A lacunary version of Mergelian's approximation theorem</title>
+		<year>2010</year>
+		<authors>t. gharibyan,wolfgang luh</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>326</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Restricted T-Universal Functions</title>
+		<year>2002</year>
+		<authors>wolfgang luh,valeri a. martirosian</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<label>326</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Aggregating Discovery Service for the EPCglobal Network</title>
+		<year>2010</year>
+		<authors>jan oberst,stefan wehrmeyer,jonas witt,alexander zeier,hasso plattner</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>327</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Improving supply chain visibility through RFID data</title>
+		<year>2008</year>
+		<authors>adam melski,alexander zeier,matthias schumann</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>327</label>
+		<keyword>Supply Chain;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Customizing Enterprise Software as a Service Applications: Back-End Extension in a Multi-tenancy Environment</title>
+		<year>2009</year>
+		<authors>jens krüger,sebastian enderlein,marco helmich,alexander zeier</authors>
+		<jconf>International Conference on Enterprise Information Systems</jconf>
+		<label>327</label>
+		<keyword>software as a service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Gain in Transparency versus Investment in the EPC Network - Analysis and Results of a Discrete Event Simulation Based on a Case Study in the Fashion Industry</title>
+		<year>2009</year>
+		<authors>ralph tröger,alexander zeier,rainer alt</authors>
+		<jconf>International Conference on Service Oriented Computing</jconf>
+		<label>327</label>
+		<keyword>Case Study;Discrete Event Simulation;Network Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Generic Web Services - Extending Service Scope While Preserving Backwards Compatibility</title>
+		<year>2009</year>
+		<authors>vadym borovskiy,oleksandr panchenko,alexander zeier</authors>
+		<jconf>International Conference on Software and Data Technologies</jconf>
+		<label>327</label>
+		<keyword>Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A disk-based parallel implementation for direct condensation of large permutation modules</title>
+		<year>2007</year>
+		<authors>eric robinson,gene cooperman</authors>
+		<jconf>International Symposium on Symbolic and Algebraic Computation</jconf>
+		<label>328</label>
+		<keyword>Data Structure;Parallel Implementation;</keyword>
+		<organization>null</organization>
+		<abstract>Through the use of a new disk-based method for enumerat- ing very large orbits, condensation for orbits with tens of bil- lions of elements can be performed. The algorithm is novel in that it oers ecien t access to data using distributed disk- based data structures. This provides fast access to hundreds of gigabytes of data, which allows for computing</abstract>
+	</publication>
+</person>

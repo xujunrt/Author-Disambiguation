@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>James Osborne</FullName>
+	<publication>
+		<title>SuperVise: Using Grid Tools to Simplify Visualization</title>
+		<year>2003</year>
+		<authors>helen wright</authors>
+		<jconf>Parallel Processing and Applied Mathematics</jconf>
+		<label>343</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

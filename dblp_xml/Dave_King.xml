@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Dave King</FullName>
+	<publication>
+		<title>Automating Security Mediation Placement</title>
+		<year>2010</year>
+		<authors>susmit jha,divya muthukumaran,trent jaeger,somesh jha,sanjit a. seshia</authors>
+		<jconf>European Symposium on Programming</jconf>
+		<label>186</label>
+		<keyword>Java Programming;Minimum Cut;Satisfiability;Security Policy;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>We present a framework that automatically produces sugges- tions to resolve type errors in security-typed programs, enabling legacy code to be retrot with comprehensive security policy mediation. Re- solving such type errors requires selecting a placement of mediation statements that implement runtime security decisions, such as declas- siers and authorization checks. Manually placing mediation statements in legacy code can be</abstract>
+	</publication>
+	<publication>
+		<title>Implicit Flows: Can't Live with 'Em, Can't Live without 'Em</title>
+		<year>2008</year>
+		<authors>boniface hicks,michael hicks,trent jaeger</authors>
+		<jconf>International Conference on Information Systems Security</jconf>
+		<label>186</label>
+		<keyword>Security Properties;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Verifying that programs trusted to enforce security actually do so is a practical concern for programmers and administrators. How- ever, there is a disconnect between the kinds of tools that have been successfully applied to real software systems (such as taint mode in Perl and Ruby), and information-ow compilers that enforce a variant of the stronger security property of noninterference.</abstract>
+	</publication>
+	<publication>
+		<title>Mining Security-Sensitive Operations in Legacy Code Using Concept Analysis</title>
+		<year>2007</year>
+		<authors>vinod ganapathy,trent jaeger,somesh jha</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>186</label>
+		<keyword>Case Study;Concept Analysis;Domain Knowledge;Policy Enforcement;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an approach to statically retrofit legacy servers with mechanisms for authorization policy enforcement. The approach is based upon the obser- vation that security-sensitive operations performed by a server are characterized by idiomatic resource manipula- tions, called fingerprints. Candidate fingerprints are auto- matically mined by clustering resource manipulations using concept analysis. These fingerprints are then used to iden-</abstract>
+	</publication>
+	<publication>
+		<title>Jifclipse: development tools for security-typed languages</title>
+		<year>2007</year>
+		<authors>boniface hicks,patrick mcdaniel</authors>
+		<jconf>SIGPLAN Conference on Programming Language Design and Implementation</jconf>
+		<label>186</label>
+		<keyword>Application Development;Development Tool;Hidden Information;Information Flow;Integrated Development Environment;Security Policy;</keyword>
+		<organization>null</organization>
+		<abstract>Security-typed languages such as Jif require the programmer to la- bel variables with information flow security policies as part of ap- plication development. The compiler then flags errors wherever in- formation leaks may occur. Resolving these information leaks is a critical task in security-typed language application development. Unfortunately, because information flows can be quite subtle, sim- ple error messages tend</abstract>
+	</publication>
+	<publication>
+		<title>Trusted declassification: : high-level policy for a security-typed language</title>
+		<year>2006</year>
+		<authors>boniface hicks,patrick mcdaniel,michael hicks</authors>
+		<jconf>SIGPLAN Conference on Programming Language Design and Implementation</jconf>
+		<label>186</label>
+		<keyword>Data Encryption;Information Flow Control;Policy Making;Provable Security;</keyword>
+		<organization>null</organization>
+		<abstract>Security-typed languages promise to be a powerful tool with which provably secure software applications may be developed. Programs written in these languages enforce a strong, global policy of nonin- terference which ensures that high-security data will not be observ- able on low-security channels. Because noninterference is typically too strong a property, most programs use some form of declassifi- cation to</abstract>
+	</publication>
+	<publication>
+		<title>An architecture for enforcing end-to-end access control over web applications</title>
+		<year>2010</year>
+		<authors>boniface hicks,sandra rueda,thomas moyer,joshua schiffman,yogesh sreenivasan,patrick mcdaniel,trent jaeger</authors>
+		<jconf>Symposium on Access Control Models and Technologies</jconf>
+		<label>186</label>
+		<keyword>Access Control Policy;Collaborative Editing;Distributed Application;Mandatory Access Control;Operating System;Virtual Machine;Access Control;Cross Site Request Forgery;</keyword>
+		<organization>null</organization>
+		<abstract>The web is now being used as a general platform for hosting distributed applications like wikis, bulletin board messaging systems and collaborative editing environments. Data from multiple applications originating at multiple sources all intermix in a single web browser, making sensitive data stored in the browser subject to a broad milieu of attacks (cross-site scripting, cross-site request forgery and others).</abstract>
+	</publication>
+	<publication>
+		<title>Effective blame for information-flow violations</title>
+		<year>2008</year>
+		<authors>trent jaeger,somesh jha,sanjit a. seshia</authors>
+		<jconf></jconf>
+		<label>186</label>
+		<keyword>Dependence Graph;Generic Model;Information Flow;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Programs trusted with secure information should not release that information in ways contrary to system policy. How- ever, when a program contains an illegal ow of informa- tion, current information-ow reporting techniques are in- adequate for determining the cause of the error. Reasoning about information-ow errors can be dicult, as the ows involved can be quite subtle. We present</abstract>
+	</publication>
+	<publication>
+		<title>Verifying Compliance of Trusted Programs</title>
+		<year>2008</year>
+		<authors>sandra rueda,trent jaeger</authors>
+		<jconf>USENIX Security Symposium</jconf>
+		<label>186</label>
+		<keyword>Access Control Models;Mandatory Access Control;Policy Enforcement;System Security;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present an approach for verifying that trusted programs correctly enforce system security goals when deployed. A trusted program is trusted to only perform safe operations despite have the authority to perform unsafe operations; for example, initialization programs, administrative programs, root network dae- mons, etc. Currently, these programs are trusted without concrete justification. The emergence of tools</abstract>
+	</publication>
+</person>

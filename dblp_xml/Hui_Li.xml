@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hui Li</FullName>
+	<publication>
+		<title>Generalized Conflict Learning for Hybrid Discrete/Linear Optimization</title>
+		<year>2005</year>
+		<authors>brian williams</authors>
+		<jconf>Principles and Practice of Constraint Programming</jconf>
+		<label>305</label>
+		<keyword>Direct Search;Integer Program;Linear Optimization;State Space;Branch and Bound;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>An increasing range of problems in Artificial Intelli- gence and Computer Science, such as autonomous vehi- cle control and planning with resources, are formulated through a combination of logical, algebraic and cost constraints. Their solution requires a hybrid mixture of logical decision techniques and mathematical opti- mization. Using Disjunctive Linear Programs (DLPs) to formulate these problems, we present a novel</abstract>
+	</publication>
+	<publication>
+		<title>English to Chinese Translation of Prepositions</title>
+		<year>2005</year>
+		<authors>nathalie japkowicz,caroline barrière</authors>
+		<jconf>Canadian Conference on Artificial Intelligence</jconf>
+		<label>306</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

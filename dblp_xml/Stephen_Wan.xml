@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stephen Wan</FullName>
+	<publication>
+		<title>Executions of &quot;home applications&quot; and service customisations in Integrated Personal Mobility Architecture</title>
+		<year>2002</year>
+		<authors>binh thai,aruna seneviratne</authors>
+		<jconf>International Symposium on Computers and Communications</jconf>
+		<label>986</label>
+		<keyword>Internet Services;Mobile Agent;</keyword>
+		<organization>null</organization>
+		<abstract>Integrated Personal Mobility Architecture (IPMoA) is a personal mobility framework that supports personality in both the areas of personal communications and personalising the user's operation environments and services. In this paper, we describe how we use mobile agents in this architecture to achieve the results of providing personal mobility support in the area of personalising the user's operational environments and</abstract>
+	</publication>
+</person>

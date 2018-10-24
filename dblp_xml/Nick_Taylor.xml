@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Nick Taylor</FullName>
+	<publication>
+		<title>Supporting (Mobile) User Experience at a Rural Village &quot;Scarecrow Festival&quot;: A Formative Study of a Geolocated Photo Mashup Utilising a Situated Display</title>
+		<year>2008</year>
+		<authors>keith cheverst,paul coulton,william bamford</authors>
+		<jconf>Mobile HCI</jconf>
+		<label>779</label>
+		<keyword>Event Study;Field Study;Google Map;Mobile Phone;Positive Feedback;Situated Display;Web Pages;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe a novel application focus for the web2.0 paradigm of user generated mashups of geo-tagged photos, Here we are interested in photos captured by multiple participants (via their mobile phones) at a community event. Typically, current approaches focus on the production of a digital artefact, viewable on a web page, which supports a post-event reviewing activity,</abstract>
+	</publication>
+	<publication>
+		<title>Probing communities: study of a village photo display</title>
+		<year>2007</year>
+		<authors>keith cheverst,dan fitton,nicholas j. p. race,mark rouncefield,connor graham</authors>
+		<jconf>Australasian Computer-Human Interaction Conference</jconf>
+		<label>779</label>
+		<keyword>Field Study;Field Test;Situated Display;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we describe a technology probe aiming to aid understanding of how digital displays can help supp ort communities. Using a simple photo gallery applicati on, deployed in a central social point in a small village and di splaying user- generated photos and videos, we have been able to g ain an understanding of this setting, field test</abstract>
+	</publication>
+	<publication>
+		<title>Social interaction around a rural community photo display</title>
+		<year>2009</year>
+		<authors>keith cheverst</authors>
+		<jconf>International Journal of Human-computer Studies / International Journal of Man-machine Studies</jconf>
+		<label>779</label>
+		<keyword>Digital Photography;Public Display;Rural Community;Situated Display;Social Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Public displays of photographs are a common sight in community spaces, yet while much attention has been given recently to the use of digital photography in the home, the community domain remains underexplored. We describe the Wray Photo Display, a public situated display for community-generated photography in an English rural village, which aims to understand the community's use of photos</abstract>
+	</publication>
+</person>

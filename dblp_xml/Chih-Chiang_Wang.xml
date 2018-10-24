@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Chih-Chiang Wang</FullName>
+	<publication>
+		<title>The Design of a Lexical Difficulty Filter for Language Learning on the Internet</title>
+		<year>2001</year>
+		<authors>chin-hwa kuo,david wible,feng-yi chien</authors>
+		<jconf>International Conference on Advanced Learning Technologies</jconf>
+		<label>134</label>
+		<keyword>Language Learning;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

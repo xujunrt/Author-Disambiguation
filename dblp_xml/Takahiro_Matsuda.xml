@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Takahiro Matsuda</FullName>
+	<publication>
+		<title>An Efficient Encapsulation Scheme from Near Collision Resistant Pseudorandom Generators and Its Application to IBE-to-PKE Transformations</title>
+		<year>2009</year>
+		<authors>goichiro hanaoka,kanta matsuura,hideki imai</authors>
+		<jconf>The Cryptographer's Track at RSA Conference</jconf>
+		<label>998</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simple CCA-Secure Public Key Encryption from Any Non-Malleable Identity-Based Encryption</title>
+		<year>2008</year>
+		<authors>goichiro hanaoka,kanta matsuura,hideki imai</authors>
+		<jconf>Information Security and Cryptology</jconf>
+		<label>998</label>
+		<keyword>Identity Based Encryption;Public Key Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Constructions of Signcryption Schemes and Signcryption Composability</title>
+		<year>2009</year>
+		<authors>kanta matsuura,jacob c. n. schuldt</authors>
+		<jconf>INDOCRYPT</jconf>
+		<label>998</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Generic Construction of Timed-Release Encryption with Pre-open Capability</title>
+		<year>2009</year>
+		<authors>yasumasa nakai,wataru kitada,kanta matsuura</authors>
+		<jconf>International Workshop on Security</jconf>
+		<label>998</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Practical Provider Authentication System for Bidirectional Broadcast Service</title>
+		<year>2007</year>
+		<authors>goichiro hanaoka,kanta matsuura,hideki imai</authors>
+		<jconf>Knowledge-Based Intelligent Information &amp; Engineering Systems</jconf>
+		<label>998</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A CDH-Based Strongly Unforgeable Signature Without Collision Resistant Hash Function</title>
+		<year>2007</year>
+		<authors>nuttapong attrapadung,goichiro hanaoka,kanta matsuura,hideki imai</authors>
+		<jconf>Provable Security</jconf>
+		<label>998</label>
+		<keyword>collision-resistant hash functions;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Strongly Unforgeable Signature under the CDH Assumption without Collision Resistant Hash Functions</title>
+		<year>2008</year>
+		<authors>nuttapong attrapadung,goichiro hanaoka,kanta matsuura,hideki imai</authors>
+		<jconf>Ieice Transactions</jconf>
+		<label>998</label>
+		<keyword>collision-resistant hash functions;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

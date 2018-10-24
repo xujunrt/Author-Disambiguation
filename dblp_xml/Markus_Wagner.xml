@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Markus Wagner</FullName>
+	<publication>
+		<title>DeweyIDs - The Key to Fine-Grained Management of XML Documents</title>
+		<year>2005</year>
+		<authors>michael peter haustein,theo härder,christian mathis</authors>
+		<jconf>Brazilian Symposium on Databases</jconf>
+		<label>632</label>
+		<keyword>Indexation;Performance Evaluation;Xml Document;Multi User;</keyword>
+		<organization>null</organization>
+		<abstract>Because XML documents tend to be very large and are more and more collaboratively processed, their fine-grained storage and management is a must for which, in turn, a flexible tree representation is mandatory. Performance re- quirements dictate efficient query and update processing in multi-user environ- ments. For this reason, three aspects are of particular importance: index sup- port to directly</abstract>
+	</publication>
+	<publication>
+		<title>Node labeling schemes for dynamic XML documents reconsidered</title>
+		<year>2007</year>
+		<authors>theo härder,michael peter haustein,christian mathis</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>632</label>
+		<keyword>Labeling Scheme;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

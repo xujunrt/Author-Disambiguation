@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Christoph Lange</FullName>
+	<publication>
+		<title>Dimensions of Formality: A Case Study for MKM in Software Engineering</title>
+		<year>2010</year>
+		<authors>andrea kohlhase,michael kohlhase</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Case Study;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Publishing Math Lecture Notes as Linked Data</title>
+		<year>2010</year>
+		<authors>catalin david,michael kohlhase,florian rabe,nikita zhiltsov,vyacheslav zholudev</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Linked Data;</keyword>
+		<organization>null</organization>
+		<abstract>We mark up a corpus of LATEX lecture notes semantically and expose them as Linked Data in XHTML+MathML+RDFa. Our applica- tion makes the resulting documents interactively browsable for students. Our ontology helps to answer queries from students and lecturers, and paves the path towards an integration of our corpus with external sites.</abstract>
+	</publication>
+	<publication>
+		<title>Towards a Semantic Wiki for Science</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>European Semantic Web Symposium / Conference</jconf>
+		<label>152</label>
+		<keyword>Case Study;Collaborative Work;Dependency Management;Domain Specificity;Knowledge Reuse;Markup Language;Scientific Knowledge;Semantic Wiki;Service Operation;Web Service;Work Environment;</keyword>
+		<organization>null</organization>
+		<abstract>Collaborative work environments for scientific knowledge have many applications in research as well as in education. Such systems already exist (e.g. Wikipedia and Plan- etMath), but they do not oer all the services users would like to have. Starting from semantic markup of knowledge as a prerequisite for services like dependency management, intelligent navigation and search, and for knowledge reuse</abstract>
+	</publication>
+	<publication>
+		<title>SWiM - A Semantic Wiki for Mathematical Knowledge Management</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Domain Specificity;Large Scale;Markup Language;Mathematical Knowledge Management;Semantic Wiki;</keyword>
+		<organization>null</organization>
+		<abstract>SWiM is a semantic wiki for collaboratively building, edit- ing and browsing mathematical knowledge represented in the domain- specific structural semantic markup language OMDoc. It motivates users to contribute to collections of mathematical knowledge by instantly shar- ing the benefits of knowledge-powered services with them. SWiM is cur- rently being used for authoring content dictionaries, i.e. collections of uniquely identified</abstract>
+	</publication>
+	<publication>
+		<title>sTeX+ - a System for Flexible Formalization of Linked Data</title>
+		<year>2010</year>
+		<authors>andrea kohlhase,michael kohlhase</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Case Study;Linked Data;Participatory Design;Semantic Information;Software Engineering;Xml Database;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>We present the sTeX+ system, a user-driven advancement of sTeX - a semantic extension of LaTeX that allows for producing high-quality PDF documents for (proof)reading and printing, as well as semantic XML/OMDoc documents for the Web or further processing. Originally sTeX had been created as an invasive, semantic frontend for authoring XML documents. Here, we used sTeX in a Software</abstract>
+	</publication>
+	<publication>
+		<title>Arguing on Issues with Mathematical Knowledge Items in a Semantic Wiki</title>
+		<year>2008</year>
+		<authors>tuukka hastrup,stephane corlosquet</authors>
+		<jconf>Lernen, Wissensentdeckung und Adaptivit?t</jconf>
+		<label>152</label>
+		<keyword>Semantic Wiki;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Integrating Web Services into Active Mathematical Documents</title>
+		<year>2009</year>
+		<authors>jana giceva,florian rabe</authors>
+		<jconf>Mathematical Knowledge Management</jconf>
+		<label>152</label>
+		<keyword>Case Study;User Interaction;Web Service;Client Server;</keyword>
+		<organization>null</organization>
+		<abstract>Active mathematical documents are distinguished from tra- ditional paper-oriented ones by their ability to interactively adapt to a reader's inputs. This includes changes in the presentation of the content of the document as well as changes of that content itself. We have developed the JOBAD architecture, a client/server infrastructure for active mathematical documents. A server-side module generates active documents, which</abstract>
+	</publication>
+	<publication>
+		<title>A Mathematical Approach to Ontology Authoring and Documentation</title>
+		<year>2009</year>
+		<authors>michael kohlhase</authors>
+		<jconf>Mathematical Knowledge Management</jconf>
+		<label>152</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mathematical Semantic Markup in a Wiki: The Roles of Symbols and Notations</title>
+		<year>2008</year>
+		<authors></authors>
+		<jconf>Semantic Wikis</jconf>
+		<label>152</label>
+		<keyword>Collaborative Editing;Markup Language;Reading and Writing;Semantic Wiki;</keyword>
+		<organization>null</organization>
+		<abstract>We present semantic markup as a way to exploit the seman- tics of mathematics in a wiki. Semantic markup makes mathematical knowledge machine-processable and thus allows for a multitude of useful applications. But as it is hard to read and write for humans, an edi- tor needs to understand its inherent semantics and allow for a human- readable presentation. The</abstract>
+	</publication>
+	<publication>
+		<title>A Semantic Wiki for Mathematical Knowledge Management</title>
+		<year>2006</year>
+		<authors>michael kohlhase</authors>
+		<jconf>Semantic Wikis</jconf>
+		<label>152</label>
+		<keyword>Knowledge Base;Knowledge Representation;Mathematical Knowledge Management;Semantic Wiki;Working Group;</keyword>
+		<organization>null</organization>
+		<abstract>We propose the architecture of a semantic wiki for collabo- ratively building, editing and browsing a mathematical knowledge base. Its hyperlinked pages, containing mathematical theories, are stored as OMDoc, a markup format for mathematical knowledge representation. Our long-term objective is to develop a software that, on the one hand, facilitates the creation of a shared, public collection of mathematical knowledge</abstract>
+	</publication>
+	<publication>
+		<title>Flyspeck in a Semantic Wiki</title>
+		<year>2008</year>
+		<authors>sean mclaughlin,florian rabe</authors>
+		<jconf>Semantic Wikis</jconf>
+		<label>152</label>
+		<keyword>Semantic Wiki;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>wiki.openmath.org - how it works, how you can participate</title>
+		<year>2010</year>
+		<authors></authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Semantic Wiki;</keyword>
+		<organization>null</organization>
+		<abstract>At http://wiki.openmath.org, the OpenMath 2 and 3 Content Dictionaries are accessible via a semantic wiki interface, powered by the SWiM system. We shortly introduce the inner workings of the system, then describe how to use it, and conclude with first experiences gained from OpenMath society members working with the system and an outlook to further development plans.</abstract>
+	</publication>
+	<publication>
+		<title>Dimensions of Formality: A Case Study for MKM in Software Engineering</title>
+		<year>2010</year>
+		<authors>andrea kohlhase,michael kohlhase</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>152</label>
+		<keyword>Case Study;Software Engineering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Applying Semantic Techniques to Search and Analyze Bug Tracking Data</title>
+		<year>2009</year>
+		<authors>ha manh tran,georgi chulkov,jürgen schönwälder,michael kohlhase</authors>
+		<jconf>Journal of Network and Systems Management</jconf>
+		<label>152</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

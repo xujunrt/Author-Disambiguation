@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Yalin Wang</FullName>
+	<publication>
+		<title>Dynamic Key Management for Secure Routing In LCMRMG</title>
+		<year>2004</year>
+		<authors>wuxu peng,kia makki</authors>
+		<jconf>International Conference on Computer Communications and Networks</jconf>
+		<label>1134</label>
+		<keyword>Key Management;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Dynamic key management for secure routing in MANET</title>
+		<year>2007</year>
+		<authors>wuxu peng,e. k. park,kia makki</authors>
+		<jconf>Wireless Communications and Mobile Computing</jconf>
+		<label>1134</label>
+		<keyword>Key Management;Secure Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

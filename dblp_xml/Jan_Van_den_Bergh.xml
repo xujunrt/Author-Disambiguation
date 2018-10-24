@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jan Van den Bergh</FullName>
+	<publication>
+		<title>A Security Architecture for Electronic Commerce Applications</title>
+		<year>2000</year>
+		<authors>bart de win,frank matthijs,bart de decker,wouter joosen</authors>
+		<jconf>Information Security</jconf>
+		<label>349</label>
+		<keyword>Electronic Commerce;Security Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>On the Internet many electronic commerce applications can be used today, butmost of them provide only weak security or even none whatsoever. A majorcause of this problem is the variety of technologies used to create suchapplications. Most existing security architectures are not designed to work indifferent environments.</abstract>
+	</publication>
+</person>

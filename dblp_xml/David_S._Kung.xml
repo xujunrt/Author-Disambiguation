@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David S. Kung</FullName>
+	<publication>
+		<title>A dual method for discrete Chebychev curve fitting</title>
+		<year>1978</year>
+		<authors>ronald d. armstrong</authors>
+		<jconf>ACM Annual Computer Science Conference</jconf>
+		<label>203</label>
+		<keyword>Curve Fitting;Linear Equations;overdetermined system;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a special purpose dual algorithm for obtaining a Chebychev approximation to an overdetermined system of linear equations. The method is founded on the principles of linear programming but is designed to take advantage of the problem's special structure. It is shown that, while maintaining a basis of smaller dimension, certain iterations of the standard dual algorithm may</abstract>
+	</publication>
+	<publication>
+		<title>A computational study of a multiple-choice knapsack algorithm</title>
+		<year>1983</year>
+		<authors>ronald d. armstrong,p. sinha,andris a. zoltners</authors>
+		<jconf>ACM Transactions on Mathematical Software</jconf>
+		<label>203</label>
+		<keyword>Algorithm Design;Large Scale;Knapsack Problem;</keyword>
+		<organization>null</organization>
+		<abstract>The results from the computat]onal testmg of an algorithm designed to solve large-scale multiplechoice knapsack problems are described. Data list structures, sorting techniques, and fathoming criteria are investigated. It is determmed that considerable storage space can be ehmlnated from the original implementation of the algorithm without affecting execution time Also the insertion of a heap sort m the algorithm does</abstract>
+	</publication>
+</person>

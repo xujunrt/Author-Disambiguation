@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sascha M&amp;uuml;ller</FullName>
+	<publication>
+		<title>CSBIterKmeans: A New Clustering Algorithm Based on Quantitative Assessment of the Clustering Quality</title>
+		<year>2009</year>
+		<authors>tarek smaoui,christian müller-schloer</authors>
+		<jconf>Machine Learning and Data Mining in Pattern Recognition</jconf>
+		<label>920</label>
+		<keyword>Cluster Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating the Biometric Sample Quality of Handwritten Signatures</title>
+		<year>2007</year>
+		<authors>olaf henniger</authors>
+		<jconf>International Conference on Biometrics</jconf>
+		<label>921</label>
+		<keyword>Biometric Authentication;</keyword>
+		<organization>null</organization>
+		<abstract>This paper addresses the problem of evaluating the quality of handwritten signatures used for biometric authentication. It is shown that some signature samples yield significantly worse performance than other samples from the same person. Thus, the importance of good ref- erence samples is emphasized. We also give some examples of features that are related to the signature stability and show</abstract>
+	</publication>
+	<publication>
+		<title>Distributed Attribute-Based Encryption</title>
+		<year>2008</year>
+		<authors>stefan katzenbeisser,claudia eckert</authors>
+		<jconf>Information Security and Cryptology</jconf>
+		<label>921</label>
+		<keyword>Attribute Based Encryption;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

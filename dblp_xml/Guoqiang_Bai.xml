@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Guoqiang Bai</FullName>
+	<publication>
+		<title>Constraint Bipartite Vertex Cover: Simpler Exact Algorithms and Implementations</title>
+		<year>2008</year>
+		<authors>henning fernau</authors>
+		<jconf>Frontiers in Algorithmics</jconf>
+		<label>272</label>
+		<keyword>Exact Algorithm;Vertex Cover;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

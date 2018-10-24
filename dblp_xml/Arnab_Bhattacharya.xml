@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Arnab Bhattacharya</FullName>
+	<publication>
+		<title>Implementation of a low cost short-haul optical wireless link</title>
+		<year>2009</year>
+		<authors>sudheer sreedhara krishna,balaji srinivasan,shubhadip dasgupta</authors>
+		<jconf>Ultra Modern Telecommunications</jconf>
+		<label>64</label>
+		<keyword>Optical Wireless;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

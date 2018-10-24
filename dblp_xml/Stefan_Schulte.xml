@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Stefan Schulte</FullName>
+	<publication>
+		<title>General Requirements of Banks on IT Architectures and the Service-Oriented Architecture Paradigm</title>
+		<year>2007</year>
+		<authors>nicolas repp,julian eckert,rainer berbner,korbinian von blanckenburg,ralf schaarschmidt,ralf steinmetz</authors>
+		<jconf></jconf>
+		<label>975</label>
+		<keyword>Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vorwort der Workshop-Leitung</title>
+		<year>2009</year>
+		<authors>nicolas repp,ulrike steffens</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>975</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Workshop IT-Governance in verteilten Systemen (GVS) 2010 (Vorwort)</title>
+		<year>2010</year>
+		<authors>nicolas repp,ulrike steffens</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>975</label>
+		<keyword>It Governance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Query Languages for Semantic Web Services</title>
+		<year>2010</year>
+		<authors>melanie siebenhaar,julian eckert,ralf steinmetz</authors>
+		<jconf>GI-Jahrestagung</jconf>
+		<label>975</label>
+		<keyword>Query Language;Semantic Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Worst-Case Workflow Performance Optimization</title>
+		<year>2008</year>
+		<authors>julian eckert,michael niemann,nicolas repp,ralf steinmetz</authors>
+		<jconf>International Conference on Internet and Web Applications and Services</jconf>
+		<label>975</label>
+		<keyword>Performance Optimization;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Approach to the Analysis and Evaluation of an Enterprise Service Ecosystem</title>
+		<year>2007</year>
+		<authors>nicolas repp,julian eckert,rainer berbner,ralf steinmetz</authors>
+		<jconf>International Conference on Software and Data Technologies</jconf>
+		<label>975</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Governance of a service-oriented architecture for environmental and public security</title>
+		<year>2009</year>
+		<authors>apostolos papageorgiou,dieter schuller,michael niemann,nicolas repp,ralf steinmetz</authors>
+		<jconf>Information Technologies in Environmental Engineering</jconf>
+		<label>975</label>
+		<keyword>Service Oriented Architecture;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Implementing and Evaluating the Common Information Model in a Relational and RDF-based Database</title>
+		<year>2007</year>
+		<authors>rainer berbner,ralf steinmetz,mathias uslar</authors>
+		<jconf>Information Technologies in Environmental Engineering</jconf>
+		<label>975</label>
+		<keyword>Common Information Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Building the Semantic Utility with Standards and Semantic Web Services</title>
+		<year>2008</year>
+		<authors>mathias uslar,sebastian rohjans,ralf steinmetz</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>975</label>
+		<keyword>Semantic Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>From Web Service Policies to Automatic Deviation Handling: Supporting Semantic Description of Reactions to Policy Violations</title>
+		<year>2009</year>
+		<authors>nicolas repp,dieter schuller,ralf steinmetz</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<label>975</label>
+		<keyword>Semantic Description;Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>LOG4SWS.KOM: Self-Adapting Semantic Web Service Discovery for SAWSDL</title>
+		<year>2010</year>
+		<authors>ulrich lampe,julian eckert,ralf steinmetz</authors>
+		<jconf></jconf>
+		<label>975</label>
+		<keyword>Semantic Web Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

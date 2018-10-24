@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Lang Li</FullName>
+	<publication>
+		<title>A Vertical and Horizontal Multiway Algorithm for Parallel-Merging</title>
+		<year>2006</year>
+		<authors>ying wang,kenli li,renfa li</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<label>501</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

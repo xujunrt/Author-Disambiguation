@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jian Huang</FullName>
+	<publication>
+		<title>Learning on the border: active learning in imbalanced data classification</title>
+		<year>2007</year>
+		<authors>seyda ertekin,l ´ eon bottou,c. lee giles</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>358</label>
+		<keyword>Active Learning;Class Imbalance;Classification Algorithm;Data Classification;Fraud Detection;large dataset;Machine Learning;Medical Diagnosis;Stopping Criteria;Support Vector Machine;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>This paper is concerned with the class imbalance problem which has been known to hinder the learning performance of classification algorithms. The problem occurs when there are significantly less number of observations of the target concept. Various real-world classification tasks, such as medical diagnosis, text categorization and fraud detection suffer from this phenomenon. The standard machine learning algorithms yield better</abstract>
+	</publication>
+	<publication>
+		<title>Error-driven generalist+experts (edge): a multistage ensemble framework for text categorization</title>
+		<year>2008</year>
+		<authors>omid madani,c. lee giles</authors>
+		<jconf>International Conference on Information and Knowledge Management</jconf>
+		<label>358</label>
+		<keyword>Ensemble Learning;Large Scale;Learning Resource;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>We introduce a multi-stage ensemble framework, Error- Driven Generalist+Expert or Edge, for improved classiflca- tion on large-scale text categorization problems. Edge flrst trains a generalist, capable of classifying under all classes, to deliver a reasonably accurate initial category ranking given an instance. Edge then computes a confusion graph for the generalist and allocates the learning resources to train experts on</abstract>
+	</publication>
+	<publication>
+		<title>Boosting the Feature Space: Text Classification for Unstructured Data on the Web</title>
+		<year>2006</year>
+		<authors>yang song,ding zhou,isaac g. councill,hongyuan zha,c. lee giles</authors>
+		<jconf>IEEE International Conference on Data Mining</jconf>
+		<label>358</label>
+		<keyword>collaborative ltering;Document Representation;Feature Reduction;Feature Selection;Feature Space;Feature Vector;Support Vector Machine;Text Classification;Bag of Words;</keyword>
+		<organization>null</organization>
+		<abstract>The issue of seeking efcient and effective methods for classifying unstructured text in large document corpora has received much attention in recent years. Traditional document representation like bag-of-words encodes docu- ments as feature vectors, which usually leads to sparse fea- ture spaces with large dimensionality, thus making it hard to achieve high classication accuracies. This paper ad- dresses the problem</abstract>
+	</publication>
+	<publication>
+		<title>Efficient topic-based unsupervised name disambiguation</title>
+		<year>2007</year>
+		<authors>yang song,isaac g. councill,jia li,c. lee giles</authors>
+		<jconf>ACM/IEEE Joint Conference on Digital Libraries</jconf>
+		<label>358</label>
+		<keyword>bayesian model;Clustering Method;name disambiguation;Spectral Clustering;Unsupervised Learning;Unsupervised Machine Learning;Web Pages;La Tent Semantic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Name ambiguity is a special case of identity uncertainty where one person can be referenced by multiple name vari- ations in different situations or even share the same name with other people. In this paper, we focus on the problem of disambiguating person names within web pages and sci- entific documents. We present an efficient and effective two- stage approach</abstract>
+	</publication>
+	<publication>
+		<title>On updates that constrain the features' connections during learning</title>
+		<year>2008</year>
+		<authors>omid madani</authors>
+		<jconf>Knowledge Discovery and Data Mining</jconf>
+		<label>358</label>
+		<keyword>Classification Accuracy;Indexation;Learning Scenario;Learning System;Moving Average;Online Algorithm;Online Learning;</keyword>
+		<organization>null</organization>
+		<abstract>In many multiclass learning scenarios, the number of classes is relatively large (thousands,...), or the space and time efficiency of the learning system can be crucial. We investigate two online up- date techniques especially suited to such problems. These updates share a sparsity preservation capacity: they allow for constraining the number of prediction connections that each feature can make. We</abstract>
+	</publication>
+	<publication>
+		<title>Solving the &quot;Who's Mark Johnson Puzzle&quot;: Information Extraction Based Cross Document Coreference</title>
+		<year>2009</year>
+		<authors>sarah m. taylor,jonathan l. smith,konstantinos a. fotiadis,c. lee giles</authors>
+		<jconf>North American Chapter of the Association for Computational Linguistics</jconf>
+		<label>358</label>
+		<keyword>Cluster Algorithm;Document Understanding;Information Extraction;Named Entity;Similarity Function;</keyword>
+		<organization>null</organization>
+		<abstract>Cross Document Coreference (CDC) is the problem of resolving the underlying identity of entities across multiple documents and is a major step for document understanding. We develop a framework to efficiently determine the identity of a person based on extracted information, which includes unary properties such as gender and title, as well as binary relationships with other named entities such</abstract>
+	</publication>
+	<publication>
+		<title>Efficient Name Disambiguation for Large-Scale Databases</title>
+		<year>2006</year>
+		<authors>seyda ertekin,c. lee giles</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>358</label>
+		<keyword>Block Method;Clustering Method;Distance Metric;Large Scale;name disambiguation;Support Vector Machine;</keyword>
+		<organization>null</organization>
+		<abstract>Name disambiguation can occur when one is seeking a list of publications of an author who has used different name variations and when there are multiple other authors with the same name. We present an efficient integrative framework for solving the name disambiguation problem: a blocking method retrieves candidate classes of authors with similar names and a clustering method, DBSCAN,</abstract>
+	</publication>
+	<publication>
+		<title>IKNN: Informative K-Nearest Neighbor Pattern Classification</title>
+		<year>2007</year>
+		<authors>yang song,ding zhou,hongyuan zha,c. lee giles</authors>
+		<jconf>Principles of Data Mining and Knowledge Discovery</jconf>
+		<label>358</label>
+		<keyword>K Nearest Neighbor;Pattern Classification;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Efficient Multiclass Boosting Classification with Active Learning</title>
+		<year>2007</year>
+		<authors>seyda ertekin,yang song,hongyuan zha,c. lee giles</authors>
+		<jconf>SIAM International Conference on Data Mining</jconf>
+		<label>358</label>
+		<keyword>Active Learning;Computational Complexity;Data Mining;large dataset;quasi-newton method;Regression Tree;Scaling Up;Query By Committee;</keyword>
+		<organization>null</organization>
+		<abstract>We propose a novel multiclass classiflcation algorithm Gen- tle Adaptive Multiclass Boosting Learning (GAMBLE). The algorithm naturally extends the two class Gentle AdaBoost algorithm to multiclass classiflcation by using the multi- class exponential loss and the multiclass response encoding scheme. Unlike other multiclass algorithms which reduce the K-class classiflcation task to K binary classiflcations, GAMBLE handles the task directly and</abstract>
+	</publication>
+	<publication>
+		<title>A scalable assistant librarian: hierarchical subject classification of books</title>
+		<year>2008</year>
+		<authors>steven p. crain,hongyuan zha</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>358</label>
+		<keyword>Hierarchical Classification;Performance Measure;Support Vector Machine;Work In Progress;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we discuss our work in progress towards a scalable hierarchical classification system for books using the Library of Congress subject hierarchy. We examine the characteristics of this domain which make the problem very challenging, and we look at several appropriate performance measurements. We show that both Hieron and Hierarchical Support Vector Machines perform moderately well.</abstract>
+	</publication>
+	<publication>
+		<title>Active learning for class imbalance problem</title>
+		<year>2007</year>
+		<authors>seyda ertekin,c. lee giles</authors>
+		<jconf>Research and Development in Information Retrieval</jconf>
+		<label>358</label>
+		<keyword>Active Learning;Class Imbalance;Classification Algorithm;Support Vector Machine;Text Categorization;</keyword>
+		<organization>null</organization>
+		<abstract>The class imbalance problem has been known to hinder the learn- ing performance of classification algorithms. Various real-world classification tasks such as text categorization suffer from this phenomenon. We demonstrate that active learning is capable of solving the problem. for the learner in early stages of the learning. We also propose an efficient Support Vector Machine (SVM) active learning strategy</abstract>
+	</publication>
+	<publication>
+		<title>Personalized ranking for digital libraries based on log analysis</title>
+		<year>2008</year>
+		<authors>yang sun,huajing li,isaac g. councill,wang-chien lee,c. lee giles</authors>
+		<jconf>Web Information and Data Management</jconf>
+		<label>358</label>
+		<keyword>Digital Library;Implicit Feedback;Indexation;Information Retrieval System;Log Analysis;Ranking Function;recommender system;Search Engine;User Feedback;User Preferences;Web Accessibility;Web Usage Mining;informa tion retrieval;</keyword>
+		<organization>null</organization>
+		<abstract>Given the exponential increase of indexable context on the Web, ranking is an increasingly di-cult problem in information retrieval systems. Recent research shows that implicit feedback regarding user preferences can be extracted from web access logs in order to increase ranking performance. We analyze the implicit user feedback from access logs in the CiteSeer academic search engine and show how</abstract>
+	</publication>
+	<publication>
+		<title>Collaboration over time: characterizing and modeling network evolution</title>
+		<year>2008</year>
+		<authors>ziming zhuang,jia li,c. lee giles</authors>
+		<jconf>Web Search and Data Mining</jconf>
+		<label>358</label>
+		<keyword>Degree Distribution;large dataset;Large Scale;Network Evolution;Network Model;poisson model;poisson process;Small World;Social Network;Social Network Analysis;Statistical Properties;Stochastic Model;Support Vector Regression;Tree Structure;Scale Free;</keyword>
+		<organization>null</organization>
+		<abstract>A formal type of scientific and academic collaboration is coauthorship which can be represented by a coauthorship network. Coauthorship networks are among some of the largest social networks and offer us the opportunity to study the mechanisms underlying large-scale real world networks. We construct such a network for the Computer Science field covering research collaborations from 1980 to 2005, based</abstract>
+	</publication>
+	<publication>
+		<title>Exploring web scale language models for search query processing</title>
+		<year>2010</year>
+		<authors>jianfeng gao,jiangbo miao,xiaolong li,kuansan wang,fritz behr,c. lee giles</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>358</label>
+		<keyword>Anchor Text;Information Retrieval;Language Model;Large Scale;Query Processing;Web Documents;Information Theoretic;</keyword>
+		<organization>null</organization>
+		<abstract>It has been widely observed that search queries are composed in a very different style from that of the body or the title of a document. Many techniques explicitly accounting for this language style discrepancy have shown promising results for information retrieval, yet a large scale analysis on the extent of the language differences has been lacking. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Generative models for name disambiguation</title>
+		<year>2007</year>
+		<authors>yang song,isaac g. councill,jia li,c. lee giles</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>358</label>
+		<keyword>Generic Model;Latent Dirichlet Allocation;name disambiguation;Unsupervised Machine Learning;Probabilistic Latent Semantic Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>Name ambiguity is a special case of identity uncertainty where one person can be referenced by multiple name variations in different situations or evenshare the same name with other people. In this paper, we present an efficient framework by using two novel topic-based models, extended from Probabilistic Latent Semantic Analysis (PLSA) and Latent Dirichlet Allocation (LDA). Our models explicitly introduce</abstract>
+	</publication>
+</person>

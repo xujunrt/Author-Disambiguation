@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Jie Qiu</FullName>
+	<publication>
+		<title>Frame Skeleton Based Auto-Inbetweening in Computer Assisted Cel Animation</title>
+		<year>2004</year>
+		<authors>konstantin melikhov,feng tian,seah hock soon,quan chen</authors>
+		<jconf>International Conference on Cyberworlds</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer-Assisted Auto Coloring by Region Matching</title>
+		<year>2003</year>
+		<authors>seah hock soon,feng tian,quan chen,konstantin melikhov</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DBSC-Based Grayscale Line Image Vectorization</title>
+		<year>2006</year>
+		<authors>konstantin melikhov,feng tian,quan chen,seah hock soon</authors>
+		<jconf>Journal of Computer Science and Technology</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DBSC-based animation enhanced with feature and motion</title>
+		<year>2006</year>
+		<authors>quan chen,feng tian,hock soon seah,zhongke wu,konstantin melikhov</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enhanced auto coloring with hierarchical region matching</title>
+		<year>2005</year>
+		<authors>hock soon seah,feng tian,quan chen,zhongke wu</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Feature and region-based auto painting for 2D animation</title>
+		<year>2005</year>
+		<authors>seah hock soon,feng tian,zhongke wu,quan chen</authors>
+		<jconf>The Visual Computer</jconf>
+		<label>404</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

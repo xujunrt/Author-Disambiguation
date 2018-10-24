@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Gilles Bertrand</FullName>
+	<publication>
+		<title>The Creation of a Brain Atlas for Image Guided Neurosurgery Using Serial Histological Data</title>
+		<year>2003</year>
+		<authors>m. mallar chakravarty,maxime descoteaux,abbas f. sadikot,d. louis collins</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>257</label>
+		<keyword>Brain Atlas;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Anatomical and Electrophysiological Validation of an Atlas for Neurosurgical Planning</title>
+		<year>2005</year>
+		<authors>m. mallar chakravarty,abbas f. sadikot,jurgen germann,d. louis collins</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>257</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards a Multi-modal Atlas for Neurosurgical Planning</title>
+		<year>2006</year>
+		<authors>m. mallar chakravarty,abbas f. sadikot,sanjay mongia,d. louis collins</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>257</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Optical Burst Switched network architecture with passive access</title>
+		<year>2007</year>
+		<authors>arnaud cauvin,philippe niger,julio orozco</authors>
+		<jconf>International Conference on Networking and Services</jconf>
+		<label>258</label>
+		<keyword>Network Architecture;Optical Burst Switched;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

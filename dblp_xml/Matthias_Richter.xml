@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Matthias Richter</FullName>
+	<publication>
+		<title>Vergleich von Messverfahren zur Bewertung der Störemission von Fahrzeugelektroniken über einen weiten Frequenzbereich</title>
+		<year>2005</year>
+		<authors>norman müller,bernd körber,dieter sperling</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit in der KFZ-Technik</jconf>
+		<label>672</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Neues Störfestigkeitsverfahren mittels Rohrkoppler bei Mobilfunksignalen</title>
+		<year>2001</year>
+		<authors>bernd körber,dieter sperling</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit in der KFZ-Technik</jconf>
+		<label>672</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Vergleich von Messverfahren zur Bewertung der Störemission von Fahrzeugelektroniken über einen weiten Frequenzbereich</title>
+		<year>2005</year>
+		<authors>norman müller,bernd körber,dieter sperling</authors>
+		<jconf>Elektromagnetische Vertr?glichkeit in der KFZ-Technik</jconf>
+		<label>672</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel G. Brown</FullName>
+	<publication>
+		<title>The use of functional domains to improve transmembrane protein topology prediction</title>
+		<year>2005</year>
+		<authors>emily w. xu,paul kearney</authors>
+		<jconf>Asia-Pacific Bioinformatics Conference</jconf>
+		<label>167</label>
+		<keyword>Drug Design;Gene Finding;Membrane Protein Structure;Prediction Accuracy;Sensitivity and Specificity;Statistical Test;Transmembrane Protein;</keyword>
+		<organization>null</organization>
+		<abstract>Transmembrane proteins affect vital cellular functions and diseases, and are a focus of drug design. It is difficult to obtain diffraction quality crystals to study transmembrane protein structure. Computational tools for transmembrane protein topology prediction fill in the gap between the abundance of transmembrane proteins and the scarcity of known membrane protein structures. Their prediction accuracy is still inadequate: TMHMM</abstract>
+	</publication>
+	<publication>
+		<title>Detecting Motifs in a Large Data Set: Applying Probabilistic Insights to Motif Finding</title>
+		<year>2009</year>
+		<authors>christina boucher</authors>
+		<jconf></jconf>
+		<label>167</label>
+		<keyword>Hamming Distance;Large Data Sets;Probabilistic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We give a probabilistic algorithm for Consensus Sequence, a NP-complete subproblem of motif recognition, that can be described as follows: given set of l-length sequences, determine if there exists a sequence that has Hamming distance at most d from every sequence. We demonstrate that distance between a randomly selected majority sequence and a consensus sequence decreases as the size of</abstract>
+	</publication>
+	<publication>
+		<title>Integer Programming Formulations and Computations Solving Phylogenetic and Population Genetic Problems with Missing or Genotypic Data</title>
+		<year>2007</year>
+		<authors>dan gusfield,yelena frid</authors>
+		<jconf>Computing and Combinatorics</jconf>
+		<label>167</label>
+		<keyword>Combinatorial Problems;Haplotype Inference;Integer Linear Program;Integer Program;Missing Data;Objective Function;Population Genetics;</keyword>
+		<organization>null</organization>
+		<abstract>Several central and well-known combinatorial problems in phylogenetics and population genetics have ecient, elegant solutions when the input is complete or consists of haplotype data, but lack e- cient solutions when input is either incomplete, consists of genotype data, or is for problems generalized from decision questions to optimization questions. Unfortunately, in biological applications, these harder prob- lems arise very</abstract>
+	</publication>
+	<publication>
+		<title>Sharper Upper and Lower Bounds for an Approximation Scheme for Consensus-Pattern</title>
+		<year>2005</year>
+		<authors>brona brejová,ian m. harrower,alejandro lópez-ortiz,tomás vinar</authors>
+		<jconf>Combinatorial Pattern Matching</jconf>
+		<label>167</label>
+		<keyword>Approximation Scheme;Lower and Upper Bound;np-hard problem;Performance Bounds;Polynomial Time Approximation Scheme;Upper and Lower Bounds;</keyword>
+		<organization>null</organization>
+		<abstract>We present sharper upper and lower bounds for a known polynomial-time approximation scheme due to Li, Ma and Wang (7) for the Consensus-Pattern problem. This NP-hard problem is an abstrac- tion of motif flnding, a common bioinformatics discovery task. The PTAS due to Li et al. is simple, and a preliminary implementation (8) gave rea- sonable results in practice. However,</abstract>
+	</publication>
+	<publication>
+		<title>New Bounds for Motif Finding in Strong Instances</title>
+		<year>2006</year>
+		<authors>brona brejová,ian m. harrower,tomás vinar</authors>
+		<jconf>Combinatorial Pattern Matching</jconf>
+		<label>167</label>
+		<keyword>High Performance;Polynomial Time Approximation Scheme;Sample Size;</keyword>
+		<organization>null</organization>
+		<abstract>Many algorithms for motif finding that are commonly used in bioinformatics start by sampling r potential motif occurrences from n input sequences. The motif is derived from these samples and evaluated on all sequences. This approach works extremely well in practice, and is implemented by several programs. Li, Ma and Wang have shown that a simple algorithm of this sort</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Spaced Seeds for Hidden Markov Models, with Application to Homologous Coding Regions</title>
+		<year>2003</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Combinatorial Pattern Matching</jconf>
+		<label>167</label>
+		<keyword>Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimizing Multiple Spaced Seeds for Homology Search</title>
+		<year>2006</year>
+		<authors>jinbo xu,ming li,bin ma</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>167</label>
+		<keyword>Greedy Algorithm;Homology Search;Performance Guarantee;Seed Set;Sensitivity and Specificity;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>Optimized spaced seeds improve sensitivity and specificity in local homology search. Several authors have shown that multiple seeds can have better sensitivity and specificity than single seeds. We describe a linear programming (LP)–based algorithm to optimize a set of seeds. Theoretically, our algorithm offers a performance guarantee: the sensitivity of a chosen seed set is at least 70% of what</abstract>
+	</publication>
+	<publication>
+		<title>ExonHunter: a comprehensive approach to gene finding</title>
+		<year>2005</year>
+		<authors>brona brejová,ming li,tomás vinar</authors>
+		<jconf>Intelligent Systems in Molecular Biology</jconf>
+		<label>167</label>
+		<keyword>Comparative Genomics;Expressed Sequence Tag;Gene Finding;Gene Prediction;Genome Sequence;Quadratic Program;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Motivation: We present ExonHunter, a new and comprehens- ive gene finding system that outperforms existing systems and features several new ideas and approaches. Our system com- bines numerous sources of information (genomic sequences, expressed sequence tags and protein databases of related species) into a gene finder based on a hidden Markov model in a novel and systematic way. In our</abstract>
+	</publication>
+	<publication>
+		<title>A probabilistic analysis of a greedy algorithm arising from computational biology</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>167</label>
+		<keyword>Computational Biology;Genetic Map;Greedy Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: IntroductionGenetic mapping is a common technique by whichbiologists approximately locate important genes on thegenome of an organism. The laboratory work needed tobuild highly precise genetic maps can be too expensivefor all but very well-studied organisms [4]. Our recentwork presents algorithms to reduce the cost of mappingprojects [5, 3, 2]. We focus on shrinking the populationsused in laboratory work, since</abstract>
+	</publication>
+	<publication>
+		<title>Selective mapping: a discrete optimization approach to selecting a population subset for use in a high-density genetic mapping project</title>
+		<year>2000</year>
+		<authors>todd j. vision,steven d. tanksleyt</authors>
+		<jconf>Symposium on Discrete Algorithms</jconf>
+		<label>167</label>
+		<keyword>Discrete Optimization;Genetic Map;Genetics;High Density;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We study the problem of sampling from a large genetic mappingpopulation in which all individuals have identical pedigrees.We show that samples obtained from large populations,selected on the basis of limited genetic data, are bettersuited for use in high-density mapping experiments thanrandom samples of the same size. We model the problemof choosing a mapping sample as a discrete stochastic optimizationproblem,</abstract>
+	</publication>
+	<publication>
+		<title>On the Structure of Small Motif Recognition Instances</title>
+		<year>2008</year>
+		<authors>christina boucher,stephane durocher</authors>
+		<jconf>String Processing and Information Retrieval</jconf>
+		<label>167</label>
+		<keyword>Binary Sequence;Exact Algorithm;Hamming Distance;Linear Time;</keyword>
+		<organization>null</organization>
+		<abstract>Given a set of sequences, S, and degeneracy parameter, d, the Consensus Sequence problem asks whether there exists a sequence that has Hamming distance at most d from each sequence in S. A valid motif set is a set of sequences for which such a consensus sequence exists, while a decoy set is a set of sequences that does not</abstract>
+	</publication>
+	<publication>
+		<title>A Graph Clustering Approach to Weak Motif Recognition</title>
+		<year>2007</year>
+		<authors>christina boucher,paul church</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Degeneration;Dna Sequence;Experimental Tests;Graph Clustering;Polynomial Time;Weighted Graph;</keyword>
+		<organization>null</organization>
+		<abstract>The aim of the motif recognition problem is to detect a set of mutually similar subsequences within a collection of biological sequences. The weak motif recognition problem on DNA sequences is where the se- quences are highly degenerate. Our new approach to this problem uses a weighted graph model and a heuristic that determines high weight subgraphs in polynomial time.</abstract>
+	</publication>
+	<publication>
+		<title>Vector Seeds: An Extension to Spaced Seeds Allows Substantial Improvements in Sensitivity and Specifity</title>
+		<year>2003</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Efficient Algorithm;Protein Sequence;Sensitivity and Specificity;Sequence Alignment;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We present improved techniques for finding homologous regions in DNA and protein sequences. Our approach focuses on the core region of a local pairwise alignment; we suggest new ways to characterize these regions that allow marked improvements in both specificity and sensitivity over existing techniques for sequence alignment. For any such characterization, which we call a vector seed, we</abstract>
+	</publication>
+	<publication>
+		<title>Optimal DNA Signal Recognition Models with a Fixed Amount of Intrasignal Dependency</title>
+		<year>2003</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Generic Model;Probabilistic Model;Higher Order;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We study new probabilistic models for signals in DNA. Ourmodels allow dependencies between multiple non-adjacent positions, ina generative model we call a higher-order tree. Computing the model ofmaximum likelihood is equivalent in our context to computing a minimumdirected spanning hypergraph, a problem we show is NP-complete.</abstract>
+	</publication>
+	<publication>
+		<title>The Most Probable Labeling Problem in HMMs and Its Application to Bioinformatics</title>
+		<year>2004</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Abstract Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: Hidden Markov models (HMMs) have been successfully used for several sequence annotationtasks in bioinformatics. In this setting, every sequence element is represented by a group of states withthe same label. The annotation is the labeling of the input sequence with the highest probability.</abstract>
+	</publication>
+	<publication>
+		<title>Multiple Vector Seeds for Protein Alignment</title>
+		<year>2004</year>
+		<authors></authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Discovering Kinship through Small Subsets</title>
+		<year>2010</year>
+		<authors>tanya y. berger-wolf</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Integer Programming Formulation for the Pure Parsimony Problem in Haplotype Analysis</title>
+		<year>2004</year>
+		<authors>ian m. harrower</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Integer Program;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>New Algorithms for Multiple DNA Sequence Alignment</title>
+		<year>2004</year>
+		<authors>alexander k. hudek</authors>
+		<jconf>Algorithms in Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Dna Sequence;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Decoding HMMs using the k best paths: algorithms and applications</title>
+		<year>2010</year>
+		<authors>daniil golod</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Membrane Protein;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Background: Traditional algorithms for hidden Markov model decoding seek to maximize either the probability of a state path or the number of positions of a sequence assigned to the correct state. These algorithms provide only a single answer and in practice do not produce good results. Results: We explore an alternative approach, where we efficiently compute the k paths of</abstract>
+	</publication>
+	<publication>
+		<title>New decoding algorithms for Hidden Markov Models using distance measures on labellings</title>
+		<year>2010</year>
+		<authors>jakub truszkowski</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Conditional Probability;Distance Measure;Membrane Protein;Optimal Algorithm;Transmembrane Helix;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Background: Existing hidden Markov model decoding algorithms do not focus on approximately identifying the sequence feature boundaries. Results: We give a set of algorithms to compute the conditional probability of all labellings &quot;near&quot; a reference labelling l for a sequence y for a variety of definitions of &quot;near&quot;. In addition, we give optimization algorithms to find the best labelling for</abstract>
+	</publication>
+	<publication>
+		<title>Ancestral sequence alignment under optimal conditions</title>
+		<year>2005</year>
+		<authors>alexander k. hudek</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Multiple Alignment;Optimality Condition;Phylogenetic Tree;Sequence Alignment;Maximum Likelihood;Simulated Evolution;</keyword>
+		<organization>null</organization>
+		<abstract>Background: Multiple genome alignment is an important problem in bioinformatics. An important subproblem used by many multiple alignment approaches is that of aligning two multiple alignments. Many popular alignment algorithms for DNA use the sum-of-pairs heuristic, where the score of a multiple alignment is the sum of its induced pairwise alignment scores. However, the biological meaning of the sum-of-pairs of</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Spaced Seeds for Homologous Coding Regions</title>
+		<year>2004</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>167</label>
+		<keyword>Gene Prediction;Genome Comparison;Genome Sequence;Homology Search;Local Alignment;Probabilistic Model;Sequence Alignment;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Optimal spaced seeds were developed as a method to increase sensitivity of local align- ment programs similar to BLASTN. Such seeds have been used before in the pro- gram PatternHunter, and have given improved sensitivity and running time relative to BLASTN in genome-genome comparison. We study the problem of computing optimal spaced seeds for detecting homologous coding regions in unannotated</abstract>
+	</publication>
+	<publication>
+		<title>A Tutorial of Recent Developments in the Seeding of Local Alignment</title>
+		<year>2004</year>
+		<authors>bin ma</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>167</label>
+		<keyword>Heuristic Method;Homology Search;Local Alignment;Sensitivity and Specificity;Sequence Alignment;</keyword>
+		<organization>null</organization>
+		<abstract>We review recent results on local alignment. We begin with a review of classical methods and early heuristic methods, and then focus on more recent work on the seeding of local alignment. We show that these techniques give a vast improvement in both sensitivity and specificity over previous methods, and can achieve sensitivity at the level of classical algorithms while</abstract>
+	</publication>
+	<publication>
+		<title>A Tutorial of Techniques for Improving Standard Hidden Markov Model Algorithms</title>
+		<year>2009</year>
+		<authors>daniil golod</authors>
+		<jconf>Journal of Bioinformatics and Computational Biology</jconf>
+		<label>167</label>
+		<keyword>Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimizing Multiple Spaced Seeds for Homology Search</title>
+		<year>2006</year>
+		<authors>jinbo xu,ming li,bin ma</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<label>167</label>
+		<keyword>Greedy Algorithm;Homology Search;Performance Guarantee;Seed Set;Sensitivity and Specificity;Linear Program;</keyword>
+		<organization>null</organization>
+		<abstract>Optimized spaced seeds improve sensitivity and specificity in local homology search. Several authors have shown that multiple seeds can have better sensitivity and specificity than single seeds. We describe a linear programming (LP)–based algorithm to optimize a set of seeds. Theoretically, our algorithm offers a performance guarantee: the sensitivity of a chosen seed set is at least 70% of what</abstract>
+	</publication>
+	<publication>
+		<title>Vector seeds: An extension to spaced seeds</title>
+		<year>2005</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Journal of Computer and System Sciences</jconf>
+		<label>167</label>
+		<keyword>Dna Sequence;Probabilistic Model;Protein Sequence;Sequence Alignment;</keyword>
+		<organization>null</organization>
+		<abstract>We present improved techniques for nding homologous regions in DNA and protein sequences. Our approach focuses on the core regions of a local pairwise alignment; we suggest new ways to characterize these regions that allow marked improvements in both specicit y and sensitivity over existing techniques for sequence alignment. For any such characterization, which we call a vector seed, we</abstract>
+	</publication>
+	<publication>
+		<title>The most probable annotation problem in HMMs and its application to bioinformatics</title>
+		<year>2007</year>
+		<authors>brona brejová,tomás vinar</authors>
+		<jconf>Journal of Computer and System Sciences</jconf>
+		<label>167</label>
+		<keyword>Computational Biology;Efficient Algorithm;Gene Finding;Large Classes;Transmembrane Protein;Hidden Markov Model;</keyword>
+		<organization>null</organization>
+		<abstract>Hidden Markov models (HMMs) are often used for biological sequence annotation. Each sequence feature is represented by a collection of states with the same label. In annotating a new sequence, we seek the sequence of labels that has highest probability. Computing this most probable annotation was shown NP-hard by Lyngsø and Pedersen (R.B. Lyngsø, C.N.S. Pedersen, The consensus string problem</abstract>
+	</publication>
+	<publication>
+		<title>Optimizing Multiple Seeds for Protein Homology Search</title>
+		<year>2005</year>
+		<authors></authors>
+		<jconf>IEEE/ACM Transactions on Computational Biology and Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>False Positive;Homology Search;Integer Program;Genetics;Indexing Terms;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract>We present a framework for improving local protein alignment algorithms. Specifically, we discuss how to extend local protein aligners to use a collection of vector seeds or ungapped alignment seeds to reduce noise hits. We model picking a set of seed models as an integer programming problem and give algorithms to choose such a set of seeds. While the problem</abstract>
+	</publication>
+	<publication>
+		<title>Integer Programming Approaches to Haplotype Inference by Pure Parsimony</title>
+		<year>2006</year>
+		<authors>ian m. harrower</authors>
+		<jconf>IEEE/ACM Transactions on Computational Biology and Bioinformatics</jconf>
+		<label>167</label>
+		<keyword>Genetics;Haplotype Inference;Indexing Terms;Integer Program;Haplotype Inference By Pure Parsimony;</keyword>
+		<organization>null</organization>
+		<abstract>In 2003, Gusfield introduced the Haplotype Inference by Pure Parsimony (HIPP) problem and presented an integer program (IP) that quickly solved many simulated instances of the problem (1). Although it solved well on small instances, Gusfield's IP can be of exponential size in the worst case. Several authors (2), (3) have presented polynomial-sized IPs for the problem. In this paper,</abstract>
+	</publication>
+	<publication>
+		<title>Integrating Radar Remote Sensing of Habitat Structure: A Pilot Project for Biodiversity Informatics</title>
+		<year>2002</year>
+		<authors>kathleen bergen,eric j. gustafson,m. craig dobson</authors>
+		<jconf>DG.O (Inter)National Conference on Digital Government Research</jconf>
+		<label>167</label>
+		<keyword>Aerial Photography;Community Composition;Coniferous Forest;Forest Structure;Habitat Preference;Habitat Structure;Pilot Project;Pilot Study;Remote Sensing;Remote Sensing Data;Basal Area;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Mapping for biodiversity informatics requires information on habitat so that known species occurrences may be extrapolated to maps of potential species occurrences. In the case of vegetation requirements for habitat, most current datasets of actual vegetation have been derived from optical (e.g. aerial photography or Landsat) remotely sensed data. These data are largely limited to describing horizontal structure: vegetation community</abstract>
+	</publication>
+	<publication>
+		<title>Radar Remote Sensing of Habitat Structure for Biodiversity Informatics</title>
+		<year>2002</year>
+		<authors>kathleen bergen,eric j. gustafson,m. craig dobson</authors>
+		<jconf>DG.O (Inter)National Conference on Digital Government Research</jconf>
+		<label>167</label>
+		<keyword>Habitat Structure;Remote Sensing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multidimensional vegetation structure in modeling avian habitat</title>
+		<year>2007</year>
+		<authors>kathleen bergen,amy m. gilboy</authors>
+		<jconf>Ecological Informatics</jconf>
+		<label>167</label>
+		<keyword>Vegetation Structure;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Agent-based and analytical modeling to evaluate the effectiveness of greenbelts</title>
+		<year>2004</year>
+		<authors>scott e. page,rick l. riolo,william rand</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<label>168</label>
+		<keyword>Agent Based Model;Analytical Model;Heterogeneous Agents;Heterogeneous Preferences;Land Use Change;Landscape Ecology;Landscape Pattern;Mathematical Analysis;Mathematical Model;Spatial Pattern;Urban Sprawl;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>We present several models of residential development at the rural-urban fringe to evaluate the effectiveness of a greenbelt loca- ted beside a developed area, for delaying development outside the greenbelt. First, we develop a mathematical model, under two assumptions about the distributions of service centers, that represents the trade-off between greenbelt placement and width, their effects on the rate of</abstract>
+	</publication>
+	<publication>
+		<title>Classification and Boundary Vagueness in Mapping Presettlement Forest Types</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>168</label>
+		<keyword>Fuzzy Set;linear functionals;Vegetation Mapping;</keyword>
+		<organization>null</organization>
+		<abstract>Presettlement forest types were mapped as fuzzy sets from point data representing trees contained in General Land OÅ ce survey notes (circa 1850) for Chippewa County, Michigan. The resulting representation agreed with a polygon map of the same forest types at 66% of the locations (represented as grid cells) in the county. Boundary vagueness was de® ned in relation to</abstract>
+	</publication>
+	<publication>
+		<title>Spatial simulation for translating from land use to land cover</title>
+		<year>2004</year>
+		<authors>jiunn-der duh</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>168</label>
+		<keyword>Ecological Impact;Land Cover Mapping;Land Use;Land Cover;</keyword>
+		<organization>null</organization>
+		<abstract>An approach to simulating land-cover patterns based on historical land-use maps and forecasts based on models and planning documents is described and demonstrated. The approach uses stochastic spatial simulation to generate land-cover patterns on the basis of a land-use map and stated translation rules. The translation rules take the form of (1) a table that summarizes the proportions of each</abstract>
+	</publication>
+	<publication>
+		<title>Path dependence and the validation of agent-based spatial models of land use</title>
+		<year>2005</year>
+		<authors>scott e. page,rick l. riolo,moira zellner,william rand</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>168</label>
+		<keyword>Agent Based Model;Complex System;Data Collection;Land Use;Land Use Change;Land Use Pattern;Model Performance;Model Validation;Path Dependence;Prediction Accuracy;Spatial Model;Urban Sprawl;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we identify two distinct notions of accuracy of land-use models and highlight a tension between them. A model can have predictive accuracy: its predicted land-use pattern can be highly correlated with the actual land-use pattern. A model can also have process accuracy: the process by which locations or land-use patterns are determined can be consistent with real</abstract>
+	</publication>
+	<publication>
+		<title>Spatial agent-based modelling</title>
+		<year>2006</year>
+		<authors>yichun xie</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>168</label>
+		<keyword>Agent Based Modelling;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluating the effects of land-use development policies on exurban forest cover: An integrated agent-based GIS approach</title>
+		<year>2009</year>
+		<authors>derek t. robinson</authors>
+		<jconf>International Journal of Geographical Information Science</jconf>
+		<label>168</label>
+		<keyword>Agent Based Model;Agent Based Modelling;Development Policy;Forest Conservation;Forest Cover;Geographic Information System;Interaction Effect;Land Use;Lot Sizing;Spatial Data;Survey Data;Urban Forest;Agent Based;Land Use Land Cover;</keyword>
+		<organization>null</organization>
+		<abstract>We use a GIS-based agent-based model (ABM), named dynamic ecological exurban development (DEED), with spatial data in hypothetical scenarios to evaluate the individual and interacting effects of lot-size zoning and municipal land-acquisition strategies on possible forest-cover outcomes in Scio Township, a municipality in Southeastern Michigan. Agent types, characteristics, behavioural methods, and landscape perceptions (i.e. landscape aesthetics) are empirically informed using</abstract>
+	</publication>
+	<publication>
+		<title>Spatial process and data models: Toward integration of agent-based models and GIS</title>
+		<year>2005</year>
+		<authors>rick l. riolo,derek t. robinson,michael north,william rand</authors>
+		<jconf>Journal of Geographical Systems</jconf>
+		<label>168</label>
+		<keyword>Agent Based Model;Data Model;Middleware;Object Oriented;Process Model;Spatial Data;Spatial Process;Tight Coupling;Agent Based;</keyword>
+		<organization>null</organization>
+		<abstract>The use of object-orientation for both spatial data and spatial process models facilitates their integration, which can allow exploration and explanation of spatial-temporal phenomena. In order to better understand how tight coupling might proceed and to evaluate the possible functional and efficiency gains from such a tight coupling, we identify four key relationships affecting how geographic data (fields and objects)</abstract>
+	</publication>
+	<publication>
+		<title>Simulating error propagation in land-cover change analysis: The implications of temporal dependence</title>
+		<year>2007</year>
+		<authors>amy c. burnicki,pierre goovaerts</authors>
+		<jconf>Computers, Environment and Urban Systems</jconf>
+		<label>168</label>
+		<keyword>Change Analysis;Change Detection;Error Propagation;Land Cover Change;Land Cover Mapping;Satellite Imagery;Spatial Pattern;Land Cover;</keyword>
+		<organization>null</organization>
+		<abstract>We examined factors that affect the propagation of error in analyses of land-cover change clas- sified from multi-temporal satellite imagery by simulating multiple versions of land-cover maps at two times, time-1 and time-2. The maps, each with two categories of land-cover, were produced to investigate three specific attributes that affect change-detection accuracy: (1) the pattern of change that produced a</abstract>
+	</publication>
+	<publication>
+		<title>Knowledge-informed Pareto simulated annealing for multi-objective spatial allocation</title>
+		<year>2007</year>
+		<authors>jiunn-der duh</authors>
+		<jconf>Computers, Environment and Urban Systems</jconf>
+		<label>168</label>
+		<keyword>Computational Complexity;Land Use;Optimization Technique;pareto optimal solution;Perforation;Simulated Annealing;Simulated Annealing Algorithm;Spatial Pattern;Land Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Spatial allocation is the process of assigning different attributes (e.g., land-use or land-cover) to spatial entities (e.g., map polygons or grid cells). It is an exercise that often requires the analysis of multiple, sometimes conflicting, objectives. Multi-objective spatial allocation problems often exhibit substantial computational complexity, especially when spatial pattern characteristics are specified as the allocation objectives. Optimization techniques that incorporate</abstract>
+	</publication>
+	<publication>
+		<title>Simulation in spatial analysis and modeling</title>
+		<year>2007</year>
+		<authors>yichun xie</authors>
+		<jconf>Computers, Environment and Urban Systems</jconf>
+		<label>168</label>
+		<keyword>Spatial Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

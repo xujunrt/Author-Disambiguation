@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Fabrizio Grandoni</FullName>
+	<publication>
+		<title>Discriminating Fault Rate and Persistency to Improve Fault Treatment</title>
+		<year>1997</year>
+		<authors>andrea bondavalli,silvano chiaradonna,felicita di giandomenico</authors>
+		<jconf>Symposium on Fault-Tolerant Computing</jconf>
+		<label>222</label>
+		<keyword>Analytical Model;Threshold Scheme;Transient Fault;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper the consolidate identification of faults, distinguished as transient or perma - nent/intermittent, is approached. Transient faults discrimination has long been performed in commercial systems: threshold-based techniques have been practiced for several years for this purpose. The present work aims to contribute to the usefulness of the count-and-threshold scheme, through the analysis of its behaviour and the exploration</abstract>
+	</publication>
+	<publication>
+		<title>A New Heuristic to Discriminate between Transient and Intermittent Faults</title>
+		<year>1998</year>
+		<authors>andrea bondavalli,silvano chiaradonna</authors>
+		<jconf>High-Assurance Systems</jconf>
+		<label>222</label>
+		<keyword>Dependable Systems;Transient Fault;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Effective discrimination,between,transient and permanent,faults is a very important,practical prob - lem in (dependable) system,design. A count-andthreshold mechanism named α-count, designed to discriminate between transient faults and intermittent faults in computing systems, is presented in an en - hanced,embodiment.,It retains enough,simplicity to allow exhaustive analysability through simple models. It is shown,that the introduction,of two operating thresholds, instead of the single</abstract>
+	</publication>
+	<publication>
+		<title>The Serial Microprocessor Array (SMA): Microprogramming and application examples</title>
+		<year>1978</year>
+		<authors>paolo corsini,graziano frosini,g. galatia,m. la manna</authors>
+		<jconf>International Symposium on Computer Architecture</jconf>
+		<label>222</label>
+		<keyword>Communication Channels;High Speed;Processing Element;</keyword>
+		<organization>null</organization>
+		<abstract>The structure of the Processing Element (PE), which is the basic component of SMA1, is presented. The PE consists of a simple serial arithmetic unit, a local high speed data memory, serial input and output ports, serial communication channels with neighbouring PE's, and some local control logic. The PE array operates under the control of a microprogrammed Array Control Unit</abstract>
+	</publication>
+	<publication>
+		<title>State Restoration in a COTS-Based N-Modular Architecture</title>
+		<year>1998</year>
+		<authors>andrea bondavalli,felicita di giandomenico,david powell,christophe rabéjac</authors>
+		<jconf>Object-Oriented Real-Time Distributed Computing</jconf>
+		<label>222</label>
+		<keyword>Fault Tolerant;Modular Architecture;Operating System;Transient Fault;Commercial Off The Shelf;N Modular Redundancy;</keyword>
+		<organization>null</organization>
+		<abstract>Mechanisms for restoring the state of a channel in an N-modular redundant architecture are necessary to prevent redundancy attrition due to transient faults and to allow failed channels to be brought back on line after repair. This paper considers software-implemented mechanisms for state restoration (SR) in a generic fault- tolerant architecture in which both the underlying hardware and operating system</abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Integrated Error Processing and Fault Diagnosis in Multiprocessor Systems</title>
+		<year>2000</year>
+		<authors>felicita di giandomenico,silvano chiaradonna,andrea bondavalli</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>222</label>
+		<keyword>Error Processing;Fault Diagnosis;Fault Tolerant;High Performance;Multiprocessor Systems;Performance Evaluation;Point of View;Stochastic Simulation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper deals with multiprocessor systems required to provide both high performance and good figures of dependability attributes. Fault tolerance is pursued through a proper combination and integration of a diagnostic mechanism, called α - count, with simple instances of redundancy-based error processing structures. The resulting fault tolerance strategies are then evaluated through a stochastic simulation approach, as dictated by</abstract>
+	</publication>
+	<publication>
+		<title>A Gracefully Degradable Algorithm for Byzantine Agreement</title>
+		<year>1987</year>
+		<authors>felicita di giandomenico,m. l. guidotti,luca simoncini</authors>
+		<jconf>Symposium on Reliable Distributed Systems</jconf>
+		<label>222</label>
+		<keyword>Byzantine Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Fault-Tolerant Multiprocessor Systems for High Assurance Applications</title>
+		<year>2001</year>
+		<authors>silvano chiaradonna,felicita di giandomenico,andrea bondavalli</authors>
+		<jconf>The Computer Journal</jconf>
+		<label>222</label>
+		<keyword>Error Processing;Fault Tolerant;Multiprocessor Architecture;Multiprocessor Systems;Performance Evaluation;Point of View;Reference Systems;Stochastic Simulation;Standard Error;</keyword>
+		<organization>null</organization>
+		<abstract>In designing high assurance systems, the dependability goals are achieved through the adoption of several fault tolerance techniques. Unfortunately, their combined effect on the system cannot be, in the general case, derived by straightforward composition of the stand-alone component's analysis, because of mutual dependence of their controlling parameters. In this paper the assessment of overall system dependability induced by such</abstract>
+	</publication>
+	<publication>
+		<title>Gracefully Degradable Algorithm for Byzantine Agreement</title>
+		<year>1988</year>
+		<authors>felicita di giandomenico,m. l. guidotti,luca simoncini</authors>
+		<jconf>Computer Systems: Science &amp; Engineering</jconf>
+		<label>222</label>
+		<keyword>Byzantine Agreement;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Theory of Diagnosability of Digital Systems</title>
+		<year>1976</year>
+		<authors>ferruccio barsi,piero maestrini</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>222</label>
+		<keyword>Digital Systems;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Threshold-Based Mechanisms to Discriminate Transient from Intermittent Faults</title>
+		<year>2000</year>
+		<authors>andrea bondavalli,silvano chiaradonna,felicita di giandomenico</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>222</label>
+		<keyword>Behavior Analysis;Environmental Variables;Exponential Distribution;Fault Diagnosis;Fault Model;Indexing Terms;Threshold Scheme;Transient Fault;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a class of count-and-threshold mechanisms, collectively named -count, which are able to discriminate between transient faults and intermittent faults in computing systems. For many years, commercial systems have been using transient fault discrimination via threshold-based techniques. We aim to contribute to the utility of count-and-threshold schemes, by exploring their effects on the system. We adopt a mathematically</abstract>
+	</publication>
+</person>

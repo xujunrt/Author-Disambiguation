@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ming Hua</FullName>
+	<publication>
+		<title>Combining spatial data from multiple data sources</title>
+		<year>2006</year>
+		<authors>hsine-jen tsai,les l. miller,rebecca wemhoff,sarah nusser</authors>
+		<jconf>Computer Applications in Industry and Engineering</jconf>
+		<label>723</label>
+		<keyword>Spatial Data;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Knowledge Management: Using Topic Maps in Organizational Memory</title>
+		<year>2007</year>
+		<authors>leslie l. miller,sree nilakanta,yunan song,lei zhu</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>723</label>
+		<keyword>Knowledge Management;Organizational Memory;Topic Maps;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Supporting geographic data in the mobile computing environment</title>
+		<year>2007</year>
+		<authors>les l. miller,hsine-jen tsai,rebecca wemhoff,sarah nusser</authors>
+		<jconf>ISCA International Conference on Parallel and Distributed Computing Systems</jconf>
+		<label>723</label>
+		<keyword>Mobile Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

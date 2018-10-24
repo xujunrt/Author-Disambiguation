@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Barry Lawson</FullName>
+	<publication>
+		<title>Errors in Operational Spreadsheets: A Review of the State of the Art</title>
+		<year>2009</year>
+		<authors>stephen g. powell,kenneth r. baker</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>69</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Impact of Errors in Operational Spreadsheets</title>
+		<year>2008</year>
+		<authors>stephen g. powell,kenneth r. baker</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>69</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>All users of spreadsheets struggle with the problem of errors. Errors are thought to be prevalent in spreadsheets, and in some instances they have cost organizations millions of dollars. In a previous study of 50 operational spreadsheets we found errors in 0.8% to 1.8% of all formula cells, depending on how errors are defined. In the current study we estimate</abstract>
+	</publication>
+	<publication>
+		<title>Comparison of Characteristics and Practices amongst Spreadsheet Users with Different Levels of Experience</title>
+		<year>2008</year>
+		<authors>kenneth r. baker,stephen g. powell,lynn foster-johnson</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>69</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>We developed an internet-based questionnaire on spreadsheet use that we administered to a large number of users in several companies and organizations to document how spreadsheets are currently being developed and used in business. In this paper, we discuss the results drawn from of a comparison of responses from individuals with the most experience and expertise with those from individuals</abstract>
+	</publication>
+	<publication>
+		<title>A critical review of the literature on spreadsheet errors</title>
+		<year>2008</year>
+		<authors>stephen g. powell,kenneth r. baker</authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>69</label>
+		<keyword>End User Computing;Decision Support;</keyword>
+		<organization>null</organization>
+		<abstract>article,i nfo,abstract Article history:</abstract>
+	</publication>
+	<publication>
+		<title>Impact of errors in operational spreadsheets</title>
+		<year>2009</year>
+		<authors>stephen g. powell,kenneth r. baker</authors>
+		<jconf>Decision Support Systems</jconf>
+		<label>69</label>
+		<keyword>End User Computing;Decision Support;</keyword>
+		<organization>null</organization>
+		<abstract>article i nfo Article history: All users of spreadsheets struggle with the problem of errors. Errors are thought to be prevalent in spreadsheets, and in some instances they have cost organizations millions of dollars. In a previous study of 50 operational spreadsheets we found errors in 0.8% to 1.8% of all formula cells, depending on how errors are defined. In</abstract>
+	</publication>
+</person>

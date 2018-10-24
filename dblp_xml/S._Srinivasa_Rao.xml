@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>S. Srinivasa Rao</FullName>
+	<publication>
+		<title>Privacy Preserving in Clustering using Fuzzy Sets</title>
+		<year>2006</year>
+		<authors>k. v. s. v. n. raju,p. kusuma kumari</authors>
+		<jconf>Int. Conf. on Data Mining</jconf>
+		<label>906</label>
+		<keyword>Fuzzy Set;Privacy Preservation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Graph Based Approach to Extract a Neighborhood Customer Community for Collaborative Filtering</title>
+		<year>2002</year>
+		<authors>p. krishna reddy,masaru kitsuregawa,p. sreekanth</authors>
+		<jconf>Databases in Networked Information Systems</jconf>
+		<label>906</label>
+		<keyword>Collaborative Filtering;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

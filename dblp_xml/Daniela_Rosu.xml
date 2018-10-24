@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniela Rosu</FullName>
+	<publication>
+		<title>On Concurrency Control in Object-oriented Databases</title>
+		<year>2002</year>
+		<authors>ryszard janicki</authors>
+		<jconf>Parallel and Distributed Processing Techniques and Applications</jconf>
+		<label>178</label>
+		<keyword>Concurrency Control;Object Oriented Database;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On validation of XML streams using finite state machines</title>
+		<year>2004</year>
+		<authors>cristiana chitic</authors>
+		<jconf>International Workshop on the Web and Databases</jconf>
+		<label>178</label>
+		<keyword>Finite State Automata;Finite State Machine;Xml Document;Lower Bound;</keyword>
+		<organization>null</organization>
+		<abstract>We study validation of streamed XML documents by means of finite state machines. Previous work has shown that validation is in principle possible by finite state automata, but the construction was prohibitively expensive, giving an exponential-size nondeterministic automaton. Instead, we want to find deterministic automata for validating streamed documents: for them, the complexity of validation is constant per tag. We</abstract>
+	</publication>
+</person>

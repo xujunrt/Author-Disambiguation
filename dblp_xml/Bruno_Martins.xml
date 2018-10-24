@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bruno Martins</FullName>
+	<publication>
+		<title>MINHO Robot Football Team for 2001</title>
+		<year>2001</year>
+		<authors>fernando ribeiro,carlos machado,sérgio sampaio</authors>
+		<jconf>RoboCup</jconf>
+		<label>112</label>
+		<keyword>Autonomous Robot;Data Acquisition;Football;Image Processing;Sensory System;Vision System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract.This paper describes an autonomous robot football team. The work is being carried out since 1998. It describes the hardware used by the robots, the sensory system and interfaces, as well as the game strategy. Data acquisition for the perception level is carried out by the vision system, and the image processing system is described. Two cameras are used requiring</abstract>
+	</publication>
+</person>

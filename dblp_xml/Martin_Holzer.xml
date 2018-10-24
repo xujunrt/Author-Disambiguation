@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Martin Holzer</FullName>
+	<publication>
+		<title>Static Code Analysis of Functional Descriptions in SystemC</title>
+		<year>2006</year>
+		<authors>m. rupp</authors>
+		<jconf>Workshop on Electronic Design, Test and Applications</jconf>
+		<label>645</label>
+		<keyword>Design Process;Object Oriented Design;Software Systems;Static Analysis;</keyword>
+		<organization>null</organization>
+		<abstract>The co-design of hardware and software systems with object oriented design languages like SystemC has become very popular. Static analysis of those descriptions allows to conduct the design process with metrics regarding quality of the code as well as with estimations of the properties of the final design. This paper shows the utilization of soft- ware metrics and the computation</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Generation of Virtual Prototypes</title>
+		<year>2004</year>
+		<authors>pavle belanovic,bastian knerr,m. rupp,guillaume sauzon</authors>
+		<jconf>Workshop on Rapid System Prototyping</jconf>
+		<label>645</label>
+		<keyword>Automatic Generation;Design Methodology;Design Process;Embedded System Design;Industrial Design;Virtual Prototyping;</keyword>
+		<organization>null</organization>
+		<abstract>Virtual prototyping as an embedded system design tech- nique has the potential to significantly increase efficiency of the design process. An environment for automatic genera- tion of virtual prototypes (VPs) directly from algorithmic- level descriptions is presented here. It is implemented as part of a unified design methodology and produces VSIA compliant VPs. When applied to an industrial design flow</abstract>
+	</publication>
+	<publication>
+		<title>Task sheduling for power optimisation of multi frequency synchronous data flow graphs</title>
+		<year>2005</year>
+		<authors>bastian knerr,m. rupp</authors>
+		<jconf>sbcci</jconf>
+		<label>645</label>
+		<keyword>Communication System;Data Dependence;Degree of Freedom;Frequency Domain;Graph Representation;Power Consumption;Signal Processing;Simulated Annealing;Task Scheduling;Synchronous Data Flow;tabu search;</keyword>
+		<organization>null</organization>
+		<abstract>During recent years power optimisation has become one of the most challenging design goals in modern communication systems, particularly in the wireless domain. Many different approaches for task scheduling on single or multi-core systems exist, mostly addressing the minimisation of execution time or the number of processors used. The minimisation of the processor's clock frequency by adjusting the supply voltage</abstract>
+	</publication>
+	<publication>
+		<title>Design Space Exploration with Evolutionary Multi-Objective Optimisation</title>
+		<year>2007</year>
+		<authors>bastian knerr,m. rupp</authors>
+		<jconf>International Symposium on Industrial Embedded Systems</jconf>
+		<label>645</label>
+		<keyword>Automated Design;Design Space;Design Space Exploration;Genetic Algorithm;High Level Synthesis;hw/sw co-design;Levels of Abstraction;multi-objective optimisation;Performance Improvement;Source Code;Tree Height;Register Transfer Level;Time Trade Off;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—High,level synthesis is one of the next major,steps to improve,the hw/sw co-design process. The advantages,of high level synthesis are two-fold. At first the level of abstraction,is raised and,secondly,this allows for exploring,the design,space to a higher,degree,than,on register transfer,level. The design space can be explored,by applying,several kinds of source,code transformations,like loop unrolling,and,tree height reduction. Performing design space exploration manually,leads to inefficient and,inflexible</abstract>
+	</publication>
+	<publication>
+		<title>Novel Genome Coding of Genetic Algorithms for the System Partitioning Problem</title>
+		<year>2007</year>
+		<authors>bastian knerr,m. rupp</authors>
+		<jconf>International Symposium on Industrial Embedded Systems</jconf>
+		<label>645</label>
+		<keyword>Genetic Algorithm;Simulated Annealing;Task Graphs;genetic algo rithm;tabu search;</keyword>
+		<organization>null</organization>
+		<abstract>The research field of partitioning for electronic systems started to attract significant attention of scientists about fifteen years ago. Gaining ever more importance due to the rampant growth and shortening design cycles in wireless em- bedded systems, a multitude of formulations for this problem has emerged. Accordingly, a similar multitude can be found in the number of strategies that address</abstract>
+	</publication>
+	<publication>
+		<title>A flexible dual frequency testbed for RFID</title>
+		<year>2008</year>
+		<authors>christoph angerer,bastian knerr,m. rupp</authors>
+		<jconf>Testbeds and Research Infrastructures for the DEvelopment of NeTworks and COMmunities</jconf>
+		<label>645</label>
+		<keyword>Design Flow;Frequency Domain;Rapid Prototyping;Signal Processing;Simulation Model;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the setup of a testbed developed for the fast evaluation of RFID systems in two frequency domains. At the one hand the 13.56 MHz and at the other hand the 868 MHz frequency domain are supported. The suggested design flow for configuring the testbed is highly automated and supports rapid evaluations of different designs and im- plementations</abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bong-Soo Kim</FullName>
+	<publication>
+		<title>Estimating multiple sources in somatosensory area to SEF of finger stimulus using SVD and time-frequency analysis</title>
+		<year>2007</year>
+		<authors>yoshinori uchikawa</authors>
+		<jconf>International Conference on Networking, Sensing and Control</jconf>
+		<label>107</label>
+		<keyword>Time Frequency Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

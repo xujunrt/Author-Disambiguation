@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Peter Lucas</FullName>
+	<publication>
+		<title>Visage: dynamic information exploration</title>
+		<year>1996</year>
+		<authors>cristina c. gomberg,steven f. roth</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>815</label>
+		<keyword>Dynamic Information;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Taming complexity at MAYA design</title>
+		<year>1996</year>
+		<authors>susan salis</authors>
+		<jconf>Computer Human Interaction</jconf>
+		<label>815</label>
+		<keyword>Interdisciplinary Design;Product Design;User Study;Visual Design;</keyword>
+		<organization>null</organization>
+		<abstract>MAYA Design is a full-service product design consultancy offering services at the intersection of computer science, psychology, and visual design. We have developed efficient techniques for facilitating interdisciplinary design and for communicating clearly with our clients.</abstract>
+	</publication>
+	<publication>
+		<title>VisageWeb: Visualizing WWW Data in Visage</title>
+		<year>1999</year>
+		<authors>michael higgins,jeffrey senn</authors>
+		<jconf>IEEE Symposium on Information Visualization</jconf>
+		<label>815</label>
+		<keyword>Data Visualization;Information Visualization;User Interface;World Wide Web;</keyword>
+		<organization>null</organization>
+		<abstract>VisageWeb is an information-centric user interface to the World Wide Web built within the Visage data visualization environment. This paper traces the development of the VisageWeb project, using it to motivate an exploration of how an information-centric architecture copes with new visualization challenges. We conclude with a presentation of the VisageWeb prototype itself.</abstract>
+	</publication>
+	<publication>
+		<title>Managing Distributed Collaboration in a Peer-to-Peer Network</title>
+		<year>2006</year>
+		<authors>michael higgins,stuart f. roth,jeffrey senn,dominic widdows</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>815</label>
+		<keyword>Asynchronous Collaboration;Collaborative System;Distributed Collaboration;Indexation;Information Architecture;Optimistic Replication;Peer-to-peer Network;Peer-to-peer Technology;Scaling Up;System Design;</keyword>
+		<organization>null</organization>
+		<abstract>Shared mutable information objects called u-forms provide an attractive foundation on which to build collaborative systems. As we scale up such systems from small fully-connected workgroups to large, highly distributed, and partially disconnected groups, we have found that peer-to-peer technology and optimistic replication strategies provide a cost-eective mechanism for maintaining good performance. Unfortu- nately, such systems present well-known coordination and</abstract>
+	</publication>
+	<publication>
+		<title>Shepherdable Indexes and Persistent Search Services for Mobile Users</title>
+		<year>2006</year>
+		<authors>michael higgins,dominic widdows,magesh balasubramanya,david holstius</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>815</label>
+		<keyword>Data Structure;Index Structure;Indexation;Peer To Peer;Peer-to-peer Network;Mobile User;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a range of designs for supporting rich search queries in a peer-to-peer network. Our implementation is based upon uniquely identified data objects which are replicated upon request by agents called Shepherds. Several abstract data structures are built upon this framework, supporting dataset management, lexical search, and dis- tributed GIS interfaces in an application called the Geobrowser. Our re-</abstract>
+	</publication>
+	<publication>
+		<title>Information Appliances and Tools in Visage</title>
+		<year>1997</year>
+		<authors>john kolojejchick,steven f. roth</authors>
+		<jconf>IEEE Computer Graphics and Applications</jconf>
+		<label>815</label>
+		<keyword>Information Appliance;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ganesh P. Kumar</FullName>
+	<publication>
+		<title>Calibration Based Methods for Substrate Modeling and Noise Analysis for Mixed-Signal SoCsc</title>
+		<year>2007</year>
+		<authors>sankar p. debnath,s. jairam</authors>
+		<jconf>VLSI Design</jconf>
+		<label>248</label>
+		<keyword>Noise Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

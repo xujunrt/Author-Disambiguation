@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiang Li</FullName>
+	<publication>
+		<title>Generic Schema Merging</title>
+		<year>2007</year>
+		<authors>christoph quix,david kensche</authors>
+		<jconf>Conference on Advanced Information Systems Engineering</jconf>
+		<label>1101</label>
+		<keyword>Modeling Language;Semantic Information;</keyword>
+		<organization>null</organization>
+		<abstract>Schema merging is the process of integrating several schemas into a common, unified schema. There have been various approaches to schema merg- ing, focusing on particular modeling languages, or using a lightweight, abstract metamodel. Having a semantically rich representation of models and mappings is particularly important for merging as semantic information is required to resolve the conflicts encountered. Therefore, our</abstract>
+	</publication>
+	<publication>
+		<title>Solving ORM by MAGIC: MApping GeneratIon and Composition</title>
+		<year>2010</year>
+		<authors>david kensche,christoph quix,sandra geisler</authors>
+		<jconf></jconf>
+		<label>1101</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Mobile Mining and Information Management in HealthNet Scenarios</title>
+		<year>2008</year>
+		<authors>philipp kranen,david kensche,saim kim,nadine zimmermann,emmanuel müller,christoph quix,thomas gries,thomas seidl,matthias jarke,steffen leonhardt</authors>
+		<jconf>Mobile Data Management</jconf>
+		<label>1101</label>
+		<keyword>Access To Information;Data Collection;Data Mining;Data Stream;Ease of Use;Elderly People;Health Care;Health Professionals;Health Services;Information Exchange;Information Management;Information System;Medical Care;Mobile Communication;Mobile Device;P2P;Peer To Peer;Relational Data;Remote Monitoring;Sensor Nodes;Wireless Sensor;Work Environment;</keyword>
+		<organization>null</organization>
+		<abstract>Health and mobility of elderly people is gaining im- portance in aging societies. New communication-based methods to provide health services with personal health care devices are considered promising elements of first-class medical care services for everybody. To achieve this vision, several technological issues have to be solved: (i) body sensors to monitor vital functions have to be developed; (ii) these</abstract>
+	</publication>
+	<publication>
+		<title>Matching of Ontologies with XML Schemas Using a Generic Metamodel</title>
+		<year>2007</year>
+		<authors>christoph quix,david kensche</authors>
+		<jconf>OTM Workshops</jconf>
+		<label>1101</label>
+		<keyword>Matching Model;meta model;Model Management;Modeling Language;Schema Matching;Semantic Annotation;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>Schema matching is the task of automatically computing correspon- dences between schema elements. A multitude of schema matching approaches exists for various scenarios using syntactic, semantic, or instance information. The schema matching problem is aggravated by the fact that models to be matched are often represented in different modeling languages, e.g. OWL, XML Schema, or SQL DDL. Consequently, besides being</abstract>
+	</publication>
+	<publication>
+		<title>Results of GeRoMeSuite for OAEI 2008</title>
+		<year>2008</year>
+		<authors>christoph quix,sandra geisler,david kensche</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>1101</label>
+		<keyword>Complex Data;Generic Model;Management System;Model Transformation;Modeling Language;Ontology Alignment;Schema Integration;Schema Mapping;Schema Matching;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>GeRoMeSuite is a generic model management system which provides several functions for managing complex data models, such as schema integration, definition and execution of schema mappings, model transformation, and match- ing. The system uses the generic metamodel GeRoMe for representing models, and because of this, it is able to deal with models in various modeling languages such as XML Schema,</abstract>
+	</publication>
+	<publication>
+		<title>Results of GeRoMeSuite for OAEI 2008</title>
+		<year>2008</year>
+		<authors>christoph quix,sandra geisler,david kensche</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<label>1101</label>
+		<keyword>Complex Data;Generic Model;Management System;Model Transformation;Modeling Language;Ontology Alignment;Schema Integration;Schema Mapping;Schema Matching;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>GeRoMeSuite is a generic model management system which provides several functions for managing complex data models, such as schema integration, definition and execution of schema mappings, model transformation, and match- ing. The system uses the generic metamodel GeRoMe for representing models, and because of this, it is able to deal with models in various modeling languages such as XML Schema,</abstract>
+	</publication>
+	<publication>
+		<title>GeRoMeSuite: A System for Holistic Generic Model Management</title>
+		<year>2007</year>
+		<authors>david kensche,christoph quix,yong li</authors>
+		<jconf>Very Large Data Bases</jconf>
+		<label>1101</label>
+		<keyword>Generic Model;Information Systems Research;Model Management;Modeling Language;Polymorphism;Xml Schema;</keyword>
+		<organization>null</organization>
+		<abstract>Manipulation of models and mappings is a common task in the de- sign and development of information systems. Research in Model Management aims at supporting these tasks by providing a set of operators to manipulate models and mappings. As a framework, GeRoMeSuite provides an environment to simplify the implemen- tation of model management operators. GeRoMeSuite is based on the generic</abstract>
+	</publication>
+	<publication>
+		<title>Generic schema mappings for composition and query answering</title>
+		<year>2009</year>
+		<authors>david kensche,christoph quix,yong li,matthias jarke</authors>
+		<jconf>Data &amp; Knowledge Engineering</jconf>
+		<label>1101</label>
+		<keyword>Data Integrity;Data Structure;Model Management;Object-oriented Model;Query Answering;Schema Mapping;Xml Schema;Data Manipulation Language;Second Order;</keyword>
+		<organization>null</organization>
+		<abstract>In this article we present extensional mappings, that are based on second order tuple gener- ating dependencies between models in our Generic Role-based Metamodel GeRoMe. Our mappings support data translation between heterogeneous models, such as XML Schemas, relational schemas, or OWL ontologies. The mapping language provides grouping func- tionalities that allow for complete restructuring of data, which is necessary for</abstract>
+	</publication>
+</person>

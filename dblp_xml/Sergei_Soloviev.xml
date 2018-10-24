@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Sergei Soloviev</FullName>
+	<publication>
+		<title>Computation of pattern invariance in brain-like structures</title>
+		<year>1999</year>
+		<authors>shimon ullman</authors>
+		<jconf>Neural Networks</jconf>
+		<label>926</label>
+		<keyword>Object Recognition;Visual System;Shift Invariant;Visual Field;</keyword>
+		<organization>null</organization>
+		<abstract>A fundamental capacity of the perceptual systems and the brain in general is to deal with the novel and the unexpected. In vision, we can effortlessly recognize a familiar object under novel viewing conditions, or recognize a new object as a member of a familiar class, such as a house, a face, or a car. This ability to generalize and</abstract>
+	</publication>
+</person>

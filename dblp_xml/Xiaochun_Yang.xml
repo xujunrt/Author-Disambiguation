@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xiaochun Yang</FullName>
+	<publication>
+		<title>Cone-Beam Image Reconstruction by Moving Frames</title>
+		<year>2004</year>
+		<authors>berthold k. p. horn</authors>
+		<jconf>European Conference on Computer Vision</jconf>
+		<label>1105</label>
+		<keyword>Image Reconstruction;Moving Frames;Cone Beam;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

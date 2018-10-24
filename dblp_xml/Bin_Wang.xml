@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bin Wang</FullName>
+	<publication>
+		<title>On Providing Quality-of-Service Control for Core-Based Multicast Routing</title>
+		<year>1999</year>
+		<authors>hung-ying tyan,chao-ju hou</authors>
+		<jconf>International Conference on Distributed Computing Systems</jconf>
+		<label>83</label>
+		<keyword>Multicast Routing;Quality of Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An Efficient QoS Routing Algorithm for Quorumcast Communication</title>
+		<year>2001</year>
+		<authors>jennifer c. hou</authors>
+		<jconf>International Conference on Network Protocols</jconf>
+		<label>83</label>
+		<keyword>qos routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and Analysis of a WDMA Protocol for Passive Star-Coupled Lightwave Networks</title>
+		<year>1996</year>
+		<authors>chao-ju hou,ching-chih han</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>83</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>QoS-Based Multicast Routing for Distributing Layered Video to Heterogeneous Receivers in Rate-based Networks</title>
+		<year>2000</year>
+		<authors>jennifer c. hou</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>83</label>
+		<keyword>Layered Video;Multicast Routing;Multicast Tree;Multicast Tree Construction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Dynamically Establishing and Terminating Isochronous Message Streams in WDMA-Based Local Area Lightwave Networks</title>
+		<year>1997</year>
+		<authors>chao-ju hou,ching-chih han</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>83</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Framework for Provisioning of Temporal QoS in Core-Based Multicast Routing</title>
+		<year>1999</year>
+		<authors>hung-ying tyan,chao-ju hou</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<label>83</label>
+		<keyword>Multicast Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On supporting time-constrained communications in WDMA-based star-coupled optical networks</title>
+		<year>1996</year>
+		<authors>hung-ying tyan,chao-ju hou,ching-chih han</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<label>83</label>
+		<keyword>Optical Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An efficient QoS routing algorithm for quorumcast communication</title>
+		<year>2004</year>
+		<authors>jennifer c. hou</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>83</label>
+		<keyword>qos routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On dynamically establishing and terminating isochronous message streams in WDM star-based lightwave networks</title>
+		<year>2002</year>
+		<authors>jennifer c. hou,ching-chih han</authors>
+		<jconf>Journal of High Speed Networks</jconf>
+		<label>83</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Many to Many Multicast Routing With Temporal Quality of Service Guarantees</title>
+		<year>2003</year>
+		<authors>hung-ying tyan,jennifer c. hou</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>83</label>
+		<keyword>Multicast Routing;Quality of Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>On Supporting Temporal Quality of Service in WDMA-Based Star-Coupled Optical Networks</title>
+		<year>2001</year>
+		<authors>hung-ying tyan,jennifer c. hou,ching-chih han</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<label>83</label>
+		<keyword>Optical Network;Quality of Service;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Joo-Young Kim</FullName>
+	<publication>
+		<title>A Video Mosaicking Technique with Self Scene Segmentation for Video Indexing</title>
+		<year>2004</year>
+		<authors>yoon-hee choi,yeong kyeong seong,tae-sun choi</authors>
+		<jconf>Computational Science and Its Applications</jconf>
+		<label>438</label>
+		<keyword>Video Indexing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

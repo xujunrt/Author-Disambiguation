@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Quang Huy Nguyen</FullName>
+	<publication>
+		<title>Towards probabilistic memetic algorithm: An initial study on capacitated arc routing problem</title>
+		<year>2010</year>
+		<authors>liang feng,yew-soon ong,ah-hwee tan</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>849</label>
+		<keyword>memetic algorithm;Non Linear Programming;Theoretical Framework;Upper Bound;Capacitated Arc Routing Problem;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a formal probabilistic memetic algorithm or PMA in short for CARP. In contrast to earlier works demonstrated in the context of non-linear program- ming problem, using the theoretical framework introduced in (5), an upper bound for local search intensity is estimated and subsequently used to govern the level of evolutionary versus lifetime learning 1 for</abstract>
+	</publication>
+	<publication>
+		<title>A study on the design issues of Memetic Algorithm</title>
+		<year>2007</year>
+		<authors>yew-soon ong,natalio krasnogor</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<label>849</label>
+		<keyword>memetic algorithm;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optinformatics for schema analysis of binary genetic algorithms</title>
+		<year>2008</year>
+		<authors>minh nghia le,yew-soon ong</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>849</label>
+		<keyword>Case Study;Evolutionary Computing;Frequent Pattern;Frequent Pattern Mining;Gas Dynamics;Genetic Algorithm;Global Optimization;Schema Theory;</keyword>
+		<organization>null</organization>
+		<abstract>Given the importance of optimization and informatics which are the two broad fields of research, we present an instance of Optinformatics which denotes the specialization of informatics for the processing of data generated in optimization so as to extract possibly implicit and potentially useful information and knowledge. In particular, evolutionary computation does not have to be entirely a black-box approach</abstract>
+	</publication>
+	<publication>
+		<title>Non-genetic transmission of memes by diffusion</title>
+		<year>2008</year>
+		<authors>yew-soon ong,meng-hiot lim</authors>
+		<jconf>Genetic and Evolutionary Computation Conference</jconf>
+		<label>849</label>
+		<keyword>Continuous Optimization;Cultural Evolution;Cultural Transmission;Genetic Algorithm;Genetics;memetic algorithm;Cellular Automata;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>In recent years, there has been an increase in research activities on Memetic Algorithm (MA). MA works with memes; a meme being defined as &quot;the basic unit of cultural transmission, or imitation&quot; [5]. In this respect, a Memetic Algorithm essentially refers to &quot;an algorithm that mimics the mechanisms of cultural evolution&quot;. To date, there has been significant effort in bringing</abstract>
+	</publication>
+	<publication>
+		<title>An information extraction engine for web discussion forums</title>
+		<year>2005</year>
+		<authors>hanny yulius limanto,nguyen ngoc giang,vo tan trung,jun zhang,qi he</authors>
+		<jconf>World Wide Web Conference Series</jconf>
+		<label>849</label>
+		<keyword>Discussion Board;Discussion Forum;Information Extraction;Information Retrieval;Search Engine;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>In this poster, we present an information extraction engine for web-based forums. The engine analyzes the HTML files crawled from web forums, deduces the wrapper (template) of the pages and extracts the information about posts (e.g., author, title, content, number of replies and views, etc.). Extraction is an important module for forum search engine, since it helps to understand the</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Cellular Memetic Algorithms</title>
+		<year>2009</year>
+		<authors>yew-soon ong,meng-hiot lim,natalio krasnogor</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<label>849</label>
+		<keyword>Genetic Algorithm;memetic algorithm;Parallel Genetic Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract A Cellular Genetic Algorithm,(CGA) is a decentralized,form of GA where,individuals in a population,are usually arranged,in a 2-D grid and interactions among,individuals are restricted only within a set neighborhood. In this paper, we extend the notion of cellularity to Memetic Algorithms (MA), a configuration termed Cellular Memetic Algorithm,(CMA). In this paper,we propose,an adaptive,mechanism that tailors the ammount,of exploration,versus exploitation of</abstract>
+	</publication>
+	<publication>
+		<title>A Probabilistic Memetic Framework</title>
+		<year>2009</year>
+		<authors>yew-soon ong,meng-hiot lim</authors>
+		<jconf>IEEE Transactions on Evolutionary Computation</jconf>
+		<label>849</label>
+		<keyword>Benchmark Problem;Empirical Study;Evolutionary Algorithm;Genetics;Hybrid Genetic Algorithm;Individual Learning;memetic algorithm;Upper Bound;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>Memetic algorithms (MAs) represent one of the recent growing areas in evolutionary algorithm (EA) research. The term MAs is now widely used as a synergy of evolutionary or any population-based approach with separate individual learning or local improvement procedures for problem search. Quite often, MAs are also referred to in the literature as Baldwinian EAs, Lamarckian EAs, cultural algorithms or</abstract>
+	</publication>
+	<publication>
+		<title>Proof Search and Proof Check for Equational and Inductive Theorems</title>
+		<year>2003</year>
+		<authors>eric deplagne,claude kirchner,hélène kirchner</authors>
+		<jconf>Conference on Automated Deduction</jconf>
+		<label>850</label>
+		<keyword>Automated Theorem Proving;Proof Assistant;Proof Search;Rewrite Rule;Coq Proof Assistant;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents on-going researches on theoretical and practical issues of combining rewriting based automated theorem prov- ing and user-guided proof development, with the strong constraint of safe cooperation of both. In practice, we instantiate the theoretical study on the Coq proof assistant and the ELAN rewriting based system, focusing first on equational and then on inductive proofs. Dierent concepts,</abstract>
+	</publication>
+	<publication>
+		<title>Certifying Native Java API by Formal Refinement</title>
+		<year>2006</year>
+		<authors>boutheina chetali</authors>
+		<jconf>CARDIS</jconf>
+		<label>850</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Industrial Use of Formal Methods for a High-Level Security Evaluation</title>
+		<year>2008</year>
+		<authors>boutheina chetali</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<label>850</label>
+		<keyword>Formal Method;Security Evaluation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Certifying an embedded remote method invocation protocol</title>
+		<year>2008</year>
+		<authors>june andronick</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>850</label>
+		<keyword>Embedded Software;Formal Model;Formal Verification;Java Card;Remote Method Invocation;Security Evaluation;Security Requirements;Smart Card;Virtual Machine;Common Criteria;</keyword>
+		<organization>null</organization>
+		<abstract>This paper describes an approach to formally prove that an implementation of the Java Card Remote Method Invocation protocol on smart cards fulfills its functional and security specification. For that, we refine the specification in two intermediate formal models: the functional specification and the high level design. These two models are both defined upon an existing complete formal model of</abstract>
+	</publication>
+	<publication>
+		<title>External Rewriting for Skeptical Proof Assistants</title>
+		<year>2002</year>
+		<authors>claude kirchner,hélène kirchner</authors>
+		<jconf>Journal of Automated Reasoning</jconf>
+		<label>850</label>
+		<keyword>Proof Assistant;Term Rewriting;Type Theory;Associative Commutative;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: This paper presents the design, the implementation and experimentsof the integration of syntactic, conditional possibly associative-commutative termrewriting into proof assistants based on constructive type theory. Our approach iscalled external since it consists in performing term rewriting in a specic and ecientenvironment and to check the computations later in a proof assistant.</abstract>
+	</publication>
+	<publication>
+		<title>An automated testing experiment for layered embedded C code</title>
+		<year>2009</year>
+		<authors>boutheina chetali</authors>
+		<jconf>International Journal on Software Tools for Technology Transfer</jconf>
+		<label>850</label>
+		<keyword>Automated Testing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Compact Normalisation Trace via Lazy Rewriting</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>850</label>
+		<keyword>Normal Form;Term Rewrite System;Bottom Up;</keyword>
+		<organization>null</organization>
+		<abstract>Innermost strategies are usually used in compiling term rewriting systems (TRSs) since they allow to efficiently build result terms in a bottom-up fashion. However, innermost strategies do not always give the shortest normalising derivation. In many cases, using an appropriate laziness annotation on the arguments of function symbols, we evaluate lazy arguments only if it is necessary and hence, get</abstract>
+	</publication>
+	<publication>
+		<title>Certifying Term Rewriting Proofs in ELAN</title>
+		<year>2001</year>
+		<authors></authors>
+		<jconf>Theoretical Computer Science</jconf>
+		<label>850</label>
+		<keyword>Explicit Substitution;Rule-based Programming;Term Rewriting;</keyword>
+		<organization>null</organization>
+		<abstract>Term rewriting has been shown to be a good environment for both programming and proving. For analysing and debugging rule-based programs, we propose in this work a formalism based on the rewriting calculus with explicit substitutions ( -calculus). This formalism also allows us to build the proof terms of rewriting derivations. Therefore, term rewriting proofs can be exported to other</abstract>
+	</publication>
+	<publication>
+		<title>Random Subset Optimization</title>
+		<year>2006</year>
+		<authors>boi faltings</authors>
+		<jconf>European Conference on Artificial Intelligence</jconf>
+		<label>851</label>
+		<keyword>Optimization Problem;Simulated Annealing;Stochastic Search;Constraint Optimization Problem;Local Search;Random Walk;</keyword>
+		<organization>null</organization>
+		<abstract>Some of the most successful algorithms for satisflability, such as Walksat, are based on random walks. Similarly, local search algo- rithms for solving constraint optimization problems beneflt signiflcantly from randomization. However, well-known algorithms such as stochas- tic search or simulated annealing perform a less directed random walk than used in satisflability. By making a closer analogy to the technique used</abstract>
+	</publication>
+	<publication>
+		<title>Multi-agent Coordination using Local Search</title>
+		<year>2005</year>
+		<authors>boi faltings</authors>
+		<jconf>International Joint Conference on Artificial Intelligence</jconf>
+		<label>851</label>
+		<keyword>Bounded Rationality;Computational Complexity;Incentive Compatibility;Individual Rationality;Local Search Algorithm;multi-agent coordination;Constraint Optimization Problem;Local Search;</keyword>
+		<organization>null</organization>
+		<abstract>We consider the problem of coordinating the be- havior of multiple self-interested agents. It in- volves constraint optimization problems that often can only be solved by local search algorithms. Using local search poses problems of incentive- compatibility and individual rationality. We thus define a weaker notion of bounded-rational incentive-compatibility where manipulation is made impossible with high probability through computational complexity.</abstract>
+	</publication>
+</person>

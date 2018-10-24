@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Ryotaro Hayashi</FullName>
+	<publication>
+		<title>Relevancy-based access control and its evaluation on versioned XML documents</title>
+		<year>2007</year>
+		<authors>mizuho iwaihara,somchai chatvichienchai,chutiporn anutariya,vilas wuwongse</authors>
+		<jconf>ACM Transactions on Information and System Security</jconf>
+		<label>904</label>
+		<keyword>Access Control Policy;It Evaluation;Query Language;Version Control;Xml Document;Access Control;</keyword>
+		<organization>null</organization>
+		<abstract>Integration of version and access control of XML documents has the benefit of regulating access to rapidly growing archives of XML documents. Versioned XML documents provide us with valuable information on dependencies between document nodes, but, at the same time, presenting the risk of undesirable data disclosure. In this article, we introduce the notion of relevancy-based access control, which realizes</abstract>
+	</publication>
+</person>

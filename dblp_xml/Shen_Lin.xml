@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shen Lin</FullName>
+	<publication>
+		<title>Facilitating Gossip Programming with the GossipKit Framework</title>
+		<year>2008</year>
+		<authors>françois taïani,gordon s. blair</authors>
+		<jconf>Distributed Applications and Interoperable Systems</jconf>
+		<label>942</label>
+		<keyword>Code Reuse;Component Framework;Gossip Protocol;Interaction Model;Middleware;Software Framework;</keyword>
+		<organization>null</organization>
+		<abstract>Gossip protocols have been successfully applied in the last few years to address a wide range of functionalities. So far, however, very few software frameworks have been proposed to ease the development and deployment of these gossip protocols. To address this issue, this paper presents GossipKit, an event-driven framework that provides a generic and extensible architecture for the development of</abstract>
+	</publication>
+	<publication>
+		<title>Exploiting Synergies between Coexisting Overlays</title>
+		<year>2009</year>
+		<authors>françois taïani,gordon s. blair</authors>
+		<jconf>Distributed Applications and Interoperable Systems</jconf>
+		<label>942</label>
+		<keyword>Distributed System;Gossip Protocol;Overlay Network;</keyword>
+		<organization>null</organization>
+		<abstract>Overlay networks have emerged as a powerful paradigm to realise a large range of distributed services. However, as the number of overlays grows and the systems that use them become more intercon- nected, overlays must increasingly co-exist within the same infrastruc- ture. When this happens, overlays have to compete for limited resources, which causes negative interferences. This paper takes an</abstract>
+	</publication>
+	<publication>
+		<title>Quality of Service Routing Network and Performance Evaluation</title>
+		<year>2005</year>
+		<authors>yong cui,mingwei xu,ke xu</authors>
+		<jconf>International Conference on Networking</jconf>
+		<label>943</label>
+		<keyword>Performance Evaluation;Quality of Service Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Optimal Merging of 2 Elements with n Elements</title>
+		<year>1971</year>
+		<authors>frank k. hwang</authors>
+		<jconf>Acta Informatica</jconf>
+		<label>944</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Computer Studies of Turing Machine Problems</title>
+		<year>1965</year>
+		<authors>tibor rado</authors>
+		<jconf>Journal of The ACM</jconf>
+		<label>944</label>
+		<keyword>turing machine;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Direct Method to Construct Triple Systems</title>
+		<year>1974</year>
+		<authors>frank k. hwang</authors>
+		<jconf>Journal of Combinatorial Theory</jconf>
+		<label>944</label>
+		<keyword>Direct Method;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Neighbor Designs</title>
+		<year>1977</year>
+		<authors>frank k. hwang</authors>
+		<jconf>Journal of Combinatorial Theory</jconf>
+		<label>944</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Distribution of Integers into k-tuples with Prescribed Conditions</title>
+		<year>1978</year>
+		<authors>frank k. hwang</authors>
+		<jconf>Journal of Combinatorial Theory</jconf>
+		<label>944</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Simple Algorithm for Merging Two Disjoint Linearly-Ordered Sets</title>
+		<year>1972</year>
+		<authors>frank k. hwang</authors>
+		<jconf>Siam Journal on Computing</jconf>
+		<label>944</label>
+		<keyword>Ordered Set;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

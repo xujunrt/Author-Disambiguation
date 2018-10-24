@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Joachim Kupke</FullName>
+	<publication>
+		<title>On Separating Constant from Polynomial Ambiguity of Finite Automata</title>
+		<year>2006</year>
+		<authors></authors>
+		<jconf>Conference on Current Trends in Theory and Practice of Informatics</jconf>
+		<label>428</label>
+		<keyword>Finite Automata;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

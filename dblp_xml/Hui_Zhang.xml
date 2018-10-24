@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hui Zhang</FullName>
+	<publication>
+		<title>Fast payload-based flow estimation for traffic monitoring and network security</title>
+		<year>2005</year>
+		<authors>fang hao,murali s. kodialam,t. v. lakshman</authors>
+		<jconf>Architecture for Networking and Communications Systems</jconf>
+		<label>311</label>
+		<keyword>Bloom Filter;Efficient Algorithm;Longest Common Subsequence;Network Management;Network Security;Traffic Engineered;Traffic Monitoring;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Real-time IP flow estimation has many potential applications in network management, monitoring, security, and traffic engineering. Existing techniques typically rely on flow definitions being constrained as subsets of the fields in packet headers. This makes flow-membership tests relatively inexpensive. In this paper, we consider a more general flow estimation problem that needs complex packet-payload based tests for flow-membership. An example</abstract>
+	</publication>
+	<publication>
+		<title>Minimizing Metadata Access Latency in Wide Area Networked File Systems</title>
+		<year>2006</year>
+		<authors>jian liang,aniruddha bohra,samrat ganguly,rauf izmailov</authors>
+		<jconf>High Performance Computing</jconf>
+		<label>311</label>
+		<keyword>Data Management;Dynamic Program;File System;Greedy Algorithm;Integer Program;Metadata Management;Network File System;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Traditional network file systems, like NFS, do not extend to wide-area due to low bandwidth and high network latency. We present WireFS, a Wide Area File System, which enables delegation of metadata management to nodes at client sites (homes). The home of a file stores the most recent copy of the file, serializes all updates, and streams updates to the</abstract>
+	</publication>
+	<publication>
+		<title>Resilient workload manager: taming bursty workload of scaling internet applications</title>
+		<year>2009</year>
+		<authors>guofei jiang,kenji yoshihira,haifeng chen,akhilesh saxena</authors>
+		<jconf>International Conference on Autonomic Computing</jconf>
+		<label>311</label>
+		<keyword>Cloud Computing;Data Access;Data Center;Design Management;High Performance;Information System;Internet Application;Load Balance;Optimization Technique;Perceived Service Quality;Processing Speed;Quality of Service;System Architecture;</keyword>
+		<organization>null</organization>
+		<abstract>In data centers hosting scaling Internet applications, oper- ators face the tradeo dilemma between resource eciency and Quality of Service (QoS), and the root cause lies in work- load dynamics. In this paper, we address the problem with the design of Resilient Workload Manager (ROM). ROM ex- plicitly segregates base workload and trespassing workload, the two naturally dieren t components</abstract>
+	</publication>
+	<publication>
+		<title>Optimal Load Balancing in Publish/Subscribe Broker Networks Using Active Workload Management</title>
+		<year>2008</year>
+		<authors>samrat ganguly,sudeept bhatnagar,rauf izmailov,abhishek sharma</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>311</label>
+		<keyword>Load Balance;Publish Subscribe;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Enabling Information Confidentiality in Publish/Subscribe Overlay Services</title>
+		<year>2008</year>
+		<authors>abhishek sharma,haifeng chen,guofei jiang,xiaoqiao meng,kenji yoshihira</authors>
+		<jconf>IEEE International Conference on Communications</jconf>
+		<label>311</label>
+		<keyword>Data Privacy;Indexing Terms;Internet Application;Publish Subscribe;</keyword>
+		<organization>null</organization>
+		<abstract>Alice has a piece of valuable information which she is willing to sell to anyone who is interested in; she is too busy and wants to ask Bob, a professional broker, to sell that information for her; but Alice is in a dilemma where she cannot trust Bob with that information but Bob cannot help her find her customers without</abstract>
+	</publication>
+	<publication>
+		<title>Advanced Indexing Techniques for Wide-Area Network Monitoring</title>
+		<year>2005</year>
+		<authors>xin li,fang bian,christophe diot,ramesh govindan,wei hong,gianluca iannaccone</authors>
+		<jconf>International Conference on Data Engineering</jconf>
+		<label>311</label>
+		<keyword>Distributed Networks;Indexation;Network Monitoring;Range Query;Multi Dimensional;Wide Area Network;</keyword>
+		<organization>null</organization>
+		<abstract>Detecting and unraveling incipient coordinated at- tacks on Internet resources requires a distributed network monitoring infrastructure. Such an infrastructure will have two logically distinct elements: distributed monitors that continuously collect packet and flow-level information, and a distributed query system that allows network operators to efficiently and rapidly access this information. We argue that, in addition to supporting other types of</abstract>
+	</publication>
+	<publication>
+		<title>Measurement, Modeling, and Analysis of Internet Video Sharing Site Workload: A Case Study</title>
+		<year>2008</year>
+		<authors>xiaozhu kang,guofei jiang,haifeng chen,xiaoqiao meng,kenji yoshihira</authors>
+		<jconf>International Conference on Web Services</jconf>
+		<label>311</label>
+		<keyword>Case Study;Data Center;Distributed System;Large Scale;Modeling and Analysis;Service Level Agreement;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we measured and analyzed the workload on Yahoo! Video, the 2nd largest U.S. video sharing site, to understand its nature and the impact on online video data center design. We discovered interesting statistical prop- erties on both static and temporal dimensions of the work- load; theyincludefiledurationandpopularitydistributions, arrival rate dynamics and predictability, and workload sta- tionarity and burstiness.</abstract>
+	</publication>
+	<publication>
+		<title>Real-time Application Monitoring and Diagnosis for Service Hosting Platforms of Black Boxes</title>
+		<year>2007</year>
+		<authors>huadong liu,rauf izmailov,guofei jiang,xiaoqiao meng</authors>
+		<jconf>Integrated Network Management</jconf>
+		<label>311</label>
+		<keyword>Real Time Application;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Content Based Rate Estimation Using Lazy Membership Testing</title>
+		<year>2006</year>
+		<authors>fang hao,murali s. kodialam,t. v. lakshman,vivek vishnumurthy</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>311</label>
+		<keyword>Flow Rate;Network Management;Property Testing;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Fast IP flow rate estimation has many potential applications in network management, monitoring, security, and traffic engi- neering. Recently, low cost and memory efficient techniques to accurately estimate flow-rates in real-time have been de- veloped. These techniques rely on flow definitions being con- strained to being subsets of the fields in the packet header mak- ing flow-membership tests relatively inexpensive.</abstract>
+	</publication>
+	<publication>
+		<title>Fast, memory-efficient traffic estimation by coincidence counting</title>
+		<year>2005</year>
+		<authors>fang hao,murali s. kodialam,t. v. lakshman</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>311</label>
+		<keyword>Denial of Service Attack;Estimation Error;Hardware Implementation;High Speed;Network Planning;Network Security;Service Level Agreement;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract We consider the problem of fast estimation of o w rates in backbone network links with possibly millions of o ws. Accurate o w rate estimation is necessary for network trac management, network planning, measuring compliance to service level agreements, and network security. Ideally, a rate estimation scheme should have short estimation times with provable bounds on estimation error,</abstract>
+	</publication>
+	<publication>
+		<title>MIND: A Distributed MultiDimensional Indexing System for Network Diagnosis</title>
+		<year>2006</year>
+		<authors>xin li,fang bian,christophe diot,ramesh govindan,wei hong,gianluca iannaccone</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>311</label>
+		<keyword>Design and Implementation;Distributed Networks;Indexation;Load Balance;Management System;Multi Dimensional;</keyword>
+		<organization>null</organization>
+		<abstract>Detecting coordinated attacks on Internet resources requires a distributed network monitoring infrastructure. Such an in- frastructure will have two logically distinct elements: distributed monitors that continuously collect traffic information, and a dis- tributed query system that allows network operators to efficiently correlate information from different monitors in order to detect anomalous traffic patterns. In this paper, we discuss the design</abstract>
+	</publication>
+	<publication>
+		<title>Automatic Profiling of Network Event Sequences: Algorithm and Applications</title>
+		<year>2008</year>
+		<authors>xiaoqiao meng,guofei jiang,haifeng chen,kenji yoshihira</authors>
+		<jconf>IEEE INFOCOM</jconf>
+		<label>311</label>
+		<keyword>Anomaly Detection;Expectation Maximization Algorithm;Mixture Model;Network Management;Network Measurement;Traffic Analysis;Wireless Network;Markov Chain;Time Domain;</keyword>
+		<organization>null</organization>
+		<abstract>The behavior of network entities, such as flows, sessions, hosts, and users, can often be described by commu- nication event sequences in the time domain. For the purpose of many network measurement and monitoring tasks, it is desirable to have an accurate yet information-compact profiling of the behavior of massive event sequences. This paper proposes a new method to achieve</abstract>
+	</publication>
+	<publication>
+		<title>Using the small-world model to improve freenet performance</title>
+		<year>2002</year>
+		<authors>ashish goel,ramesh govindan</authors>
+		<jconf>Computer Communication Review</jconf>
+		<label>311</label>
+		<keyword>Cache Replacement;Data Retrieval;Graph Clustering;Peer To Peer System;Satisfiability;Small World;</keyword>
+		<organization>null</organization>
+		<abstract>Efficient data retrieval in a peer-to-peer system like Freenet is a challenging problem. In this paper we study the impact of cache replacement policy on the performance of Freenet. We find that, with Freenet's LRU cache replacement, there is a steep reduction in the hit ratio with increasing load. Based on intuition from the small-world models and the recent theoretical</abstract>
+	</publication>
+	<publication>
+		<title>Supporting System-wide Similarity Queries for networked system management</title>
+		<year>2010</year>
+		<authors>songyun duan,guofei jiang,xiaoqiao meng</authors>
+		<jconf>IEEE/IFIP Network Operations and Management Symposium</jconf>
+		<label>311</label>
+		<keyword>Communication System;Complex Network;Computer Network;Data Management;Data Model;Indexation;Indexing Terms;Networked Systems;Statistical Machine Learning;Streaming Algorithm;Support System;System Management;Web Service;Wireless Network;</keyword>
+		<organization>null</organization>
+		<abstract>Today's networked systems are extensively instru- mented for collecting a wealth of monitoring data. In this paper, we propose a framework called System-wide Similarity Query (S2Q) to support a new type of similarity queries on monitoring data for managing complex networked systems. The similarity queries are defined on a novel data model that captures system states, and the implementation includes</abstract>
+	</publication>
+	<publication>
+		<title>Boosting the performance of computing systems through adaptive configuration tuning</title>
+		<year>2009</year>
+		<authors>haifeng chen,guofei jiang,kenji yoshihira</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>311</label>
+		<keyword>Learning Process;Reinforcement Learning;System Management;System Performance;Error Back Propagation;Markov Decision Process;Neural Network;rein forcement learning;Temporal Difference;</keyword>
+		<organization>null</organization>
+		<abstract>Good system performance depends on the correct setting of its con- figuration parameters. It is observed that such optimal confi gura- tion relies on the incoming workload of the system. In this paper, we utilize the Markov decision process(MDP) theory and present a reinforcement learning strategy to discover the complex relation- ship between the system workload and the corresponding optimal</abstract>
+	</publication>
+	<publication>
+		<title>Intelligent Workload Factoring for a Hybrid Cloud Computing Model</title>
+		<year>2009</year>
+		<authors>guofei jiang,kenji yoshihira,haifeng chen,akhilesh saxena</authors>
+		<jconf>IEEE Congress on Services</jconf>
+		<label>311</label>
+		<keyword>Cloud Computing;Cost Saving;Data Cache;Data Center;Data Privacy;Detection Algorithm;Local Computation;Statistical Techniques;trace-driven simulation;</keyword>
+		<organization>null</organization>
+		<abstract>Despite the hype, cloud computing still stays on IT managers' watching list. The hindrances to the adoption of public cloud computing services into enterprise IT include service reliability, security &amp;amp; data privacy, regulation compliant requirements, and so on. To address those concerns, we propose a hybrid cloud computing model which enterprise customers may adopt as a viable and cost-saving methodology</abstract>
+	</publication>
+	<publication>
+		<title>Incrementally improving lookup latency in distributed hash table systems</title>
+		<year>2003</year>
+		<authors>ashish goel,ramesh govindan</authors>
+		<jconf>Sigmetrics Performance Evaluation Review</jconf>
+		<label>311</label>
+		<keyword>Application Layer Multicast;Distributed Hash Table;File System;Internet Router;Overlay Network;Peer To Peer;Random Sampling;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed hash table (DHT) systems are an important class of peer-to-peer routing infrastructures. They enable scalable wide-area storage and retrieval of information, and will support the rapid development of a wide variety of Internet-scale applications ranging from naming systems and file systems to application-layer multicast. DHT systems essentially build an overlay network, but a path on the overlay between any</abstract>
+	</publication>
+	<publication>
+		<title>Making Eigenvector-Based Reputation Systems Robust to Collusion</title>
+		<year>2004</year>
+		<authors>ashish goel,ramesh govindan,kahn mason,benjamin van roy</authors>
+		<jconf>Workshop on Algorithms and Models for the Web-Graph</jconf>
+		<label>311</label>
+		<keyword>Eigenvectors;Reputation System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Understanding internet video sharing site workload: a view from data center design</title>
+		<year>2008</year>
+		<authors>xiaozhu kang,guofei jiang,haifeng chen,xiaoqiao meng,kenji yoshihira</authors>
+		<jconf>Journal of Visual Communication and Image Representation</jconf>
+		<label>311</label>
+		<keyword>Capacity Management;Capacity Planning;Data Center;Distributed System;Large Scale;Quality of Service;Queueing Model;Service Level Agreement;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we measured and analyzed the workload on Yahoo! Video, the 2nd largest U.S. video sharing site, to understand its nature and the impact on online video data center design. We discovered interesting statistical proper- ties on both static and temporal dimensions of the workload including file duration and popularity distributions, arrival rate dynamics and predictability, and workload</abstract>
+	</publication>
+	<publication>
+		<title>An empirical evaluation of internet latency expansion</title>
+		<year>2004</year>
+		<authors>ashish goel,ramesh govindan</authors>
+		<jconf>Computer Communication Review</jconf>
+		<label>311</label>
+		<keyword>Empirical Evaluation;Large-scale Distributed Systems;Peer To Peer System;</keyword>
+		<organization>null</organization>
+		<abstract>The Internet's latency expansion determines the asymptotic performance of large-scale distributed systems (such as Peer-to-Peer systems), but previous studies on the Internet have defined expansion in terms of  expansion rate in terms of hops.</abstract>
+	</publication>
+	<publication>
+		<title>Using the small-world model to improve Freenet performance</title>
+		<year>2004</year>
+		<authors>ashish goel,ramesh govindan</authors>
+		<jconf>Computer Networks and Isdn Systems</jconf>
+		<label>311</label>
+		<keyword>Small World;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast Indexing for Large-scale Networked System Modeling</title>
+		<year>2009</year>
+		<authors>haifeng chen,guofei jiang,xiaoqiao meng,kenji yoshihira</authors>
+		<jconf>Journal of Networks</jconf>
+		<label>311</label>
+		<keyword>Configuration Management;Data Mining;Fault Diagnosis;Graph Theory;Indexation;Indexing Terms;Large Scale;Mobile Network;Network Management;Networked Systems;Optimal Solution;Performance Analysis;Random Sampling;Randomized Algorithm;Regression Analysis;Statistical Techniques;Statistical Model;System Management;System Modeling;Vertex Cover;</keyword>
+		<organization>null</organization>
+		<abstract>Today's networked systems are extensively instru- mented for collecting a wealth of monitoring data. Statistical techniques like regression analysis can be applied to uncover rich relationships (e.g., correlation, causality, independence) between the measurement data which are further utilized for systems management tasks including fault diagnosis, configuration management, performance analysis, etc. How- ever, one problem during this system modeling process comes</abstract>
+	</publication>
+	<publication>
+		<title>Improving lookup latency in distributed hash table systems using random sampling</title>
+		<year>2005</year>
+		<authors>ashish goel,ramesh govindan</authors>
+		<jconf>IEEE/ACM Transactions on Networking</jconf>
+		<label>311</label>
+		<keyword>Application Layer Multicast;Distributed Hash Table;File System;Indexing Terms;Internet Router;Internet Topology;Overlay Network;Peer To Peer;Random Sampling;Randomized Algorithm;Power Law;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed hash table (DHT) systems are an impor- tant class of peer-to-peer routing infrastructures. They enable scalable wide-area storage and retrieval of information, and will support the rapid development of a wide variety of Internet-scale applications ranging from naming systems and file systems to application-layer multicast. DHT systems essentially build an overlay network, but a path on the overlay between</abstract>
+	</publication>
+	<publication>
+		<title>Querying XML documents by dynamic shredding</title>
+		<year>2004</year>
+		<authors>frank wm. tompa</authors>
+		<jconf>ACM Symposium on Document Engineering</jconf>
+		<label>312</label>
+		<keyword>Data Representation;Query Optimization;Relation Algebra;Relational Database;Relational Database System;Xml Document;</keyword>
+		<organization>null</organization>
+		<abstract>With the wide adoption of XML as a standard data representation and exchange format querying XML documents becomes increasingly important. However relational database systems constitute a much more mature technology than what is available for native storage of XML. To bridge the gap one way to manage XML data is to use a commercial relational database system. In this approach</abstract>
+	</publication>
+	<publication>
+		<title>Taylor Series Prediction: A Cache Replacement Policy based on Second-Order Trend Analysis</title>
+		<year>2001</year>
+		<authors>qiang yang,henry haining zhang</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>312</label>
+		<keyword>Cache Replacement;Replacement Policy;System Performance;Taylor Series;Trend Analysis;Second Order;</keyword>
+		<organization>null</organization>
+		<abstract>Caching is one of the most effective techniques for improving the performance of Internetsystems. The heart of a caching system is its page replacement policy, which decides which pageto replace in a cache by a new one. Different caching policies have dramatically different effectson the system performance. In this paper, we extend the well-known GDSF caching policiesto include not only</abstract>
+	</publication>
+	<publication>
+		<title>XQuery rewriting at the relational algebra level</title>
+		<year>2003</year>
+		<authors>frank wm. tompa</authors>
+		<jconf>Computer Systems: Science &amp; Engineering</jconf>
+		<label>312</label>
+		<keyword>Relation Algebra;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Phase-Field Based Segmentation Algorithm for Jacquard Images Using Multi-start Fuzzy Optimization Strategy</title>
+		<year>2005</year>
+		<authors>zhilin feng,jianwei yin,jinxiang dong</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>313</label>
+		<keyword>Fuzzy Optimization;Phase Field;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Registration of Diffusion Tensor Images</title>
+		<year>2004</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>Computer Vision and Pattern Recognition</jconf>
+		<label>314</label>
+		<keyword>Diffusion Tensor Images;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Structure-Specific Statistical Mapping of White Matter Tracts using the Continuous Medial Representation</title>
+		<year>2007</year>
+		<authors>paul a. yushkevich,tony j. simon,james c. gee</authors>
+		<jconf>International Conference on Computer Vision</jconf>
+		<label>314</label>
+		<keyword>White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Parametric Medial Shape Representation in 3-D via the Poisson Partial Differential Equation with Non-linear Boundary Conditions</title>
+		<year>2005</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>Information Processing in Medical Imaging</jconf>
+		<label>314</label>
+		<keyword>Boundary Condition;Partial Differential Equation;Shape Representation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multivariate segmentation of brain tissues by fusion of MRI and DTI data</title>
+		<year>2008</year>
+		<authors>suyash p. awate,tony j. simon,james c. gee</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>314</label>
+		<keyword>Brain Tissue;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Atlas-guided probabilistic diffusion-tensor fiber tractography</title>
+		<year>2008</year>
+		<authors>philip a. cook,suyash p. awate,james c. gee</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>314</label>
+		<keyword>Diffusion Tensor;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Towards Diffusion Profile Image Registration</title>
+		<year>2004</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>314</label>
+		<keyword>Diffusion Mri;Gradient Descent Method;Image Registration;Image Sampling;Inner Product;Large Scale;Objective Function;Signal Analysis;Value Function;Diffusion Tensor;Multi Resolution;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel method for diffusion MRI reg- istration that treats diffusion profile as an arbitrary positive- valued function of spatial direction and treats Cartesian dif- fusion tensors as a special case. A metric based on ele- mentary notions of signal analysis is presented and in the case of diffusion tensors, a closed form expression of the metric</abstract>
+	</publication>
+	<publication>
+		<title>Surface-based modeling of white matter fasciculi with orientation encoding</title>
+		<year>2008</year>
+		<authors>paul a. yushkevich,tony j. simon,james c. gee</authors>
+		<jconf>IEEE International Symposium on Biomedical Imaging</jconf>
+		<label>314</label>
+		<keyword>White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multivariate Normalization with Symmetric Diffeomorphisms for Multivariate Studies</title>
+		<year>2007</year>
+		<authors>brian b. avants,jeffrey duda,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Multivariate Normal;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fuzzy Nonparametric DTI Segmentation for Robust Cingulum-Tract Extraction</title>
+		<year>2007</year>
+		<authors>suyash p. awate,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Fractional Anisotropy;Fuzzy Segmentation;Statistical Model;Diffusion Tensor;Partial Volume;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a novel segmentation-based approach for fiber-tract extraction in diffusion-tensor (DT) images. Typical tractog- raphy methods, incorporating thresholds on fractional anisotropy and fiber curvature to terminate tracking, can face serious problems aris- ing from partial voluming and noise. For these reasons, tractography often fails to extract thin tracts with sharp changes in orientation, e.g. the cingulum. Unlike tractography—which</abstract>
+	</publication>
+	<publication>
+		<title>An Automated Approach to Connectivity-Based Partitioning of Brain Structures</title>
+		<year>2005</year>
+		<authors>philip a. cook,brian b. avants,paul a. yushkevich,daniel c. alexander,james c. gee,o. ciccarelli,a. j. thompson</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Brain Structure;Corpus Callosum;Healthy Subjects;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract>We present an automated approach to the problem of conn- ectivity-based partitioning of brain structures using diusion imaging. White-matter fibres connect dierent areas of the brain, allowing them to interact with each other. Diusion-tensor MRI measures the orientation of white-matter fibres in vivo, allowing us to perform connectivity-based partitioning non-invasively. Our new approach leverages atlas-based seg- mentation to automate anatomical</abstract>
+	</publication>
+	<publication>
+		<title>High-Fidelity Meshes from Tissue Samples for Diffusion MRI Simulations</title>
+		<year>2010</year>
+		<authors>eleftheria panagiotaki,matt g. hall,bernard siow,mark f. lythgoe,daniel c. alexander</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Diffusion Mri;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Evaluation of Shape-Based Normalization in the Corpus Callosum for White Matter Connectivity Analysis</title>
+		<year>2007</year>
+		<authors>hui sun,paul a. yushkevich,philip a. cook,jeffrey duda,tony j. simon,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Corpus Callosum;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Hippocampus-Specific fMRI Group Activation Analysis with Continuous M-Reps</title>
+		<year>2006</year>
+		<authors>paul a. yushkevich,john a. detre,kathy z. tang,angela hoang,dawn mechanic-hamilton,maría a. fernández-seara,marc korczykowski,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Activity Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Statistical Modeling of Shape and Appearance Using the Continuous Medial Representation</title>
+		<year>2005</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Statistical Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Axon Diameter Mapping in the Presence of Orientation Dispersion with Diffusion MRI</title>
+		<year>2010</year>
+		<authors>daniel c. alexander</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Diffusion Mri;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Tract-Specific Framework for White Matter Morphometry Combining Macroscopic and Microscopic Tract Features</title>
+		<year>2009</year>
+		<authors>suyash p. awate,sandhitsu r. das,john h. woo,elias r. melhem,james c. gee,paul a. yushkevich</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deformable Registration of Diffusion Tensor MR Images with Explicit Orientation Optimization</title>
+		<year>2005</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Affine Transformation;Conjugate Gradient Method;Corpus Callosum;Deformable Registration;Diffusion Tensor Images;Diffusion Tensor Mri;Image Similarity;Mr Imaging;Objective Function;Similarity Measure;Diffusion Tensor;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we present a novel deformable registration algorithm for diffusion tensor MR images that enables explicit optimization of tensor reorientation. The optimization seeks a piecewise affine transformation that divides the image domain into uniform regions and transform each region affinely. The objective function captures both the image similarity and the smoothness of the transformation across region boundaries. The</abstract>
+	</publication>
+	<publication>
+		<title>Unbiased White Matter Atlas Construction Using Diffusion Tensor Images</title>
+		<year>2007</year>
+		<authors>paul a. yushkevich,daniel rueckert,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Diffusion Tensor Images;Fractional Anisotropy;Image Registration;Large Deformation;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract. This paper describes an algorithm for unbiased construction of white matter (WM) atlases using full information available to diusion tensor (DT) images. The key component,of the proposed algorithm is a novel DT image registration method,that leverages metrics comparing tensors as a whole and optimizes tensor orientation explicitly. The problem of unbiased atlas construction is formulated using the approach proposed</abstract>
+	</publication>
+	<publication>
+		<title>Tensor-Based Morphometry of Fibrous Structures with Application to Human Brain White Matter</title>
+		<year>2009</year>
+		<authors>paul a. yushkevich,daniel rueckert,james c. gee</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>314</label>
+		<keyword>Human Brain;Tensor Based Morphometry;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>3D Mouse Brain Reconstruction from Histology Using a Coarse-to-Fine Approach</title>
+		<year>2006</year>
+		<authors>paul a. yushkevich,brian b. avants,ng lydia,michael hawrylycz,pablo d. burstein,james c. gee</authors>
+		<jconf>Workshop on Biomedical Image Registration</jconf>
+		<label>314</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Computational White Matter Atlas for Aging with Surface-Based Representation of Fasciculi</title>
+		<year>2010</year>
+		<authors>paul a. yushkevich,daniel rueckert,james c. gee</authors>
+		<jconf>Workshop on Biomedical Image Registration</jconf>
+		<label>314</label>
+		<keyword>White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Fuzzy, Nonparametric Segmentation Framework for DTI and MRI Analysis: With Applications to DTI-Tract Extraction</title>
+		<year>2007</year>
+		<authors>suyash p. awate,james c. gee</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>314</label>
+		<keyword>Covariance Matrix;Diffusion Tensor Images;Fractional Anisotropy;Fuzzy C Mean;Fuzzy Segmentation;Fuzzy Set;Indexing Terms;Magnetic Resonance;Mr Imaging;Statistical Model;Diffusion Tensor;Information Theoretic;Markov Random Field;Partial Volume;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract—This paper presents a novel fuzzy-segmentation method for diffusion tensor (DT) and magnetic resonance (MR) images. Typical fuzzy-segmentation schemes, e.g., those based on fuzzy C means (FCM), incorporate Gaussian class models that are inherently biased towards ellipsoidal clusters characterized by a mean element and a covariance matrix. Tensors in fiber bundles, however, inherently lie on specific manifolds in Riemannian spaces.</abstract>
+	</publication>
+	<publication>
+		<title>Shape-Based Normalization of the Corpus Callosum for DTI Connectivity Analysis</title>
+		<year>2007</year>
+		<authors>hui sun,paul a. yushkevich,philip a. cook,jeffrey duda,tony j. simon,james c. gee</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>314</label>
+		<keyword>Corpus Callosum;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Continuous Medial Representation for Anatomical Structures</title>
+		<year>2006</year>
+		<authors>paul a. yushkevich,james c. gee</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>314</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>High-Dimensional Spatial Normalization of Diffusion Tensor Images Improves the Detection of White Matter Differences: An Example Study Using Amyotrophic Lateral Sclerosis</title>
+		<year>2007</year>
+		<authors>brian b. avants,paul a. yushkevich,john h. woo,sumei wang,leo f. mccluskey,lauren b. elman,elias r. melhem,james c. gee</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>314</label>
+		<keyword>Amyotrophic Lateral Sclerosis;Diffusion Tensor Images;High Dimensionality;White Matter;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Design and implementation of a large-scale hybrid distributed graphics system</title>
+		<year>2002</year>
+		<authors>jian yang,jiaoying shi,zhefan jin</authors>
+		<jconf>Eurographics Workshop on Parallel Graphics and Visualization</jconf>
+		<label>315</label>
+		<keyword>Code Compression;Design and Implementation;Geometry Compression;Graphics Hardware;Graphics System;Image Compositing;Image Compression;Large Scale;Rendering System;Real Time;</keyword>
+		<organization>null</organization>
+		<abstract>Although modern graphics hardware has strong capability to render millions of triangles within a second, huge scenes are still unable to be rendered in real-time. Lots of parallel and distributed graphics systems are explored to solve this problem. However none of them is built for large-scale graphics applications.We designed AnyGL, a large-scale hybrid distributed graphics system, which consists of four</abstract>
+	</publication>
+	<publication>
+		<title>Haptic Exploration of Mathematical Knots</title>
+		<year>2007</year>
+		<authors>sidharth thakur,andrew j. hanson</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>315</label>
+		<keyword>Haptic Interface;Interaction Model;Mental Model;</keyword>
+		<organization>null</organization>
+		<abstract>We present a novel multi-modal haptic interface for sketching and exploring the structure and properties of mathematical knots. Our interface de- rives from the familiar pencil-and-paper process of drawing 2D knot diagrams to facilitate the creation and exploration of mathematical knots; however, with a touch-based interface, users can also leverage their physical intuition by seeing, touching, and feeling the knots.</abstract>
+	</publication>
+	<publication>
+		<title>Error-Bounded Solid Voxelization for Polygonal Model Based on Heuristic Seed Filling</title>
+		<year>2005</year>
+		<authors>jianguang weng,yueting zhuang</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>315</label>
+		<keyword>Error Bound;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Physically Interacting with Four Dimensions</title>
+		<year>2006</year>
+		<authors>andrew j. hanson</authors>
+		<jconf>International Symposium on Visual Computing</jconf>
+		<label>315</label>
+		<keyword>Physical Interaction;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Multimodal Real-Time Platform for Studying Human-Avatar Interactions</title>
+		<year>2010</year>
+		<authors>damian fricker,chen yu</authors>
+		<jconf>Intelligent Virtual Agents</jconf>
+		<label>315</label>
+		<keyword>Real Time;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Multimodal Exploration of the Fourth Dimension</title>
+		<year>2005</year>
+		<authors>andrew j. hanson</authors>
+		<jconf>IEEE Visualization</jconf>
+		<label>315</label>
+		<keyword>3d graphics;Physical Model;</keyword>
+		<organization>null</organization>
+		<abstract>We present a multimodal paradigm for exploring topological sur- faces embedded in four dimensions; we exploit haptic methods in particular to overcome the intrinsic limitations of 3D graphics im- ages and 3D physical models. The basic problem is that, just as 2D shadows of 3D curves lose structure where lines cross, 3D graph- ics projections of smooth 4D topological surfaces</abstract>
+	</publication>
+	<publication>
+		<title>Shadow-Driven 4D Haptic Visualization</title>
+		<year>2007</year>
+		<authors>andrew j. hanson</authors>
+		<jconf>IEEE Transactions on Visualization and Computer Graphics</jconf>
+		<label>315</label>
+		<keyword>Architectural Design;Computer Graphic;Force Feedback;Haptic Interface;Indexing Terms;Interactive System;Knot Theory;Physical Model;Teaching Tool;</keyword>
+		<organization>null</organization>
+		<abstract>ABSTRACT Just as we can work with two-dimensional oor,plans to communicate 3D architectural design, we can exploit reduced-dimension shadows to manipulate the higher-dimensional objects generating the shadows. In particular, by taking advantage of physically reactive 3D shadow-space controllers, we can transform the task of interacting with 4D objects to a new level of physical reality. We begin with a teaching</abstract>
+	</publication>
+</person>

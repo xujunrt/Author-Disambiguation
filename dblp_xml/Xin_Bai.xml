@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xin Bai</FullName>
+	<publication>
+		<title>Segmentation-Based Multilayer Diagnosis Lossless Medical Image compression</title>
+		<year>2003</year>
+		<authors>jesse s. jin,david dagan feng</authors>
+		<jconf>Visual Information Processing</jconf>
+		<label>1121</label>
+		<keyword>Clinical Reasoning;Data Compression;Image Processing;Lossless Compression;Lossy Compression;Medical Image;Medical Image Compression;Medical Image Retrieval;Progressive Transmission;Region Growing;Region of Interest;</keyword>
+		<organization>null</organization>
+		<abstract>Hospital and clinical environments are moving towards computerisation, digitisation and centralisation, resulting in prohibitive amounts of digital medical image data. Compression techniques are, therefore, essential in archival and communication of medical image. Although lossy compression yields much higher compression rates, the medical community has relied on lossless compression for legal and clinical reasons. In this paper, we propose a segmentation-based</abstract>
+	</publication>
+	<publication>
+		<title>A New Dynamic Bandwidth Allocation Scheme in Ethernet Passive Optical Access Networks</title>
+		<year>2004</year>
+		<authors>chadi assi,abdallah shami,nasir ghani</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>1122</label>
+		<keyword>Access Network;Dynamic Bandwidth Allocation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

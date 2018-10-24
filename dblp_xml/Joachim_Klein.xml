@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Joachim Klein</FullName>
+	<publication>
+		<title>Optimizing Maintenance of Constraint-Based Database Caches</title>
+		<year>2009</year>
+		<authors>susanne braun</authors>
+		<jconf>Advances in Databases and Information Systems</jconf>
+		<label>427</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Examining the Performance of a Constraint-Based Database Cache</title>
+		<year>2007</year>
+		<authors>andreas bühmann</authors>
+		<jconf>International Database Engineering and Application Symposium</jconf>
+		<label>427</label>
+		<keyword>Middleware;Query Processing;</keyword>
+		<organization>null</organization>
+		<abstract>Constraint-based database caching aims at correctly answering SQL query predicates from a local cache database by exploiting constraints that have previously been used in selecting sets of records to be cached from a remote database. In this paper, we take our first steps in look- ing at performance aspects of our prototype Adaptive Constraint-based Cache (ACCache), which is realized in</abstract>
+	</publication>
+	<publication>
+		<title>Dynamische Konfiguration von Cache Groups beim Constraint-basierten Datenbank-Caching</title>
+		<year>2009</year>
+		<authors>harald wonneberger</authors>
+		<jconf>Informatiktage</jconf>
+		<label>427</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

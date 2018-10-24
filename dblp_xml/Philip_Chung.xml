@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Philip Chung</FullName>
+	<publication>
+		<title>Routine Procedural Isomorphs and Cognitive Control Structures</title>
+		<year>2004</year>
+		<authors>michael d. byrne,david maurier,chris fick</authors>
+		<jconf>International Conference on Cognitive Modelling</jconf>
+		<label>824</label>
+		<keyword>Cognitive Control;Human Computer Interaction;Visual Search;Error Rate;</keyword>
+		<organization>null</organization>
+		<abstract>A major domain of inquiry in human-computer interaction is the execution of routine procedures. We have collected extensive data on human execution of two procedures which are structurally isomorphic, but not visually isomorphic. Extant control approaches (e.g., GOMS) predicts they should have the same execution time and error rate profiles, which they do not. We present a series of ACT-R</abstract>
+	</publication>
+</person>

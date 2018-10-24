@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Bart Jacobs</FullName>
+	<publication>
+		<title>Security Monitor Inlining for Multithreaded Java</title>
+		<year>2009</year>
+		<authors>mads dam,andreas lundblad,frank piessens</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>71</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Failboxes: Provably Safe Exception Handling</title>
+		<year>2009</year>
+		<authors>frank piessens</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>71</label>
+		<keyword>Exception Handling;Object Manipulation;Programming Language;Separation Logic;</keyword>
+		<organization>null</organization>
+		<abstract>The primary goal of exception mechanisms is to help ensure that when an operation fails, code that depends on the operation's suc- cessful completion is not executed (a property we call dependency safety). However, the exception mechanisms of current mainstream programming languages make it hard to achieve dependency safety, in particular when objects manipulated inside a try block outlive the</abstract>
+	</publication>
+	<publication>
+		<title>Implicit Dynamic Frames: Combining Dynamic Frames and Separation Logic</title>
+		<year>2009</year>
+		<authors>jan smans,frank piessens</authors>
+		<jconf>European Conference on Object-Oriented Programming</jconf>
+		<label>71</label>
+		<keyword>Object Oriented Programming;Separation Logic;Upper Bound;</keyword>
+		<organization>null</organization>
+		<abstract>The dynamic frames approach has proven to be a powerful formalism for specifying and verifying object-oriented programs. How- ever, it requires writing and checking many frame annotations. In this pa- per, we propose a variant of the dynamic frames approach that eliminates the need to explicitly write and check frame annotations. Reminiscent of separation logic's frame rule, programmers write access</abstract>
+	</publication>
+	<publication>
+		<title>An Automatic Verifier for Java-Like Programs Based on Dynamic Frames</title>
+		<year>2008</year>
+		<authors>jan smans,frank piessens,wolfram schulte</authors>
+		<jconf>Fundamental Approaches to Software Engineering</jconf>
+		<label>71</label>
+		<keyword>Data Abstraction;Object Oriented Programming;</keyword>
+		<organization>null</organization>
+		<abstract>Data abstraction is crucial in the construction of modular programs, since it ensures that internal changes in one module do not propagate to other modules. In object-oriented programs, classes typi- cally enforce data abstraction by providing access to their internal state only through methods. By using method calls in method contracts, data abstraction can be extended to specications. In this</abstract>
+	</publication>
+	<publication>
+		<title>Boogie: A Modular Reusable Verifier for Object-Oriented Programs</title>
+		<year>2005</year>
+		<authors>michael barnett,bor-yuh evan chang,robert deline,k. rustan m. leino</authors>
+		<jconf>Formal Methods for Components and Objects</jconf>
+		<label>71</label>
+		<keyword>Complex System;Decision Procedure;Object Oriented Programming;User Interface;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>A program verifier is a complex system that uses compiler technology, program semantics, property inference, verification-condition generation, automatic decision procedures, and a user interface. This paper describes the architecture of a state-of-the-art program verifier for object-oriented programs.</abstract>
+	</publication>
+	<publication>
+		<title>VeriCool: An Automatic Verifier for a Concurrent Object-Oriented Language</title>
+		<year>2008</year>
+		<authors>jan smans,frank piessens</authors>
+		<jconf>Formal Methods for Open Object-Based Distributed Systems</jconf>
+		<label>71</label>
+		<keyword>Object-oriented Language;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Statically Verifiable Programming Model for Concurrent Object-Oriented Programs</title>
+		<year>2006</year>
+		<authors>jan smans,frank piessens,wolfram schulte</authors>
+		<jconf>IEEE International Conference on Formal Engineering Methods</jconf>
+		<label>71</label>
+		<keyword>Case Study;Concurrent Object-oriented Programming;Data Races;Object Oriented Programming;Program Development;Programming Model;</keyword>
+		<organization>null</organization>
+		<abstract>Reasoning about multithreaded object-oriented programs is dicult, due to the non-local nature of object aliasing, data races, and deadlocks. We propose a programming model that prevents data races and deadlocks, and supports local reasoning in the presence of object aliasing and concurrency. Our programming model builds on the multi- threading and synchronization primitives as they are present in current mainstream</abstract>
+	</publication>
+	<publication>
+		<title>A machine-checked soundness proof for an efficient verification condition generator</title>
+		<year>2010</year>
+		<authors>frédéric vogels,frank piessens</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>71</label>
+		<keyword>Exponential Growth;Theorem Prover;Weakest Precondition;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>Verification conditions (VCs) are logical formulae whose validity implies the correctness of a program with respect to a specification. The technique of checking software properties by specifying them in a program logic, then generating VCs, and finally feeding these VCs to a theorem prover, is several decades old. It is the underlying technology for state-of-the-art program verifiers such as the</abstract>
+	</publication>
+	<publication>
+		<title>Sound reasoning about unchecked exceptions</title>
+		<year>2007</year>
+		<authors>peter müller,frank piessens</authors>
+		<jconf>Conference on Software Engineering and Formal Methods</jconf>
+		<label>71</label>
+		<keyword>Exception Handling;Object Oriented Programming;Programming Language;Software Development;</keyword>
+		<organization>null</organization>
+		<abstract>In most software development projects, it is not feasi- ble for developers to handle explicitly all possible unusual events which may occur during program execution, such as arithmetic overflow, highly unusual environment conditions, heap memory or call stack exhaustion, or asynchronous thread cancellation. Modern programming languages pro- vide unchecked exceptions to deal with these circumstances safely and with minimal programming</abstract>
+	</publication>
+	<publication>
+		<title>Safe Concurrency for Aggregate Objects with Invariants</title>
+		<year>2005</year>
+		<authors>frank piessens,k. rustan m. leino,wolfram schulte</authors>
+		<jconf>Conference on Software Engineering and Formal Methods</jconf>
+		<label>71</label>
+		<keyword>Object Oriented Programming;Race Condition;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Developing safe multithreaded software systems is diffi- cult due to the potential unwanted interference among con- current threads. This paper presents a flexible methodol- ogy for object-oriented programs that protects object struc- tures against inconsistency due to race conditions. It is based on a recent methodology for single-threaded pro- grams where developers define aggregate object structures using an ownership system</abstract>
+	</publication>
+	<publication>
+		<title>A Machine Checked Soundness Proof for an Intermediate Verification Language</title>
+		<year>2009</year>
+		<authors>frédéric vogels,frank piessens</authors>
+		<jconf>Conference on Current Trends in Theory and Practice of Informatics</jconf>
+		<label>71</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Spec# Programming System: Challenges and Directions</title>
+		<year>2005</year>
+		<authors>michael barnett,robert deline,manuel fähndrich,k. rustan m. leino,wolfram schulte,herman venter</authors>
+		<jconf>Verified Software: Theories, Tools, Experiments</jconf>
+		<label>71</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract>The Spec# programming system [2] is a new attempt to increase the quality of general purpose, industrial software. Using old wisdom, we propose the use of specifications to make programmer assumptions explicit. Using modern technology, we propose the use of tools to enforce the specifications. To increase its chances of having impact, we want to design the system so that</abstract>
+	</publication>
+	<publication>
+		<title>A Simple Sequential Reasoning Approach for Sound Modular Verification of Mainstream Multithreaded Programs</title>
+		<year>2007</year>
+		<authors>jan smans,frank piessens,wolfram schulte</authors>
+		<jconf>Electronic Notes in Theoretical Computer Science</jconf>
+		<label>71</label>
+		<keyword>Case Study;Data Races;Modular Reasoning;Modular Verification;Object Localization;Object Oriented Programming;Program Development;Programming Model;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>Reasoning about multithreaded object-oriented programs is dicult, due to the non-local nature of object aliasing, data races, and deadlocks. We propose a programming model that prevents data races and deadlocks, and supports local reasoning in the presence of object aliasing and concurrency. Our programming model builds on the multi-threading and synchronization primitives as they are present in current mainstream languages.</abstract>
+	</publication>
+	<publication>
+		<title>Software security: experiments on the .NET common language run-time and the shared source common language infrastructure</title>
+		<year>2003</year>
+		<authors>frank piessens,wouter joosen</authors>
+		<jconf>Iet Software/iee Proceedings - Software</jconf>
+		<label>71</label>
+		<keyword>.net framework;Programming Language;Software Development;Software Engineering;Software Security;Common Language Infrastructure;</keyword>
+		<organization>null</organization>
+		<abstract>As more and more software applications are directly or indirectly ac- cessible from the Internet, the importance of the security of these appli- cations grows steadily. Hence, it is important that university curricula for computer scientists and software engineers include courses on secure soft- ware development. Such courses should make students familiar with the programming language technology, runtime support and</abstract>
+	</publication>
+	<publication>
+		<title>Provably correct inline monitoring for multithreaded Java-like programs</title>
+		<year>2010</year>
+		<authors>mads dam,andreas lundblad,frank piessens</authors>
+		<jconf>Journal of Computer Security</jconf>
+		<label>71</label>
+		<keyword>java bytecode;Mobile Device;Runtime Monitoring;Security Policy;</keyword>
+		<organization>null</organization>
+		<abstract>Inline reference monitoring is a powerful technique to enforce secu- rity policies on untrusted programs. The security-by-contract paradigm proposed by the EU FP6 S3MS project uses policies, monitoring, and monitor inlining to secure third-party applications running on mobile devices. The focus of this paper is on multi-threaded Java bytecode. An important consideration is that inlining should interfere with the client</abstract>
+	</publication>
+	<publication>
+		<title>Support for Metadata-driven Selection of Run-time Services in .NET is Promising but Immature</title>
+		<year>2004</year>
+		<authors>frank piessens,eddy truyen,wouter joosen</authors>
+		<jconf>Journal of Object Technology</jconf>
+		<label>71</label>
+		<keyword>.net framework;Aspect Oriented Programming;Service Selection;</keyword>
+		<organization>null</organization>
+		<abstract>The .NET Framework allows developers to add run-time services to their classes by specifying them in metadata. This metadata-driven service selection is a very powerful and promising mechanism, closely related to ideas developed in the Aspect-Oriented Programming community. Interestingly, the .NET framework supports both services implemented by weaving and services implemented by interception. However, the weaving-based and the interception-based mechanisms</abstract>
+	</publication>
+	<publication>
+		<title>Static Verification of Code Access Security Policy Compliance of .NET Applications</title>
+		<year>2006</year>
+		<authors>jan smans,frank piessens</authors>
+		<jconf>Journal of Object Technology</jconf>
+		<label>71</label>
+		<keyword>.net framework;Programming Language;Secure System;Security Policy;Security Requirements;Stack Inspection;</keyword>
+		<organization>null</organization>
+		<abstract>The base class library of the .NET Framework makes extensive use of the Code Access Security system to ensure that partially trusted code can be executed securely. Imperative or declarative permission demands indicate where permission checks have to be performed at run time to make sure partially trusted code does not exceed the permissions granted to it in the security</abstract>
+	</publication>
+	<publication>
+		<title>A programming model for concurrent object-oriented programs</title>
+		<year>2008</year>
+		<authors>frank piessens,jan smans,k. rustan m. leino,wolfram schulte</authors>
+		<jconf>ACM Transactions on Programming Languages and Systems</jconf>
+		<label>71</label>
+		<keyword>Case Study;Concurrent Object-oriented Programming;Data Races;Modular Reasoning;Object Oriented Programming;Program Development;Programming Language;Programming Model;Verification Condition Generator;</keyword>
+		<organization>null</organization>
+		<abstract>Reasoning about multithreaded object-oriented programs is difficult, due to the nonlocal nature of object aliasing and data races. We propose a programming regime (or programming model) that rules out data races, and enables local reasoning in the presence of object aliasing and concurrency. Our programming model builds on the multithreading and synchronization primitives as they are present in current mainstream</abstract>
+	</publication>
+</person>

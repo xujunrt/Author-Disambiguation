@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hongmei Liu</FullName>
+	<publication>
+		<title>A Performance Guaranteed New Algorithm for Fault-Tolerant Routing in Folded Cubes</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>Frontiers in Algorithmics</jconf>
+		<label>294</label>
+		<keyword>Fault-tolerant Routing;Performance Guarantee;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some Classes of 3Gamma c-Critical Graph</title>
+		<year>2008</year>
+		<authors>zhen yu</authors>
+		<jconf>Fuzzy Systems and Knowledge Discovery</jconf>
+		<label>294</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A New Fault-Tolerant Routing Algorithm for mary n-cube Multi-computers and Its Performance Analysis</title>
+		<year>2007</year>
+		<authors></authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<label>294</label>
+		<keyword>Fault-tolerant Routing;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

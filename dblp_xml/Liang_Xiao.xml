@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Liang Xiao</FullName>
+	<publication>
+		<title>An Adaptive Security Model for Multi-agent Systems and Application to a Clinical Trials Environment</title>
+		<year>2007</year>
+		<authors>andrew peet,paul h. lewis,srinandan dashmapatra,carlos sáez,madalina croitoru,javier vicente,horacio gonzález-vélez,magí lluch i ariet</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>544</label>
+		<keyword>Clinical Trial;meta model;Security Management;Security Model;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract  Wepresent in this paper an adaptive,security model for Multi-agent systems. A security meta-model has been developed in which the traditional role concept has been extended. The new concept incorporates the need of both security management,as used by role-based access</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Agent Model: an Agent Interaction and Computation Model</title>
+		<year>2007</year>
+		<authors>david robertson,madalina croitoru,paul h. lewis,srinandan dashmapatra,david dupplaw,bo hu</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>544</label>
+		<keyword>Agent Interaction;Agent Modeling;Computer Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Conceptual Graph Description of Medical Data for Brain Tumour Classification</title>
+		<year>2007</year>
+		<authors>madalina croitoru,bo hu,srinandan dashmapatra,paul h. lewis,david dupplaw</authors>
+		<jconf>International Conference on Conceptual Structures</jconf>
+		<label>544</label>
+		<keyword>Brain Tumour;Conceptual Graph;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Conceptual Graph Based Approach to Ontology Similarity Measure</title>
+		<year>2007</year>
+		<authors>madalina croitoru,bo hu,srinandan dashmapatra,paul h. lewis,david dupplaw</authors>
+		<jconf>International Conference on Conceptual Structures</jconf>
+		<label>544</label>
+		<keyword>Conceptual Graph;Similarity Measure;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Developing a security protocol for a distributed decision support system in a healthcare environment</title>
+		<year>2008</year>
+		<authors>paul h. lewis,alex gibb</authors>
+		<jconf>International Conference on Software Engineering</jconf>
+		<label>544</label>
+		<keyword>Agent Interaction;Secure Communication;Security Model;Security Policy;Security Protocol;Security Requirements;Software Engineering;Decision Support System;Multi Agent System;User Agent;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper, we describe the unique security issues involved in healthcare domains. These have been addressed to the needs of the HealthAgents project. In the proposed approach, several levels of security have been provided in accordance with Software Engineering principles, ethical regulations for healthcare data, as well as the security requirements usually raised from the distributed clinical settings. The</abstract>
+	</publication>
+	<publication>
+		<title>A Security Model and its Application to a Distributed Decision Support System for Healthcare</title>
+		<year>2008</year>
+		<authors>javier vicente,carlos sáez,andrew peet,alex gibb,paul h. lewis,srinandan dasmahapatra,madalina croitoru,horacio gonzález-vélez,magí lluch i ariet,david dupplaw</authors>
+		<jconf>Availability, Reliability and Security</jconf>
+		<label>544</label>
+		<keyword>Brain Tumour;Data Security;Decision Making;Medical Decision Support System;Security Model;Support System;Decision Support System;</keyword>
+		<organization>null</organization>
+		<abstract>A distributed decision support system involving multiple clinical centres is crucial to the diagnosis of rare diseases. Although sharing of valid diagnosed cases can facilitate later decision making, possibly from geographically different centres, the released information could reveal patient privacy if it is not properly protected. Clinical centres may have to impose their distinct regulations and rules that govern the</abstract>
+	</publication>
+	<publication>
+		<title>Secure Interaction Models for the HealthAgents System</title>
+		<year>2008</year>
+		<authors>paul h. lewis,srinandan dasmahapatra</authors>
+		<jconf>International Conference on Computer Safety, Reliability and Security</jconf>
+		<label>544</label>
+		<keyword>Interaction Model;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>The Adaptive Agent Model: Software Adaptivity through Dynamic Agents and XMLbased Business Rules</title>
+		<year>2005</year>
+		<authors>des greer</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>544</label>
+		<keyword>Agent Interaction;Agent Modeling;Business Rules;Natural Language;Software Systems;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract The Adaptive Agent Model (AAM) achieves adaptivity in three areas. i) Agents are associated with business rules. These rules are configured by business analysts in a natural language style, using a Business Rules Editor, stored in an XML repository and executed by agents.  ii) The vocabularies of rules are easily changed. A Metadata Editor is described for this purpose,</abstract>
+	</publication>
+	<publication>
+		<title>Modelling Agent Knowledge with Business Rules</title>
+		<year>2005</year>
+		<authors>des greer</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>544</label>
+		<keyword>Agent Systems;Business Rules;Object Oriented Systems;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-agent systems have become increasingly mature, but their appearance does not make the traditional OO approach obsolete. On the contrary, OO methodologies can benefit from the principles and tools designed for agent systems. The Agent/Rule/Class (ARC) framework is proposed as an approach that builds agents upon traditional OO system components and makes use of business rules to dictate agent behaviour</abstract>
+	</publication>
+	<publication>
+		<title>A Hierarchical Agent-oriented Knowledge Model for Multi-Agent Systems</title>
+		<year>2006</year>
+		<authors>des greer</authors>
+		<jconf>Software Engineering and Knowledge Engineering</jconf>
+		<label>544</label>
+		<keyword>Agent Modeling;Business Environment;Business Process;Business Rules;Hierarchical Structure;Knowledge Base;Knowledge Modeling;Management System;Software Engineering;Software Systems;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Software systems used in a business environment must consider knowledge about business processes, business rules, business terms, and their manageability, adaptability, and maintainability due to changing environment over time. In this paper, from a Software Engineering perspective, we propose hierarchical structure for business knowledge that is then made available to agents running in systems. Such knowledge is sourced from the</abstract>
+	</publication>
+	<publication>
+		<title>Expressive security policy rules using Layered Conceptual Graphs</title>
+		<year>2008</year>
+		<authors>madalina croitoru,david dupplaw,paul h. lewis</authors>
+		<jconf>Knowledge Based Systems</jconf>
+		<label>544</label>
+		<keyword>Conceptual Graph;Consistency Checking;Distributed Environment;Policy Rules;Security Policy;Security Requirements;</keyword>
+		<organization>null</organization>
+		<abstract>A method must be provided to support the analysis of security policy rules interdependencies in a (possibly distributed) environment. We propose a Conceptual Graphs based language that will allow us to represent the structure of information and to employ reasoning for consistency checking. We motivate our choice of language by the gained expressivity, the potential for depicting policy associations rigourously</abstract>
+	</publication>
+	<publication>
+		<title>A knowledgeable security model for distributed health information systems</title>
+		<year>2010</year>
+		<authors>bo hu,madalina croitoru,paul h. lewis,srinandan dasmahapatra</authors>
+		<jconf>Computers &amp; Security</jconf>
+		<label>544</label>
+		<keyword>Clinical Information System;Data Transfer;Decision Making;Domain Ontology;Health Information System;Human Brain;Interaction Model;Process Calculus;Security Model;System Security;Lightweight Coordination Calculus;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Realising the vision of pervasive healthcare will generate new challenges to system security. Such challenges are fundamentally different from issues and problems that we face in centralised approaches as well as non- clinical scenarios. In this paper, we reflect upon our experiences in the HealthAgents project wherein a prototype system was developed and a novel approach employed that supports data</abstract>
+	</publication>
+	<publication>
+		<title>Towards agent-oriented model-driven architecture</title>
+		<year>2007</year>
+		<authors>des greer</authors>
+		<jconf>European Journal of Information Systems</jconf>
+		<label>544</label>
+		<keyword>Agent Modeling;Agent Oriented Software Engineering;Business Model;Distributed System;Information System;Knowledge Modeling;Model Driven Architecture;Object Constraint Language;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract Model-Driven Architecture (MDA) supports,the transformation,from,reusable models to executable software. Business representations, however, cannot be fully and,explicitly represented,in such,models,for direct transformation,into running systems. Thus, once business needs change, the language abstractions used by MDA (e.g. object constraint language/action semantics), being low level, have to be edited directly. We therefore describe an agent-oriented MDA (AMDA) that uses a set of business,models,under,continuous,maintenance,by</abstract>
+	</publication>
+	<publication>
+		<title>A knowledge hierarchy model for adaptive multi-agent systems</title>
+		<year>2008</year>
+		<authors>des greer</authors>
+		<jconf>Journal of Computer Applications in Technology</jconf>
+		<label>544</label>
+		<keyword>Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>An adaptive security model using agent-oriented MDA</title>
+		<year>2009</year>
+		<authors></authors>
+		<jconf>Information &amp; Software Technology</jconf>
+		<label>544</label>
+		<keyword>Agent Modeling;Agent Oriented Software Engineering;Interaction Model;Management System;Model Driven Architecture;Model Transformation;Role Based Access Control;Security Model;Security Policy;Software Development;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Model-driven architecture (MDA) supports model-centred software development via successive model transformation. In MDA, the reusability of models is improved as well as the traceability of requirements. Agent-oriented model-driven architecture (AMDA) associates adaptive agents with a business-oriented interaction model and lets agents dynamically interpret their behaviour from the continuously main- tained model via which the current business needs are deployed at</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Agent Model: Software Adaptivity using an Agent-oriented Model-Driven Architecture</title>
+		<year>2009</year>
+		<authors>des greer</authors>
+		<jconf>Information &amp; Software Technology</jconf>
+		<label>544</label>
+		<keyword>Agent Modeling;Agent Oriented Software Engineering;Business Model;Business Rules;Case Study;Knowledge Modeling;Knowledge Modelling;Levels of Abstraction;Model Driven Architecture;Object Oriented;Requirement Specification;Software Agent;Software Systems;Base Layer;Rule Based;</keyword>
+		<organization>null</organization>
+		<abstract>Model-Driven Architecture (MDA) promotes the development of software systems through successive building and generation of mod- els, improving the reusability of models. Applying the same principles to the area of Agent-Oriented Software Engineering (AOSE) advances the ideas behind MDA even more significantly, due to the inherent adaptivity of software agents We describe an appropriate set of models originating from requirements</abstract>
+	</publication>
+	<publication>
+		<title>The Agent-Rule-Class framework for Multi-Agent Systems</title>
+		<year>2006</year>
+		<authors>des greer</authors>
+		<jconf>Multiagent and Grid Systems</jconf>
+		<label>544</label>
+		<keyword>Agent Oriented Software Engineering;Business Rules;Design Model;Development Process;Object Oriented;Object Oriented Systems;Object-oriented Software Engineering;Process Model;Structural Model;System Modelling;Multi Agent System;</keyword>
+		<organization>null</organization>
+		<abstract>Multi-Agent Systems (MAS) have become increasingly mature, but this maturity does not make the traditional Object Oriented (OO) approaches obsolete. On the contrary, building MAS in combination with OO constructs allows the reuse of existing components. Similarly, OO methodologies can benefit from extension towards an agent abstraction and so make use of the methods and tools for MAS. The Agent-Rule-Class</abstract>
+	</publication>
+	<publication>
+		<title>Environment support for developing and configuring adaptive agents</title>
+		<year>2009</year>
+		<authors>des greer</authors>
+		<jconf>Multiagent and Grid Systems</jconf>
+		<label>544</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

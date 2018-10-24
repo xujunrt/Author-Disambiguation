@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>David L&amp;oacute;pez</FullName>
+	<publication>
+		<title>SofTOA: Software Ranging for TOA-Based Positioning of WLAN Terminals</title>
+		<year>2009</year>
+		<authors>marc ciurana,francisco barceló-arroyo</authors>
+		<jconf>Location- and Context-Awareness</jconf>
+		<label>195</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Extending SWRL to Enhance Mathematical Support</title>
+		<year>2007</year>
+		<authors>alfonso sánchez-macián,encarna pastor,jorge e. lópez de vergara</authors>
+		<jconf>Web Reasoning and Rule Systems</jconf>
+		<label>196</label>
+		<keyword>Semantic Web Rule Language;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents an extension to the Semantic Web Rule Language and a methodology to enable advanced mathematical support in SWRL rules. This solution separates mathematical and problem se- mantics allowing the inclusion of integration, differentiation and other operations not built-in to SWRL. Using this approach, it is possible to create rules to cope with complex scenarios that include mathematical</abstract>
+	</publication>
+</person>

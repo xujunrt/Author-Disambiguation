@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Shuhong Wang</FullName>
+	<publication>
+		<title>TDHA-A One-Way Hash Algorithm Based on Extended Integer Tent Maps with Dynamic Properties</title>
+		<year>2008</year>
+		<authors>jiandong liu,youming yu</authors>
+		<jconf>International Symposium on Electronic Commerce and Security</jconf>
+		<label>950</label>
+		<keyword>Dynamic Properties;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

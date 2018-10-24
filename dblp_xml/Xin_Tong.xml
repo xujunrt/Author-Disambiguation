@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xin Tong</FullName>
+	<publication>
+		<title>A type system for hybrid intensional-imperative programming support in GIPSY</title>
+		<year>2009</year>
+		<authors>serguei a. mokhov,joey paquet</authors>
+		<jconf>Canadian Conference on Computer Science &amp; Software Engineering</jconf>
+		<label>1129</label>
+		<keyword>Design and Implementation;Dynamic Typing;Programming Language;Type System;</keyword>
+		<organization>null</organization>
+		<abstract>We describe a type system for a platform called the General Intensional Programming System (GIPSY), designed to support intensional programming languages built upon intensional logic and their imperative counter-parts for the intensional execution model. In GIPSY, the type system glues the static and dynamic typing between intensional and imperative languages in its compiler and runtime environments to support the intensional</abstract>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Context Calculus in the GIPSY Environment</title>
+		<year>2008</year>
+		<authors>joey paquet,serguei a. mokhov</authors>
+		<jconf>International Computer Software and Applications Conference</jconf>
+		<label>1129</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Complete Context Calculus Design and Implementation in GIPSY</title>
+		<year>2010</year>
+		<authors>joey paquet,serguei a. mokhov</authors>
+		<jconf>Computing Research Repository</jconf>
+		<label>1129</label>
+		<keyword>Design and Implementation;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents the integration into the GIPSY of Lucx's context calculus defined in Wan's PhD thesis. We start by defining different types of tag sets, then we explain the concept of context, the types of context and the context calculus operators. Finally, we present how context entities have been abstracted into Java classes and embedded into the GIPSY system.</abstract>
+	</publication>
+</person>

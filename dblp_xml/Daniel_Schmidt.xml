@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Schmidt</FullName>
+	<publication>
+		<title>Error correction in single-hop wireless sensor networks - A case study</title>
+		<year>2009</year>
+		<authors>matthias berning,norbert wehn</authors>
+		<jconf>Design, Automation, and Test in Europe</jconf>
+		<label>173</label>
+		<keyword>Case Study;Cellular Network;Energy Efficient;Error Correction;Forward Error Correction;Power Modeling;Sensor Network;Sensor Nodes;Side Effect;Base Station;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract>Energy efficient communication is a key issue in wireless sensor networks. Common belief is that a multi-hop configuration is the only viable energy efficient technique. In this paper we show that the use of forward error correction techniques in combination with ARQ is a promising alternative. Exploiting the asymmetry between lightweight sensor nodes and a more powerful base station even</abstract>
+	</publication>
+	<publication>
+		<title>XEEMU: An Improved XScale Power Simulator</title>
+		<year>2007</year>
+		<authors>zoltán herczeg,ákos kiss,norbert wehn,tibor gyimóthy</authors>
+		<jconf>Workshop on Power and Timing Modeling, Optimization and Simulation</jconf>
+		<label>173</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>DRAM power management and energy consumption: a critical assessment</title>
+		<year>2009</year>
+		<authors>norbert wehn</authors>
+		<jconf>sbcci</jconf>
+		<label>173</label>
+		<keyword>Embedded System Design;Energy Consumption;Energy Efficient;Energy Management;Energy Simulation;Low Power;Power Consumption;Power Management;Power Modeling;Power Saving;</keyword>
+		<organization>null</organization>
+		<abstract>Energy efficiency is key in embedded systems design. Besides the CPU, DRAM has been identified as one of the main contributors to energy consumption in such devices. Modern DRAMs also offer low power states to adapt to varying workload and increase energy efficency. A number of studies have investigated different DRAM energy management strategies and propose a very aggressive use</abstract>
+	</publication>
+	<publication>
+		<title>Energy simulation of embedded XScale systems with XEEMU</title>
+		<year>2009</year>
+		<authors>zoltán herczeg,ákos kiss,norbert wehn,tibor gyimóthy</authors>
+		<jconf></jconf>
+		<label>173</label>
+		<keyword>Energy Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Marching Pixels: A new Organic Computing Prinicple for Smart CMOS Camera Chips</title>
+		<year>2005</year>
+		<authors>dietmar fey</authors>
+		<jconf>Architektur von Rechensystemen</jconf>
+		<label>174</label>
+		<keyword>Organic Computing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Reconfigurable OPTO-ASICs as base for future self-organizing CMOS cameras</title>
+		<year>2004</year>
+		<authors>dietmar fey,andreas loos</authors>
+		<jconf>Architektur von Rechensystemen</jconf>
+		<label>174</label>
+		<keyword>High Speed;Logic Synthesis;Morphological Operation;Self Organization;Self-organizing System;Signal Detection;Signal Processing;Metal Oxide Semiconductor;Single Instruction Multiple Data;</keyword>
+		<organization>null</organization>
+		<abstract>Abstract: We investigated different parallel SIMD (single instruction multiple data) architectures based on pure programmable and reconfigurable approaches for their appropriateness for integration in an one chip high speed CMOS (comp-lementary metal-oxide semiconductor) camera. Our goal is to combine parallel signal detection and parallel signal processing in one chip. By a logic synthesis we show that a reconfigurable combinatorial circuit</abstract>
+	</publication>
+	<publication>
+		<title>Marching-pixels: a new organic computing paradigm for smart sensor processor arrays</title>
+		<year>2005</year>
+		<authors>dietmar fey</authors>
+		<jconf>Conference On Computing Frontiers</jconf>
+		<label>174</label>
+		<keyword>Ant Algorithm;Moving Object;Self Organization;Simulation Study;Smart Sensor;Virtual Organization;Organic Computing;Proof of Concept;</keyword>
+		<organization>null</organization>
+		<abstract>In this paper we present a new organic computing principle denoted as marching pixels for the architectures of future smart CMOS camera chips. The idea of marching pixels is based on the realization of a massively-parallel fine-grain single-chip processor array. Marching pixels are virtual organic units which are propagating in a pixel processor array, similar to virtual ants in ant</abstract>
+	</publication>
+	<publication>
+		<title>Autonomous behavior-based exploration of office environments</title>
+		<year>2006</year>
+		<authors>tobias luksch,jens wettach,karsten berns</authors>
+		<jconf>International Conference on Informatics in Control, Automation and Robotics</jconf>
+		<label>175</label>
+		<keyword>Indoor Environment;Mobile Robot;Motion Control;Service Robot;User Interaction;</keyword>
+		<organization>null</organization>
+		<abstract>Besides safe motion control the gain of environmental knowledge is a key for a reliable home or office service robot. When being set into a completely unknown environment the robot has to be able to derive a certain abstract internal representation of this world without any user interaction. This knowledge enables the robot to know how to get from its</abstract>
+	</publication>
+	<publication>
+		<title>Simulation and control of an autonomous bucket excavator for landscaping tasks</title>
+		<year>2010</year>
+		<authors>martin proetzsch,karsten berns</authors>
+		<jconf>International Conference on Robotics and Automation</jconf>
+		<label>175</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

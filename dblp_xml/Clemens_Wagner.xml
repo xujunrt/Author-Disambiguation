@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Clemens Wagner</FullName>
+	<publication>
+		<title>Fast Parallel Hermite Normal Form Computation of Matrices over F[x]</title>
+		<year>1998</year>
+		<authors></authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>161</label>
+		<keyword>Hermite Normal Form;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Some Performance Studies in Exact Linear Algebra</title>
+		<year>1998</year>
+		<authors>george havas</authors>
+		<jconf>Wide Area Networks and High Performance Computing</jconf>
+		<label>161</label>
+		<keyword>Linear Algebra;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

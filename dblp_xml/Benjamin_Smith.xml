@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Benjamin Smith</FullName>
+	<publication>
+		<title>On visual quality of optimal 3D sampling and reconstruction</title>
+		<year>2007</year>
+		<authors>tai meng,alireza entezari,arthur e. kirkpatrick,daniel weiskopf,leila kalantari,torsten möller</authors>
+		<jconf>Graphics Interface</jconf>
+		<label>73</label>
+		<keyword>Computer Vision;Image Quality;Image Representation;Numerical Analysis;Polynomial Approximation;User Study;Visual Quality;Body Centered Cubic;</keyword>
+		<organization>null</organization>
+		<abstract>This paper presents a user study of the visual quality of an imaging pipeline employing the optimal body-centered cubic (BCC) sam- pling lattice. We provide perceptual evidence supporting the the- oretical expectation that sampling and reconstruction on the BCC lattice offer superior imaging quality over the traditionally popular Cartesian cubic (CC) sampling lattice. We asked 12 participants to choose the</abstract>
+	</publication>
+	<publication>
+		<title>Kinetic Modeling Based Probabilistic Segmentation for Molecular Images</title>
+		<year>2008</year>
+		<authors>ahmed saad,ghassan hamarneh,torsten möller</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>73</label>
+		<keyword>Kinetic Model;Molecular Imaging;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Simultaneous Segmentation, Kinetic Parameter Estimation, and Uncertainty Visualization of Dynamic PET Images</title>
+		<year>2007</year>
+		<authors>ahmed saad,ghassan hamarneh,torsten möller</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>73</label>
+		<keyword>Kinetic Model;Kinetic Parameter;Pet Imaging;</keyword>
+		<organization>null</organization>
+		<abstract>We develop a segmentation technique for dynamic PET in- corporating the physiological parameters for different regions via kinetic modeling. We demonstrate the usefulness of our technique on fifteen (11C)Raclopride simulated PET images. We show qualitatively and quan- titatively that the physiologically based algorithm outperforms two clas- sical segmentation techniques. Further, we derive a formula to compute and visualize the uncertainty</abstract>
+	</publication>
+	<publication>
+		<title>Intra-retinal Layer Segmentation in Optical Coherence Tomography Using an Active Contour Approach</title>
+		<year>2009</year>
+		<authors>azadeh yazdanpanah,ghassan hamarneh,marinko sarunic</authors>
+		<jconf>Medical Image Computing and Computer-Assisted Intervention</jconf>
+		<label>73</label>
+		<keyword>Active Contour;Optical Coherence Tomography;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

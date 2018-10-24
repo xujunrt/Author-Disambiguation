@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Xu Wang</FullName>
+	<publication>
+		<title>Self-organization Data Gathering for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>hongli xu,liusheng huang,junmin wu,yang wang,jichun wang</authors>
+		<jconf>Mobile Sensor Networks</jconf>
+		<label>1131</label>
+		<keyword>Data Gathering;Self Organization;Wireless Sensor Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

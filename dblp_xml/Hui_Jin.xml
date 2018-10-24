@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Hui Jin</FullName>
+	<publication>
+		<title>Note on an Auction Procedure for a Matching Game in Polynomial Time</title>
+		<year>2006</year>
+		<authors>winfried hochstättler,robert nickel</authors>
+		<jconf>Algorithmic Applications in Management</jconf>
+		<label>304</label>
+		<keyword>Bipartite Matching;Polynomial Time;Polynomial Time Algorithm;</keyword>
+		<organization>null</organization>
+		<abstract>We derive a polynomial time algorithm to compute a stable solution in a mixed matching market from an auction procedure as presented by Eriksson and Karlander (2). As a special case we derive an O(nm) algo- rithm for bipartite matching that does not seem to have appeared in the literature yet.</abstract>
+	</publication>
+</person>

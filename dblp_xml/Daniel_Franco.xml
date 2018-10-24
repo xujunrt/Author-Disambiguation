@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Daniel Franco</FullName>
+	<publication>
+		<title>Dynamic and Distributed Multipath Routing Policy for High-Speed Cluster Networks</title>
+		<year>2009</year>
+		<authors>diego lugones,emilio luque</authors>
+		<jconf>Cluster Computing and the Grid</jconf>
+		<label>166</label>
+		<keyword>High Speed;Multipath Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Fast-Response Dynamic Routing Balancing for high-speed interconnection networks</title>
+		<year>2009</year>
+		<authors>diego lugones,emilio luque</authors>
+		<jconf>Cluster Computing</jconf>
+		<label>166</label>
+		<keyword>Dynamic Routing;High Speed;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A Multipath Fault-Tolerant Routing Method for High-Speed Interconnection Networks</title>
+		<year>2009</year>
+		<authors>gonzalo zarza,diego lugones,emilio luque</authors>
+		<jconf>European Conference on Parallel Processing</jconf>
+		<label>166</label>
+		<keyword>Fault-tolerant Routing;High Speed;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Avoiding Communication HotSpots in Interconnection Networks</title>
+		<year>1999</year>
+		<authors>i. garcés,emilio luque</authors>
+		<jconf>Hawaii International Conference on System Sciences</jconf>
+		<label>166</label>
+		<keyword>Adaptive Routing;High Speed;Hot Spot;Interconnection Network;Network Traffic;Parallel Computer;Path Selection;Distribution Uniformity;</keyword>
+		<organization>null</organization>
+		<abstract>In creating interconnection networks for parallel computers an efficient design is crucial because of its impact on the performance. A high speed routing scheme that minimises contention and avoids the formation of hot-spots should be included. We have developed a new method to uniformly balance communication traffic over the interconnection network called Distributed Routing Balancing (DRB) based on limited and</abstract>
+	</publication>
+	<publication>
+		<title>Adaptive Multipath Routing for Congestion Control in InfiniBand Networks</title>
+		<year>2009</year>
+		<authors>diego lugones,emilio luque</authors>
+		<jconf>International Conference on Parallel Processing</jconf>
+		<label>166</label>
+		<keyword>Congestion Control;Multipath Routing;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>A new method to make communication latency uniform: distributed routing balancing</title>
+		<year>1999</year>
+		<authors>i. garcés,emilio luque</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<label>166</label>
+		<keyword>Adaptive Routing;Hot Spot;Interconnection Network;Network Traffic;Path Selection;Uniform Distribution;Distribution Uniformity;</keyword>
+		<organization>null</organization>
+		<abstract>We have developed a new method to uniformly balance communication traffic over the interconnection network called Distributed Routing Balancing (DRB) that is based on limited and load-controlled path expansion in order to maintain a low message latency. DRB defines how to create alternative paths to expand single paths (expanded path definition) and when to use them depending on traffic load</abstract>
+	</publication>
+	<publication>
+		<title>High-speed network modeling for full system simulation</title>
+		<year>2009</year>
+		<authors>diego lugones,dolores rexachs,juan c. moure,emilio luque,eduardo argollo,ayose falcón,daniel ortega,paolo faraboschi</authors>
+		<jconf>IEEE International Symposium on Workload Characterization</jconf>
+		<label>166</label>
+		<keyword>High Speed Networks;System Simulation;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analytical Modeling of the Network Traffic Performance</title>
+		<year>1999</year>
+		<authors>i. garcés,emilio luque</authors>
+		<jconf>Modeling, Analysis, and Simulation On Computer and Telecommunication Systems</jconf>
+		<label>166</label>
+		<keyword>Analytical Model;Network Traffic;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Models for high-speed interconnection networks performance analysis</title>
+		<year>2009</year>
+		<authors>diego lugones,eduardo argollo,emilio luque</authors>
+		<jconf>Modeling, Analysis, and Simulation On Computer and Telecommunication Systems</jconf>
+		<label>166</label>
+		<keyword>High Speed;Interconnection Network;Performance Analysis;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>TransCom: A Communication Microkernel for Transputers</title>
+		<year>1996</year>
+		<authors>juan c. moure,elisa heymann,emilio luque</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>166</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>FT-DRB: A Method for Tolerating Dynamic Faults in High-Speed Interconnection Networks</title>
+		<year>2010</year>
+		<authors>gonzalo zarza,diego lugones,emilio luque</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>166</label>
+		<keyword>High Speed;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Deadlock Avoidance for Interconnection Networks with Multiple Dynamic Faults</title>
+		<year>2010</year>
+		<authors>gonzalo zarza,diego lugones,emilio luque</authors>
+		<jconf>Parallel, Distributed and Network-Based Processing</jconf>
+		<label>166</label>
+		<keyword>Deadlock Avoidance;Interconnection Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Analysis of Distributed Routing Balancing behavior</title>
+		<year>2002</year>
+		<authors>i. garcés</authors>
+		<jconf>ACM Symposium on Applied Computing</jconf>
+		<label>166</label>
+		<keyword>Adaptive Routing;Distributed Environment;Hot Spot;Interconnection Network;Load Balance;</keyword>
+		<organization>null</organization>
+		<abstract>Distributed Routing Balancing (DRB) is a method developed to uniformly balance communication traffic over the interconnection network. DRB takes a similar approach to communications as load balancing does to processes in a distributed environment. The key ideas behind DRB are to distribute communication load based on limited and load-controlled path expansion, in order to maintain low message latency. In this</abstract>
+	</publication>
+	<publication>
+		<title>Dynamic Routing Balancing in Parallel Computer Interconnection Networks</title>
+		<year>1998</year>
+		<authors>i. garcés,emilio luque</authors>
+		<jconf>Vector and Parallel Processing</jconf>
+		<label>166</label>
+		<keyword>Dynamic Routing;Interconnection Network;Parallel Computer;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>

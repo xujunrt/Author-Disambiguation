@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Michael Jackson</FullName>
+	<publication>
+		<title>Neural network classification of infrared spectra of control and Alzheimer's diseased tissue</title>
+		<year>1995</year>
+		<authors>nicolino j. pizzi,l. p. choo,james r. mansfield,w. c. halliday,henry h. mantsch,ray l. somorjai</authors>
+		<jconf>Artificial Intelligence in Medicine</jconf>
+		<label>690</label>
+		<keyword>alzheimer's disease;Infrared Spectra;Neural Network;</keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+	<publication>
+		<title>Immunofluorescence Imaging as a Tool for Studying the Pharmacokinetics of a Human Monoclonal Single Chain Fragment Antibody</title>
+		<year>2002</year>
+		<authors>bram ramjiawan,robert e. ariano,henry h. mantsch,pradip maiti</authors>
+		<jconf>IEEE Transactions on Medical Imaging</jconf>
+		<label>690</label>
+		<keyword></keyword>
+		<organization>null</organization>
+		<abstract></abstract>
+	</publication>
+</person>
