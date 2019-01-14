@@ -1,6 +1,6 @@
 ### Reference
 If you find this work useful for your research, please consider citing the following paper:
-
+```python
 @inproceedings{DBLP:conf/cikm/XuSLF18,
   author    = {Jun Xu and
                Siqi Shen and
@@ -19,3 +19,4 @@ If you find this work useful for your research, please consider citing the follo
   biburl    = {https://dblp.org/rec/bib/conf/cikm/XuSLF18},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
