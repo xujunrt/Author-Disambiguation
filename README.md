@@ -1,5 +1,6 @@
 ### Reference
 If you find this work useful for your research, please consider citing the following paper:
++ A Network-embedding Based Method for Author Disambiguation+ 
 ```python
 @inproceedings{DBLP:conf/cikm/XuSLF18,
   author    = {Jun Xu and
